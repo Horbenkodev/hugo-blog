@@ -1,0 +1,10 @@
+{
+  "*.{js,jsx}": [
+    "npx --no-install prettier --log-level warn --write",
+    "npx --no-install eslint --fix"
+  ],
+  "*.{css,scss}": [
+    "npx --no-install prettier --log-level warn --write",
+    "npx --no-install stylelint --fix"
+  ]
+}

@@ -1,0 +1,59 @@
+# Temporary lock file while building
+/.hugo_build.lock
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+### JetBrains ###
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# User-specific stuff
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+[Dd]esktop.ini
+
+## OS X
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+## Node
+node_modules
+.eslintcache
+.stylelintcache
+
+## Hugo
+build
+resources
+public
+.hugo_build.lock
+
+## Dynamic data
+assets/generated
+data/generated
+src/generated
+.rsp.json
+
+## Env
+.env
+
+## gitkeep
+!**/.gitkeep
