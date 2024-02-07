@@ -1,2 +1,8 @@
-<h1>{{ site.Title }}</h1>
-{{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+<div style="display: flex; background-color: #111;">
+  <div class="Footer-logo">
+    <a href="/">
+      <img src="/img/logo.svg" alt="">
+    </a>
+  </div>
+  {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+</div>
