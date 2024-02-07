@@ -1,10 +1,81 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
+  <div style="color:grey; font-size:16px;">
+    {{ if .Params.categories }}
+      <strong>Categories:</strong>
+        {{range .Params.categories}}
+          <a href="{{ "/categories/" }}{{ . | urlize }}">{{ . }}
+          </a>
+      {{end}}
+    {{end}}
+  </div>
 
-  {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-  {{ $dateHuman := .Date | time.Format ":date_long" }}
-  <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+  <h1 style="text-align: center;">{{ .Title }}</h1>
 
-  {{ .Content }}
-  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+  {{ printf "Reading time: %d minutes" .ReadingTime }}
+
+
+  <div style="text-align: center;">
+    {{ $dateMachine := .Date | time.Format "2023-11-06T10:21:56.268Z" }}
+    {{ $dateHuman := .Date | time.Format ":date_long" }}
+    <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+  </div>
+
+  <div style="display: flex; flex-direction: column;">
+    <img src={{ .Params.image }} alt="" style="">
+
+    {{ with .Params.authors }}
+      <div class="authors">
+        {{ range $index, $element := . }}
+          <p>{{ . }}</p>
+        {{ end }}
+      </div>
+    {{ end }}
+
+    <ul>
+      {{ range .Params.featured }}
+      <li>
+        <a href="{{.flink}}">{{.fname}}</a>
+      </li>
+      {{ end }}
+    </ul>
+
+    <ul>
+      {{ range .Params.testimonials }}
+      <li>
+        <a href="{{.author.avatar}}">{{.author.name}}</a>
+      </li>
+      {{ end }}
+    </ul>
+
+  <div style="display: flex;  ">
+    <div>
+      {{ .Content }}
+    </div>
+
+    <div style="display: flex; flex-direction: column; width: 700px;">
+      <aside>
+        {{ .TableOfContents }}
+      </aside>
+
+      <div>
+        <h4>
+          Have question block
+        </h4>
+
+        <p>Full-stack developer with 8+ years of experience with lorem ipsum dolor.</p>
+      </div>
+
+      <div>
+        <h4>
+          Read next block
+        </h4>
+
+        <p>Why DevOps Is Vital For SaaS Projects</p>
+      </div>
+    </div>
+  </div>
+  {{ partial "questions.html" . }}
+  {{ partial "subscribe.html" . }}
+  {{ partial "keepReading.html" . }}
+  {{ partial "contact.html" . }}
 {{ end }}
