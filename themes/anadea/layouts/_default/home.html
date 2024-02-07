@@ -1,7 +1,20 @@
 {{ define "main" }}
-  {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
+  <div style="display: flex; justify-content: center; text-align: center;">
+    <div style="display: flex; align-items: center; width: 500px; height: 500px;">
+      Promote post
+    </div>
+
+    <div>
+      <div style="display: flex; align-items: center; width: 500px; height: 250px;">Top post</div>
+      <div style="display: flex; align-items: center; width: 500px; height: 250px;">Top post</div>
+    </div>
+  </div>
+  <div style="display: flex;">
+  {{ range .RegularPagesRecursive }}
+    <div>
+      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+      {{ .Summary }}
+    </div>
   {{ end }}
+  </div>
 {{ end }}
