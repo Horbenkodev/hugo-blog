@@ -1,1 +1,26 @@
-{ "extends": ["stylelint-config-standard"] }
+{
+  "plugins": [
+    "stylelint-codeguide"
+  ],
+  "extends": [
+    "stylelint-config-standard",
+    "stylelint-config-recess-order",
+    "stylelint-config-recommended-scss"
+  ],
+  "rules": {
+    "codeguide/max-empty-lines": 1,
+    "codeguide/string-quotes": "single",
+    "codeguide/at-rule-semicolon-newline-after": "always",
+    "color-hex-length": "long",
+    "selector-pseudo-element-colon-notation": "double",
+    "no-duplicate-selectors": null,
+    "declaration-block-no-redundant-longhand-properties": null,
+    "import-notation": "string",
+    "selector-pseudo-class-no-unknown": [
+      true,
+      {
+        "ignorePseudoClasses": ["global"]
+      }
+    ]
+  }
+}
