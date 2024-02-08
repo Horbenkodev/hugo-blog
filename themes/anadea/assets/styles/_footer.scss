@@ -1,0 +1,11 @@
+.footer-main-section {
+  display: grid;
+  grid-column-gap: 124px;
+  grid-template-columns: auto minmax(430px, 1fr) 174px;
+  padding-bottom: 50px;
+}
+
+.footer-nav {
+  display: flex;
+  gap: 16px;
+}
