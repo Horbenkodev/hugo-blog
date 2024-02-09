@@ -1,13 +1,14 @@
 {{ define "main" }}
-  <div style="color:grey; font-size:16px;">
-    {{ if .Params.categories }}
-      <strong>Categories:</strong>
-        {{range .Params.categories}}
-          <a href="{{ "/categories/" }}{{ . | urlize }}">{{ . }}
-          </a>
-      {{end}}
-    {{end}}
+  <div style="display: flex; justify-content: center; gap: 32px;">
+    {{ range $value := .Params.taxonomy }}
+      {{ range $key, $items := $value }}
+        {{range $item := $items}}
+          <a href={{ printf "%s/%s" $key ($item | urlize) | relURL }}>{{$item}}</a>
+        {{ end }}
+      {{ end }}
+    {{ end }}
   </div>
+
 
   <h1 style="text-align: center;">{{ .Title }}</h1>
 
@@ -30,22 +31,6 @@
         {{ end }}
       </div>
     {{ end }}
-
-    <ul>
-      {{ range .Params.featured }}
-      <li>
-        <a href="{{.flink}}">{{.fname}}</a>
-      </li>
-      {{ end }}
-    </ul>
-
-    <ul>
-      {{ range .Params.testimonials }}
-      <li>
-        <a href="{{.author.avatar}}">{{.author.name}}</a>
-      </li>
-      {{ end }}
-    </ul>
 
   <div style="display: flex;  ">
     <div>
