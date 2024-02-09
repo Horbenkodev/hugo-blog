@@ -10,11 +10,6 @@ featured:
 title: Vel concedo vix verus
 date: 2024-01-06T10:21:56.268Z
 description: "123123"
-testimonials:
-  - quote: Everything is awesome!
-    author:
-      name: Emmet
-      avatar: /img/emmet.jpg
 tags:
   - News
   - Business Tips
