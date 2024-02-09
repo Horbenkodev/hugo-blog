@@ -1,0 +1,70 @@
+local_backend: true
+
+backend:
+  name: git-gateway
+  branch: decap-cms-integration
+
+media_folder: "static/img" # Folder where user uploaded files should go
+public_folder: "img"
+
+publish_mode: editorial_workflow
+
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "content/blog/posts"
+    path: "{{slug}}/index"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Short Description", name: "description", widget: "text"}
+
+      - label: "Promote posts"
+        name: "promote posts"
+        widget: "object"
+        summary: '{{fields.name}}: {{fields.birthdate}}'
+        fields:
+          - {label: "Promote", name: "promote", widget: "boolean", required: false, default: false}
+          - {label: "url", name: "url", widget: "string", required: false}
+          - {label: "Top", name: "top", widget: "boolean", required: false, default: false}
+
+      - label: "Questionary"
+        name: "questionary"
+        widget: "list"
+        summary: '{{fields.quote}} - {{fields.question.name}}'
+        fields:
+          - {label: Question, name: question, widget: string, required: false, default: "Everything is awesome!"}
+          - {label: Answer, name: answer, widget: string, required: false, default: "Everything is awesome!"}
+
+      - label: "Authors"
+        name: "authors"
+        widget: "select"
+        required: false
+        multiple: true
+        options: ["Eric Theodore Cartman", "Kyle Broflovski", "Randy Marsh"]
+
+      - label: "Taxonomy"
+        name: "taxonomy"
+        widget: "list"
+        summary: '{{fields.quote}} - {{fields.question.name}}'
+        fields:
+          - {label: Categories, name: categories, widget: select, multiple: true, required: false, options: ["Business Tips", "News", "Programming"]}
+          - {label: Industry, name: industry, widget: select, multiple: true, required: false, options: ["Dating", "Financial", "Healthcare"]}
+
+  - name: "authors"
+    label: "Authors"
+    folder: "content/authors"
+    path: "{{slug}}/index"
+    create: true
+    fields:
+      - {label: "Name", name: "title", widget: "string"}
+      - {label: "Member Since", name: "memberSince", widget: "datetime"}
+      - {label: "Avatar", name: "avatar", widget: "image", required: false}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Short Description", name: "shortDescription", widget: "text"}
+      - {label: "Position", name: "position", widget: "string"}
+      - {label: "Posts", name: "posts", widget: "select", multiple: true, options: ["Post 1", "Post 2"]}
+
