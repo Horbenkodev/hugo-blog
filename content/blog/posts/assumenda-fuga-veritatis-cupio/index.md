@@ -3,7 +3,7 @@ title: Assumenda fuga veritatis cupio
 date: 2024-02-09T11:02:36.021Z
 image: test.png
 description: Beatus reiciendis barba laboriosam. Corona bis adsidue vestrum
-  talus talio calco terror theologus cras.
+  talus talio calco terror theologus cras
 promote posts:
   promote: false
   top: false
