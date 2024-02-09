@@ -1,24 +1,23 @@
-/* stylelint-disable import-notation */
-@import "footer";
+@import 'footer';
 
 body {
-  color: #222;
+  margin: 1rem;
   font-family: sans-serif;
   line-height: 1.5;
-  margin: 1rem;
+  color: #222222;
 }
 
 header {
-  border-bottom: 1px solid #222;
   margin-bottom: 1rem;
+  border-bottom: 1px solid #222222;
 }
 
 footer {
-  border-top: 1px solid #222;
   margin-top: 1rem;
+  border-top: 1px solid #222222;
 }
 
 a {
-  color: #00e;
+  color: #0000ee;
   text-decoration: none;
 }
