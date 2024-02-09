@@ -1,9 +1,13 @@
-+++
-title = 'Post 3'
-date = 2023-03-15T11:00:00-07:00
-draft = false
-tags = ['red','green','blue']
-+++
+---
+title: Post 3
+date: 2023-03-15T18:00:00.000Z
+draft: false
+tags:
+  - red
+  - green
+  - blue
+description: werew
+---
 
 ## Table of Content h2
 
