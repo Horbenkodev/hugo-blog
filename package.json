@@ -20,6 +20,7 @@
     "prettier-plugin-go-template": "0.0.15",
     "stylelint": "16.2.1",
     "stylelint-codeguide": "2.0.0",
+    "stylelint-config-recess-order": "4.6.0",
     "stylelint-config-recommended-scss": "14.0.0",
     "stylelint-config-standard": "36.0.0"
   }
