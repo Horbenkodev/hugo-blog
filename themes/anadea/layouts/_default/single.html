@@ -12,8 +12,12 @@
 
   <h1 style="text-align: center;">{{ .Title }}</h1>
 
-  {{ printf "Reading time: %d minutes" .ReadingTime }}
-
+  {{ $readTime := mul (div (countwords .Content) 100.0) 60 }}
+  <div>
+    Reading time:
+      {{ math.Floor (div $readTime 60) }} minutes
+      and {{ mod $readTime 60 }} seconds.
+  </div>
 
   <div style="text-align: center;">
     {{ $dateMachine := .Date | time.Format "2023-11-06T10:21:56.268Z" }}
