@@ -51,13 +51,25 @@ collections:
         value_field: "name"
         display_fields: ["name"]
 
-      - label: "Taxonomy"
-        name: "taxonomy"
-        widget: "list"
-        summary: '{{fields.quote}} - {{fields.question.name}}'
-        fields:
-          - {label: Categories, name: categories, widget: select, multiple: true, required: false, options: ["Business Tips", "News", "Programming"]}
-          - {label: Industry, name: industry, widget: select, multiple: true, required: false, options: ["Dating", "Financial", "Healthcare"]}
+      - label: "Categories"
+        name: "categories"
+        widget: "relation"
+        file: "categories"
+        multiple: true
+        collection: "taxonomy"
+        search_fields: ["categories.*.name"]
+        display_fields: ["categories.*.name"]
+        value_field: "categories.*.name"
+
+      - label: "Industries"
+        name: "industries"
+        widget: "relation"
+        file: "industries"
+        multiple: true
+        collection: "taxonomy"
+        search_fields: ["industries.*.name"]
+        display_fields: ["industries.*.name"]
+        value_field: "industries.*.name"
 
   - label: "Authors"
     label_singular: "Author"
@@ -73,3 +85,35 @@ collections:
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Short Description", name: "shortDescription", widget: "text"}
       - {label: "Position", name: "position", widget: "string"}
+
+  - label: "Taxonomy"
+    name: "taxonomy"
+    delete: false
+    files:
+      - file: 'data/categories.json'
+        label: 'Categories'
+        name: 'categories'
+        editor:
+          preview: false
+        fields:
+          - label: 'Categories'
+            label_singular: "Category"
+            name: 'categories'
+            widget: 'list'
+            allow_add: true
+            fields:
+              - { label: 'Name', name: 'name', widget: 'string' }
+      - file: 'data/industries.json'
+        label: 'Industries'
+        name: 'industries'
+        editor:
+          preview: false
+        fields:
+          - label: 'industries'
+            label_singular: "Industry"
+            name: 'industries'
+            expanded: false
+            widget: 'list'
+            allow_add: true
+            fields:
+              - { label: 'Name', name: 'name', widget: 'string', expanded: false}
