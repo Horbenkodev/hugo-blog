@@ -1,11 +1,12 @@
 <div>
-  <h3>
-    Keep reading
-  </h3>
+  {{ $related := .Site.RegularPages.Related . | first 3 }}
+  {{ with $related }}
+    <h3>See Also</h3>
+    <ul>
+      {{ range . }}
+        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+      {{ end }}
+    </ul>
+  {{ end }}
 
-  <div style="display: flex; gap: 32px;">
-    <div>Post 1</div>
-    <div>Post 2</div>
-    <div>Post 3</div>
-  </div>
 </div>
