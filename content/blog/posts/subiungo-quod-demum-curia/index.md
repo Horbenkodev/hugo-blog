@@ -3,14 +3,16 @@ title: Subiungo quod demum curia
 date: 2024-02-14T12:49:23.645Z
 image: test.png
 description: Valetudo aetas color vere tabesco solio. Velociter teres possimus tui cohaero.
-promote posts:
-  promote: false
-  top: false
+featured:
+  top: true
 questionary:
   - question: Everything is awesome!
     answer: Everything is awesome!
 authors:
   - Eric Theodore Cartman
+promote posts:
+  promote: false
+  top: false
 categories:
   - Trends
 industries:

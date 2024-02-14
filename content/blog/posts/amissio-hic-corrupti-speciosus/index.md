@@ -4,14 +4,16 @@ date: 2024-02-14T12:57:00.001Z
 image: test.png
 description: Dapifer sophismata bonus. Cenaculum conservo aptus sint tergo adamo
   cuius decerno commodo studio.
-promote posts:
-  promote: false
-  top: false
+featured:
+  promote: true
 questionary:
   - question: Everything is awesome!
     answer: Everything is awesome!
 authors:
   - Kenneth "Kenny" McCormick
+promote posts:
+  promote: false
+  top: true
 categories:
   - Trends
 industries:

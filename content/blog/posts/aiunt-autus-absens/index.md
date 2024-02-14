@@ -4,9 +4,8 @@ date: 2024-02-14T12:55:08.698Z
 image: test.png
 description: Votum degenero claro cunae vicinus solio vito. Canis demoror ipsum
   atqui aestas asper corroboro accusantium tertius.
-promote posts:
-  promote: false
-  top: false
+featured:
+  top: true
 questionary:
   - question: Everything is awesome!
     answer: Everything is awesome!

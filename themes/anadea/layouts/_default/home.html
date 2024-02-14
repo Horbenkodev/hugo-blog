@@ -1,14 +1,28 @@
 {{ define "main" }}
-  <div style="display: flex; justify-content: center; text-align: center;">
-    <div style="display: flex; align-items: center; width: 500px; height: 500px;">
-      Promote post
-    </div>
 
+{{- $promote := where .Site.RegularPages "Params.featured.promote" "==" true -}}
+{{- $top := where .Site.RegularPages "Params.featured.top" "==" true -}}
+
+
+
+<div style="display: flex; justify-content: center; align-items: center; text-align: center;">
+  {{ range first 1 $promote }}
+      <div>
+        <h2><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></h2>
+        {{ .Summary }}
+      </div>
+  {{ end }}
+
+  <div>
+    {{ range first 2 $top }}
     <div>
-      <div style="display: flex; align-items: center; width: 500px; height: 250px;">Top post</div>
-      <div style="display: flex; align-items: center; width: 500px; height: 250px;">Top post</div>
+      <h2><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></h2>
+      {{ .Summary }}
     </div>
+    {{ end }}
   </div>
+</div>
+
   <div style="display: grid; grid-template-columns: 1fr 1fr 1fr;">
     {{ range (.Paginate .RegularPagesRecursive).Pages }}
       <div>

@@ -23,8 +23,8 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Short Description", name: "description", widget: "text"}
 
-      - label: "Promote posts"
-        name: "promote posts"
+      - label: "Featured posts"
+        name: "featured"
         widget: "object"
         summary: '{{fields.name}}: {{fields.birthdate}}'
         fields:

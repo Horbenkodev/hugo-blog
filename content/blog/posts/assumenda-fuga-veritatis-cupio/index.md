@@ -4,9 +4,8 @@ date: 2024-02-09T11:02:36.021Z
 image: test.png
 description: Beatus reiciendis barba laboriosam. Corona bis adsidue vestrum
   talus talio calco terror theologus cras.
-promote posts:
-  promote: false
-  top: false
+featured:
+  top: true
 questionary:
   - question: Test question 1
     answer: "Test answer 1 "
@@ -20,6 +19,9 @@ taxonomy:
       - News
     industry:
       - Financial
+promote posts:
+  promote: true
+  top: false
 ---
 # Beatus reiciendis barba laboriosam.
 Beatus reiciendis barba laboriosam.Beatus reiciendis barba laboriosam.Beatus reiciendis barba laboriosam.Beatus reiciendis barba laboriosam.Beatus reiciendis barba laboriosam.
