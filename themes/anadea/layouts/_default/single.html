@@ -1,14 +1,15 @@
 {{ define "main" }}
-  <div style="display: flex; justify-content: center; gap: 32px;">
-    {{ range $value := .Params.taxonomy }}
-      {{ range $key, $items := $value }}
-        {{range $item := $items}}
-          <a href={{ printf "%s/%s" $key ($item | urlize) | relURL }}>{{$item}}</a>
+{{ $taxonomyList := slice "categories" "industries" }}
+  <ul style="display: flex; justify-content: center; gap: 32px; list-style-type: none;">
+    {{ range $taxonomyList }}
+      {{ with $.Page.GetTerms . }}
+        {{ range . }}
+          <li class="tag"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
         {{ end }}
+
       {{ end }}
     {{ end }}
-  </div>
-
+  </ul>
 
   <h1 style="text-align: center;">{{ .Title }}</h1>
 

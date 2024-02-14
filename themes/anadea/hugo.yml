@@ -9,8 +9,8 @@ menus:
     - name: Posts
       pageRef: /posts
       weight: 20
-    - name: Tags
-      pageRef: /tags
+    - name: Taxonomy
+      pageRef: /taxonomy
       weight: 30
 module:
   hugoVersion:
@@ -19,4 +19,3 @@ module:
 taxonomies:
   category: categories
   industry: industries
-  tag: tags

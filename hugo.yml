@@ -1,6 +1,43 @@
 baseURL: 'https://example.org/'
 languageCode: en-us
-title: My New Hugo Site
+title: Home
 theme: anadea
 paginate: 9
 paginatePath: page
+taxonomies:
+  category: "categories"
+  industry: "industries"
+# Related posts
+related:
+  includeNewer: false
+  indices:
+  - applyFilter: false
+    cardinalityThreshold: 0
+    name: keywords
+    pattern: ""
+    toLower: true
+    type: basic
+    weight: 100
+  - applyFilter: false
+    cardinalityThreshold: 100
+    name: date
+    pattern: ""
+    toLower: true
+    type: basic
+    weight: 100
+  - applyFilter: false
+    cardinalityThreshold: 100
+    name: categories
+    pattern: ""
+    toLower: true
+    type: basic
+    weight: 100
+  - applyFilter: false
+    cardinalityThreshold: 100
+    name: industries
+    pattern: ""
+    toLower: true
+    type: basic
+    weight: 100
+  threshold: 100
+  toLower: true
