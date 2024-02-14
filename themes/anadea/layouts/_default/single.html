@@ -1,4 +1,11 @@
 {{ define "main" }}
+  <ol style="display: flex; gap: 12px; list-style-type: none;">
+    {{- range .Ancestors.Reverse }}
+      <li><a href="{{ .RelPermalink }}">{{ or .Title .Title "Blog" }}</a></li>
+    {{- end }}
+    <li><a href="{{ .RelPermalink }}">{{ or .Title .Title "Blog" }}</a></li>
+  </ol>
+
 {{ $taxonomyList := slice "categories" "industries" }}
   <ul style="display: flex; justify-content: center; gap: 32px; list-style-type: none;">
     {{ range $taxonomyList }}
