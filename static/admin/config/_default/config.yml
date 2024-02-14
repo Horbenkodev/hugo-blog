@@ -55,6 +55,7 @@ collections:
         name: "categories"
         widget: "relation"
         file: "categories"
+        required: false
         multiple: true
         collection: "taxonomy"
         search_fields: ["categories.*.name"]
@@ -65,6 +66,7 @@ collections:
         name: "industries"
         widget: "relation"
         file: "industries"
+        required: false
         multiple: true
         collection: "taxonomy"
         search_fields: ["industries.*.name"]

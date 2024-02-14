@@ -16,7 +16,6 @@
   <div>
     Reading time:
       {{ math.Floor (div $readTime 60) }} minutes
-      and {{ mod $readTime 60 }} seconds.
   </div>
 
   <div style="text-align: center;">
@@ -36,12 +35,12 @@
       </div>
     {{ end }}
 
-  <div style="display: flex;  ">
-    <div>
+  <div style="display: flex; gap: 32px">
+    <div style="width: 70%">
       {{ .Content }}
     </div>
 
-    <div style="display: flex; flex-direction: column; width: 700px;">
+    <div style="display: flex; flex-direction: column; width: 30%;">
       <aside>
         {{ .TableOfContents }}
       </aside>
@@ -58,7 +57,7 @@
     </div>
   </div>
   {{ partial "questions.html" . }}
-  {{ partial "subscribe.html" . }}
+  {{/*  {{ partial "subscribe.html" . }}  */}}
   {{ partial "keepReading.html" . }}
-  {{ partial "contact.html" . }}
+  {{/*  {{ partial "contact.html" . }}  */}}
 {{ end }}

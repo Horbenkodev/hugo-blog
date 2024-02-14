@@ -1,8 +1,5 @@
 <div>
   <h2>Have questions?</h2>
-
-  <code>{{ debug.Dump ( jsonify (dict "indent" "  ") . ) }}</code>
-
   {{ range .Params.questionary }}
     <div>
       <button>{{.question}}</button>
