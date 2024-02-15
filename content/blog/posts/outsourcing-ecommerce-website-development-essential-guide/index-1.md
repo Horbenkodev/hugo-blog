@@ -1,5 +1,5 @@
 ---
-title: "Outsourcing eCommerce Website Development: Essential Guidew"
+title: "Outsourcing eCommerce Website Development: Essential Guide"
 date: 2024-02-12T14:55:00.000Z
 image: ecommerce_outsourcing.png
 description: Want to build an eCommerce website but don’t have in-house
