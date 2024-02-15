@@ -5,17 +5,17 @@
 
 
 
-<div style="display: flex; justify-content: center; align-items: center; text-align: center;">
+<div class="featured">
   {{ range first 1 $promote }}
-      <div>
+      <div class="promote">
         <h2><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></h2>
         {{ .Summary }}
       </div>
   {{ end }}
 
-  <div>
+  <div class="top-posts">
     {{ range first 2 $top }}
-    <div>
+    <div class="top">
       <h2><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></h2>
       {{ .Summary }}
     </div>
@@ -23,9 +23,9 @@
   </div>
 </div>
 
-  <div style="display: grid; grid-template-columns: 1fr 1fr 1fr;">
-    {{ range (.Paginate .RegularPagesRecursive).Pages }}
-      <div>
+  <div class="posts">
+    {{ range (.Paginate .Site.RegularPages).Pages }}
+      <div class="card">
         <h2><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></h2>
         {{ .Summary }}
       </div>
