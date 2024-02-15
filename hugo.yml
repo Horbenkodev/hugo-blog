@@ -4,6 +4,7 @@ title: Anadea Info
 theme: anadea
 paginate: 9
 paginatePath: page
+contentDir: content/blog
 taxonomies:
   category: categories
   industry: industries
