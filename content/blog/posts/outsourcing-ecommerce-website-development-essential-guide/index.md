@@ -1,16 +1,16 @@
 ---
-title: "Outsourcing eCommerce Website Development: Essential Guide"
+title: eCommerce industry is actively expanding
 date: 2024-02-14T12:26:53.947Z
 image: test.png
 description: Decipio amet dedecor. Vere comis umquam vesper.
-promote posts:
-  promote: false
-  top: false
 questionary:
   - question: Everything is awesome!
     answer: Everything is awesome!
 authors:
   - Kyle Broflovski
+promote posts:
+  promote: false
+  top: false
 categories:
   - Business Tips
   - Programming
