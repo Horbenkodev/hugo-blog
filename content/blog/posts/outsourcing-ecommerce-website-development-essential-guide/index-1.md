@@ -37,6 +37,10 @@ industries:
 
 Today the eCommerce industry is actively expanding. And there are no signs that may indicate that is going to start losing momentum any time soon. The revenue of the eCommerce market was over $3,154 billion in 2023 and in 2024, it is expected to be around $3,647 billion. Though these figures already seem to be rather impressive, analysts have even more positive forecasts for 2028, when the revenue of the indicated market will reach the mark of $5,307 billion. It means that the CAGR for this period will be close to 10%. And given such sentiments in the industry, it is not surprising that the number of [eCommerce projects](https://anadea.info/blog/outsourcing-e-commerce-website-development#:~:text=the%20number%20of-,eCommerce%20projects,-is%20growing%20as) is growing as well which boosts the demand for eCommerce outsourcing services.
 
+
+
+
+
 ![qweqweq](worldwide_ecommerce_revenue_by_statista.png)
 
 In this blog post, we are going to talk about the reasons behind the popularity of outsourcing eCommerce website development and the key peculiarities of this approach to project realization.
@@ -46,6 +50,61 @@ In this blog post, we are going to talk about the reasons behind the popularity 
 Ecommerce full outsourcing presupposes hiring an external provider to deal with all tasks related to creating, managing, and running an online store. These projects typically include such tasks as website development, product sourcing, customer service, etc. However, very often businesses rely on an eCommerce outsourcing company only in tech aspects. In other words, in such cases, a service provider is responsible for building, maintaining, and updating an outsourced eCommerce solution.
 
 In the IT industry, outsourcing is quite a popular approach to building, supporting, and modernizing solutions as the option to create an in-house development team is not feasible for many companies. In 2024, the revenue in the IT outsourcing market (including not only development services but also web hosting, administration outsourcing and other related tasks) is expected to be at the level of around $512.5 billion. According to forecasts, by 2028, it will reach $777.7 billion.
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>2022</th>
+            <th>2023</th>
+            <th>2024</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Cloud Application Infrastructure Services (PaaS)</td>
+            <td>111,976</td>
+            <td>138,962</td>
+            <td>170,355</td>
+        </tr>
+        <tr>
+            <td>Cloud Application Services (SaaS)</td>
+            <td>167,342</td>
+            <td>197,288</td>
+            <td>232,296</td>
+        </tr>
+        <tr>
+            <td>Cloud Business Process Services (BPaaS)</td>
+            <td>59,861</td>
+            <td>65,240</td>
+            <td>71,063</td>
+        </tr>
+        <tr>
+            <td>Cloud Desktop-as-a-Service (DaaS)</td>
+            <td>2,525</td>
+            <td>3,122</td>
+            <td>3,535</td>
+        </tr>
+        <tr>
+            <td>Cloud Management and Security Services</td>
+            <td>34,487</td>
+            <td>42,401</td>
+            <td>51,871</td>
+        </tr>
+        <tr>
+            <td>Cloud System Infrastructure Services (IaaS)</td>
+            <td>114,786</td>
+            <td>150,310</td>
+            <td>195,446</td>
+        </tr>
+        <tr>
+            <td><b>Total Market</b></td>
+            <td><b>490,977</b></td>
+            <td><b>597,325</b></td>
+            <td><b>724,566</b></td>
+        </tr>
+    </tbody>
+</table>
 
 ![asdad](it_and_ecommerce_outsourcing_market.png)
 
