@@ -41,3 +41,8 @@ related:
       weight: 100
   threshold: 100
   toLower: true
+
+  markup:
+    goldmark:
+      renderer:
+        unsafe: true
