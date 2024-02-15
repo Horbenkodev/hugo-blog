@@ -119,3 +119,22 @@ collections:
             allow_add: true
             fields:
               - { label: 'Name', name: 'name', widget: 'string', expanded: false}
+
+  - name: "site_settings"
+    label: "Site Settings"
+    files:
+      - file: "hugo.yml"
+        label: Hugo Config
+        name: config
+        editor:
+          preview: false
+        fields:
+          - {label: Site Title for Browser Tab, name: title, widget: string}
+          - label: Params
+            name: params
+            widget: object
+            fields:
+              - label: Open Graph Image
+                name: images
+                widget: list
+                field: { label: Image, name: image, widget: image }
