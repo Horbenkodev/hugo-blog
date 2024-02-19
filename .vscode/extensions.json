@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "jinliming2.vscode-go-template",
+        "budparr.language-hugo-vscode",
+        "kaellarkin.hugo-shortcode-syntax",
+        "eliostruyf.vscode-hugo-themer",
+        "esbenp.prettier-vscode",
+        "stylelint.vscode-stylelint",
+        "golang.go"
+    ]
+}
