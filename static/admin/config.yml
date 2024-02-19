@@ -1,0 +1,21 @@
+local_backend: true
+
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "static/img"
+public_folder: "img"
+
+publish_mode: editorial_workflow
+
+collections:
+  - name: "posts"
+    label: "Posts"
+    label_singular: "Post"
+    folder: "content/posts"
+    path: "{{slug}}/index"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+
