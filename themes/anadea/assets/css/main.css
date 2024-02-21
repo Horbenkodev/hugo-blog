@@ -1,0 +1,22 @@
+body {
+  max-width: 768px;
+  margin: 1rem;
+  font-family: sans-serif;
+  line-height: 1.5;
+  color: #222222;
+}
+
+header {
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #222222;
+}
+
+footer {
+  margin-top: 1rem;
+  border-top: 1px solid #222222;
+}
+
+a {
+  color: #0000ee;
+  text-decoration: none;
+}
