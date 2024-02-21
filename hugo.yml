@@ -1,3 +1,14 @@
 baseURL: https://blog.anadea.info
 languageCode: en-us
 title: Blog Anadea Info
+taxonomies:
+  category: categories
+  industry: industries
+  author: authors
+module:
+  hugoVersion:
+    extended: true
+    min: 0.122.0
+  imports:
+    - path: anadea
+

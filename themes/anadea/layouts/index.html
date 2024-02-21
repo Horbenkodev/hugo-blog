@@ -1,0 +1,17 @@
+{{ define "main" }}
+{{- $pages := where .Site.Pages "Type" "eq" "posts" -}}
+{{- $promotePages := where $pages ".Params.promote" "eq" true -}}
+{{- $topPages := where $pages ".Params.top" "eq" true -}}
+
+{{- $feed := where $pages ".Params.promote" "eq" false -}}
+{{- $feed = where $feed ".Params.top" "eq" false -}}
+{{- $paginator := .Paginate $feed -}}
+
+  <h1>{{ .Title }}</h1>
+  <h2>/index.html</h2>
+  {{ .Content }}
+  {{ range .Site.RegularPages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ .Summary }}
+  {{ end }}
+{{ end }}
