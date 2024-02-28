@@ -11,4 +11,11 @@ module:
     min: 0.122.0
   imports:
     - path: anadea
-
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    parser:
+      attribute:
+        block: true
+      wrapStandAloneImageWithinParagraph: false

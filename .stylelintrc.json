@@ -21,6 +21,12 @@
       {
         "ignorePseudoClasses": ["global"]
       }
+    ],
+    "selector-class-pattern": [
+      "^([A-Za-z]\\w*)(\\-([a-z]\\w*))?(\\-\\-([a-z]\\w*))?$",
+      {
+        "resolveNestedSelectors": true
+      }
     ]
   }
 }

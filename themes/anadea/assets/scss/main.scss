@@ -1,0 +1,36 @@
+@import "normalizer";
+@import "containers";
+@import "fonts";
+@import "markdown";
+@import "quotes";
+@import "breadcrumbs";
+@import "taxonomy";
+@import "postHead";
+@import "shortcodes";
+
+body {
+  margin: 1rem;
+  line-height: 1.5;
+  color: #222222;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+header {
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #222222;
+}
+
+footer {
+  margin-top: 1rem;
+  border-top: 1px solid #222222;
+}
+
+a {
+  color: #111111;
+  text-decoration: underline;
+}
+
+.center {
+  text-align: center;
+}

@@ -1,0 +1,25 @@
+.taxonomy {
+  display: flex;
+  gap: 32px;
+  justify-content: center;
+  list-style-type: none;
+
+  &_tag {
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    height: 28px;
+    padding: 0 10px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration: none;
+    border: 1px solid #5e7282;
+    border-radius: 5000px;
+  }
+
+  a {
+    color: #5e7282;
+    text-decoration: none;
+  }
+}
