@@ -8,7 +8,7 @@
 {{- $paginator := .Paginate $feed -}}
 
   <h1>{{ .Title }}</h1>
-  <h2>/index.html</h2>
+
   {{ .Content }}
   {{ range .Site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>

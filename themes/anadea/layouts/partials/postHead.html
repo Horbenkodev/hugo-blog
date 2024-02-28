@@ -1,0 +1,42 @@
+<div class="container container__w1300">
+  <div class="postHead">
+    <ol class="breadcrumbs">
+      {{- range .Ancestors.Reverse }}
+        <li><a class="breadcrumbs_item" href="{{ .RelPermalink }}">{{ or .Title .Title "Blog" }}</a></li>
+      {{- end }}
+      <li><a class="breadcrumbs_lastItem" href="{{ .RelPermalink }}">{{ or .Title .Title "Blog" }}</a></li>
+    </ol>
+
+    {{ $taxonomyList := slice "categories" "industries" }}
+    <ul class="taxonomy">
+      {{ range $taxonomyList }}
+        {{ with $.Page.GetTerms . }}
+          {{ range . }}
+            <li class="taxonomy_tag"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </ul>
+
+    <h1 class="postHead_title">{{ .Title }}</h1>
+
+    {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+    {{ $dateHuman := .Date | time.Format ":date_long" }}
+    <time class="postHead_dateInfo" datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+
+    <div>
+      <img src={{ .Params.image }} alt="" style="">
+
+      {{ $authorList := slice "authors" }}
+        {{ range $authorList }}
+          {{ with $.Page.GetTerms . }}
+            {{ range . }}
+            <div class="postHead_authorCard">
+              <a class="postHead_authorCard__name" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+            </div>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+    </div>
+  </div>
+</div>

@@ -1,0 +1,30 @@
+.postHead {
+  margin-bottom: 64px;
+  text-align: center;
+
+  &_title {
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 64px;
+    text-align: center;
+  }
+
+  &_dateInfo {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #5e7282;
+  }
+
+  &_authorCard {
+    text-align: left;
+
+    &__name {
+      text-decoration: none;
+    }
+  }
+
+  img {
+    width: 100%;
+  }
+}

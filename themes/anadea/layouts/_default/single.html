@@ -1,11 +1,10 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  <h2>_default/single.html</h2>
+  {{ partial "postHead.html" . }}
+  <div class="container container__w960">
+    <div class="markdown">
+      {{ .Content }}
+    </div>
+  </div>
 
-  {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-  {{ $dateHuman := .Date | time.Format ":date_long" }}
-  <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-
-  {{ .Content }}
   {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 {{ end }}
