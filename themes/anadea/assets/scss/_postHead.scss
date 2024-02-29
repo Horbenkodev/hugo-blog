@@ -16,15 +16,12 @@
     color: #5e7282;
   }
 
-  &_authorCard {
-    text-align: left;
-
-    &__name {
-      text-decoration: none;
-    }
+  &_authors {
+    display: flex;
+    gap: 40px;
   }
 
-  img {
+  &_image {
     width: 100%;
   }
 }

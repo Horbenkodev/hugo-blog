@@ -1,0 +1,21 @@
+.authorCard {
+  display: flex;
+  gap: 18px;
+  margin: 0;
+  text-decoration: none;
+
+  &-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+
+    &__position {
+      color: #5e7282;
+    }
+  }
+
+  &__avatar {
+    width: 56px;
+  }
+}

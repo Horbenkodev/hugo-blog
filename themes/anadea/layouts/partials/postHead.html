@@ -11,18 +11,11 @@
     <time class="postHead_dateInfo" datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
 
     <div>
-      <img src={{ .Params.image }} alt="" style="">
+      <img class="postHead_image" src={{ .Params.image }} alt="" style="">
 
-      {{ $authorList := slice "authors" }}
-        {{ range $authorList }}
-          {{ with $.Page.GetTerms . }}
-            {{ range . }}
-            <div class="postHead_authorCard">
-              <a class="postHead_authorCard__name" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-            </div>
-            {{ end }}
-          {{ end }}
-        {{ end }}
+      <div class="postHead_authors">
+        {{ partial "authorCard.html" . }}
+      </div>
     </div>
   </div>
 </div>

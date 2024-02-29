@@ -31,6 +31,7 @@ promote:
 top: false
 authors:
   - Eric Theodore Cartman
+  - Kyle Broflovski
 categories:
   - News
 ---
