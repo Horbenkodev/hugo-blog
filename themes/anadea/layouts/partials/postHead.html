@@ -1,11 +1,6 @@
 <div class="container container__w1300">
   <div class="postHead">
-    <ol class="breadcrumbs">
-      {{- range .Ancestors.Reverse }}
-        <li><a class="breadcrumbs_item" href="{{ .RelPermalink }}">{{ or .Title .Title "Blog" }}</a></li>
-      {{- end }}
-      <li><a class="breadcrumbs_lastItem" href="{{ .RelPermalink }}">{{ or .Title .Title "Blog" }}</a></li>
-    </ol>
+    {{ partial "breadcrumbs.html" . }}
 
     {{ $taxonomyList := slice "categories" "industries" }}
     <ul class="taxonomy">
