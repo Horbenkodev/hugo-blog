@@ -2,16 +2,7 @@
   <div class="postHead">
     {{ partial "breadcrumbs.html" . }}
 
-    {{ $taxonomyList := slice "categories" "industries" }}
-    <ul class="taxonomy">
-      {{ range $taxonomyList }}
-        {{ with $.Page.GetTerms . }}
-          {{ range . }}
-            <li class="taxonomy_tag"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
-          {{ end }}
-        {{ end }}
-      {{ end }}
-    </ul>
+    {{ partial "taxonomy.html" . }}
 
     <h1 class="postHead_title">{{ .Title }}</h1>
 
