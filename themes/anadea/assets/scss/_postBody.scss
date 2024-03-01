@@ -1,0 +1,11 @@
+.postBody {
+  display: flex;
+  gap: 40px;
+
+  aside {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 260px;
+  }
+}

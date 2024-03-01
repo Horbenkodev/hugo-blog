@@ -1,9 +1,15 @@
 {{ define "main" }}
   {{ partial "postHead.html" . }}
-  <div class="container container__w960">
+  <div class="container container__w960 postBody">
     <div class="markdown">
       {{ .Content }}
     </div>
+    <aside>
+      <div class="ToC">
+        <h6 class="ToC_title">Table of contents</h6>
+        {{ .TableOfContents }}
+      </div>
+    </aside>
   </div>
 
   {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
