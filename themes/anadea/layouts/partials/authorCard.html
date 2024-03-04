@@ -1,16 +1,13 @@
-{{ $authorList := slice "authors" }}
-{{ range $authorList }}
-  {{ with $.Page.GetTerms . }}
-    {{ range . }}
-    <a style="text-decoration: none;" href="{{ .RelPermalink }}">
-      <figure class="authorCard">
-        <img class="authorCard__avatar" src="/img/default-avatar-icon.svg" alt="">
-        <figcaption class="authorCard-info">
-          <div class="authorCard-info__name">{{ .Title }}</div>
-          <div class="authorCard-info__position">Front-end Developer</div>
-        </figcaption>
-      </figure>
-    </a>
-    {{ end }}
-  {{ end }}
+{{ range .Params.authors }}
+{{ $authorSlug := . | lower | replaceRE "[^a-zA-Z0-9]+" "-" }}
+{{ $author := site.GetPage (printf "authors/%s" $authorSlug) }}
+  <a style="text-decoration: none;" href="{{ $author.RelPermalink }}">
+    <figure class="authorCard">
+      <img class="authorCard__avatar" src="/img/default-avatar-icon.svg" alt="">
+      <figcaption class="authorCard-info">
+        <div class="authorCard-info__name">{{ $author.Params.name }}</div>
+        <div class="authorCard-info__position">{{ $author.Params.position }}</div>
+      </figcaption>
+    </figure>
+  </a>
 {{ end }}
