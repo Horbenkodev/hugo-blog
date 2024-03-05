@@ -1,5 +1,9 @@
-<ol class="breadcrumbs">
-  <li><a class="breadcrumbs_item" href="https://anadea.info">Home</a></li>
-  <li><a class="breadcrumbs_item" href="/">Blog</a></li>
-  <li><a class="breadcrumbs_lastItem" href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-</ol>
+<nav aria-label="Breadcrumb" role="navigation">
+  <ol class="breadcrumbs">
+    <li class="breadcrumbs__item"><a class="breadcrumbs__link" href="https://anadea.info">Home</a></li>
+    <li class="breadcrumbs__item"><a class="breadcrumbs__link" href="/">Blog</a></li>
+    <li class="breadcrumbs__item">
+      <a aria-current="page" class="breadcrumbs__link" href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </li>
+  </ol>
+</nav>
