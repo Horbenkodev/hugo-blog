@@ -95,9 +95,9 @@ Cloud providers get nearly $178 billion in revenue every year and this figure is
 </table>
 
 <dl>
- <dt><abbr>BPaaS</abbr>:</dt><dd>business process as a service</dd> 
- <dt><abbr>IaaS</abbr>:</dt><dd>infrastructure as a service</dd> 
- <dt><abbr>PaaS</abbr>:</dt><dd>platform as a service</dd> 
+ <dt><abbr>BPaaS</abbr>:</dt><dd>business process as a service</dd>
+ <dt><abbr>IaaS</abbr>:</dt><dd>infrastructure as a service</dd>
+ <dt><abbr>PaaS</abbr>:</dt><dd>platform as a service</dd>
  <dt><abbr>SaaS</abbr>:</dt><dd>software as a service</dd>
 </dl>
 

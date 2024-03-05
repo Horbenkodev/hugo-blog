@@ -1,0 +1,61 @@
+$text-color: var(--black);
+$background-color: var(--lavender-100);
+
+.authorConnect {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px 30px;
+  font-size: 16px;
+  background: $background-color;
+  border-radius: 24px;
+
+  &__title {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 700;
+  }
+
+  &__info {
+    display: flex;
+    gap: 14px;
+    align-items: center;
+  }
+
+  &__link {
+    color: $text-color;
+    text-decoration: none;
+  }
+
+  &__avatar {
+    object-fit: cover;
+    border-radius: 50%;
+  }
+
+  &__name {
+    font-weight: 700;
+  }
+
+  &__description {
+    @include multiline-ellipsis(3);
+
+    font-weight: 400;
+    color: $text-color;
+  }
+
+  &__action {
+    position: relative;
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    font-weight: 700;
+    color: var(--persian-rose);
+    text-decoration-line: none;
+    background: none;
+    border: none;
+
+    &:hover {
+      text-decoration-line: underline;
+    }
+  }
+}
