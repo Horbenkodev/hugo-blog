@@ -1,6 +1,10 @@
 .markdown {
   font-size: 18px;
 
+  > :first-child {
+    margin-top: 0;
+  }
+
   img {
     width: 100%;
   }
