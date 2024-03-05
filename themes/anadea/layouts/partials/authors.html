@@ -1,0 +1,15 @@
+{{- with .Page.GetTerms "authors" -}}
+  {{- range . -}}
+    {{- with (site.GetPage .Path) -}}
+      <figure class="authorCard">
+        <img class="authorCard__avatar" src="/img/default-avatar-icon.svg" alt="" />
+        <figcaption class="authorCard__info">
+          <a class="authorCard__link" href="{{ .Permalink }}">
+            <span class="authorCard__name">{{ .Params.name }}</span>
+            <span class="authorCard__position">{{ .Params.position }}</span>
+          </a>
+        </figcaption>
+      </figure>
+    {{- end -}}
+  {{- end }}
+{{- end -}}

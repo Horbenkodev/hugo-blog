@@ -1,0 +1,15 @@
+.socialShare {
+  $icon-fill: var(--body-text);
+
+  display: flex;
+  gap: 16px;
+  min-height: 24px;
+  margin-bottom: 12px;
+  cursor: pointer;
+
+  &__icon {
+    max-width: 24px;
+    height: 24px;
+    fill: $icon-fill;
+  }
+}
