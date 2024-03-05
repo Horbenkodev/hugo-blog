@@ -2,7 +2,11 @@
   {{- range . -}}
     {{- with (site.GetPage .Path) -}}
       <figure class="authorCard">
-        <img class="authorCard__avatar" src="/img/default-avatar-icon.svg" alt="" />
+        {{ if .Params.avatar }}
+          <img class="authorCard__avatar" src="{{ .Params.avatar }}" alt="" />
+        {{ else }}
+          <img class="authorCard__avatar" src="/img/default-avatar-icon.svg" alt="" />
+        {{ end }}
         <figcaption class="authorCard__info">
           <a class="authorCard__link" href="{{ .Permalink }}">
             <span class="authorCard__name">{{ .Params.name }}</span>
