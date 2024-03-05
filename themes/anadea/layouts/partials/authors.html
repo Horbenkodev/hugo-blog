@@ -1,19 +1,7 @@
 {{- with .Page.GetTerms "authors" -}}
   {{- range . -}}
     {{- with (site.GetPage .Path) -}}
-      <figure class="authorCard">
-        {{ if .Params.avatar }}
-          <img class="authorCard__avatar" src="{{ .Params.avatar }}" alt="" />
-        {{ else }}
-          <img class="authorCard__avatar" src="/img/default-avatar-icon.svg" alt="" />
-        {{ end }}
-        <figcaption class="authorCard__info">
-          <a class="authorCard__link" href="{{ .Permalink }}">
-            <span class="authorCard__name">{{ .Params.name }}</span>
-            <span class="authorCard__position">{{ .Params.position }}</span>
-          </a>
-        </figcaption>
-      </figure>
+      {{- partial "authorCard.html" . -}}
     {{- end -}}
   {{- end }}
 {{- end -}}
