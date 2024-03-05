@@ -1,4 +1,10 @@
-{{- with resources.Get "scss/main.scss"  | resources.ToCSS}}
+{{ $opts := dict
+  "transpiler" "dartsass"
+  "targetPath" "css/style.css"
+  "enableSourceMap" (not hugo.IsProduction)
+}}
+
+{{- with resources.Get "scss/main.scss" | toCSS $opts | minify | fingerprint}}
   {{- if eq hugo.Environment "development" }}
     <link rel="stylesheet" href="{{ .RelPermalink }}">
   {{- else }}
