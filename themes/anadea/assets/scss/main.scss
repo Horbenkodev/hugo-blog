@@ -1,6 +1,8 @@
+@import "variables";
 @import "normalizer";
 @import "containers";
 @import "fonts";
+@import "utils";
 @import "markdown";
 @import "quotes";
 @import "breadcrumbs";
@@ -11,12 +13,35 @@
 @import "shortcodes";
 @import "toc";
 
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
 body {
-  margin: 1rem;
-  line-height: 1.5;
-  color: #222222;
+  line-height: 1.625;
+  color: var(--black);
+  background-color: var(--white);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+.sr-only {
+  @include sr-only();
 }
 
 header {
