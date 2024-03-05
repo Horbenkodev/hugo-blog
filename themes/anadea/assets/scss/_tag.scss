@@ -1,0 +1,18 @@
+$main-color: var(--slate-gray);
+$hover-color: var(--black);
+
+.tag {
+  display: flex;
+  align-items: center;
+  padding: 0 clamped(10px, 17px);
+  color: $main-color;
+  text-decoration: none;
+  border: 1px $main-color solid;
+  border-radius: 5000px;
+
+  &:hover {
+    color: $hover-color;
+    cursor: pointer;
+    border-color: $hover-color;
+  }
+}
