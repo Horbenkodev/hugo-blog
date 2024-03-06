@@ -6,7 +6,8 @@
     position: relative;
     display: flex;
     flex-direction: column;
+    flex-shrink: 0;
     gap: 60px;
-    min-width: 260px;
+    width: 260px;
   }
 }
