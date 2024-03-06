@@ -182,17 +182,7 @@ In short, the iOS version of SmartReminder does everything it's supposed to, fee
 
 After completing our experiment, we decided to launch the cross-platform Flutter app first. Notably, developing the MVP (Minimum Viable Product) for the two native apps took almost twice as long as for the cross-platform app. Interestingly, we didn't observe any significant difference in user experience between the native and cross-platform apps with the mentioned set of features. As a result, **Flutter emerged as a clear winner in this phase of the experiment.** The app is available on App Store and Google Play and is now gaining its first users.
 
-<a href="https://apps.apple.com/us/app/smart-reminder/id6447359093">
-
-![](app_store_button.png)
-
-</a>
-
-<a href="https://play.google.com/store/apps/details?id=com.anadeainc.smartreminderflutter">
-
-![](google_play_button.png)
-
-</a>
+<center><a href="https://apps.apple.com/us/app/smart-reminder/id6447359093" target="_blank"><img src="app_store_button.png" style="width:30%"></a><a href="https://play.google.com/store/apps/details?id=com.anadeainc.smartreminderflutter" target="_blank"><img src="google_play_button.png" style="width:30%"></a></center>
 
 However, we're not stopping the competition there. We're giving native development another chance to prove its mettle. Upcoming enhancements for the Smart Reminder app include more complex features like speech-to-text, calendar app synchronization, and smart reminders that account for travel time to a destination.
 

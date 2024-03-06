@@ -94,15 +94,9 @@ Cloud providers get nearly $178 billion in revenue every year and this figure is
     </tbody>
 </table>
 
-<dl>
- <dt><abbr>BPaaS</abbr>:</dt><dd>business process as a service</dd>
- <dt><abbr>IaaS</abbr>:</dt><dd>infrastructure as a service</dd>
- <dt><abbr>PaaS</abbr>:</dt><dd>platform as a service</dd>
- <dt><abbr>SaaS</abbr>:</dt><dd>software as a service</dd>
-</dl>
-
-Note: Totals may not add up due to rounding.
-Source: Gartner (April 2023)
+<font size="-1">BPaaS = business process as a service; IaaS = infrastructure as a service; PaaS = platform as a service; SaaS = software as a service<br>
+Note: Totals may not add up due to rounding.<br>
+Source: <a href="https://www.gartner.com/en/newsroom/press-releases/2023-04-19-gartner-forecasts-worldwide-public-cloud-end-user-spending-to-reach-nearly-600-billion-in-2023" target="_blank">Gartner</a> (April 2023)</font>
 
 The increasing expenses prove the ongoing adoption of cloud technologies. And Gartner analysts support this thesis. They estimate that by 2026, 75% of organizations will utilize clouds as the fundamental underlying platform for their business processes. However, the issue is that despite the fact that more and more organizations use cloud services (which should presuppose the reduction of their expenses on software infrastructure), a lot of them still allocate a significant part of their budgets to paying for cloud resources.
 
@@ -130,7 +124,7 @@ That's why we can make a conclusion that cloud infrastructure cost optimization 
 
 ## How to optimize cloud costs: Our workflow
 
-When our clients ask us to find out how they can reduce the amounts that they need to pay to their cloud providers, our DevOps engineers have a lot of things to do as they will play a key role in cloud spend optimization projects (and especially at their first stages). In general, we should mention that DevOps experts can greatly help organizations create and improve their IT infrastructure, as well as streamline and automate a lot of business processes. If you want to learn more about the reasons why their participation is important for SaaS projects, we offer you to follow this [link](https://anadea.info/guides/why-devops-is-vital-for-saas).
+When our clients ask us to find out how they can reduce the amounts that they need to pay to their cloud providers, our DevOps engineers have a lot of things to do as they will play a key role in cloud spend optimization projects (and especially at their first stages). In general, we should mention that DevOps experts can greatly help organizations create and improve their IT infrastructure, as well as streamline and automate a lot of business processes. If you want to learn more about the reasons why their participation is important for SaaS projects, we offer you to follow this [link.](https://anadea.info/guides/why-devops-is-vital-for-saas)
 
 Here is how our work with clients is usually organized.
 
