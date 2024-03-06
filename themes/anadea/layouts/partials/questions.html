@@ -1,0 +1,39 @@
+{{ with .Params.questionary }}
+  <section class="questions">
+    <h2 class="questions__title">Have questions?</h2>
+    <dl class="questions__items">
+      {{ range . }}
+        {{ $uniqID := crypto.FNV32a .question }}
+        <dt class="questions__item">
+          <button
+            type="button"
+            aria-expanded="false"
+            aria-controls="{{ $uniqID }}"
+            data-id="{{ $uniqID }}"
+            class="questions__control"
+          >
+            {{ .question }}
+          </button>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 46 46"
+            fill="none"
+            data-indicator="{{ $uniqID }}"
+            class="indicator questions__indicator"
+          >
+            <circle cx="23" cy="23" r="21" fill="none"></circle>
+            <rect x="11" y="23" width="24" height="0.000001" fill="none"></rect>
+            <rect x="23" y="11" width="0.000001" height="24" fill="none" class="indicator__disappearing"></rect>
+          </svg>
+        </dt>
+        <dd id="{{ $uniqID }}" data-answer="{{ $uniqID }}" class="questions__foldable">
+          <div class="questions__inner">
+            <div class="questions__answer">
+              {{ .answer }}
+            </div>
+          </div>
+        </dd>
+      {{ end }}
+    </dl>
+  </section>
+{{ end }}
