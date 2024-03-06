@@ -1,0 +1,112 @@
+$counter-color: var(--slate-gray);
+$main-color: var(--black);
+$border-color: var(--gunmetal);
+
+$counter-size: clamped(18px, 52px);
+$indicator-size: clamped(28px, 44px);
+$grid-gap: clamped(16px, 22px);
+
+.questions {
+  margin-bottom: 60px;
+
+  &__title {
+    font-size: clamped(28px, 40px);
+    font-weight: 700;
+    line-height: 1.2;
+  }
+
+  &__items {
+    margin: unset;
+    counter-reset: question;
+  }
+
+  &__item {
+    position: relative;
+    display: grid;
+    grid-template-areas: "counter question indicator";
+    grid-template-columns: $counter-size 1fr fit-content($indicator-size);
+    gap: $grid-gap;
+    align-items: center;
+    min-height: 116px;
+    font-size: clamped(22px, 32px);
+    line-height: 1.2;
+    counter-increment: question;
+    border-top: 1px solid $border-color;
+
+    // Counter
+    &::before {
+      grid-area: counter;
+      margin-left: clamped(2px, 32px);
+      font-size: 16px;
+      font-weight: 400;
+      color: $counter-color;
+      content: counter(question, decimal-leading-zero);
+    }
+  }
+
+  &__control {
+    grid-area: question;
+    padding: 0;
+    font-weight: 700;
+    color: $main-color;
+    text-align: left;
+    cursor: pointer;
+    background: none;
+    border: none;
+
+    &::before {
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      z-index: 1;
+      content: "";
+    }
+  }
+
+  &__indicator {
+    grid-area: indicator;
+    min-width: $indicator-size;
+    height: $indicator-size;
+    margin-right: clamped(6px, 40px);
+  }
+
+  &__foldable {
+    display: grid;
+    grid-template-rows: 0fr;
+    margin: unset;
+    opacity: 0;
+    transition:
+      grid-template-rows 0.5s ease-out,
+      opacity 0.5s ease-out;
+
+    &.active {
+      grid-template-rows: 1fr;
+      opacity: 1;
+    }
+  }
+
+  &__inner {
+    display: grid;
+    grid-template-areas: "counter answer";
+    grid-template-columns: $counter-size 1fr;
+    gap: $grid-gap;
+    overflow: hidden;
+
+    // Counter placeholder
+    &::before {
+      grid-area: counter;
+      content: "";
+    }
+  }
+
+  &__answer {
+    max-width: 60ch;
+    padding-bottom: 32px;
+    font-size: clamped(16px, 22px);
+    font-weight: 400;
+    line-height: 1.4;
+    color: $main-color;
+  }
+}
