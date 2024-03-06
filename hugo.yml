@@ -19,3 +19,6 @@ markup:
       attribute:
         block: true
       wrapStandAloneImageWithinParagraph: false
+  highlight:
+    noClasses: false
+    tabWidth: 2
