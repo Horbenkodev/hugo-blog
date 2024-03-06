@@ -1,0 +1,45 @@
+<article >
+  <h3>Read next</h3>
+    {{ with .PrevInSection }}
+      <article class="readNext">
+        <figure class="readNext__figure">
+          <img
+            class="readNext__image"
+            src="{{ .Params.image }}"
+          />
+          <figcaption class="readNext__figcaption">
+            {{ partial "authorInfo.html" . }}
+            <a href="{{ .RelPermalink }}" style="text-decoration: none;">
+              <h3 class="readNext__titles">{{ .Params.title}}</h3>
+            </a>
+            <p class="readNext__descriptions">
+              {{ .Params.Description }}
+            </p>
+          </figcaption>
+        </figure>
+      </article>
+    {{ else }}
+
+    {{ with .Site.RegularPages }}
+      {{ with index . 0 }}
+        <article class="readNext">
+          <figure class="readNext__figure">
+            <img
+              class="readNext__image"
+              src="{{ .Params.image }}"
+            />
+            <figcaption class="readNext__figcaption">
+              {{ partial "authorInfo.html" . }}
+              <a href="{{ .RelPermalink }}" style="text-decoration: none;">
+                <h3 class="readNext__titles">{{ .Params.title}}</h3>
+              </a>
+              <p class="readNext__descriptions">
+                {{ .Params.Description }}
+              </p>
+            </figcaption>
+          </figure>
+        </article>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+</article>

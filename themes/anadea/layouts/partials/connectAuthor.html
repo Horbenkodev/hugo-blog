@@ -3,7 +3,7 @@
     {{- with (site.GetPage .Path) -}}
       <article class="authorConnect">
         <h3 class="authorConnect__title">Have a question? Our expert can help!</h3>
-        <a class="authorConnect__link" href="/author/eric-theodore-cartman">
+        <a class="authorConnect__link" href="{{ .RelPermalink }}">
           <div class="authorConnect__info">
             <img alt="" width="50" height="50" class="authorConnect__avatar" src="{{ .Params.avatar }}" />
             <div class="authorConnect__name">{{ .Params.name }}</div>
