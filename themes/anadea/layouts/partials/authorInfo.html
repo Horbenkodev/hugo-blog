@@ -1,13 +1,14 @@
 {{- with .Page.GetTerms "authors" -}}
   {{- with index . 0 -}}
-    {{- with (site.GetPage .Path) -}}
-    {{- $dateMachine := .Params.memberSince | time.Format "2006-01-02T15:04:05-07:00" -}}
-    {{- $dateHuman := .Params.memberSince | time.Format ":date_medium" -}}
-      <div class="authorInfo">
-        <a class="authorInfo__link" href="#">{{ .Params.name}}</a>
-        <div class="authorInfo__bullet"></div>
-        <time class="authorInfo__date" datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-      </div>
-    {{- end -}}
+    {{- $baseName := path.BaseName .Path -}}
+    {{- $author := index .Site.Data.authors $baseName -}}
+    {{- $dateMachine := $author.memberSince | time.Format "2006-01-02T15:04:05-07:00" -}}
+    {{- $dateHuman := $author.memberSince | time.Format ":date_medium" -}}
+
+    <div class="authorInfo">
+      <a class="authorInfo__link" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      <div class="authorInfo__bullet"></div>
+      <time class="authorInfo__date" datetime="{{ $author.memberSince }}">{{ $dateHuman }}</time>
+    </div>
   {{- end }}
 {{- end -}}

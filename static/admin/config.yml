@@ -74,9 +74,12 @@ collections:
     label_singular: "Author"
     identifier_field: name
     name: "authors"
-    folder: "content/authors"
-    path: "{{slug}}/index"
+    folder: "data/authors"
+    path: "{{slug}}"
+    extension: 'json'
     create: true
+    editor:
+      preview: false
     fields:
       - {label: "Name", name: "name", widget: "string"}
       - {label: "Member Since", name: "memberSince", widget: "datetime"}
