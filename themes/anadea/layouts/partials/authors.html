@@ -1,7 +1,7 @@
 {{- with .Page.GetTerms "authors" -}}
   {{- range . -}}
-    {{- with (site.GetPage .Path) -}}
-      {{- partial "authorCard.html" . -}}
-    {{- end -}}
+    {{- $baseName := path.BaseName .Path -}}
+    {{- $author := index .Site.Data.authors $baseName -}}
+    {{- partial "authorCard.html" (dict "author" $author "url" .RelPermalink) -}}
   {{- end }}
 {{- end -}}

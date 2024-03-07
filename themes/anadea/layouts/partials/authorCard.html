@@ -1,13 +1,13 @@
 <figure class="authorCard">
-  {{ if .Params.avatar }}
-    <img class="authorCard__avatar" src="{{ .Params.avatar }}" alt="" />
-  {{ else }}
+  {{- if .author.avatar -}}
+    <img class="authorCard__avatar" src="{{ .author.avatar }}" alt="" />
+  {{- else -}}
     <img class="authorCard__avatar" src="/img/default-avatar-icon.svg" alt="" />
-  {{ end }}
+  {{- end -}}
   <figcaption class="authorCard__info">
-    <a class="authorCard__link" href="{{ .Permalink }}">
-      <span class="authorCard__name">{{ .Params.name }}</span>
-      <span class="authorCard__position">{{ .Params.position }}</span>
+    <a class="authorCard__link" href="{{ .url }}">
+      <span class="authorCard__name">{{ .author.name }}</span>
+      <span class="authorCard__position">{{ .author.position }}</span>
     </a>
   </figcaption>
 </figure>
