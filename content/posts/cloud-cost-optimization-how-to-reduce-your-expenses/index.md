@@ -33,7 +33,7 @@ authors:
   - Eric Theodore Cartman
   - Kyle Broflovski
 categories:
-  - News
+  - DevOps
 ---
 Cloud technologies are among those that shape the business software infrastructure today. Companies and organizations all over the world rely on cloud services and are gradually migrating their existing data and apps to the cloud. Today around 60% of all the global corporate data is kept in cloud storage. It is expected that by 2025, the volume of data stored in the cloud will reach 200 ZB.
 
