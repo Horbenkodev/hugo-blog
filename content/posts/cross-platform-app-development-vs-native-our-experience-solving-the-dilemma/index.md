@@ -37,19 +37,17 @@ top: false
 authors:
   - Kyle Broflovski
 categories:
-  - Programming
+  - Development
 ---
-![](native_vs._cross-platform_development_basics.png)
-
 When venturing into the mobile space, many businesses face a critical decision: choosing between native vs cross-platform development for their app. Understanding this dilemma, we, the mobile developers at Anadea, embarked on a journey to shed light on this very choice.
 
 We conceived the idea of **developing the same application from scratch** using our respective platforms. Our goal was to extend beyond the theoretical comparison of the pros and cons of native and cross-platform approaches. We delved into a unique blend of collaboration and competition, facing identical challenges and sharing our rich developer experiences.
 
-This article doesn't just outline the differences between the approaches; it offers our unbiased opinions and showcases an **experiment** we conducted. What allows us to do so? Our expertise in Android, iOS, and [Flutter development](https://anadea.info/blog/flutter-development), attested by multiple delivered projects and client testimonials.
+This article doesn't just outline the differences between the approaches; it offers our unbiased opinions and showcases an **experiment** we conducted. What allows us to do so? Our expertise in Android, iOS, and <a href="https://anadea.info/blog/flutter-development" target="_blank">Flutter development</a>, attested by multiple delivered projects and client testimonials.
 
 ## Native vs cross-platform development: Which one to choose for your project?
 
-Let's revisit the basics of native and cross-platform [mobile app development](https://anadea.info/services/mobile-development). These two unique methods for creating apps come with their own advantages and challenges. In the vast app market of 2023, there are over 9 million apps worldwide—this includes over 3.5 million in the Google Play Store and over 1.6 million in the Apple App Store. The sheer number of apps makes it clear how crucial it is to choose the right development approach to ensure your app stands out.
+Let's revisit the basics of native and cross-platform <a href="https://anadea.info/services/mobile-development" target="_blank">mobile app development</a>. These two unique methods for creating apps come with their own advantages and challenges. In the vast app market of 2023, there are over 9 million apps worldwide—this includes over 3.5 million in the Google Play Store and over 1.6 million in the Apple App Store. The sheer number of apps makes it clear how crucial it is to choose the right development approach to ensure your app stands out.
 
 ![](native_vs._cross-platform_development_basics.png)
 
@@ -97,9 +95,9 @@ To provide you with a clear and concise overview of the differences between nati
 
 ![](native_vs._cross-platform_development_comparison.png)
 
-Wrapping up, native excels in performance and quick platform updates, suitable for intricate, high-demand apps, e.g. [enterprise mobile apps development](https://anadea.info/blog/enterprise-mobile-apps-development). Cross-platform offers cost efficiency, quicker development, and design consistency, with some trade-offs in performance and security due to third-party libraries. The decision should be driven by your app's unique requirements and the technical realities of each approach.
+Wrapping up, native excels in performance and quick platform updates, suitable for intricate, high-demand apps, e.g. <a href="https://anadea.info/blog/enterprise-mobile-apps-development" target="_blank">enterprise mobile apps development</a>. Cross-platform offers cost efficiency, quicker development, and design consistency, with some trade-offs in performance and security due to third-party libraries. The decision should be driven by your app's unique requirements and the technical realities of each approach.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}
+{{< ctabutton href="https://anadea.info/free-project-estimate" >}}
   Get a consultation
 {{< /ctabutton >}}
 
@@ -123,7 +121,8 @@ We developed a personal productivity app called Smart Reminder, designed to enha
 
 ![](smart_reminder.png)
 
-> If you're interested in delving deeper into the creation and conceptualization of Smart Reminder, including the research that shaped our product vision, we've detailed our journey in an insightful **eBook**. To explore our strategies, decisions, and more, you can access the eBook [here](https://anadea.info/e-books/user-persona-for-mobile-app).
+
+> If you're interested in delving deeper into the creation and conceptualization of Smart Reminder, including the research that shaped our product vision, we've detailed our journey in an insightful **eBook**. To explore our strategies, decisions, and more, you can access the eBook <a href="https://anadea.info/e-books/user-persona-for-mobile-app" target="_blank">here</a>.
 
 ### Technology choice
 
@@ -139,7 +138,7 @@ To enhance the functionality of Smart Reminder, we integrated several third-part
 * **Firebase Auth (Google Sign-In):** A secure and convenient authentication system for easy app access.
 * **OpenStreetMap and native frameworks:** OpenStreetMap is used for geolocation reminders on cross-platform and Android, while native Swift frameworks are employed for iOS, ensuring accurate and efficient location-based services.
 
-> **Related read:** [Custom Mobile Development VS App Builder: Which to Choose](https://anadea.info/guides/custom-development-vs-app-builders)
+> **Related read:** <a href="https://anadea.info/guides/custom-development-vs-app-builders" target="_blank">Custom Mobile Development VS App Builder: Which to Choose</a>
 
 ### Experience with Android, iOS, and cross-platform development
 
@@ -182,17 +181,7 @@ In short, the iOS version of SmartReminder does everything it's supposed to, fee
 
 After completing our experiment, we decided to launch the cross-platform Flutter app first. Notably, developing the MVP (Minimum Viable Product) for the two native apps took almost twice as long as for the cross-platform app. Interestingly, we didn't observe any significant difference in user experience between the native and cross-platform apps with the mentioned set of features. As a result, **Flutter emerged as a clear winner in this phase of the experiment.** The app is available on App Store and Google Play and is now gaining its first users.
 
-<a href="https://apps.apple.com/us/app/smart-reminder/id6447359093">
-
-![](app_store_button.png)
-
-</a>
-
-<a href="https://play.google.com/store/apps/details?id=com.anadeainc.smartreminderflutter">
-
-![](google_play_button.png)
-
-</a>
+<center><a href="https://apps.apple.com/us/app/smart-reminder/id6447359093" target="_blank"><img src="app_store_button.png" style="width:30%"></a> <a href="https://play.google.com/store/apps/details?id=com.anadeainc.smartreminderflutter" target="_blank"><img src="google_play_button.png" style="width:30%"></a></center>
 
 However, we're not stopping the competition there. We're giving native development another chance to prove its mettle. Upcoming enhancements for the Smart Reminder app include more complex features like speech-to-text, calendar app synchronization, and smart reminders that account for travel time to a destination.
 
@@ -203,5 +192,5 @@ The initial phase of our experiment, focusing on MVP creation, highlighted the e
 Our exploration of cross platform vs native app development has shed light on critical considerations for businesses and developers. We've navigated the realms of performance, security, and platform-specific features, revealing the nuances of each method. Yet we believe that every project is unique and the best approach—be it native or cross-platform—varies with each specific case. If you're contemplating the development method for your app idea, we're here to offer guidance and help bring your vision to life.
 
 {{< ctabutton href="https://anadea.info/contacts" >}}
-  Contact Us
+  Contact us
 {{< /ctabutton >}}

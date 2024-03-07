@@ -13,21 +13,19 @@ top: false
 authors:
   - Eric Theodore Cartman
 categories:
-  - Business Tips
-industries:
-  - Healthcare
+  - Development
+industries: []
 ---
-In the flow of everyday tasks from customers, we constantly had to face mechanisms for working with complex animations or with complex graphic designs. As one of the possible ways to solve such problems, we chose to use the [Three.js library,](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene) which has quite a wide range of configurational and practical usage.
+In the flow of everyday tasks from customers, we constantly had to face mechanisms for working with complex animations or with complex graphic designs. As one of the possible ways to solve such problems, we chose to use the <a href="https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene" target="_blank" rel="nofollow">Three.js library</a>, which has quite a wide range of configurational and practical usage.
 
 Below, you will find the description of our experience and some experiments in using this library, along with the main features and the paths to reach the goals set with code examples.
 
 ## Part I—Introduction
+Since most of our <a href="https://anadea.info/services/web-development/front-end" target="_blank">Front-End development</a> projects are written in React, it was appropriate to experiment in the React space. But when we tried to integrate the code into the React component, we encountered many inconveniences caused by the specifics of Three.js and React working in tandem.
 
-Since most of our [Front-End development](https://anadea.info/services/web-development/front-end) projects are written in React, it was appropriate to experiment in the React space. But when we tried to integrate the code into the React component, we encountered many inconveniences caused by the specifics of Three.js and React working in tandem.
+Yes, all of these incompatibilities could be bypassed if the code was played around with well, given the specifics of React. But why should we waste time on something that has been investigated before? So instead of the native Three.js, we advise to use a library which was developed specifically for React applications, __<a href="https://docs.pmnd.rs/react-three-fiber/getting-started/introduction" target="_blank" rel="nofollow">React-three-fiber</a>__. It is installed via npm and has a clear documentation.
 
-Yes, all of these incompatibilities could be bypassed if the code was played around with well, given the specifics of React. But why should we waste time on something that has been investigated before? So instead of the native Three.js, we advise to use a library which was developed specifically for React applications, **[React-three-fiber.](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)** It is installed via npm and has a clear documentation.
-
-```js
+```shell
 $ npm install three @react-three/fiber
 ```
 
@@ -36,10 +34,9 @@ There is only one drawback, or rather a nuance in it: the library works only wit
 Despite the convenience of React-three-fiber, we still recommend you start exploring the 3D world with native Three.js. That’s because to navigate well in 3D and the possibilities of the library, first, you must learn the main concepts of the library: scene, camera, mesh, which consists of its geometry and material and lighting (ambient or point lights). You should understand how the XYZ axes are located and how to navigate the Three.js.
 
 ## Part II—Loading 3D models
-
 The library is most frequently used for uploading 3D models from designers of the page. Just uploading, showing and lighting isn’t so complicated and doesn’t require a lot of effort from the developer. You are able to add animation for the model, such as rotation on its axis. Or you can add a possibility to interact with the model via OrbitControls.
 
-Our designer has drawn the company logo in Blender and had it in 3 formats: glb, fbx, obj. All of these formats are supported by **Three.js** and **React-three-fiber.**
+Our designer has drawn the company logo in Blender and had it in 3 formats: glb, fbx, obj. All of these formats are supported by __Three.js__ and __React-three-fiber__.
 
 {{< youtube q1xsB3w1EZI>}}
 
@@ -49,31 +46,31 @@ The latter format gives us the possibility to upload the model without material 
 
 ## Part III—3D models in JavaScript
 
-**This part is about creating a 3D model on the example of animated Earth.**
+__This part is about creating a 3D model on the example of animated Earth.__
 
 Creating a 3D model using only code will require more effort and time than just uploading one. You need to have a basic knowledge of the library’s opportunities, geometry and material species, and a good 3D orientation. Certainly, you can find a lot of videos or articles about how it’s best to create one or another training model and how to interact with textures and animation. Having brought all parts together (knowledge, ideas and comments from the project team), we’ve created something interesting:
 
 {{< youtube s0JYLwVNIVs >}}
 
-You can end up in outer space if you add to the code.
+You can end up in outer space if you add <code><OrbitControls /></code> to the code.
 
 {{< youtube 5h_iS4cSwow >}}
 
-As we can see, the geometry is rather simple - it’s a sphere. However, the materials are more complex. Textures (special images) of Earth and Moon were used here. These are easily found on the Internet. You can use with Moon texture (moonTexture) or use [Shaders](https://threejs.org/docs/#api/en/materials/ShaderMaterial) to get complex texture, for example, atmosphere imitation. This aspect is tricky enough and should be approached individually, but you can find a lot of examples of code that can be adapted to your needs. That’s what we did.
+As we can see, the geometry is rather simple - it’s a sphere. However, the materials are more complex. Textures (special images) of Earth and Moon were used here. These are easily found on the Internet. You can use <code><meshStandardMaterial map={moonTexture}/></code> with Moon texture <code>(moonTexture)</code> or use <a href="https://threejs.org/docs/#api/en/materials/ShaderMaterial" target="_blank" rel="nofollow">Shaders</a> to get complex texture, for example, atmosphere imitation. This aspect is tricky enough and should be approached individually, but you can find a lot of examples of code that can be adapted to your needs. That’s what we did.
 
 As for animation, the Earth’s axis-turning was the easiest part. You should only set the axis and rotation speed.
 
-```js
+```javascript
 useFrame(() => {
   ref.current.rotation.y += 0.002;
 });
 ```
 
-By the way, custom hooks from the React-three-fiber library like **useFrame** and **useLoader** are irreplaceable hooks for comfortable work with 3D in React apps. **useFrame** is used to work with animation; **useLoader** is used for uploading 3D models, maps, textures and vertices.
+By the way, custom hooks from the React-three-fiber library like __useFrame__ and __useLoader__ are irreplaceable hooks for comfortable work with 3D in React apps. __useFrame__ is used to work with animation; __useLoader__  is used for uploading 3D models, maps, textures and vertices.
 
 Rotating the Moon around the Earth by the circle trajectory was a more complex task. Here, you could use some math.
 
-```js
+```javascript
 useFrame(() => {
   // circle trajectory
   let date = Date.now() * 0.0005 + 1;
@@ -86,9 +83,9 @@ useFrame(() => {
 })
 ```
 
-date sets sequential coefficients for changing coordinate values, and adjustment of the 0.0005 number can increase or slow down the rotation speed.
+<code>date</code> sets sequential coefficients for changing coordinate values, and adjustment of the 0.0005 number can increase or slow down the rotation speed.
 
-I set the Moon’s position x-y-z below, where y stays equal to zero because I want the trajectory to be horizontal, in the X plane. However, you can set y = Math.sin(date) * 2 + 0 and get the elliptical trajectory inclined at 45 degrees.
+I set the Moon’s position x-y-z below, where y stays equal to zero because I want the trajectory to be horizontal, in the _X_ plane. However, you can set  <code>y = Math.sin(date) * 2 + 0</code> and get the elliptical trajectory inclined at 45 degrees.
 
 By the way, 0 in the end is the pivot coordinate, around which the mesh is rotating. We have a pivot at the Earth sphere (position 0-0-0). So, we can get different results by changing one or another parameter.
 
@@ -98,7 +95,7 @@ The most challenging task was setting real coordinates by using latitudes and lo
 
 Kyiv-Dubai-Manila-Osaka-Honolulu-Seattle-London-Lviv
 
-```js
+```javascript
 const pinsCoordinates = [
   { lat: 50.450001, lng: 30.523333 }, //Kyiv
   { lat: 25.276987, lng: 55.296249 }, //Dubai
@@ -113,7 +110,7 @@ const pinsCoordinates = [
 
 Meanwhile, xyz-coordinates should alter depending on the sphere sizes.
 
-```js
+```javascript
 /* Getting coordinates x,y,z on the sphere by latitude and longitude.
    Sphere scale should be '1' */
 function getCoordinates(lat, lng) {
@@ -134,13 +131,13 @@ function getCoordinates(lat, lng) {
 
 As you can see, the function takes lat-lng pare and returns xyz coordinates for the subsequent pin on the sphere. By experimenting with the size and scale of the sphere, we discovered that to get the most precise coordinates, we better use radius and scale of 1 and adjust the initial sphere’s size by changing the distance from the Camera.
 
-To get the imitation that all pins are a whole and rotate along with the Earth, you should group them using the tag. We can see the result once we remove the Earth. Adding the same rotation trajectory like that of the Earth complemented the imitation.
+To get the imitation that all pins are a whole and rotate along with the Earth, you should group them using the <code><group><group/></code> tag. We can see the result once we remove the Earth. Adding the same rotation trajectory like that of the Earth complemented the imitation.
 
 {{< youtube iORKqvBIhYA >}}
 
 Below, see the example of the Pin’s component code:
 
-```javascript
+```jsx
 const pinsXYZCoordinates = [];
 pinsCoordinates.forEach((pin) => {
   const pinXYZ = getCoordinates(pin.lat, pin.lng);
@@ -174,18 +171,17 @@ function Pins() {
 Here, pins are small spheres of standard material and color. But you are free to use more complex geometries or upload your own 3D models at all.
 
 ## Part IV—Complex animation along a given trajectory
+Continuing the topic of animation, we managed to get a certain shape from random positioning points __on the example of an outline of a country__.
 
-Continuing the topic of animation, we managed to get a certain shape from random positioning points **on the example of an outline of a country.**
-
-We haven’t found any service that draws the outlines of shapes, so we drew the shape of the country ourselves. It consists of 120 2D vectors Vector2(x,y) and is then divided into a given number of points. For clarity, we’ve left the static shape on the left.
+We haven’t found any service that draws the outlines of shapes, so we drew the shape of the country ourselves. It consists of 120 2D vectors <code>Vector2(x,y)</code> and is then divided into a given number of points. For clarity, we’ve left the static shape on the left.
 
 {{< youtube l_ZK-y0JlxQ >}}
 
-To make such an animation, we need to get the initial and the final 3D coordinates of each point. As the shape consists of 2D vectors, we transformed the point’s scope to an array of positions of each point - \[[1.34, 2.34, 1.5], \[1.62, 2.28, 1.5], . . . ].
+To make such an animation, we need to get the initial and the final 3D coordinates of each point. As the shape consists of 2D vectors, we transformed the point’s scope to an array of positions of each point - <code>[[1.34, 2.34, 1.5], [1.62, 2.28, 1.5], . . . ]</code>.
 
 The random coordinates were obtained quite easily, and the stars from Part III were distributed in the same way.
 
-```
+```javascript
 // creates 500 random coordinates for star-points
 const starVertices = [];
 for (let i = 0; i < 500; i++) {
@@ -196,9 +192,9 @@ for (let i = 0; i < 500; i++) {
 }
 ```
 
-In this example, all points are separate Meshes (Components) which were added to the scene using Array.map(). This enables us to animate each point separately by a single line of code:
+In this example, all points are separate Meshes (Components) which were added to the scene using <code>Array.map()</code>. This enables us to animate each point separately by a single line of code:
 
-```
+```javascript
 vector = new THREE.Vector3(x, y, z) // set the direction of mesh movement
 
 useFrame(() => {
@@ -211,6 +207,6 @@ So, this method can be used to move Mesh from one point to another.
 
 ## Part V—Conclusion
 
-The examples of using the **Three.js library** above are just a drop in the ocean of the library's capabilities. In this case, the official documentation won’t give a full understanding of 3D. We watched a lot of video tutorials, read a lot of articles on the Internet and made a lot of mistakes on the way to achieving the desired result. Another complication is that many examples are only applied to Three.js. Therefore, it was necessary to adjust the solution to React-three-fiber.
+The examples of using the __Three.js library__ above are just a drop in the ocean of the library's capabilities. In this case, the official documentation won’t give a full understanding of 3D. We watched a lot of video tutorials, read a lot of articles on the Internet and made a lot of mistakes on the way to achieving the desired result. Another complication is that many examples are only applied to Three.js. Therefore, it was necessary to adjust the solution to React-three-fiber.
 
 Overall, the library is very cool and 100% worth your attention.

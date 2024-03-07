@@ -1,5 +1,5 @@
-{{ define "main" }}
-  {{ partial "postHead.html" . }}
+{{- define "main" -}}
+  {{- partial "postHead.html" . -}}
   <div class="container container__w960 postBody">
     <div class="markdown">
       {{ .Content }}
@@ -9,8 +9,20 @@
         <h6 class="ToC_title">Table of contents</h6>
         {{ .TableOfContents }}
       </div>
-    </aside>
-  </div>
 
-  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
-{{ end }}
+      {{- with .Page.GetTerms "authors" -}}
+        {{- with index . 0 -}}
+          {{- $baseName := path.BaseName .Path -}}
+          {{- $author := index .Site.Data.authors $baseName -}}
+          {{- partial "connectAuthor.html" (dict "author" $author "url" .RelPermalink) -}}
+        {{- end -}}
+      {{- end -}}
+
+      {{- partial "readNext.html" . -}}
+    </aside>
+
+  </div>
+  <div class="container container__w1300">
+    {{- partial "questions.html" . -}}
+  </div>
+{{- end -}}

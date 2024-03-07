@@ -1,16 +1,13 @@
-{{ $authorList := slice "authors" }}
-{{ range $authorList }}
-  {{ with $.Page.GetTerms . }}
-    {{ range . }}
-    <a style="text-decoration: none;" href="{{ .RelPermalink }}">
-      <figure class="authorCard">
-        <img class="authorCard__avatar" src="/img/default-avatar-icon.svg" alt="">
-        <figcaption class="authorCard-info">
-          <div class="authorCard-info__name">{{ .Title }}</div>
-          <div class="authorCard-info__position">Front-end Developer</div>
-        </figcaption>
-      </figure>
+<figure class="authorCard">
+  {{- if .author.avatar -}}
+    <img class="authorCard__avatar" src="{{ .author.avatar }}" alt="" />
+  {{- else -}}
+    <img class="authorCard__avatar" src="/img/default-avatar-icon.svg" alt="" />
+  {{- end -}}
+  <figcaption class="authorCard__info">
+    <a class="authorCard__link" href="{{ .url }}">
+      <span class="authorCard__name">{{ .author.name }}</span>
+      <span class="authorCard__position">{{ .author.position }}</span>
     </a>
-    {{ end }}
-  {{ end }}
-{{ end }}
+  </figcaption>
+</figure>

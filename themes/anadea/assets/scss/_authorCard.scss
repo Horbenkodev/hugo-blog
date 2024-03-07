@@ -1,21 +1,60 @@
-.authorCard {
-  display: flex;
-  gap: 18px;
-  margin: 0;
-  text-decoration: none;
+$name-text: var(--black);
+$position-text: var(--slate-gray);
+$background-color: var(--white);
 
-  &-info {
+.authorCard {
+  position: relative;
+  display: flex;
+  gap: clamped(12px, 18px);
+  align-items: center;
+  padding: clamped(12px, 18px);
+  margin: 0;
+  background-color: $background-color;
+  border-radius: 24px;
+
+  &__link {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    text-align: left;
+    text-decoration: none;
 
-    &__position {
-      color: #5e7282;
+    &::before {
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      content: "";
     }
   }
 
   &__avatar {
-    width: 56px;
+    width: clamped(42px, 56px);
+    height: auto;
+    aspect-ratio: 1;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+
+  &__info {
+    text-align: start;
+  }
+
+  &__name {
+    font-size: clamped(16px, 18px);
+    font-weight: 700;
+    color: $name-text;
+  }
+
+  &__position {
+    font-size: clamped(14px, 16px);
+    font-weight: 400;
+    color: $position-text;
+  }
+}
+
+@media screen and (width >= 768px) {
+  .authorCard {
+    padding: 0;
+    background-color: $background-color;
   }
 }

@@ -1,6 +1,9 @@
-<ol class="breadcrumbs">
-  {{- range .Ancestors.Reverse }}
-    <li><a class="breadcrumbs_item" href="{{ .RelPermalink }}">{{ or .Title .Title "Blog" }}</a></li>
-  {{- end }}
-  <li><a class="breadcrumbs_lastItem" href="{{ .RelPermalink }}">{{ or .Title .Title "Blog" }}</a></li>
-</ol>
+<nav aria-label="Breadcrumb" role="navigation">
+  <ol class="breadcrumbs">
+    <li class="breadcrumbs__item"><a class="breadcrumbs__link" href="https://anadea.info">Home</a></li>
+    <li class="breadcrumbs__item"><a class="breadcrumbs__link" href="/">Blog</a></li>
+    <li class="breadcrumbs__item">
+      <a aria-current="page" class="breadcrumbs__link" href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </li>
+  </ol>
+</nav>

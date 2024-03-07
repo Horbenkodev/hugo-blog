@@ -74,16 +74,25 @@ collections:
     label_singular: "Author"
     identifier_field: name
     name: "authors"
-    folder: "content/authors"
-    path: "{{slug}}/index"
+    folder: "data/authors"
+    path: "{{slug}}"
+    extension: 'json'
     create: true
+    editor:
+      preview: false
     fields:
       - {label: "Name", name: "name", widget: "string"}
       - {label: "Member Since", name: "memberSince", widget: "datetime"}
-      - {label: "Avatar", name: "avatar", widget: "image", required: false}
+      - label: "Avatar"
+        name: "avatar"
+        widget: "image"
+        required: false
+        default: '/img/default-avatar-icon.svg'
+        media_folder: "/static/img/avatars"
+        public_folder: "/img/avatars"
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Short Description", name: "shortDescription", widget: "text"}
-      - {label: "Position", name: "position", widget: "string"}
+      - {label: "Position", name: "position", widget: "string", required: false}
 
   - label: "Categories"
     label_singular: "Category"
