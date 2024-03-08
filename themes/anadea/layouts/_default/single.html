@@ -1,5 +1,5 @@
 {{- define "main" -}}
-  {{- partial "postHead.html" . -}}
+  {{- partial "post_head.html" . -}}
   <div class="container container__w960 postBody">
     <div class="markdown">
       {{ .Content }}
@@ -14,13 +14,12 @@
         {{- with index . 0 -}}
           {{- $baseName := path.BaseName .Path -}}
           {{- $author := index .Site.Data.authors $baseName -}}
-          {{- partial "connectAuthor.html" (dict "author" $author "url" .RelPermalink) -}}
+          {{- partial "connect_author.html" (dict "author" $author "url" .RelPermalink) -}}
         {{- end -}}
       {{- end -}}
 
-      {{- partial "readNext.html" . -}}
+      {{- partial "read_next.html" . -}}
     </aside>
-
   </div>
   <div class="container container__w1300">
     {{- partial "questions.html" . -}}

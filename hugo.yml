@@ -8,7 +8,7 @@ taxonomies:
 module:
   hugoVersion:
     extended: true
-    min: 0.123.7
+    min: 0.123.8
   imports:
     - path: anadea
 markup:
@@ -22,3 +22,8 @@ markup:
   highlight:
     noClasses: false
     tabWidth: 2
+permalinks:
+  page:
+    posts: '/:sections[1:]/:slug/'
+  section:
+    posts: '/:sections[1:]/'
