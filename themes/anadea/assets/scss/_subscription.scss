@@ -1,0 +1,60 @@
+$background-color: var(--medium-purple);
+$text-color: var(--white);
+
+.subscription {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 50px 60px;
+  margin-bottom: 60px;
+  background-color: $background-color;
+  border-radius: 24px;
+
+  &__content {
+    color: $text-color;
+  }
+
+  &__title {
+    margin: 0;
+    font-size: 40px;
+    font-weight: 700;
+  }
+
+  &__paragraph {
+    font-size: 18px;
+    font-weight: 300;
+  }
+
+  &__form {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+  }
+
+  &__email {
+    padding: 16px 0;
+    font-size: 18px;
+    font-weight: 300;
+    color: $text-color;
+    background: none;
+    border: none;
+    border-bottom: 1px solid $text-color;
+
+    &::placeholder {
+      color: $text-color;
+    }
+  }
+
+  &__button {
+    width: 60%;
+    padding: 10px 30px;
+    margin-top: 30px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 34px;
+    color: $background-color;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+  }
+}
