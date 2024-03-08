@@ -28,7 +28,8 @@ promote:
 top: false
 authors:
   - Eric Theodore Cartman
-categories: []
+categories:
+  - Development
 industries:
   - Sports
 ---
