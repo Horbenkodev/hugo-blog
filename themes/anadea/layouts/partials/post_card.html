@@ -2,7 +2,7 @@
   <figure class="postCard__figure">
     <img class="postCard__image" src="{{ .Params.image }}" alt=""/>
     <figcaption class="postCard__figcaption">
-        {{ partial "author_info.html" . }}
+        {{ partial "post_info.html" . }}
       <a style="text-decoration:none" href="{{ .RelPermalink }}">
         <h3 class="postCard__titles">{{ .Params.title }}</h3>
       </a>

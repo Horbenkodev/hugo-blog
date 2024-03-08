@@ -1,0 +1,9 @@
+<div class="postInfo">
+  {{- with .Page.GetTerms "authors" -}}
+    {{- with index . 0 -}}
+      <a class="postInfo__link" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+    {{- end }}
+  {{- end -}}
+  <div class="postInfo__bullet"></div>
+  <time class="postInfo__date" datetime="{{ .Params.date }}">{{ .Params.date | time.Format ":date_medium" }}</time>
+</div>
