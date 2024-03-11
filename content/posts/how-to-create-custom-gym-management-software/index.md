@@ -2,7 +2,7 @@
 title: How to Create Custom Gym Management Software?
 slug: How to Create Custom Gym Management Software?
 date: 2024-02-05T13:35:00.000Z
-image: test.png
+image: amj6_u3o.jpg
 description: Today we can see that many industries and markets are experiencing
   a stage of active digitalization that is boosted by the progress made in the
   tech world.

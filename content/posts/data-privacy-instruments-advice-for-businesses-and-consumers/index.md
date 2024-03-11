@@ -1,7 +1,7 @@
 ---
 title: Data Privacy Instruments - Advice for Businesses and Consumers
 date: 2024-03-11T10:38:21.552Z
-image: test.png
+image: 9pvm9fkq.jpg
 description: Data privacy issues have exploded in seriousness in the last few
   years, which turned data breaches into a prominent topic of discussion.
 promote:

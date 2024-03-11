@@ -2,7 +2,7 @@
 title: "Cloud Cost Optimization: How to Reduce Your Expenses"
 slug: "Cloud Cost Optimization: How to Reduce Your Expenses"
 date: 2023-10-31T09:59:00.000Z
-image: test.png
+image: 1kbyhhw5.jpg
 description: Cloud technologies are among those that shape the business software
   infrastructure today. Companies and organizations all over the world rely on
   cloud services and are gradually migrating their existing data and apps to the
