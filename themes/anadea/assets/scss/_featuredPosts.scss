@@ -1,0 +1,8 @@
+.featuredPosts {
+  display: grid;
+  grid-template-areas:
+    "promotion feature"
+    "promotion feature";
+  grid-template-rows: auto;
+  grid-template-columns: 460px 1fr;
+}

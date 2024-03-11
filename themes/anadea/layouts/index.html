@@ -1,17 +1,29 @@
 {{ define "main" }}
-{{- $pages := where .Site.Pages "Type" "eq" "posts" -}}
-{{- $promotePages := where $pages ".Params.promote" "eq" true -}}
-{{- $topPages := where $pages ".Params.top" "eq" true -}}
 
-{{- $feed := where $pages ".Params.promote" "eq" false -}}
-{{- $feed = where $feed ".Params.top" "eq" false -}}
-{{- $paginator := .Paginate $feed -}}
+{{- $promote := where .Site.RegularPages "Params.promote.promote" "==" true -}}
+{{- $top := where .Site.RegularPages "Params.top" "==" true -}}
 
-  <h1>{{ .Title }}</h1>
-
-  {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
+<div class="featuredPosts">
+  {{ range first 1 $promote }}
+      <div class="promote">
+        <h2><a href="{{ .Params.promote.promote_url }}">{{ .LinkTitle }}</a></h2>
+        {{ .Summary }}
+      </div>
   {{ end }}
+
+  <div class="top-posts">
+    {{ range first 2 $top }}
+    <div class="top">
+      <h2><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></h2>
+      {{ .Summary }}
+    </div>
+    {{ end }}
+  </div>
+</div>
+
+  <div class="postFeed">
+    {{ range .Site.RegularPages }}
+        {{ partial "post_card.html" . }}
+    {{ end }}
+  </div>
 {{ end }}
