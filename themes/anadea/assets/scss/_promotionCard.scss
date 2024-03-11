@@ -1,0 +1,65 @@
+$text-color: var(--black);
+
+.promotionCard {
+  display: flex;
+  grid-area: promotion;
+  width: 100%;
+  min-height: 420px;
+  color: $text-color;
+
+  &__imageContainer {
+    position: relative;
+    display: flex;
+    flex-grow: 1;
+    align-items: flex-end;
+    padding: 40px 30px;
+    margin: 0;
+    overflow: hidden;
+    background: linear-gradient(to bottom, rgb(255 255 255 / 0%) 0%, rgb(0 0 0 / 60%) 100%);
+    border-radius: 24px;
+  }
+
+  &__image {
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    color: transparent;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  &__info {
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__titles {
+    margin: 6px 0;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 34px;
+    color: $text-color;
+  }
+
+  &__link {
+    text-decoration: none;
+
+    &::before {
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 100%;
+      height: 100%;
+      content: "";
+    }
+  }
+
+  &__descriptions {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    color: $text-color;
+  }
+}

@@ -6,8 +6,7 @@
 <div class="featuredPosts">
   {{ range first 1 $promote }}
       <div class="promote">
-        <h2><a href="{{ .Params.promote.promote_url }}">{{ .LinkTitle }}</a></h2>
-        {{ .Summary }}
+        {{ partial "promote_card.html" . }}
       </div>
   {{ end }}
 

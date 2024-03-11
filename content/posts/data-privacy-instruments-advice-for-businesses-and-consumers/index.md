@@ -14,7 +14,7 @@ categories:
 industries:
   - Sports
 ---
-Data privacy issues have exploded in seriousness in the last few years, which turned data breaches into a prominent topic of discussion. Businesses, both online and offline, now have to seriously consider data privacy and how their consumers' information is handled. With regulations such as GDPR rearing their head, this topic cannot be avoided. 
+Data privacy issues have exploded in seriousness in the last few years, which turned data breaches into a prominent topic of discussion. Businesses, both online and offline, now have to seriously consider data privacy and how their consumers' information is handled. With regulations such as GDPR rearing their head, this topic cannot be avoided.
 
 In this article, we look at a range of aspects relating to data privacy. We delve into instances where trusted sites such as Yahoo have experienced data breaches. We also cover some common data privacy practices, and how technology is changing the way sensitive data is managed.
 
@@ -67,7 +67,7 @@ In today's world of advanced technology, we have a myriad of new processes that 
 
   <a href="https://interestingengineering.com/these-20-companies-are-placing-big-bets-on-blockchain-technology" target="_blank">The likes</a> of Microsoft, IBM, Fidelity Investments are exploring blockchain for data storage and management. Meanwhile, entertainment sites are now using it for secure crypto payments.
 
-* **Artificial Intelligence** – AI is being used throughout online businesses. It is an important tool for research and data gathering. Using AI, businesses can analyse a vast amount of data in a short time period. When it comes to security, AI algorithms can help businesses detect any suspicious traffic, fraudulent activity, or spam attack through data pattern analysis and recognition. For instance, <a href="https://www.siliconrepublic.com/enterprise/google-gmail-spam-tensorflow" target="_blank">Google's Gmail</a> is powered by AI solutions to identify spam messages. 
+* **Artificial Intelligence** – AI is being used throughout online businesses. It is an important tool for research and data gathering. Using AI, businesses can analyse a vast amount of data in a short time period. When it comes to security, AI algorithms can help businesses detect any suspicious traffic, fraudulent activity, or spam attack through data pattern analysis and recognition. For instance, <a href="https://www.siliconrepublic.com/enterprise/google-gmail-spam-tensorflow" target="_blank">Google's Gmail</a> is powered by AI solutions to identify spam messages.
 
 ***Related read: [All You Need to Know About Public & Private Blockchains](https://anadea.info/blog/public-and-private-blockchains)***
 

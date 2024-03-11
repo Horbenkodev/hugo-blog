@@ -21,9 +21,9 @@ Certain work requires specific tools, as people say. If you want to dig a hole -
 
 Any craftsman will tell you that your tool should be an extension of your arm. That is exactly why many professionals adjust the available tools to their own preferences: guitarists peel off the polish from a guitar's neck, racers select the best rubber for their race cars, programmers place a second monitor on their desks, choose frameworks and so on.
 
-Software is also a tool, just like a hammer, a fishing rod or a rope winch, it only differs by its complexity. When you choose a software product, it is much more difficult to get something that will ideally fit your business straight away, because every company works in its own way and you need to adjust the tools to the business processes but not vice versa. 
+Software is also a tool, just like a hammer, a fishing rod or a rope winch, it only differs by its complexity. When you choose a software product, it is much more difficult to get something that will ideally fit your business straight away, because every company works in its own way and you need to adjust the tools to the business processes but not vice versa.
 
-Any business consists of variety of tasks and these tasks may be so diverse that you may need several ready-made software tools to handle them. It doesn't sound very attractive, does it? Let's take a closer look at the advantages of <a href="https://anadea.info/services/custom-software-development" target="_blank">custom software development</a> over off-the-shelf programs. 
+Any business consists of variety of tasks and these tasks may be so diverse that you may need several ready-made software tools to handle them. It doesn't sound very attractive, does it? Let's take a closer look at the advantages of <a href="https://anadea.info/services/custom-software-development" target="_blank">custom software development</a> over off-the-shelf programs.
 
 ## Purpose
 
@@ -39,9 +39,9 @@ In addition, when it comes to expenses, custom software development remains an a
 
 ## Technologies
 
-When you develop your own custom software, you are not limited in the choice of technologies as it would happen with ready solutions. You can use any programming languages, frameworks, all the most interesting and useful technical innovations in order to achieve the desired result. A boxed software - in most cases - uses  time-tested and proven over the years technologies, however, many of them come a poor second to modern developments. In addition, there can appear the problem of incompatibility with the software tools that are already used in your company. And if your company is rapidly developing and expanding, you will face the fact that out-of-the-box technologies slow you down and can't cope with the constantly growing volume of data. You will have to either increase hardware capacity or start developing your custom software, which will initially be cut out for a fast growing business. 
+When you develop your own custom software, you are not limited in the choice of technologies as it would happen with ready solutions. You can use any programming languages, frameworks, all the most interesting and useful technical innovations in order to achieve the desired result. A boxed software - in most cases - uses  time-tested and proven over the years technologies, however, many of them come a poor second to modern developments. In addition, there can appear the problem of incompatibility with the software tools that are already used in your company. And if your company is rapidly developing and expanding, you will face the fact that out-of-the-box technologies slow you down and can't cope with the constantly growing volume of data. You will have to either increase hardware capacity or start developing your custom software, which will initially be cut out for a fast growing business.
 
-## Effectiveness 
+## Effectiveness
 
 Bespoke software will start paying off since its first days and you will be able to evaluate its effectiveness immediately. Besides, if you create it using Agile software development methodologies, you will become a full-fledged member of the team and will be able to keep your finger on the pulse of the development. If you don't like something in that version of an application, you will always be able to correct the flaws in the next one. Out-of-the-box software solutions won't grant you such privileges. You will be able to evaluate the effectiveness of using such ready-made programs only after a while. Moreover, very often your company will use only 20% of all the available  functionality while the other 80% simply remains unused. In custom designed software there won't be anything superfluous.
 
