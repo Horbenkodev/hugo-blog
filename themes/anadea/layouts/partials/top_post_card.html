@@ -1,0 +1,14 @@
+<article class="topPostCard">
+  <figure class="topPostCard__figure">
+    <img alt="" class="topPostCard__image" src="{{ .RelPermalink }}{{ .Params.image }}" />
+    <figcaption class="topPostCard__figcaption">
+      {{ partial "post_info.html" . }}
+      <a href="{{ .RelPermalink }}" style="text-decoration: none;">
+        <div class="topPostCard__titles">{{- .Params.title -}}</div>
+      </a>
+      <p class="topPostCard__descriptions">
+        {{- .Params.description -}}
+      </p>
+    </figcaption>
+  </figure>
+</article>

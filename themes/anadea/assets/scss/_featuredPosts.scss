@@ -1,8 +1,28 @@
 .featuredPosts {
-  display: grid;
-  grid-template-areas:
-    "promotion feature"
-    "promotion feature";
-  grid-template-rows: auto;
-  grid-template-columns: 460px 1fr;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+@include md {
+  .featuredPosts {
+    display: grid;
+    grid-template-areas:
+      "promotion promotion"
+      "feature feature";
+    grid-template-rows: auto;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 32px;
+  }
+}
+
+@include xl {
+  .featuredPosts {
+    display: grid;
+    grid-template-areas:
+      "promotion feature"
+      "promotion feature";
+    grid-template-rows: auto;
+    grid-template-columns: 460px 1fr;
+  }
 }

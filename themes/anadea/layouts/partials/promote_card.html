@@ -1,18 +1,13 @@
 <article class="promotionCard">
   <figure class="promotionCard__imageContainer">
-    <img
-      alt=""
-      class="promotionCard__image"
-      src="{{ .RelPermalink }}{{ .Params.image }}"
-    />
+    <img alt="" class="promotionCard__image" src="{{ .RelPermalink }}{{ .Params.image }}" />
     <figcaption class="promotionCard__info">
-      <a
-        class="promotionCard__link"
-        href="{{ .Params.promote.promote_url }}"
-        ><h3 class="promotionCard__titles">{{ .Params.title }}</h3></a
-      >
+      {{ partial "post_info.html" . }}
+      <a class="promotionCard__link" href="{{ .Params.promote.promote_url }}">
+        <h3 class="promotionCard__titles">{{- .Params.title -}}</h3>
+      </a>
       <div class="promotionCard__descriptions">
-        {{ .Params.description }}
+        {{- .Params.description -}}
       </div>
     </figcaption>
   </figure>

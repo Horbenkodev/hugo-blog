@@ -1,0 +1,27 @@
+// Small tablets and large smartphones (landscape view)
+@mixin sm {
+  @media screen and (width >= 576px) {
+    @content;
+  }
+}
+
+// Small tablets (portrait view)
+@mixin md {
+  @media screen and (width >= 768px) {
+    @content;
+  }
+}
+
+// Tablets and small desktops
+@mixin lg {
+  @media screen and (width >= 992px) {
+    @content;
+  }
+}
+
+// Large tablets and desktops
+@mixin xl {
+  @media screen and (width >= 1200px) {
+    @content;
+  }
+}
