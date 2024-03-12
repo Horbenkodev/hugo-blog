@@ -1,0 +1,30 @@
+.Pagination {
+  margin: 60px 0 160px;
+
+  &__list {
+    display: flex;
+    gap: 4px;
+    justify-content: end;
+    list-style-type: none;
+
+    &--item {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 46px;
+      height: 42px;
+      text-align: center;
+      border-radius: 9px;
+    }
+
+    &--link {
+      position: relative;
+      font-size: 16px;
+      text-decoration: none;
+    }
+  }
+}
+
+.active {
+  background-color: #ebeff8;
+}

@@ -12,9 +12,17 @@
     {{- end -}}
   </section>
 
+  {{ $feed := where .Site.RegularPages ".Params.promote.promote" "eq" false }}
+  {{ $feed = where $feed ".Params.top" "eq" false }}
+  {{ $paginator := .Paginate $feed }}
+
   <div class="postFeed">
-    {{- range .Site.RegularPages -}}
+    {{- range $paginator.Pages }}
       {{- partial "post_card.html" . -}}
-    {{- end -}}
+    {{ end -}}
   </div>
+
+  {{ partial "pagination.html" . }}
+
 {{ end }}
+
