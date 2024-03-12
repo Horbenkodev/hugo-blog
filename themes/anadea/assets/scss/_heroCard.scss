@@ -1,0 +1,114 @@
+$background-color: var(--hero-background);
+$social-color: var(--meta-text);
+
+.heroCard {
+  padding: 20px;
+  margin: unset;
+  background-color: $background-color;
+  border-radius: 24px;
+
+  &::after {
+    display: table;
+    clear: both;
+    content: "";
+  }
+
+  &__avatar {
+    float: left;
+    width: 102px;
+    height: auto;
+    aspect-ratio: 1;
+    margin-right: 20px;
+    margin-bottom: 16px;
+    object-fit: cover;
+    border-radius: 12px;
+  }
+
+  &__meta {
+    flex-grow: 1;
+  }
+
+  &__bio {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 118px;
+  }
+
+  &__name {
+    margin-top: 0;
+    margin-bottom: 6px;
+    font-size: clamped(22px, 28px);
+    font-weight: 700;
+    line-height: 1.2;
+  }
+
+  &__position {
+    margin-bottom: 12px;
+    font-size: 16px;
+    font-weight: 400;
+    color: $social-color;
+  }
+
+  &__description {
+    @include multiline-ellipsis(4);
+
+    margin-top: 0;
+    margin-bottom: 16px;
+    font-size: clamped(16px, 18px);
+    line-height: 1.5;
+  }
+
+  &__membership {
+    color: $social-color;
+  }
+}
+
+@include md {
+  .heroCard {
+    padding: unset;
+
+    &__avatar {
+      width: 280px;
+      margin-right: 40px;
+      margin-bottom: unset;
+      border-radius: unset;
+      border-top-left-radius: 24px;
+      border-bottom-left-radius: 24px;
+    }
+
+    &__wrapper {
+      padding: 20px 40px;
+    }
+
+    &__bio {
+      min-height: unset;
+    }
+  }
+}
+
+@media screen and (width >= 1024px) {
+  .heroCard {
+    &__avatar {
+      margin: unset;
+    }
+
+    &__wrapper {
+      display: flex;
+      gap: clamped(20px, 56px, 992px, 1200px);
+      padding: 40px;
+    }
+
+    &__membership {
+      flex-shrink: 0;
+    }
+  }
+}
+
+@include xl {
+  .heroCard {
+    &__description {
+      @include multiline-ellipsis(6);
+    }
+  }
+}

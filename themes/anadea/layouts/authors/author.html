@@ -1,9 +1,14 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
+{{- $baseName := path.BaseName .RelPermalink -}}
+{{- $author := index .Site.Data.authors $baseName -}}
 
-  {{ .Content }}
+{{ with $author }}
+    <h1>{{ .name }}</h1>
+    {{ partial "hero_card.html" . }}
+{{ end }}
   {{ range .Pages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
     {{ .Summary }}
   {{ end }}
 {{ end }}
+
