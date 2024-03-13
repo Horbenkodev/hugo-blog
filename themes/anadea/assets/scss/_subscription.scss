@@ -54,6 +54,7 @@ $text-color: var(--white);
     line-height: 34px;
     color: $background-color;
     cursor: pointer;
+    background-color: $text-color;
     border: none;
     border-radius: 5px;
   }
