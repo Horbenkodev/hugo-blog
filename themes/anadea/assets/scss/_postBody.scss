@@ -1,5 +1,7 @@
 .postBody {
-  display: flex;
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr auto;
   gap: 40px;
 
   aside {

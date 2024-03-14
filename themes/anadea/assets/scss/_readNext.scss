@@ -1,8 +1,6 @@
 .readNext {
-  position: relative;
-  display: flex;
-  gap: 15px;
-  overflow: hidden;
+  position: absolute;
+  bottom: 0;
 
   &__figure {
     display: flex;
