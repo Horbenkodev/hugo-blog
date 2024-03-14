@@ -30,6 +30,7 @@
 @import "socialShare";
 @import "subscription";
 @import "contacts";
+@import "footer";
 @import "promotionCard";
 @import "topPostCard";
 @import "base16-chalk.dark";
@@ -70,9 +71,8 @@ header {
   border-bottom: 1px solid #222222;
 }
 
-footer {
-  margin-top: 1rem;
-  border-top: 1px solid #222222;
+main {
+  padding: 70px 0;
 }
 
 a {
