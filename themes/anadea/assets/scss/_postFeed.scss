@@ -1,5 +1,19 @@
 .postFeed {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: 1fr;
   grid-gap: 40px;
+}
+
+@include md {
+  .postFeed {
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 32px;
+  }
+}
+
+@include xl {
+  .postFeed {
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 40px;
+  }
 }

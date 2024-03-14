@@ -1,6 +1,6 @@
 .container {
-  padding-right: 70px;
-  padding-left: 70px;
+  padding-right: 20px;
+  padding-left: 20px;
   margin: 0 auto;
 
   &__w1300 {
@@ -10,5 +10,12 @@
   &__w960 {
     box-sizing: content-box;
     max-width: 960px;
+  }
+}
+
+@include lg {
+  .container {
+    padding-right: 70px;
+    padding-left: 70px;
   }
 }

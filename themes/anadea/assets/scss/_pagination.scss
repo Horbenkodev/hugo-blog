@@ -4,7 +4,8 @@
   &__list {
     display: flex;
     gap: 4px;
-    justify-content: end;
+    justify-content: center;
+    padding: 0;
     list-style-type: none;
 
     &--item {
@@ -27,4 +28,12 @@
 
 .active {
   background-color: #ebeff8;
+}
+
+@include md {
+  .Pagination {
+    &__list {
+      justify-content: end;
+    }
+  }
 }
