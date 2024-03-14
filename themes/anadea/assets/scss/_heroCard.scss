@@ -1,9 +1,10 @@
-$background-color: var(--hero-background);
-$social-color: var(--meta-text);
+$background-color: var(--lavender-50);
+$social-color: var(--slate-gray);
 
 .heroCard {
   padding: 20px;
   margin: unset;
+  margin-bottom: 60px;
   background-color: $background-color;
   border-radius: 24px;
 
