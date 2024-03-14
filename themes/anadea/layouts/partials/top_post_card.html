@@ -1,3 +1,5 @@
+{{- $taxonomyList := slice "categories" "industries" -}}
+
 <article class="topPostCard">
   <figure class="topPostCard__figure">
     <img alt="" class="topPostCard__image" src="{{ .RelPermalink }}{{ .Params.image }}" />
@@ -9,6 +11,15 @@
       <p class="topPostCard__descriptions">
         {{- .Params.description -}}
       </p>
+      <div class="postCard__tagBlock">
+        {{- range $taxonomyList -}}
+          {{- with $.Page.GetTerms . -}}
+            {{- range . -}}
+              <a class="tag" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      </div>
     </figcaption>
   </figure>
 </article>
