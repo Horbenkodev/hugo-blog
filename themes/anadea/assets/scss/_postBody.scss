@@ -1,7 +1,7 @@
 .postBody {
   position: relative;
   display: grid;
-  grid-template-columns: 1fr auto;
+  grid-template-columns: 1fr;
   gap: 40px;
 
   aside {
@@ -10,6 +10,15 @@
     flex-direction: column;
     flex-shrink: 0;
     gap: 60px;
-    width: 260px;
+  }
+}
+
+@include lg {
+  .postBody {
+    grid-template-columns: 1fr auto;
+
+    aside {
+      width: 260px;
+    }
   }
 }

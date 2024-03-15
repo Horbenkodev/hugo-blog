@@ -2,11 +2,8 @@ $background-color: var(--medium-purple);
 $text-color: var(--white);
 
 .subscription {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 50px 60px;
-  margin-bottom: 60px;
+  padding: 32px;
+  margin: 60px 0;
   background-color: $background-color;
   border-radius: 24px;
 
@@ -16,19 +13,18 @@ $text-color: var(--white);
 
   &__title {
     margin: 0;
-    font-size: 40px;
+    font-size: 28px;
     font-weight: 700;
   }
 
   &__paragraph {
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 300;
   }
 
   &__form {
     display: flex;
     flex-direction: column;
-    width: 40%;
   }
 
   &__email {
@@ -46,16 +42,39 @@ $text-color: var(--white);
   }
 
   &__button {
-    width: 60%;
+    width: 100%;
     padding: 10px 30px;
     margin-top: 30px;
     font-size: 18px;
     font-weight: 700;
     line-height: 34px;
     color: $background-color;
-    cursor: pointer;
-    background-color: $text-color;
     border: none;
     border-radius: 5px;
+  }
+}
+
+@include md {
+  .subscription {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px 60px;
+
+    &__title {
+      font-size: 40px;
+    }
+
+    &__paragraph {
+      font-size: 18px;
+    }
+
+    &__form {
+      width: 40%;
+    }
+
+    &__button {
+      width: 100%;
+    }
   }
 }

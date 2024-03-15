@@ -2,8 +2,7 @@ $text-color: var(--black);
 $background-color: var(--lavender-50);
 
 .authorConnect {
-  position: sticky;
-  top: 20px;
+  position: relative;
   display: flex;
   flex-direction: column;
   gap: 20px;
@@ -59,5 +58,12 @@ $background-color: var(--lavender-50);
     &:hover {
       text-decoration-line: underline;
     }
+  }
+}
+
+@include lg {
+  .authorConnect {
+    position: sticky;
+    top: 20px;
   }
 }

@@ -1,6 +1,5 @@
 .readNext {
-  position: absolute;
-  bottom: 0;
+  position: relative;
 
   &__figure {
     display: flex;
@@ -43,5 +42,12 @@
   &__descriptions {
     font-size: 16px;
     font-weight: 400;
+  }
+}
+
+@include lg {
+  .readNext {
+    position: absolute;
+    bottom: 0;
   }
 }

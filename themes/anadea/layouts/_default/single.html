@@ -2,13 +2,21 @@
   {{- partial "post_head.html" . -}}
   <div class="container container__w960 postBody">
     <div class="markdown">
+      <article class="ToC__mobileOnly">
+        <div class="ToC">
+          <h6 class="ToC__title">Table of contents</h6>
+          {{ .TableOfContents }}
+        </div>
+      </article>
       {{ .Content }}
     </div>
     <aside>
-      <div class="ToC">
-        <h6 class="ToC_title">Table of contents</h6>
-        {{ .TableOfContents }}
-      </div>
+      <article class="ToC__desktopOnly">
+        <div class="ToC">
+          <h6 class="ToC__title">Table of contents</h6>
+          {{ .TableOfContents }}
+        </div>
+      </article>
 
       {{- with .Page.GetTerms "authors" -}}
         {{- with index . 0 -}}

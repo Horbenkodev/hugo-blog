@@ -3,6 +3,7 @@ $text-color: var(--white);
 
 .contacts {
   padding: 40px 30px;
+  margin-bottom: 70px;
   background-color: $background-color;
   border-radius: 15px;
 
@@ -58,6 +59,7 @@ $text-color: var(--white);
     font-weight: 700;
     line-height: 34px;
     color: $background-color;
+    cursor: pointer;
     border: none;
     border-radius: 5px;
   }

@@ -9,8 +9,8 @@ function questionToggler () {
       const isExpanded = element.getAttribute('aria-expanded') === 'false'
 
       element.setAttribute('aria-expanded', isExpanded)
-      indicator.classList.toggle('active')
-      answer.classList.toggle('active')
+      indicator.classList.toggle('indicator__active')
+      answer.classList.toggle('questions__foldable--active')
     })
   })
 }
