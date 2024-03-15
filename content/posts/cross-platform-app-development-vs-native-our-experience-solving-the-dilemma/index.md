@@ -1,7 +1,7 @@
 ---
 title: Cross-Platform App Development vs Native? Our Experience Solving the Dilemma
 slug: Cross-Platform App Development vs Native? Our Experience Solving the Dilemma
-date: 2024-01-04T10:36:00.000Z
+publishDate: 2024-01-04T10:36:00.000Z
 image: 8j1xcteb.jpg
 description: "When venturing into the mobile space, many businesses face a
   critical decision: choosing between native vs cross-platform development for

@@ -5,5 +5,5 @@
     {{- end }}
   {{- end -}}
   <div class="postInfo__bullet"></div>
-  <time class="postInfo__date" datetime="{{ .Params.date }}">{{ .Params.date | time.Format ":date_medium" }}</time>
+  <time class="postInfo__date" datetime="{{ .PublishDate }}">{{ .PublishDate | time.Format ":date_medium" }}</time>
 </div>

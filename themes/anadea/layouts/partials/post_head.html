@@ -1,5 +1,5 @@
-{{- $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" -}}
-{{- $dateHuman := .Date | time.Format ":date_long" -}}
+{{ $file := printf "%s/index.md" .Path }}
+{{ $lastMod := (os.Stat $file).ModTime }}
 
 <div class="container container__w960">
   {{- partial "breadcrumbs.html" . -}}
@@ -10,8 +10,8 @@
     </div>
     <h1 class="postHead__title">{{ .Title }}</h1>
 
-    <time class="postHead__dateInfo" datetime="{{ $dateMachine }}">Published on {{ $dateHuman }}</time>
-    <time class="postHead__dateInfo" datetime="{{ $dateMachine }}">Last updated on {{ $dateHuman }}</time>
+    <time class="postHead__dateInfo" datetime="{{ .PublishDate }}">Published on {{ .PublishDate | time.Format ":date_long" }}</time>
+    <time class="postHead__dateInfo" datetime="{{ $lastMod }}">Last updated on {{ $lastMod | time.Format ":date_long" }}</time>
 
     <img class="postHead__image" src="{{ .Params.image }}" alt="" style="" />
     <div class="postHead__footer">

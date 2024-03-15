@@ -1,7 +1,7 @@
 ---
 title: Our experience with Three.js library
 slug: Our experience with Three.js library
-date: 2022-08-24T13:13:00.000Z
+publishDate: 2022-08-24T13:13:00.000Z
 image: epxyl20r.jpg
 description: In the flow of everyday tasks from customers, we constantly had to
   face mechanisms for working with complex animations or with complex graphic
