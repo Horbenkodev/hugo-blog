@@ -1,9 +1,13 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
+  <header class="taxonomyPage">
+    <h1 class="taxonomyPage__title">Articles about {{ .Title }}</h1>
+  </header>
 
-  {{ .Content }}
-  {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
-  {{ end }}
+  <div class="postFeed">
+    {{- range .Pages }}
+      {{- partial "post_card.html" . -}}
+    {{ end -}}
+  </div>
+
+  {{- partial "subscription.html" . -}}
 {{ end }}
