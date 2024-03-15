@@ -1,6 +1,6 @@
 .markdown {
   min-width: 0;
-  font-size: 18px;
+  font-size: clamped(16px, 18px);
 
   :first-of-type {
     margin-top: 0;
@@ -28,14 +28,21 @@
   }
 
   table {
+    // @include AdaptiveTable;
     border-spacing: 0;
     border-collapse: collapse;
 
     th,
     td {
-      padding: 16px;
+      padding: clamped(8px, 16px);
       text-align: left;
       border: 1px solid #dddddd;
+    }
+
+    @media screen and (width <= 660px) {
+      display: inline-block;
+      max-width: 100%;
+      overflow: auto;
     }
   }
 
