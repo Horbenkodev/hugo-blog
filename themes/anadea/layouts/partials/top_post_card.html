@@ -2,16 +2,18 @@
 
 <article class="topPostCard">
   <figure class="topPostCard__figure">
-    <img alt="" class="topPostCard__image" src="{{ .RelPermalink }}{{ .Params.image }}" />
+    <img class="topPostCard__image" src="{{ .RelPermalink }}{{ .Params.image }}" alt="" />
     <figcaption class="topPostCard__figcaption">
       {{ partial "post_info.html" . }}
-      <a href="{{ .RelPermalink }}" style="text-decoration: none;">
-        <div class="topPostCard__titles">{{- .Params.title -}}</div>
-      </a>
-      <p class="topPostCard__descriptions">
+      <h2 class="topPostCard__title">
+        <a href="{{ .RelPermalink }}" class="topPostCard__link">
+          {{- .Params.title -}}
+        </a>
+      </h2>
+      <p class="topPostCard__description">
         {{- .Params.description -}}
       </p>
-      <div class="postCard__tagBlock">
+      <div class="topPostCard__tags">
         {{- range $taxonomyList -}}
           {{- with $.Page.GetTerms . -}}
             {{- range . -}}

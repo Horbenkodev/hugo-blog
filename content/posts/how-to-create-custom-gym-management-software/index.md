@@ -27,7 +27,6 @@ promote:
   promote: false
 authors:
   - Eric Theodore Cartman
-publishDate: 2024-02-05T13:35:00.000Z
 top: false
 categories:
   - Development

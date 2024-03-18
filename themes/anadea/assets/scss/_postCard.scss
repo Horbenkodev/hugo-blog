@@ -16,10 +16,11 @@ $title-color: var(--black);
   &__figcaption {
     display: flex;
     flex-direction: column;
-    padding: 20px 0;
+    padding-top: 14px;
   }
 
   &__image {
+    display: block;
     width: 100%;
     height: auto;
     aspect-ratio: 4 / 3;
@@ -28,11 +29,16 @@ $title-color: var(--black);
     border-radius: 24px;
   }
 
-  &__titles {
+  &__title {
     margin: 0;
     font-size: 18px;
     font-weight: 700;
+    line-height: 1.4;
     color: $title-color;
+  }
+
+  &__link {
+    text-decoration: none;
 
     &::before {
       position: absolute;
@@ -44,16 +50,31 @@ $title-color: var(--black);
     }
   }
 
-  &__descriptions {
+  &__description {
+    display: none;
     font-size: 16px;
     font-weight: 400;
   }
 
-  &__tagBlock {
+  &__tags {
     z-index: 2;
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
     margin-top: 10px;
+  }
+}
+
+@media screen and (width >= 426px) {
+  .postCard {
+    &__title {
+      font-size: 22px;
+      line-height: 30px;
+    }
+
+    &__description {
+      display: block;
+      margin: 10px 0;
+    }
   }
 }

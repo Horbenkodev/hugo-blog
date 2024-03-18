@@ -1,8 +1,8 @@
 .featuredPosts {
   display: flex;
   flex-direction: column;
-  gap: 30px;
-  margin-bottom: 60px;
+  gap: 40px;
+  margin-bottom: 64px;
 }
 
 @include md {
@@ -13,7 +13,7 @@
       "feature feature";
     grid-template-rows: auto;
     grid-template-columns: 1fr 1fr;
-    grid-gap: 32px;
+    grid-gap: 40px 34px;
   }
 }
 

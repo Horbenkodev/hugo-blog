@@ -1,6 +1,6 @@
 ---
 title: How to Create E-Learning Website and Attract Users
-
+publishDate: 2024-03-18T12:51:13.881Z
 image: ex5h2_ss.jpg
 description: Modern approaches to education seriously differ from traditional
   ones. And technologies play a vital role in this transformation. Thanks to the

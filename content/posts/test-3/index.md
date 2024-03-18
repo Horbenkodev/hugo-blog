@@ -1,6 +1,5 @@
 ---
 title: Post with shortcodes
-slug: ""
 publishDate: 2024-03-12T11:09:46.135Z
 image: ecommerce_outsourcing.png
 description: Post with shortcodes

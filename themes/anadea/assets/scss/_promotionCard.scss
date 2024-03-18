@@ -1,11 +1,11 @@
-$text-color: var(--white);
-
 .promotionCard {
+  --text-color: var(--white);
+
   display: flex;
   grid-area: promotion;
   width: 100%;
   min-height: 420px;
-  color: $text-color;
+  color: var(--text-color);
 
   &__imageContainer {
     position: relative;
@@ -35,12 +35,11 @@ $text-color: var(--white);
     flex-direction: column;
   }
 
-  &__titles {
+  &__title {
     margin: 6px 0;
-    font-size: 18px;
+    font-size: clamped(18px, 26px);
     font-weight: 700;
-    line-height: 34px;
-    color: $text-color;
+    line-height: 1.4;
   }
 
   &__link {
@@ -56,10 +55,8 @@ $text-color: var(--white);
     }
   }
 
-  &__descriptions {
-    font-size: 16px;
+  &__description {
+    font-size: clamped(16px, 18px);
     font-weight: 400;
-    line-height: 28px;
-    color: $text-color;
   }
 }

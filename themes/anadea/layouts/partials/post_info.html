@@ -2,8 +2,8 @@
   {{- with .Page.GetTerms "authors" -}}
     {{- with index . 0 -}}
       <a class="postInfo__link" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      <div class="postInfo__bullet"></div>
     {{- end }}
   {{- end -}}
-  <div class="postInfo__bullet"></div>
   <time class="postInfo__date" datetime="{{ .PublishDate }}">{{ .PublishDate | time.Format ":date_medium" }}</time>
 </div>

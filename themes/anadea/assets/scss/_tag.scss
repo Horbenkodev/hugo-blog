@@ -2,9 +2,14 @@ $main-color: var(--slate-gray);
 $hover-color: var(--black);
 
 .tag {
+  z-index: 2;
   display: flex;
   align-items: center;
-  padding: 0 clamped(10px, 17px);
+  height: 28px;
+  padding: 0 10px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
   color: $main-color;
   text-decoration: none;
   border: 1px $main-color solid;
@@ -14,5 +19,13 @@ $hover-color: var(--black);
     color: $hover-color;
     cursor: pointer;
     border-color: $hover-color;
+  }
+}
+
+@media screen and (width >= 426px) {
+  .tag {
+    height: 32px;
+    padding: 0 17px;
+    font-size: 14px;
   }
 }
