@@ -1,75 +1,94 @@
 {{- with .Paginator }}
-  {{- $currentPageNumber := .PageNumber }}
+  {{- if gt .TotalPages 1 }}
+    {{- $currentPageNumber := .PageNumber }}
 
-
-  <nav aria-label="pagination" class="Pagination">
-    <ul class="Pagination__list">
-      {{- with .Prev }}
-        <li class="Pagination__list--item">
-          <a href="{{ .URL }}" aria-label="Previous" class="Pagination__list--link" role="button"
-            ><span aria-hidden="true">&larr; Prev</span></a
-          >
-        </li>
-      {{- else }}
-        <li class="Pagination__list--item disabled">
-          <a aria-disabled="true" aria-label="Previous" class="Pagination__list--link" role="button" tabindex="-1"
-            ><span aria-hidden="true">&larr; Prev</span></a
-          >
-        </li>
-      {{- end }}
-
-      {{- $slots := 3 }}
-      {{- $start := math.Max 1 (sub .PageNumber (math.Floor (div $slots 2))) }}
-      {{- $end := math.Min .TotalPages (sub (add $start $slots) 1) }}
-      {{- if lt (add (sub $end $start) 1) $slots }}
-        {{- $start = math.Max 1 (add (sub $end $slots) 1) }}
-      {{- end }}
-
-      {{- if ne $start 1 }}
-        <li class="Pagination__list--item">
-          <a href="{{ .First.URL }}" aria-label="First Page" class="Pagination__list--link" role="button">1</a>
-        </li>
-        <li class="Pagination__list--item"><span class="Pagination__list--ellipsis">...</span></li>
-      {{- end }}
-
-      {{- range $k := seq $start $end }}
-        {{- if eq $.Paginator.PageNumber $k }}
-          <li class="Pagination__list--item active">
-            <a aria-current="page" aria-label="Page {{ $k }}" class="Pagination__list--link" role="button">{{ $k }}</a>
+    <nav aria-label="pagination" class="Pagination">
+      <ul class="Pagination__list">
+        {{- with .Prev }}
+          <li class="Pagination__item">
+            <a href="{{ .URL }}" aria-label="Previous" class="Pagination__link Pagination__link--prev" role="button">
+              <span aria-hidden="true"><&nbsp;Prev</span>
+            </a>
           </li>
         {{- else }}
-          <li class="Pagination__list--item">
-            <a
-              href="{{ (index $.Paginator.Pagers (sub $k 1)).URL }}"
-              aria-label="Page {{ $k }}"
-              class="Pagination__list--link"
-              role="button"
-              >{{ $k }}</a
-            >
+          <li class="Pagination__item disabled">
+            <a aria-disabled="true" aria-label="Previous" class="Pagination__link Pagination__link--prev" role="button" tabindex="-1">
+              <span aria-hidden="true"><&nbsp;Prev</span>
+            </a>
           </li>
         {{- end }}
-      {{- end }}
 
-      {{- if ne $end .TotalPages }}
-        <li class="Pagination__list--item"><span class="Pagination__list--ellipsis">...</span></li>
-        <li class="Pagination__list--item">
-          <a href="{{ .Last.URL }}" aria-label="Last Page" class="Pagination__list--link" role="button">{{ .TotalPages }}</a>
-        </li>
-      {{- end }}
+        {{- $start := 1 }}
+        {{- $end := .TotalPages }}
+        {{- $slots := 3 }}
 
-      {{- with .Next }}
-        <li class="Pagination__list--item">
-          <a href="{{ .URL }}" aria-label="Next" class="Pagination__list--link" role="button"
-            ><span aria-hidden="true">&rarr; Next</span></a
-          >
-        </li>
-      {{- else }}
-        <li class="Pagination__list--item disabled">
-          <a aria-disabled="true" aria-label="Next" class="Pagination__list--link" role="button" tabindex="-1"
-            ><span aria-hidden="true">&rarr; Next</span></a
-          >
-        </li>
-      {{- end }}
-    </ul>
-  </nav>
+        {{ if gt .TotalPages 5 }}
+          {{- $start = math.Max 1 (sub .PageNumber (math.Floor (div $slots 2))) }}
+          {{- $end = math.Min .TotalPages (sub (add $start $slots) 1) }}
+          {{- if lt (add (sub $end $start) 1) $slots }}
+            {{- $start = math.Max 1 (add (sub $end $slots) 1) }}
+          {{- end }}
+        {{- end }}
+
+        {{ if gt .TotalPages 5 }}
+          {{ if gt .PageNumber 2 }}
+            <li class="Pagination__item">
+              <a href="{{ .First.URL }}" aria-label="First Page" class="Pagination__link" role="button">1</a>
+            </li>
+            {{ if lt $slots .PageNumber }}
+              <li class="Pagination__item"><span class="Pagination__ellipsis">...</span></li>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+
+        {{- range $k := seq $start $end }}
+          {{- if eq $.Paginator.PageNumber $k }}
+            <li class="Pagination__item active">
+              <a aria-current="page" aria-label="Page {{ $k }}" class="Pagination__link" role="button">{{ $k }}</a>
+            </li>
+          {{- else }}
+            <li class="Pagination__item">
+              <a
+                href="{{ (index $.Paginator.Pagers (sub $k 1)).URL }}"
+                aria-label="Page {{ $k }}"
+                class="Pagination__link"
+                role="button"
+              >
+                {{ $k }}
+              </a>
+            </li>
+          {{- end }}
+        {{- end }}
+
+        {{ if gt .TotalPages 5 }}
+          {{ if lt .PageNumber (sub .TotalPages 1) }}
+            {{ if ge (sub .TotalPages $slots ) .PageNumber }}
+              <li class="Pagination__item"><span class="Pagination__ellipsis">...</span></li>
+            {{ end }}
+
+
+            <li class="Pagination__item">
+              <a href="{{ .Last.URL }}" aria-label="Last Page" class="Pagination__link" role="button">
+                {{ .TotalPages }}
+              </a>
+            </li>
+          {{ end }}
+        {{ end }}
+
+        {{- with .Next }}
+          <li class="Pagination__item">
+            <a href="{{ .URL }}" aria-label="Next" class="Pagination__link Pagination__link--next" role="button">
+              <span aria-hidden="true">Next&nbsp;></span>
+            </a>
+          </li>
+        {{- else }}
+          <li class="Pagination__item disabled">
+            <a aria-disabled="true" aria-label="Next" class="Pagination__link Pagination__link--next" role="button" tabindex="-1">
+              <span aria-hidden="true">Next&nbsp;></span>
+            </a>
+          </li>
+        {{- end }}
+      </ul>
+    </nav>
+  {{- end }}
 {{- end }}
