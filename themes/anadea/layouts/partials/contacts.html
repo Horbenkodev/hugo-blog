@@ -13,12 +13,24 @@
       class="contacts__item"
       placeholder="Phone"
       type="tel"
-    /><input class="contacts__item" placeholder="E-mail" type="email" /><textarea
-      class="contacts__item contacts__textarea"
-      placeholder="Description"
-      rows="10"
-    ></textarea
-    ><input class="contacts__file" id="file" type="file" /><label class="contacts__label" for="file">Attach file</label
-    ><input class="contacts__submit" type="submit" value="Send" />
+    />
+    <input class="contacts__item" placeholder="E-mail" type="email" />
+    <textarea class="contacts__item contacts__textarea" placeholder="Description" rows="10"></textarea>
+    <label class="contacts__label" for="file">Attach file</label>
+    <input class="contacts__file" id="file" type="file" onchange="handleFileInputChange(event)" />
+    <input class="contacts__submit" type="submit" value="Send" />
   </form>
 </section>
+
+<script>
+  function handleFileInputChange(event) {
+    const label = document.querySelector('.contacts__label');
+    const fileInput = event.target;
+
+    if (fileInput.files.length > 0) {
+      label.textContent = `${fileInput.files[0].name}`;
+    } else {
+      label.textContent = 'Attach file';
+    }
+  }
+</script>
