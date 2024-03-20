@@ -1,13 +1,17 @@
 {{ define "main" }}
-  <header class="taxonomyPage">
-    <h1 class="taxonomyPage__title">Articles about {{ .Title }}</h1>
-  </header>
+  <div class="container container__w1300">
+    {{- partial "breadcrumbs.html" . -}}
 
-  <div class="postFeed">
-    {{- range .Pages }}
-      {{- partial "post_card.html" . -}}
-    {{ end -}}
+    <header class="taxonomyPage">
+      <h1 class="taxonomyPage__title">Articles about {{ .Title }}</h1>
+    </header>
+
+    <div class="postFeed">
+      {{- range .Pages }}
+        {{- partial "post_card.html" . -}}
+      {{ end -}}
+    </div>
+
+    {{- partial "subscription.html" . -}}
   </div>
-
-  {{- partial "subscription.html" . -}}
 {{ end }}
