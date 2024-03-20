@@ -1,25 +1,40 @@
 @import "variables";
 @import "normalizer";
-@import "containers";
+@import "mediaQueries";
 @import "fonts";
 @import "utils";
+@import "containers";
 @import "markdown";
 @import "quotes";
 @import "breadcrumbs";
 @import "taxonomy";
+@import "pagination";
 @import "postHead";
 @import "postBody";
+@import "postCard";
+@import "featuredPosts";
 @import "authorCard";
 @import "authorConnect";
-@import "authorInfo";
+@import "heroCard";
+@import "postInfo";
+@import "postFeed";
 @import "readNext";
-@import "shortcodes";
+@import "keepReading";
+@import "shortcodes/ctabutton";
+@import "shortcodes/advert";
+@import "shortcodes/advertWithCTA";
 @import "questions/questions";
 @import "questions/indicator";
 @import "toc";
 @import "tag";
 @import "socialShare";
+@import "subscription";
+@import "contacts";
+@import "footer";
+@import "promotionCard";
+@import "topPostCard";
 @import "base16-chalk.dark";
+@import "taxonomyPage";
 
 html {
   box-sizing: border-box;
@@ -40,10 +55,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-a {
-  text-decoration: none;
-}
-
 button {
   cursor: pointer;
 }
@@ -52,21 +63,18 @@ button {
   @include sr-only();
 }
 
-header {
-  margin-bottom: 1rem;
-  border-bottom: 1px solid #222222;
-}
-
-footer {
-  margin-top: 1rem;
-  border-top: 1px solid #222222;
-}
-
 a {
-  color: #111111;
+  color: inherit;
   text-decoration: underline;
 }
 
 .center {
   text-align: center;
+}
+
+.title {
+  margin-top: clamped(20px, 28px);
+  margin-bottom: clamped(20px, 40px);
+  font-size: clamped(36px, 56px);
+  line-height: 1;
 }

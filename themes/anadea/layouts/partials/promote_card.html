@@ -1,0 +1,16 @@
+<article class="promotionCard">
+  <figure class="promotionCard__imageContainer">
+    <img alt="" class="promotionCard__image" src="{{ .RelPermalink }}{{ .Params.image }}" />
+    <figcaption class="promotionCard__info">
+      {{ partial "post_info.html" . }}
+      <h2 class="promotionCard__title">
+        <a class="promotionCard__link" href="{{ .Params.promote.promote_url }}">
+          {{- .Params.title -}}
+        </a>
+      </h2>
+      <div class="promotionCard__description">
+        {{- .Params.description -}}
+      </div>
+    </figcaption>
+  </figure>
+</article>

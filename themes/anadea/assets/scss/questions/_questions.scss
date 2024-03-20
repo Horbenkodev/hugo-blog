@@ -7,7 +7,6 @@ $indicator-size: clamped(28px, 44px);
 $grid-gap: clamped(16px, 22px);
 
 .questions {
-  margin-top: 160px;
   margin-bottom: 60px;
 
   &__title {
@@ -29,6 +28,7 @@ $grid-gap: clamped(16px, 22px);
     gap: $grid-gap;
     align-items: center;
     min-height: 116px;
+    padding: 24px 0;
     font-size: clamped(22px, 32px);
     line-height: 1.2;
     counter-increment: question;
@@ -82,7 +82,7 @@ $grid-gap: clamped(16px, 22px);
       grid-template-rows 0.5s ease-out,
       opacity 0.5s ease-out;
 
-    &.active {
+    &--active {
       grid-template-rows: 1fr;
       opacity: 1;
     }

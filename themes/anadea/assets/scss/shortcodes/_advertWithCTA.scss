@@ -1,0 +1,56 @@
+$background-color: var(--medium-purple);
+$text-color: var(--white);
+
+.advertWithCTA {
+  display: flex;
+  flex-direction: column;
+  padding: 32px;
+  margin-bottom: 60px;
+  background-color: $background-color;
+  border-radius: 24px;
+
+  :first-child {
+    margin: 0;
+  }
+
+  @at-root h2.advertWithCTA__title {
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 36px;
+    color: $text-color;
+  }
+
+  &__description {
+    margin: 0;
+    margin-top: 12px;
+    font-size: 18px;
+    line-height: 28px;
+    color: $text-color;
+
+    a {
+      color: $text-color;
+      text-decoration: underline;
+    }
+  }
+
+  &__button {
+    padding: 10px 30px;
+    margin-top: 24px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 34px;
+    color: $background-color;
+    text-align: center;
+    text-decoration: none;
+    background-color: $text-color;
+    border-radius: 5px;
+  }
+}
+
+@include md {
+  .advertWithCTA {
+    &__button {
+      width: 25%;
+    }
+  }
+}

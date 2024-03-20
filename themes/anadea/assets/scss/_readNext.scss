@@ -1,8 +1,5 @@
 .readNext {
   position: relative;
-  display: flex;
-  gap: 15px;
-  overflow: hidden;
 
   &__figure {
     display: flex;
@@ -26,7 +23,7 @@
     border-radius: 24px;
   }
 
-  &__titles {
+  &__title {
     margin: 0;
     font-size: 18px;
     font-weight: 700;
@@ -42,7 +39,7 @@
     }
   }
 
-  &__descriptions {
+  &__description {
     font-size: 16px;
     font-weight: 400;
   }

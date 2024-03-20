@@ -1,0 +1,27 @@
+{{- $dateMachine := .memberSince | time.Format "2006-01-02T15:04:05-07:00" -}}
+{{- $dateHuman := .memberSince | time.Format ":date_short" -}}
+
+<section class="heroCard">
+  <img
+    alt="lYaitopc.jpg"
+    class="heroCard__avatar"
+    src="{{ .avatar }}"
+    style="color: transparent;"
+  />
+  <div class="heroCard__wrapper">
+    <div class="heroCard__meta">
+      <div class="heroCard__bio">
+        <h3 class="heroCard__name">{{ .name }}</h3>
+        <div class="heroCard__position">{{ .position }}</div>
+      </div>
+      <p class="heroCard__description">
+        {{- .description -}}
+      </p>
+    </div>
+    <div class="heroCard__membership">
+      <time class="postHead__dateInfo" datetime="{{ $dateMachine }}">Member since {{ $dateHuman }}</time>
+      <div>Social Icons</div>
+    </div>
+  </div>
+</section>
+

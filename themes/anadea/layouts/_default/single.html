@@ -1,28 +1,39 @@
 {{- define "main" -}}
-  {{- partial "postHead.html" . -}}
+  {{- partial "post_head.html" . -}}
   <div class="container container__w960 postBody">
+    <article class="ToC__mobileOnly">
+      <div class="ToC">
+        <h6 class="ToC__title">Table of contents</h6>
+        {{ .TableOfContents }}
+      </div>
+    </article>
     <div class="markdown">
       {{ .Content }}
     </div>
     <aside>
-      <div class="ToC">
-        <h6 class="ToC_title">Table of contents</h6>
-        {{ .TableOfContents }}
-      </div>
+      <article class="ToC__desktopOnly">
+        <div class="ToC">
+          <h6 class="ToC__title">Table of contents</h6>
+          {{ .TableOfContents }}
+        </div>
+      </article>
 
       {{- with .Page.GetTerms "authors" -}}
         {{- with index . 0 -}}
           {{- $baseName := path.BaseName .Path -}}
           {{- $author := index .Site.Data.authors $baseName -}}
-          {{- partial "connectAuthor.html" (dict "author" $author "url" .RelPermalink) -}}
+          {{- partial "connect_author.html" (dict "author" $author "url" .RelPermalink) -}}
         {{- end -}}
       {{- end -}}
 
-      {{- partial "readNext.html" . -}}
+      {{- partial "read_next.html" . -}}
     </aside>
-
   </div>
   <div class="container container__w1300">
     {{- partial "questions.html" . -}}
+    {{- partial "subscription.html" . -}}
+    {{- partial "keep_reading.html" . -}}
+    {{- partial "contacts.html" . -}}
+
   </div>
 {{- end -}}
