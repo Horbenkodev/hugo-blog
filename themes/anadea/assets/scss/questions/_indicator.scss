@@ -6,7 +6,7 @@
   transition: rotate 0.3s ease-in-out;
   rotate: 0deg;
 
-  &.active {
+  &__active {
     rotate: 180deg;
   }
 
@@ -14,8 +14,8 @@
     opacity: 1;
     transition: opacity 0.3s ease-in-out;
   }
-}
 
-.active .indicator__disappearing {
-  opacity: 0;
+  &__active .indicator__disappearing {
+    opacity: 0;
+  }
 }

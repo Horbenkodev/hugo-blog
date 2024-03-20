@@ -2,6 +2,7 @@ $text-color: var(--black);
 $background-color: var(--lavender-50);
 
 .authorConnect {
+  position: relative;
   display: flex;
   flex-direction: column;
   gap: 20px;

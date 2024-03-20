@@ -1,0 +1,23 @@
+$background-color: var(--medium-purple);
+$text-color: var(--white);
+
+.advert {
+  display: flex;
+  flex-direction: column;
+  padding: 32px;
+  margin-bottom: 60px;
+  background-color: $background-color;
+  border-radius: 24px;
+
+  &__description {
+    margin: 0;
+    font-size: 18px;
+    line-height: 28px;
+    color: $text-color;
+  }
+
+  a {
+    color: $text-color;
+    text-decoration: underline;
+  }
+}

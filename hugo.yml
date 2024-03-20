@@ -5,6 +5,39 @@ taxonomies:
   category: categories
   industry: industries
   author: authors
+related:
+  includeNewer: true
+  indices:
+    - applyFilter: false
+      cardinalityThreshold: 0
+      name: keywords
+      pattern: ""
+      toLower: true
+      type: basic
+      weight: 100
+    - applyFilter: false
+      cardinalityThreshold: 100
+      name: date
+      pattern: ""
+      toLower: true
+      type: basic
+      weight: 100
+    - applyFilter: false
+      cardinalityThreshold: 100
+      name: categories
+      pattern: ""
+      toLower: true
+      type: basic
+      weight: 100
+    - applyFilter: false
+      cardinalityThreshold: 100
+      name: industries
+      pattern: ""
+      toLower: true
+      type: basic
+      weight: 100
+  threshold: 100
+  toLower: true
 module:
   hugoVersion:
     extended: true
@@ -27,3 +60,4 @@ permalinks:
     posts: '/:sections[1:]/:slug/'
   section:
     posts: '/:sections[1:]/'
+paginate: 9

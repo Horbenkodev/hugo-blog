@@ -1,9 +1,19 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
+{{- $baseName := path.BaseName .RelPermalink -}}
+{{- $author := index .Site.Data.authors $baseName -}}
 
-  {{ .Content }}
-  {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
-  {{ end }}
+  <div class="container container__w1300">
+    {{ with $author }}
+        <h1>{{ .name }}</h1>
+        {{ partial "hero_card.html" . }}
+    {{ end }}
+      <div class="postFeed">
+        {{- range .Pages }}
+          {{- partial "post_card.html" . -}}
+        {{ end -}}
+      </div>
+
+      {{- partial "subscription.html" . -}}
+  </div>
 {{ end }}
+

@@ -1,8 +1,8 @@
 ---
 title: "Cloud Cost Optimization: How to Reduce Your Expenses"
 slug: "Cloud Cost Optimization: How to Reduce Your Expenses"
-date: 2023-10-31T09:59:00.000Z
-image: test.png
+publishDate: 2023-10-31T09:59:00.000Z
+image: 1kbyhhw5.jpg
 description: Cloud technologies are among those that shape the business software
   infrastructure today. Companies and organizations all over the world rely on
   cloud services and are gradually migrating their existing data and apps to the
@@ -33,7 +33,7 @@ authors:
   - Eric Theodore Cartman
   - Kyle Broflovski
 categories:
-  - DevOps
+  - Development
 ---
 Cloud technologies are among those that shape the business software infrastructure today. Companies and organizations all over the world rely on cloud services and are gradually migrating their existing data and apps to the cloud. Today around 60% of all the global corporate data is kept in cloud storage. It is expected that by 2025, the volume of data stored in the cloud will reach 200 ZB.
 
