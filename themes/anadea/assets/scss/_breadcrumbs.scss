@@ -1,0 +1,47 @@
+$gap: clamped(10px, 18px);
+
+.breadcrumbs {
+  @include reset-list;
+
+  display: flex;
+  gap: $gap;
+  font-size: 14px;
+  line-height: 1;
+
+  &__item {
+    display: flex;
+    gap: $gap;
+    align-items: center;
+    color: var(--body-text);
+
+    &:not(:last-child)::after {
+      display: inline-flex;
+      width: calc(0.75em * cos(45));
+      aspect-ratio: 1 / 1;
+      content: "";
+      border: 1px solid currentcolor;
+      border-bottom: 0;
+      border-left: 0;
+      opacity: 0.8;
+      transform: rotate(45deg);
+    }
+  }
+
+  &__link {
+    font-weight: 400;
+    color: currentcolor;
+    text-decoration-line: none;
+    opacity: 0.8;
+
+    &:hover {
+      text-decoration-line: underline;
+    }
+
+    &[aria-current] {
+      @include multiline-ellipsis(1);
+
+      font-weight: 700;
+      opacity: 1;
+    }
+  }
+}

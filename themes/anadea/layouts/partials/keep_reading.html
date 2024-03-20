@@ -1,0 +1,11 @@
+{{ $related := .Site.RegularPages.Related . | first 3 }}
+{{ with $related }}
+  <section class="keepReading">
+    <h3 class="keepReading__title">Keep reading</h3>
+    <div class="keepReading__content">
+      {{ range . }}
+        {{ partial "post_card.html" . }}
+      {{ end }}
+    </div>
+  </section>
+{{ end }}

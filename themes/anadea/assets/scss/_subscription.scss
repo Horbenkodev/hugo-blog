@@ -1,0 +1,82 @@
+$background-color: var(--medium-purple);
+$text-color: var(--white);
+
+.subscription {
+  padding: 32px;
+  margin-bottom: 60px;
+  background-color: $background-color;
+  border-radius: 24px;
+
+  &__content {
+    color: $text-color;
+  }
+
+  &__title {
+    margin: 0;
+    font-size: 28px;
+    font-weight: 700;
+  }
+
+  &__paragraph {
+    font-size: 16px;
+    font-weight: 300;
+  }
+
+  &__form {
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__email {
+    padding: 16px 8px;
+    font-size: 18px;
+    font-weight: 300;
+    color: $text-color;
+    background: none;
+    border: none;
+    border-bottom: 1px solid $text-color;
+
+    &::placeholder {
+      color: $text-color;
+    }
+  }
+
+  &__button {
+    width: 100%;
+    padding: 10px 0;
+    margin-top: 30px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 34px;
+    color: $background-color;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+  }
+}
+
+@include md {
+  .subscription {
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px 60px;
+
+    &__title {
+      font-size: 40px;
+    }
+
+    &__paragraph {
+      font-size: 18px;
+    }
+
+    &__form {
+      width: 35%;
+    }
+
+    &__button {
+      width: 60%;
+    }
+  }
+}

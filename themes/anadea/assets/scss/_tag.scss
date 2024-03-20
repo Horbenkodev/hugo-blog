@@ -1,0 +1,31 @@
+$main-color: var(--slate-gray);
+$hover-color: var(--black);
+
+.tag {
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  height: 28px;
+  padding: 0 10px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: $main-color;
+  text-decoration: none;
+  border: 1px $main-color solid;
+  border-radius: 5000px;
+
+  &:hover {
+    color: $hover-color;
+    cursor: pointer;
+    border-color: $hover-color;
+  }
+}
+
+@media screen and (width >= 426px) {
+  .tag {
+    height: 32px;
+    padding: 0 17px;
+    font-size: 14px;
+  }
+}

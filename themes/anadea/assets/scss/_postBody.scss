@@ -1,0 +1,26 @@
+.postBody {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 40px;
+  margin-bottom: 60px;
+
+  aside {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    gap: 60px;
+  }
+}
+
+@include lg {
+  .postBody {
+    grid-template-columns: 1fr auto;
+    margin-bottom: 160px;
+
+    aside {
+      width: 260px;
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{{ $file := printf "%s/index.md" .Path }}
+{{ $lastMod := (os.Stat $file).ModTime }}
+
+<div class="container container__w960">
+  {{- partial "breadcrumbs.html" . -}}
+
+  <div class="postHead">
+    <div class="postHead__tags">
+      {{- partial "taxonomy.html" . -}}
+    </div>
+    <h1 class="postHead__title">{{ .Title }}</h1>
+
+    <time class="postHead__dateInfo" datetime="{{ .PublishDate }}">Published on {{ .PublishDate | time.Format ":date_long" }}</time>
+    <time class="postHead__dateInfo" datetime="{{ $lastMod }}">Last updated on {{ $lastMod | time.Format ":date_long" }}</time>
+
+    <img class="postHead__image" src="{{ .Params.image }}" alt="" style="" />
+    <div class="postHead__footer">
+      <div class="postHead__authors">
+        {{- partial "authors.html" . -}}
+      </div>
+      <div class="postHead__social">
+        {{- partial "social_share.html" . -}}
+      </div>
+    </div>
+  </div>
+</div>

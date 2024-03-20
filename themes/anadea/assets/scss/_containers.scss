@@ -1,0 +1,21 @@
+.container {
+  padding-right: 20px;
+  padding-left: 20px;
+  margin: 0 auto;
+
+  &__w1300 {
+    max-width: 1300px;
+  }
+
+  &__w960 {
+    box-sizing: content-box;
+    max-width: 960px;
+  }
+}
+
+@include lg {
+  .container {
+    padding-right: 70px;
+    padding-left: 70px;
+  }
+}

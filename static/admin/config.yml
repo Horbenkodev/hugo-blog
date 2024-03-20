@@ -18,4 +18,124 @@ collections:
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Slug", name: "slug", widget: "string", required: false}
+      - {label: "Publish Date", name: "publishDate", widget: "datetime", default: ""}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Short Description", name: "description", widget: "text"}
 
+      - label: "Questionary"
+        name: "questionary"
+        widget: "list"
+        fields:
+          - {label: Question, name: question, widget: string, required: false}
+          - {label: Answer, name: answer, widget: string, required: false}
+
+      - label: "Promote post"
+        name: "promote"
+        widget: "object"
+        fields:
+          - {label: "Promote", name: "promote", widget: "boolean", required: false, default: false}
+          - {label: "Promote Url", name: "promote_url", widget: "string", required: false}
+
+      - {label: "Top", name: "top", widget: "boolean", required: false, default: false}
+
+      - label: Authors
+        name: authors
+        widget: relation
+        collection: "authors"
+        required: false
+        multiple: true
+        search_fields: ["name"]
+        display_fields: ["name"]
+        value_field: "name"
+
+      - label: "Categories"
+        name: "categories"
+        widget: "relation"
+        collection: "categories"
+        required: false
+        multiple: true
+        search_fields: ["name"]
+        display_fields: ["name"]
+        value_field: "name"
+
+      - label: "Industries"
+        name: "industries"
+        widget: "relation"
+        collection: "industries"
+        required: false
+        multiple: true
+        search_fields: ["name"]
+        display_fields: ["name"]
+        value_field: "name"
+
+  - label: "Authors"
+    label_singular: "Author"
+    identifier_field: name
+    name: "authors"
+    folder: "data/authors"
+    path: "{{slug}}"
+    extension: 'json'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Member Since", name: "memberSince", widget: "datetime"}
+      - label: "Avatar"
+        name: "avatar"
+        widget: "image"
+        required: false
+        default: '/img/default-avatar-icon.svg'
+        media_folder: "/static/img/avatars"
+        public_folder: "/img/avatars"
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Short Description", name: "shortDescription", widget: "text"}
+      - {label: "Position", name: "position", widget: "string", required: false}
+
+  - label: "Categories"
+    label_singular: "Category"
+    identifier_field: name
+    name: "categories"
+    folder: "data/categories"
+    path: "{{slug}}"
+    extension: 'json'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - {label: "Name", name: "name", widget: "string"}
+
+  - label: "Industries"
+    label_singular: "Industry"
+    identifier_field: name
+    name: "industries"
+    folder: "data/industries"
+    path: "{{slug}}"
+    extension: 'json'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - {label: "Name", name: "name", widget: "string"}
+
+  - name: "site_settings"
+    label: "Site Settings"
+    files:
+      - file: "hugo.yml"
+        label: Hugo Config
+        name: config
+        fields:
+          - {label: Site Title for Browser Tab, name: title, widget: string}
+          - label: Params
+            name: params
+            widget: object
+            fields:
+              - { label: Meta Title, name: meta_title, widget: string }
+              - { label: Meta Description, name: meta_description, widget: text }
+              - label: OG Image
+                name: og_image
+                widget: image
+                media_folder: "static/og_images"
+                public_folder: "/og_images"

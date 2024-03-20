@@ -1,0 +1,31 @@
+$text-color: var(--slate-gray);
+
+.postInfo {
+  z-index: 2;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 32px;
+  color: var(--text-color, $text-color);
+
+  &__bullet {
+    flex-shrink: 0;
+    width: 0.5em;
+    height: 0.5em;
+    background-color: var(--text-color, $text-color);
+    border-radius: 50%;
+  }
+
+  &__link {
+    @include multiline-ellipsis(1);
+
+    color: var(--text-color, $text-color);
+    text-decoration: none;
+  }
+
+  &__date {
+    white-space: nowrap;
+  }
+}

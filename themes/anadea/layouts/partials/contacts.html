@@ -1,0 +1,36 @@
+<section class="contacts">
+  <div class="contacts__content">
+    <div>
+      <h2 class="contacts__title">Drop Us a Line</h2>
+      <p class="contacts__paragraph">
+        Thanks for your interest in Anadea. In case you need to contact us, please fill in the form.
+      </p>
+    </div>
+    <p class="contacts__paragraph">Send us your request for proposal, and we'll reply with the estimate.</p>
+  </div>
+  <form class="contacts__form">
+    <input class="contacts__item" placeholder="Your Name" type="text" /><input
+      class="contacts__item"
+      placeholder="Phone"
+      type="tel"
+    />
+    <input class="contacts__item" placeholder="E-mail" type="email" />
+    <textarea class="contacts__item contacts__textarea" placeholder="Description" rows="10"></textarea>
+    <label class="contacts__label" for="file">Attach file</label>
+    <input class="contacts__file" id="file" type="file" onchange="handleFileInputChange(event)" />
+    <input class="contacts__submit" type="submit" value="Send" />
+  </form>
+</section>
+
+<script>
+  function handleFileInputChange(event) {
+    const label = document.querySelector('.contacts__label');
+    const fileInput = event.target;
+
+    if (fileInput.files.length > 0) {
+      label.textContent = `${fileInput.files[0].name}`;
+    } else {
+      label.textContent = 'Attach file';
+    }
+  }
+</script>

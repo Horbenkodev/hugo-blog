@@ -1,0 +1,33 @@
+{{- define "main" -}}
+  {{- $promote := where .Site.RegularPages "Params.promote.promote" "==" true -}}
+  {{- $top := where .Site.RegularPages "Params.top" "==" true -}}
+
+  <div class="container container__w1300">
+    {{- partial "breadcrumbs.html" . -}}
+
+    <h1 class="title">Anadea Blog</h1>
+    <section class="featuredPosts">
+      {{- range first 1 $promote -}}
+        {{- partial "promote_card.html" . -}}
+      {{- end -}}
+
+      {{- range first 2 $top }}
+        {{- partial "top_post_card.html" . -}}
+      {{- end -}}
+    </section>
+
+    {{ $feed := where .Site.RegularPages ".Params.promote.promote" "eq" false }}
+    {{ $feed = where $feed ".Params.top" "eq" false }}
+    {{ $paginator := .Paginate $feed }}
+
+    <div class="postFeed">
+      {{- range $paginator.Pages }}
+        {{- partial "post_card.html" . -}}
+      {{ end -}}
+    </div>
+
+    {{ partial "pagination.html" . }}
+    {{ partial "subscription.html" . }}
+  </div>
+{{ end }}
+

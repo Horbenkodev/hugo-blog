@@ -1,0 +1,27 @@
+{{- $taxonomyList := slice "categories" "industries" -}}
+
+<article class="topPostCard">
+  <figure class="topPostCard__figure">
+    <img class="topPostCard__image" src="{{ .RelPermalink }}{{ .Params.image }}" alt="" />
+    <figcaption class="topPostCard__figcaption">
+      {{ partial "post_info.html" . }}
+      <h2 class="topPostCard__title">
+        <a href="{{ .RelPermalink }}" class="topPostCard__link">
+          {{- .Params.title -}}
+        </a>
+      </h2>
+      <p class="topPostCard__description">
+        {{- .Params.description -}}
+      </p>
+      <div class="topPostCard__tags">
+        {{- range $taxonomyList -}}
+          {{- with $.Page.GetTerms . -}}
+            {{- range . -}}
+              <a class="tag" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      </div>
+    </figcaption>
+  </figure>
+</article>

@@ -1,0 +1,30 @@
+.featuredPosts {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  margin-bottom: 64px;
+}
+
+@include md {
+  .featuredPosts {
+    display: grid;
+    grid-template-areas:
+      "promotion promotion"
+      "feature feature";
+    grid-template-rows: auto;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 40px 34px;
+  }
+}
+
+@include xl {
+  .featuredPosts {
+    display: grid;
+    grid-template-areas:
+      "promotion feature"
+      "promotion feature";
+    grid-template-rows: auto;
+    grid-template-columns: 460px 1fr;
+    margin-bottom: 120px;
+  }
+}

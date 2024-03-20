@@ -1,0 +1,60 @@
+$name-text: var(--black);
+$position-text: var(--slate-gray);
+$background-color: var(--white);
+
+.authorCard {
+  position: relative;
+  display: flex;
+  gap: clamped(12px, 18px);
+  align-items: center;
+  padding: clamped(12px, 18px);
+  margin: 0;
+  background-color: $background-color;
+  border-radius: 24px;
+
+  &__link {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+
+    &::before {
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      content: "";
+    }
+  }
+
+  &__avatar {
+    width: clamped(42px, 56px);
+    height: auto;
+    aspect-ratio: 1;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+
+  &__info {
+    text-align: start;
+  }
+
+  &__name {
+    font-size: clamped(16px, 18px);
+    font-weight: 700;
+    color: $name-text;
+  }
+
+  &__position {
+    font-size: clamped(14px, 16px);
+    font-weight: 400;
+    color: $position-text;
+  }
+}
+
+@media screen and (width >= 768px) {
+  .authorCard {
+    padding: 0;
+    background-color: $background-color;
+  }
+}
