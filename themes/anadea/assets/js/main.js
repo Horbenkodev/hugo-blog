@@ -1,3 +1,5 @@
+import './header'
+
 function questionToggler () {
   const controls = document.querySelectorAll('.questions__control')
 
