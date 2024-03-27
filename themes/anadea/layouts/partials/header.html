@@ -44,3 +44,71 @@
   </div>
 </nav>
 
+<nav class="headerMobile">
+  <div class="header__container">
+    <div class="headerMobile__logo">
+      <a href="https://anadea.info/" class="headerMobile__wrapperLink">
+        <span class="sr-only">Anadea</span>
+        <img alt="" aria-hidden="true" width="76" height="9" src="/img/logoMobile.svg" />
+      </a>
+    </div>
+
+    <button class="headerMobile__burger">
+      <div class="headerMobile__inner"></div>
+    </button>
+
+    <ul class="headerMobile__menu">
+      <li class="headerMobile__menuItem">
+        <a href="https://anadea.info/projects">Portfolio</a>
+      </li>
+      <li class="headerMobile__menuItem">
+        <a href="https://anadea.info/services">Services</a>
+      </li>
+      <li class="headerMobile__menuItem">
+        <a href="https://anadea.info/solutions">Industries</a>
+      </li>
+      <li class="headerMobile__menuItem">
+        <a href="https://anadea.info/guides">Guides</a>
+      </li>
+      <li class="headerMobile__menuItem">
+        <a href="https://anadea.info/about-us">About</a>
+      </li>
+
+      <div>
+        <a href="https://anadea.info/free-project-estimate" class="headerMobile__callToAction">
+          Get Estimate
+        </a>
+      </div>
+    </ul>
+  </div>
+  <div class="headerMobile__shadow"></div>
+</nav>
+
+<script>
+  function burgerToggler () {
+    const controls = document.querySelectorAll('.headerMobile__burger')
+    let isActive = false;
+
+    controls.forEach((element) => {
+      element.addEventListener('click', () => {
+        const inner = document.querySelector('.headerMobile__inner')
+        const menu = document.querySelector('.headerMobile__menu')
+        const shadow = document.querySelector('.headerMobile__shadow')
+        inner.classList.toggle('active')
+        menu.classList.toggle('active')
+        shadow.classList.toggle('active')
+
+        isActive = !isActive
+
+        if (isActive) {
+          document.body.style.overflow = 'hidden';
+        } else {
+          document.body.style.overflow = '';
+        }
+
+      })
+    })
+  }
+
+  document.addEventListener('DOMContentLoaded', burgerToggler)
+</script>

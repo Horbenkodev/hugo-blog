@@ -37,10 +37,6 @@ $hover-text: var(--persian-rose);
 
     a {
       text-decoration: none;
-
-      &:hover {
-        text-decoration: underline;
-      }
     }
   }
 
@@ -56,6 +52,150 @@ $hover-text: var(--persian-rose);
 
     &:hover {
       background-color: var(--persian-rose-200);
+    }
+  }
+}
+
+.headerMobile {
+  display: block;
+  height: 52px;
+  margin-bottom: 48px;
+  background-color: $background-color;
+
+  &__wrapperLink {
+    border-bottom: 2px solid $hover-text;
+  }
+
+  &__burger {
+    position: relative;
+    z-index: 10;
+    width: 28px;
+    height: 28px;
+    padding: 0;
+    cursor: pointer;
+    background: none;
+    border: none;
+  }
+
+  &__inner {
+    width: 28px;
+    height: 2px;
+    color: $meta-text;
+    background-color: currentcolor;
+    border-radius: 2px;
+    transition: all ease 0.3s;
+
+    &::before,
+    &::after {
+      position: absolute;
+      display: block;
+      width: 28px;
+      content: "";
+      border: 1px solid $meta-text;
+      transition: transform ease 0.3s;
+      transform-origin: 0 center;
+    }
+
+    &::before {
+      top: 3px;
+    }
+
+    &::after {
+      bottom: 3px;
+    }
+
+    &.active {
+      width: 0;
+
+      &::after {
+        transform: rotate(-45deg);
+      }
+
+      &::before {
+        transform: rotate(45deg);
+      }
+    }
+  }
+
+  &__menu {
+    position: absolute;
+    top: 52px;
+    right: 0;
+    z-index: 9;
+    display: block;
+    width: 100%;
+    height: 100vh;
+    padding: 50px 20px 14px;
+    margin: 0;
+    list-style-type: none;
+    visibility: hidden;
+    background: $background-color;
+    opacity: 0;
+    transition: all 0.3s;
+
+    &.active {
+      visibility: visible;
+      opacity: 1;
+    }
+  }
+
+  &__menuItem {
+    padding: 16px;
+    font-size: 22px;
+    font-weight: 800;
+    color: $meta-text;
+
+    a {
+      text-decoration: none;
+    }
+  }
+
+  &__callToAction {
+    display: block;
+    width: 100%;
+    padding: 12px 18px;
+    margin-top: 140px;
+    color: $meta-text;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    background-color: $hover-text;
+    border-radius: 4px;
+
+    &:hover {
+      background-color: var(--persian-rose-200);
+    }
+  }
+
+  &__shadow {
+    position: absolute;
+    z-index: 7;
+    display: none;
+    width: 100%;
+    height: 100vh;
+    background-color: var(--black);
+    opacity: 0.3;
+
+    &.active {
+      display: block;
+    }
+  }
+}
+
+@include xl {
+  .header {
+    display: block;
+  }
+
+  .headerMobile {
+    display: none;
+  }
+}
+
+@include sm {
+  .headerMobile {
+    &__menu {
+      width: 300px;
     }
   }
 }
