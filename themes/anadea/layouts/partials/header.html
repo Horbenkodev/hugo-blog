@@ -1,2 +1,46 @@
-<h1>{{ site.Title }}</h1>
-{{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+<nav class="header">
+  <div class="header__container">
+    <div class="header__logo">
+      <a href="https://anadea.info/" class="header__wrapperlink">
+        <span class="sr-only">Anadea</span>
+        <img alt="" aria-hidden="true" width="56" height="42" src="/img/logo.svg" />
+      </a>
+    </div>
+
+    <div class="header__menu">
+      <ul class="header__menuList">
+        <li class="header__menuItem">
+          <a href="https://anadea.info/projects">
+            Portfolio
+          </a>
+        </li>
+        <li class="header__menuItem">
+          <a href="https://anadea.info/services">
+            Services
+          </a>
+        </li>
+        <li class="header__menuItem">
+          <a href="https://anadea.info/solutions">
+            Industries
+          </a>
+        </li>
+        <li class="header__menuItem">
+          <a href="https://anadea.info/guides">
+            Guides
+          </a>
+        </li>
+        <li class="header__menuItem">
+          <a href="https://anadea.info/about-us">
+            About
+          </a>
+        </li>
+      </ul>
+      <div>
+        <a href="https://anadea.info/free-project-estimate" class="header__callToAction">
+          Get Estimate
+        </a>
+      </div>
+    </div>
+  </div>
+</nav>
+

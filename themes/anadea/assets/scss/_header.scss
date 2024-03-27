@@ -1,0 +1,61 @@
+$background-color: var(--dark-gray);
+$meta-text: var(--white);
+$hover-text: var(--persian-rose);
+
+.header {
+  display: none;
+  height: 74px;
+  margin-bottom: 48px;
+  background-color: $background-color;
+
+  &__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1300px;
+    height: 100%;
+    padding-right: 70px;
+    padding-left: 70px;
+    margin: 0 auto;
+    font-size: 16px;
+    line-height: 16px;
+  }
+
+  &__menu {
+    display: flex;
+    align-items: center;
+  }
+
+  &__menuList {
+    display: flex;
+    gap: 36px;
+    list-style-type: none;
+  }
+
+  &__menuItem {
+    color: $meta-text;
+
+    a {
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  &__callToAction {
+    padding: 12px 18px;
+    margin-left: 40px;
+    color: $meta-text;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    background-color: $hover-text;
+    border-radius: 4px;
+
+    &:hover {
+      background-color: var(--persian-rose-200);
+    }
+  }
+}
