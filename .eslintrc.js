@@ -2,13 +2,16 @@ module.exports = {
   env: {
     browser: true,
     es2021: true,
-    node: true
+    node: true,
   },
-  extends: 'standard',
-  overrides: [],
+  extends: ['eslint:recommended', 'plugin:prettier/recommended'],
   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module'
+    sourceType: 'module',
   },
-  rules: {}
-}
+  plugins: ['prettier', '@stylistic'],
+  overrides: [],
+  rules: {
+    '@stylistic/semi': 'error',
+  },
+  reportUnusedDisableDirectives: true,
+};

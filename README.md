@@ -1,5 +1,11 @@
 # Setting up your environment
 
+## Install Go on macOS
+
+```bash
+brew install go
+```
+
 ## Install Hugo on macOS
 
 ```bash
@@ -12,10 +18,48 @@ brew install hugo
 brew install sass/sass/sass
 ```
 
-## Install Go on macOS
+### Check that everything is installed
 
 ```bash
-brew install go
+sass --embedded --version
 ```
 
-Or follow by references [Install Hugo on macOS, Linux, Windows, BSD, and on any machine that can run the Go compiler tool chain.](https://gohugo.io/installation/)
+```bash
+{
+  "protocolVersion": "2.5.0",
+  "compilerVersion": "1.72.0",
+  "implementationVersion": "1.72.0",
+  "implementationName": "dart-sass",
+  "id": 0
+}
+```
+
+```bash
+hugo env
+```
+
+```bash
+hugo v0.123.8-5fed9c591b694f314e5939548e11cc3dcb79a79c+extended darwin/arm64 BuildDate=2024-03-07T13:14:42Z VendorInfo=brew
+GOOS="darwin"
+GOARCH="arm64"
+GOVERSION="go1.22.1"
+github.com/sass/libsass="3.6.5"
+github.com/webmproject/libwebp="v1.3.2"
+github.com/sass/dart-sass/protocol="2.5.0"
+github.com/sass/dart-sass/compiler="1.72.0"
+github.com/sass/dart-sass/implementation="1.72.0"
+```
+
+## Install node dependencies
+
+```bash
+npm install
+```
+
+### Start dev server
+
+ ```bash
+ npm run dev
+ ```
+
+Web Server is available at ```http://localhost:1313/```
