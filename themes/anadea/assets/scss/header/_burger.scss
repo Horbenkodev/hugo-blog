@@ -1,0 +1,64 @@
+@use "sass:math";
+$burger-width: 28px;
+
+.burger {
+  position: relative;
+  z-index: 10;
+  display: inline-flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: $burger-width;
+  height: $burger-width;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+  background: none;
+  border: none;
+
+  &__inner {
+    width: $burger-width;
+    height: 2px;
+    color: white;
+    background-color: currentcolor;
+    border-radius: 2px;
+    opacity: 1;
+    transition: all ease 0.3s;
+
+    &::before,
+    &::after {
+      position: absolute;
+      display: block;
+      width: $burger-width;
+      height: 0;
+      content: "";
+      border: 1px solid white;
+      opacity: 1;
+      transition: transform ease 0.3s;
+      transform-origin: 0 center;
+    }
+
+    &::before {
+      top: 3px;
+    }
+
+    &::after {
+      bottom: 3px;
+    }
+
+    @at-root .active & {
+      width: 0;
+      color: transparent;
+
+      $size: $burger-width * math.sin(45);
+      $shift: ($burger-width - $size) * 2;
+
+      &::after {
+        transform: translateX($shift) rotate(-45deg);
+      }
+
+      &::before {
+        transform: translateX($shift) rotate(45deg);
+      }
+    }
+  }
+}

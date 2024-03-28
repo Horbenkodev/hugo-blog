@@ -1,2 +1,61 @@
-<h1>{{ site.Title }}</h1>
-{{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+<nav class="header" aria-label="Main navigation" role="navigation">
+  <div class="header__container">
+    <div class="header__logo--desktop">
+      <a href="https://anadea.info/" class="header__wrapperlink">
+        <span class="sr-only">Anadea</span>
+        <img alt="" aria-hidden="true" width="56" height="42" src="/img/logo.svg" />
+      </a>
+    </div>
+
+    <div class="header__logo">
+      <a href="https://anadea.info/" class="header__wrapperLink">
+        <span class="sr-only">Anadea</span>
+        <img alt="" aria-hidden="true" width="76" height="9" src="/img/logoMobile.svg" />
+      </a>
+    </div>
+
+    {{ $uniqID := crypto.FNV32a "Toggle" }}
+    <button class="burger"
+      aria-label="Toggle menu"
+      aria-expanded="false"
+      aria-controls="{{ $uniqID }}">
+      <div class="burger__inner"></div>
+    </button>
+
+    <div class="header__menu menu" id="{{ $uniqID }}">
+      <ul class="menu__list">
+        <li class="menu__item">
+          <a class="menu__link" href="https://anadea.info/projects">
+            Portfolio
+          </a>
+        </li>
+        <li class="menu__item">
+          <a class="menu__link" href="https://anadea.info/services">
+            Services
+          </a>
+        </li>
+        <li class="menu__item">
+          <a class="menu__link" href="https://anadea.info/solutions">
+            Industries
+          </a>
+        </li>
+        <li class="menu__item">
+          <a class="menu__link" href="https://anadea.info/guides">
+            Guides
+          </a>
+        </li>
+        <li class="menu__item">
+          <a class="menu__link" href="https://anadea.info/about-us">
+            About
+          </a>
+        </li>
+      </ul>
+      <div>
+        <a href="https://anadea.info/free-project-estimate" class="header__callToAction">
+          Get Estimate
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="header__shadow"></div>
+</nav>

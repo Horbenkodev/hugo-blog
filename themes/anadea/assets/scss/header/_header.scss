@@ -1,0 +1,137 @@
+$background-color: var(--dark-gray);
+$meta-text: var(--white);
+$hover-text: var(--persian-rose);
+
+.header {
+  display: block;
+  height: 52px;
+  margin-bottom: 48px;
+  background-color: $background-color;
+
+  &__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1300px;
+    height: 100%;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin: 0 auto;
+    font-size: 16px;
+    line-height: 16px;
+  }
+
+  &__logo {
+    display: block;
+
+    &--desktop {
+      display: none;
+    }
+  }
+
+  &__wrapperLink {
+    border-bottom: 2px solid $hover-text;
+  }
+
+  &__menu {
+    position: absolute;
+    top: 52px;
+    right: 0;
+    z-index: 9;
+    width: 100%;
+    height: 100%;
+    padding: 50px 20px 14px;
+    list-style-type: none;
+    visibility: hidden;
+    background: $background-color;
+    opacity: 0;
+
+    &.active {
+      visibility: visible;
+      opacity: 1;
+      transition: all 0.3s;
+    }
+  }
+
+  &__callToAction {
+    display: block;
+    width: 100%;
+    padding: 12px 18px;
+    margin-top: 140px;
+    color: $meta-text;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    background-color: $hover-text;
+    border-radius: 4px;
+
+    &:hover {
+      background-color: var(--persian-rose-200);
+    }
+  }
+
+  &__shadow {
+    position: absolute;
+    z-index: 7;
+    display: none;
+    width: 100%;
+    height: 100vh;
+    background-color: var(--black);
+    opacity: 0.3;
+
+    &.active {
+      display: block;
+    }
+  }
+}
+
+@include sm {
+  .header {
+    &__menu {
+      width: 400px;
+    }
+  }
+}
+
+@include lg {
+  .header {
+    &__container {
+      padding-right: 70px;
+      padding-left: 70px;
+    }
+  }
+}
+
+@include xl {
+  .header {
+    height: 74px;
+
+    &__logo {
+      display: none;
+
+      &--desktop {
+        display: block;
+      }
+    }
+
+    &__burger {
+      display: none;
+    }
+
+    &__menu {
+      visibility: visible;
+      opacity: 1;
+    }
+
+    &__callToAction {
+      margin: 0;
+      margin-left: 40px;
+    }
+
+    &__shadow {
+      &.active {
+        display: none;
+      }
+    }
+  }
+}
