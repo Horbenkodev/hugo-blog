@@ -1,13 +1,13 @@
 function burgerToggler () {
-  const controls = document.querySelectorAll('.header__burger')
   let isActive = false
 
-  const inner = document.querySelector('.header__inner')
+  const burger = document.querySelector('.burger')
   const menu = document.querySelector('.header__menu')
   const shadow = document.querySelector('.header__shadow')
 
   function activate () {
-    inner.classList.add('active')
+    burger.classList.add('active')
+    burger.setAttribute('aria-expanded', isActive)
     menu.classList.add('active')
     shadow.classList.add('active')
     document.body.style.overflow = 'hidden'
@@ -15,21 +15,20 @@ function burgerToggler () {
 
   function deactivate () {
     document.body.style.overflow = ''
-    inner.classList.remove('active')
+    burger.classList.remove('active')
+    burger.setAttribute('aria-expanded', isActive)
     menu.classList.remove('active')
     shadow.classList.remove('active')
   }
 
-  controls.forEach((element) => {
-    element.addEventListener('click', () => {
-      isActive = !isActive
+  burger.addEventListener('click', () => {
+    isActive = !isActive
 
-      if (isActive) {
-        activate()
-      } else {
-        deactivate()
-      }
-    })
+    if (isActive) {
+      activate()
+    } else {
+      deactivate()
+    }
   })
 
   window.addEventListener('resize', deactivate)

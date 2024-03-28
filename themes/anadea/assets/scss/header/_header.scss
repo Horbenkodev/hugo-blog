@@ -33,57 +33,6 @@ $hover-text: var(--persian-rose);
     border-bottom: 2px solid $hover-text;
   }
 
-  &__burger {
-    position: relative;
-    z-index: 10;
-    width: 28px;
-    height: 28px;
-    padding: 0;
-    cursor: pointer;
-    background: none;
-    border: none;
-  }
-
-  &__inner {
-    width: 28px;
-    height: 2px;
-    color: $meta-text;
-    background-color: currentcolor;
-    border-radius: 2px;
-    transition: all ease 0.3s;
-
-    &::before,
-    &::after {
-      position: absolute;
-      display: block;
-      width: 28px;
-      content: "";
-      border: 1px solid $meta-text;
-      transition: transform ease 0.3s;
-      transform-origin: 0 center;
-    }
-
-    &::before {
-      top: 3px;
-    }
-
-    &::after {
-      bottom: 3px;
-    }
-
-    &.active {
-      width: 0;
-
-      &::after {
-        transform: rotate(-45deg);
-      }
-
-      &::before {
-        transform: rotate(45deg);
-      }
-    }
-  }
-
   &__menu {
     position: absolute;
     top: 52px;
