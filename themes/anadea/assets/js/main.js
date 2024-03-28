@@ -1,2 +1,3 @@
-import './header'
-import './questionToggler'
+import './dark-mode';
+import './header';
+import './questionToggler';
