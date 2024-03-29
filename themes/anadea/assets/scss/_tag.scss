@@ -1,6 +1,16 @@
 $main-color: var(--slate-gray);
 $hover-color: var(--black);
 
+@mixin light {
+  --main-text: var(--silver);
+  --hover-text: var(--white);
+}
+
+@mixin dark {
+  --main-text: var(--slate-gray);
+  --hover-text: var(--black);
+}
+
 .tag {
   z-index: 2;
   display: flex;
@@ -10,15 +20,15 @@ $hover-color: var(--black);
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
-  color: $main-color;
+  color: var(--main-text);
   text-decoration: none;
-  border: 1px $main-color solid;
+  border: 1px var(--main-text) solid;
   border-radius: 5000px;
 
   &:hover {
-    color: $hover-color;
+    color: var(--hover-text);
     cursor: pointer;
-    border-color: $hover-color;
+    border-color: var(--hover-text);
   }
 }
 
@@ -28,4 +38,28 @@ $hover-color: var(--black);
     padding: 0 17px;
     font-size: 14px;
   }
+}
+
+@media (prefers-color-scheme: dark) {
+  .tag {
+    :scope {
+      @include dark;
+    }
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .tag {
+    :scope {
+      @include light;
+    }
+  }
+}
+
+[data-theme='dark'] .tag {
+  @include dark;
+}
+
+[data-theme='light'] .tag {
+  @include light;
 }

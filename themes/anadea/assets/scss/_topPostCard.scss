@@ -1,4 +1,10 @@
-$title-color: var(--black);
+@mixin light {
+  --main-text: var(--white);
+}
+
+@mixin dark {
+  --main-text: var(--black);
+}
 
 .topPostCard {
   position: relative;
@@ -31,7 +37,7 @@ $title-color: var(--black);
     font-size: 18px;
     font-weight: 700;
     line-height: 1.4;
-    color: $title-color;
+    color: var(--main-text);
   }
 
   &__link {
@@ -43,7 +49,7 @@ $title-color: var(--black);
       right: 0;
       width: 100%;
       height: 100%;
-      content: "";
+      content: '';
     }
   }
 
@@ -108,4 +114,28 @@ $title-color: var(--black);
       aspect-ratio: 1 / 1;
     }
   }
+}
+
+@media (prefers-color-scheme: dark) {
+  .topPostCard {
+    :scope {
+      @include dark;
+    }
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .topPostCard {
+    :scope {
+      @include light;
+    }
+  }
+}
+
+[data-theme='dark'] .topPostCard {
+  @include dark;
+}
+
+[data-theme='light'] .topPostCard {
+  @include light;
 }

@@ -1,5 +1,14 @@
-$text-color: var(--black);
-$background-color: var(--lavender-50);
+@mixin light {
+  --main-text: var(--white);
+  --meta-text: var(--silver);
+  --background-color: var(--shark);
+}
+
+@mixin dark {
+  --main-text: var(--black);
+  --meta-text: var(--slate-gray);
+  --background-color: var(--lavender-50);
+}
 
 .authorConnect {
   position: relative;
@@ -8,7 +17,7 @@ $background-color: var(--lavender-50);
   gap: 20px;
   padding: 20px 30px;
   font-size: 16px;
-  background: $background-color;
+  background-color: var(--background-color);
   border-radius: 24px;
 
   &__title {
@@ -24,7 +33,7 @@ $background-color: var(--lavender-50);
   }
 
   &__link {
-    color: $text-color;
+    color: var(--main-text);
     text-decoration: none;
   }
 
@@ -41,7 +50,7 @@ $background-color: var(--lavender-50);
     @include multiline-ellipsis(3);
 
     font-weight: 400;
-    color: $text-color;
+    color: var(--meta-text);
   }
 
   &__action {
@@ -59,4 +68,28 @@ $background-color: var(--lavender-50);
       text-decoration-line: underline;
     }
   }
+}
+
+@media (prefers-color-scheme: dark) {
+  .authorConnect {
+    :scope {
+      @include dark;
+    }
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .authorConnect {
+    :scope {
+      @include light;
+    }
+  }
+}
+
+[data-theme='dark'] .authorConnect {
+  @include dark;
+}
+
+[data-theme='light'] .authorConnect {
+  @include light;
 }

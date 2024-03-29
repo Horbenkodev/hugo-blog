@@ -1,6 +1,18 @@
-.Pagination {
-  $disabled-color: var(--slate-gray);
+@mixin light {
+  --active-background: var(--dark-gray);
+  --active-color: var(--white);
+  --main-color: var(--silver);
+  --disabled-color: var(--slate-gray);
+}
 
+@mixin dark {
+  --active-background: var(--lavender-100);
+  --active-color: var(--black);
+  --main-color: var(--dark-gray);
+  --disabled-color: var(--slate-gray);
+}
+
+.Pagination {
   margin-bottom: 160px;
 
   &__list {
@@ -41,16 +53,18 @@
     justify-content: center;
     min-width: 46px;
     height: 42px;
+    color: var(--main-color);
     text-align: center;
     border-radius: 9px;
   }
 
   .active {
-    background-color: #ebeff8;
+    color: var(--active-color);
+    background-color: var(--active-background);
   }
 
   .disabled {
-    color: $disabled-color;
+    color: var(--disabled-color);
   }
 }
 
@@ -60,4 +74,28 @@
       justify-content: end;
     }
   }
+}
+
+@media (prefers-color-scheme: dark) {
+  .Pagination {
+    :scope {
+      @include dark;
+    }
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .Pagination {
+    :scope {
+      @include light;
+    }
+  }
+}
+
+[data-theme='dark'] .Pagination {
+  @include dark;
+}
+
+[data-theme='light'] .Pagination {
+  @include light;
 }

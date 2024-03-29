@@ -1,6 +1,14 @@
-$name-text: var(--black);
-$position-text: var(--slate-gray);
-$background-color: var(--white);
+@mixin light {
+  --name-text: var(--white);
+  --position-text: var(--slate-gray);
+  --background-color: var(--black);
+}
+
+@mixin dark {
+  --name-text: var(--black);
+  --position-text: var(--slate-gray);
+  --background-color: var(--white);
+}
 
 .authorCard {
   position: relative;
@@ -9,7 +17,7 @@ $background-color: var(--white);
   align-items: center;
   padding: clamped(12px, 18px);
   margin: 0;
-  background-color: $background-color;
+  background-color: var(--background-color);
   border-radius: 24px;
 
   &__link {
@@ -23,7 +31,7 @@ $background-color: var(--white);
       right: 0;
       bottom: 0;
       left: 0;
-      content: "";
+      content: '';
     }
   }
 
@@ -42,19 +50,43 @@ $background-color: var(--white);
   &__name {
     font-size: clamped(16px, 18px);
     font-weight: 700;
-    color: $name-text;
+    color: var(--name-text);
   }
 
   &__position {
     font-size: clamped(14px, 16px);
     font-weight: 400;
-    color: $position-text;
+    color: var(--position-text);
   }
 }
 
 @media screen and (width >= 768px) {
   .authorCard {
     padding: 0;
-    background-color: $background-color;
+    background-color: var(--background-color);
   }
+}
+
+@media (prefers-color-scheme: dark) {
+  .authorCard {
+    :scope {
+      @include dark;
+    }
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .authorCard {
+    :scope {
+      @include light;
+    }
+  }
+}
+
+[data-theme='dark'] .authorCard {
+  @include dark;
+}
+
+[data-theme='light'] .authorCard {
+  @include light;
 }

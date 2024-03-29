@@ -1,10 +1,20 @@
-$counter-color: var(--slate-gray);
-$main-color: var(--black);
 $border-color: var(--gunmetal);
 
 $counter-size: clamped(18px, 52px);
 $indicator-size: clamped(28px, 44px);
 $grid-gap: clamped(16px, 22px);
+
+@mixin light {
+  --main-text: var(--white);
+  --meta-text: var(--silver);
+  --background-color: var(--black);
+}
+
+@mixin dark {
+  --main-text: var(--black);
+  --meta-text: var(--slate-gray);
+  --background-color: var(--white);
+}
 
 .questions {
   margin-bottom: 60px;
@@ -23,7 +33,7 @@ $grid-gap: clamped(16px, 22px);
   &__item {
     position: relative;
     display: grid;
-    grid-template-areas: "counter question indicator";
+    grid-template-areas: 'counter question indicator';
     grid-template-columns: $counter-size 1fr fit-content($indicator-size);
     gap: $grid-gap;
     align-items: center;
@@ -40,7 +50,7 @@ $grid-gap: clamped(16px, 22px);
       margin-left: clamped(2px, 32px);
       font-size: 16px;
       font-weight: 400;
-      color: $counter-color;
+      color: var(--meta-text);
       content: counter(question, decimal-leading-zero);
     }
   }
@@ -49,7 +59,7 @@ $grid-gap: clamped(16px, 22px);
     grid-area: question;
     padding: 0;
     font-weight: 700;
-    color: $main-color;
+    color: var(--main-text);
     text-align: left;
     cursor: pointer;
     background: none;
@@ -62,7 +72,7 @@ $grid-gap: clamped(16px, 22px);
       bottom: 0;
       left: 0;
       z-index: 1;
-      content: "";
+      content: '';
     }
 
     // focus ring fix
@@ -99,7 +109,7 @@ $grid-gap: clamped(16px, 22px);
 
   &__inner {
     display: grid;
-    grid-template-areas: "counter answer";
+    grid-template-areas: 'counter answer';
     grid-template-columns: $counter-size 1fr;
     gap: $grid-gap;
     overflow: hidden;
@@ -107,7 +117,7 @@ $grid-gap: clamped(16px, 22px);
     // Counter placeholder
     &::before {
       grid-area: counter;
-      content: "";
+      content: '';
     }
   }
 
@@ -117,6 +127,30 @@ $grid-gap: clamped(16px, 22px);
     font-size: clamped(16px, 22px);
     font-weight: 400;
     line-height: 1.4;
-    color: $main-color;
+    color: var(--main-text);
   }
+}
+
+@media (prefers-color-scheme: dark) {
+  .questions {
+    :scope {
+      @include dark;
+    }
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .questions {
+    :scope {
+      @include light;
+    }
+  }
+}
+
+[data-theme='dark'] .questions {
+  @include dark;
+}
+
+[data-theme='light'] .questions {
+  @include light;
 }

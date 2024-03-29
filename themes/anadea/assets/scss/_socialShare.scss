@@ -1,6 +1,12 @@
-.socialShare {
-  $icon-fill: var(--body-text);
+@mixin light {
+  --main-color: var(--white);
+}
 
+@mixin dark {
+  --main-color: var(--black);
+}
+
+.socialShare {
   display: flex;
   gap: 16px;
   min-height: 24px;
@@ -10,6 +16,30 @@
   &__icon {
     max-width: 24px;
     height: 24px;
-    fill: $icon-fill;
+    fill: var(--main-color);
   }
+}
+
+@media (prefers-color-scheme: dark) {
+  .socialShare {
+    :scope {
+      @include dark;
+    }
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .socialShare {
+    :scope {
+      @include light;
+    }
+  }
+}
+
+[data-theme='dark'] .socialShare {
+  @include dark;
+}
+
+[data-theme='light'] .socialShare {
+  @include light;
 }
