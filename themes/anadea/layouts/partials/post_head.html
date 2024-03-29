@@ -2,7 +2,8 @@
 {{ $lastMod := (os.Stat $file).ModTime }}
 
 <div class="container container__w960">
-  {{- partial "breadcrumbs.html" . -}}
+  {{- partial "pageHead.html" . -}}
+
 
   <div class="postHead">
     <div class="postHead__tags">

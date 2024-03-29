@@ -3,7 +3,8 @@
   {{- $top := where .Site.RegularPages "Params.top" "==" true -}}
 
   <div class="container container__w1300">
-    {{- partial "breadcrumbs.html" . -}}
+
+    {{- partial "pageHead.html" . -}}
 
     <h1 class="title">Anadea Blog</h1>
     <section class="featuredPosts">
