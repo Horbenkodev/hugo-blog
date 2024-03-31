@@ -50,3 +50,9 @@ $default-max-bp: 1200px;
   margin: 0;
   list-style: none;
 }
+
+@mixin focus-ring($offset-px: 0) {
+  outline: 1px auto Highlight; // firefox
+  outline: var(--default-focus-ring);
+  outline-offset: $offset-px;
+}
