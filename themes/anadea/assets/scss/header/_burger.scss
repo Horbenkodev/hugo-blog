@@ -1,5 +1,6 @@
 @use "sass:math";
 $burger-width: 28px;
+$cross-with: math.hypot($burger-width, $burger-width);
 
 .burger {
   position: relative;
@@ -11,8 +12,9 @@ $burger-width: 28px;
   height: $burger-width;
   padding: 0;
   margin: 0;
+  overflow: hidden; // safari focus ring fix
   cursor: pointer;
-  background: none;
+  background-color: transparent;
   border: none;
 
   &__inner {
@@ -29,11 +31,14 @@ $burger-width: 28px;
       position: absolute;
       display: block;
       width: $burger-width;
-      height: 0;
+      height: 2px;
       content: "";
-      border: 1px solid white;
+      background-color: currentcolor;
+      border-radius: 2px;
       opacity: 1;
-      transition: transform ease 0.3s;
+      transition:
+        all ease 0.3s,
+        width 0.1s linear;
       transform-origin: 0 center;
     }
 
@@ -49,15 +54,24 @@ $burger-width: 28px;
       width: 0;
       color: transparent;
 
-      $size: $burger-width * math.sin(45);
-      $shift: ($burger-width - $size) * 2;
-
-      &::after {
-        transform: translateX($shift) rotate(-45deg);
+      &::after,
+      &::before {
+        width: $cross-with;
+        color: var(--white);
+        transition:
+          all ease 0.3s,
+          width 0.3s ease-in-out,
+          translate 0s;
       }
 
       &::before {
-        transform: translateX($shift) rotate(45deg);
+        top: 0;
+        transform: translateY(-1px) rotate(45deg);
+      }
+
+      &::after {
+        bottom: 0;
+        transform: translateY(1px) rotate(-45deg);
       }
     }
   }

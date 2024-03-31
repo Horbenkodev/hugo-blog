@@ -64,6 +64,15 @@ $grid-gap: clamped(16px, 22px);
       z-index: 1;
       content: "";
     }
+
+    // focus ring fix
+    &:focus-visible {
+      outline: none;
+
+      &::before {
+        @include focus-ring;
+      }
+    }
   }
 
   &__indicator {

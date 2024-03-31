@@ -19,11 +19,11 @@
   }
 
   ul {
-    all: unset;
+    @include reset-list;
+
     display: flex;
     flex-direction: column;
     gap: 8px;
-    padding: 0;
   }
 
   li {

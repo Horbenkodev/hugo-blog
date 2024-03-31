@@ -1,40 +1,28 @@
 .menu {
-  height: 100%;
+  --text-color: var(--white);
+  --accent-color: var(--persian-rose);
 
-  &__list {
-    display: flex;
-    flex-direction: column;
-    padding: 0;
-    list-style-type: none;
-  }
+  @include reset-list;
+
+  display: flex;
+  flex-direction: column;
 
   &__item {
-    padding: 16px 0;
     font-size: 22px;
     font-weight: 800;
-    color: $meta-text;
+    color: var(--text-color);
   }
 
   &__link {
+    display: inline-flex;
+    padding: 16px 0;
     text-decoration: none;
   }
 }
 
 @include xl {
   .menu {
-    position: relative;
-    top: 0;
-    right: 0;
-    display: flex;
-    align-items: center;
-    width: auto;
-    padding: 0;
-
-    &__list {
-      flex-direction: row;
-      height: 100%;
-      margin: 0;
-    }
+    flex-direction: row;
 
     &__item {
       padding: 0;
@@ -44,7 +32,6 @@
 
     &__link {
       position: relative;
-      display: flex;
       align-items: center;
       height: 100%;
       padding: 0 18px;
@@ -55,7 +42,7 @@
         bottom: 0;
         left: 18px;
         content: "";
-        border-top: 3px solid $hover-text;
+        border-top: 3px solid var(--accent-color);
       }
 
       &:hover {
@@ -63,6 +50,10 @@
           right: 18px;
           transition: right 0.3s;
         }
+      }
+
+      &:focus-visible {
+        @include focus-ring(-6px);
       }
     }
 
