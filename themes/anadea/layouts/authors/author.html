@@ -4,7 +4,7 @@
 
 
 <div class="container container__w1300">
-    {{- partial "pageHead.html" . -}}
+    {{- partial "page_head.html" . -}}
     {{- with $author -}}
         <h1>{{ .name }}</h1>
         {{ partial "hero_card.html" . }}
@@ -18,4 +18,3 @@
       {{- partial "subscription.html" . -}}
   </div>
 {{ end }}
-
