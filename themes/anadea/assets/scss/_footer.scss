@@ -322,7 +322,7 @@ $hover-color: var(--persian-rose);
     will-change: opacity, color;
 
     &:focus-visible {
-      outline: var(--default-focus-ring);
+      @include focus-ring;
     }
 
     &:hover {
