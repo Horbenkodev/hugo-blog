@@ -1,5 +1,7 @@
 {
-  "htmlhint.enable": false,
+  "emmet.includeLanguages": {
+    "gohtml": "html"
+  },
   "html.format.enable": false,
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
