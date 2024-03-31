@@ -7,9 +7,11 @@
     </a>
 
     {{ $uniqID := crypto.FNV32a "Toggle" }}
-    <button class="header__burger burger" aria-label="Toggle menu" aria-expanded="false" aria-controls="{{ $uniqID }}">
-      <div class="burger__inner"></div>
-    </button>
+    <div class="header__burger">
+      <button class="burger" aria-label="Toggle menu" aria-expanded="false" aria-controls="{{ $uniqID }}">
+        <div class="burger__inner"></div>
+      </button>
+    </div>
 
     <div class="header__menu">
       <ul class="menu" id="{{ $uniqID }}">
