@@ -6,9 +6,9 @@ window.addEventListener(
     const toggle = document.getElementById('dark-mode-toggle');
     toggle.addEventListener('click', () => {
       if (document.documentElement.getAttribute('data-theme') === 'dark') {
-        localStorage['dark-mode-storage'] = 'light';
+        localStorage['theme-mode'] = 'light';
       } else {
-        localStorage['dark-mode-storage'] = 'dark';
+        localStorage['theme-mode'] = 'dark';
       }
       updateTheme();
     });
@@ -17,18 +17,18 @@ window.addEventListener(
 );
 
 window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
-  delete localStorage['dark-mode-storage'];
+  delete localStorage['theme-mode'];
   updateTheme();
 });
 
 window.addEventListener('storage', (event) => {
-  if (event.key === 'dark-mode-storage') {
+  if (event.key === 'theme-mode') {
     updateTheme();
   }
 });
 
 function updateTheme() {
-  const userPreference = localStorage['dark-mode-storage'];
+  const userPreference = localStorage['theme-mode'];
   if (userPreference === 'dark' || userPreference === 'light') {
     setTheme(userPreference);
   } else {
