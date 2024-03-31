@@ -52,7 +52,7 @@ $default-max-bp: 1200px;
 }
 
 @mixin focus-ring($offset-px: 0) {
-  outline: 1px auto Highlight; // firefox
   outline: var(--default-focus-ring);
+  outline: 1px auto Highlight; // firefox
   outline-offset: $offset-px;
 }
