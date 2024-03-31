@@ -1,9 +1,9 @@
 @mixin light {
-  --main-text: var(--silver);
+  --main-text: var(--main-text-override, var(--slate-gray));
 }
 
 @mixin dark {
-  --main-text: var(--slate-gray);
+  --main-text: var(--main-text-override, var(--silver));
 }
 
 .postInfo {
@@ -38,17 +38,13 @@
 
 @media (prefers-color-scheme: dark) {
   .postInfo {
-    :scope {
-      @include dark;
-    }
+    @include dark;
   }
 }
 
 @media (prefers-color-scheme: light) {
   .postInfo {
-    :scope {
-      @include light;
-    }
+    @include light;
   }
 }
 

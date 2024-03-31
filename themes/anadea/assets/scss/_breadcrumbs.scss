@@ -1,11 +1,11 @@
 $gap: clamped(10px, 18px);
 
 @mixin light {
-  --main-text: var(--white);
+  --main-text: var(--black);
 }
 
 @mixin dark {
-  --main-text: var(--black);
+  --main-text: var(--white);
 }
 
 .breadcrumbs {
@@ -56,17 +56,13 @@ $gap: clamped(10px, 18px);
 
 @media (prefers-color-scheme: dark) {
   .breadcrumbs {
-    :scope {
-      @include dark;
-    }
+    @include dark;
   }
 }
 
 @media (prefers-color-scheme: light) {
   .breadcrumbs {
-    :scope {
-      @include light;
-    }
+    @include light;
   }
 }
 

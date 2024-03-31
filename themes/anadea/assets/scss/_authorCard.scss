@@ -1,13 +1,13 @@
 @mixin light {
-  --name-text: var(--white);
-  --position-text: var(--slate-gray);
-  --background-color: var(--black);
-}
-
-@mixin dark {
   --name-text: var(--black);
   --position-text: var(--slate-gray);
   --background-color: var(--white);
+}
+
+@mixin dark {
+  --name-text: var(--white);
+  --position-text: var(--slate-gray);
+  --background-color: var(--black);
 }
 
 .authorCard {
@@ -69,17 +69,13 @@
 
 @media (prefers-color-scheme: dark) {
   .authorCard {
-    :scope {
-      @include dark;
-    }
+    @include dark;
   }
 }
 
 @media (prefers-color-scheme: light) {
   .authorCard {
-    :scope {
-      @include light;
-    }
+    @include light;
   }
 }
 

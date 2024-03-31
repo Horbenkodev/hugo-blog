@@ -1,16 +1,13 @@
-$background-color: var(--lavender-50);
-$social-color: var(--slate-gray);
-
 @mixin light {
-  --main-text: var(--white);
-  --meta-text: var(--silver);
-  --background-color: var(--shark);
-}
-
-@mixin dark {
   --main-text: var(--black);
   --meta-text: var(--slate-gray);
   --background-color: var(--lavender-50);
+}
+
+@mixin dark {
+  --main-text: var(--white);
+  --meta-text: var(--silver);
+  --background-color: var(--shark);
 }
 
 .heroCard {
@@ -128,17 +125,13 @@ $social-color: var(--slate-gray);
 
 @media (prefers-color-scheme: dark) {
   .heroCard {
-    :scope {
-      @include dark;
-    }
+    @include dark;
   }
 }
 
 @media (prefers-color-scheme: light) {
   .heroCard {
-    :scope {
-      @include light;
-    }
+    @include light;
   }
 }
 

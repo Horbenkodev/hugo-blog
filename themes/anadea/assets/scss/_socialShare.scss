@@ -1,9 +1,9 @@
 @mixin light {
-  --main-color: var(--white);
+  --main-color: var(--black);
 }
 
 @mixin dark {
-  --main-color: var(--black);
+  --main-color: var(--white);
 }
 
 .socialShare {
@@ -22,17 +22,13 @@
 
 @media (prefers-color-scheme: dark) {
   .socialShare {
-    :scope {
-      @include dark;
-    }
+    @include dark;
   }
 }
 
 @media (prefers-color-scheme: light) {
   .socialShare {
-    :scope {
-      @include light;
-    }
+    @include light;
   }
 }
 

@@ -1,14 +1,11 @@
-$main-color: var(--slate-gray);
-$hover-color: var(--black);
-
 @mixin light {
-  --main-text: var(--silver);
-  --hover-text: var(--white);
+  --main-text: var(--slate-gray);
+  --hover-text: var(--black);
 }
 
 @mixin dark {
-  --main-text: var(--slate-gray);
-  --hover-text: var(--black);
+  --main-text: var(--silver);
+  --hover-text: var(--white);
 }
 
 .tag {
@@ -42,17 +39,13 @@ $hover-color: var(--black);
 
 @media (prefers-color-scheme: dark) {
   .tag {
-    :scope {
-      @include dark;
-    }
+    @include dark;
   }
 }
 
 @media (prefers-color-scheme: light) {
   .tag {
-    :scope {
-      @include light;
-    }
+    @include light;
   }
 }
 

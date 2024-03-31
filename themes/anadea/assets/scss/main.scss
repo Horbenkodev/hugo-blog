@@ -42,13 +42,13 @@
 @import 'taxonomyPage';
 
 @mixin light {
-  --main-text: var(--white);
-  --background-color: var(--black);
+  --main-text: var(--black);
+  --background-color: var(--white);
 }
 
 @mixin dark {
-  --main-text: var(--black);
-  --background-color: var(--white);
+  --main-text: var(--white);
+  --background-color: var(--black);
 }
 
 html {
@@ -96,17 +96,13 @@ a {
 
 @media (prefers-color-scheme: dark) {
   body {
-    :scope {
-      @include dark;
-    }
+    @include dark;
   }
 }
 
 @media (prefers-color-scheme: light) {
   body {
-    :scope {
-      @include light;
-    }
+    @include light;
   }
 }
 

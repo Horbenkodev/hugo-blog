@@ -1,9 +1,9 @@
 @mixin light {
-  --main-text: var(--white);
+  --main-text: var(--black);
 }
 
 @mixin dark {
-  --main-text: var(--black);
+  --main-text: var(--white);
 }
 
 .topPostCard {
@@ -118,17 +118,13 @@
 
 @media (prefers-color-scheme: dark) {
   .topPostCard {
-    :scope {
-      @include dark;
-    }
+    @include dark;
   }
 }
 
 @media (prefers-color-scheme: light) {
   .topPostCard {
-    :scope {
-      @include light;
-    }
+    @include light;
   }
 }
 

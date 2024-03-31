@@ -33,6 +33,8 @@
   &__info {
     display: flex;
     flex-direction: column;
+
+    --main-text-override: var(--white);
   }
 
   &__title {

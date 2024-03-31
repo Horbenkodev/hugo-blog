@@ -1,9 +1,9 @@
 @mixin light {
-  --main-text: var(--white);
+  --main-text: var(--black);
 }
 
 @mixin dark {
-  --main-text: var(--black);
+  --main-text: var(--white);
 }
 
 .indicator {
@@ -29,17 +29,13 @@
 
 @media (prefers-color-scheme: dark) {
   .indicator {
-    :scope {
-      @include dark;
-    }
+    @include dark;
   }
 }
 
 @media (prefers-color-scheme: light) {
   .indicator {
-    :scope {
-      @include light;
-    }
+    @include light;
   }
 }
 

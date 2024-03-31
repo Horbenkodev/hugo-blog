@@ -2,15 +2,15 @@ $background-color: var(--white);
 $text-color: var(--black);
 
 @mixin light {
-  --main-text: var(--white);
-  --date-text: var(--silver);
-  --background-color: var(--black);
-}
-
-@mixin dark {
   --main-text: var(--black);
   --date-text: var(--slate-gray);
   --background-color: var(--white);
+}
+
+@mixin dark {
+  --main-text: var(--white);
+  --date-text: var(--silver);
+  --background-color: var(--black);
 }
 
 .postHead {
@@ -18,7 +18,7 @@ $text-color: var(--black);
   flex-direction: column;
   padding-top: clamped(24px, 30px);
   padding-bottom: clamped(44px, 68px);
-  color: $text-color;
+  color: var(--main-text);
   text-align: center;
   background-color: var(--background-color);
 
@@ -28,7 +28,6 @@ $text-color: var(--black);
     font-size: clamped(28px, 56px);
     font-weight: 700;
     line-height: 1;
-    color: var(--main-text);
   }
 
   &__dateInfo {
@@ -74,17 +73,13 @@ $text-color: var(--black);
 
 @media (prefers-color-scheme: dark) {
   .postHead {
-    :scope {
-      @include dark;
-    }
+    @include dark;
   }
 }
 
 @media (prefers-color-scheme: light) {
   .postHead {
-    :scope {
-      @include light;
-    }
+    @include light;
   }
 }
 
