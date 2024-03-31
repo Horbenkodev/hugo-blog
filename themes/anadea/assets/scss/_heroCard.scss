@@ -1,17 +1,26 @@
-$background-color: var(--lavender-50);
-$social-color: var(--slate-gray);
+@mixin light {
+  --main-text: var(--black);
+  --meta-text: var(--slate-gray);
+  --background-color: var(--lavender-50);
+}
+
+@mixin dark {
+  --main-text: var(--white);
+  --meta-text: var(--silver);
+  --background-color: var(--shark);
+}
 
 .heroCard {
   padding: 20px;
   margin: unset;
   margin-bottom: 60px;
-  background-color: $background-color;
+  background-color: var(--background-color);
   border-radius: 24px;
 
   &::after {
     display: table;
     clear: both;
-    content: "";
+    content: '';
   }
 
   &__avatar {
@@ -48,7 +57,7 @@ $social-color: var(--slate-gray);
     margin-bottom: 12px;
     font-size: 16px;
     font-weight: 400;
-    color: $social-color;
+    color: var(--meta-text);
   }
 
   &__description {
@@ -61,7 +70,7 @@ $social-color: var(--slate-gray);
   }
 
   &__membership {
-    color: $social-color;
+    color: var(--meta-text);
   }
 }
 
@@ -112,4 +121,24 @@ $social-color: var(--slate-gray);
       @include multiline-ellipsis(6);
     }
   }
+}
+
+@media (prefers-color-scheme: dark) {
+  .heroCard {
+    @include dark;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .heroCard {
+    @include light;
+  }
+}
+
+[data-theme='dark'] .heroCard {
+  @include dark;
+}
+
+[data-theme='light'] .heroCard {
+  @include light;
 }

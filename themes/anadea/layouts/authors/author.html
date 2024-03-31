@@ -2,8 +2,10 @@
 {{- $baseName := path.BaseName .RelPermalink -}}
 {{- $author := index .Site.Data.authors $baseName -}}
 
-  <div class="container container__w1300">
-    {{ with $author }}
+
+<div class="container container__w1300">
+    {{- partial "page_head.html" . -}}
+    {{- with $author -}}
         <h1>{{ .name }}</h1>
         {{ partial "hero_card.html" . }}
     {{ end }}
@@ -16,4 +18,3 @@
       {{- partial "subscription.html" . -}}
   </div>
 {{ end }}
-

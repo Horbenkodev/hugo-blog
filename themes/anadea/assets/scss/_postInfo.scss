@@ -1,4 +1,10 @@
-$text-color: var(--slate-gray);
+@mixin light {
+  --main-text: var(--main-text-override, var(--slate-gray));
+}
+
+@mixin dark {
+  --main-text: var(--main-text-override, var(--silver));
+}
 
 .postInfo {
   z-index: 2;
@@ -8,24 +14,44 @@ $text-color: var(--slate-gray);
   font-size: 12px;
   font-weight: 400;
   line-height: 32px;
-  color: var(--text-color, $text-color);
+  color: var(--main-text);
 
   &__bullet {
     flex-shrink: 0;
     width: 0.5em;
     height: 0.5em;
-    background-color: var(--text-color, $text-color);
+    background-color: var(--main-text);
     border-radius: 50%;
   }
 
   &__link {
     @include multiline-ellipsis(1);
 
-    color: var(--text-color, $text-color);
+    color: var(--main-text);
     text-decoration: none;
   }
 
   &__date {
     white-space: nowrap;
   }
+}
+
+@media (prefers-color-scheme: dark) {
+  .postInfo {
+    @include dark;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .postInfo {
+    @include light;
+  }
+}
+
+[data-theme='dark'] .postInfo {
+  @include dark;
+}
+
+[data-theme='light'] .postInfo {
+  @include light;
 }

@@ -1,7 +1,17 @@
+@mixin light {
+  --main-text: var(--black);
+  --background-color: var(--lavender-50);
+}
+
+@mixin dark {
+  --main-text: var(--white);
+  --background-color: var(--shark);
+}
+
 .ToC {
   padding: 24px;
   line-height: 1.5;
-  background: #f5fafe;
+  background-color: var(--background-color);
   border-radius: 24px;
 
   &__title {
@@ -39,11 +49,11 @@
       position: absolute;
       top: 6px;
       left: 0;
-      content: "";
+      content: '';
       border: 0 solid transparent;
       border-top-width: 4px;
       border-bottom-width: 4px;
-      border-left: 5px solid #dc296c;
+      border-left: 5px solid var(--persian-rose);
     }
 
     a {
@@ -51,7 +61,7 @@
       overflow: hidden;
       font-size: 16px;
       font-weight: 400;
-      color: var(--body-text);
+      color: var(--main-text);
       text-decoration: none;
       text-decoration-line: none;
       text-overflow: ellipsis;
@@ -76,4 +86,24 @@
       display: block;
     }
   }
+}
+
+@media (prefers-color-scheme: dark) {
+  .ToC {
+    @include dark;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .ToC {
+    @include light;
+  }
+}
+
+[data-theme='dark'] .ToC {
+  @include dark;
+}
+
+[data-theme='light'] .ToC {
+  @include light;
 }

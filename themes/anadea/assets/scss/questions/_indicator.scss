@@ -1,10 +1,17 @@
+@mixin light {
+  --main-text: var(--black);
+}
+
+@mixin dark {
+  --main-text: var(--white);
+}
+
 .indicator {
   aspect-ratio: 1;
-  color: var(--black);
+  color: var(--main-text);
   stroke: currentcolor;
   stroke-width: 2.5;
   transition: rotate 0.3s ease-in-out;
-  rotate: 0deg;
 
   &__active {
     rotate: 180deg;
@@ -18,4 +25,24 @@
   &__active .indicator__disappearing {
     opacity: 0;
   }
+}
+
+@media (prefers-color-scheme: dark) {
+  .indicator {
+    @include dark;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .indicator {
+    @include light;
+  }
+}
+
+[data-theme='dark'] .indicator {
+  @include dark;
+}
+
+[data-theme='light'] .indicator {
+  @include light;
 }
