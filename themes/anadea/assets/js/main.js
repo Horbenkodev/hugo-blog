@@ -1,3 +1,2 @@
-import './dark-mode';
-import './header';
-import './questionToggler';
+import './_themeMode';
+import './_menu';
