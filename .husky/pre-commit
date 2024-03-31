@@ -3,3 +3,4 @@
 
 git reset .vscode
 npx --no-install lint-staged
+npx --no-install @ls-lint/ls-lint

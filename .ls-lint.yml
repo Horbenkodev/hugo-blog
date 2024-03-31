@@ -1,0 +1,7 @@
+ls:
+  .html: snake_case | kebab-case
+ignore:
+  - .git
+  - node_modules
+  - .history
+  - .idea
