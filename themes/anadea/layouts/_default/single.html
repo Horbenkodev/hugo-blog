@@ -13,6 +13,7 @@
       </div>
     </article>
 
+    <div id="sentinel"></div>
     <div class="markdown">
       {{ .Content }}
     </div>
@@ -36,7 +37,7 @@
           {{- end -}}
         {{- end -}}
 
-        <div id="read-next">
+        <div class="sticky hidden" id="read-next">
           {{- partial "read_next.html" . -}}
         </div>
       </div>
