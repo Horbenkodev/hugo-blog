@@ -1,5 +1,50 @@
+{{ $defaultTitle := "Custom Software Development Blog - Anadea" }}
+{{ $defaultDescription := "Blog about custom software development, web technologies, agile practices and interesting projects we work on." }}
+
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
-<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+<meta property="twitter:site" content="@Anadea_Info" />
+<meta property="twitter:creator" content="@Anadea_Info" />
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="{{ .Permalink }}" />
+
+{{ if .Params.og_image }}
+  <meta property="og:image" content="{{ relURL .Params.og_image }}"/>
+  <meta property="twitter:image" content="{{ relURL .Params.og_image }}"/>
+{{ else if .IsPage }}
+  <meta property="og:image" content="{{ .Params.image }}"/>
+  <meta property="twitter:image" content="{{ .Params.image }}"/>
+{{ end }}
+
+{{ if .IsPage }}
+  <title>
+    {{ .Title }}
+  </title>
+    <meta name="og:title" content="{{ .Title }}">
+    <meta name="twitter:title" content="{{ .Title }}">
+{{ else }}
+  <title>
+    {{ $defaultTitle }}
+  </title>
+    <meta name="og:title" content="{{ $defaultTitle }}">
+    <meta name="twitter:title" content="{{ $defaultTitle }}">
+{{ end }}
+
+{{ if .IsPage }}
+  <meta name="description" content="{{ .Description }}">
+  <meta name="og:description" content="{{ .Description }}">
+  <meta name="twitter:description" content="{{ .Description }}">
+{{ else }}
+  <meta name="description" content="{{ $defaultDescription }}">
+  <meta name="og:description" content="{{ $defaultDescription }}">
+  <meta name="twitter:description" content="{{ $defaultDescription }}">
+{{ end }}
+
 {{ partialCached "head/css.html" . }}
 {{ partialCached "head/main_js.html" . }}
+
+<script>
+  var hugoLog = JSON.parse({{ jsonify . }});
+  console.log('Hugo Debug: ', hugoLog);
+</script>
