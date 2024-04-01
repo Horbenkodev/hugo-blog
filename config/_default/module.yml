@@ -1,0 +1,5 @@
+hugoVersion:
+  extended: true
+  min: 0.123.8
+imports:
+  - path: anadea
