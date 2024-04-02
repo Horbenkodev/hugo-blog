@@ -1,0 +1,49 @@
+{{ define "meta" }}
+  {{ if .IsPage }}
+    <title>
+      {{ .Title }}
+    </title>
+    <meta name="og:title" content="{{ .Title }}" />
+    <meta name="twitter:title" content="{{ .Title }}" />
+  {{ else }}
+    {{ $defaultTitle := printf "Custom Software Development Blog | Anadea - page %d" .Paginator.PageNumber }}
+    <title>
+      {{ $defaultTitle }}
+    </title>
+    <meta name="og:title" content="{{ $defaultTitle }}" />
+    <meta name="twitter:title" content="{{ $defaultTitle }}" />
+  {{ end }}
+
+  {{ if .IsPage }}
+    <meta property="og:type" content="article" />
+  {{ else }}
+    <meta property="og:type" content="website" />
+  {{ end }}
+
+  {{ $defaultImage := "default_og.png" }}
+  {{ $image := or .Params.og_image .Params.image }}
+  {{ $resource := false }}
+  {{ if $image }}
+    {{ $resource = .Resources.GetMatch $image }}
+  {{ else }}
+    {{ $resource = resources.GetMatch $defaultImage }}
+  {{ end }}
+
+  {{ with $resource }}
+    {{ with . | images.Filter (images.Process "resize 1200x jpeg") }}
+      <meta property="og:image" content="{{ .Permalink }}" />
+      <meta property="twitter:image" content="{{ .Permalink }}" />
+    {{ end }}
+  {{ end }}
+
+  {{ if .IsPage }}
+    <meta name="description" content="{{ .Description }}" />
+    <meta name="og:description" content="{{ .Description }}" />
+    <meta name="twitter:description" content="{{ .Description }}" />
+  {{ else }}
+    {{ $defaultDescription := "Blog about custom software development, web technologies, agile practices and interesting projects we work on." }}
+    <meta name="description" content="{{ $defaultDescription }}" />
+    <meta name="og:description" content="{{ $defaultDescription }}" />
+    <meta name="twitter:description" content="{{ $defaultDescription }}" />
+  {{ end }}
+{{ end }}
