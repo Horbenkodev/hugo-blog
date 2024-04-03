@@ -20,10 +20,6 @@
     {{ $feed := where .Site.RegularPages ".Params.promote.promote" "eq" false }}
     {{ $feed = where $feed ".Params.top" "eq" false }}
     {{ $paginator := .Paginate $feed }}
-    {{ with .Paginator }}
-      {{ $.Store.Set "paginator" . }}
-    {{ end }}
-
 
     <div class="postFeed">
       {{- range $paginator.Pages }}
@@ -34,5 +30,4 @@
     {{ partial "pagination.html" . }}
     {{ partial "subscription.html" . }}
   </div>
-  {{ partial "meta.html" . }}
 {{ end }}
