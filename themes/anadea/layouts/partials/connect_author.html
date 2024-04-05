@@ -2,7 +2,11 @@
   <h3 class="authorConnect__title">Have a question? Our expert can help!</h3>
   <a class="authorConnect__link" href="{{ .url }}">
     <div class="authorConnect__info">
-      <img alt="{{ .author.name }}" width="50" height="50" class="authorConnect__avatar" src="{{ .author.avatar }}" />
+      {{ if .author.team }}
+        <div class="authorConnect__avatar"></div>
+      {{ else }}
+        <img alt="{{ .author.name }}" width="50" height="50" class="authorConnect__avatar" src="{{ .author.avatar }}" />
+      {{ end }}
       <div class="authorConnect__name">{{ .author.name }}</div>
     </div>
   </a>
