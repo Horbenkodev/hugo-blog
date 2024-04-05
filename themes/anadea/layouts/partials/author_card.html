@@ -1,8 +1,8 @@
 <figure class="authorCard">
-  {{- if .author.avatar -}}
-    <img class="authorCard__avatar" src="{{ .author.avatar }}" alt="{{ .author.name }}" />
+  {{- if .author.team -}}
+    <div class="authorCard__avatar"></div>
   {{- else -}}
-    <img class="authorCard__avatar" src="/img/default-avatar-icon.svg" alt="avatar icon" />
+    <img class="authorCard__avatar" src="{{ .author.avatar }}" alt="{{ .author.name }}" />
   {{- end -}}
   <figcaption class="authorCard__info">
     <a class="authorCard__link" href="{{ .url }}">
