@@ -2,24 +2,20 @@
 {{- $dateHuman := .memberSince | time.Format ":date_short" -}}
 
 <section class="heroCard">
-  <img
-    alt="{{ .name }}"
-    class="heroCard__avatar"
-    src="{{ .avatar }}"
-  />
-  <div class="heroCard__wrapper">
-    <div class="heroCard__meta">
-      <div class="heroCard__bio">
-        <h3 class="heroCard__name">{{ .name }}</h3>
-        <div class="heroCard__position">{{ .position }}</div>
-      </div>
-      <p class="heroCard__description">
-        {{- .description -}}
-      </p>
+  {{ if .team }}
+  <div class="heroCard__bio">
+    <div class="heroCard__avatar"></div>
+    <div>{{ .name }}</div>
+  </div>
+  {{ else }}
+    <div class="heroCard__bio">
+      <img alt="" class="heroCard__avatar" src="{{ .avatar }}" />
+      <h3 class="heroCard__name">{{ .name }}</h3>
+      <div class="heroCard__position">{{ .position }}</div>
     </div>
-    <div class="heroCard__membership">
-      <time class="postHead__dateInfo" datetime="{{ $dateMachine }}">Member since {{ $dateHuman }}</time>
-    </div>
+  {{ end }}
+  <div class="heroCard__content">
+    <p class="heroCard__description"> {{- .description -}}</p>
   </div>
 </section>
 
