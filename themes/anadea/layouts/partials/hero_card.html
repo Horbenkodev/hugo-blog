@@ -1,7 +1,7 @@
 {{- $dateMachine := .memberSince | time.Format "2006-01-02T15:04:05-07:00" -}}
 {{- $dateHuman := .memberSince | time.Format ":date_short" -}}
 
-<section class="heroCard">  
+<section class="heroCard">
   {{ if .team }}
   <div class="heroCard__bio">
     <div class="heroCard__avatar">
@@ -11,7 +11,19 @@
   </div>
   {{ else }}
     <div class="heroCard__bio">
-      <img alt="" class="heroCard__avatar" src="{{ .avatar }}" />
+
+      {{ $params := dict
+        "class" "heroCard__avatar"
+        "width" 124
+        "height" 124
+        "src" .avatar
+        "alt" (or .author.alt .Params.title)
+        "sizes" 248
+        "ctx" .
+      }}
+
+      {{ partial "image.html" $params }}
+
       <h3 class="heroCard__name">{{ .name }}</h3>
       <div class="heroCard__position">{{ .position }}</div>
     </div>

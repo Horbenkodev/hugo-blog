@@ -1,6 +1,18 @@
 <article class="promotionCard">
   <figure class="promotionCard__imageContainer">
-    <img alt="{{ .Params.title }}" class="promotionCard__image" src="{{ .RelPermalink }}{{ .Params.image }}" />
+
+    {{ $params := dict
+      "class" "promotionCard__image"
+      "width" 1059
+      "height" 520
+      "src" .Params.image
+      "alt" ""
+      "sizes" 1059
+      "ctx" .
+    }}
+
+    {{ partial "image.html" $params }}
+
     <figcaption class="promotionCard__info">
       {{ partial "post_info.html" . }}
       <h2 class="promotionCard__title">

@@ -4,7 +4,19 @@
       {{ partial "team_avatar.html" . }}
     </div>
   {{- else -}}
-    <img class="authorCard__avatar" src="{{ .author.avatar }}" alt="{{ .author.name }}" />
+
+    {{ $params := dict
+      "class" "authorCard__avatar"
+      "width" 56
+      "height" 56
+      "src" .author.avatar
+      "alt" (or .author.alt .Params.title)
+      "sizes" 112
+      "ctx" .
+    }}
+
+    {{ partial "image.html" $params }}
+
   {{- end -}}
   <figcaption class="authorCard__info">
     <a class="authorCard__link" href="{{ .url }}">
