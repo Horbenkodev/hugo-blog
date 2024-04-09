@@ -82,6 +82,7 @@ collections:
       preview: false
     fields:
       - {label: "Name", name: "name", widget: "string"}
+      - {label: "Team", name: "team", widget: "boolean", default: false}
       - {label: "Member Since", name: "memberSince", widget: "datetime"}
       - label: "Avatar"
         name: "avatar"

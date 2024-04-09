@@ -2,7 +2,7 @@
 
 <article class="postCard">
   <figure class="postCard__figure">
-    <img class="postCard__image" src="{{ .RelPermalink }}{{ .Params.image }}" alt=""/>
+    <img class="postCard__image" src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Params.title }}"/>
     <figcaption class="postCard__figcaption">
       {{ partial "post_info.html" . }}
       <h2 class="postCard__title">

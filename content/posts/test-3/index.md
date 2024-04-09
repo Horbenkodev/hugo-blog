@@ -10,7 +10,7 @@ promote:
   promote: false
 top: false
 authors:
-  - Kyle Broflovski
+  - Web Development Team
 categories:
   - Programming
 ---
