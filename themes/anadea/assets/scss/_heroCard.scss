@@ -5,17 +5,19 @@
 }
 
 @mixin dark {
-  --main-text: var(--white);
+  --main-text: var(--silver);
   --meta-text: var(--silver);
   --background-color: var(--shark);
 }
 
 .heroCard {
-  padding: 20px;
-  margin: unset;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 24px;
   margin-bottom: 60px;
   background-color: var(--background-color);
-  border-radius: 24px;
+  border-radius: 16px;
 
   &::after {
     display: table;
@@ -24,14 +26,11 @@
   }
 
   &__avatar {
-    float: left;
-    width: 102px;
-    height: auto;
+    width: 124px;
     aspect-ratio: 1;
-    margin-right: 20px;
-    margin-bottom: 16px;
+    margin-bottom: 12px;
     object-fit: cover;
-    border-radius: 12px;
+    border-radius: 50%;
   }
 
   &__meta {
@@ -41,32 +40,37 @@
   &__bio {
     display: flex;
     flex-direction: column;
+    align-items: center;
     justify-content: center;
-    min-height: 118px;
+    width: 100%;
+    max-width: 230px;
+    padding-bottom: 24px;
+    text-align: center;
   }
 
   &__name {
-    margin-top: 0;
-    margin-bottom: 6px;
-    font-size: clamped(22px, 28px);
+    margin: 0;
+    font-size: 22px;
     font-weight: 700;
     line-height: 1.2;
   }
 
   &__position {
-    margin-bottom: 12px;
-    font-size: 16px;
+    font-size: 12px;
     font-weight: 400;
     color: var(--meta-text);
   }
 
-  &__description {
-    @include multiline-ellipsis(4);
+  &__content {
+    padding-top: 20px;
+    border-top: 1px solid var(--meta-text);
+  }
 
-    margin-top: 0;
-    margin-bottom: 16px;
-    font-size: clamped(16px, 18px);
+  &__description {
+    margin: 0;
+    font-size: clamped(16px, 22px);
     line-height: 1.5;
+    color: var(--main-text);
   }
 
   &__membership {
@@ -76,37 +80,34 @@
 
 @include md {
   .heroCard {
-    padding: unset;
-
-    &__avatar {
-      width: 280px;
-      margin-right: 40px;
-      margin-bottom: unset;
-      border-radius: unset;
-      border-top-left-radius: 24px;
-      border-bottom-left-radius: 24px;
-    }
-
-    &__wrapper {
-      padding: 20px 40px;
-    }
+    flex-direction: row;
+    padding: 40px;
 
     &__bio {
-      min-height: unset;
+      padding-right: 40px;
+      padding-bottom: 0;
+      border-right: 1px solid var(--meta-text);
+    }
+
+    &__content {
+      padding-top: 0;
+      padding-left: 40px;
+      border-top: none;
     }
   }
 }
 
 @media screen and (width >= 1024px) {
   .heroCard {
-    &__avatar {
-      margin: unset;
-    }
-
     &__wrapper {
       display: flex;
       gap: clamped(20px, 56px, 992px, 1200px);
       padding: 40px;
+      padding-bottom: 0;
+    }
+
+    &__description {
+      margin: 0;
     }
 
     &__membership {
@@ -118,7 +119,7 @@
 @include xl {
   .heroCard {
     &__description {
-      @include multiline-ellipsis(6);
+      @include multiline-ellipsis(5);
     }
   }
 }

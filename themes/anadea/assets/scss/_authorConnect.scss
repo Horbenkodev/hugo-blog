@@ -17,7 +17,6 @@
   gap: 20px;
   padding: 20px 30px;
   font-size: 16px;
-  background-color: var(--background-color);
   border-radius: 24px;
 
   &__title {
@@ -38,7 +37,10 @@
   }
 
   &__avatar {
+    min-width: 50px;
+    height: 50px;
     object-fit: cover;
+    background-size: cover;
     border-radius: 50%;
   }
 

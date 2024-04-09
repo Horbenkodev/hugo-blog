@@ -1,0 +1,39 @@
+@mixin light {
+  --background-color: #cee9ff;
+  --fill-color: #295d87;
+}
+
+@mixin dark {
+  --background-color: #323645;
+  --fill-color: #a986ff;
+}
+
+.teamAvatar {
+  &__background {
+    fill: var(--background-color);
+  }
+
+  &__content {
+    fill: var(--fill-color);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .teamAvatar {
+    @include dark;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .teamAvatar {
+    @include light;
+  }
+}
+
+[data-theme='dark'] .teamAvatar {
+  @include dark;
+}
+
+[data-theme='light'] .teamAvatar {
+  @include light;
+}
