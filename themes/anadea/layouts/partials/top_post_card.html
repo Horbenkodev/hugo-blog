@@ -2,6 +2,7 @@
 
 <article class="topPostCard">
   <figure class="topPostCard__figure">
+
     {{ $params := dict
       "class" "topPostCard__image"
       "width" 512
@@ -13,6 +14,7 @@
     }}
 
     {{ partial "image.html" $params }}
+
     <figcaption class="topPostCard__figcaption">
       {{ partial "post_info.html" . }}
       <h2 class="topPostCard__title">

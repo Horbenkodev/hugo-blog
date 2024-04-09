@@ -1,5 +1,6 @@
 <article class="promotionCard">
   <figure class="promotionCard__imageContainer">
+
     {{ $params := dict
       "class" "promotionCard__image"
       "width" 1059
@@ -11,6 +12,7 @@
     }}
 
     {{ partial "image.html" $params }}
+
     <figcaption class="promotionCard__info">
       {{ partial "post_info.html" . }}
       <h2 class="promotionCard__title">
