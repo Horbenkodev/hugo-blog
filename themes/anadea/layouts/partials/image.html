@@ -1,25 +1,34 @@
 {{ $params := . }}
+{{ $image := dict }}
+{{ $src := dict }}
+
 {{ with .ctx.Resources.GetMatch .src }}
-  {{ $image := . }}
-  {{- $src := ($image.Process "webp").RelPermalink -}}
-  <img
-    class="{{ $params.class }}"
-    src="{{ $src }}"
-    width="{{ $params.width }}"
-    height="{{ $params.height }}"
-    alt="{{ $params.alt }}"
-    loading="lazy"
-    decoding="async"
-    srcset="
-      {{- with site.Params.params.deviceSizes -}}
-        {{- range $i, $e := . -}}
-          {{- if ge $image.Width . -}}
-            {{- if $i }},{{ end -}}
-            {{- ($image.Resize (print . `x webp`) ).RelPermalink }} {{ . }}w
-          {{- end -}}
+  {{ $image = . }}
+  {{ $src = ($image.Process "webp").RelPermalink }}
+{{ end }}
+
+{{ with resources.GetMatch .src }}
+  {{ $image = . }}
+  {{ $src = ($image.Process "webp").RelPermalink }}
+{{ end }}
+
+<img
+  class="{{ $params.class }}"
+  src="{{ $src }}"
+  width="{{ $params.width }}"
+  height="{{ $params.height }}"
+  alt="{{ $params.alt }}"
+  loading="lazy"
+  decoding="async"
+  srcset="
+    {{- with site.Params.params.deviceSizes -}}
+      {{- range $i, $e := . -}}
+        {{- if ge $image.Width . -}}
+          {{- if $i }},{{ end -}}
+          {{- ($image.Resize (print . `x webp`) ).RelPermalink }} {{ . }}w
         {{- end -}}
       {{- end -}}
-    "
-    sizes="{{ $params.sizes }}"
-  />
-{{ end }}
+    {{- end -}}
+  "
+  sizes="{{ $params.sizes }}"
+/>

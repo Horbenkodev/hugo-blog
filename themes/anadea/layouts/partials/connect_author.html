@@ -7,7 +7,20 @@
           {{ partial "team_avatar.html" . }}
         </div>
       {{ else }}
-        <img alt="{{ .author.name }}" width="50" height="50" class="authorConnect__avatar" src="{{ .author.avatar }}" />
+        {{/*  <img alt="{{ .author.name }}" width="50" height="50" class="authorConnect__avatar" src="{{ .author.avatar }}" />  */}}
+
+        {{ $params := dict
+          "class" "authorConnect__avatar"
+          "width" 50
+          "height" 50
+          "src" .author.avatar
+          "alt" (or .author.alt .Params.title)
+          "sizes" 100
+          "ctx" .
+        }}
+
+        {{ partial "image.html" $params }}
+
       {{ end }}
       <div class="authorConnect__name">{{ .author.name }}</div>
     </div>

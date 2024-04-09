@@ -2,7 +2,19 @@
 
 <article class="postCard">
   <figure class="postCard__figure">
-    <img class="postCard__image" src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Params.title }}"/>
+
+    {{ $params := dict
+      "class" "postCard__image"
+      "width" 360
+      "height" 270
+      "src" .Params.image
+      "alt" (or .Params.alt .Params.title)
+      "sizes" "(max-width: 768px) 100vw, (max-width: 992px) 50vw, 33vw"
+      "ctx" .
+    }}
+
+    {{ partial "image.html" $params }}
+
     <figcaption class="postCard__figcaption">
       {{ partial "post_info.html" . }}
       <h2 class="postCard__title">
