@@ -1,6 +1,8 @@
 <figure class="authorCard">
   {{- if .author.team -}}
-    <div class="authorCard__avatar"></div>
+    <div class="authorCard__avatar">
+      {{ partial "team_avatar.html" . }}
+    </div>
   {{- else -}}
     <img class="authorCard__avatar" src="{{ .author.avatar }}" alt="{{ .author.name }}" />
   {{- end -}}

@@ -1,10 +1,12 @@
 {{- $dateMachine := .memberSince | time.Format "2006-01-02T15:04:05-07:00" -}}
 {{- $dateHuman := .memberSince | time.Format ":date_short" -}}
 
-<section class="heroCard">
+<section class="heroCard">  
   {{ if .team }}
   <div class="heroCard__bio">
-    <div class="heroCard__avatar"></div>
+    <div class="heroCard__avatar">
+      {{ partial "team_avatar.html" . }}
+    </div>
     <div>{{ .name }}</div>
   </div>
   {{ else }}

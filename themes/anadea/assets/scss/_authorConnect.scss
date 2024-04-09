@@ -2,16 +2,12 @@
   --main-text: var(--black);
   --meta-text: var(--slate-gray);
   --background-color: var(--lavender-50);
-  --team-avatar-background-color: #cee9ff;
-  --team-avatar-fill-color: #295d87;
 }
 
 @mixin dark {
   --main-text: var(--white);
   --meta-text: var(--silver);
   --background-color: var(--shark);
-  --team-avatar-background-color: #323645;
-  --team-avatar-fill-color: #a986ff;
 }
 
 .authorConnect {
