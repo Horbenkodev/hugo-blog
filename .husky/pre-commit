@@ -2,5 +2,5 @@
 . "$(dirname -- "$0")/_/husky.sh"
 
 git reset .vscode
-npx --no-install lint-staged
-npx --no-install @ls-lint/ls-lint
+npx --no -y lint-staged
+npx --no -y @ls-lint/ls-lint
