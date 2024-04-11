@@ -7,7 +7,7 @@
     </header>
 
     <div class="postFeed">
-      {{- range .Pages }}
+      {{- range .Paginator.Pages }}
         {{- partial "post_card.html" . -}}
       {{ end -}}
     </div>

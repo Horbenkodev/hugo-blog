@@ -10,11 +10,12 @@
         {{ partial "hero_card.html" . }}
     {{ end }}
       <div class="postFeed">
-        {{- range .Pages }}
+        {{- range .Paginator.Pages }}
           {{- partial "post_card.html" . -}}
         {{ end -}}
       </div>
 
+      {{ partial "pagination.html" . }}
       {{- partial "subscription.html" . -}}
   </div>
 {{ end }}
