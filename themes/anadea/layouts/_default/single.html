@@ -32,7 +32,7 @@
             {{- $baseName := path.BaseName .Path -}}
             {{- $author := index .Site.Data.authors $baseName -}}
             <div class="sticky hidden" id="author-connect">
-              {{- partial "connect_author.html" (dict "author" $author "url" .RelPermalink) -}}
+              {{- partial "keep_in_touch.html" (dict "author" $author "url" .RelPermalink) -}}
             </div>
           {{- end -}}
         {{- end -}}
