@@ -1,5 +1,5 @@
 <article class="promotionCard">
-  <figure class="promotionCard__imageContainer">
+  <div class="promotionCard__imageContainer">
 
     {{ $params := dict
       "class" "promotionCard__image"
@@ -13,7 +13,7 @@
 
     {{ partial "image.html" $params }}
 
-    <figcaption class="promotionCard__info">
+    <div class="promotionCard__info">
       {{ partial "post_info.html" . }}
       <h2 class="promotionCard__title">
         <a class="promotionCard__link" href="{{ .Params.promote.promote_url }}">
@@ -23,6 +23,6 @@
       <div class="promotionCard__description">
         {{- .Params.description -}}
       </div>
-    </figcaption>
-  </figure>
+    </div>
+  </div>
 </article>
