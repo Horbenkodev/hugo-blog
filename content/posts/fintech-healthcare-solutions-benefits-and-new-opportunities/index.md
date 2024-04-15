@@ -66,7 +66,7 @@ Let’s summarize the benefits that both healthcare service providers and patien
 3. **Higher data security**. Medical data have always attracted hackers. And unfortunately, due to the lack of proper protection systems, hospitals often become easy prey. In 2023, in the US only, there were more than <a href="https://www.statista.com/statistics/798417/health-and-medical-data-compromises-united-states/" target="_blank">800 incidents</a> of data breaches in the healthcare sector. This figure is rather impressive, especially given the fact that, for example, in 2005, the number of such incidents was only 16. Paper systems and legacy software can be easily compromised. But data encryption, blockchain, and other technologies that healthcare fintech solutions are powered with ensure better protection of sensitive patient data.
 4. **Increased cost transparency**. Transparency is one of the key principles that the modern economy should be based on. Buy now, pay later fintech solutions that are introduced in various market sectors greatly contribute to the overall growth of transparency, which is also demanded by patients in the healthcare industry, Unexpected amounts seen in medical bills can not only compromise trust but also spoil the general patient experience. And fintech healthcare tools can fully eliminate such risks. Patients can always stay informed about relevant pricing and can better plan their budget allocation.
 
-![Benefits of fintech in healthcare](https://anadea.info/uploads/image_attachment/image/3620/Benefits_of_Fintech_in_Healthcare.jpg)
+![Benefits of fintech in healthcare](benefits_of_fintech_in_healthcare.jpg)
 
 {{< ctabutton >}} Contact fintech experts{{< /ctabutton >}}
 
@@ -78,7 +78,7 @@ If you have plans to build your own fintech healthcare project, it will be helpf
 
 The US-based company Cedar provides a patient-centric healthcare fintech platform powered by smart product design, data science, multi-party integrations, and personalization. The idea for this project was born based on the personal experience of its co-founders who faced quite disappointing situations related to the traditional healthcare system processes. The platform covers the entire patient journey, from pre-service to post-visit support. And what makes the platform really special is that it brings personalization to the interaction between patients and clinics regardless of the chosen channel. It can be a contact center, a clinical patient portal, the offered login-free web app, or other options.
 
-![Cedar fintech healthcare platform](https://anadea.info/uploads/image_attachment/image/3624/cedar.jpg)
+![Cedar fintech healthcare platform](cedar.jpg)
 
 Thanks to combining the best of fintech, ad tech, and healthcare, Cedar helps providers better understand their patients and engage them more effectively. At the same time, patients can leverage clear processes and smooth experiences at all the steps of their interaction with hospitals and medical centers.
 
@@ -86,13 +86,13 @@ Thanks to combining the best of fintech, ad tech, and healthcare, Cedar helps pr
 
 This company offers a health and wellness credit card with flexible financing options. Thanks to the provided opportunities, patients can pay for the required services over time. Patients can apply for getting funds online and their applications will have no impact on their credit score. Credit decisions are made instantly. The company offers a convenient online calculator that helps people quickly explore different options that are available to them based on the amount that they want to get. Today, the CareCredit card can be used to pay for multiple healthcare and wellness services at more than 260,000 locations in different countries of the world.
 
-![CareCredit fintech healthcare platform](https://anadea.info/uploads/image_attachment/image/3623/carecredit.jpg)
+![CareCredit fintech healthcare platform](carecredit.jpg)
 
 ### Wellpay
 
 This fintech platform provides complete and secure payment and financing solutions for different types of healthcare services and practices. The company developed a range of tools that are aimed at streamlining billing operations and reducing staff workloads. Service providers can enjoy such features as customizable patient financing options, dashboard & real-time reporting, intelligent patient communications, EMR integration & file imports, and automated eligibility checks.
 
-![Wellpay fintech healthcare platform](https://anadea.info/uploads/image_attachment/image/3622/wellpay.jpg)
+![Wellpay fintech healthcare platform](wellpay.jpg)
 
 At the same time, for patients, the process of making payments has become much less stressful. Wellpay has established a partnership with Affirm. Thanks to this collaboration, their customers can get access to financing and pay for medical services over time.
 
@@ -116,42 +116,3 @@ As you can see, the launch of your own fintech healthcare startup is not the eas
 Have a fresh idea for a fintech solution that will revolutionize the healthcare industry? Just let us know! With our expertise in this domain, we are sure that we will find the best approach to your project realization.
 
 {{< ctabutton >}} Get started{{< /ctabutton >}}
-
-## Frequently Asked Questions
-
-### How much does it cost to develop a fintech healthcare solution?
-
-Software development costs vary based on a large number of parameters, including but not limited to the complexity of a future solution, the specificity of features, the required tech stack, etc. Also, such a factor as the structure of the development team will have a significant influence. As a rule, fintech solutions today are built with the use of the most cutting-edge technologies, which explains the rather high costs of such projects. On average, the development of a fintech product starts at $70K. However, before planning your project budget we strongly recommend you have a consultation with the development team that will provide you with an estimate.
-
-### Does it make sense to invest in a healthcare fintech project now?
-
-Given all the new opportunities that fintech healthcare solutions can offer and the growing interest in them from the side of medical institutions and patients, it will be sensible to consider the possibility of investing in such products.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to develop a fintech healthcare solution?",
-      "acceptedAnswer": [
-        {
-          "@type": "Answer",
-          "text": "Software development costs vary based on a large number of parameters, including but not limited to the complexity of a future solution, the specificity of features, the required tech stack, etc. Also, such a factor as the structure of the development team will have a significant influence. As a rule, fintech solutions today are built with the use of the most cutting-edge technologies, which explains the rather high costs of such projects. On average, the development of a fintech product starts at $70K. However, before planning your project budget we strongly recommend you have a consultation with the development team that will provide you with an estimate."
-        }
-      ]
-    },
-    {
-      "@type": "Question",
-      "name": "Does it make sense to invest in a healthcare fintech project now?",
-      "acceptedAnswer": [
-        {
-          "@type": "Answer",
-          "text": "Given all the new opportunities that fintech healthcare solutions can offer and the growing interest in them from the side of medical institutions and patients, it will be sensible to consider the possibility of investing in such products."
-        }
-      ]
-    }
-  ]
-}
-</script>
