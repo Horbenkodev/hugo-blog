@@ -1,7 +1,7 @@
 ---
 title: "Fintech Healthcare Solutions: Benefits and New Opportunities"
 slug: fintech-in-healthcare
-publishDate: 2024-04-09T11:54:00.000Z
+publishDate: 2024-04-09T12:23:00.000Z
 image: https://anadea.info/uploads/image_attachment/image/3619/fintech_healthcare.jpg
 og_image: https://anadea.info/uploads/image_attachment/image/3618/fintech_healthcare_socials.jpg
 description: The use of fintech in healthcare is gaining popularity. But how
