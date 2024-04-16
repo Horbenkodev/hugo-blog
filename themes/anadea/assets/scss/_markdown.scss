@@ -1,9 +1,29 @@
+@mixin light {
+  --link-text: #5666a1;
+  --link-hover: #8592be;
+}
+
+@mixin dark {
+  --link-text: #dc296c;
+  --link-hover: #dc296c;
+}
+
 .markdown {
   min-width: 0;
   font-size: clamped(16px, 18px);
 
   :first-child {
     margin-top: 0;
+  }
+
+  a {
+    color: var(--link-text);
+    text-decoration: none;
+
+    &:hover {
+      color: var(--link-hover);
+      text-decoration: underline;
+    }
   }
 
   img {
@@ -64,4 +84,24 @@
   li {
     margin-bottom: 24px;
   }
+}
+
+@media (prefers-color-scheme: dark) {
+  .markdown {
+    @include dark;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .markdown {
+    @include light;
+  }
+}
+
+[data-theme='dark'] .markdown {
+  @include dark;
+}
+
+[data-theme='light'] .markdown {
+  @include light;
 }
