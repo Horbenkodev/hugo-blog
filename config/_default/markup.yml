@@ -8,3 +8,6 @@ goldmark:
 highlight:
   noClasses: false
   tabWidth: 2
+tableOfContents:
+  endLevel: 2
+  ordered: false
