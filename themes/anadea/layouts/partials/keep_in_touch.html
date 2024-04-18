@@ -1,0 +1,50 @@
+{{ $industries := .GetTerms "industries" }}
+{{ $sales := slice }}
+{{ $salePersonData := dict }}
+
+{{ range $industries }}
+  {{ $baseName := path.BaseName .Path }}
+  {{ $industryData := index .Site.Data.industries $baseName }}
+  {{ $sales = $sales | append $industryData.sale }}
+{{ end }}
+
+{{$hasMoreThanOneSale := gt (len $sales) 1 }}
+{{$hasNoSale := or (eq (len $sales) 0) (eq (index $sales 0) nil) }}
+{{ $shouldShowHeadOfSale := or $hasMoreThanOneSale $hasNoSale }}
+
+{{ if $shouldShowHeadOfSale }}
+  {{ $salePersonData = index $.Site.Data.sales "irina-lysenko" }}
+{{ else }}
+  {{ $salePersonData = index $.Site.Data.sales ((index $sales 0) | urlize) }}
+{{ end}}
+
+<article class="keepInTouch">
+  <h3 class="keepInTouch__title">Speak to an expert</h3>
+    <div class="keepInTouch__info">
+
+      {{ $params := dict
+        "class" "keepInTouch__avatar"
+        "width" 50
+        "height" 50
+        "src" $salePersonData.avatar
+        "alt" ""
+        "sizes" 100
+        "ctx" .
+      }}
+
+      {{ partial "image.html" $params }}
+
+      <div class="keepInTouch__name">{{ $salePersonData.name }}</div>
+    </div>
+  <div class="keepInTouch__description">Have a project in mind? Let's talk details!</div>
+  <a class="keepInTouch__action" href="{{ $salePersonData.link }}">
+    <span>Book a call</span>
+    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none">
+      <path
+        fill="#DC296C"
+        d="M11.265 3.205a.75.75 0 0 0-1.03 1.09l5.239 4.955H2.75a.75.75 0 0 0 0 1.5h12.726l-5.241 4.957a.75.75 0 1 0 1.03 1.09l6.418-6.07a.995.995 0 0 0 .3-.566.753.753 0 0 0-.002-.329.995.995 0 0 0-.298-.557l-6.418-6.07Z"
+      ></path>
+    </svg>
+  </a>
+</article>
+
