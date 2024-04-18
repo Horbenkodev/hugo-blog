@@ -1,13 +1,18 @@
-$background-color: var(--medium-purple);
+$background-color: var(--persian-rose);
+$form-background: #111111;
 $text-color: var(--white);
+$attach-color: #cecece;
+$input-color: #706e6e;
 
 .contacts {
-  padding: 40px 30px;
+  gap: 40px;
+  padding: 8px;
   margin-bottom: 70px;
   background-color: $background-color;
   border-radius: 15px;
 
   &__content {
+    margin: 0 16px;
     color: $text-color;
   }
 
@@ -16,29 +21,44 @@ $text-color: var(--white);
     font-size: 28px;
   }
 
+  &__logo {
+    margin-top: 24px;
+    margin-bottom: 12px;
+  }
+
   &__paragraph {
-    font-size: 16px;
+    margin: 0;
+    margin-bottom: 26px;
+    font-size: clamped(16px, 22px);
+  }
+
+  &__formBlock {
+    padding: 8px;
+    background-color: $form-background;
+    border-radius: 16px;
   }
 
   &__form {
     display: flex;
     flex-direction: column;
+    gap: 8px;
   }
 
   &__item {
-    padding: 16px 8px;
-    color: $text-color;
+    padding: 16px 12px;
+    color: $input-color;
     resize: none;
-    background: none;
+    background: $text-color;
     border: none;
-    border-bottom: 1px solid $text-color;
+    border-radius: 8px;
 
     &::placeholder {
-      color: $text-color;
+      color: $input-color;
     }
   }
 
   &__textarea {
+    min-height: 144px;
     border: none;
   }
 
@@ -47,9 +67,56 @@ $text-color: var(--white);
   }
 
   &__label {
-    color: $text-color;
+    color: $attach-color;
     text-align: end;
     cursor: pointer;
+
+    &--attach {
+      &::before {
+        display: inline-block;
+        margin-right: 8px;
+        content: url('/img/contact-form-clip.svg');
+        transform: rotate(225deg);
+      }
+    }
+  }
+
+  &__subscribe {
+    display: flex;
+  }
+
+  &__checkbox {
+    position: relative;
+    flex-shrink: 0;
+    width: 20px;
+    height: 20px;
+    margin: 4px 15px 0 0;
+    overflow: hidden;
+    appearance: none;
+    cursor: pointer;
+    border-radius: 4px;
+
+    &::before {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      content: '';
+      border: 1px solid $text-color;
+      border-radius: 4px;
+    }
+
+    &:checked {
+      background-color: $background-color;
+
+      &::before {
+        background-color: $text-color;
+        border: unset;
+        mask-image: url("data:image/svg+xml,%3Csvg width='25' height='25' viewBox='0 0 25 25' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M25 0H0V25H25V0ZM21.1429 9.47147C21.6794 8.84026 21.6027 7.89362 20.9715 7.35709C20.3403 6.82056 19.3936 6.89732 18.8571 7.52853L11.4105 16.2892L7.06066 11.9393C6.47487 11.3536 5.52513 11.3536 4.93934 11.9393C4.35355 12.5251 4.35355 13.4749 4.93934 14.0607L10.4393 19.5607C10.7355 19.8569 11.1421 20.0157 11.5607 19.9988C11.9792 19.9818 12.3716 19.7906 12.6429 19.4715L21.1429 9.47147Z' fill='white'/%3E%3C/svg%3E");
+        mask-repeat: no-repeat;
+        mask-position: center;
+        mask-size: cover;
+      }
+    }
   }
 
   &__submit {
@@ -58,36 +125,48 @@ $text-color: var(--white);
     font-size: 18px;
     font-weight: 700;
     line-height: 34px;
-    color: $background-color;
+    color: $text-color;
     cursor: pointer;
+    background-color: $background-color;
     border: none;
-    border-radius: 5px;
+    border-radius: 8px;
   }
 }
 
-@media screen and (width >= 768px) {
+@include md {
   .contacts {
     display: flex;
     justify-content: space-between;
-    padding: 50px 60px;
+    padding: 40px 30px;
 
     &__content {
       display: flex;
       flex-direction: column;
       justify-content: space-between;
-      width: 40%;
+      width: 50%;
     }
 
     &__title {
       font-size: 40px;
     }
 
-    &__paragraph {
-      font-size: 22px;
+    &__logo {
+      margin-bottom: 32px;
     }
 
-    &__form {
-      width: 40%;
+    &__formBlock {
+      width: 50%;
+      padding: 24px;
+      background: black;
+      border-radius: 16px;
+    }
+  }
+}
+
+@include xl {
+  .contacts {
+    &__formBlock {
+      padding: 40px;
     }
   }
 }
