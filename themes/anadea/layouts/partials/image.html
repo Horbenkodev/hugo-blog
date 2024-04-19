@@ -21,7 +21,7 @@
   loading="lazy"
   decoding="async"
   srcset="
-    {{- with site.Params.params.deviceSizes -}}
+    {{- with site.Params.deviceSizes -}}
       {{- range $i, $e := . -}}
         {{- if ge $image.Width . -}}
           {{- if $i }},{{ end -}}
