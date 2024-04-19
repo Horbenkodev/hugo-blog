@@ -1,25 +1,34 @@
 <section class="contacts">
   <div class="contacts__content">
     <div>
-      <h2 class="contacts__title">Drop Us a Line</h2>
+      <svg class="contacts__logo" width="68" height="54" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path
+          d="M33.794 0 0 11.977v20.688l33.794-11.977 33.795 11.977V11.977L33.794 0ZM0 53.687 3.112 46h1.472l3.112 7.687h-1.67l-.664-1.712h-3.07l-.663 1.712H0Zm3.827-5.672-.965 2.474h1.93l-.965-2.474ZM17.985 50.732 14.506 46H13v7.687h1.612v-4.889l3.596 4.889h1.389V46h-1.612v4.732ZM25 53.687 28.11 46h1.475l3.11 7.687h-1.668l-.665-1.712h-3.07l-.663 1.712H25Zm3.826-5.672-.963 2.474h1.928l-.965-2.474ZM37 46h2.792c2.25 0 3.804 1.659 3.804 3.842 0 2.164-1.554 3.845-3.804 3.845H37V46Zm1.573 6.16h1.219c1.29 0 2.158-.934 2.158-2.318 0-1.36-.869-2.317-2.158-2.317h-1.219v4.634ZM50.578 50.568h3.402v-1.503h-3.402v-1.56h3.867V46H49v7.687h5.497v-1.504h-3.919v-1.615ZM63.113 46h1.472l3.11 7.687h-1.667l-.666-1.712h-3.068l-.666 1.712H60L63.113 46Zm.713 2.014-.963 2.475h1.927l-.964-2.474Z"
+          fill="#fff"
+        />
+      </svg>
+      <h2 class="contacts__title">Contact us</h2>
       <p class="contacts__paragraph">
-        Thanks for your interest in Anadea. In case you need to contact us, please fill in the form.
+        Whether you’re looking to build an MVP, create a web design for your site, develop a mobile app or complex IT
+        system - tell us about your project. We will give you a quote and advice.
       </p>
     </div>
-    <p class="contacts__paragraph">Send us your request for proposal, and we'll reply with the estimate.</p>
   </div>
-  <form class="contacts__form">
-    <input class="contacts__item" placeholder="Your Name" type="text" /><input
-      class="contacts__item"
-      placeholder="Phone"
-      type="tel"
-    />
-    <input class="contacts__item" placeholder="E-mail" type="email" />
-    <textarea class="contacts__item contacts__textarea" placeholder="Description" rows="10"></textarea>
-    <label class="contacts__label" for="file">Attach file</label>
-    <input class="contacts__file" id="file" type="file" onchange="handleFileInputChange(event)" />
-    <input class="contacts__submit" type="submit" value="Send" />
-  </form>
+  <div class="contacts__formBlock">
+    <form class="contacts__form">
+      <input class="contacts__item" placeholder="Your Name*" type="text" />
+      <input class="contacts__item" placeholder="E-mail*" type="email" />
+      <input class="contacts__item" placeholder="Phone" type="tel" />
+      <textarea class="contacts__item contacts__textarea" placeholder="Description*" rows="5"></textarea>
+      <label class="contacts__label contacts__label--attach" for="file">Attach file</label>
+      <input class="contacts__file" id="file" type="file" onchange="handleFileInputChange(event)" />
+      <div class="contacts__subscribe">
+        <input class="contacts__checkbox" type="checkbox" id="subscribe" checked />
+        <label class="" for="subscribe">Sign me up to newsletter - Useful insights only and frequency just right.</label>
+      </div>
+      <input class="contacts__submit" type="submit" value="Send" />
+    </form>
+  </div>
 </section>
 
 <script>
