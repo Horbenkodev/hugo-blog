@@ -1,13 +1,43 @@
+{{ $industries := .GetTerms "industries" }}
+{{ $sales := slice }}
+{{ $salePersonData := dict }}
+
+{{ range $industries }}
+  {{ $baseName := path.BaseName .Path }}
+  {{ $industryData := index .Site.Data.industries $baseName }}
+  {{ $sales = $sales | append $industryData.sale }}
+{{ end }}
+
+{{$hasMoreThanOneSale := gt (len $sales) 1 }}
+{{$hasNoSale := or (eq (len $sales) 0) (eq (index $sales 0) nil) }}
+{{ $shouldShowHeadOfSale := or $hasMoreThanOneSale $hasNoSale }}
+
+{{ if $shouldShowHeadOfSale }}
+  {{ $salePersonData = index $.Site.Data.sales "irina-lysenko" }}
+{{ else }}
+  {{ $salePersonData = index $.Site.Data.sales ((index $sales 0) | urlize) }}
+{{ end}}
+
 <article class="keepInTouch">
   <h3 class="keepInTouch__title">Speak to an expert</h3>
-  <a class="keepInTouch__link" href="{{ .url }}">
     <div class="keepInTouch__info">
-      <img class="keepInTouch__avatar" src="/img/keepInTouch-avatar.png" alt="" />
-      <div class="keepInTouch__name">Irina Lysenko</div>
+
+      {{ $params := dict
+        "class" "keepInTouch__avatar"
+        "width" 50
+        "height" 50
+        "src" $salePersonData.avatar
+        "alt" ""
+        "sizes" 100
+        "ctx" .
+      }}
+
+      {{ partial "image.html" $params }}
+
+      <div class="keepInTouch__name">{{ $salePersonData.name }}</div>
     </div>
-  </a>
   <div class="keepInTouch__description">Have a project in mind? Let's talk details!</div>
-  <a class="keepInTouch__action" href="https://calendly.com/irina_anadea">
+  <a class="keepInTouch__action" href="{{ $salePersonData.link }}">
     <span>Book a call</span>
     <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none">
       <path
@@ -17,3 +47,4 @@
     </svg>
   </a>
 </article>
+

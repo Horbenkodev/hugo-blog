@@ -98,6 +98,27 @@ collections:
       - {label: "Position", name: "position", widget: "string", required: false}
     sortableFields: ["name", "memberSince"]
 
+  - label: "Sales"
+    label_singular: "Sale"
+    identifier_field: name
+    name: "sales"
+    folder: "data/sales"
+    path: "{{slug}}"
+    extension: 'json'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - {label: "Name", name: "name", widget: "string"}
+      - label: "Avatar"
+        name: "avatar"
+        widget: "image"
+        required: false
+        default: '/img/default-avatar-icon.svg'
+        media_folder: "/assets/img/avatars"
+        public_folder: "/img/avatars"
+      - {label: "Link", name: "link", widget: "string", }
+
   - label: "Categories"
     label_singular: "Category"
     identifier_field: name
@@ -124,24 +145,13 @@ collections:
       preview: false
     fields:
       - {label: "Name", name: "name", widget: "string"}
+      - label: Sale
+        name: sale
+        widget: relation
+        collection: "sales"
+        default: "Irina Lysenko"
+        multiple: false
+        search_fields: ["name"]
+        display_fields: ["name"]
+        value_field: "name"
     sortableFields: ["name"]
-
-  - name: "site_settings"
-    label: "Site Settings"
-    files:
-      - file: "hugo.yml"
-        label: Hugo Config
-        name: config
-        fields:
-          - {label: Site Title for Browser Tab, name: title, widget: string}
-          - label: Params
-            name: params
-            widget: object
-            fields:
-              - { label: Meta Title, name: meta_title, widget: string }
-              - { label: Meta Description, name: meta_description, widget: text }
-              - label: OG Image
-                name: og_image
-                widget: image
-                media_folder: "static/og_images"
-                public_folder: "/og_images"

@@ -27,15 +27,9 @@
       </article>
 
       <div class="postBody__animated">
-        {{- with .Page.GetTerms "authors" -}}
-          {{- with index . 0 -}}
-            {{- $baseName := path.BaseName .Path -}}
-            {{- $author := index .Site.Data.authors $baseName -}}
-            <div class="sticky hidden" id="author-connect">
-              {{- partial "keep_in_touch.html" (dict "author" $author "url" .RelPermalink) -}}
-            </div>
-          {{- end -}}
-        {{- end -}}
+        <div class="sticky hidden" id="author-connect">
+          {{ partial "keep_in_touch.html" . }}
+        </div>
 
         <div class="sticky hidden" id="read-next">
           {{- partial "read_next.html" . -}}
@@ -51,3 +45,4 @@
     {{- partial "contacts.html" . -}}
   </div>
 {{- end -}}
+
