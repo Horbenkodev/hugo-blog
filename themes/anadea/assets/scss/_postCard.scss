@@ -12,14 +12,14 @@
   gap: 15px;
   overflow: hidden;
 
-  &__figure {
+  &__content {
     display: flex;
     flex-direction: column;
     flex-grow: 1;
     margin: 0;
   }
 
-  &__figcaption {
+  &__caption {
     display: flex;
     flex-direction: column;
     padding-top: 14px;

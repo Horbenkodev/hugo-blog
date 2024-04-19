@@ -1,7 +1,7 @@
 {{- $taxonomyList := slice "categories" "industries" -}}
 
 <article class="postCard">
-  <figure class="postCard__figure">
+  <div class="postCard__content">
 
     {{ $params := dict
       "class" "postCard__image"
@@ -15,7 +15,7 @@
 
     {{ partial "image.html" $params }}
 
-    <figcaption class="postCard__figcaption">
+    <div class="postCard__caption">
       {{ partial "post_info.html" . }}
       <h2 class="postCard__title">
         <a href="{{ .RelPermalink }}" class="postCard__link">
@@ -32,6 +32,6 @@
           {{- end -}}
         {{- end -}}
       </div>
-    </figcaption>
-  </figure>
+    </div>
+  </div>
 </article>

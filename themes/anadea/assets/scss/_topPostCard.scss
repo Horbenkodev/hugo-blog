@@ -11,12 +11,12 @@
   display: flex;
   gap: 15px;
 
-  &__figure {
+  &__content {
     flex-grow: 1;
     margin: 0;
   }
 
-  &__figcaption {
+  &__caption {
     display: flex;
     flex-direction: column;
     padding-top: 14px;
@@ -96,14 +96,14 @@
 
 @include xl {
   .topPostCard {
-    &__figure {
+    &__content {
       display: flex;
       flex-direction: row;
       gap: 20px;
       margin: 0;
     }
 
-    &__figcaption {
+    &__caption {
       padding: 0;
     }
 
