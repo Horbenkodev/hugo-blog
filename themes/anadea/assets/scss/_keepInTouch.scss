@@ -10,7 +10,7 @@
   --background-color: var(--shark);
 }
 
-.authorConnect {
+.keepInTouch {
   position: relative;
   display: flex;
   flex-direction: column;
@@ -74,21 +74,21 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  .authorConnect {
+  .keepInTouch {
     @include dark;
   }
 }
 
 @media (prefers-color-scheme: light) {
-  .authorConnect {
+  .keepInTouch {
     @include light;
   }
 }
 
-[data-theme='dark'] .authorConnect {
+[data-theme='dark'] .keepInTouch {
   @include dark;
 }
 
-[data-theme='light'] .authorConnect {
+[data-theme='light'] .keepInTouch {
   @include light;
 }
