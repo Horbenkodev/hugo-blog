@@ -17,6 +17,8 @@
       {{- end -}}
     </section>
 
+    {{- partial "filters.html" . -}}
+
     {{ $feed := where .Site.RegularPages ".Params.promote.promote" "eq" false }}
     {{ $feed = where $feed ".Params.top" "eq" false }}
     {{ $paginator := .Paginate $feed }}

@@ -1,0 +1,26 @@
+{{ $categories := .Site.Data.categories }}
+{{ $industries := .Site.Data.industries }}
+
+
+<form action="/search" method="GET" class="filters" id="search">
+  <input class="filters__search" type="search" name="token" id="search-query" placeholder="Search..." />
+  <button type="submit" id="search-button">Search</button>
+  <button type="reset">Reset</button>
+
+  <div class="filters__block">
+    <select name="" id="cat" class="filters__select">
+      <option value="All categories">All categories</option>
+      {{ range $categories }}
+        <option value="{{ .name }}">{{ .name }}</option>
+      {{ end }}
+    </select>
+    <select name="" id="ind" class="filters__select">
+      <option value="All industries">All industries</option>
+      {{ range $industries }}
+        <option value="{{ .name }}">{{ .name }}</option>
+      {{ end }}
+    </select>
+  </div>
+</form>
+
+

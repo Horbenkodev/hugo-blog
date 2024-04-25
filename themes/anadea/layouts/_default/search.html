@@ -1,0 +1,13 @@
+{{- define "page-js" -}}
+  {{ partialCached "head/search_js.html" . }}
+{{- end -}}
+
+{{ define "main" }}
+  <div class="container container__w1300">
+    {{- partial "page_head.html" . -}}
+    <h1>Search</h1>
+    {{- partial "filters.html" . -}}
+
+    <div id="searchResults"></div>
+  </div>
+{{ end }}

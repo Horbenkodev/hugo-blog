@@ -1,0 +1,59 @@
+@mixin light {
+  --main-text: var(--silver);
+}
+
+@mixin dark {
+  --main-text: var(--silver);
+}
+
+.filters {
+  display: flex;
+  justify-content: space-between;
+  margin: 24px 0;
+
+  &__search {
+    position: relative;
+    width: 360px;
+    height: 42px;
+    color: var(--main-text);
+    background: unset;
+    border: none;
+    border-bottom: 1px solid var(--main-text);
+
+    &::placeholder {
+      color: var(--main-text);
+    }
+  }
+
+  &__block {
+    display: flex;
+    gap: 16px;
+  }
+
+  &__select {
+    padding-right: 8px;
+    color: var(--main-text);
+    background: none;
+    border: none;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .filters {
+    @include dark;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .filters {
+    @include light;
+  }
+}
+
+[data-theme='dark'] .filters {
+  @include dark;
+}
+
+[data-theme='light'] .filters {
+  @include light;
+}
