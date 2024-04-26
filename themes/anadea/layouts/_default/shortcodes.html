@@ -1,0 +1,25 @@
+<!doctype html>
+<html
+  lang="{{ or site.Language.LanguageCode site.Language.Lang }}"
+  dir="{{ or site.Language.LanguageDirection `ltr` }}"
+>
+  <head>
+    {{ partial "head/application_css.html" }}
+
+    {{ partial "head/page_css.html" (dict
+      "sourcePath" "scss/post.scss"
+      "targetPath" "css/post.css"
+      )
+    }}
+  </head>
+  <body class="mainText">
+    <main>
+      <div class="container container__w960">
+        <h1>Shotrtcodes</h1>
+        <div class="markdown">
+          {{ .Content }}
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
