@@ -1,18 +1,26 @@
+{{ define "page-css" }}
+  {{ partial "head/page_css.html" (dict
+    "sourcePath" "scss/taxonomy.scss"
+    "targetPath" "css/taxonomy.css"
+    )
+  }}
+{{ end }}
+
 {{ define "main" }}
   <div class="container container__w1300">
-    {{- partial "page_head.html" . -}}
+    {{ partial "page_head.html" . }}
 
     <header class="taxonomyPage">
       <h1 class="taxonomyPage__title">Articles about {{ .Title }}</h1>
     </header>
 
     <div class="postFeed">
-      {{- range .Paginator.Pages }}
-        {{- partial "post_card.html" . -}}
-      {{ end -}}
+      {{ range .Paginator.Pages }}
+        {{ partial "post_card.html" . }}
+      {{ end }}
     </div>
 
     {{ partial "pagination.html" . }}
-    {{- partial "subscription.html" . -}}
+    {{ partial "subscription.html" . }}
   </div>
 {{ end }}

@@ -12,7 +12,7 @@
   --disabled-color: var(--slate-gray);
 }
 
-.Pagination {
+.pagination {
   margin-bottom: 160px;
 
   &__list {
@@ -68,7 +68,7 @@
 }
 
 @include md {
-  .Pagination {
+  .pagination {
     &__list {
       justify-content: end;
     }
@@ -76,21 +76,21 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  .Pagination {
+  .pagination {
     @include dark;
   }
 }
 
 @media (prefers-color-scheme: light) {
-  .Pagination {
+  .pagination {
     @include light;
   }
 }
 
-[data-theme='dark'] .Pagination {
+[data-theme='dark'] .pagination {
   @include dark;
 }
 
-[data-theme='light'] .Pagination {
+[data-theme='light'] .pagination {
   @include light;
 }

@@ -1,0 +1,20 @@
+// Utils
+@import 'utils/mediaQueries';
+@import 'utils/mixins';
+
+// Modules
+@import 'modules/taxonomy';
+@import 'modules/featuredPosts';
+@import 'modules/tag';
+@import 'modules/promotionCard';
+@import 'modules/topPostCard';
+
+// Layouts
+@import 'layouts/postFeed';
+
+.title {
+  margin-top: clamped(20px, 28px);
+  margin-bottom: clamped(20px, 40px);
+  font-size: clamped(36px, 56px);
+  line-height: 1;
+}
