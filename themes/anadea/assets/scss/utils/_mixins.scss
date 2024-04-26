@@ -20,6 +20,10 @@
   clip-path: inset(50%);
 }
 
+.sr-only {
+  @include sr-only();
+}
+
 $default-min-bp: 576px;
 $default-max-bp: 1200px;
 

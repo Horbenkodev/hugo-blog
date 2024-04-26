@@ -13,8 +13,8 @@
   """
 
   [build.environment]
-    HUGO_VERSION = "0.123.8"
-    DART_SASS_VERSION = "1.71.1"
+    HUGO_VERSION = "0.125.4"
+    DART_SASS_VERSION = "1.75.0"
 
 [context.production.environment]
   HUGO_ENV           = "production"

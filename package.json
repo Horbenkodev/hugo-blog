@@ -6,7 +6,8 @@
     "dev": "run-p start:**",
     "start:hugo": "hugo server -v --gc --noHTTPCache --disableFastRender --ignoreCache --renderToMemory --templateMetrics --templateMetricsHints --logLevel debug",
     "start:decap-server": "npx decap-server",
-    "prepare": "husky"
+    "prepare": "husky",
+    "stylelint": "stylelint '**/*.scss' --fix"
   },
   "author": "",
   "license": "ISC",

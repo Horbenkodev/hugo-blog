@@ -1,21 +1,29 @@
+{{ define "page-css" }}
+  {{ partial "head/page_css.html" (dict
+    "sourcePath" "scss/author.scss"
+    "targetPath" "css/author.css"
+    )
+  }}
+{{ end }}
+
 {{ define "main" }}
-{{- $baseName := path.BaseName .RelPermalink -}}
-{{- $author := index .Site.Data.authors $baseName -}}
+  {{ $baseName := path.BaseName .RelPermalink }}
+  {{ $author := index .Site.Data.authors $baseName }}
 
 
-<div class="container container__w1300">
-    {{- partial "page_head.html" . -}}
-    {{- with $author -}}
-        <h1>{{ .name }}</h1>
-        {{ partial "hero_card.html" . }}
+  <div class="container container__w1300">
+    {{ partial "page_head.html" . }}
+    {{ with $author }}
+      <h1>{{ .name }}</h1>
+      {{ partial "hero_card.html" . }}
     {{ end }}
-      <div class="postFeed">
-        {{- range .Paginator.Pages }}
-          {{- partial "post_card.html" . -}}
-        {{ end -}}
-      </div>
+    <div class="postFeed">
+      {{ range .Paginator.Pages }}
+        {{ partial "post_card.html" . }}
+      {{ end }}
+    </div>
 
-      {{ partial "pagination.html" . }}
-      {{- partial "subscription.html" . -}}
+    {{ partial "pagination.html" . }}
+    {{ partial "subscription.html" . }}
   </div>
 {{ end }}
