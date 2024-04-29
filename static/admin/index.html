@@ -1,13 +1,49 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="robots" content="noindex" />
     <title>Content Manager</title>
+    <style>
+      .shortcodes {
+        background: rgba(0, 0, 0, 0.5);
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        height: 32px;
+        padding: 0 40px;
+      }
+
+      .shortcodes__link {
+        color: #fff;
+      }
+    </style>
   </head>
   <body>
-    <script src="https://unpkg.com/decap-cms@^3.1.2/dist/decap-cms.js"></script>
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script defer src="https://unpkg.com/decap-cms@^3.1.2/dist/decap-cms.js"></script>
+    <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script defer>
+      function manageLink() {
+        const linkContainer =
+          '<div class="shortcodes" id="shortcodes"><a href="/admin/shortcodes" target="_blank" class="shortcodes__link">Shortcodes</a></div>';
+        const pattern = new URLPattern({ hash: '/(collections)/(posts)/*' });
+        const shortcodes = document.getElementById('shortcodes');
+
+        if (pattern.test(document.location)) {
+          if (!shortcodes) {
+            document.querySelector('body').insertAdjacentHTML('beforeend', linkContainer);
+          }
+          return;
+        }
+
+        shortcodes && shortcodes.remove();
+      }
+
+      window.addEventListener('popstate', manageLink);
+    </script>
   </body>
 </html>
