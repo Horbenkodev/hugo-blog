@@ -1,5 +1,13 @@
 {{ $.Scratch.Add "index" slice }}
 {{ range .Site.RegularPages }}
-    {{ $.Scratch.Add "index" (dict "title" .Title "description" .Params.description "categories" .Params.categories "industries" .Params.industries "permalink" .Permalink) }}
+    {{ $.Scratch.Add "index" (dict
+      "title" .Title
+      "description" .Params.description
+      "categories" .Params.categories
+      "industries" .Params.industries
+      "image" .Params.image
+      "permalink" .Permalink
+      )
+    }}
 {{ end }}
 {{ $.Scratch.Get "index" | jsonify }}
