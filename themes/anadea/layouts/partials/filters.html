@@ -1,26 +1,54 @@
-{{ $categories := .Site.Data.categories }}
-{{ $industries := .Site.Data.industries }}
+{{ $categories := .Site.Taxonomies.categories }}
+{{ $industries := .Site.Taxonomies.industries }}
 
 
-<form action="/search" method="GET" class="filters" id="search">
+<form class="filters" id="search">
   <input class="filters__search" type="search" name="token" id="search-query" placeholder="Search..." />
   <button type="submit" id="search-button">Search</button>
   <button type="reset">Reset</button>
 
   <div class="filters__block">
-    <select name="" id="cat" class="filters__select">
-      <option value="All categories">All categories</option>
-      {{ range $categories }}
-        <option value="{{ .name }}">{{ .name }}</option>
+    <select name="categories" id="categories" class="filters__select">
+      <option value="" selected >All categories</option>
+      {{ range $key, $value := $categories }}
+        <option value="{{ title $key }}">{{ title $key }}</option>
       {{ end }}
     </select>
-    <select name="" id="ind" class="filters__select">
-      <option value="All industries">All industries</option>
-      {{ range $industries }}
-        <option value="{{ .name }}">{{ .name }}</option>
+    <select name="industries" id="industries" class="filters__select">
+      <option value="" selected >All industries</option>
+      {{ range $key, $value := $industries}}
+        <option value="{{ title $key }}">{{ title $key }}</option>
       {{ end }}
     </select>
   </div>
 </form>
 
+<script>
+  const search = document.getElementById('search');
+  search.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const data = new URLSearchParams(new FormData(search));
+    const token = data.get('token');
+    const categories = data.get('categories');
+    const industries = data.get('industries');
 
+    const toKebabCase = (str) =>
+      str &&
+      str
+        .match(/[A-Z]{2,}(?=[A-Z][a-z]+[0-9]*|\b)|[A-Z]?[a-z]+[0-9]*|[A-Z]|[0-9]+/g)
+        .map((x) => x.toLowerCase())
+        .join('-');
+
+    if (!token && !categories && !industries) {
+      return;
+    }
+
+    if (token || (categories && industries)) {
+      window.location = `/search/?${data.toString()}`
+      return;
+    }
+
+    const path = categories ? `/categories/${toKebabCase(categories)}` : `/industries/${toKebabCase(industries)}`;
+    window.location = path;
+  });
+</script>
