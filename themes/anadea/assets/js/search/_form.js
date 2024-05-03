@@ -5,8 +5,9 @@ function initForm() {
 
   search.addEventListener('reset', () => {
     const pattern = new URL(document.location);
+
     if (pattern.pathname === '/search/') {
-      window.location = '/search';
+      window.location = '/search/';
     }
   });
 
