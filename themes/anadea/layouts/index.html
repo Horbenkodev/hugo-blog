@@ -1,3 +1,7 @@
+{{- define "page-js" -}}
+  {{ partialCached "head/search_form_js.html" . }}
+{{- end -}}
+
 {{- define "main" -}}
   {{- $promote := where .Site.RegularPages "Params.promote.promote" "==" true -}}
   {{- $top := where .Site.RegularPages "Params.top" "==" true -}}

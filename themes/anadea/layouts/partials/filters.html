@@ -4,8 +4,6 @@
 
 <form class="filters" id="search">
   <input class="filters__search" type="search" name="token" id="search-query" placeholder="Search..." />
-  <button type="submit" id="search-button">Search</button>
-  <button type="reset">Reset</button>
 
   <div class="filters__block">
     <select name="categories" id="categories" class="filters__select">
@@ -21,34 +19,8 @@
       {{ end }}
     </select>
   </div>
+  <div class="filters__buttons">
+    <button class="filters__button filters__button--submit" type="submit" id="search-button">Submit</button>
+    <button class="filters__button filters__button--reset" type="reset">Reset all</button>
+  </div>
 </form>
-
-<script>
-  const search = document.getElementById('search');
-  search.addEventListener('submit', (e) => {
-    e.preventDefault();
-    const data = new URLSearchParams(new FormData(search));
-    const token = data.get('token');
-    const categories = data.get('categories');
-    const industries = data.get('industries');
-
-    const toKebabCase = (str) =>
-      str &&
-      str
-        .match(/[A-Z]{2,}(?=[A-Z][a-z]+[0-9]*|\b)|[A-Z]?[a-z]+[0-9]*|[A-Z]|[0-9]+/g)
-        .map((x) => x.toLowerCase())
-        .join('-');
-
-    if (!token && !categories && !industries) {
-      return;
-    }
-
-    if (token || (categories && industries)) {
-      window.location = `/search/?${data.toString()}`
-      return;
-    }
-
-    const path = categories ? `/categories/${toKebabCase(categories)}` : `/industries/${toKebabCase(industries)}`;
-    window.location = path;
-  });
-</script>
