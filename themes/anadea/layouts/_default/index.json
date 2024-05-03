@@ -1,13 +1,19 @@
 {{ $.Scratch.Add "index" slice }}
+
 {{ range .Site.RegularPages }}
-    {{ $.Scratch.Add "index" (dict
-      "title" .Title
-      "description" .Params.description
-      "categories" .Params.categories
-      "industries" .Params.industries
-      "image" .Params.image
-      "permalink" .Permalink
-      )
-    }}
+  {{ $srcset := partial "utils/srcset.html" . }}
+  {{ $.Scratch.Add "index" (dict
+    "title" .Title
+    "description" .Params.description
+    "categories" .Params.categories
+    "industries" .Params.industries
+    "image" .Params.image
+    "srcset" $srcset
+    "permalink" .Permalink
+    "authors" .Params.authors
+    "publishdate" .Params.publishdate
+    )
+  }}
 {{ end }}
 {{ $.Scratch.Get "index" | jsonify }}
+
