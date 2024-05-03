@@ -3,6 +3,13 @@ import { toKebabCase } from '../_utils';
 function initForm() {
   const search = document.getElementById('search');
 
+  search.addEventListener('reset', () => {
+    const pattern = new URL(document.location);
+    if (pattern.pathname === '/search/') {
+      window.location = '/search';
+    }
+  });
+
   search.addEventListener('submit', (e) => {
     e.preventDefault();
 
@@ -33,3 +40,11 @@ function initForm() {
 }
 
 document.addEventListener('DOMContentLoaded', initForm);
+
+// const pattern = new URLPattern({ hash: '/(collections)/(posts)/*' });
+// if (pattern.test(document.location)) {
+//   if (!shortcodes) {
+//     document.querySelector('body').insertAdjacentHTML('beforeend', linkContainer);
+//   }
+//   return;
+// }
