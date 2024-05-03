@@ -30,10 +30,10 @@
       function manageLink() {
         const linkContainer =
           '<div class="shortcodes" id="shortcodes"><a href="/admin/shortcodes" target="_blank" class="shortcodes__link">Shortcodes</a></div>';
-        const pattern = new URLPattern({ hash: '/(collections)/(posts)/*' });
+        const url = new URL(document.location);
         const shortcodes = document.getElementById('shortcodes');
 
-        if (pattern.test(document.location)) {
+        if (url.hash.includes('/collections/posts/')) {
           if (!shortcodes) {
             document.querySelector('body').insertAdjacentHTML('beforeend', linkContainer);
           }
