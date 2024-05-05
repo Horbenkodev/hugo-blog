@@ -1,7 +1,8 @@
 ---
 title: Shortcodes for markdown
 layout: shortcodes
-list: newer
+build:
+  list: never
 ---
 
 ```go
