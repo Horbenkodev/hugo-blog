@@ -1,0 +1,36 @@
+@mixin mainButton {
+  background-color: var(--persian-rose);
+
+  &:hover {
+    background-color: var(--persian-rose-100);
+  }
+
+  &:active {
+    background-color: var(--persian-rose-200);
+  }
+}
+
+@mixin withoutBgButton {
+  background: unset;
+  border: 1px solid var(--persian-rose);
+
+  &:hover {
+    background-color: var(--persian-rose-100);
+  }
+
+  &:active {
+    background-color: var(--persian-rose-200);
+    border-color: var(--persian-rose-200);
+  }
+}
+
+@mixin selectInput {
+  &:hover {
+    border: 1px solid var(--persian-rose-100);
+  }
+
+  &:focus-visible {
+    border: 1px solid var(--persian-rose-200);
+    outline: none;
+  }
+}

@@ -1,27 +1,49 @@
 @mixin light {
-  --main-text: var(--silver);
+  --main-text: var(--black);
+  --meta-text: var(--slate-gray);
+  --main-color: var(--dove-gray);
+  --background-color: var(--lavender-50);
+  --select-arrow: url("data:image/svg+xml,%3Csvg width='10' height='6' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M.146.646a.5.5 0 0 1 .708 0L5 4.793 9.146.646a.5.5 0 1 1 .708.708l-4.5 4.5a.5.5 0 0 1-.708 0l-4.5-4.5a.5.5 0 0 1 0-.708Z' fill='%23111'/%3E%3C/svg%3E");
+  --search-lens: url("data:image/svg+xml,%3Csvg width='24' height='24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 19a8 8 0 1 0 0-16 8 8 0 0 0 0 16ZM20.998 21l-4.35-4.35' stroke='%23706e6e' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+  --search-lens-active: url("data:image/svg+xml,%3Csvg width='24' height='24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 19a8 8 0 1 0 0-16 8 8 0 0 0 0 16ZM20.998 21l-4.35-4.35' stroke='%23111' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
 }
 
 @mixin dark {
-  --main-text: var(--silver);
+  --main-text: var(--white);
+  --meta-text: var(--alto);
+  --main-color: var(--emperor);
+  --meta-color: var(--persian-rose);
+  --select-arrow: url("data:image/svg+xml,%3Csvg width='10' height='6' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M.146.646a.5.5 0 0 1 .708 0L5 4.793 9.146.646a.5.5 0 1 1 .708.708l-4.5 4.5a.5.5 0 0 1-.708 0l-4.5-4.5a.5.5 0 0 1 0-.708Z' fill='%23fff'/%3E%3C/svg%3E");
+  --search-lens: url("data:image/svg+xml,%3Csvg width='24' height='24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 19a8 8 0 1 0 0-16 8 8 0 0 0 0 16ZM20.998 21l-4.35-4.35' stroke='%23cecece' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+  --search-lens-active: url("data:image/svg+xml,%3Csvg width='24' height='24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 19a8 8 0 1 0 0-16 8 8 0 0 0 0 16ZM20.998 21l-4.35-4.35' stroke='%23fff' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
 }
 
 .filters {
-  display: flex;
-  justify-content: space-between;
-  margin: 24px 0;
+  display: grid;
+  grid-template-rows: repeat(3, 1fr);
+  gap: 12px;
+  margin: 24px auto;
 
   &__search {
-    position: relative;
-    width: 360px;
-    height: 42px;
+    @include selectInput;
+
+    width: 100%;
+    height: 48px;
+    padding: 8px 8px 8px 52px;
     color: var(--main-text);
     background: unset;
-    border: none;
-    border-bottom: 1px solid var(--main-text);
+    background-image: var(--search-lens);
+    background-repeat: no-repeat;
+    background-position: left 20px center;
+    border: 1px solid var(--main-color);
+    border-radius: 8px;
 
     &::placeholder {
-      color: var(--main-text);
+      color: var(--meta-text);
+    }
+
+    &:focus {
+      background-image: var(--search-lens-active);
     }
   }
 
@@ -31,10 +53,68 @@
   }
 
   &__select {
-    padding-right: 8px;
+    width: 100%;
+    padding: 12px 16px;
     color: var(--main-text);
-    background: none;
+    appearance: none;
+    cursor: pointer;
+    background: unset;
+    background-image: var(--select-arrow);
+    background-repeat: no-repeat;
+    background-position: right 16px center;
+    border-radius: 8px;
+
+    @include selectInput;
+  }
+
+  &__buttons {
+    display: flex;
+    gap: 16px;
+  }
+
+  &__button {
+    width: 100%;
+    font-weight: 700;
+    color: var(--white);
     border: none;
+    border-radius: 8px;
+
+    &--submit {
+      @include mainButton;
+    }
+
+    &--reset {
+      @include withoutBgButton;
+
+      color: var(--main-text);
+
+      &:hover,
+      &:active {
+        color: var(--white);
+      }
+    }
+  }
+}
+
+@include md {
+  .filters {
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(2, 1fr);
+
+    &__buttons {
+      grid-column: span 2;
+    }
+  }
+}
+
+@include xl {
+  .filters {
+    grid-template-rows: 1fr;
+    grid-template-columns: repeat(3, 1fr);
+
+    &__buttons {
+      grid-column: span 1;
+    }
   }
 }
 
