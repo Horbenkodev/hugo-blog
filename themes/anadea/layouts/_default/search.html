@@ -3,6 +3,14 @@
   {{ partialCached "head/search_form_js.html" . }}
 {{- end -}}
 
+{{ define "page-css" }}
+  {{ partialCached "head/page_css.html" (dict
+    "sourcePath" "scss/home.scss"
+    "targetPath" "css/home.css"
+    )
+  }}
+{{ end }}
+
 {{ define "main" }}
   <div class="container container__w1300">
     {{- partial "page_head.html" . -}}
