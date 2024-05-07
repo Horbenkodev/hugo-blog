@@ -15,6 +15,7 @@ collections:
     label_singular: "Post"
     folder: "content/posts"
     path: "{{slug}}/index"
+    summary: "{{top | ternary('🔥 Top | ','')}} {{promote.promote | ternary('⭐ Promote | ','')}} {{title}} "
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
@@ -70,7 +71,7 @@ collections:
         search_fields: ["name"]
         display_fields: ["name"]
         value_field: "name"
-    sortable_fields: ["title", "publishDate"]
+    sortable_fields: ["title", "publishDate", "top", "promote.promote"]
 
   - label: "Authors"
     label_singular: "Author"
