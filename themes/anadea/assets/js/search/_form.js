@@ -41,11 +41,3 @@ function initForm() {
 }
 
 document.addEventListener('DOMContentLoaded', initForm);
-
-// const pattern = new URLPattern({ hash: '/(collections)/(posts)/*' });
-// if (pattern.test(document.location)) {
-//   if (!shortcodes) {
-//     document.querySelector('body').insertAdjacentHTML('beforeend', linkContainer);
-//   }
-//   return;
-// }
