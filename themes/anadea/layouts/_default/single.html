@@ -1,9 +1,17 @@
-{{- define "page-js" -}}
-  {{ partialCached "head/post_js.html" . }}
-{{- end -}}
+{{ define "page-css" }}
+  {{ partial "head/page_css.html" (dict
+    "sourcePath" "scss/post.scss"
+    "targetPath" "css/post.css"
+    )
+  }}
+{{ end }}
 
-{{- define "main" -}}
-  {{- partial "post_head.html" . -}}
+{{ define "page-js" }}
+  {{ partial "head/page_js.html" (dict  "sourcePath" "js/post.js") }}
+{{ end }}
+
+{{ define "main" }}
+  {{ partial "post_head.html" . }}
 
   <div class="container container__w960 postBody">
     <article class="ToC__mobileOnly">
@@ -32,17 +40,16 @@
         </div>
 
         <div class="sticky hidden" id="read-next">
-          {{- partial "read_next.html" . -}}
+          {{ partial "read_next.html" . }}
         </div>
       </div>
     </aside>
   </div>
 
   <div class="container container__w1300">
-    {{- partial "questions.html" . -}}
-    {{- partial "subscription.html" . -}}
-    {{- partial "keep_reading.html" . -}}
-    {{- partial "contacts.html" . -}}
+    {{ partial "questions.html" . }}
+    {{ partial "subscription.html" . }}
+    {{ partial "keep_reading.html" . }}
+    {{ partial "contacts.html" . }}
   </div>
-{{- end -}}
-
+{{ end }}

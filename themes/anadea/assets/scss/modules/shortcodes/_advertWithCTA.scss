@@ -32,7 +32,9 @@ $text-color: var(--white);
       text-decoration: underline;
     }
   }
+}
 
+a.advertWithCTA {
   &__button {
     padding: 10px 30px;
     margin-top: 24px;
@@ -44,6 +46,11 @@ $text-color: var(--white);
     text-decoration: none;
     background-color: $text-color;
     border-radius: 5px;
+
+    &:hover {
+      color: $background-color;
+      text-decoration: none;
+    }
   }
 }
 

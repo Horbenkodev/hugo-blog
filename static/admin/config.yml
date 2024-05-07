@@ -70,7 +70,7 @@ collections:
         search_fields: ["name"]
         display_fields: ["name"]
         value_field: "name"
-    sortableFields: ["title", "publishDate"]
+    sortable_fields: ["title", "publishDate"]
 
   - label: "Authors"
     label_singular: "Author"
@@ -96,7 +96,7 @@ collections:
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Short Description", name: "shortDescription", widget: "text"}
       - {label: "Position", name: "position", widget: "string", required: false}
-    sortableFields: ["name", "memberSince"]
+    sortable_fields: ["name", "memberSince"]
 
   - label: "Sales"
     label_singular: "Sale"
@@ -131,7 +131,7 @@ collections:
       preview: false
     fields:
       - {label: "Name", name: "name", widget: "string"}
-    sortableFields: ["name"]
+    sortable_fields: ["name"]
 
   - label: "Industries"
     label_singular: "Industry"
@@ -154,4 +154,4 @@ collections:
         search_fields: ["name"]
         display_fields: ["name"]
         value_field: "name"
-    sortableFields: ["name"]
+    sortable_fields: ["name"]

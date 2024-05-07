@@ -1,0 +1,57 @@
+@mixin light {
+  --main-text: var(--black);
+  --background-color: var(--white);
+}
+
+@mixin dark {
+  --main-text: var(--white);
+  --background-color: var(--black);
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  line-height: 1.625;
+  color: var(--main-text);
+  background-color: var(--background-color);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    @include dark;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  body {
+    @include light;
+  }
+}
+
+[data-theme='dark'] body {
+  @include dark;
+}
+
+[data-theme='light'] body {
+  @include light;
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  color: inherit;
+  text-decoration: underline;
+}

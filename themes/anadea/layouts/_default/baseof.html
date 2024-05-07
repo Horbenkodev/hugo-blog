@@ -6,6 +6,7 @@
   <head>
     {{ partial "head.html" . }}
     {{ block "page-js" . }}{{ end }}
+    {{ block "page-css" . }}{{ end }}
   </head>
   <body class="mainText">
     {{ with $.Site.Params.gtm }}

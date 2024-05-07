@@ -1,16 +1,25 @@
+{{ define "page-css" }}
+  {{ partial "head/page_css.html" (dict
+    "sourcePath" "scss/author.scss"
+    "targetPath" "css/author.css"
+    )
+  }}
+{{ end }}
+
 {{- define "page-js" -}}
   {{ partialCached "head/search_form_js.html" . }}
 {{- end -}}
 
 {{ define "main" }}
-  {{- $baseName := path.BaseName .RelPermalink -}}
-  {{- $author := index .Site.Data.authors $baseName -}}
+  {{ $baseName := path.BaseName .RelPermalink }}
+  {{ $author := index .Site.Data.authors $baseName }}
+
 
   <div class="container container__w1300">
-    {{- partial "page_head.html" . -}}
-    {{- with $author -}}
-        <h1>{{ .name }}</h1>
-        {{ partial "hero_card.html" . }}
+    {{ partial "page_head.html" . }}
+    {{ with $author }}
+      <h1>{{ .name }}</h1>
+      {{ partial "hero_card.html" . }}
     {{ end }}
     {{- partial "filters.html" . -}}
 
@@ -21,6 +30,6 @@
     </div>
 
     {{ partial "pagination.html" . }}
-    {{- partial "subscription.html" . -}}
+    {{ partial "subscription.html" . }}
   </div>
 {{ end }}

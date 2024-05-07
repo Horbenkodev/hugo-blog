@@ -2,6 +2,14 @@
   {{ partialCached "head/search_form_js.html" . }}
 {{- end -}}
 
+{{ define "page-css" }}
+  {{ partialCached "head/page_css.html" (dict
+    "sourcePath" "scss/home.scss"
+    "targetPath" "css/home.css"
+    )
+  }}
+{{ end }}
+
 {{- define "main" -}}
   {{- $promote := where .Site.RegularPages "Params.promote.promote" "==" true -}}
   {{- $top := where .Site.RegularPages "Params.top" "==" true -}}

@@ -1,0 +1,15 @@
+{{ $opts := dict
+  "transpiler" "dartsass"
+  "targetPath" "css/application.css"
+  "enableSourceMap" (not hugo.IsProduction)
+}}
+
+{{ with resources.Get "scss/application.scss" | toCSS $opts }}
+  {{ if eq hugo.Environment "development" }}
+    <link rel="stylesheet" href="{{ .Permalink }}">
+  {{ else }}
+    {{ with . | minify | fingerprint }}
+      <link rel="stylesheet" href="{{ .Permalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+    {{ end }}
+  {{ end }}
+{{ end }}
