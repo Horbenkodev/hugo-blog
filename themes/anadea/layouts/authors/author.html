@@ -6,6 +6,10 @@
   }}
 {{ end }}
 
+{{- define "page-js" -}}
+  {{ partialCached "head/search_form_js.html" . }}
+{{- end -}}
+
 {{ define "main" }}
   {{ $baseName := path.BaseName .RelPermalink }}
   {{ $author := index .Site.Data.authors $baseName }}
@@ -17,10 +21,12 @@
       <h1>{{ .name }}</h1>
       {{ partial "hero_card.html" . }}
     {{ end }}
+    {{- partial "filters.html" . -}}
+
     <div class="postFeed">
-      {{ range .Paginator.Pages }}
-        {{ partial "post_card.html" . }}
-      {{ end }}
+      {{- range .Paginator.Pages }}
+        {{- partial "post_card.html" . -}}
+      {{ end -}}
     </div>
 
     {{ partial "pagination.html" . }}

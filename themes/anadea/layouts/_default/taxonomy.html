@@ -6,6 +6,10 @@
   }}
 {{ end }}
 
+{{- define "page-js" -}}
+  {{ partialCached "head/search_form_js.html" . }}
+{{- end -}}
+
 {{ define "main" }}
   <div class="container container__w1300">
     {{ partial "page_head.html" . }}
@@ -13,6 +17,8 @@
     <header class="taxonomyPage">
       <h1 class="taxonomyPage__title">Articles about {{ .Title }}</h1>
     </header>
+
+    {{- partial "filters.html" . -}}
 
     <div class="postFeed">
       {{ range .Paginator.Pages }}

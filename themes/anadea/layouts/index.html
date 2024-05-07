@@ -1,3 +1,7 @@
+{{- define "page-js" -}}
+  {{ partialCached "head/search_form_js.html" . }}
+{{- end -}}
+
 {{ define "page-css" }}
   {{ partialCached "head/page_css.html" (dict
     "sourcePath" "scss/home.scss"
@@ -24,6 +28,8 @@
         {{- partial "top_post_card.html" . -}}
       {{- end -}}
     </section>
+
+    {{- partial "filters.html" . -}}
 
     {{ $feed := where .Site.RegularPages ".Params.promote.promote" "eq" false }}
     {{ $feed = where $feed ".Params.top" "eq" false }}

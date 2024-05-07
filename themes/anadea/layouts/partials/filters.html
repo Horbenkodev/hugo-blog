@@ -1,0 +1,25 @@
+{{ $categories := .Site.Taxonomies.categories }}
+{{ $industries := .Site.Taxonomies.industries }}
+
+<form class="filters" id="search">
+  <input class="filters__search" type="search" name="token" id="search-query" placeholder="Search..." />
+
+  <div class="filters__block">
+    <select name="categories" id="categories" class="filters__select">
+      <option value="" selected >All categories</option>
+      {{ range $key, $value := $categories }}
+        <option value="{{ title $key }}">{{ title $key }}</option>
+      {{ end }}
+    </select>
+    <select name="industries" id="industries" class="filters__select">
+      <option value="" selected >All industries</option>
+      {{ range $key, $value := $industries}}
+        <option value="{{ title $key }}">{{ title $key }}</option>
+      {{ end }}
+    </select>
+  </div>
+  <div class="filters__buttons">
+    <button class="filters__button filters__button--submit" type="submit" id="search-button">Submit</button>
+    <button class="filters__button filters__button--reset" type="reset">Reset all</button>
+  </div>
+</form>
