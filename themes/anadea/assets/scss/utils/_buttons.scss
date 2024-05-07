@@ -23,14 +23,3 @@
     border-color: var(--persian-rose-200);
   }
 }
-
-@mixin selectInput {
-  &:hover {
-    border: 1px solid var(--persian-rose-100);
-  }
-
-  &:focus-visible {
-    border: 1px solid var(--persian-rose-200);
-    outline: none;
-  }
-}
