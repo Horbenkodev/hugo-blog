@@ -16,7 +16,7 @@ $text-color: var(--black);
 .postHead {
   display: flex;
   flex-direction: column;
-  padding-top: clamped(24px, 30px);
+  padding-top: 40px;
   padding-bottom: clamped(44px, 68px);
   color: var(--main-text);
   text-align: center;
@@ -27,7 +27,7 @@ $text-color: var(--black);
     margin-bottom: clamped(24px, 48px);
     font-size: clamped(28px, 56px);
     font-weight: 700;
-    line-height: 1;
+    line-height: 1.3;
   }
 
   &__dateInfo {
