@@ -2,18 +2,20 @@
 
 <article class="postCard">
   <div class="postCard__content">
+    <div class="postCard__head">
+      {{ $params := dict
+        "class" "postCard__image"
+        "width" 360
+        "height" 280
+        "src" .Params.image
+        "alt" (or .Params.alt .Params.title)
+        "sizes" "(max-width: 768px) 100vw, (max-width: 992px) 50vw, 33vw"
+        "ctx" .
+      }}
 
-    {{ $params := dict
-      "class" "postCard__image"
-      "width" 360
-      "height" 270
-      "src" .Params.image
-      "alt" (or .Params.alt .Params.title)
-      "sizes" "(max-width: 768px) 100vw, (max-width: 992px) 50vw, 33vw"
-      "ctx" .
-    }}
+      {{ partial "image.html" $params }}
+    </div>
 
-    {{ partial "image.html" $params }}
 
     <div class="postCard__caption">
       {{ partial "post_info.html" . }}
