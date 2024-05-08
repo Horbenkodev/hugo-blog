@@ -4,7 +4,7 @@ $text-color: var(--white);
 .advert {
   display: flex;
   flex-direction: column;
-  padding: 32px;
+  padding: 16px;
   margin-bottom: 60px;
   background-color: $background-color;
   border-radius: 24px;
@@ -19,5 +19,11 @@ $text-color: var(--white);
   a {
     color: $text-color;
     text-decoration: underline;
+  }
+}
+
+@include md {
+  .advert {
+    padding: 32px;
   }
 }
