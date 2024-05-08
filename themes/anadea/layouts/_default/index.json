@@ -9,7 +9,7 @@
     "industries" .Params.industries
     "image" .Params.image
     "srcset" $srcset
-    "permalink" .Permalink
+    "permalink" .RelPermalink
     "authors" .Params.authors
     "publishDate" .Params.publishDate
     )
