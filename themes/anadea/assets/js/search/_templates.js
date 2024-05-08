@@ -27,15 +27,17 @@ export const postCardHTML = (item) => {
 
   return `<article class="postCard">
   <div class="postCard__content">
-    <img class="postCard__image"
-      src="${item.permalink}${item.image}"
-      srcset="${item.srcset}"
-      width="360"
-      height="280"
-      loading="lazy"
-      decoding="async"
-      sizes="(max-width: 768px) 100vw, (max-width: 992px) 50vw, 33vw"
-    />
+    <div class="postCard__head">
+      <img class="postCard__image"
+        src="${item.permalink}${item.image}"
+        srcset="${item.srcset}"
+        width="360"
+        height="280"
+        loading="lazy"
+        decoding="async"
+        sizes="(max-width: 768px) 100vw, (max-width: 992px) 50vw, 33vw"
+      />
+    </div>
     <div class="postCard__caption">
       <div class="postInfo">
           ${authors}
