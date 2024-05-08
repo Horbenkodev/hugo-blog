@@ -5,11 +5,11 @@
 }}
 
 {{ with resources.Get "scss/application.scss" | toCSS $opts }}
-  {{ if eq hugo.Environment "development" }}
-    <link rel="stylesheet" href="{{ .Permalink }}">
-  {{ else }}
-    {{ with . | minify | fingerprint }}
-      <link rel="stylesheet" href="{{ .Permalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+  {{ if ehugo.IsProduction }}
+      {{ with . | minify | fingerprint }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
     {{ end }}
+  {{ else }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}">
   {{ end }}
 {{ end }}

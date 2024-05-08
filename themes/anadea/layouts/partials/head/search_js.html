@@ -1,12 +1,11 @@
 {{ with resources.Get "js/search/index.js" }}
-  {{ if eq hugo.Environment "development" }}
-    {{ with . | js.Build "search.js" }}
-      <script src="{{ .RelPermalink }}"></script>
+  {{ if hugo.IsProduction }}
+    {{ with . | js.Build "search.js" | minify | fingerprint }}
+      <script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
     {{ end }}
   {{ else }}
-    {{ $opts := dict "minify" true "targetPath" "search.js" }}
-    {{ with . | js.Build $opts | fingerprint }}
-      <script src="{{ .RelPermalink }}" integrity="{{- .Data.Integrity }}" crossorigin="anonymous"></script>
+    {{ with . | js.Build "search.js" }}
+      <script src="{{ .RelPermalink }}"></script>
     {{ end }}
   {{ end }}
 {{ end }}
