@@ -15,6 +15,7 @@ collections:
     label_singular: "Post"
     folder: "content/posts"
     path: "{{slug}}/index"
+    summary: "{{top | ternary('🔥 Top | ','')}} {{promote.promote | ternary('⭐ Promote | ','')}} {{title}}"
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
@@ -70,7 +71,7 @@ collections:
         search_fields: ["name"]
         display_fields: ["name"]
         value_field: "name"
-    sortable_fields: ["title", "publishDate"]
+    sortable_fields: ["title", "publishDate", "top", "promote.promote"]
 
   - label: "Authors"
     label_singular: "Author"
@@ -85,7 +86,6 @@ collections:
     fields:
       - {label: "Name", name: "name", widget: "string"}
       - {label: "Team", name: "team", widget: "boolean", default: false}
-      - {label: "Member Since", name: "memberSince", widget: "datetime"}
       - label: "Avatar"
         name: "avatar"
         widget: "image"
@@ -96,7 +96,7 @@ collections:
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Short Description", name: "shortDescription", widget: "text"}
       - {label: "Position", name: "position", widget: "string", required: false}
-    sortable_fields: ["name", "memberSince"]
+    sortable_fields: ["name"]
 
   - label: "Sales"
     label_singular: "Sale"

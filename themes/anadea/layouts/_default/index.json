@@ -11,9 +11,8 @@
     "srcset" $srcset
     "permalink" .Permalink
     "authors" .Params.authors
-    "publishdate" .Params.publishdate
+    "publishDate" .Params.publishDate
     )
   }}
 {{ end }}
 {{ $.Scratch.Get "index" | jsonify }}
-

@@ -12,12 +12,10 @@
 
 {{ define "main" }}
   {{ $baseName := path.BaseName .RelPermalink }}
-  {{ $author := index .Site.Data.authors $baseName }}
-
 
   <div class="container container__w1300">
     {{ partial "page_head.html" . }}
-    {{ with $author }}
+    {{ with index .Site.Data.authors $baseName }}
       <h1>{{ .name }}</h1>
       {{ partial "hero_card.html" . }}
     {{ end }}
