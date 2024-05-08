@@ -3,7 +3,7 @@
 <meta property="twitter:site" content="@Anadea_Info">
 <meta property="twitter:creator" content="@Anadea_Info">
 <meta property="twitter:card" content="summary_large_image">
-<meta property="og:url" content="{{ .RelPermalink }}">
+<meta property="og:url" content="{{ .Permalink }}">
 
 {{ if .IsPage }}
   <title>{{ .Title }}</title>
@@ -37,12 +37,12 @@
 
 {{ with $resource }}
   {{ with . | images.Filter (images.Process "resize 1200x jpeg") }}
-    <meta property="og:image" content="{{ .RelPermalink }}">
-    <meta property="twitter:image" content="{{ .RelPermalink }}">
+    <meta property="og:image" content="{{ .Permalink }}">
+    <meta property="twitter:image" content="{{ .Permalink }}">
   {{ end }}
 {{ end }}
 
-<link rel="canonical" href="{{ .RelPermalink }}">
+<link rel="canonical" href="{{ .Permalink }}">
 
 {{ partialCached "head/application_css.html" . }}
 {{ partialCached "head/application_js.html" . }}
