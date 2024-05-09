@@ -1,5 +1,5 @@
 import Fuse from 'fuse.js';
-import { postCardHTML } from './_templates';
+import { postCardHTML, noResultHTML, resetHTML } from './_templates';
 
 const data = fetch('/index.json', { cache: 'force-cache' })
   .then((response) => response.json())
@@ -48,8 +48,10 @@ document.addEventListener('DOMContentLoaded', () => {
       postFeed.className = 'postFeed';
       postFeed.innerHTML = itemList;
       searchResults.insertAdjacentElement('afterbegin', postFeed);
+    } else if (!queryString) {
+      searchResults.innerHTML = resetHTML();
     } else {
-      searchResults.innerHTML = `<h1>No results matched your search</h1>`;
+      searchResults.innerHTML = noResultHTML();
     }
   });
 });

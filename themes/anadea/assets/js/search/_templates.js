@@ -58,3 +58,24 @@ export const postCardHTML = (item) => {
   </div>
   </article>`;
 };
+
+export const noResultHTML = () => {
+  return `
+    <div class="emptyState">
+      <h2 class="emptyState__title">Oops, we didn't find what you were looking for</h2>
+      <p class="emptyState__text">Try different keywords or make sure all words are spelled correctly</p>
+      <img class="emptyState__img" src="/img/no-result-image.png" alt=""></img>
+    </div>
+  `;
+};
+
+export const resetHTML = () => {
+  return `
+  <div class="emptyState">
+    <h2 class="emptyState__title">Your search is clear</h2>
+    <p class="emptyState__text">What hidden gems will you discover next?</p>
+    <a class="emptyState__button" href="/">Go back to Blog<a/>
+    <img class="emptyState__img" src="/img/search-reset-image.png" alt=""></img>
+  </div>
+  `;
+};
