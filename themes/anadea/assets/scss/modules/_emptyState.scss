@@ -1,11 +1,13 @@
 @mixin light {
   --main-color: var(--black);
   --meta-color: var(--mine-shaft);
+  --button-color: var(--white);
 }
 
 @mixin dark {
   --main-color: var(--white);
   --meta-color: var(--alto);
+  --button-color: var(--black);
 }
 
 .emptyState {
@@ -34,6 +36,7 @@
     padding: 8px 20px;
     margin-bottom: clamped(80px, 100px);
     font-weight: 700;
+    color: var(--button-color);
     text-align: center;
     text-decoration: none;
     border-radius: 8px;
