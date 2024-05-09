@@ -1,4 +1,4 @@
-$background-color: var(--medium-purple);
+$background-color: var(--persian-rose);
 $text-color: var(--white);
 
 .advertWithCTA {
@@ -31,6 +31,10 @@ $text-color: var(--white);
       color: $text-color;
       text-decoration: underline;
     }
+  }
+
+  p {
+    color: $text-color;
   }
 }
 
