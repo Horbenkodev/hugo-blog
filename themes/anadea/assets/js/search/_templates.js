@@ -17,9 +17,9 @@ const authorsHTML = (collection) =>
 export const postCardHTML = (item) => {
   const categories = categoriesHTML(item.categories || []);
   const industries = industriesHTML(item.industries || []);
-  const authors = authorsHTML((item.authors && [item.authors[0]]) || []);
+  const authors = authorsHTML((item.authors && item.authors[0] && [item.authors[0]]) || []);
 
-  const formattedDate = new Date(item.publishdate).toLocaleDateString('en-EN', {
+  const formattedDate = new Date(item.publishDate).toLocaleDateString('en-EN', {
     year: 'numeric',
     month: 'short',
     day: 'numeric',

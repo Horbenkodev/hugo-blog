@@ -6,7 +6,7 @@
   {{ range site.Params.deviceSizes }}
     {{- if ge $image.Width . -}}
       {{ $spec := print . `x webp`}}
-      {{ $url := print ($image.Resize $spec).Permalink " " . "w" }}
+      {{ $url := print ($image.Resize $spec).RelPermalink " " . "w" }}
 
       {{ if eq $srcset "" }}
         {{ $srcset = print $url }}

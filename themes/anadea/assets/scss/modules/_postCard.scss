@@ -10,7 +10,6 @@
   position: relative;
   display: flex;
   gap: 15px;
-  overflow: hidden;
 
   &__content {
     display: flex;
@@ -49,6 +48,7 @@
   }
 
   &__link {
+    display: block;
     text-decoration: none;
 
     &::before {

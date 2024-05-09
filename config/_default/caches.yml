@@ -1,0 +1,3 @@
+images:
+  dir: :cacheDir/:project
+  maxAge: 800h

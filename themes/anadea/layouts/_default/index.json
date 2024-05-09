@@ -9,11 +9,10 @@
     "industries" .Params.industries
     "image" .Params.image
     "srcset" $srcset
-    "permalink" .Permalink
+    "permalink" .RelPermalink
     "authors" .Params.authors
-    "publishdate" .Params.publishdate
+    "publishDate" .Params.publishDate
     )
   }}
 {{ end }}
 {{ $.Scratch.Get "index" | jsonify }}
-

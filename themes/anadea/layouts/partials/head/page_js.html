@@ -1,12 +1,11 @@
 {{ with resources.Get .sourcePath }}
-  {{ if eq hugo.Environment "development" }}
-    {{ with . | js.Build }}
-      <script src="{{ .Permalink }}"></script>
+  {{ if hugo.IsProduction }}
+    {{ with . | js.Build | minify | fingerprint }}
+      <script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
     {{ end }}
   {{ else }}
-    {{ $opts := dict "minify" true }}
-    {{ with . | js.Build $opts | fingerprint }}
-      <script src="{{ .Permalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
+    {{ with . | js.Build }}
+      <script src="{{ .RelPermalink }}"></script>
     {{ end }}
   {{ end }}
 {{ end }}
