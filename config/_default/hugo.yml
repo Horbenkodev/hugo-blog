@@ -5,5 +5,5 @@ paginate: 9
 outputs:
   home:
     - HTML
-    - RSS
     - JSON
+timeout: 10m
