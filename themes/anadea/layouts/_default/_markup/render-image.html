@@ -1,22 +1,27 @@
-{{- $image := .Page.Resources.GetMatch (printf "*%s*" (.Destination | safeURL)) -}}
-{{- $src := ($image.Process "webp").RelPermalink -}}
-
-<img
-  src="{{ $src }}"
-  width="{{ $image.Width }}"
-  height="{{ $image.Height }}"
-  alt="{{ .Text }}"
-  loading="lazy"
-  decoding="async"
-  srcset="
-    {{- with site.Params.deviceSizes -}}
-      {{- range $i, $e := . -}}
-        {{- if ge $image.Width . -}}
-          {{- if $i }},{{ end -}}
-          {{- ($image.Resize (print . `x webp`) ).RelPermalink }} {{ . }}w
+{{ if strings.HasPrefix .Destination "http" }}
+  <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" loading="lazy" decoding="async" />
+{{ else }}
+  {{ $alt := .Text }}
+  {{ with $image := .Page.Resources.GetMatch (printf "*%s*" (.Destination | safeURL)) }}
+    {{ $src := ($image.Process "webp").RelPermalink -}}
+    <img
+      src="{{ $src }}"
+      width="{{ $image.Width }}"
+      height="{{ $image.Height }}"
+      alt="{{ $alt }}"
+      loading="lazy"
+      decoding="async"
+      srcset="
+        {{- with site.Params.deviceSizes -}}
+          {{- range $i, $e := . -}}
+            {{- if ge $image.Width . -}}
+              {{- if $i }},{{ end -}}
+              {{- ($image.Resize (print . `x webp`) ).RelPermalink }} {{ . }}w
+            {{- end -}}
+          {{- end -}}
         {{- end -}}
-      {{- end -}}
-    {{- end -}}
-  "
-  sizes="(min-width: 992px) 660px, 100vw"
-/>
+      "
+      sizes="(min-width: 992px) 660px, 100vw"
+    />
+  {{ end }}
+{{ end }}
