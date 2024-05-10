@@ -7,7 +7,7 @@ backend:
 media_folder: "static/img"
 public_folder: "img"
 
-publish_mode: simple
+publish_mode: editorial_workflow
 
 collections:
   - name: "posts"
