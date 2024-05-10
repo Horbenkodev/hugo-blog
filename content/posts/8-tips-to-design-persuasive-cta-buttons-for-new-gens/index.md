@@ -1,20 +1,19 @@
 ---
-title: How to Design the Best CTA Buttons for New Gens
-publishDate: '2020-01-10T00:00:00Z'
-authors:
-- Aaron Chichioco
-description: In the game of web design and online marketing where getting noticed
-  by customers matter most, CTA buttons are one of the biggest players. Their role
-  is very important - to subtly but effectively drive website users to do what you
-  need them to do.
+title: "How to Design the Best CTA Buttons for New Gens "
+publishDate: 2020-01-10T00:00:00Z
 image: Designing-CTA-Buttons.jpg
 og_image: Designing-CTA-Buttons.jpg
+description: In the game of web design and online marketing where getting
+  noticed by customers matter most, CTA buttons are one of the biggest players.
+  Their role is very important - to subtly but effectively drive website users
+  to do what you need them to do.
 promote:
   promote: false
 top: false
+authors:
+  - Aaron Chichioco
+categories: []
 industries: []
-categories:
-- UX-UI
 ---
 In the game of web design and online marketing where getting noticed by customers matter most, CTA buttons are one of the biggest players. Their role is very important - to subtly but effectively drive website users to do what you need them to do, whether that’s to <a href="https://www.webmastered.com/email-marketing-beginners-guide/#Newsletters" target="_blank">sign up for newsletters</a>, purchase products, fill out forms, and more.
 
