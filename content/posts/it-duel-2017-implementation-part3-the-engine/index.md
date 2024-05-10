@@ -21,7 +21,7 @@ categories:
  "@context": "https://schema.org",
  "@type": "Article",
  "author": "Anadea",
- "name": "IT Duel 2017: "Battle of the Bots - Hexagon" Creation of the Game - Part 3 - The Game Engine"
+ "name": 'IT Duel 2017: "Battle of the Bots - Hexagon" Creation of the Game - Part 3 - The Game Engine'
 }
 </script>
 
@@ -149,7 +149,7 @@ class Droplet < ApplicationRecord
  # When restarting the delayed task, do not rely on the regular `job retry` feature,
  # It is better to re-schedule the task manually, in accordance with the principle
  # "normal business logic should not be based on raising of exceptions".
- # 
+ #
  # This method should be called solely from the delayed task.
  def fetch_client
   with_lock do
@@ -318,7 +318,7 @@ class Droplet < ApplicationRecord
 
   # escape the key (!!!), and add it to the dokku user in a player's droplet
   `echo #{key.shellescape} | ssh -oStrictHostKeyChecking=no -oUserKnownHostsFile=/dev/null root@#{host} "sudo sshcommand acl-add dokku [player]"`
-  
+
   # Check the exit code of the last shell command
   $?.to_i == 0 ? :ok : :error
  end
@@ -495,7 +495,7 @@ class Round < ApplicationRecord
 
  def self.prepare!
   # Round types are just a containers for game session parameters -
-  # board size, points multiplier, etc. 
+  # board size, points multiplier, etc.
   # The round type changes cyclically, one after another and in a circle.
 
   # Find the round type that was played in the previous round
@@ -537,7 +537,7 @@ class Round < ApplicationRecord
 end
 ~~~
 
-All created game sessions are placed in the delayed tasks queue for further calculation. In the process, 
+All created game sessions are placed in the delayed tasks queue for further calculation. In the process,
 notify the client about a new match using WebSocket:
 
 ~~~ruby
@@ -735,7 +735,7 @@ class BoardSolver
    # the jump is spent
    jumps[old_color] -= 1
   else
-   # A move of the type "reproduction" is made 
+   # A move of the type "reproduction" is made
    populates[new_color] += 1
    # For every second reproduction the player receives one available jump
    jumps[new_color] += 1 if populates[new_color] % 2 == 0
@@ -830,7 +830,7 @@ class BoardSolver
  end
 
  # The distance of the move is always permissible for "reproduction",
- # for "jump" it is regulated by the value in the jumps hash 
+ # for "jump" it is regulated by the value in the jumps hash
  def possible_distance?(color, distance)
   distance == 1 || jumps[color] > 0
  end
@@ -1000,7 +1000,7 @@ class GamePerformer
   @moves = []
  end
 
- # A special case of initiating an online game with a man 
+ # A special case of initiating an online game with a man
  def init_async
   [:create, game: {
    team1_id: team1.id,
@@ -1012,7 +1012,7 @@ class GamePerformer
   }]
  end
 
- # A special case of starting an online game with a man 
+ # A special case of starting an online game with a man
  def play_async(*args)
   catch(:async) do
    play(*args)
@@ -1191,7 +1191,7 @@ class GamePerformer
    # but a conscious delay after the web player's move -
    # otherwise the web player's move was visually merged
    # with the immediate response from training bot,
-   # and monitoring the gameplay was extremely difficult 
+   # and monitoring the gameplay was extremely difficult
    sleep 0.5 unless move[:team] == team.id
 
    throw(:async, [:update, move: {
@@ -1247,7 +1247,7 @@ class GamePerformer
   end
  end
 
- # URL for bot endpoint 
+ # URL for bot endpoint
  def droplet_url(team, with_session = true)
   "http://#{team.droplet.host}/games".tap{ |url|
     url.concat("/#{session_id}") if with_session
@@ -1717,7 +1717,7 @@ class Robot
  end
 
  # Calculating the distance between two cells.
- # Do not ask why and how it works - 
+ # Do not ask why and how it works -
  # it was written in a hurry, in the "tournament" mode, the essence is the result of
  # fuss with paper and a pen :)
  def cell_distance(from, to)
