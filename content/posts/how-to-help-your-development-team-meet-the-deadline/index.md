@@ -11,6 +11,7 @@ og_image: 61896d0db4666b2d5aed2292_1_.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

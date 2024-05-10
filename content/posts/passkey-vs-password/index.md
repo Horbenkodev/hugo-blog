@@ -9,6 +9,7 @@ og_image: password_passkey_socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development

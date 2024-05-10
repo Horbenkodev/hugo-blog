@@ -10,6 +10,7 @@ og_image: golf-app-socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Sports
 categories: []

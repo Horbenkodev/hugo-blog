@@ -9,6 +9,7 @@ og_image: saas_business_socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

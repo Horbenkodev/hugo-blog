@@ -13,6 +13,7 @@ og_image: education-app-cost.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - eLearning
 categories: []

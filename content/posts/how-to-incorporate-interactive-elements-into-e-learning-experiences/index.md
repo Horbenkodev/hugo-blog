@@ -12,6 +12,7 @@ og_image: Interactive-elements-in-e-learning.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - eLearning
 categories: []

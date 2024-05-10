@@ -9,6 +9,7 @@ og_image: wellness-socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 - Sports

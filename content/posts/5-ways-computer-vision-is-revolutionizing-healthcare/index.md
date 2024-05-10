@@ -10,6 +10,7 @@ og_image: Computer-vision-in-medical-field.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories:

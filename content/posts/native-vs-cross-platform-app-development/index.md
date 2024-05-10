@@ -9,6 +9,7 @@ og_image: cross_platform_native_socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development

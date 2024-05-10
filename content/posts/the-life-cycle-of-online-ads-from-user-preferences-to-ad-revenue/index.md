@@ -12,6 +12,7 @@ og_image: the-life-cycle-of-online-ads-from-user-preferences-to-ad-revenue.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development

@@ -12,6 +12,7 @@ og_image: Blockchain-retail.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Retail

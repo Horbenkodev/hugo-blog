@@ -12,6 +12,7 @@ og_image: modern-app-development.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

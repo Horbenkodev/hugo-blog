@@ -13,6 +13,7 @@ og_image: ux_design.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - UX-UI

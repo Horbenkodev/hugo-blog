@@ -9,6 +9,7 @@ og_image: healthcare_saas_socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories: []

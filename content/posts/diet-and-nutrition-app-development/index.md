@@ -9,6 +9,7 @@ og_image: hamster.png
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Sports
 categories: []

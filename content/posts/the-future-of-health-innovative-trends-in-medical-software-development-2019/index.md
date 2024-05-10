@@ -9,6 +9,7 @@ og_image: trends.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories:

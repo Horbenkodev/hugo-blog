@@ -10,6 +10,7 @@ og_image: woman-checks-results-fitness-training-smartwatch-listens-music-via-hea
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Trends

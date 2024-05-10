@@ -11,6 +11,7 @@ og_image: travel-storytelling.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Travel
 categories: []

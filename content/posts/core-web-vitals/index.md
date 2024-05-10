@@ -10,6 +10,7 @@ og_image: core-web-vitals.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Promotion

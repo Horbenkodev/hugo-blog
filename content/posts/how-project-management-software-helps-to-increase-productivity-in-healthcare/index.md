@@ -10,6 +10,7 @@ og_image: Hospital-management-software_benefits.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories: []

@@ -10,6 +10,7 @@ og_image: cloud-based-saas.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

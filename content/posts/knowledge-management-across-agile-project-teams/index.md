@@ -13,6 +13,7 @@ og_image: Knowledge_management.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

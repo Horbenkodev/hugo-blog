@@ -10,6 +10,7 @@ og_image: cross-platform-apps.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Mobile
@@ -129,4 +130,3 @@ The features can be implemented within ~ **4 weeks timespan with a budget $5800 
 <a name="final-thoughts"></a>
 ## Final thoughts
 As you can see, cross-platform apps are not a silver bullet for every business case, but they can be a perfect choice for small businesses and startups in terms of proof of concept, fast time-to-market, and lower development costs. Great apps like mobile stores, listings, to-do lists, schedulers, bookings, etc. can be created. So, if you have any questions or decide to develop a cross-platform app, feel free to contact us. We are <a href="https://www.topdevelopers.co/directory/mobile-app-development-companies" target="_blank">top mobile app development company</a> as recognized by TopDevelopers.co and we’d be happy to help you with your project.
-

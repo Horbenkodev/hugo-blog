@@ -10,6 +10,7 @@ og_image: dark_side_of_fintech_socials.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Fintech

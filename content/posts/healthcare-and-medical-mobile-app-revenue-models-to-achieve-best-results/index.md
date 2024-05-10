@@ -10,6 +10,7 @@ og_image: medical-monetization-socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories: []

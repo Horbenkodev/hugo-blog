@@ -13,6 +13,7 @@ og_image: How-business-analysts-solve-problems-with-project-requirements.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business Analysis

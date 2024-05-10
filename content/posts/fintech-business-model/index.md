@@ -9,6 +9,7 @@ og_image: fintech_business_models_socials.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Fintech

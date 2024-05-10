@@ -12,6 +12,7 @@ og_image: gifts-for-engineers.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories: []
 ---

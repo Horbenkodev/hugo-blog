@@ -13,6 +13,7 @@ og_image: Localizing-medical-software.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories: []

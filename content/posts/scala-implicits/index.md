@@ -10,6 +10,7 @@ og_image: programming.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development
@@ -102,12 +103,12 @@ The algorithm of actions is the same: the compiler finds in the scope the implic
 
 ```
 object ImplicitParameter extends AnyRef with App {
-  private[this] val executor: Executor = 
+  private[this] val executor: Executor =
     ((task: Task) => scala.Predef.println(task.toString()));
-    
-  implicit <stable> <accessor> def executor: Executor = 
+
+  implicit <stable> <accessor> def executor: Executor =
    ImplicitParameter.this.executor;
- 
+
   def run(task: Task)(implicit executor: Executor): Unit = executor.run(task);
 
   ImplicitParameter.this.run({
@@ -159,12 +160,12 @@ Since we have already gone over the approaches used in the last two examples, th
 
 ```
 object TypeClass extends AnyRef with App {
-  private[this] val intEqual: Equal[Int] = 
+  private[this] val intEqual: Equal[Int] =
     ((a1: Int, a2: Int) => a1.==(a2));
-  implicit <stable> <accessor> def intEqual: Equal[Int] = 
+  implicit <stable> <accessor> def intEqual: Equal[Int] =
     TypeClass.this.intEqual;
   scala.Predef.println(Equal.apply[Int](TypeClass.this.intEqual).equal(1, 2)); // substitution of an implicit parameter
- 
+
   import Equal.EqualSyntax;
   scala.Predef.println(Equal.EqualSyntax[Int](1).equal(2)(TypeClass.this.intEqual)) // implicit conversion to the required typeclass
 }

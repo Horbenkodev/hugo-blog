@@ -13,6 +13,7 @@ og_image: Predictive-analytics-in-healthcare.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories:

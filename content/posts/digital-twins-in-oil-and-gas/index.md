@@ -9,6 +9,7 @@ og_image: digital_twins_socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

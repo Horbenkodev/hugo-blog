@@ -10,6 +10,7 @@ og_image: online_learning_portal_socials.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - eLearning
 categories: []

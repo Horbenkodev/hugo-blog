@@ -9,6 +9,7 @@ og_image: gym_socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Sports
 categories: []

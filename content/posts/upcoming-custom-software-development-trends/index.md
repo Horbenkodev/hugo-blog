@@ -12,6 +12,7 @@ og_image: Custom_software_trends.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development

@@ -12,6 +12,7 @@ og_image: super-coder.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

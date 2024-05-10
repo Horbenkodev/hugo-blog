@@ -12,6 +12,7 @@ og_image: its_a_feature.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development

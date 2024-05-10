@@ -12,6 +12,7 @@ og_image: outsourcing_to_europe.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business
@@ -93,4 +94,3 @@ The main countries which are definitely gaining more and more popularity in the 
 In my view, many companies are still in two minds about choosing Europe as their outsourcing destination because they know little about its countries. Let's not forget that very often programming teams are left behind the scenes - nobody knows who really did the hard part. Here's just a few examples of [how it feels](https://clutch.co/profile/anadea) to work with a dedicated and professional Europe-based team.
 
 Nowadays Europe is fighting hard to create a positive image of an outsourcing destination and that's great because as an entrepreneur you get higher chances of receiving quality service. So if you're not just looking for lower app development costs but need a good price/quality balance, you might give Europe a chance to prove it has enough worthy, reliable and skilled IT specialists, working with whom will be not only more convenient but rewarding as well.
-

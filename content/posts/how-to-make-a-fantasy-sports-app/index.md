@@ -9,6 +9,7 @@ og_image: fantasy_sports_socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Sports
 categories: []

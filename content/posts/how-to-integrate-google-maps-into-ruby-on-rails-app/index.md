@@ -10,6 +10,7 @@ og_image: Google_maps.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development

@@ -13,6 +13,7 @@ og_image: Pos-system.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Retail

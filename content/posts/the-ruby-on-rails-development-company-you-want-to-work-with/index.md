@@ -12,6 +12,7 @@ og_image: RoR_developer.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

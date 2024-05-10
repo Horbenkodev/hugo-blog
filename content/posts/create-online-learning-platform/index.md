@@ -9,6 +9,7 @@ og_image: learning_platform_socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - eLearning
 categories: []

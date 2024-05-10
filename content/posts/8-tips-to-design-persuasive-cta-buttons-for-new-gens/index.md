@@ -12,6 +12,7 @@ og_image: Designing-CTA-Buttons.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - UX-UI

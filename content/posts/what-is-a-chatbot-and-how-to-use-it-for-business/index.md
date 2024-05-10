@@ -12,6 +12,7 @@ og_image: what-is-chatbot.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

@@ -10,6 +10,7 @@ og_image: ios_android_porting.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

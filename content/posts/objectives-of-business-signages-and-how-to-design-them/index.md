@@ -12,6 +12,7 @@ og_image: Braning.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Design

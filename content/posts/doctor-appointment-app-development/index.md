@@ -10,6 +10,7 @@ og_image: doctor_appointment_booking_app_dev_socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories: []

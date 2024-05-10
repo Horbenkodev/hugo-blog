@@ -13,6 +13,7 @@ og_image: Increasing-mobile-app-user-retention.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - UX-UI

@@ -13,6 +13,7 @@ og_image: web-dev-timeline.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Web

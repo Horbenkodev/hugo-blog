@@ -9,6 +9,7 @@ og_image: hotel-booking-socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Travel
 categories: []

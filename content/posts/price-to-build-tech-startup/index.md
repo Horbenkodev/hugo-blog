@@ -9,6 +9,7 @@ og_image: blue-bird.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

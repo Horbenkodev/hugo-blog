@@ -9,6 +9,7 @@ og_image: sports_fan_socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Sports
 categories: []

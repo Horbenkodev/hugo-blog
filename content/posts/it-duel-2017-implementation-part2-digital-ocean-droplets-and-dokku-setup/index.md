@@ -11,6 +11,7 @@ og_image: digital-ocean-dokku.jpeg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - News

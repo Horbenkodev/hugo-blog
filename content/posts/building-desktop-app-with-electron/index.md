@@ -13,6 +13,7 @@ og_image: Chapter_1._Preview_of_instalation.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development

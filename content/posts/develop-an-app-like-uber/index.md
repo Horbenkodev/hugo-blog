@@ -10,6 +10,7 @@ og_image: Uber_development.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

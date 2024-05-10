@@ -11,6 +11,7 @@ og_image: Corporate-lms-implementation.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - eLearning
 categories: []
@@ -159,4 +160,3 @@ It is crucial to keep your employees’ skills up to date and doing it via a сo
 
 ---
 *This is a guest post by **Tiffany Harper.** Tiffany is a talented writer from New York, an extremely active woman, and a real leader. She began her career as a journalist and later proceeded it as an educational writer and editor. Now she works as the main writer consultant with <a href="https://www.essaymama.com/" target="_blank">essaymama.com</a>, mostly in technology and educational area. Please do not hesitate to contact her on <a href="https://twitter.com/harper_tiffany" target="_blank">Twitter</a>.*
-

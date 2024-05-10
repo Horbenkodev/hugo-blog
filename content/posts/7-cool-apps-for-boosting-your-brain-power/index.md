@@ -11,6 +11,7 @@ og_image: Brain-training-app.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - App Ideas
@@ -73,10 +74,3 @@ These brain training apps fall into one category as they are all somewhat simila
 
 All these apps are free to download. Some of them also provide paid content. You can find them on App Store or Play Market. Of course, such apps to improve memory and to exercise your gray matter are unlikely to make you Einstein. However, this effective pocket method to support your brain in a tone should not be underestimated. Help the brain, and the brain will say thank you.
 Happy brain training!
-
-
-
-
-
-
-

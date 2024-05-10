@@ -9,6 +9,7 @@ og_image: ai_in_development.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Machine Learning

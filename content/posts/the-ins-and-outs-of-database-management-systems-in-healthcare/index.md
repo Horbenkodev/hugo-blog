@@ -12,6 +12,7 @@ og_image: Database-management-systems-in-healthcare.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories: []
@@ -110,5 +111,3 @@ While it is true that database management systems are not perfect, they are defi
 
 
 <br />
-
-

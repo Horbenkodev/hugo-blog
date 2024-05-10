@@ -9,6 +9,7 @@ og_image: where_to_find_web_developer.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

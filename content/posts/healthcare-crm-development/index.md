@@ -9,6 +9,7 @@ og_image: healthcare_crm_socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories: []

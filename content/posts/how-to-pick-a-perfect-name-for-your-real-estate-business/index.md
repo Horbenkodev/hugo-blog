@@ -12,6 +12,7 @@ og_image: real_estate_company_names.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Real Estate
 categories: []

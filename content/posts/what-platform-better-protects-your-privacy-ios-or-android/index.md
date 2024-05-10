@@ -11,6 +11,7 @@ og_image: Mobile-privacy.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Mobile

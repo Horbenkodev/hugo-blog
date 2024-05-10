@@ -11,6 +11,7 @@ og_image: Effective-remote-work-culture.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - News

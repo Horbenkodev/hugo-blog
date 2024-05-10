@@ -12,6 +12,7 @@ og_image: Employee-engagement-app.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - eLearning
 categories: []

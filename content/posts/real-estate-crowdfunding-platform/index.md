@@ -9,6 +9,7 @@ og_image: re-crowd-socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Real Estate
 categories: []

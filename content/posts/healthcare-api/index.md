@@ -9,6 +9,7 @@ og_image: healthcare_api_socials.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories: []

@@ -9,6 +9,7 @@ og_image: businessman-typing-laptop-co-working-space_1_.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

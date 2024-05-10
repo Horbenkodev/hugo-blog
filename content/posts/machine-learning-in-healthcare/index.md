@@ -10,6 +10,7 @@ og_image: Machine-learning-in-healthcare.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories:

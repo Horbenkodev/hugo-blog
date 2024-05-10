@@ -9,6 +9,7 @@ og_image: kotlin_developers_socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

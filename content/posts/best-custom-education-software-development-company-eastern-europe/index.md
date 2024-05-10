@@ -9,6 +9,7 @@ og_image: Best-Custom-Education-Software-Development-Company.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - News

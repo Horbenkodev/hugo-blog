@@ -10,6 +10,7 @@ og_image: Time-cost-quality.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

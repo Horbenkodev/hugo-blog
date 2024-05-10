@@ -11,6 +11,7 @@ og_image: Advantages-of-java.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development

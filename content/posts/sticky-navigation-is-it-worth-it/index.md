@@ -14,6 +14,7 @@ og_image: Web-design.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - UX-UI

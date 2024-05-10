@@ -9,6 +9,7 @@ og_image: stethoscope-prescription-laptop.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories: []

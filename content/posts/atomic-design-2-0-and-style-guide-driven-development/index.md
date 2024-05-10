@@ -12,6 +12,7 @@ og_image: atomic-design-2-0-and-style-guide-driven-development-1.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - UX-UI
@@ -20,7 +21,7 @@ categories:
 
 In 2013, Brad Frost revolutionized the world of web application design with his article on <a href="https://bradfrost.com/blog/post/atomic-web-design/" rel="nofollow" target="_blank">atomic design</a>. The preface to his article reflects the trend of recent years in software development:
 
-> "We are not designing pages, we are designing systems of components." 
+> "We are not designing pages, we are designing systems of components."
 > ~ Stephen Hay
 
 Design involves the entire process of creating components: starting from design, going through layout to complete isolation of components in the frontend. Modern JS libraries and frameworks enthusiastically accepted these ideas: react, angular, styled-components, bootstrap.
@@ -37,7 +38,7 @@ Let’s not dwell on every single one of them, because Brad’s article on this 
 
 ## What does all this mean in practice?
 
-Have you tried this methodology in your project? If not, you just have to! If you have a React project, start with a <a href="/blog/styleguide-and-component-development" rel="dofollow">style guide</a>. Describe all atom components: form fields, icons, buttons, simple blocks, typography (texts, headings, links). Next, go to the component-molecules: forms, bread crumbs, small blocks of elements consisting of atoms. 
+Have you tried this methodology in your project? If not, you just have to! If you have a React project, start with a <a href="/blog/styleguide-and-component-development" rel="dofollow">style guide</a>. Describe all atom components: form fields, icons, buttons, simple blocks, typography (texts, headings, links). Next, go to the component-molecules: forms, bread crumbs, small blocks of elements consisting of atoms.
 
 Done? Move on to the next level: components-organisms. Based on the atomic design methodology, these are all other elements: large and small blocks, non-standard elements, sliders, website headers, menu, modals widgets, product blocks, and others. That’s what happens next - that other stuff, this large set of components in itself becomes kind of a monster. And the block of social buttons is on the same level of nesting with the whole block of the header containing the logo, menu, user profile, and shopping cart.
 
@@ -55,7 +56,7 @@ And the pages. They include the components described above and are ready to show
 
 As you can see, in practice, everything is much more complicated. What do we do? Bend to a methodology that seems to be not well thought out? Why not expand it with your own concepts, and not adapt it to your needs?
 
-First, throw out the templates. No regrets. Nobody uses them. Swoosh. No templates. 
+First, throw out the templates. No regrets. Nobody uses them. Swoosh. No templates.
 
 The second is the need to split the level of Organisms into several ones. Everything described below is my experience of using atomic design in a real project. And the layers I invented reflect the need for these entities.
 
@@ -129,6 +130,6 @@ where DDD occupies an important place and there is a breakdown into **abstract c
 
 ## Finally
 
-When we learn something new and only learn to take the first steps in some direction, we believe in the rules by which this "new" lives and develops. It is a necessary learning phase. But then, the more experience we have, the more we can judge the rules themselves and their appropriateness. 
+When we learn something new and only learn to take the first steps in some direction, we believe in the rules by which this "new" lives and develops. It is a necessary learning phase. But then, the more experience we have, the more we can judge the rules themselves and their appropriateness.
 
 When the rules stop working, they just need to be changed to meet the conditions and needs that arise over time. Thus, the development of atomic design into something new, more multi-layered, and meaningful is a natural stage in the development of this methodology. And I am very glad that I was able to take it to the next level, consistent with the practical needs of developers and designers.

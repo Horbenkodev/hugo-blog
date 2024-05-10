@@ -9,6 +9,7 @@ og_image: thinking-face.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Mobile

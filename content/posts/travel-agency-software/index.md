@@ -9,6 +9,7 @@ og_image: travel_agency_spftware_development.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Travel
 categories: []

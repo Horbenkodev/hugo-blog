@@ -13,6 +13,7 @@ og_image: mobile-user-experience.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business
@@ -64,7 +65,7 @@ Among the top <a href="https://thisisglance.com/6-ways-to-increase-the-usability
 * Elaborate your script
 * Ensure clarity
 * Make good use of spacing
- 
+
 ## 9. Ensure that your app is interactive
 
 Before the informational age, life used to be more social. Today, even with the broad development of apps, customers still crave for that social experience. This is why, when doing usability testing, one of the key things that you need to consider is the social experience. Customers today still want an interactive app that is able to draw customers' attention. One way that you can make your app more interactive is by providing customer reviews, interactive product finders and live chat support. These features in the app help to improve interaction.
@@ -77,11 +78,7 @@ Majority of customers usually have very high expectations of the graphical user 
 
 To ensure a positive user experience, consider not only speed but also other aspects of app usability, such as intuitive navigation, clear labeling, and straightforward language. Conducting user testing with representative samples of your target audience can help you identify pain points and make necessary improvements. By prioritizing user experience, you can increase the likelihood of attracting and retaining users, resulting in a more successful app. Good luck with your application! We'll be happy to hear from you.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}
-
-
-
-<br />
+{{< ctabutton href="<https://anadea.info/free-project-estimate>e>" >}}Request a free quote{{< /ctabutton >}}
 
 ---
 *This is a guest post by **Bryan Davis.** Bryan is a writer and editor at <a href="https://edubirdie.com/" target="_blank">EduBirdie</a>. His background of working in the University of Michigan as a Marketing professor enables him to explain a lot of interesting topics that concern connection between business and technology. He has a passion for the writing and can teach with his papers even more than with his lectures from university times.*

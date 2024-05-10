@@ -12,6 +12,7 @@ og_image: mobile_app_devs.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - News

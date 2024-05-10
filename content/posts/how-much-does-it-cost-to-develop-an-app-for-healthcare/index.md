@@ -11,6 +11,7 @@ og_image: Infographic_healthcare_app_cost.png
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories: []

@@ -9,6 +9,7 @@ og_image: code_audit_socials.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Code Audit

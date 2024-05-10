@@ -10,6 +10,7 @@ og_image: Financial-App.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Fintech

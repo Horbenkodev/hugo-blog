@@ -11,6 +11,7 @@ og_image: Docker-swarm-tutorial.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development

@@ -11,6 +11,7 @@ og_image: Business-intelligence.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

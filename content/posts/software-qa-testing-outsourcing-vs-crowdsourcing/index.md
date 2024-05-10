@@ -12,6 +12,7 @@ og_image: outsource-vs-crowdsource.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - QA

@@ -11,6 +11,7 @@ og_image: sports_app.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Sports
 categories: []

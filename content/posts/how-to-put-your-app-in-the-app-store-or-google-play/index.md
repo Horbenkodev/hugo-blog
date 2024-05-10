@@ -10,6 +10,7 @@ og_image: submitting-app-to-app-store.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development

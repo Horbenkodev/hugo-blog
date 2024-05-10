@@ -9,6 +9,7 @@ og_image: clubhouse_header.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business
@@ -79,4 +80,3 @@ To be more realistic, it’s better to percept the estimated cost by the direct 
 It’s highly recommended that you as a client find a reliable outsourcing company that carries out development services fast and efficiently, without wasting your time and money to learn from their mistakes on your project. Insure yourself, find the<a href="https://clutch.co/profile/anadea#review-661251"> relevant project type and the verified client’s review</a>. It’s vitally important to check the vendor you chose is experienced in mobile social apps development, with the right team qualification and seniority.
 
 The right strategy for a startup like Clubhouse is to release a market-ready MVP version and then add features, adjust design, rebuild some features with time - in a few words, advance as a product. By the way, Clubhouse doesn’t stop at the achieved success, they are ready to take the next step which is <a href="https://www.cnbc.com/2021/02/23/clubhouse-hires-android-developer-work-on-android-app-has-begun.html" rel=“nofollow”>the Android version <a/>development!
-

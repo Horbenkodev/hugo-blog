@@ -10,6 +10,7 @@ og_image: cacti.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development

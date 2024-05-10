@@ -13,6 +13,7 @@ og_image: React-native-app.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development

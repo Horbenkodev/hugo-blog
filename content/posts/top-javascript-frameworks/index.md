@@ -12,6 +12,7 @@ og_image: Infogr_top-js_frameworks_view.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development

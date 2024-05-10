@@ -12,6 +12,7 @@ og_image: hire-or-outsource1.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

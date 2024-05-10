@@ -10,6 +10,7 @@ og_image: user_persona.jpeg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

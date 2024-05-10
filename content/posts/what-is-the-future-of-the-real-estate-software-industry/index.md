@@ -11,6 +11,7 @@ og_image: Real-estate-tech-trends-cover.png
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Real Estate
 categories: []

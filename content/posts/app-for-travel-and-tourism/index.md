@@ -9,6 +9,7 @@ og_image: flamingos.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Travel
 categories: []

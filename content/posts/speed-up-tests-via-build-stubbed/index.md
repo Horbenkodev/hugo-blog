@@ -12,6 +12,7 @@ og_image: build_stubbed.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development

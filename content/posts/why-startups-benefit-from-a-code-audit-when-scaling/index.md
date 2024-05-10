@@ -9,6 +9,7 @@ og_image: software_code_audit.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Code Audit

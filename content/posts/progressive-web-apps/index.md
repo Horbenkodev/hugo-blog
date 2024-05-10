@@ -12,6 +12,7 @@ og_image: progressive-web-apps.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Web

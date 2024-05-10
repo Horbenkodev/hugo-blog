@@ -10,6 +10,7 @@ og_image: vds2022-socials.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - News

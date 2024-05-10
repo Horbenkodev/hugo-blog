@@ -9,6 +9,7 @@ og_image: cloud_cost_optimization_socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - DevOps

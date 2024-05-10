@@ -11,6 +11,7 @@ og_image: HIPAA-compliant-ecommerce.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories:
@@ -76,5 +77,3 @@ HIPAA compliance isn't all that different from PCI compliance, really. The two s
 Now that you know the stumbling blocks you might encounter in that regard, you should be just fine. If you have questions, issues, or doubts, don’t hesitate to contact us, our team will gladly help you. We have relevant expertise in healthcare custom software development, as well as dedicated medical app developers, we are compliant with budget and deadlines, and offer clear, straightforward, and honest communication with C1 English. Finally, we guarantee honesty and transparency regarding development services costs and speed and precision of our work.
 
 <br />
-
-

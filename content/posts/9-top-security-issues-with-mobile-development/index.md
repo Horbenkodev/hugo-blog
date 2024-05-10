@@ -12,6 +12,7 @@ og_image: app-security.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Mobile

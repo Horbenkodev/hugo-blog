@@ -9,6 +9,7 @@ og_image: real_estate_crm.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Real Estate
 categories: []

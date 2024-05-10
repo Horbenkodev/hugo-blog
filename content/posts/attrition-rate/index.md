@@ -10,6 +10,7 @@ og_image: group-people-working-out-business-plan-office.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

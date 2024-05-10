@@ -11,6 +11,7 @@ og_image: design-thinking.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Design

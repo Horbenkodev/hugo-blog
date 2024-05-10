@@ -10,6 +10,7 @@ og_image: gamified_learning_socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - eLearning
 categories: []

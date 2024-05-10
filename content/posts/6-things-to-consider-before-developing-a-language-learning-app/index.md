@@ -12,6 +12,7 @@ og_image: Language-app.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - eLearning
 categories: []

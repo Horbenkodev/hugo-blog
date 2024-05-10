@@ -12,6 +12,7 @@ og_image: Security-android.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development

@@ -11,6 +11,7 @@ og_image: Getsocio-updates.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - News

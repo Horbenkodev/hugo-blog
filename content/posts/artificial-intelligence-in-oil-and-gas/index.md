@@ -9,6 +9,7 @@ og_image: ai_oil_gas_socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

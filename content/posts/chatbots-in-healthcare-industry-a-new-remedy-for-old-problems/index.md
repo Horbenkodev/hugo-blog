@@ -12,6 +12,7 @@ og_image: chatbot-healthcare.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories:

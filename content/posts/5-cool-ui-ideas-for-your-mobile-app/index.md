@@ -11,6 +11,7 @@ og_image: user-interface.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - UX-UI

@@ -10,6 +10,7 @@ og_image: psy-social.png
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories:

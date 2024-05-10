@@ -10,6 +10,7 @@ og_image: online_booking_socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

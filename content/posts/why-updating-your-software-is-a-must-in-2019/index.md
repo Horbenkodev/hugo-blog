@@ -12,6 +12,7 @@ og_image: Software-update.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development

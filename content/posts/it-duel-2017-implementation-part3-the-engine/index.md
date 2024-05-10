@@ -10,6 +10,7 @@ og_image: game-engine.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - News

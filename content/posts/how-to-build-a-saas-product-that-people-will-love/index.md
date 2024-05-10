@@ -10,6 +10,7 @@ og_image: saas-love-socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

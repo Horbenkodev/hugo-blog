@@ -11,6 +11,7 @@ og_image: machine-learning-for-real-estate-valuation.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Real Estate
 categories:

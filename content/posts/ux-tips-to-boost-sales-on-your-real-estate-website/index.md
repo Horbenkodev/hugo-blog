@@ -12,6 +12,7 @@ og_image: ux-real-eatate.jpeg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Real Estate
 categories:

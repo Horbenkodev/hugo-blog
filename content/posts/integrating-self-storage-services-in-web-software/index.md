@@ -13,6 +13,7 @@ og_image: Self_storage_management_software.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development

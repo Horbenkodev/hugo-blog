@@ -12,6 +12,7 @@ og_image: Top_Ruby_on_Rails_Developers_-_2020.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - News

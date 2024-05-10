@@ -10,6 +10,7 @@ og_image: small-project-detection.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Machine Learning
@@ -34,4 +35,3 @@ The project Lacmus helps Search & Rescue Squads to find people, who get lost, by
 
 
 >"In order to solve the problem we tried different approaches and experimented with the latest one-stage objects detection models, in particular, with YoloX - one of the most advanced anchor-free models, which gave us the best score among all the models. At the time of the competition publicly available solution was still in early development - thus, we had to change lots of code and adapt it to our needs. We completely changed preprocessing and loading data into the model, which let us significantly speed up model training and achieve good results on time." - Vadym Kozlovskyi
-

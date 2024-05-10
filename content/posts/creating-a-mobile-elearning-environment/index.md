@@ -12,6 +12,7 @@ og_image: Mobile-classroom.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - eLearning
 categories: []

@@ -10,6 +10,7 @@ og_image: start-up-company-motivation-business-concept_1_.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

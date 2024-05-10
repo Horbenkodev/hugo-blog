@@ -12,6 +12,7 @@ og_image: proactive-healthcare.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories: []

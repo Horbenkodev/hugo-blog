@@ -9,6 +9,7 @@ og_image: elephants.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - eLearning
 categories: []

@@ -11,6 +11,7 @@ og_image: blockchain.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development
@@ -222,4 +223,3 @@ Good links to investigate:
 
 ---
 *About author: Dmitriy Selin is an experienced software engineer, blockchain enthusiast and winner of All-Ukrainian Blockchain Hackathon in the NEM nomination.*
-

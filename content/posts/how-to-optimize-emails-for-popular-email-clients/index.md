@@ -12,6 +12,7 @@ og_image: responsive_email_layout.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development

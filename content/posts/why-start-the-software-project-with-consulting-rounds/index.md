@@ -10,6 +10,7 @@ og_image: Why-start-the-software-project-with-consulting-rounds.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business
@@ -84,13 +85,3 @@ When you turn to any consulting agency, you pay for their advice, knowledge and 
 ## Beautiful closing credits
 
 The task of an IT consulting team is to figure out what needs to be automated in a particular company, what the effect will be, choose the appropriate IT solution for this task and implement it. Choosing an experienced digital consulting firm allows your business to grow in terms of management, sales and marketing.
-
-
-
-
-
-
-
-
-
-

@@ -9,6 +9,7 @@ og_image: chatbot_types_social.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

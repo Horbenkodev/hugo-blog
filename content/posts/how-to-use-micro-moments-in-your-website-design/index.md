@@ -11,6 +11,7 @@ og_image: What_are_micro_moments.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - UX-UI

@@ -11,6 +11,7 @@ og_image: Event-bus.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development

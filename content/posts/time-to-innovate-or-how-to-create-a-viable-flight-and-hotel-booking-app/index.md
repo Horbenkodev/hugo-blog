@@ -12,6 +12,7 @@ og_image: flight_booking_app.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

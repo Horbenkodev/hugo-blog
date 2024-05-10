@@ -10,6 +10,7 @@ og_image: nemo.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development

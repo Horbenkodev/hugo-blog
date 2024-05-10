@@ -12,6 +12,7 @@ og_image: complexity_of_routes.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development

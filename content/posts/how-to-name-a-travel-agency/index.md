@@ -10,6 +10,7 @@ og_image: travel-business-name.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

@@ -13,6 +13,7 @@ og_image: sports_apps.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

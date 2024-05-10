@@ -12,6 +12,7 @@ og_image: wall-e-1872683_1920.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

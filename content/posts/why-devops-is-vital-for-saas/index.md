@@ -9,6 +9,7 @@ og_image: saas-devops.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - DevOps
