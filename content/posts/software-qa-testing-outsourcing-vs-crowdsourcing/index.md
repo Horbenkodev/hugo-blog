@@ -16,14 +16,6 @@ industries: []
 categories:
 - QA
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Software QA & Testing: Outsourcing vs. Crowdsourcing"
-}
-</script>
 
 Writing code is hard. For some, this may come as a surprise, software quality assurance and testing are not easier. Of course, reporting bugs may not require too much technical skills. But the same cannot be said about evaluating a product from customer's perspective, understanding software product features, developing a test strategy, planning the test cases, picking which tools to use, and all of that within strict deadlines when a product was supposed to be ready yesterday and its release is today, especially while dealing with a very demanding customer. That's why the question "What does a quality assurance engineer do?" doesn't boil down to a simple answer.
 
@@ -31,13 +23,13 @@ Unscrupulous developers of different software may claim their code is perfect an
 
 ## For those who are unfamiliar with the ideas of outsourcing and crowdsourcing
 
-When we talk about an outsourcing model we mean involvement of external resources to accommodate the needs of the company. The company passes on managing some business processes to another company specializing in this area. These processes will be conducted through agreements between the companies. In simple words, an outsourcing company gives its staff for rent to other companies. 
+When we talk about an outsourcing model we mean involvement of external resources to accommodate the needs of the company. The company passes on managing some business processes to another company specializing in this area. These processes will be conducted through agreements between the companies. In simple words, an outsourcing company gives its staff for rent to other companies.
 
-The word "crowdsourcing" is derived from the word for crowd and the idea of outsourcing. It is about making full use of the potential of the crowd for responding to various challenges. 
+The word "crowdsourcing" is derived from the word for crowd and the idea of outsourcing. It is about making full use of the potential of the crowd for responding to various challenges.
 
 The main difference between outsourcing and crowdsourcing lies in a kind of this external source - whether it will be a well-trained team or a crowd.
 
-Now when we figured it out what is what, let's get back to [QA and testing services](https://anadea.info/services/quality-assurance). 
+Now when we figured it out what is what, let's get back to [QA and testing services](https://anadea.info/services/quality-assurance).
 
 We are moving along to advantages and disadvantages of software testing and QA outsourced and crowdsourced.
 
@@ -52,17 +44,17 @@ There are also distinctions in using the two. These are described below.
 
 ## Outsourcing quality assurance vs crowdsourcing: confidentiality and security
 
-While developing a new app, it is essential to keep core details a secret from competitors. That's why an important point of software quality assurance and testing, having them both outsourced and crowdsourced, are confidentiality obligations. In other words, there should be a non-disclosure agreement that restricts access to information, confidential material of parties of this legal contract to outsiders. 
+While developing a new app, it is essential to keep core details a secret from competitors. That's why an important point of software quality assurance and testing, having them both outsourced and crowdsourced, are confidentiality obligations. In other words, there should be a non-disclosure agreement that restricts access to information, confidential material of parties of this legal contract to outsiders.
 
 Outsourced quality assurance and software testing usually includes signing of non-disclosure agreements. Besides, there is such an agreement between the outsourcing company and their QA and testing employees.
 
-Clearly, one of the main disadvantages of crowdsourcing is lack of a high degree of confidentiality as crowdsourced software testing involves a large and, more importantly, an anonymous group of people. Some crowd testing providers do require testers to sign a NDA, and nevertheless they give access to every project's information to any registered community member. As you understand, such testers are from across the globe, they are from different countries and cultures, and a non-disclosure agreement to your project is difficult to provide to all of them. Besides, there is no guarantee there'll be neither hackers who can embed malicious code in your software, nor direct competitors among registered members. 
+Clearly, one of the main disadvantages of crowdsourcing is lack of a high degree of confidentiality as crowdsourced software testing involves a large and, more importantly, an anonymous group of people. Some crowd testing providers do require testers to sign a NDA, and nevertheless they give access to every project's information to any registered community member. As you understand, such testers are from across the globe, they are from different countries and cultures, and a non-disclosure agreement to your project is difficult to provide to all of them. Besides, there is no guarantee there'll be neither hackers who can embed malicious code in your software, nor direct competitors among registered members.
 
 ## Quality assurance outsourcing vs crowdsourcing: management
 
-Competent instructions and management, use of standards and analysis of a project is a proven formula for quality. Coordinating work among QA engineers and testers, managing test runs and tracking test results require specific skills and knowledge. 
+Competent instructions and management, use of standards and analysis of a project is a proven formula for quality. Coordinating work among QA engineers and testers, managing test runs and tracking test results require specific skills and knowledge.
 
-QA outsourcing implies taking care of managing all resources, from selecting a suitable project manager who will do his best to understand your business and goals to being on the alert for costly mistakes. 
+QA outsourcing implies taking care of managing all resources, from selecting a suitable project manager who will do his best to understand your business and goals to being on the alert for costly mistakes.
 
 With crowdsourcing there is an increased need for management oversight. You have to manage projects with a large scale of diverse testers instead of being more productive. Besides, the results can vary greatly with different testers .
 
@@ -70,7 +62,7 @@ Regarding time-zone challenges, it is so much easier to work with one team even 
 
 ## QA outsourced vs crowdsourced: approach
 
-One of the main goals of QA and testing is to find out what the customer wants from the product, what the requirements are and then to test the product according to these requirements. What is the first priority for a customer? Which problem does a customer want to solve with the software product? As you understand, software testing and quality assurance require particular approach. 
+One of the main goals of QA and testing is to find out what the customer wants from the product, what the requirements are and then to test the product according to these requirements. What is the first priority for a customer? Which problem does a customer want to solve with the software product? As you understand, software testing and quality assurance require particular approach.
 
 Among the benefits of outsourcing are:
 
@@ -84,7 +76,7 @@ Just one question, will a crowdsourced tester pay such a close attention to your
 
 Software testing and QA are practice areas that require application of certain skills. These tasks should not be undertaken by inexperienced rookies or unskilled workers.
 
-Usually, a great QA team is familiar with phases of software development and should know how to apply this knowledge. When you outsource, as a rule, you get highly qualified QA test engineers with specialty or college degrees. For example, they can replicate critical and complex bugs, meaning QA engineers understand how the defect occurs, under what circumstances it occurs, which steps it is necessary to follow in order to find the defect. 
+Usually, a great QA team is familiar with phases of software development and should know how to apply this knowledge. When you outsource, as a rule, you get highly qualified QA test engineers with specialty or college degrees. For example, they can replicate critical and complex bugs, meaning QA engineers understand how the defect occurs, under what circumstances it occurs, which steps it is necessary to follow in order to find the defect.
 
 What about crowd source testing? A crowd tester is paid against each bug he finds first, no matter how critical or complex it is. It is most probably, he won't look too closely at a project. Well, it's like they say, you wouldn't want to have an open-heart surgery performed by a crowd, would you?
 

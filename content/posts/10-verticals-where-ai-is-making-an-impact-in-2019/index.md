@@ -16,14 +16,6 @@ categories:
 - Business
 - Machine Learning
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anna Skrba",
- "name": "10 Verticals Where AI Is Making an Impact"
-}
-</script>
 Once just a sci-fi concept from the movies, AI is now a reality that is completely changing the world. Constant advances in technology made it possible for AI to creep its way into our lives and it's clear that it is definitely here to stay.
 
 According to a Business Insider Artificial Intelligence Technologies Research Report 2018-2025, the AI market is expected to grow to a whopping $59 billion by 2025. AI is absolutely revolutionizing various industries and its presence in many different market verticals is felt stronger with each coming day.

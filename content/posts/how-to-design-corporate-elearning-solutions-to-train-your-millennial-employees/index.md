@@ -16,14 +16,6 @@ industries:
 - eLearning
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Berta Melder",
- "name": "How to Design Corporate eLearning Solutions to Train Your Young Employees"
-}
-</script>
 
 Just a few years ago, nobody expected that the issue of employee retention would become so global. Today, more than <a href="https://www.pewresearch.org/fact-tank/2018/04/11/millennials-largest-generation-us-labor-force/" target="_blank">35% of the American workforce</a> consists of millennials. This generation dictates its own standards, changing the game, and forcing HR managers and recruiters to reconsider their traditional approaches. They earned a reputation as people who switch jobs more often than any other generation of employees. They are very picky in everything about work, so companies need to adjust the working environment to their lifestyle.
 

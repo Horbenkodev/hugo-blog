@@ -18,14 +18,6 @@ categories:
 - Business
 - Development
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Ehsan Memari",
- "name": "Knowledge Management across Agile Project Teams"
-}
-</script>
 
 If you happen to own or work for a software enterprise, you possibly have been asked a hundred times if you are agile. Although initially intended to upturn the accessibility of <a href="https://anadea.info/services/custom-software-development" target="_blank">custom software development teams</a>, in the recent times 'agile' has emerged as the default team-based working model for all enterprises, irrespective of their size, industry and location. Nevertheless, agility offers the prospects for a wide-ranging and persistent increase in team productivity and competency.
 
@@ -76,7 +68,7 @@ Agile teams focus at plummeting their product's time-to-market and do not have m
 Agile organizations share information well within small groups positioned in the conjoint workplace. However, in case of distributed teams, they allow for feebler information transfer. For example, when one business has a small number of agile groups employed in discrete workplaces dispersed worldwide. Due to the absence of mutual repository for information, employees are only capable of transferring both explicit and tacit information between employees in their office and only explicit information (such as the version control types) with employees in dispersed locations.
 
 In such a situation, using a dedicated <a href="https://skyprep.com/boosthq/knowledge-management-software/" target="_blank">knowledge management software</a> that allows distributed teams to access information from any location, at any time and from any device is the best solution. Such software allows employees to share ideas and experiences not only by sharing files and documents but by also communicating with one another via discussion forums and chats. Equipped with robust reporting and analytics features, these corporate knowledge sharing tools make it easier to keep track of who is contributing what information and by rewarding the employees who contribute the most, information sharing practices can be highly motivated.
- 
+
 ## Final thoughts
 
 The digital world is gradually shifting from sluggish "waterfall" practices to agile practices. Agile teams have better understanding of team structure and they comprehend how changing this structure can help benefit the project in the long run. While it seems to be a magical solution for most of the companies, implementing an agile approach without daunting the workforce is no easy feat.

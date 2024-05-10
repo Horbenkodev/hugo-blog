@@ -13,40 +13,31 @@ industries: []
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "What Is the Cost to Build a Tech Startup?"
-}
-</script>
+Hey!
 
-Hey! 
-
-Would you like to <a href="https://anadea.info/services/mobile-development" target="_blank">create your own application</a>, build a website, or make something new with help of technology? Of course, this is a good intention and, in case you are a developer, you can do it yourself. But what if you don’t know how to code and all you have is a brilliant idea? 
+Would you like to <a href="https://anadea.info/services/mobile-development" target="_blank">create your own application</a>, build a website, or make something new with help of technology? Of course, this is a good intention and, in case you are a developer, you can do it yourself. But what if you don’t know how to code and all you have is a brilliant idea?
 
 Well, you probably need a bunch of people who have the right skills and are willing to help you. Find out how to choose the right people to work with and build your start-up: <a href="https://anadea.info/guides/how-to-find-an-app-developer" target="_blank">How to Find an App Developer for Your Project</a>
 
-If you don’t have money, you need to find some funding and use these earnings to elaborate on your idea and create the prototype. 
+If you don’t have money, you need to find some funding and use these earnings to elaborate on your idea and create the prototype.
 
 Find out how to get funding: <a href="https://anadea.info/blog/health-it-startup-funding-how-to-attract-the-investment" target="_blank">Health IT Startup Funding: Here’s How to Attract the Investment</a>
 
 In case you have the money, perhaps the only thing to do is to assemble a team and bring your idea to life. It sounds simple, but in today's world, custom development is comparable to art, which is usually quite expensive. Moreover, in today's economy, you have some limits on your budget.
 
-The answer here is to monetize your idea and do it quickly. Read the article about <a href="https://anadea.info/blog/healthcare-and-medical-mobile-app-revenue-models-to-achieve-best-results" target="_blank">monetization models for healthcare app</a> to find out more. Anyway, don’t forget that you act in the <a href="https://anadea.info/blog/time-quality-cost-which-ones-do-you-choose-for-your-app" target="_blank">time, cost, and quality paradigm</a>. 
+The answer here is to monetize your idea and do it quickly. Read the article about <a href="https://anadea.info/blog/healthcare-and-medical-mobile-app-revenue-models-to-achieve-best-results" target="_blank">monetization models for healthcare app</a> to find out more. Anyway, don’t forget that you act in the <a href="https://anadea.info/blog/time-quality-cost-which-ones-do-you-choose-for-your-app" target="_blank">time, cost, and quality paradigm</a>.
 
 ## How to navigate the custom development market
 
-Let’s suppose you have a budget. What can you afford with it? 
+Let’s suppose you have a budget. What can you afford with it?
 
-In the world of modern development, we use the word MVP which reads like a minimum viable product. An MVP is a sort of a simple version of a product that customers can use and fill their needs. And if they can cover their needs, that means it's time to make money for the service provided. MVP is built step by step and in an agile way - new functionality appears incrementally, small piece after another. It helps move and manage the project in the same direction and avoid stupid mistakes in the beginning. 
+In the world of modern development, we use the word MVP which reads like a minimum viable product. An MVP is a sort of a simple version of a product that customers can use and fill their needs. And if they can cover their needs, that means it's time to make money for the service provided. MVP is built step by step and in an agile way - new functionality appears incrementally, small piece after another. It helps move and manage the project in the same direction and avoid stupid mistakes in the beginning.
 
 It sounds more rational, but still, we have a question about project forecasting and evaluation, including timing and budget.
 
 You can always try to investigate and compare your idea with something that already exists on the market. Thus you can make a rough estimation and understand the total costs for the upcoming project. However, information about money is usually under control. Sometimes reaching valid data regarding the budget is difficult because of NDA or some other restrictions.
 
-From our past experiences (Anadea has <a href="https://anadea.info/projects" target="_blank">dozens of successful examples</a>) sometimes it takes less sometimes more, but the rule of thumb says that almost all MVPs can be created within 2-3 months. This is really general but gives you a rough estimate and understanding of calculations. While you understand approximate dates you can make some calculations. 
+From our past experiences (Anadea has <a href="https://anadea.info/projects" target="_blank">dozens of successful examples</a>) sometimes it takes less sometimes more, but the rule of thumb says that almost all MVPs can be created within 2-3 months. This is really general but gives you a rough estimate and understanding of calculations. While you understand approximate dates you can make some calculations.
 
 ## Breaking down the app startup cost
 
@@ -59,13 +50,13 @@ Here is an example. Let’s say you decide to create an application for divers. 
 * QA tester will properly check the application and help developers eliminate bugs;
 * Designer — a person who, with their lovely design, makes the user fall in love with your app.
 
-Suppose they have the next rates: 
+Suppose they have the next rates:
 * Front-end - $55 per hour;
 * Back-end - $55 per hour;
 * QA - $45 per hour;
 * Designer - $50 per hour.
 
-Let’s do some quick math and suppose that you work according to the classical principle - 5 days a week with 8 hours per day. It means that cost: 
+Let’s do some quick math and suppose that you work according to the classical principle - 5 days a week with 8 hours per day. It means that cost:
 
 * Front-end: 55x8x5 = $2.200 per week;
 * Back-end: 55x8x5 = $2.200 per week;
@@ -84,8 +75,8 @@ Another solution, of course, is to properly calculate the specialist's working h
 
 A similar situation with __<a href="https://anadea.info/services/quality-assurance" target="_blank">QA engineers</a>__. Theoretically, while the development is in process, the tester can work part-time. Nevertheless, testing should not be ignored. Testing is a process in which haste is not our ally.
 
-Last but not least, don’t hesitate to send us your request despite your budget. All big adventures begin with small little steps. Even if your budget is strict, let’s have a conversation. Don’t hide potentially big projects. 
+Last but not least, don’t hesitate to send us your request despite your budget. All big adventures begin with small little steps. Even if your budget is strict, let’s have a conversation. Don’t hide potentially big projects.
 
-And don’t forget to negotiate. You always can split the total budget and don’t pay the full amount of money immediately and do it partially. So move smart! 
+And don’t forget to negotiate. You always can split the total budget and don’t pay the full amount of money immediately and do it partially. So move smart!
 
 {{< ctabutton href="https://anadea.info/contacts" >}}Book a consultation{{< /ctabutton >}}

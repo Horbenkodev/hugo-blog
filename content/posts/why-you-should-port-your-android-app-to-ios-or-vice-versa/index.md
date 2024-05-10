@@ -14,14 +14,6 @@ industries: []
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Why You Should Port Your Android App to iOS or Vice Versa?"
-}
-</script>
 
 There is a joke in game industry: if you want to get profit from one game several times - port it to another platform. Look at Rockstar company, for example. In 2013 Grand Theft Auto V assailed consoles with sales in millions of copies and billions of dollars. When the craze has died down, they released the game on PCs, added some updates and ta da - GTA V became the market leader again!
 
@@ -65,7 +57,7 @@ According to data from <a href="https://www.idc.com/promo/smartphone-market-shar
 
 Because of the vast number of users, it makes sense to develop an app for two platforms at once. Nonetheless, the best way is to launch the app for one set of devices, run some field tests with real people and, if it succeeds, think of converting it to another platform.
 
-In the past, one of concerns about Android apps was the fact that iOS users were more willing to purchase apps in Apple Store, while most of Android-heads were satisfied with a range of free apps in Google Play. The situation has slightly changed with the release of Android 6.0 - people started to buy apps more often. Free apps turned into a kind of demo versions packed with ads, while paid ones are clean and tidy. Besides, there is an increasing number of unique and interesting apps that are available on paid basis only. Some of them have been ported from iOS. Actually, it's a good idea is to try both monetization methods - in addition to paid app, you can create a free version and make money on ads. 
+In the past, one of concerns about Android apps was the fact that iOS users were more willing to purchase apps in Apple Store, while most of Android-heads were satisfied with a range of free apps in Google Play. The situation has slightly changed with the release of Android 6.0 - people started to buy apps more often. Free apps turned into a kind of demo versions packed with ads, while paid ones are clean and tidy. Besides, there is an increasing number of unique and interesting apps that are available on paid basis only. Some of them have been ported from iOS. Actually, it's a good idea is to try both monetization methods - in addition to paid app, you can create a free version and make money on ads.
 
 ## Android development became easier
 <p align="right"><small>...and cheaper</small></p>

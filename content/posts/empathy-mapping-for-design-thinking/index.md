@@ -293,32 +293,3 @@ opinions, expectations, and feelings, you can detect general trends in
 their attitudes and define the existing issues. Based on this knowledge,
 you can deliver more valuable solutions that will perfectly address
 users' needs.
-
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-   "@type": "Question",
-   "name": "What is an empathy map?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "It is a visualization tool that helps UX experts present accumulated knowledge about the attitudes and behaviors of users. Moreover, this tool helps to communicate this information to other team members."
-    }
-   ]
-  },
-  {
-   "@type": "Question",
-   "name": "Why do UX experts create empathy maps?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "Thanks to visualizing all the information that you have about users' opinions, expectations, and feelings, you can detect general trends in their attitudes and define the existing issues. Based on this knowledge, you can deliver more valuable solutions that will perfectly address users' needs."
-    }
-   ]
-  }
- ]
-}
-</script>

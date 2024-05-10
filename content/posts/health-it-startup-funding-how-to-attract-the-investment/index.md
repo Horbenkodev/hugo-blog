@@ -16,17 +16,9 @@ industries:
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Health IT Startup Funding: Here’s How to Attract the Investment"
-}
-</script>
 We have reached a new era in the digital world. The way healthcare organizations are delivering patient care is shifting in the rise of a worldwide pandemic. Telehealth, machine learning, virtual care and <a href="https://anadea.info/solutions/medical-app-development" rel="dofollow" target="_blank">custom healthcare software development</a> are emerging forces. To remain competitive, healthcare providers must change the ways they operate.
 
-Consequently, healthcare providers and those responsible for paying for treatments are always looking for innovative ways to grow, improve patient outcomes, and reduce costs. The recent <a href="https://www.healthcareitnews.com/blog/beyond-telehealth-virtual-care-technology-trends-will-transform-healthcare" rel="nofollow" target="_blank">estimate</a> by consulting firm McKinsey suggests that $250 billion in healthcare spending could shift to virtual care models in the wake of coronavirus spread. At the same time, half of the world’s population lacks access to essential healthcare services, says the <a href="https://www.who.int/news-room/detail/13-12-2017-world-bank-and-who-half-the-world-lacks-access-to-essential-health-services-100-million-still-pushed-into-extreme-poverty-because-of-health-expenses" rel="nofollow" target="_blank">report</a> by the World Bank and World Health Organization. 
+Consequently, healthcare providers and those responsible for paying for treatments are always looking for innovative ways to grow, improve patient outcomes, and reduce costs. The recent <a href="https://www.healthcareitnews.com/blog/beyond-telehealth-virtual-care-technology-trends-will-transform-healthcare" rel="nofollow" target="_blank">estimate</a> by consulting firm McKinsey suggests that $250 billion in healthcare spending could shift to virtual care models in the wake of coronavirus spread. At the same time, half of the world’s population lacks access to essential healthcare services, says the <a href="https://www.who.int/news-room/detail/13-12-2017-world-bank-and-who-half-the-world-lacks-access-to-essential-health-services-100-million-still-pushed-into-extreme-poverty-because-of-health-expenses" rel="nofollow" target="_blank">report</a> by the World Bank and World Health Organization.
 
 Health IT startups should seize the opportunity. However, the challenge always comes to funding a healthcare startup. Luckily, here are some excellent ways to get funding for your health IT startup for you to consider, which we cover in this article.
 
@@ -44,19 +36,19 @@ Start with the research. Your first step in finding seed funding for your health
 
 ## Prove Your Worth
 
-Big promises may impress an investor. More often, however, you still need to present realistic numbers and metrics. Consider which measurements are relevant for your health IT startup idea. If this is your first attempt to secure seed capital for your health IT venture, think about other KPIs that validate your idea from the business point of view: 
+Big promises may impress an investor. More often, however, you still need to present realistic numbers and metrics. Consider which measurements are relevant for your health IT startup idea. If this is your first attempt to secure seed capital for your health IT venture, think about other KPIs that validate your idea from the business point of view:
 * **Total Available Market** (TAM) - total revenue capacity of your services or products;
-* **Market value** - the price of your healthcare startup could obtain for an asset it owns; 
-* **Market Share** you plan to conquer in a year, 5 years; 
+* **Market value** - the price of your healthcare startup could obtain for an asset it owns;
+* **Market Share** you plan to conquer in a year, 5 years;
 * **Sales Projections** - show your understanding of what drives sales (web traffic and conversions), show how many streams of revenue your startup has.
 
 Failing to provide solid research shows a lack of preparedness and may even scare away potential investors.
 
 ## Partner with Healthcare Providers
 
-Established healthcare providers that own chains of hospitals, clinics and diagnostic centers are offering seed funding for innovative health IT startups. It’s a common practice for these healthcare providers to join forces and create a fund that would provide seed capital to healthcare-focused IT startups. 
+Established healthcare providers that own chains of hospitals, clinics and diagnostic centers are offering seed funding for innovative health IT startups. It’s a common practice for these healthcare providers to join forces and create a fund that would provide seed capital to healthcare-focused IT startups.
 
-Not only is this a great way to get funding, alongside mentoring and support, but it gives you a potential exit avenue. Some startup founders can receive funding in the early days, grow the business, and then be bought by the same company that provided the funding. 
+Not only is this a great way to get funding, alongside mentoring and support, but it gives you a potential exit avenue. Some startup founders can receive funding in the early days, grow the business, and then be bought by the same company that provided the funding.
 
 ## Consider GV
 
@@ -76,7 +68,7 @@ Innovation in healthcare is happening faster than most people realize. With the 
 
 ## Consider Your Local Regulations
 
-Seeking seed funding from venture capitalists may seem like a simple solution for a health IT startup. <a href="https://www.statista.com/statistics/277506/venture-caputal-investment-in-the-united-states-by-sector/" rel="nofollow" target="_blank">Statista shows</a> that one of leading VC sectors in the United States, as of second quarter 2020, is healthcare. 
+Seeking seed funding from venture capitalists may seem like a simple solution for a health IT startup. <a href="https://www.statista.com/statistics/277506/venture-caputal-investment-in-the-united-states-by-sector/" rel="nofollow" target="_blank">Statista shows</a> that one of leading VC sectors in the United States, as of second quarter 2020, is healthcare.
 
 ![Leading-vc-sectors-in-the-USA-2020.png](Leading-vc-sectors-in-the-USA-2020.png)
 
@@ -92,7 +84,7 @@ It’s essential to make yourself familiar with the investment regulations in yo
 
 ## Reach out to the Big Pharma
 
-Pharmaceutical companies are always on a lookout for excellent healthcare startup ideas to fund. Global pharmaceutical giants including Novartis, GlaxoSmithKline, and Pfizer often provide seed funding to healthcare-related startups. 
+Pharmaceutical companies are always on a lookout for excellent healthcare startup ideas to fund. Global pharmaceutical giants including Novartis, GlaxoSmithKline, and Pfizer often provide seed funding to healthcare-related startups.
 
 This is not surprising, since all pharmaceutical firms are trying to diversify their businesses. According to various sources, their combined investment in healthcare startups is over $10 billion.
 
@@ -102,7 +94,7 @@ Pharmaceutical companies are looking for exciting and innovative healthcare star
 
 If your health IT startup requires little funding, you can always borrow money from your family and friends. Start making small steps and make another try with big players as your project evolves.
 
-## Key Takeaways 
+## Key Takeaways
 
 When it comes to funding a healthcare startup, there are a wide range of options. How you go about this depends on how much you want to raise, and also who you already know. If you know people in the sector, then take the more direct approach through your network. If not, then cold pitches (either to pharma firms, angel investors or VC’s), or crowdfunding is the way forward.
 

@@ -179,32 +179,3 @@ Gamification is a great way to increase the motivation and engagement of learner
 ### How much does it cost to build a learning gamification platform?
 
 Every software project should be estimated individually as there are a lot of factors that influence the final amount. Among these factors are the complexity of your solution, the technologies that will be used, the number of features, the composition of the team, the required integrations, etc. The costs of the simplest projects can start at around $20,000. However, the more complex your gamification solution is, the higher its price will be. If you contact our team and share your requirements, you will get a quote for free.
-
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-   "@type": "Question",
-   "name": "Why should I launch a gamified learning platform?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "Gamification is a great way to increase the motivation and engagement of learners. The spirit of competition, progress visualization, and the possibility of getting at least virtual awards inspire people to spend more time learning new things and, at the same time, have a lot of fun."
-    }
-   ]
-  },
-  {
-   "@type": "Question",
-   "name": "How much does it cost to build a learning gamification platform?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "Every software project should be estimated individually as there are a lot of factors that influence the final amount. Among these factors are the complexity of your solution, the technologies that will be used, the number of features, the composition of the team, the required integrations, etc. The costs of the simplest projects can start at around $20,000. However, the more complex your gamification solution is, the higher its price will be. If you contact our team and share your requirements, you will get a quote for free."
-    }
-   ]
-  }
- ]
-}
-</script>

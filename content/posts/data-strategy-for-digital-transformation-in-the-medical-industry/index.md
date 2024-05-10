@@ -17,15 +17,7 @@ industries:
 - Healthcare
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Nick Andrew Rojas",
- "name": "Data Strategy for Digital Transformation in the Medical Industry"
-}
-</script>
-As technology blurs the line between digital and physical medical care, private practices and doctors must start using technology to promote the intimate connection necessary in doctor-patient relationships. More than 95% of non-federal acute care hospitals used information technology for health care today. Technology in medicine is widespread and growing, redefining how we think about healthcare. 
+As technology blurs the line between digital and physical medical care, private practices and doctors must start using technology to promote the intimate connection necessary in doctor-patient relationships. More than 95% of non-federal acute care hospitals used information technology for health care today. Technology in medicine is widespread and growing, redefining how we think about healthcare.
 
 To efficiently implement the achievements of <a href="https://anadea.info/solutions/medical-app-development" target="_blank">medical software development</a> in day-to-day practice, be aware of the opportunities this evolution allows and consider all of them when developing a unique strategy.
 
@@ -33,9 +25,9 @@ To efficiently implement the achievements of <a href="https://anadea.info/soluti
 
 ### Telehealth
 
-<a href="https://anadea.info/solutions/medical-app-development/telemedicine-development" target="_blank">Telehealth</a> is a new industry that combines doctor availability with remote accessibility. Different platforms offer doctors who can chat (via video or text) with patients about a variety of issues. These doctors on demand can be general physicians or any type of specialist. Often, telehealth can even include robotic chatbots who can help with very basic health needs. 
+<a href="https://anadea.info/solutions/medical-app-development/telemedicine-development" target="_blank">Telehealth</a> is a new industry that combines doctor availability with remote accessibility. Different platforms offer doctors who can chat (via video or text) with patients about a variety of issues. These doctors on demand can be general physicians or any type of specialist. Often, telehealth can even include robotic chatbots who can help with very basic health needs.
 
-Another type of telehealth is remote care with one's existing doctor. For instance, if you have a relationship with a doctor and want to follow up on a visit or connect about a health issue for another reason, many providers offer platforms that will allow patients to directly communicate with their doctor. 
+Another type of telehealth is remote care with one's existing doctor. For instance, if you have a relationship with a doctor and want to follow up on a visit or connect about a health issue for another reason, many providers offer platforms that will allow patients to directly communicate with their doctor.
 
 Telehealth has been praised for increasing the overall accessibility of the overall populace to healthcare as well as decreasing ER visits.
 
@@ -54,7 +46,7 @@ In addition to personal use, wearable medical devices are also being used in cli
 
 ### Marketing
 
-Digital marketing has the potential to revolutionize the medical industry, and yet this opportunity is often overlooked. Social media platforms, for instance, can be utilized to connect doctors with patients and to share health information and tips in a way that is both engaging and accessible. 
+Digital marketing has the potential to revolutionize the medical industry, and yet this opportunity is often overlooked. Social media platforms, for instance, can be utilized to connect doctors with patients and to share health information and tips in a way that is both engaging and accessible.
 
 Through social media, patients can learn about healthy habits, get advice on how to manage their conditions, and even connect with other patients who are going through similar experiences. Digital marketing also allows healthcare providers to gauge responses from consumers and learn more about their needs and preferences. For example, analytics tools can be used to track engagement with social media content and measure the impact of specific marketing campaigns. This data can then be used to refine marketing strategies and create more targeted content that resonates with patients.
 
@@ -66,9 +58,9 @@ Innovation is ever increasing! It's important to consider the benefits of invest
 
 ### Big data
 
-These innovations that we have seen in recent years in the medical industry have transformed healthcare. They each appeal to a different niche of health needs and desires, but what similarly spans across all of them is the data they collect about consumers. While services like telehealth mean that we can find out how to decrease emergency room visits, medical technology like FitBit can help us understand the day-to-day health of our consumers and easily implement strategies to tangibly measure and improve it. 
+These innovations that we have seen in recent years in the medical industry have transformed healthcare. They each appeal to a different niche of health needs and desires, but what similarly spans across all of them is the data they collect about consumers. While services like telehealth mean that we can find out how to decrease emergency room visits, medical technology like FitBit can help us understand the day-to-day health of our consumers and easily implement strategies to tangibly measure and improve it.
 
-A quality, competitive strategy would feature using some or all of these venues and the data they collect in unique ways to extract the most <a href="https://www.liquibase.com/blog/data-strategy-digital-transformation" target="_blank">meaningful data</a> about patients doctors serve. Providers can use this data, for instance, to determine what care works and what care doesn't work and how to best cultivate the doctor-patient relationship. The future of data analytics in the medical industry has the potential to make healthcare not only more efficient and more cost-effective, but more personal, humane, and intimate as well. 
+A quality, competitive strategy would feature using some or all of these venues and the data they collect in unique ways to extract the most <a href="https://www.liquibase.com/blog/data-strategy-digital-transformation" target="_blank">meaningful data</a> about patients doctors serve. Providers can use this data, for instance, to determine what care works and what care doesn't work and how to best cultivate the doctor-patient relationship. The future of data analytics in the medical industry has the potential to make healthcare not only more efficient and more cost-effective, but more personal, humane, and intimate as well.
 
 ### Sensitive information protection
 

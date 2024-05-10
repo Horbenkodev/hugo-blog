@@ -15,16 +15,6 @@ industries:
 - eLearning
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Max Holland",
- "name": "Digital Transformation in Education"
-}
-</script>
-Updated on 12 August, 2021
-
 <h2>Table of contents</h2>
 <ul>
  <li><a href="#digital-transformation">Digital transformation in education</a></li>
@@ -33,7 +23,7 @@ Updated on 12 August, 2021
    <li><a href="#schools">Schools</a></li>
    <li><a href="#higher-education">Higher education</a></li>
   </ol>
- </li> 
+ </li>
   <li><a href="#competition">Can universities compete with cheaper eLearning providers? </a></li>
  <li><a href="#summary">Conclusion</a>
 </ul>
@@ -45,10 +35,10 @@ Updated on 12 August, 2021
 
 'Digital' no longer means a university or school IT department. It no longer means rooms full of computers and printers, or keeping the WiFi running. Digital transformation for education now needs to play a role in every department and function.
 
-For example, universities are now competing globally for students, academics, funding and business opportunities. Physical universities are also competing against online competitors. In theory, traditional academic institutions are competing in some way against everything from Wikipedia and YouTube to massive open online courses (MOOCs), Open Educational Resources (OERs), podcasts, videos, blogs, and webinars. 
+For example, universities are now competing globally for students, academics, funding and business opportunities. Physical universities are also competing against online competitors. In theory, traditional academic institutions are competing in some way against everything from Wikipedia and YouTube to massive open online courses (MOOCs), Open Educational Resources (OERs), podcasts, videos, blogs, and webinars.
 
 <a name="education-sector"></a>
-## Digital transformation in education sector: Challenges 
+## Digital transformation in education sector: Challenges
 
 ![Higher education industry challenges](higher-education-industry.jpg)
 
@@ -65,26 +55,26 @@ Also, remote learning depends on student’s connection speed and availability o
 
 Digital transformation for higher education has its own challenges.Despite the amount of free knowledge and content online, universities do have several advantages. According to a <a href="https://www.pwc.co.uk/assets/pdf/the-2018-digital-university-staying-relevant-in-the-digital-age.pdf" target="_blank">PwC report</a>, students see universities as a way to secure employment, rather than a platform for solely learning and self-development. Employability and student experience are more crucial than they have ever been.
 
-Universities need to understand new generations embarking on courses. Younger generations grow up as "digital natives", spending up to 53 hours online - usually on a smartphone - every week.Need for digital transformation in higher education is essential,as universities need to offer them something more, something they can't get for free online, that challenges them and equips them with the ability to think critically and analyse, which the Internet can not achieve. 
+Universities need to understand new generations embarking on courses. Younger generations grow up as "digital natives", spending up to 53 hours online - usually on a smartphone - every week.Need for digital transformation in higher education is essential,as universities need to offer them something more, something they can't get for free online, that challenges them and equips them with the ability to think critically and analyse, which the Internet can not achieve.
 
-One more issue noted in PwC's study is that universities often "invest heavily in IT systems that don't deliver the anticipated benefits and outcomes. These universities fail to appreciate that they don't need a digital strategy – just a business strategy that is fit for the digital age." 
+One more issue noted in PwC's study is that universities often "invest heavily in IT systems that don't deliver the anticipated benefits and outcomes. These universities fail to appreciate that they don't need a digital strategy – just a business strategy that is fit for the digital age."
 
-For universities to survive in the digital age, they need to adopt the same approach as any large corporation. Drive a digital transformation forward with senior managers supported by academic departments and student representatives. It is a slow and steady project, not a race, with small wins easier to aim for than a massive overhaul in one or two years. 
+For universities to survive in the digital age, they need to adopt the same approach as any large corporation. Drive a digital transformation forward with senior managers supported by academic departments and student representatives. It is a slow and steady project, not a race, with small wins easier to aim for than a massive overhaul in one or two years.
 
-Another challenge, one that is harder to overcome, is the cost of higher education. In the U.S., annual tuition for an out of state student at a public college is around $25,000 per year. At private, non-profit four-year institutions, the price is around $33,000 - and that isn't including textbooks and cost of living. 
+Another challenge, one that is harder to overcome, is the cost of higher education. In the U.S., annual tuition for an out of state student at a public college is around $25,000 per year. At private, non-profit four-year institutions, the price is around $33,000 - and that isn't including textbooks and cost of living.
 
 <a name="competition"></a>
-## Can universities compete with cheaper eLearning providers? 
+## Can universities compete with cheaper eLearning providers?
 
 ![Benefits of technology in higher education](benefits-of-technology-in-higher-education.jpg)
 
-Because students are increasingly looking at university as a way into employment, many are starting to take the view that enormous student loans aren't worth the investment. Instead, opting for cheaper colleges, online courses, and private eLearning providers. **How can universities combat this challenge?** 
+Because students are increasingly looking at university as a way into employment, many are starting to take the view that enormous student loans aren't worth the investment. Instead, opting for cheaper colleges, online courses, and private eLearning providers. **How can universities combat this challenge?**
 
-Take <a href="https://www.lecturio.com/" rel="nofollow" target="_blank">Lecturio</a>, for example, it provides over 200,000 medical students with online videos that contribute to medical qualifications. With professors - acting as independent production partners - from 6 of the world's top 11 medical schools, including Harvard Medical School, Yale School of Medicine, University College London, and many more, they can claim enormous credibility. 
+Take <a href="https://www.lecturio.com/" rel="nofollow" target="_blank">Lecturio</a>, for example, it provides over 200,000 medical students with online videos that contribute to medical qualifications. With professors - acting as independent production partners - from 6 of the world's top 11 medical schools, including Harvard Medical School, Yale School of Medicine, University College London, and many more, they can claim enormous credibility.
 
-However, for those wanting complete accredited qualifications, eLearning is often going to fall short in sectors such as medicine, law and engineering. Not only that, but the experience and friendships gained at university are always going to compete effectively against online equivalents. 
+However, for those wanting complete accredited qualifications, eLearning is often going to fall short in sectors such as medicine, law and engineering. Not only that, but the experience and friendships gained at university are always going to compete effectively against online equivalents.
 
-What universities need to do is use digital technology to add more value before, during and after the three or four years and undergraduate spends at an institution. Ideas such as a 'digital campus', whereby digital apps augment and support service provisions. Making it easier for tutors and professors to be more effective. Improving the student experience. Making a campus safer for everyone, providing more information to guests and business partners. 
+What universities need to do is use digital technology to add more value before, during and after the three or four years and undergraduate spends at an institution. Ideas such as a 'digital campus', whereby digital apps augment and support service provisions. Making it easier for tutors and professors to be more effective. Improving the student experience. Making a campus safer for everyone, providing more information to guests and business partners.
 
 <a name="summary"></a>
 ## Conclusion

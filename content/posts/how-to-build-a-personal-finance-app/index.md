@@ -16,15 +16,6 @@ categories:
 ---
 <center><sub>Image source: <a href="https://dribbble.com/shots/3943504-Banking-App" rel="nofollow" target="_blank">Dribbble - Anadea</a></a></sub></center>
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "How to Create Your Own Personal Finance App"
-}
-</script>
-
 There are many things money can’t buy. Still, everyone aims at saving and multiplying their capital. For that, mobile apps for budget management are highly demanded these days. Learn how to build a personal finance app that’s gonna be a success and what you need to start.
 
 <h2>Table of Contents</h2>
@@ -63,7 +54,7 @@ Financial trackers are apps linked to the user’s bank account that upload all 
 
 <a name="planners"></a>
 ### Budget Planners
-Apps of this kind are designed for managing a set amount of money, e.g. a user has $5000 in hands and needs to organize an event for this sum. 
+Apps of this kind are designed for managing a set amount of money, e.g. a user has $5000 in hands and needs to organize an event for this sum.
 
 Also, budget planners allow setting financial goals, such as putting away 20% of monthly salary instead of spending it all. Such apps have to include at least the following categories of spending after taxes: rent, groceries, gas, insurance, etc. The budget planner will notify users when they reach their budget ceiling even when the app is closed.
 
@@ -97,7 +88,7 @@ Another advantage over many finance apps is 24/7 customer support while most of 
 Speaking of pricing, Personal Capital draws a __management fee__ starting from __0.89%__ at a minimum balance of __$100.000__.
 
 ### Goodbudget
-This one uses the same envelope technique as Mint and others, however, in the case of Goodbudget, it’s __manual only__. The plan was to make users analyze their habits themselves since automation, according to the app creators, doesn’t allow for making proper conclusions. The user allocates a threshold for each of the envelopes and if it’s surpassed, the envelope turns red. 
+This one uses the same envelope technique as Mint and others, however, in the case of Goodbudget, it’s __manual only__. The plan was to make users analyze their habits themselves since automation, according to the app creators, doesn’t allow for making proper conclusions. The user allocates a threshold for each of the envelopes and if it’s surpassed, the envelope turns red.
 
 The app is free if the user has up to 20 envelopes. An unlimited amount of envelopes is available for __$7/month__ or __$60/year__. Reports are a must-have, and for sure, Goodbudget creates them too.
 
@@ -113,7 +104,7 @@ table, tr, td {
  padding: 10px;
 }
 </style>
-<table> 
+<table>
   <tr>
     <td><center><b>S.No.</b></center></td>
     <td><center><b>Application Area</b></center></td>
@@ -190,14 +181,14 @@ Follow these tips on how to make a financial app secure and usable.
 ### 1. Security in the First Place
 * Make sure the app protects users’ personal and financial data and ask your development team whether they use modern __encryption protocols__.
 
-* Make provisions for notifying users about taking all the necessary safety precautions that depend on nobody but themselves - practicing cyber-hygiene (not reusing passwords but coming up with complex ones, not clicking on suspicious links from email) and avoiding fraud on the phone, when scammers pretend to be bank workers. 
+* Make provisions for notifying users about taking all the necessary safety precautions that depend on nobody but themselves - practicing cyber-hygiene (not reusing passwords but coming up with complex ones, not clicking on suspicious links from email) and avoiding fraud on the phone, when scammers pretend to be bank workers.
 
 * Enable authorization to the app via PIN/password or biometric data for better security and confirmation of transactions with a special password/SMS code.
 
 * Make sure your app sends minimum data to external sources since it may cause leakage.
 Prevent injection of foreign thus possibly harmful code in your solution by including input validation when any data is entered.
 
-* Don’t neglect the <a href="https://anadea.info/services/quality-assurance" target="_blank">Quality Assurance service</a> when developing a solution that concerns someone’s money. 
+* Don’t neglect the <a href="https://anadea.info/services/quality-assurance" target="_blank">Quality Assurance service</a> when developing a solution that concerns someone’s money.
 
 ### 2. Think as Your Users
 We’d propose putting yourselves in the user’s place and that would not be wrong, however, theoretical assumptions don’t always work in practice. Before you start financial app development, better open App Store or Google Play Market and __go through reviews__ on the most used apps similar to the one you have in mind and point out what users like or dislike about them most.

@@ -13,14 +13,6 @@ industries: []
 categories:
 - News
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Anadea Wins Private Education & Development Award 2019 by CV Magazine"
-}
-</script>
 ***Anadea has been awarded Best Custom Education Software Development Company - Eastern Europe, 2019.***
 
 We are excited to announce that Anadea has been named a winner of the 2019 Private Education & Development Awards from Corporate Vision Magazine. Our company has been recognized as Best Custom Education Software Development Company - Eastern Europe.
@@ -39,7 +31,7 @@ See the supplement and full list of winners on the awards page and the Private E
 
 ## About Anadea
 
-Anadea is a custom [software development company](https://anadea.info/) with a solid know-how in creating web and mobile applications for the education sector. Through years in the IT business, we’ve gained extensive technical and business experience in [e-learning software development](https://anadea.info/solutions/e-learning-software-development). 
+Anadea is a custom [software development company](https://anadea.info/) with a solid know-how in creating web and mobile applications for the education sector. Through years in the IT business, we’ve gained extensive technical and business experience in [e-learning software development](https://anadea.info/solutions/e-learning-software-development).
 
 Having an in-house team of experts in the fields of software engineering, design and quality assurance gives us the agility to adapt to the specific needs of your project and to ensure the delivery of high-quality software. We believe that every project requires a solution tailored specifically to the needs and requirements of the educators and learners for whom the application is being built.
 

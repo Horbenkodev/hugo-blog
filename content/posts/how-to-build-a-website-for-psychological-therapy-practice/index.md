@@ -15,14 +15,6 @@ industries:
 categories:
 - Web
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "How to Build a Website For Psychological Therapy Practice"
-}
-</script>
 
 Are you committed to starting a private practice in counseling psychology? Or have you been a private practitioner for a while now? Either way, you can consider building a website to promote your services. As soon as you have developed your psychology private practice business plan and decided to take the plunge, creating a website is a logical next step.
 
@@ -57,11 +49,11 @@ The first thing about building a website is not starting with technical aspects.
 * How much work do you want to put into learning and creating a website?
 * How elaborate do you want it to be?
 
-When you answer these questions, you will have a clear understanding of what elements to include on your site. 
+When you answer these questions, you will have a clear understanding of what elements to include on your site.
 
 <a name="blocks"></a>
 ## What makes a good therapist website?
-There are no uniform practices for building and structuring the content of private therapists’ sites, but there are certain things your potential clients may want to know. 
+There are no uniform practices for building and structuring the content of private therapists’ sites, but there are certain things your potential clients may want to know.
 
 <a name="must-have"></a>
 ### Must-have blocks
@@ -115,7 +107,7 @@ When you plan to build a therapy website, then you should put yourself into the 
 #### Blog
 This is a great addition to your website, as it gives your visitors the scope of issues you help them with. Educate your potential clients and speak to them in an approachable way. If you’re linking to third-party resources, make sure to choose authoritative experts.
 
-Very likely that you will need contributors and copywriters to create themed content on a regular basis (as you will be busy working with clients). This will cause additional expenses since content marketing is a time-consuming process. But in the long run, a blog regularly updated with quality entries is a great proof of your competence as a psychologist and can convert visitors into clients. 
+Very likely that you will need contributors and copywriters to create themed content on a regular basis (as you will be busy working with clients). This will cause additional expenses since content marketing is a time-consuming process. But in the long run, a blog regularly updated with quality entries is a great proof of your competence as a psychologist and can convert visitors into clients.
 
 Of course, don’t forget to double-check the materials after the writers.
 

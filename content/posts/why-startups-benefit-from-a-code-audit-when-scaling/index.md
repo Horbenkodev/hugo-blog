@@ -13,14 +13,6 @@ industries: []
 categories:
 - Code Audit
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Code Audit Service: Why You Need It"
-}
-</script>
 
 IT projects often take the approach of building first and asking questions later. Why spend time double-checking when product updates need shipping?
 
@@ -67,7 +59,7 @@ There’s one common condition: you must at least have some code to be audited. 
 
 <a name="legacy"></a>
 ### If Legacy Systems are Used
-Technologies and requirements get outdated with time, especially in such a fast-paced industry like software development. Outdated software, hardware, programming languages, and technologies that are still in use are called __legacy systems__. They still fulfill their direct purpose but are difficult and - let’s face it - useless to update due to compatibility problems. 
+Technologies and requirements get outdated with time, especially in such a fast-paced industry like software development. Outdated software, hardware, programming languages, and technologies that are still in use are called __legacy systems__. They still fulfill their direct purpose but are difficult and - let’s face it - useless to update due to compatibility problems.
 
 Code audit identifies cases of legacy systems usage and proposes ways to optimize your solution according to modern requirements.
 
@@ -111,7 +103,7 @@ Before performing the audit, define the scope and risk areas that need to be inv
 If you are constantly developing your software product, running regular audits will help you prevent problems early and will save you from many headaches in the future. How often should you carry out a code audit? It depends. For large and complex solutions involving many developers, we recommend conducting a code audit __every 6 months__. Otherwise, __once a year__ should be just enough to keep your code up-to-date.
 
 <a name="how-we-audit"></a>
-### How We at Anadea Perform Code Audit 
+### How We at Anadea Perform Code Audit
 1. You need to [contact us](https://anadea.info/contacts) and request a code audit service.
 2. Give us access to your source code repository.
 3. Our specialists will perform a code audit with tools specific to the programming languages used.

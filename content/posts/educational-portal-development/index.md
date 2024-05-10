@@ -191,32 +191,3 @@ Cost always depends on many factors and one of the most important of them is the
 ### What can explain the popularity of eLearning portals?
 
 Such solutions can greatly enhance learning experiences. Students can move through the educational journey at their own pace and focus on those topics that are the most challenging or important for them. Students can interact with learning materials at any time of the day from any location. Moreover, very often these portals provide tools for checking knowledge, which helps teachers to better track the progress of their students. As a result, thanks to modern technologies, the learning process becomes more efficient and personalized.
-
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-   "@type": "Question",
-   "name": "How much does it cost to build an e-learning portal?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "Cost always depends on many factors and one of the most important of them is the complexity of your project. If you are planning to launch a solution only with a set of basic features, such services will cost around $25K-$50K. In those cases, when it is required to develop advanced functionality (like AI-powered recommendations or chatbots), the cost may go up to $100K or higher. At Anadea, we provide project cost estimates for free—just leave us a request for proposal."
-    }
-   ]
-  },
-  {
-   "@type": "Question",
-   "name": "What can explain the popularity of eLearning portals?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "Such solutions can greatly enhance learning experiences. Students can move through the educational journey at their own pace and focus on those topics that are the most challenging or important for them. Students can interact with learning materials at any time of the day from any location. Moreover, very often these portals provide tools for checking knowledge, which helps teachers to better track the progress of their students. As a result, thanks to modern technologies, the learning process becomes more efficient and personalized."
-    }
-   ]
-  }
- ]
-}
-</script>

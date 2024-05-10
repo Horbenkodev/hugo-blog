@@ -14,19 +14,10 @@ industries: []
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "User persona for startups"
-}
-</script>
 
+If you are an entrepreneur, who wants to begin your startup, if you are looking for ways to do it in the best possible way, if you worry that the developer or team won’t understand you the way you expect, this article is for you.
 
-If you are an entrepreneur, who wants to begin your startup, if you are looking for ways to do it in the best possible way, if you worry that the developer or team won’t understand you the way you expect, this article is for you. 
-
-Have you ever heard about TheraTactics or Xinja? Both of them are failed startups, which secured funding of $320,000 and $100,600,000 respectively. Everybody knows unicorns and nobody remembers the failed ones. 
+Have you ever heard about TheraTactics or Xinja? Both of them are failed startups, which secured funding of $320,000 and $100,600,000 respectively. Everybody knows unicorns and nobody remembers the failed ones.
 
 Biggest share of a startup's success depends on the correct task formulation, which the startup is meant to solve. Here you can’t manage without understanding emotions that correspond to emotions of the people, whom we consider our target audience.
 
@@ -40,7 +31,7 @@ And we will start with what is the user persona and how to define them correctly
 
 When we offer you to imagine a typical user of your app or service, everything that comes to your mind like characteristics, the entire portrait, circumstances, needs, habits, behavioral patterns will be a user persona, an average image of your typical user.
 
-This way we get an understanding of your target audience, of real people who will use your app. Thus we know what they want and need, their experience and goals, and whether we fit into the picture of their world with our solution. 
+This way we get an understanding of your target audience, of real people who will use your app. Thus we know what they want and need, their experience and goals, and whether we fit into the picture of their world with our solution.
 
 There is a high chance of skipping this step, because it seems so obvious and plain, however, try to sit down and write down some answers, and you will understand how tricky it actually is.
 
@@ -64,7 +55,7 @@ Your product can be compared with a human being - nobody appears super cool and 
 </ul>
 
 ## Methodics
-Finally, we've moved to the most interesting part of how to do it. Let’s get started without delay. 
+Finally, we've moved to the most interesting part of how to do it. Let’s get started without delay.
 
 ### Brainstorm ideas
 
@@ -79,11 +70,11 @@ Give all associations appearing with user persona without any limits. Write down
 * **preferred channels of communication.** Help to understand what kind of channels should be used to sell the product.
 * **persona’s preferred brands and influencers.** Economic and social status, interests.
 
-Let's say we want to develop an app for selling rare orchids. According to our plan, the portrait of our potential customer will look the following way: female of 35-50, married and has kids, is educated, and a housewife from Poland. She is caring, attentive, sociable, and active. Also, she is not tech-savvy. She is into floristics and gardening, handcrafting, and prefers personal communication or over the phone. 
+Let's say we want to develop an app for selling rare orchids. According to our plan, the portrait of our potential customer will look the following way: female of 35-50, married and has kids, is educated, and a housewife from Poland. She is caring, attentive, sociable, and active. Also, she is not tech-savvy. She is into floristics and gardening, handcrafting, and prefers personal communication or over the phone.
 
 The user persona is motivated by enriching her rare orchid collection with new orchids and frustrated by the lack of centralized source for rare orchid purchase and sale. Also, she is frustrated by lack of information about how to take care of the flowers due to the paid involvement of third parties in sale and purchase processes, necessary due to lack of platform, where buyers and sellers would meet directly. She spends an enormous amount of time searching for flowers for her collection that are budget-friendly and for selling her orchids. This information can be easily found on florist forums.
 
-As you can see, persona is a dynamic instrument that provides the information your team needs to effectively do their job. For example, since the target audience are non tech-savvy females, the structure of the solution should be simple and intuitive, onboarding materials and tutorials should be easily understandable and accessible, there should be an opportunity to add photos of flowers and direct communication channel for buyer-seller, so that our user persona is able to get to know all information, that is missing at the moment due to mediation. 
+As you can see, persona is a dynamic instrument that provides the information your team needs to effectively do their job. For example, since the target audience are non tech-savvy females, the structure of the solution should be simple and intuitive, onboarding materials and tutorials should be easily understandable and accessible, there should be an opportunity to add photos of flowers and direct communication channel for buyer-seller, so that our user persona is able to get to know all information, that is missing at the moment due to mediation.
 
 User persona can be modified and completed with big characteristics during the process of learning about the market and problematics. Make sure that you have details about that information’s source and accuracy and enough breadth to represent the range of individuals covered by the persona.
 
@@ -101,6 +92,6 @@ Persona and its key need is a point of synchronization of the whole team. Keepin
 
 ## Сonclusion
 
-A user persona is a simple but powerful tool that makes a huge difference between success and failure and helps to focus on your target audience and its problems. It helps to avoid a few typical mistakes made by entrepreneurs and concentrate on your user. 
+A user persona is a simple but powerful tool that makes a huge difference between success and failure and helps to focus on your target audience and its problems. It helps to avoid a few typical mistakes made by entrepreneurs and concentrate on your user.
 
 We hope that user persona will help you on your startupper’s journey and you will find the creation of a user persona beneficial for the success of your business. If you have any ideas or questions, feel welcome to reach out and share them with us.

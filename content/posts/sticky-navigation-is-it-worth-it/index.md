@@ -18,14 +18,6 @@ industries: []
 categories:
 - UX-UI
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Aaron Chichioco",
- "name": "Sticky Navigation: Is it Worth It?"
-}
-</script>
 
 Web design trends rise and fall like waves in the sea of time. Beneath this attempt at poesy is an undeniable fact. Sure, some best practices, such as <a href="https://redstagfulfillment.com/online-store-work-across-all-devices/" target="_blank">responsive design</a>, seem like they're here to stay, but many will hit the curb in a year or two, if they haven't yet. Sticky navigation has been around for a while, but it's expected to become big this year. Should you incorporate it into your site? It depends.
 
@@ -36,7 +28,7 @@ Web design trends rise and fall like waves in the sea of time. Beneath this atte
 
 ## The main advantages of sticky navigation are:
 
-* **Quicker navigation.** Because the menu remains visible, users can easily move to other parts of your website without having to scroll all the way to the very top. If your site offers long-form content, sticky navigation might help improve user experience. 
+* **Quicker navigation.** Because the menu remains visible, users can easily move to other parts of your website without having to scroll all the way to the very top. If your site offers long-form content, sticky navigation might help improve user experience.
 * **Visible reminders.** The constant presence of the menu bar reminds users that other pages, ones they probably need, are also available. For instance, if they have a question about your service, you can remind them to check out the FAQ that's visible on the menu. You can also invite them to share your <a href="https://blog.sharelov.com/marketers-guide-to-the-top-social-media-trends/" target="_blank">content on social media</a> by placing social icons on your menu.
 * **Minimal distraction.** Although a sticky menu may indeed obscure text or images, they usually take up very little space. This means they can be used even for image-heavy pages, such as galleries, portfolios, and even <a href="https://www.shopify.com/blog/product-page-increase-conversions" target="_blank">product pages</a>.
 * **Visible branding.** You could place your logo on the menu and keep it visible and readily available for recall through sticky navigation.
@@ -63,7 +55,7 @@ If you do plan to incorporate sticky navigation, you can do so easily if your we
 
 3. Enable the Sticky Header option and modify the settings as needed. Take note that Sticky Header Offset determines when the header transforms into a sticky header. Sticky Header Behavior decides how the sticky header behaves.
 
-<center><img src="5.png" alt="Header 
+<center><img src="5.png" alt="Header
  settings" style="width: 50%;"></center>
 <center><sub>Image credit: Themes.ArtBees.com</sub></center>
 
@@ -84,7 +76,7 @@ If you do plan to incorporate sticky navigation, you can do so easily if your we
 
 ### Creating your own sticky header with HTML and CSS
 
-But what if your site was not built using WordPress? Then you'll have to <a href="https://anadea.info/blog/what-to-focus-on-when-making-a-code-review" target="_blank">code the header</a> yourself. 
+But what if your site was not built using WordPress? Then you'll have to <a href="https://anadea.info/blog/what-to-focus-on-when-making-a-code-review" target="_blank">code the header</a> yourself.
 
 1. In creating your HTML file, make sure you have the right `<!DOCTYPE html>`, `<head>`, and `<body>` tags.
 2. Put a `<div>` tag inside another `<div>` tag, inside yet another `<div>` tag. These are important as the innermost `<div>` will be for the content while the rest will be for the container of the content.

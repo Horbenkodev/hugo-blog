@@ -17,14 +17,6 @@ industries:
 categories:
 - UX-UI
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "UX Tips to Boost Sales on Your Real Estate Website"
-}
-</script>
 
 Every owner of a real estate selling website wants his website to become some kind of a sensation in a housing market and generate leads constantly. Sometimes humble applications with the right idea, and just as important, an outstanding design can grow into a nationwide solution like it happened with one of our projects <a href="https://anadea.info/projects/agentfolio" target="_blank">Agentfolio</a>, an extremely useful tool for buyers and brokers which helped them to navigate the process of buying properties. However...
 
@@ -42,9 +34,9 @@ So, what we are talking about? What is user experience and how it can help to bo
 
 ## UX for real estate website. What you need to know about it
 
-Whether you punch in buttons of a calculator, play a video game on your PlayStation, or try to control drones with your mind (yeah, that's possible) - all these are interfaces, with the help of which you interact with devices. And interaction implies some purpose or need. The main goal of UI/UX designers is to bring the user to some logical point in the easiest and fastest way. 
+Whether you punch in buttons of a calculator, play a video game on your PlayStation, or try to control drones with your mind (yeah, that's possible) - all these are interfaces, with the help of which you interact with devices. And interaction implies some purpose or need. The main goal of UI/UX designers is to bring the user to some logical point in the easiest and fastest way.
 
-If we transfer this into the context of website design for real estate, we'll see an experience - a set of actions and emotions that the user receives while working with the interface of your website including achievement of goals, i.e. to buy a home, rent an apartment, or sell realty. 
+If we transfer this into the context of website design for real estate, we'll see an experience - a set of actions and emotions that the user receives while working with the interface of your website including achievement of goals, i.e. to buy a home, rent an apartment, or sell realty.
 
 Now that we've figured out what is UX design, let's move on to how to <a href="https://anadea.info/blog/emotionally-intelligent-design-why-you-need-it-in-your-mobile-app" target="_blank">create positive emotional bonds</a> with customers and get more sales with the help of user experience design for real estate website.
 
@@ -66,21 +58,21 @@ Rest assured, the main reason for users to visit your website is hunting or sell
 
 <center><img src="filters.png" alt="Apartment renting app - filters" style="width: 80%;"/></center>
 
-**3. Keep the original text of the query.** Don't delete the query after the search button is pressed. If a user doesn't find houses and apartments that he needs he will want to slightly change the query instead of retyping it. And we already know that users prefer easy actions. 
+**3. Keep the original text of the query.** Don't delete the query after the search button is pressed. If a user doesn't find houses and apartments that he needs he will want to slightly change the query instead of retyping it. And we already know that users prefer easy actions.
 
-**4. Remove ads and pop-ups that block content.** Or reduce the area of intrusive advertising forms if they cannot be entirely avoided because users hate when something interrupts their browsing experience. And be sure to turn off the autoplaying video ad. 
+**4. Remove ads and pop-ups that block content.** Or reduce the area of intrusive advertising forms if they cannot be entirely avoided because users hate when something interrupts their browsing experience. And be sure to turn off the autoplaying video ad.
 
 **5. Improve search experience on small screens.** Smart phones can be perceived as necessary tools for house hunters - anytime anywhere ready to search for listings, take pictures of houses they like, contact a realtor to appoint home visits. Therefore for real estate business, it is especially worth paying attention to mobile design. What you should include:
 
-* GPS search - technology that provides information based on the location of a user. Especially useful when a homebuyer is outside. 
-* Search by area - let renters and home buyers outline the area they want to focus on. 
+* GPS search - technology that provides information based on the location of a user. Especially useful when a homebuyer is outside.
+* Search by area - let renters and home buyers outline the area they want to focus on.
 * Neighborhood area - show the properties for sale around the neighborhoods users want to live in.
 
 <center><img src="https://cdn.dribbble.com/users/578664/screenshots/2565756/hotelsdribbble-1.7.gif" alt="Apartment renting app - search" style="width: 80%;"/></center>
 
-**6. Show credibility and reviews of agents.** The Internet has accustomed us to make decisions based on the experience of others. The more positive experiences there are, the more satisfied with the decision we are. The same applied to real estate buyers and sellers. They also choose agents, building upon the results of the reviews. 
+**6. Show credibility and reviews of agents.** The Internet has accustomed us to make decisions based on the experience of others. The more positive experiences there are, the more satisfied with the decision we are. The same applied to real estate buyers and sellers. They also choose agents, building upon the results of the reviews.
 
-**7. Use prompting CTA buttons.** In a real world, objects are telling us how we should interact with them - turn, press, push. When a user wants to solve some task, he is automatically looking for tools and objects that may help him to do that. Buttons on physical devices cast shadows, which compels you to press on them. It is possible to create such shadows for buttons in realty website design. 
+**7. Use prompting CTA buttons.** In a real world, objects are telling us how we should interact with them - turn, press, push. When a user wants to solve some task, he is automatically looking for tools and objects that may help him to do that. Buttons on physical devices cast shadows, which compels you to press on them. It is possible to create such shadows for buttons in realty website design.
 
 ## Real estate web development and UX. Where to start
 

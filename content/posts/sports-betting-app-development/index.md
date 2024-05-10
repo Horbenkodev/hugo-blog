@@ -185,32 +185,3 @@ Sports betting applications are software solutions that allow users to make bets
 ### Who can build a betting app for me?
 
 When you need to develop a software solution, you have several options. You can hire an in-house team, work with freelancers, or establish cooperation with a software development company that provides such services. In the majority of cases, the third option turns out to be the most efficient and feasible one. Though there are a lot of companies that offer similar services today, we highly recommend you work with a team that has a proven track record in building solutions for the sports industry and has a deep understanding of market trends.
-
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-   "@type": "Question",
-   "name": "What is a sports betting app?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "Sports betting applications are software solutions that allow users to make bets on sports matches and games. Using such an application, people can choose players, teams, or events as well as the amount of money that they are ready to wager. Such an application is able to monitor the game process and users are provided with the possibility to see the results. If a person wins, the reward will be sent to his or her account."
-    }
-   ]
-  },
-  {
-   "@type": "Question",
-   "name": "Who can build a betting app for me?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "When you need to develop a software solution, you have several options. You can hire an in-house team, work with freelancers, or establish cooperation with a software development company that provides such services. In the majority of cases, the third option turns out to be the most efficient and feasible one. Though there are a lot of companies that offer similar services today, we highly recommend you work with a team that has a proven track record in building solutions for the sports industry and has a deep understanding of market trends."
-    }
-   ]
-  }
- ]
-}
-</script>

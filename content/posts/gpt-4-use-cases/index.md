@@ -138,31 +138,3 @@ GPT-4 is a multimodal large language model that can work with text content and i
 ### Is GPT-4 better than GPT-3?
 
 Though the word "better" may be not the most suitable one to characterize the difference between these two versions of the large language model, GPT-4 is more advanced than GPT-3. GPT-4 is able to provide more accurate, creative, and relevant responses. But what is even more special about it is that it can generate not only text but also images. And this feature greatly expands GPT-4 use cases in comparison to GPT-3.
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-   "@type": "Question",
-   "name": "What is GPT-4?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "GPT-4 is a multimodal large language model that can work with text content and images. It was developed by OpenAI and it's already the fourth LLM in the company's series. It is interesting to note that GPT is an abbreviation of the word combination 'Generative Pre-trained Transformer 4.'"
-    }
-   ]
-  },
-  {
-   "@type": "Question",
-   "name": "Is GPT-4 better than GPT-3?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "Though the word 'better' may be not the most suitable one to characterize the difference between these two versions of the large language model, GPT-4 is more advanced than GPT-3. GPT-4 is able to provide more accurate, creative, and relevant responses. But what is even more special about it is that it can generate not only text but also images. And this feature greatly expands GPT-4 use cases in comparison to GPT-3."
-    }
-   ]
-  }
- ]
-}
-</script>

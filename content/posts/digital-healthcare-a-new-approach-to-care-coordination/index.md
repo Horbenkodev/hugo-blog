@@ -16,15 +16,6 @@ industries:
 - Healthcare
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Digital Healthcare: A New Approach to Care Coordination"
-}
-</script>
-
 Healthcare is changing, it is going digital, and this is good news for patients, healthcare providers, as well as <a href="https://anadea.info/solutions/medical-app-development" target="_blank">medical software development services</a>.
 
 From telemedicine to genomics, digital transformation in healthcare industry has the potential to improve patient outcomes, make healthcare as much about prevention as curative treatments, and reduce the overall cost of medical treatment.

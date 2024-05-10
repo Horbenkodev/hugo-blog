@@ -15,14 +15,6 @@ categories:
 - Mobile
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Cross Platform Mobile App Development Best Practices"
-}
-</script>
 **Often in our practice, we, as a cross-platform development company, face the following questions: Will cross-platform do for my business? What benefits will I get if I choose cross-platform app development? How much does it cost to develop a cross-platform app? On these, and other questions, you’ll find a solid answer as far as you read this article.**
 
 <h2>Table of contents</h2>
@@ -46,7 +38,7 @@ categories:
 
 <a name="benefits"></a>
 ## When is cross platform mobile app development beneficial?
-Often, cross-platform apps are chosen by startups and small businesses for low cost mobile app development. Also, there are other cases, when you should pay your attention to this option, when solving the dilemma - native app development or cross platform. 
+Often, cross-platform apps are chosen by startups and small businesses for low cost mobile app development. Also, there are other cases, when you should pay your attention to this option, when solving the dilemma - native app development or cross platform.
 
 ![benefits.png](benefits.png)
 ## What are the constraints of cross-platform app development?
@@ -54,7 +46,7 @@ Cross-platform app development may reduce development costs, provide shorter tim
 
 ![constraints.png](constraints.png)
 <a name="cross-platform-platforms"></a>
-## Which programming language is the best for cross-platform? 
+## Which programming language is the best for cross-platform?
 According to Statista, software developers prefer using Flutter among other cross platform app development frameworks in the first place in 2021. This is easy to understand, as, from the engineers’ point of view, it possesses a range of useful things:
 
 **Stability** - Because Flutter possesses its own rendering engine, the apps developed on it are not affected by any OS update. Their interface will still look the same way. One more aspect of Flutter’s stability is version compatibility.

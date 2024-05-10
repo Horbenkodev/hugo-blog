@@ -16,15 +16,6 @@ industries: []
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "How Gamification in the Workplace Impacts Employee Productivity"
-}
-</script>
-
 > Happy employees are more productive. Staff who enjoy their work perform better, work harder and stay with a company longer.
 
 Gamification is one-way employers are making work for staff more enjoyable. Tapping into our need for instant rewards, gratification and feedback, gamification tools are an effective way to engage employees, improve productivity and reduce staff turnover.

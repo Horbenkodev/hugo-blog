@@ -318,32 +318,3 @@ Of course, it is possible and only you can make the right decision based on your
 ### Why should I invest in mobile enterprise application development?
 
 Given all the benefits and new opportunities that your employees can leverage, it can become a very sensible investment. Such mobile apps can help you streamline a lot of processes, solve many tasks on the go, and enhance their visibility. They can also contribute to the increase in the quality of your services and general customer satisfaction.
-
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-   "@type": "Question",
-   "name": "Can I use a ready-made solution instead of a custom enterprise mobile app?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "f course, it is possible and only you can make the right decision based on your ongoing business needs. Nevertheless, it is necessary to understand that only a custom application will fully correspond to your requirements. Such an app will fully reflect the peculiarities of your business activities and will perfectly cope with the set tasks. Though ready-made solutions often can be customized, they do not have the desired flexibility and will never address all your business needs and goals."
-    }
-   ]
-  },
-  {
-   "@type": "Question",
-   "name": "Why should I invest in mobile enterprise application development?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "Given all the benefits and new opportunities that your employees can leverage, it can become a very sensible investment. Such mobile apps can help you streamline a lot of processes, solve many tasks on the go, and enhance their visibility. They can also contribute to the increase in the quality of your services and general customer satisfaction."
-    }
-   ]
-  }
- ]
-}
-</script>

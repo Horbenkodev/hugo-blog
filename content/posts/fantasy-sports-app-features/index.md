@@ -14,14 +14,6 @@ industries:
 - Sports
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "What Kind of Features Should a Fantasy Sports App Include?"
-}
-</script>
 <h2>Contents</h2>
 <ol>
  <li><a href="#must-have-features">Must-have features</a>
@@ -31,7 +23,7 @@ categories: []
    </ul>
  </li>
  <li><a href="#advanced-features">Advanced features</a>
- <li><a href="#conclusions">Conclusions</a>  
+ <li><a href="#conclusions">Conclusions</a>
 
  </li>
 </ol>
@@ -164,6 +156,6 @@ With the help of the earning withdrawal feature, users can see their earnings an
 
 ## Conclusions ##
 
-To conclude, fantasy sports apps are a very prospective direction for development and investment. The worth of only the global fantasy football industry is expected to grow by $1 billion by 2026. Depending on the number of features you want to include, the cost and time necessary for app development will be determined. 
+To conclude, fantasy sports apps are a very prospective direction for development and investment. The worth of only the global fantasy football industry is expected to grow by $1 billion by 2026. Depending on the number of features you want to include, the cost and time necessary for app development will be determined.
 
 If you are a bit overwhelmed, it's better to ask an experienced team. You may always drop us a line and we'll be glad to estimate the cost and time necessary for the development process of your app. We have necessary expertise and technological stack to help you turn your vision into reality.

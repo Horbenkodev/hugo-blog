@@ -16,17 +16,9 @@ industries: []
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Outsourcing to Europe: Where to Start?"
-}
-</script>
 
-The other day I got really tired after working at my desktop computer so I promised myself to spend the weekend without any gadgets or screens. Guess what? I couldn't live a full life. I had problems paying for my flat, ordering a taxi, getting in touch with friends, making an appointment with my doctor for the next week, reading and simply checking the time. I'm not talking about setting alarms or watching a film online. I'm quite sure that this list will be more or less the same for many people around the globe. Undoubtedly, technology has deeply penetrated into our day-to-day life and has stopped being a luxury, but is rather a necessity now. 
-	
+The other day I got really tired after working at my desktop computer so I promised myself to spend the weekend without any gadgets or screens. Guess what? I couldn't live a full life. I had problems paying for my flat, ordering a taxi, getting in touch with friends, making an appointment with my doctor for the next week, reading and simply checking the time. I'm not talking about setting alarms or watching a film online. I'm quite sure that this list will be more or less the same for many people around the globe. Undoubtedly, technology has deeply penetrated into our day-to-day life and has stopped being a luxury, but is rather a necessity now.
+
 ## A bandwagon
 
 The IT industry is one of the fastest-growing and most dynamic areas of business in the world today. Despite the fact that a career in software development can be highly creative and rewarding, many people in some countries choose it simply because it provides a decent salary and a stable lifestyle.
@@ -47,7 +39,7 @@ The main countries which are definitely gaining more and more popularity in the 
 
 ## Poland
 
-* According to 
+* According to
 <a href="https://www.atkearney.com/strategic-it/global-services-location-index" rel="nofollow" target="_blank">this year's Global Services Location Index (GSLI)</a> that analyzes countries in terms of financial attractiveness, human resources, skills availability and business environment, Poland occupies **the 10th place** and is the top European country on this list;
 * **Economic and political stability**. Throughout the slowdown of the global economy in 2009-2010, only Poland had a growth of GDP among other European countries. Also after joining the EU in 2004 it managed to hold onto its currency rather than adopting the Euro;
 * **IT and software development services** have become Poland's biggest employment sector. Big IT companies (IBM, Intel, Google and Motorola) have already set operations there;
@@ -57,7 +49,7 @@ The main countries which are definitely gaining more and more popularity in the 
 * Polish IT professionals successfully take part in such **competitions** as <a href="https://www.imaginecup.com/custom/2016Winners_Challenges" rel="nofollow" target="_blank">Microsoft Imagine Cup</a>, <a href="https://codingcompetitions.withgoogle.com/codejam" rel="nofollow" target="_blank">Google Code Jam</a> and even became <a href="http://www.ibtimes.co.uk/poland-crowned-first-ever-coding-world-champions-1452146" rel="nofollow" target="_blank">Coding World Champions</a> in 2014;
 * 1 hour time difference with the UK as well as enough **overlapping hours** with the US;
 * The Polish share European values and have **a smaller culture gap** if compared to Asia;
-* **Language compatibility**. English is widely used throughout the country, software developers there are not an exception and possess good language skills.	 
+* **Language compatibility**. English is widely used throughout the country, software developers there are not an exception and possess good language skills.
 
 ## Ukraine
 
@@ -70,8 +62,8 @@ The main countries which are definitely gaining more and more popularity in the 
 * Thanks to its **geographical position**, Ukraine has a west-oriented mentality, which results in business and cultural values shared by both European and American nations;
 * **Low accommodation and living costs**;
 * **Strong educational system**: 87% of school leavers choose to get a higher education and 35% of them study in IT related spheres;
-* **English language proficiency** is a must for any IT professional in Ukraine; 
-* When you outsource to Ukraine you also get **a good price/value balance**.	 	 	
+* **English language proficiency** is a must for any IT professional in Ukraine;
+* When you outsource to Ukraine you also get **a good price/value balance**.
 
 ## Bulgaria
 
@@ -86,14 +78,14 @@ The main countries which are definitely gaining more and more popularity in the 
 * According to <a href="http://www.outsourcing-destinations.org/Downloads/BULGARIA_GUIDE_FINAL_51.pdf" rel="nofollow" target="_blank">Outsourcing Destination Guide</a>, "The city (Sofia) is reported to have the highest percentage of **graduates holding technical degrees in IT and engineering** across the whole CEE region".
 
 ## Romania
- 	 	 	
+
 * The EU membership (since 2007) helps to reduce legal and financial concerns and ensure **political and economic stability**;
 * Salaries are generally lower than in the majority of European countries like the UK, Germany, Poland or the Czech Republic, thus you have more chances of getting **reasonable prices** for the provided quality service;
 * **A highly skilled labor pool**;
 * According to this year's A.T. Kearney Global Services Location, Romania has risen 5 positions and **is now 13th** among the most attractive European outsourcing locations. "About 50,000 Romanians work in the outsourcing industry, and the country has a deep pool of skilled IT workers to draw on";
 * In 2015 Romania's high-speed broadband internet **<a href="https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds" rel="nofollow" target="_blank">was ranked 10th</a>** worldwide (and first among European countries), which makes outsourcing to Romania convenient and smooth;
 * **Flexible time zones**. Romanian devs are able to work during daytime with worldwide clients;
-* **Good intercultural and communication skills** due to the fact that Romanians often study or work in other European countries, which really helps to do business with the English speaking part of the world;	 	 	 	
+* **Good intercultural and communication skills** due to the fact that Romanians often study or work in other European countries, which really helps to do business with the English speaking part of the world;
 * Romania has about 50 offshore centres owned by large international IT vendors, 30% of which are IT services-related.
 
 ## It's up to you to decide

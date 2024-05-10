@@ -17,16 +17,7 @@ industries: []
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Kristen Youngs",
- "name": "The Pros and Cons of Hiring a Development Team Vs. a Tech Co-Founder"
-}
-</script>
-
-In 2022, gross consumer mobile app spending amounted to 167 billion U.S. dollars. So if you're searching for a way to get your own app idea into the hands of users, there's never been a better time. The app market isn't just booming... it's exploding. 
+In 2022, gross consumer mobile app spending amounted to 167 billion U.S. dollars. So if you're searching for a way to get your own app idea into the hands of users, there's never been a better time. The app market isn't just booming... it's exploding.
 
 Of course, adding your app to the mix of all the others raking in billions of dollars is easier said than done, especially if you're a founder without a technical background.
 
@@ -74,7 +65,7 @@ On the flip side, of course, there are negatives to seeking a co-founder, too.
 
 To put it simply, finding a co-founder is sort of like finding a spouse. You need someone who's your perfect equal — a partner to balance out your weaknesses, be 100% as into the end goal as you, and be an enjoyable person to work with.
 
-Look at it this way: Chances are, if you're married, you didn't meet your spouse on your first date. And if you're not married, how many bad dates have you gone on up to this point? Finding that match wasn't (or isn't) easy. The process of finding the right tech co-founder can be just as trying. 
+Look at it this way: Chances are, if you're married, you didn't meet your spouse on your first date. And if you're not married, how many bad dates have you gone on up to this point? Finding that match wasn't (or isn't) easy. The process of finding the right tech co-founder can be just as trying.
 
 At the end of the day, you're searching for someone who's as passionate about your idea as you are. The thing is, it's your idea — not theirs. Sure, they might be 90% of the way there, but that lacking 10% can leave your application at a loss down the road.
 
@@ -126,7 +117,7 @@ Co-founders aren't tied to your app, startup, or company for life. Yes, they can
 
 Co-founders can easily hold 30% or more of your company. When they leave, in most cases, <a href="https://www.startupcfo.ca/2016/01/when-founders-leave/" target="_blank">it's just like a divorce</a>. Who gets to keep what?
 
-When searching for a co-founder, you have to go in with the expectation of them someday potentially leaving. That means hiring an attorney to create a business prenup of sorts because you need to be prepared. 
+When searching for a co-founder, you have to go in with the expectation of them someday potentially leaving. That means hiring an attorney to create a business prenup of sorts because you need to be prepared.
 
 The thing is, even when you are prepared, a co-founder leaving can shake your business hard enough to cause some serious backlash. What if you can't find the right replacement in time, or ever?
 
@@ -148,7 +139,7 @@ How hard would it be to find:
 
 Not very, right? Sure, there'd still be options to consider and interviews to conduct, but that's the thing — you'd have options, and lots of them.
 
-Now, think about how hard it'd be to find a single person who's an expert in all those areas (which is ideally what you'd want in a co-founder). 
+Now, think about how hard it'd be to find a single person who's an expert in all those areas (which is ideally what you'd want in a co-founder).
 
 It'd be nearly impossible, right?
 
@@ -178,7 +169,7 @@ Working with a development team might require you to shift your own time-frame o
 
 Just like with finding a co-founder, you'll need to search to find the right development team for your project. Fortunately, the search isn't nearly as hard, but there are still aspects to be aware of.
 
-The search for a development team will require you to do your fair share of Googling or reference searching. You'll also need to reach out to companies for quotes, estimates, and to get a general feel of whether or not they're the right fit. After the initial searching is over, you'll likely need to get on calls or do interviews to make sure everyone's on the same page before moving forward. 
+The search for a development team will require you to do your fair share of Googling or reference searching. You'll also need to reach out to companies for quotes, estimates, and to get a general feel of whether or not they're the right fit. After the initial searching is over, you'll likely need to get on calls or do interviews to make sure everyone's on the same page before moving forward.
 
 No, it's not as time consuming or difficult as finding a tech co-founder, but there's still a process involved. Here's a great wrap up of things to look for when hiring a development team.
 

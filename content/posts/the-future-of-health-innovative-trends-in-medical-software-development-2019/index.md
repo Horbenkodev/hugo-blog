@@ -14,15 +14,6 @@ industries:
 categories:
 - Trends
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "The Future of Health Technology: Innovative Healthcare Trends 2023"
-}
-</script>
-
 Medicine is an area where technology is always welcome. The transformation of healthcare with the help of digital technologies is happening all over the world. How do modern technologies shape the direction of <a href="https://anadea.info/solutions/medical-app-development" target="_blank">custom healthcare software development services</a> and what prospects are drawn in the future? Let's find out.
 
 ## Artificial intelligence in healthcare will cure everyone
@@ -92,7 +83,7 @@ When it comes to trends in healthcare industry, it becomes noticeable that healt
 
 * __Patient data storage.__ Now all medical data is stored in electronic databases on the side of clinics. As users, patients do not have any mechanisms to control what is happening with their medical records. Theoretically, this information can be transferred to unknown organizations, or simply lost.
 <br><br>Or to put it another way - having arrived in another country in the case of medical problems you become a mystery to doctors. If a foreigner requires an operation, the surgeon has no idea what problems the patient has experienced before. Maybe he or she has contraindications for anesthesia. All the information he needs to receive from the words of a patient who may forget something important or simply be unconscious.
-<br><br>If we transfer the information to the blockchain, the patient themself can provide access to his or her data to physicians or research organizations. 
+<br><br>If we transfer the information to the blockchain, the patient themself can provide access to his or her data to physicians or research organizations.
 
 > __Example:__ <a href="https://anadea.info/projects/vivum-health" target="_blank">Vivum Health</a> developed a system that facilitates access to all vital patient data and leads to better medical outcomes.
 <picture>
@@ -140,7 +131,7 @@ Specialization of ERP systems is developing since every industry requires a solu
 * __ERP becomes intelligent.__ ERP systems continue to improve to solve business tasks effectively. Intelligent ERP medical software offers something more than ordinary ERP systems. It combines cloud computing, machine learning, and intelligent analytics for providing unique data. A huge step forward is the development of ERP with AI and the tendency points out that AI will be a necessary part of healthcare ERP systems.
 
 ## The future healthcare IT trends are far more interesting
-It's truly remarkable how modern advancements in science and technology have made once impossible feats achievable without any wizardry. Healthcare has especially benefited from these miracles, with the development of real-life cyborgs whose bodies are enhanced by technology, nanobots that roam through the bloodstream to eliminate harmful bacteria, and digital tattoos that can measure heart or brain activity. 
+It's truly remarkable how modern advancements in science and technology have made once impossible feats achievable without any wizardry. Healthcare has especially benefited from these miracles, with the development of real-life cyborgs whose bodies are enhanced by technology, nanobots that roam through the bloodstream to eliminate harmful bacteria, and digital tattoos that can measure heart or brain activity.
 
 The progress in medical software development has been impressive and innovative, and who knows what incredible possibilities may emerge in the next 20 years? Perhaps we'll even be able to program a Bishop-like figure, as in the "Aliens" movie. It's worth noting that just over a century ago, the idea of exchanging instant messages across the globe with millions of gigabytes of information would have seemed far-fetched to most people.
 

@@ -16,14 +16,6 @@ industries: []
 categories:
 - Retail
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Retail Business Goes Mobile: How to Create a Good Retail App?"
-}
-</script>
 
 It's mind-blowing! A couple of years ago they said that the number of smartphones exceeded the number of toothbrushes - fact or fiction, who knows, and now… we've already got a <a href="https://itunes.apple.com/lu/app/oral-b-app/id698092608?mt=8" rel="nofollow" target="_blank">mobile app for electric toothbrushes</a>. Why do you think that apps are being created left, right and center? Because everyone and their mom seems to be smartphone holics. We all love facts and digits. So, here are some statistics on <a href="https://techcrunch.com/2018/01/17/global-app-downloads-topped-175-billion-in-2017-revenue-surpassed-86-billion/" rel="nofollow" target="_blank">app downloads, revenue</a>, <a href="https://techcrunch.com/2018/01/16/time-spent-in-apps-grew-just-6-last-year-down-from-11-in-2017/" rel="nofollow" target="_blank">time spent in apps</a> and some pieces of data on why mobile apps are useful for retail business.
 
@@ -33,7 +25,7 @@ It's mind-blowing! A couple of years ago they said that the number of smartphone
 
 As you can see, whilst overall mobile session growth was just 6%, the usage of shopping apps was up 54% in 2017. According to <a href="https://www.statista.com/statistics/461395/us-retail-app-download/" rel="nofollow" target="_blank">Statista</a>, nearly 80% of U.S. consumers already have at least 1 retailer app on their smartphone. Thus, retail customers are getting increasingly comfortable with purchases via their mobile devices.
 
-Many consumers, who have already used retail apps, find it easier to do so than shopping in-store or through the website. So, don't let your competitors to capture the attention of your potential customers by hitting the home screens of smartphones with their own retail apps. Keep reading to find out how to develop a mobile app for retail business, which features to include in it and how much it would cost. 
+Many consumers, who have already used retail apps, find it easier to do so than shopping in-store or through the website. So, don't let your competitors to capture the attention of your potential customers by hitting the home screens of smartphones with their own retail apps. Keep reading to find out how to develop a mobile app for retail business, which features to include in it and how much it would cost.
 
 ## Examples first. Retail businesses who successfully use mobile apps
 
@@ -49,7 +41,7 @@ Nearly one-third of the U.S. population visits the stores of this company every 
 
 ![IKEA augmented reality app](Ikea_app.jpg)
 
-Homeware giant **IKEA** opened new horizons with augmented reality app. The <a href="https://itunes.apple.com/us/app/ikea-place/id1279244498?mt=8&ign-mpt=uo%3D4" rel="nofollow" target="_blank">Ikea Place</a> allows youe to place virtual copies of furniture in the home space: "arrange" sofas, tables, chairs, "hang" the shelves on the walls. The user is able to check how a particular product looks in the interior of his house, and purchase it. 
+Homeware giant **IKEA** opened new horizons with augmented reality app. The <a href="https://itunes.apple.com/us/app/ikea-place/id1279244498?mt=8&ign-mpt=uo%3D4" rel="nofollow" target="_blank">Ikea Place</a> allows youe to place virtual copies of furniture in the home space: "arrange" sofas, tables, chairs, "hang" the shelves on the walls. The user is able to check how a particular product looks in the interior of his house, and purchase it.
 
 So here are Walmart, Sephora, IKEA successful retail stores. What things do they have in common? All these retail companies have their own mobile applications. They note the increase in the number of loyal customers and, as a result, the growth of their sales. So what does custom [mobile app development](https://anadea.info/services/mobile-development) for retail business start with? Let's find out.
 
@@ -63,7 +55,7 @@ Mobile development is somewhat reminiscent of shooting a movie: if you want a te
 
 * **Outsourcing.** There are a few choices here. You can hire a bunch of freelancers and assign various parts of development to them. There are lots of candidates on freelancer platforms and it seems like a good option. The dark side is that interviewing each of them, assessing their skills and managing a distributed team consisting of freelancers requires quite a lot of time and efforts.
 
-  Another way to create a mobile app for retail store is to outsource it to a software company with a good track record in [retail software development](https://anadea.info/solutions/retail-software-development) and which can take your app through all stages of the development process. This is a more frictionless option that retains the same flexibility and cost-effectiveness as hiring freelancers while ensuring quality, efficiency and faster time-to-market for your app. 
+  Another way to create a mobile app for retail store is to outsource it to a software company with a good track record in [retail software development](https://anadea.info/solutions/retail-software-development) and which can take your app through all stages of the development process. This is a more frictionless option that retains the same flexibility and cost-effectiveness as hiring freelancers while ensuring quality, efficiency and faster time-to-market for your app.
 
 So, which development path to choose for your retail business app? This depends on the complexity of your application and your own views on how the development process should go. In any case, you have to take this choice very seriously as it will impact cost, duration and quality of your project.
 
@@ -91,17 +83,17 @@ Having clear answers to these questions is important it it will help a software 
 
 **A retail app is a mobile application that facilitates and enriches the in-store shopping experience, improves the purchase process, provides new innovative ways to make purchase and interact with your brand for your customers.**
 
-Domino, an omnichannel 57-year-old pizza company, puts strong emphasis on innovation and removing friction from the customer experience. Nowadays, over 60% of their orders are received digitally with more than half of those orders placed through mobile. And the gem in their armory for providing friction-free purchase experience is <a href="https://www.dominos.com.au/inside-dominos/technology/zeroclick" rel="nofollow" target="_blank">Zero Click app</a> with a zero-click ordering feature! The customer simply opens the app, waits for 10 seconds and the order is automatically placed. That's it! 
+Domino, an omnichannel 57-year-old pizza company, puts strong emphasis on innovation and removing friction from the customer experience. Nowadays, over 60% of their orders are received digitally with more than half of those orders placed through mobile. And the gem in their armory for providing friction-free purchase experience is <a href="https://www.dominos.com.au/inside-dominos/technology/zeroclick" rel="nofollow" target="_blank">Zero Click app</a> with a zero-click ordering feature! The customer simply opens the app, waits for 10 seconds and the order is automatically placed. That's it!
 
-> Embracing innovation in order to make a purchase so amazingly easy and fast is something that most people want today and something that can turn them into your loyal customers. 
+> Embracing innovation in order to make a purchase so amazingly easy and fast is something that most people want today and something that can turn them into your loyal customers.
 
-However, it often happens that retail businesses want to squeeze out the maximum from their mobile apps and add too many features from the start. The app becomes heavy and complex - consumers may not want to "clog" their phones with such an app and may get lost in all available options. If you still "want them all!" this would be reasonable to start from [building an MVP](https://anadea.info/guides/what-is-mvp) - a light version with a simple and understandable flow, and then gradually add new features. 
+However, it often happens that retail businesses want to squeeze out the maximum from their mobile apps and add too many features from the start. The app becomes heavy and complex - consumers may not want to "clog" their phones with such an app and may get lost in all available options. If you still "want them all!" this would be reasonable to start from [building an MVP](https://anadea.info/guides/what-is-mvp) - a light version with a simple and understandable flow, and then gradually add new features.
 
 Modern technologies deliver nearly endless features list for a mobile app. Let's name some functionalities that apps for retail business can benefit from:
 
 ![Mobile app features list](Mobile_app_features.jpg)
 
-**Product finder.** If you are going to offer your customers hundreds of items, add smart search to your app. It is more convenient to find everything that is available under the given characteristics (for example, color, size, collection) rather than to scroll through the pages of the catalog. A camera-based search feature would be very useful for mobile apps of fashion offline and online retail businesses. <a href="https://techcrunch.com/2017/08/10/asos-adds-search-by-photo-to-its-fashion-ecommerce-app/" rel="nofollow" target="_blank">Asos app</a> is a great example of successful implementation of this feature. 
+**Product finder.** If you are going to offer your customers hundreds of items, add smart search to your app. It is more convenient to find everything that is available under the given characteristics (for example, color, size, collection) rather than to scroll through the pages of the catalog. A camera-based search feature would be very useful for mobile apps of fashion offline and online retail businesses. <a href="https://techcrunch.com/2017/08/10/asos-adds-search-by-photo-to-its-fashion-ecommerce-app/" rel="nofollow" target="_blank">Asos app</a> is a great example of successful implementation of this feature.
 
 **QR code reader.** Customers, as well as in-store staff, will appreciate QR-scanner in your app since they do not need to type the name of the product manually. They can simply scan the QR code with their smartphone and the app will provide them with product information, reviews, shopping trends, etc. Getsocio QR/barcode scanner, for example, can do it.
 
@@ -115,8 +107,8 @@ So, while creating apps for retail stores, it is necessary to keep them simple a
 
 ## Mobile apps for retail industry: from idea to cost
 
-*How much will it cost to develop my app?* This is the question that many clients ask software companies before even explaining what they actually want to do. Those who want to create a retail app are not an exception and the cost of development can range from as little as a few thousand dollars for a basic app to tens of thousands of dollars for savvy custom apps. You can even try some DIY mobile app builders for just a few bucks if their built-in components are sufficient for your app idea. However, the vast majority of business apps requires custom development. 
- 
+*How much will it cost to develop my app?* This is the question that many clients ask software companies before even explaining what they actually want to do. Those who want to create a retail app are not an exception and the cost of development can range from as little as a few thousand dollars for a basic app to tens of thousands of dollars for savvy custom apps. You can even try some DIY mobile app builders for just a few bucks if their built-in components are sufficient for your app idea. However, the vast majority of business apps requires custom development.
+
 The key factors that define the cost of building your retail app are:
 * **Size and scale of the app.** It is quite obvious that the more features you want to add, the more advanced these features are, the more devices and platforms the app should be designed for, the more integrations with third-party services are needed and the more elaborated app management system is required, the higher the app development cost is.
 * **Design and development rates.** Though size and scale of the app define the time needed to make it, the rates of developers vary significantly (from $15/hr to over $200/hr) depending on their country income level. So, with the same timeframe and level of quality, the final cost for building an app with US/UK developers may be a few times more expensive than with developers from countries like Ukraine or Belarus.

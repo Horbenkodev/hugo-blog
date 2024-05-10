@@ -15,15 +15,6 @@ categories:
 ---
 Code that’s initially flawless is almost as real as unicorns. Even NASA has malfunctions. Neglecting [Quality Assurance](https://anadea.info/services/quality-assurance) (QA) can result in serious challenges. Below, you’ll find out who is in charge of the quality of your software product and why QA is essential on IT projects. 
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Margareth",
- "name": "Who are Quality Assurance Engineers and Why You Need Them for Your Project"
-}
-</script>
-
 <h2>Table of Contents</h2>
 <ol>
 <li><a href="#who-are">Who are QA Engineers?</a></li>
@@ -52,7 +43,7 @@ Code that’s initially flawless is almost as real as unicorns. Even NASA has ma
 ## Who are QA Engineers?
 __Quality Assurance Engineer__ is a specialist responsible for identifying, avoiding, and fixing bugs before the product is released, and before is a keyword here.
 
-A QA engineer evaluates software from the customer's perspective, understands the product’s features, develops a test strategy, plans test cases, and picks which tools to use for testing. A QA specialist needs to make sure that everything in software works correctly and the final product meets both customers’ expectations and modern standards in software development. QA engineers __don't write code__ - that's the developers’ responsibility. However, their technical background allows them to read the code and understand how it works. 
+A QA engineer evaluates software from the customer's perspective, understands the product’s features, develops a test strategy, plans test cases, and picks which tools to use for testing. A QA specialist needs to make sure that everything in software works correctly and the final product meets both customers’ expectations and modern standards in software development. QA engineers __don't write code__ - that's the developers’ responsibility. However, their technical background allows them to read the code and understand how it works.
 
 Not only the final product but __every step of development__ should be trouble-free thanks to quality assurance. A new piece of software should not be written unless the existing ones are tested. Otherwise, a QA engineer might have an additional load of work, and identifying where the bug is might become even more problematic.
 
@@ -69,7 +60,7 @@ There are a few ways how you can __benefit__ from Quality Assurance on the proje
 A while ago, software testing didn’t play such a significant role in the product’s success in the market. You could hope that a fixed version released quickly after launch would solve the problems. Today, in case of a bugged release, users immediately turn to social media and review sites to lambast you. The new reality is that the more testing you can do, the more chances there are to find every bug. What it means is that you protect your brand by finding bugs before an end-user does.
 
 <a name="better-results"></a>
-### Professional QA Drives Better Results 
+### Professional QA Drives Better Results
 Today’s applications are complex to test. The complexity of Quality Assurance is at its peak when you add things like responsive UI, cross-browser testing, multiple operating systems, and user customization. In effect, modern applications are exponentially harder to test than their predecessors. In other words, you need effective automated testing.
 
 <a name="loyalty"></a>
@@ -84,7 +75,7 @@ Testing is much more than finding bugs in your product. For instance, a well-des
 
 <a name="profit"></a>
 ### Testing Brings Profit
-Thorough testing is key to keeping your users happy, and that, in turn, will drive revenues. Stable, well-tested, and bug-free software will generate more profit than poorly-tested one. Not only that, but it will also reduce the load on customer service, especially when you are scaling your business. 
+Thorough testing is key to keeping your users happy, and that, in turn, will drive revenues. Stable, well-tested, and bug-free software will generate more profit than poorly-tested one. Not only that, but it will also reduce the load on customer service, especially when you are scaling your business.
 
 <a name="time-cost"></a>
 ### QA is Time & Cost Saving

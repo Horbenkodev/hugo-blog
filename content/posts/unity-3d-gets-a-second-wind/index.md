@@ -14,14 +14,6 @@ industries: []
 categories:
 - Development
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Unity 3D Gets a Second Wind"
-}
-</script>
 
 Before on our blog, we explored the recent advancements in the mobile app development industry. The utilization of virtual and augmented reality, along with customers' fixation on mobile animation, 3D models, visual effects, and gaming elements, have propelled the industry to new heights. However, due to the increasing scale and complexity of app development challenges, developers require innovative tools to combat significant hurdles, not just minor ones. This is why the Unity 3D game engine is worthy of particular attention.
 
@@ -31,14 +23,14 @@ Why choose Unity? It all began with their inclusion of Microsoft HoloLens suppor
 
 Thanks to an extensive toolkit for making 2D objects, Unity works well for non-game app development too. I got an opportunity to talk about all the capabilities of this tool with Alexander Mikhalchenko, a developer who have been examining it for quite a while.
 
-**Hi Alex!**<br> 
+**Hi Alex!**<br>
 Hello Stan!
 
 **Why has Unity become so popular and in-demand lately?**<br>
 I would not say that Unity has become popular just recently, it grew widespread a long time ago. When it became free, this increased its popularity even more. Before that it was necessary to have a paid account to build something in Unity and it costed about $30 per month. However, this couldn't last for too long. After one of the updates, Unity provided free access to almost all its Pro-features, except perhaps the extended support.
 
 **Why Unity developers are now in high demand also in companies that do not specialize in game development?**<br>
-The point is that from the very beginning Unity game engine was designed for the multi platform development. It allows building applications for the desktop as well as for mobile devices. Why wasn't it used for this purpose initially? It's a question of power and performance of the devices themselves. Unity wasn't that popular before now because, due to its versatility, the engine is a bit heavy. Very few mobile devices were capable to run an application made with Unity, and even if they were able to do it, the optimization was far from being perfect. 
+The point is that from the very beginning Unity game engine was designed for the multi platform development. It allows building applications for the desktop as well as for mobile devices. Why wasn't it used for this purpose initially? It's a question of power and performance of the devices themselves. Unity wasn't that popular before now because, due to its versatility, the engine is a bit heavy. Very few mobile devices were capable to run an application made with Unity, and even if they were able to do it, the optimization was far from being perfect.
 
 Today's mobile phones are more than just phones. In fact, they are laptops with 8 gigabytes of RAM and a quad-core processors. The issue with performance faded into oblivion and the numerous advantages of Unity app development came to light. The main of them, as we already mentioned, is that it's a good tool to develop cross platform apps. In other words, we write the application just once, create builds for iOS, Android, Windows and launch it in all app stores right away. There is no need to develop a separate app version for each platform and to hire app developers for each version separately. It's enough to pick a Unity developer who can make the application for all platforms at once.
 
@@ -84,6 +76,6 @@ You're always welcome.
 
 ## Connecting the dots
 
-As you can see, with so many advantages, Unity simply have to be in your toolbox. Obviously, it's not a panacea for all problems that exist in the IT industry today but it can close the issue with cross platform development. This solution is particularly good for Android developers who don't have to suffer with numerous screen resolutions of various mobile manufacturers. 
+As you can see, with so many advantages, Unity simply have to be in your toolbox. Obviously, it's not a panacea for all problems that exist in the IT industry today but it can close the issue with cross platform development. This solution is particularly good for Android developers who don't have to suffer with numerous screen resolutions of various mobile manufacturers.
 
 Unity is able to facilitate the development of VR apps, implementation of an app interface and optimization for multiple platforms. What will happen next? We will see it in the next update and we hope that the creators of Unity will continue to successfully implement their progressive ideas.

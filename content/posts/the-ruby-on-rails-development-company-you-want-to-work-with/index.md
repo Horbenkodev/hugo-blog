@@ -17,14 +17,6 @@ categories:
 - Business
 - Ruby on Rails
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "The Ruby on Rails Development Company You Want to Work With"
-}
-</script>
 
 When you're looking for an outsourced Ruby on Rails developer for your project, just like with any other third-party provider, you want to find someone who has an extensive experience, easy to collaborate with, and actually does the work that meets your expectations. It may be challenging to detect an expert who truly meets all the requirements and this leaves a lot of entrepreneurs falling into well-known pitfalls associated with hiring the wrong person.
 
@@ -32,7 +24,7 @@ At [Anadea](https://anadea.info/), we've been in the software development indust
 
 ## One of the best Ruby on Rails developers by Clutch
 
-Clutch.co is a B2B research company that spots the best software developers in the world. The key feature of Clutch is interviewing current and former clients of each service provider and using their feedback as the primary criteria of their evaluation methodology. Clutch also takes into account characteristics of the clients, types of projects completed for them, market presence and reputation of the service provider. 
+Clutch.co is a B2B research company that spots the best software developers in the world. The key feature of Clutch is interviewing current and former clients of each service provider and using their feedback as the primary criteria of their evaluation methodology. Clutch also takes into account characteristics of the clients, types of projects completed for them, market presence and reputation of the service provider.
 
 All the criteria are analyzed to identify "Firms that deliver" and the outcome is the Leaders Matrix that shows the top companies in each service area. The evaluation process is ongoing and the list of best companies is frequently updated. Anadea is proud to be ranked among the leaders in [several categories](https://anadea.info/awards-achievements) on Clutch and the list of <a href="https://clutch.co/developers/ruby-rails/research" target="_blank">top Ruby on Rails developers</a> is one of them:
 
@@ -42,7 +34,7 @@ As a Ruby on Rails development company, Anadea scored highly in all evaluated as
 
 ![Anadea is one of leading RoR development companies](Anadea_ror.png)
 
-One of our clients, managing director of a small software development shop in the UK, who hired our Ruby on Rails team to help with building a cloud-based solution, <a href="https://clutch.co/profile/anadea#review-112357" rel="nofollow" target="_blank">said</a>: 
+One of our clients, managing director of a small software development shop in the UK, who hired our Ruby on Rails team to help with building a cloud-based solution, <a href="https://clutch.co/profile/anadea#review-112357" rel="nofollow" target="_blank">said</a>:
 
 > The work was exemplary. I wouldn't change anything that occurred. The only reason we stopped was because we ran out of funds for the project.
 

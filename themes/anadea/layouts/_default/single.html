@@ -11,6 +11,14 @@
 {{ end }}
 
 {{ define "main" }}
+  <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "author": "Anadea",
+    "name": "{{ .title | safeHTML }}"
+    }
+  </script>
   {{ partial "post_head.html" . }}
 
   <div class="container container__w960 postBody">

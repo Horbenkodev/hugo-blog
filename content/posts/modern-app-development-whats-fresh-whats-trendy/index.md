@@ -16,14 +16,6 @@ industries: []
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Modern App Development: What's Fresh, What's Trendy?"
-}
-</script>
 
 Do you know what you are going to do in 10 years' time? How will your music tastes change? What phone will you buy next? What will your future house or children look like? No matter how much data you gather and how closely you analyze it, how many professionals you involve in your research, it is extremely difficult to find out exactly what the future will be like. Who knows what innovation or discovery will be made that will absolutely change the way we perceive life? All we have left is to predict, make guesses and act accordingly.
 
@@ -47,11 +39,11 @@ Very often new things appear because we want to solve some problems and seek for
 
 A serious problem everyone's complaining about (besides short battery life, of course) is the lack of space on their smartphones. This one is closely connected to users' reluctance to download and install an app (especially if it's a one-time use). Here, a few things app development companies can do. One of them is the recently announced by Google App Streaming. A user simply has to tap a link and Google will stream the right parts of the application, so there is no need to install the full version. However, this technology can't be called exactly new as a mobile application company Agawi worked on this technology years ago. It was <a href="https://techcrunch.com/2015/06/18/report-last-year-google-secretly-acquired-agawi-a-specialist-in-streaming-native-mobile-apps/" rel="nofollow" target="_blank">acquired by Google</a> in 2014 and is coming into action only now.
 
-One more solution can be found thanks to ODR (On-Demand Resources). It was released with iOS 9 and allows a user to download a lightweight core of an app on installation. All other parts are further received from the Internet on request. At the moment, ODR is mostly used in games where levels are gradually downloaded as the player progresses, while assets for completed levels are deleted in order to free space. This promising technology is about to spread across all kinds of applications, not only entertaining ones. 
+One more solution can be found thanks to ODR (On-Demand Resources). It was released with iOS 9 and allows a user to download a lightweight core of an app on installation. All other parts are further received from the Internet on request. At the moment, ODR is mostly used in games where levels are gradually downloaded as the player progresses, while assets for completed levels are deleted in order to free space. This promising technology is about to spread across all kinds of applications, not only entertaining ones.
 
 ### Issue #2. Time.
 
-Modern people are always on the go, constantly hurrying somewhere. They suffer from a serious lack of time because of their fast pace of life. No wonder that application development trends change accordingly. In order to save users' time, mobile app developers do not only try to avoid full downloads but attempt to change the nature of notifications. They are no longer simple signposts that tell you to open some application, but are becoming a kind of containers where you can take action. A person no longer needs to open an app to respond to a message, for example. An interactive notification allows users to do it inside itself, which saves a lot of time and battery life as well. 
+Modern people are always on the go, constantly hurrying somewhere. They suffer from a serious lack of time because of their fast pace of life. No wonder that application development trends change accordingly. In order to save users' time, mobile app developers do not only try to avoid full downloads but attempt to change the nature of notifications. They are no longer simple signposts that tell you to open some application, but are becoming a kind of containers where you can take action. A person no longer needs to open an app to respond to a message, for example. An interactive notification allows users to do it inside itself, which saves a lot of time and battery life as well.
 
 ### Issue #3. Isolation.
 
@@ -65,7 +57,7 @@ As a result, parent applications and app function bots will reduce the number of
 
 A huge number of smartphone users and the intention to attract as many of them as possible has led to mass produced apps that try to occupy some place in everyone's heart. That's not possible, of course. But with rapid technology development we are now able to apply smart targeting. From now on, getting a message is not as important as where and when it will actually happen. Your application will become much more powerful if it can reach the right person in the right place and at the right time. Integrating with Beacons and relying on geofencing can help you out a lot here.
 
-In addition, companies that make apps do their best in order to provide more personalized notifications. With the help of an integrated system of analytics it becomes easier to learn about user preferences and improve the notification system within your application. 
+In addition, companies that make apps do their best in order to provide more personalized notifications. With the help of an integrated system of analytics it becomes easier to learn about user preferences and improve the notification system within your application.
 
 ## But the tendency remains…
 
@@ -81,7 +73,7 @@ But that's not all. With the growing <a href="https://www.internetretailer.com/2
 
 ## And one more thing…
 
-Try to make sure that the process of app development doesn't take too long. At the <a href="http://www.crn.com/channel-programs/xchange-2016-coverage.htm" rel="nofollow" target="_blank">XChange 2016 conference</a> that took place this August Michael Facemire, principal analyst at Forrester Research, recommended to release apps in stages and listen to users' feedback. "Don't wait for it to be 85-percent finished. Ship the minimum, and look at the feedback," he said. This, by the way, works well when you adhere to Agile development principles. 
+Try to make sure that the process of app development doesn't take too long. At the <a href="http://www.crn.com/channel-programs/xchange-2016-coverage.htm" rel="nofollow" target="_blank">XChange 2016 conference</a> that took place this August Michael Facemire, principal analyst at Forrester Research, recommended to release apps in stages and listen to users' feedback. "Don't wait for it to be 85-percent finished. Ship the minimum, and look at the feedback," he said. This, by the way, works well when you adhere to Agile development principles.
 
 After you decide on the idea of your new application, make sure you choose the right method, the right tool and the right app development company to realize it. Michael Facemire also advises app developers to "invest in their JavaScript skills and work with tools like Node.js."
 

@@ -15,14 +15,6 @@ industries: []
 categories:
 - Development
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Immersion in React Native: Navigation, Offline Mode, Push Notifications"
-}
-</script>
 
 ## Navigation
 
@@ -47,7 +39,7 @@ It is quite easy to use and provides the basic set of navigation elements: Stack
 
 ## Running the application offline
 
-Just like the "Mobile first" principle works well for the web, the "Offline first" principle dominates in [mobile application development](https://anadea.info/services/mobile-development). 
+Just like the "Mobile first" principle works well for the web, the "Offline first" principle dominates in [mobile application development](https://anadea.info/services/mobile-development).
 
 There are several ways to make your app offline-friendly with React Native:
 

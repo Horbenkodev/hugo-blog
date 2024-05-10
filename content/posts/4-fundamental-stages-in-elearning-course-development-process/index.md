@@ -175,32 +175,3 @@ It is a process of building an educational program and creating materials for a 
 ### How long does it take to develop an eLearning course?
 
 The time needed for education content development can vary depending on many different factors, including the specificity and complexity of the course, the number of experts involved, and the tools used for it. On average, the creation of 1 hour of an interactive eLearning course can take around 197 hours. But here you should understand that if you want to build just a simple 1-hour lesson you may need less time (nearly 50 hours) but for an advanced 1-hour course, it may be required to devote up to 700 hours.
-
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-   "@type": "Question",
-   "name": "What is eLearning course development?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "It is a process of building an educational program and creating materials for a course that will be delivered through digital resources (web platforms or mobile apps)."
-    }
-   ]
-  },
-  {
-   "@type": "Question",
-   "name": "How long does it take to develop an eLearning course?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "The time needed for education content development can vary depending on many different factors, including the specificity and complexity of the course, the number of experts involved, and the tools used for it. On average, the creation of 1 hour of an interactive eLearning course can take around 197 hours. But here you should understand that if you want to build just a simple 1-hour lesson you may need less time (nearly 50 hours) but for an advanced 1-hour course, it may be required to devote up to 700 hours."
-    }
-   ]
-  }
- ]
-}
-</script>

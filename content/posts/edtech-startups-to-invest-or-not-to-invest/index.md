@@ -13,16 +13,7 @@ industries:
 - eLearning
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "EdTech Startups: to Invest or Not to Invest?"
-}
-</script>
-
-Education development is traditionally considered the responsibility of the government, and when we hear the words "educational startups", Coursera and Udemy come to mind. However, they are not alone who improve the way we learn. There are more and more companies that try to facilitate the educational process by involving technologies. This results not only from realities of the digitalized present but also from the profitability of edtech startups. Here are the reasons to invest in <a href="https://anadea.info/solutions/e-learning-software-development" target="_blank">eLearning app startups</a> and related challenges. 
+Education development is traditionally considered the responsibility of the government, and when we hear the words "educational startups", Coursera and Udemy come to mind. However, they are not alone who improve the way we learn. There are more and more companies that try to facilitate the educational process by involving technologies. This results not only from realities of the digitalized present but also from the profitability of edtech startups. Here are the reasons to invest in <a href="https://anadea.info/solutions/e-learning-software-development" target="_blank">eLearning app startups</a> and related challenges.
 
 <h2>Table of contents</h2>
 <ol>
@@ -40,15 +31,15 @@ Education development is traditionally considered the responsibility of the gove
 
 Edtech startup is a startup which introduces IT tools in the classroom to achieve a more engaging and personalized learning experience. It includes <a href="https://anadea.info/solutions/e-learning-software-development/lms" target="_blank">learning management systems</a> (LMS), learning platforms, mobile educational apps and much more.
 
-To launch an edtech startup, some steps need to be made. 
+To launch an edtech startup, some steps need to be made.
 
-* Generate a business strategy. What kind of problem do you aim to solve in the education field? Think about <a href="https://anadea.info/for-clients/before-you-start/user-persona-for-startups" target="_blank">specific people</a> with specific problems and create a <a href="https://anadea.info/guides/user-persona-for-startups" target="_blank">business plan</a> to present to potential investors. 
+* Generate a business strategy. What kind of problem do you aim to solve in the education field? Think about <a href="https://anadea.info/for-clients/before-you-start/user-persona-for-startups" target="_blank">specific people</a> with specific problems and create a <a href="https://anadea.info/guides/user-persona-for-startups" target="_blank">business plan</a> to present to potential investors.
 
-* <a href="https://anadea.info/blog/how-to-find-a-web-developer" target="_blank">Find a development partner</a> with a proven background in industry. 
+* <a href="https://anadea.info/blog/how-to-find-a-web-developer" target="_blank">Find a development partner</a> with a proven background in industry.
 
 * <a href="https://anadea.info/guides/what-is-mvp" target="_blank">Develop an MVP</a>. It will allow you to evaluate the product and improve it in a few stages.
 
-* Support users and collect feedback by adding feedback and a suggestions section. 
+* Support users and collect feedback by adding feedback and a suggestions section.
 
 * Promote your project (ASO, SEO, PPC, SMM and Media Advertising) and keep improving it.
 
@@ -57,11 +48,11 @@ To launch an edtech startup, some steps need to be made.
 
 Education has changed and continues to change. Today's online learning is not only lectures and textbooks that students can use. It uses a variety of resources that involve different channels of perception: video and audio files, animation, graphics which provides tremendous opportunities in developing edtech startup ideas. So it's not a surprise that the ranks of unicorn education startups are expanding.
 
-Chinese giants like Alibaba, Baidu, Tencent generously invest in the industry. For example, <a href="http://www.chinagoabroad.com/en/article/tencent-invests-further-in-chinese-online-tutor-yuanfudao" rel="nofollow" target="_blank">Yuanfudao</a> received $ 1 billion from Tencent. It provides live courses and has 160 million registered users in three applications. 
+Chinese giants like Alibaba, Baidu, Tencent generously invest in the industry. For example, <a href="http://www.chinagoabroad.com/en/article/tencent-invests-further-in-chinese-online-tutor-yuanfudao" rel="nofollow" target="_blank">Yuanfudao</a> received $ 1 billion from Tencent. It provides live courses and has 160 million registered users in three applications.
 
 Mark Zuckerberg's investment fund invested $50 million in <a href="https://byjus.com/our-investors/" rel="nofollow" target="_blank">Byju's startup</a> — India's learning app.
 
- <a href="https://www.rethinkeducation.co.za/" rel="nofollow" target="_blank">Rethink Education</a>, a venture capital fund specializing at education technology, invests in development of mobile learning, which enables creating mobile based courses teaching children via SMS, that is relevant in South Africa, where only ⅓ of the population has access to the Internet. 
+ <a href="https://www.rethinkeducation.co.za/" rel="nofollow" target="_blank">Rethink Education</a>, a venture capital fund specializing at education technology, invests in development of mobile learning, which enables creating mobile based courses teaching children via SMS, that is relevant in South Africa, where only ⅓ of the population has access to the Internet.
 
 <a name="what-inspires"></a>
 ## What inspires to invest in e-learning
@@ -112,7 +103,7 @@ eLearning can be a perfect addition to a full-time educational process and can h
 <a name="questions"></a>
 ## Questions investors may ask you before investing
 
-Say you are ready to invest in developing your own educational platform and have funds for this, which is great. But what if you have not? Then it is time to seek edtech venture capital. 
+Say you are ready to invest in developing your own educational platform and have funds for this, which is great. But what if you have not? Then it is time to seek edtech venture capital.
 
 The key to getting edtech vc is presenting your idea to investors correctly. You know well what your product is designed to do and what its audience is but this may not be as clear for the edtech investors. Your success in raising investment depends strongly on how you answer their questions. Here are a few of the possible ones.
 
@@ -176,7 +167,7 @@ K12 software stands for school management systems for primary and secondary educ
 
 <a name="mooc"></a>
 ### MOOCs
-Massive open online course (MOOC) systems like Coursera and Udemy are aggregators of all kinds of courses run by various universities and tutors. Anyone with access to the system can purchase a course and learn any skill they like as well as share this experience with other users. 
+Massive open online course (MOOC) systems like Coursera and Udemy are aggregators of all kinds of courses run by various universities and tutors. Anyone with access to the system can purchase a course and learn any skill they like as well as share this experience with other users.
 
 <a name="language"></a>
 ### Language learning app
