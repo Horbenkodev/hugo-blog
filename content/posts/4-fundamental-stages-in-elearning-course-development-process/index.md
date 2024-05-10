@@ -1,6 +1,6 @@
 ---
 title: "eLearning Course Development Process: Comprehensive Guide"
-publishDate: 2023-09-28T00:00:00Z
+publishDate: 2023-09-28T00:00:00.000Z
 image: elearning_course.png
 og_image: elearning_course_socials.png
 description: Are you going to launch an eLearning solution? Find out how to
@@ -13,7 +13,7 @@ categories: []
 industries:
   - eLearning
 ---
-When you are planning to build an eLearning solution, its tech part is crucial but you shouldn't concentrate only on this aspect. The content also matters (and in some cases can be even more important than some advanced features that can be built to enrich your solution). On our blog, you can find a lot of useful tips on how to create software solutions of various types, including [eLearning websites](https://anadea.info/blog/e-learning-website-development-tips). But in this article, we'd like to have a look at building edtech products from another perspective and explain the peculiarities of the eLearning course development process. 
+When you are planning to build an eLearning solution, its tech part is crucial but you shouldn't concentrate only on this aspect. The content also matters (and in some cases can be even more important than some advanced features that can be built to enrich your solution). On our blog, you can find a lot of useful tips on how to create software solutions of various types, including [eLearning websites](https://anadea.info/blog/e-learning-website-development-tips). But in this article, we'd like to have a look at building edtech products from another perspective and explain the peculiarities of the eLearning course development process.
 
 ## Why does eLearning content development matter?
 
