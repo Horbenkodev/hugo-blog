@@ -1,20 +1,20 @@
 ---
-title: How eLearning Help Students With Anxiety
-publishDate: '2019-04-23T00:00:00Z'
-authors:
-- Tiffany Harper
-description: Anxiety is a very broad term that can be defined in many different ways.
-  According to the definition at WebMD.com, anxiety disorders are a group of mental
-  illnesses, which cause overwhelming and constant fear and worry. All anxiety disorders
-  can and will interfere with the learning process.
+title: "How eLearning Help Students With Anxiety "
+publishDate: 2019-04-23T00:00:00Z
 image: anxious-student.jpg
 og_image: anxious-student.jpg
+description: Anxiety is a very broad term that can be defined in many different
+  ways. According to the definition at WebMD.com, anxiety disorders are a group
+  of mental illnesses, which cause overwhelming and constant fear and worry. All
+  anxiety disorders can and will interfere with the learning process.
 promote:
   promote: false
 top: false
-industries:
-- eLearning
+authors:
+  - Tiffany Harper
 categories: []
+industries:
+  - eLearning
 ---
 Anxiety is a very broad term that can be defined in many different ways. According to the <a href="https://www.webmd.com/anxiety-panic/guide/anxiety-disorders" target="_blank">definition at WebMD.com</a>, anxiety disorders are a group of mental illnesses, which cause overwhelming and constant fear and worry. 
 
