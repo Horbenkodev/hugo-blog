@@ -16,15 +16,6 @@ categories:
 - Development
 - Ruby on Rails
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": 'IT Duel 2017: "Battle of the Bots - Hexagon" Creation of the Game - Part 3 - The Game Engine'
-}
-</script>
-
 In the previous articles of the series we decided on the required playground functionality and prepared a [runtime infrastructure for game bots and sandboxes](https://anadea.info/blog/it-duel-2017-implementation-part2-digital-ocean-droplets-and-dokku-setup). It's time to actually program the game engine. As the main tools we will use [RoR](https://anadea.info/services/web-development/ruby-on-rails-development) and Sidekiq on the backend, ReactJS and WebSocket on the frontend.
 
 ## Prepare dependencies for the task queue
