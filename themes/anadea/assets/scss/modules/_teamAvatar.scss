@@ -1,18 +1,12 @@
 @mixin light {
-  --background-color: var(--white);
   --fill-color: var(--persian-rose);
 }
 
 @mixin dark {
-  --background-color: #303030;
   --fill-color: var(--persian-rose);
 }
 
 .teamAvatar {
-  &__background {
-    fill: var(--background-color);
-  }
-
   &__content {
     fill: var(--fill-color);
   }
