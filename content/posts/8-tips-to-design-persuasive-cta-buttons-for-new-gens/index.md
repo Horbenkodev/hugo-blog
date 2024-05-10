@@ -17,6 +17,15 @@ industries: []
 categories:
 - UX-UI
 ---
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Aaron Chichioco",
+ "name": "8 Tips to Design Persuasive CTA Buttons for New Gens"
+}
+</script>
 In the game of web design and online marketing where getting noticed by customers matter most, CTA buttons are one of the biggest players. Their role is very important - to subtly but effectively drive website users to do what you need them to do, whether that’s to <a href="https://www.webmastered.com/email-marketing-beginners-guide/#Newsletters" target="_blank">sign up for newsletters</a>, purchase products, fill out forms, and more.
 
 Additionally, call-to-action buttons can also greatly help in increasing a website’s click-through-rate. So if you are looking for ways to strengthen your SEO, having well-thought and well-designed CTA buttons may be the thing to help your website get a higher click-through rate and appear more reputable to Google and other search engines.

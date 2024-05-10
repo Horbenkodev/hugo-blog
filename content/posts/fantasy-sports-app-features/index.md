@@ -15,6 +15,14 @@ industries:
 - Sports
 categories: []
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "What Kind of Features Should a Fantasy Sports App Include?"
+}
+</script>
 <h2>Contents</h2>
 <ol>
  <li><a href="#must-have-features">Must-have features</a>

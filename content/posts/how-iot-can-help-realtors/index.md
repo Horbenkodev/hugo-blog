@@ -16,6 +16,14 @@ industries:
 - Real Estate
 categories: []
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "Secret Life of Talking Houses: How IoT Can Help Realtors"
+}
+</script>
 
 ***The Internet of Things, also known as Connected Devices, are making houses talk. With the advent of IoT in real estate, homes are advancing into sci-fi imagined futures. What was fiction, such as pre-set and remote control for heating, lighting and even food ordering, is becoming reality.***
 

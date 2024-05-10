@@ -18,6 +18,16 @@ industries:
 categories:
 - Business
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Sophia Lawrence",
+ "name": "How to Get Seed Funding for Your Health IT Startup"
+}
+</script>
+
+Updated 7 September, 2021
 
 Healthcare is an evergreen industry worldwide. As advances in medical sciences and pharmaceuticals continue, there will be no dearth of innovative ideas to launch healthcare based startups. In all probability, most health startups will be IT-based. Primarily because IT now touches almost every sphere of our lives.
 

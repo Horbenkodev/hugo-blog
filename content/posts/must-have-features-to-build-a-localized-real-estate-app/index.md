@@ -17,6 +17,14 @@ industries:
 - Real Estate
 categories: []
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "Must Have Features to Build a Localized Real Estate App"
+}
+</script>
 
 Keep up with changes and news on your local real estate market, do paperwork, wade through bureaucratic procedures, plan open houses, schedule meetings with clients or other agents and meet them, answer calls and emails, update information about your listings, figure out how to differ from competitors, keep a database of leads... On top of that, you understand that having an app is a necessity for your local real estate business, and there is simply no time to address the issue. Looks familiar to you?
 

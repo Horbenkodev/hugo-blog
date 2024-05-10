@@ -18,6 +18,14 @@ industries:
 - eLearning
 categories: []
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "How Much Does It Cost to Develop an Educational App"
+}
+</script>
 
 The good thing about the Internet is that sometimes it contains useful information. People who want to learn new skills start their road browsing the web in search of the topic they want to learn. They can find amazing resources that help people learn to play the banjo, speak Italian, play chess or even write software in Ruby on Rails.
 

@@ -16,6 +16,14 @@ industries:
 - Real Estate
 categories: []
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "CRM for Real Estate Agents: Off-the-Shelf vs. Custom?"
+}
+</script>
 ## What is CRM in real estate?
 
 At the core of every business is the relationship a company has with its customers. As part of those relationships, it is invaluable if every who interacts with customers is on the same page and has access to the same information. A customer relationship management (CRM) system is an invaluable tool for managing those relationships.

@@ -16,6 +16,14 @@ industries: []
 categories:
 - Development
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "Setting up an Elixir Cluster in Docker Swarm with Distillery and Libcluster"
+}
+</script>
 
 In this tutorial we'll explore the creation of an Elixir app cluster that is run in Docker Swarm and does properly maintain node connectability as the swarm scales up and down.
 

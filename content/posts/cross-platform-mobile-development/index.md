@@ -16,6 +16,14 @@ categories:
 - Mobile
 - Business
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "Cross Platform Mobile App Development Best Practices"
+}
+</script>
 **Often in our practice, we, as a cross-platform development company, face the following questions: Will cross-platform do for my business? What benefits will I get if I choose cross-platform app development? How much does it cost to develop a cross-platform app? On these, and other questions, you’ll find a solid answer as far as you read this article.**
 
 <h2>Table of contents</h2>
@@ -130,3 +138,4 @@ The features can be implemented within ~ **4 weeks timespan with a budget $5800 
 <a name="final-thoughts"></a>
 ## Final thoughts
 As you can see, cross-platform apps are not a silver bullet for every business case, but they can be a perfect choice for small businesses and startups in terms of proof of concept, fast time-to-market, and lower development costs. Great apps like mobile stores, listings, to-do lists, schedulers, bookings, etc. can be created. So, if you have any questions or decide to develop a cross-platform app, feel free to contact us. We are <a href="https://www.topdevelopers.co/directory/mobile-app-development-companies" target="_blank">top mobile app development company</a> as recognized by TopDevelopers.co and we’d be happy to help you with your project.
+

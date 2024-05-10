@@ -15,6 +15,14 @@ industries: []
 categories:
 - Business
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "What Is MVP and How to Build an MVP App"
+}
+</script>
 
 Even though many new ideas sound brilliant in theory, there are no success guarantees in reality. The success of a launch depends on many factors, including... luck. However, blaming bad luck for failure is immature. The reasons can be slightly more complicated, as <a href="https://www.investopedia.com/articles/personal-finance/040915/how-many-startups-fail-and-why.asp" rel="nofollow">nearly 90%</a> of all startups fail.
 

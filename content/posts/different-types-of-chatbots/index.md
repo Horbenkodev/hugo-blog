@@ -389,3 +389,32 @@ Chatbots can be classified in accordance with their functionality and applicatio
 ### Why do businesses use chatbots?
 
 Such solutions can bring a lot of benefits to businesses. They allow companies to automate the way of interacting with clients, increase the quality of customer care, as well as optimize labor costs.
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+  {
+   "@type": "Question",
+   "name": "What are the different types of chatbots?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "Chatbots can be classified in accordance with their functionality and application. Based on their model, we can define rule-based, button-based, keyword-based, AI, voice, generative AI, and hybrid bots. As for their application, there are custom service, sales, marketing, entertainment, and skills bots."
+    }
+   ]
+  },
+  {
+   "@type": "Question",
+   "name": "Why do businesses use chatbots?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "Such solutions can bring a lot of benefits to businesses. They allow companies to automate the way of interacting with clients, increase the quality of customer care, as well as optimize labor costs."
+    }
+   ]
+  }
+ ]
+}
+</script>

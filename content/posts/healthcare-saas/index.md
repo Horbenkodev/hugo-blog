@@ -218,3 +218,42 @@ The budgets required for such projects may seriously vary. It happens because it
 ### How long does it take to develop a SaaS for healthcare?
 
 When a development team needs to build a SaaS product, it may take from a couple of months to a couple of years. Precise timelines are usually discussed with developers at the project planning stage.
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+  {
+   "@type": "Question",
+   "name": "What is a healthcare SaaS?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "Healthcare SaaS solutions are cloud-based apps that are related to healthcare services or medical processes. They are created in accordance with the needs of hospitals, medical centers, and healthcare institutions and may cover such aspects as billing, managing patient records, analytics, etc. They also greatly facilitate data exchange and collaboration between different healthcare providers which is vital for ensuring high quality of medical services."
+    }
+   ]
+  },
+  {
+   "@type": "Question",
+   "name": "How much does it cost to build a healthcare SaaS solution?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "The budgets required for such projects may seriously vary. It happens because it is necessary to take into account a lot of factors while calculating the development costs. Typically they can vary from $50K to $500K. This huge difference is explained by the fact that all projects are not the same, they have different tech stacks, integrations, and levels of complexity. Moreover, the size of the team, the set timelines, and the rates of your developers also will have an impact."
+    }
+   ]
+  },
+  {
+   "@type": "Question",
+   "name": "How long does it take to develop a SaaS for healthcare?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "When a development team needs to build a SaaS product, it may take from a couple of months to a couple of years. Precise timelines are usually discussed with developers at the project planning stage."
+    }
+   ]
+  }
+ ]
+}
+</script>

@@ -17,6 +17,14 @@ industries:
 - eLearning
 categories: []
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "Classroom in a Pocket? Creating a Mobile eLearning Environment"
+}
+</script>
 
 eLearning has transformed modern education. Over the last fifteen years, education has gone from paper to platform and app-based, with students and teachers learning together in remarkable new ways.
 

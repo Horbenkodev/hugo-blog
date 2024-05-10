@@ -18,6 +18,14 @@ industries: []
 categories:
 - UX-UI
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Pete Trbovich",
+ "name": "How Micro Animations Improve UX"
+}
+</script>
 
 These days engagement is the name of the game when it comes to websites and apps. Brands know that competition in the marketplace is fierce, attention spans are short, and customer loyalty can be fickle. Therefore, websites and apps need to focus on user experience - making a site or app genuinely engaging - interesting or genuinely fun to use, fast loading and intuitive.
 

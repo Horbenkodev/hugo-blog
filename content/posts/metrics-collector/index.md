@@ -16,6 +16,14 @@ categories:
 - Development
 - Ruby on Rails
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "MetricsCollector for Ruby on Rails"
+}
+</script>
 
 <center>
 ![Metrics Collector](MetricsCollector.png)

@@ -17,6 +17,14 @@ categories:
 - UX-UI
 - Web
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "James Scott",
+ "name": "How to Use Micro-Moments in Your Website Design"
+}
+</script>
 
 What are micro moments? To put it simply, a micro-moment, <a href="https://www.thinkwithgoogle.com/marketing-strategies/micro-moments/" target="_blank">as Google defines it</a>, occurs when people turn to their devices in order to act on a need they have. These needs can include wanting to learn, do, buy or watch something.
 

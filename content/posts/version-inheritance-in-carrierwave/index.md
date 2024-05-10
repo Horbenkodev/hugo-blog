@@ -18,6 +18,14 @@ categories:
 - Development
 - Ruby on Rails
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "Carrierwave: How to Avoid Issues with Version Inheritance"
+}
+</script>
 
 <a href="https://github.com/carrierwaveuploader/carrierwave" rel="nofollow" target="_blank">Сarrierwave</a> is a popular image upload gem used by the Rails community to upload files to the server.
 

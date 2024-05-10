@@ -14,6 +14,14 @@ industries: []
 categories:
 - Business
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "Business Plan for a Mobile App Startup - Complete Guide"
+}
+</script>
 
 __Any venture needs a strategy. Especially if you are just starting. Whatever sector you're in and whether your potential customers are B2C or B2B, this puts you up against a lot of competition. Find out all about drawing a primary business plan for an app startup to have your feet firmly on the ground.__
 

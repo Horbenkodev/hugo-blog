@@ -15,6 +15,14 @@ industries: []
 categories:
 - Business
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "Why You Should Port Your Android App to iOS or Vice Versa?"
+}
+</script>
 
 There is a joke in game industry: if you want to get profit from one game several times - port it to another platform. Look at Rockstar company, for example. In 2013 Grand Theft Auto V assailed consoles with sales in millions of copies and billions of dollars. When the craze has died down, they released the game on PCs, added some updates and ta da - GTA V became the market leader again!
 

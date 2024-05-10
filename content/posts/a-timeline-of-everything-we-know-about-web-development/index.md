@@ -19,6 +19,14 @@ categories:
 - Web
 - Development
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Benjamin Shepardson",
+ "name": "A Timeline of Everything We Know About Web Development (So You Can Understand the News)"
+}
+</script>
 Web development is a long and storied process. From the Internet's humblest of beginnings in the 1960s as a US Department of Defense project to its existence today as the ultimate communications tool, web developers have been there every step of the way, innovating and thinking up new and interesting ways to apply technology to our lives.
 
 The story is long but entertaining. Here's what you might not have learned in school about how the Internet developed over nearly half a century. What you'll learn will likely surprise you - but it will also make it much easier for you to understand just how groundbreaking the newest developments as they're announced today.

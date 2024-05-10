@@ -15,6 +15,14 @@ industries: []
 categories:
 - Business
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "How to Create a SaaS Product that People Will Love"
+}
+</script>
 
 Software as a service (SaaS) has long been around. Both businesses and individuals got used to SaaS and use it daily. That’s what Netflix, Google Apps and Slack have in common: business models of all end with the -aaS suffix.
 

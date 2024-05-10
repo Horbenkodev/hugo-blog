@@ -16,6 +16,14 @@ industries: []
 categories:
 - Development
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "RxBus - an Event Bus Based on RxJava and Optimized for Android"
+}
+</script>
 
 ## What it's all about
 

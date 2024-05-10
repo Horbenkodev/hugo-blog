@@ -16,6 +16,15 @@ categories:
 - Machine Learning
 - News
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "Anadea Took 2d Place in the Computer Vision Competition Organized by Open Data Science Community"
+}
+</script>
+
 <img src="super.png" class="float-left" width='150'>Recently, Our Deep Learning Team participated in a competition organized by Open Data Science community and took <a href="https://ods.ai/tracks/ml4sg-df2021/competitions/lacmus-cvc-soc2021/leaderboard" rel="nofollow" target="_blank">2d place</a>! Congrats, guys!
 
 
@@ -35,3 +44,4 @@ The project Lacmus helps Search & Rescue Squads to find people, who get lost, by
 
 
 >"In order to solve the problem we tried different approaches and experimented with the latest one-stage objects detection models, in particular, with YoloX - one of the most advanced anchor-free models, which gave us the best score among all the models. At the time of the competition publicly available solution was still in early development - thus, we had to change lots of code and adapt it to our needs. We completely changed preprocessing and loading data into the model, which let us significantly speed up model training and achieve good results on time." - Vadym Kozlovskyi
+

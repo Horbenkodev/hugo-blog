@@ -18,6 +18,14 @@ industries:
 - eLearning
 categories: []
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Katie Taylor",
+ "name": "Online Teaching Platform: Breaking the Barriers of Education"
+}
+</script>
 
 Did you know that <a href="https://www.cloudshare.com/blog/virtual-learning-everything-you-need-to-know/" target="_blank">online training takes 40-60% less</a> time to complete a course than traditional classroom training, and it can increase employee engagement in the workplace by over 18%? While some companies and educational establishments stick to old school, more than <a href="https://www.talentlms.com/blog/7-1-elearning-trends-facts-2017/" target="_blank">50% of North American establishments</a> have already adopted e-learning in one or the other form. Anadea is a <a href="https://anadea.info/solutions/e-learning-software-development">eLearning software development company</a> and we can help you to develop your own eLearning App.
 

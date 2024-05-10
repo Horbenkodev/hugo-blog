@@ -15,6 +15,14 @@ industries: []
 categories:
 - Business
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "Why start the software project with consulting rounds"
+}
+</script>
 
 There are many opinions about digital technology consulting. Some people think that consultants set crazy rates and at the same time do not bring any benefit. Some even had a negative experience working with IT consultants.
 
@@ -85,3 +93,13 @@ When you turn to any consulting agency, you pay for their advice, knowledge and 
 ## Beautiful closing credits
 
 The task of an IT consulting team is to figure out what needs to be automated in a particular company, what the effect will be, choose the appropriate IT solution for this task and implement it. Choosing an experienced digital consulting firm allows your business to grow in terms of management, sales and marketing.
+
+
+
+
+
+
+
+
+
+

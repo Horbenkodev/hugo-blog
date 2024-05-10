@@ -15,6 +15,14 @@ industries: []
 categories:
 - Development
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "What You Need to Know to Put Your App in the App Store or Google Play?"
+}
+</script>
 
 Let's imagine for a moment that your dream has come true: your app has been created, the development process is left behind as well as sleepless nights, everyday work, gallons of coffee and piles of cigarettes. The app that until recently used to live only in your imagination is now in your hands. You see how it is working and living, you are satisfied with the long way you have done. What's next? The time has come to introduce your creation to the world and this article will tell you how to submit app to app store.
 

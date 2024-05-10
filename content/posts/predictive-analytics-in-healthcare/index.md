@@ -19,6 +19,16 @@ industries:
 categories:
 - Machine Learning
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Kimberly Grimms",
+ "name": "Predictive Analytics in Healthcare: Improving Operational Efficiency with Data-Driven IT Strategy"
+}
+</script>
+
+Updated on 10 September, 2021.
 
 The healthcare industry is one of the multi-dimensional industries in the world. It caters to many services, including prevention, diagnosis, and treatment of various diseases or impairments in human beings. Health experts and professionals have spent years (decades, even) looking for ways to continuously develop operational efficiency in healthcare.
 

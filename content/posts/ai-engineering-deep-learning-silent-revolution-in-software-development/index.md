@@ -14,6 +14,15 @@ industries: []
 categories:
 - Machine Learning
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "The Impact of AI Engineering & Deep Learning on Business"
+}
+</script>
+
 <img src="slava_dodatko.jpg" width='300' class="float-left">The interview of Vyacheslav Dodatko, CEO and Co-founder of Anadea, on the topic of top Business and Technology predictions for 2021 is originally published in <a href="https://education.cioapplications.com/" rel="nofollow" target="_blank">CIO Applications</a> and CIO Applications Magazine - an enterprise technology magazine that reaches out to about 200,000 qualified print and digital subscribers in the U.S.
 
 ## AI Engineering & Deep Learning Silent Revolution in Software Development

@@ -19,6 +19,15 @@ categories:
 - Business
 - Machine Learning
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Nadine Rochester",
+ "name": "How Machine Learning Will Change the Role of Business Analysts"
+}
+</script>
+
 Machine learning (ML) is a technology that is related to artificial intelligence (AI), based around the idea that systems can learn from data and either improve performance or become more accurate. It is linked to the concept of automation, because [machine learning development](https://anadea.info/services/machine-learning-software-development) enables systems to make decisions with little or no need for intervention from humans.
 
 Essentially, machine learning is concerned with analytical model building and can allow software to predict outcomes. This is obviously beneficial for those working as business analysts, but it also has the potential to drastically change the nature of the role itself, impacting on recruitment objectives and the structure of business analyst training courses.

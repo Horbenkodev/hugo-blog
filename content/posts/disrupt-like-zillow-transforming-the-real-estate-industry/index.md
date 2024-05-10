@@ -15,6 +15,14 @@ industries:
 - Real Estate
 categories: []
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "Disrupt Like Zillow: Transforming the Real Estate Industry"
+}
+</script>
 ***Zillow is a serious player in the U.S. real estate market. Founded in 2006, Zillow now contains a database of 110 million homes and apartments across the U.S., with buyers, sellers and renters using the platform to move house.***
 
 Beyond the core platform, Zillow owns several prominent consumer and business <a href="https://www.zillowgroup.com/about-zillow-group/" rel="nofollow" target="_blank">real estate brands</a>, including Trulia, Mortech and Bridge Interactive. With over $1.1 billion in revenues, and nearly 200 million unique users, as well as <a href="https://www.wallstreetzen.com/stocks/us/nasdaq/zg/statistics#link-1-2-0" rel="nofollow" target="_blank">a record of 9.63 billion visits</a>, were made to Zillow's apps, websites, and services, it is safe to say that Zillow plays an important role in the U.S. real estate market.

@@ -17,6 +17,15 @@ industries:
 categories:
 - Machine Learning
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "How Machine Learning and Computer Vision are Improving Real Estate Valuations"
+}
+</script>
+
 ***Right now and for the foreseeable future, real estate is likely to go through something of a slump. As the world economy slows to a crawl and potentially dips into a recession, as a consequence of Coronavirus (COVID-19), real estate won’t be moving at the same pace.***
 
 However, real estate has weathered many a storm in the past. Many recessions have come and gone, with the sector recovering every single time. People are going to be busy moving home, and buying and selling once this is over (and in some cases, during this global pandemic).

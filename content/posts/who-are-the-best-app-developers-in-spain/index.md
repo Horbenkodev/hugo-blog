@@ -17,6 +17,14 @@ industries: []
 categories:
 - News
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "Who Are The Best App Developers in Spain?"
+}
+</script>
 
 Spaniards have firmly established themselves among the world's biggest smartphone users. The percentage of smartphone owners in Spain has already exceeded 65% of the population and smartphone user penetration is predicted to reach over 71% by 2022. This equals to over 30 million users, which creates a sweet spot for IT business and sparks up the Spanish app development industry.
 

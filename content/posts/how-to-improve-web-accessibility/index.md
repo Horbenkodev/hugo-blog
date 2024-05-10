@@ -15,6 +15,14 @@ categories:
 - Accessibility
 - Web
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "How to improve your website’s accessibility"
+}
+</script>
 
 <h2>Contents</h2>
 <ol>
@@ -137,3 +145,5 @@ Leading a website to a ‘green zone’ is a long way. Anadea’s experts gather
 Gradually, accessibility becomes a widely known standard in website development, and owners of websites, as well as developers begin to adapt to the new realities. Anadea, as a custom software development company, supports this trend. Our experts are gaining practical experience, following the news; we try to convey to our customers and clients all the necessary information and help them make their web products accessible. For instance, it’s becoming evident that good accessibility is a necessary part of good user experience, which influences in its turn SERP results and [improves your website’s positions](https://anadea.info/services/seo-service) in Google.
 
 The current state of affairs in this area is still far from ideal from the developers’ point of view. Technical sources to implement are limited - HTML, CSS, web browsers are not perfect yet to provide good user experience for disabled people. Also, design tendencies stay far from accessibility, focusing on appealing visual components that are vital for brand or product identity. Still, this is a very live issue for society and we hope that with time web accessibility will become ubiquitous.
+
+

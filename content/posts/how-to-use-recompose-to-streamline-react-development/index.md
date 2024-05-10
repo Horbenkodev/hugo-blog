@@ -18,6 +18,14 @@ industries: []
 categories:
 - Development
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "How to Use Recompose to Streamline React Development"
+}
+</script>
 
 ## Composition as a way to create reusable code
 

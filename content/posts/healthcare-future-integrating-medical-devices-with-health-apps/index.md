@@ -17,6 +17,14 @@ industries:
 - Healthcare
 categories: []
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "Healthcare Future: Integrating Medical Devices with Health Apps"
+}
+</script>
 > Millions of people download and use health apps. Whether you are tracking steps and exercise using a Fitbit, or counting calories with MyFitnessPal, health apps along with <a href="https://anadea.info/solutions/medical-app-development" target="_blank">medical software development services</a> are increasingly popular.
 
 According to an <a href="http://www.pmlive.com/blogs/digital_intelligence/archive/2018/january/sharp_rise_in_mobile_health_app_numbers_1215229" rel="nofollow" target="_blank">IQVIA Institute for Human Data Science study</a>, there are over 320,000 health-related apps on the Apple App Store and Google Play Store (Android). Although standing out in this crowded marketplace is more challenging, 41 of these apps have over 10 million downloads each.

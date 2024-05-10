@@ -17,6 +17,14 @@ industries: []
 categories:
 - Design
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "Emotionally Intelligent Design: Why You Need It in Your Mobile App"
+}
+</script>
 Nearly all of us have a smartphone. We use various applications every day - document management, driving assistance, dictionaries, workout tracking, [brain puzzles](https://anadea.info/blog/7-cool-apps-for-boosting-your-brain-power), local weather, barcode scanners, you name it. There are as many apps in App Store and Google Play as stars in the sky.
 
 Now think of the applications that are now in your smartphone. Can you name at least 5 reasons why you have chosen the app that you use now over the other from the very same category and with the similar features? You narrowed down the list of your device memory "nominees" to two. Both fitted your needs, both had great reviews and still for some reason you opted for the only one app.

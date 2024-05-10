@@ -16,6 +16,14 @@ industries: []
 categories:
 - Development
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "All You Need to Know About Public & Private Blockchains"
+}
+</script>
 
 No matter who you are or what industry you work in, you've probably heard way more than you ever wanted to know about blockchain, cryptocurrencies and other related things. However, despite being on everyone's lips, this technology still remains far from broad adoption and full understanding of its potential.
 
@@ -223,3 +231,4 @@ Good links to investigate:
 
 ---
 *About author: Dmitriy Selin is an experienced software engineer, blockchain enthusiast and winner of All-Ukrainian Blockchain Hackathon in the NEM nomination.*
+

@@ -14,6 +14,14 @@ industries: []
 categories:
 - Code Audit
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "Code Audit Service: Why You Need It"
+}
+</script>
 
 IT projects often take the approach of building first and asking questions later. Why spend time double-checking when product updates need shipping?
 

@@ -17,6 +17,14 @@ industries: []
 categories:
 - Business Analysis
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Max Holland",
+ "name": "The Business Analyst's Role in Digital Transformation: Facilitator or Leader?"
+}
+</script>
 When it comes to running a business, the only thing that’s inevitable is change. Whether you’re targeting a new client base, striving to meet shareholder expectations, or competing with a new player in the market, evolution is the name of the game. As a software development company, we know that change can be hard, especially when you’re transitioning from brick-and-mortar operations to digital-first or digital-only. In this article, we describe the strategies that have helped us navigate an ever-changing digital landscape, and helped our clients achieve meaningful, sustainable digital transformations.
 
 We’ll soon discuss the essential role [business analysts](https://anadea.info/services/business-analysis) play in creating and implementing successful digital transformation strategies, but before that, we have to address an important question.

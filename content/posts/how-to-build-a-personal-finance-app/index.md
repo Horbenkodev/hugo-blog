@@ -17,6 +17,15 @@ categories:
 ---
 <center><sub>Image source: <a href="https://dribbble.com/shots/3943504-Banking-App" rel="nofollow" target="_blank">Dribbble - Anadea</a></a></sub></center>
 
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "How to Create Your Own Personal Finance App"
+}
+</script>
+
 There are many things money can’t buy. Still, everyone aims at saving and multiplying their capital. For that, mobile apps for budget management are highly demanded these days. Learn how to build a personal finance app that’s gonna be a success and what you need to start.
 
 <h2>Table of Contents</h2>

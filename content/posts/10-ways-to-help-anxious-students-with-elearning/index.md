@@ -148,3 +148,4 @@ Take the above-listed tips into consideration. They help you make eLearning more
 
 ---
 *This is a guest post by **Tiffany Harper.** Tiffany is an experienced writer from New York (USA) and an extremely active woman. She began her career as a journalist, and now she works as a subject matter specialist with <a href="https://www.bestessays.com/" target="_blank">Bestessays.com</a>, mostly in business and eLearning technologies. Please do not hesitate to contact her on <a href="https://twitter.com/harper_tiffany" target="_blank">Twitter</a>.*
+

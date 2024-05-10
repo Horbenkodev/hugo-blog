@@ -16,6 +16,14 @@ industries: []
 categories:
 - Design
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Joe McLean",
+ "name": "Is Design Thinking the New Liberal Arts? 4 Most Important Principles"
+}
+</script>
 
 Design thinking is more than just a buzzword; it's a powerful problem-solving methodology that has transformed the way businesses, organizations, and individuals approach innovation and creativity. At its core, design thinking is about empathy, collaboration, and experimentation, and it has the potential to revolutionize the way we solve complex challenges in today's fast-paced and rapidly changing world. Whether you're a business leader looking to <a href="https://anadea.info/services/custom-software-development" target="_blank">build custom software for your business</a>, an educator seeking to inspire creativity in your students, or simply someone who wants to learn more about this exciting approach to problem-solving, this article will provide valuable insights and practical tips to help you harness the power of design thinking!
 

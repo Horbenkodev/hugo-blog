@@ -18,6 +18,16 @@ industries:
 categories:
 - Machine Learning
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "Chatbots In Healthcare Industry: a New Remedy for Old Problems"
+}
+</script>
+Updated 7 September, 2021
+
 Modern medicine is technological medicine. [Health institutions are moving from analog to digital](https://anadea.info/blog/digital-healthcare-a-new-approach-to-care-coordination), mastering computer analysis and forecasting systems. Technologies in healthcare are not only the latest medical equipment but also industry-specific software that automates work processes.
 
 One of the promising areas is the chatbot application in healthcare. It is projected that <a href="https://www.marketsandmarkets.com/Market-Reports/healthcare-chatbots-market-27837519.html" target="_blank"> the healthcare chatbots market</a> will reach $314.3 million by 2023 from $122 million in 2018. <a href="https://www.juniperresearch.com/press/chatbots-a-game-changer-for-banking-healthcare" target="_blank">Juniper Research</a> shows that chatbots enable healthcare to cut costs by $8 billion per annum by 2022.

@@ -234,3 +234,42 @@ If you are looking for external specialists, you always have several options. Yo
 ### What are the benefits of a doctor scheduling app?
 
 As this software allows patients to book appointments online, it can greatly streamline and facilitate all the related tasks. People do not need to spend their time trying to reach administrators of a medical center via phone. They can make appointments just in a few minutes at any time of the day. Such solutions can not only help to reduce the required time but also can minimize the risks of mistakes caused by human factors. With the introduction of these tools, the workload for administrators will be lower, while the patient experience will be significantly enhanced.
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+  {
+   "@type": "Question",
+   "name": "Who can build a medical appointment app for me?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "If you are looking for external specialists, you always have several options. You can either hire freelancers or work with a professional software development company like Anadea. Both options have their own pluses. However, if you are looking for stable long-term cooperation, the variant of establishing cooperation with a firm will be more appropriate in your case."
+    }
+   ]
+  },
+  {
+   "@type": "Question",
+   "name": "What are the benefits of a doctor scheduling app?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "As this software allows patients to book appointments online, it can greatly streamline and facilitate all the related tasks. People do not need to spend their time trying to reach administrators of a medical center via phone. They can make appointments just in a few minutes at any time of the day. Such solutions can not only help to reduce the required time but also can minimize the risks of mistakes caused by human factors. With the introduction of these tools, the workload for administrators will be lower, while the patient experience will be significantly enhanced."
+    }
+   ]
+  },
+  {
+   "@type": "Question",
+   "name": "How much does it cost to develop a doctor appointment booking app?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "The cost of doctor appointment app development depends on the concept of your solution, its functionality, and your special requirements. As a rule, the price of such projects will be around $20,000-$60,000. However, if you plan to add some advanced features like AI chatbots or you want to integrate your app with wearable devices, investments in such projects will be higher."
+    }
+   ]
+  }
+ ]
+}
+</script>

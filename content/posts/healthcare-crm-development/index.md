@@ -202,3 +202,32 @@ A CRM system helps to accumulate and process patients' data that can be further 
 ### How long does it take to build a healthcare CRM solution?
 
 The time frames of any software development project can significantly vary based on the requirements and complexity of your solution. The exact estimates can be provided to you by your development team but on average it can take from 4 to 8 months. If you have a large organization, the entire project can take more time.
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+  {
+   "@type": "Question",
+   "name": "What is a CRM system for the healthcare industry?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "A CRM system helps to accumulate and process patients' data that can be further used for establishing better interaction with them and improving their experience. Thanks to the possibility to integrate CRM software with other platforms, organizations can keep all clinical and non-clinical information in one place and get easy access to it."
+    }
+   ]
+  },
+  {
+   "@type": "Question",
+   "name": "How long does it take to build a healthcare CRM solution?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "The time frames of any software development project can significantly vary based on the requirements and complexity of your solution. The exact estimates can be provided to you by your development team but on average it can take from 4 to 8 months. If you have a large organization, the entire project can take more time."
+    }
+   ]
+  }
+ ]
+}
+</script>

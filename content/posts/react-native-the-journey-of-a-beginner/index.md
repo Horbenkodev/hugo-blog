@@ -18,6 +18,14 @@ industries: []
 categories:
 - Development
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "React Native: the Journey of a Beginner"
+}
+</script>
 
 <p align="right"><sub>"If you sit by the riverbank for a long time,<br>
 you will see the dead body of the framework,<br>

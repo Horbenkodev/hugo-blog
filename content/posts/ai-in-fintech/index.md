@@ -135,3 +135,32 @@ There is a wide range of possible AI use cases in the fintech market. AI algorit
 ### How much does it cost to build an AI-powered fintech app?
 
 The exact cost of your project will be calculated based on your precise requirements. For your development team, it will be necessary to understand the scope of work, the complexity of tasks, and the row of technologies to be used in order to name an amount of your investment. However, you should understand that the development of AI features is a rather challenging task that requires specific skills and knowledge from the side of developers which will affect the final cost. At Anadea, our developers have all the required qualifications for building innovative AI tools and we will be able to help you with this task. When you provide us with all the required information about your future software product, we will make cost estimations for free.
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+  {
+   "@type": "Question",
+   "name": "How can AI be used in fintech?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "There is a wide range of possible AI use cases in the fintech market. AI algorithms can be applied to increase the security of fintech solutions, identify suspicious activity, as well as streamline and automate many manual tasks, like invoice processing. Moreover, thanks to personalization and better customer support ensured by AI-powered tools, fintech companies can achieve higher customer satisfaction and offer absolutely unique experiences."
+    }
+   ]
+  },
+  {
+   "@type": "Question",
+   "name": "How much does it cost to build an AI-powered fintech app?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "The exact cost of your project will be calculated based on your precise requirements. For your development team, it will be necessary to understand the scope of work, the complexity of tasks, and the row of technologies to be used in order to name an amount of your investment. However, you should understand that the development of AI features is a rather challenging task that requires specific skills and knowledge from the side of developers which will affect the final cost. At Anadea, our developers have all the required qualifications for building innovative AI tools and we will be able to help you with this task. When you provide us with all the required information about your future software product, we will make cost estimations for free."
+    }
+   ]
+  }
+ ]
+}
+</script>

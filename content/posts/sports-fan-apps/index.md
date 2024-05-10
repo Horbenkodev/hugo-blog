@@ -147,3 +147,32 @@ The cost of any software development project should be calculated individually. 
 ### Where can I hire developers to build a sports fan app?
 
 For the majority of sports organizations, it is not feasible to have in-house developers. But given the variety of engagement models that exist today in the business world, it is not a problem. You can establish cooperation with a professional software development agency that has the required expertise in the chosen business domain.
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+  {
+   "@type": "Question",
+   "name": "How much does it cost to build a fan engagement platform?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "The cost of any software development project should be calculated individually. The final amount is always affected by such parameters as the complexity of the project, the tech stack that should be applied, the number of integrations that you want to have, as well as the size and composition of the team that will work on the realization of your project. Such a project may cost $15K-$30K, however, it is a very approximate figure. To get a better understanding of the size of the required investment, it’s better to contact a development team that will analyze your requirements and provide an estimate."
+    }
+   ]
+  },
+  {
+   "@type": "Question",
+   "name": "Where can I hire developers to build a sports fan app?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "For the majority of sports organizations, it is not feasible to have in-house developers. But given the variety of engagement models that exist today in the business world, it is not a problem. You can establish cooperation with a professional software development agency that has the required expertise in the chosen business domain."
+    }
+   ]
+  }
+ ]
+}
+</script>

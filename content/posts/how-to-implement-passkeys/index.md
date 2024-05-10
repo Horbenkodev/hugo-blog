@@ -171,3 +171,36 @@ The passkey landscape is evolving, with numerous passkey providers emerging each
 ### Who can implement passkey functionality for me?
 
 Several options are available for integrating new technologies like passkey. You could utilize your development team if you have the necessary in-house skills and resources. Alternatively, software development companies like Anadea can provide both integration and customization of passkey solutions.
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+  {
+   "@type": "Question",
+   "name": "How can I implement passkey in my business software?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "At Anadea, we offer two main options for implementing passkey in your business software: <ul><li><strong>Seamless third-party integration:</strong> Leverage our expertise to integrate established solutions like Passwordless.dev or WebAuthn.js. This approach minimizes development effort and ensures a smooth integration process.</li><li><strong>Custom passkey solution:</strong> For businesses seeking complete control and customization, we offer the implementation of Anadea’s custom passkey solution specifically designed for Django websites. This allows for a tailored experience that fits your unique requirements.</li></ul>"
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "What are the popular passkey solution providers?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "The passkey landscape is rapidly evolving, with numerous providers emerging each month. Some of the popular passkey solution providers include Passwordless.dev, WebAuthn.js, and Microsoft Authenticator SDKs among others. These providers offer various solutions to implement passkey functionality, catering to different needs and preferences."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "Who can implement passkey functionality for me?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "For implementing passkey functionality, you have several options. If you possess the necessary in-house skills and resources, your own development team can undertake this project. Alternatively, software development companies like Anadea specialize in integrating and customizing passkey solutions. These companies provide the expertise needed to seamlessly incorporate passkey technology into your existing systems."
+   }
+  }
+ ]
+}
+</script>

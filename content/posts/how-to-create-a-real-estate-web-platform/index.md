@@ -15,6 +15,14 @@ industries:
 categories:
 - Web
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "How to Create a Real Estate Website—3 Types of Real Estate Platforms"
+}
+</script>
 
 How many deals are closed on real estate websites every day, be it renting, buying, or selling? It’s impossible to calculate it even close to approximately since there are thousands and thousands of real estate websites with millions of visitors a day.
 

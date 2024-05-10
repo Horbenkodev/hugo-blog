@@ -17,6 +17,14 @@ industries: []
 categories:
 - Business
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Khristine Agase",
+ "name": "Top Qualities Of a Great Software Developer"
+}
+</script>
 
 As the software development industry is growing at a rapid pace, the need for qualified software developers is also rising each day. When it comes to your software development needs, undoubtedly you only want to partner with a great software developer. However, if you do not have any programming knowledge, how can you find the right software expert?
 

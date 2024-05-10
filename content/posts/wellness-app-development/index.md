@@ -179,3 +179,52 @@ When it comes to the development of health and wellness applications, it is cruc
 ### Who can develop wellness applications for me?
 
 If your corporate structure doesn't presuppose hiring in-house developers, you can either work with freelancers or establish cooperation with a software development company that provides relevant services and has the required expertise. Both options have their pluses and minuses. However, for long-term projects, it is better to work with professional agencies. If you choose Anadea as your software development partner, you can be sure you get a solution of the highest quality.
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+  {
+   "@type": "Question",
+   "name": "How long does it take to build a wellness app?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "When it comes to the development of health and wellness applications, it is crucial to take into account a row of factors that typically have an impact on the time needed. Among these factors, we should mention the complexity of your projects and the composition of the team that will be working on them. On average, the wellness app development takes around 4.5 months. But if you have a very simple solution, the team will require less time on it (for example, around 2-3 months), for more advanced feature-rich products, you should allocate up to 5-10 months. Timelines, as well as budget-related questions, should be discussed with your development team before initiating the work on the project."
+    }
+   ]
+  },
+  {
+   "@type": "Question",
+   "name": "How much does it cost to develop a wellness app?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "On average, the development of wellness applications starts at $40K. It is lower if you need to create a very simple app or an MVP of your solution with only a basic set of features. It can also be higher in those cases when you want to implement the most innovative functionality."
+    }
+   ]
+  },
+  {
+   "@type": "Question",
+   "name": "What is a wellness app?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "Wellness apps can be explained as software solutions that help people monitor and enhance their mental and physical health. The majority of such products are built for **mobile devices** but there are also applications for **PCs and wearables**."
+    }
+   ]
+  },
+  {
+   "@type": "Question",
+   "name": "Who can develop wellness applications for me?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "If your corporate structure doesn't presuppose hiring in-house developers, you can either work with freelancers or establish cooperation with a software development company that provides relevant services and has the required expertise. Both options have their pluses and minuses. However, for long-term projects, it is better to work with professional agencies. If you choose Anadea as your software development partner, you can be sure you get a solution of the highest quality."
+    }
+   ]
+  }
+ ]
+}
+</script>

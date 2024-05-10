@@ -15,6 +15,17 @@ industries:
 - eLearning
 categories: []
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Marry Ann",
+ "name": "Improving Your eLearning Project With Push Notifications"
+}
+</script>
+
+*Updated on August 17, 2022.*<br /><br />
+
 You certainly received a push notification from some app today—a reminder, an announcement, or an email preview. These notifications truly justify their name, effectively pushing users to an action. This article aims at explaining how they can be used in education to improve the overall performance of the students and reveals some mobile app and web browser push notifications insights.
 
 ## Table of contents

@@ -18,6 +18,14 @@ categories:
 - Development
 - Ruby on Rails
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "A Simple Way to Decrease Complexity of Routes in Rails"
+}
+</script>
 Sometimes, when you are working with a large codebase, your `routes.rb` files grow really fast and become very dirty.
 
 There are several things that make your routes file bigger:

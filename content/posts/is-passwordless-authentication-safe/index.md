@@ -90,3 +90,42 @@ There are no specific restrictions related to the use of passwordless security m
 ### What are the key benefits of passwordless security methods?
 
 Such methods ensure better user experiences and a higher level of protection in comparison to traditional passwords. People do not need to take care of creating, remembering, and storing passwords, while the risks of various password-based attacks will be eliminated.
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+  {
+   "@type": "Question",
+   "name": "Is passkey safe?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "Definitely yes, at least it is much safer than a password. It is so because the concept of passkeys involves the use of two-factor authentication. It helps to enhance the protection level but it is often ignored by users of those apps and websites that have traditional passwords."
+    }
+   ]
+  },
+  {
+   "@type": "Question",
+   "name": "When is it better not to use passwordless authentication?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "There are no specific restrictions related to the use of passwordless security methods. However, you should bear in mind the learning curve (those users who are accustomed to relying on passwords may face difficulties with utilizing a new approach without proper training) and the investments associated with the implementation of passwordless auth."
+    }
+   ]
+  },
+  {
+   "@type": "Question",
+   "name": "What are the key benefits of passwordless security methods?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "Such methods ensure better user experiences and a higher level of protection in comparison to traditional passwords. People do not need to take care of creating, remembering, and storing passwords, while the risks of various password-based attacks will be eliminated."
+    }
+   ]
+  }
+ ]
+}
+</script>

@@ -16,6 +16,14 @@ industries: []
 categories:
 - Mobile
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Emily Clark",
+ "name": "What Platform Better Protects Your Privacy: iOS or Android?"
+}
+</script>
 
 Mobile users are on edge when it comes to their data privacy, and for good reasons.
 

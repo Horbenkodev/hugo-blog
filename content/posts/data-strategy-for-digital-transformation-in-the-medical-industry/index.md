@@ -18,6 +18,14 @@ industries:
 - Healthcare
 categories: []
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Nick Andrew Rojas",
+ "name": "Data Strategy for Digital Transformation in the Medical Industry"
+}
+</script>
 As technology blurs the line between digital and physical medical care, private practices and doctors must start using technology to promote the intimate connection necessary in doctor-patient relationships. More than 95% of non-federal acute care hospitals used information technology for health care today. Technology in medicine is widespread and growing, redefining how we think about healthcare.
 
 To efficiently implement the achievements of <a href="https://anadea.info/solutions/medical-app-development" target="_blank">medical software development</a> in day-to-day practice, be aware of the opportunities this evolution allows and consider all of them when developing a unique strategy.

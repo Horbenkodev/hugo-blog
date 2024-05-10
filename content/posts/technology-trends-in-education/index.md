@@ -15,6 +15,17 @@ industries:
 categories:
 - Trends
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "2022 Newest Trends in Education: Which EdTech Trends to Pursue?"
+}
+</script>
+
+_Updated July, 2022_
+
 
 ## Newest trends in education: Which EdTech Trends to Pursue?
 
@@ -173,3 +184,43 @@ Each of these tools has its own pros and cons, but the combination of all featur
 <a name="summary"></a>
 ### Conclusions
 *The EdTech space presents a wealth of exciting opportunities for businesses big and small to develop educational technology as a product or service. Being an [EdTech software company](https://anadea.info/solutions/e-learning-software-development) with decades of experience, we understand the current technological trends in teaching and learning. We leverage this knowledge to create effective EdTechnology solutions for our clients. Contact us to get more information.*
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "HowTo",
+ "name": "How to use eLearning trends when launching a startup?",
+ "step": [
+  {
+   "@type": "HowToStep",
+   "name": "Implement visual representation of continuous growthUnderstand the funding landscape.",
+   "itemListElement": [
+    {
+     "@type": "HowToDirection",
+     "text": "Education funding is local, national (in some cases, state and federal), and depending on the price associated with anything new, there are other pots of money, or opportunities, such as Public-Private Partnerships. Knowing what you need to charge and then having a clear idea of how a potential customer is going to pay for it will save a lot of headaches later on."
+    }
+   ]
+  },
+  {
+   "@type": "HowToStep",
+   "name": "Understand the needs of decision-makers, influencers, end-users, and budget holders.",
+   "itemListElement": [
+    {
+     "@type": "HowToDirection",
+     "text": "In education, you might be dealing with a range of equally important key actors in any decision: teachers, students, parents, headteachers, and boards of governors. It all comes down to budgetary levels. When something is more expensive, more decision-makers are going to be involved, and you will need to know what pushes everyone’s buttons to move discussions in the right direction."
+    }
+   ]
+  },
+  {
+   "@type": "HowToStep",
+   "name": "Make the business case.",
+   "itemListElement": [
+    {
+     "@type": "HowToDirection",
+     "text": "In most cases, any startup that has customers and revenue has already figured out product-market fit. It can take time. It isn’t always an easy one to figure out how to market an educational app, even if you think your first idea is a solution to a problem you have seen, or even encountered time and again. When making the business case, look at how a problem is solved from every angle. Business cases in education include cost-benefit and even ROI calculators.
+"
+    }
+   ]
+  }
+ ]
+}
+</script>

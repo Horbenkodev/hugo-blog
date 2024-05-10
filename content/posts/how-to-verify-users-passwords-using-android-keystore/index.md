@@ -17,6 +17,14 @@ industries: []
 categories:
 - Development
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "How to Verify Users' Passwords Using the Android KeyStore"
+}
+</script>
 
 Everybody knows that security is a very important issue for users and therefore developers should take a proper care of it. There are many posts about Android security in the Internet - some of them explain difference between cryptography algorithms, whilst others are dedicated to basics of Android security. In this post I will spotlight a single use case Android developers may face in their work.
 

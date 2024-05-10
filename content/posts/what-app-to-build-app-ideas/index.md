@@ -15,6 +15,14 @@ categories:
 - Mobile
 - App Ideas
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "Ideas for Apps to Build in 2022"
+}
+</script>
 
 You can run a business like a pro but lack creativity when it comes to finding new app ideas. Which is perfectly fine and explains why articles like this one exist.
 

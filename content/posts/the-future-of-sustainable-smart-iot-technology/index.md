@@ -16,6 +16,15 @@ industries: []
 categories:
 - Business
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Jori Hamilton",
+ "name": "The Future of Sustainable Smart IoT-Technology"
+}
+</script>
+
 Twenty-five years ago, if you asked anyone what they thought the future would look like, you’d likely be met with answers like “Robots for companions, flying cars and regular trips to Mars.” While we’re a long way off from holidaying in the stars, we have made unimaginable headway in the field of IoT Technology.
 
 <a href="https://www.fraud-magazine.com/article.aspx?id=4295000555" target="_blank">The IoT or ‘the Internet of Things’</a> is a system of interrelated computing devices with the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction. And while most people associate it with the ‘smart home device,’ its branches extend far beyond that, and into several areas like <a href="https://anadea.info/blog/healthcare-future-integrating-medical-devices-with-health-apps" target="_blank">healthcare</a>, the automobile industry and so on.

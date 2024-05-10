@@ -14,6 +14,14 @@ industries: []
 categories:
 - News
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "Anadea Wins Private Education & Development Award 2019 by CV Magazine"
+}
+</script>
 ***Anadea has been awarded Best Custom Education Software Development Company - Eastern Europe, 2019.***
 
 We are excited to announce that Anadea has been named a winner of the 2019 Private Education & Development Awards from Corporate Vision Magazine. Our company has been recognized as Best Custom Education Software Development Company - Eastern Europe.

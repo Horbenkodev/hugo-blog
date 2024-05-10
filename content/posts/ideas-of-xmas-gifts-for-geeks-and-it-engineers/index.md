@@ -16,6 +16,14 @@ draft: true
 industries: []
 categories: []
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "Cool Ideas of Xmas Gifts for Geeks and IT Engineers"
+}
+</script>
 
 Christmas is a favorite holiday for both children and adults. The pre-holiday fuss is always accompanied by the search for suitable gifts for relatives, friends and colleagues. People always want to choose something original and at the same time useful and pleasant. It's easy enough to please a little boy with a toy car or Lego building blocks. And that is another story to make an adult happier with a gift, especially when he or she interests in the stuff you don't know much about.
 

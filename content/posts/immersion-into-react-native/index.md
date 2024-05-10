@@ -16,6 +16,14 @@ industries: []
 categories:
 - Development
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "Immersion in React Native: Navigation, Offline Mode, Push Notifications"
+}
+</script>
 
 ## Navigation
 

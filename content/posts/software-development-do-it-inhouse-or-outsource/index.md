@@ -17,6 +17,14 @@ industries: []
 categories:
 - Business
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "Software Development: Do It In-House or Outsource?"
+}
+</script>
 
 We often hear that we live in the world of possibilities. However, how often do you hear what these possibilities are?
 

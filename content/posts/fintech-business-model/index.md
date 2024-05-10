@@ -131,3 +131,32 @@ Given the variety of new fintech business models, it is impossible to define the
 ### Is it worth investing in fintech now?
 
 Though today we can’t say that fintech firms are ready to fully replace traditional financial and banking institutions, they have great potential. They are gradually winning their market share by attracting more and more customers. While traditional services can’t address all the existing needs at a full scale, people have started paying more and more attention to fintech alternatives. And such a situation creates a perfect context for launching a new fintech project and investing in this space.
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+  {
+   "@type": "Question",
+   "name": "What is the best fintech business model?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "Given the variety of new fintech business models, it is impossible to define the best one. Different models have their clear value for businesses and private users. Moreover, they all offer great monetization options. However, to enjoy the available opportunities, you need to be sure that the solution that you are going to launch corresponds to the needs and expectations of your target audience in the chosen region."
+    }
+   ]
+  },
+  {
+   "@type": "Question",
+   "name": "Is it worth investing in fintech now?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "Though today we can’t say that fintech firms are ready to fully replace traditional financial and banking institutions, they have great potential. They are gradually winning their market share by attracting more and more customers. While traditional services can’t address all the existing needs at a full scale, people have started paying more and more attention to fintech alternatives. And such a situation creates a perfect context for launching a new fintech project and investing in this space."
+    }
+   ]
+  }
+ ]
+}
+</script>

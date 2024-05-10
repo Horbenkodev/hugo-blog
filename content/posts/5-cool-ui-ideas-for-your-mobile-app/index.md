@@ -16,6 +16,14 @@ industries: []
 categories:
 - UX-UI
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "5 Cool UI Ideas for Your Mobile App"
+}
+</script>
 Design of user interfaces is something similar to a mixture of art and science. However, it has never been an act of pure creativity. So if you are inspired by the quote "Good artists copy, great - steal", be careful, do not cut yourself with shards of broken illusions. Because Pablo Picasso didn't say that, guys. It is the same dubious creature of the Internet as the fake quotes of Abraham Lincoln circulating online.
 
 The thing is a mobile app designer is not an artist, and for inspiration he needs knowledge and deep understanding of the task, instead of "images" of other designers. The technical solution and the appearance of mobile devices often influence the application UI design, and designers have to adapt to the changes of the market.

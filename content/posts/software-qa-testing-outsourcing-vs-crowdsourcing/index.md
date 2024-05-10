@@ -17,6 +17,14 @@ industries: []
 categories:
 - QA
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "Software QA & Testing: Outsourcing vs. Crowdsourcing"
+}
+</script>
 
 Writing code is hard. For some, this may come as a surprise, software quality assurance and testing are not easier. Of course, reporting bugs may not require too much technical skills. But the same cannot be said about evaluating a product from customer's perspective, understanding software product features, developing a test strategy, planning the test cases, picking which tools to use, and all of that within strict deadlines when a product was supposed to be ready yesterday and its release is today, especially while dealing with a very demanding customer. That's why the question "What does a quality assurance engineer do?" doesn't boil down to a simple answer.
 

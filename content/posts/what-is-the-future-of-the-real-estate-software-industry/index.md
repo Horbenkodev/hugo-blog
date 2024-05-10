@@ -16,6 +16,14 @@ industries:
 - Real Estate
 categories: []
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "What is the Future of the Real Estate Software Industry?"
+}
+</script>
 
 Real estate technology continues to thrive as the industry continues to grow and transform. With over 120 real estate startups, it's no surprise that this sector is making a significant impact on the property industry.
 

@@ -15,6 +15,14 @@ industries: []
 categories:
 - Promotion
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Nick",
+ "name": "Core Web Vitals: What They Are & How to Improve Them"
+}
+</script>
 <h2>Contents</h2>
 <ol>
  <li><a href="#introduction">Introduction</a></li>

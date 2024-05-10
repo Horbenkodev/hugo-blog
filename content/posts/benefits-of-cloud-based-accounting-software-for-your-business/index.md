@@ -17,6 +17,14 @@ industries: []
 categories:
 - Business
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Victor. S. Thomas",
+ "name": "Benefits of Cloud-Based Accounting Software for Your Business"
+}
+</script>
 As a business owner, you are pretty much aware of the ongoing tech and business trends. It becomes essential to keep up with the latest technology developments and run the business smoothly — one of the areas that have noticed significant changes is the accounting and bookkeeping.
 
 Although the accounting field still can be daunting, the technology has made it simpler and quicker by introducing cloud accounting software. It's a perfect option especially for small businesses who cannot afford hiring an expert accountant.

@@ -18,6 +18,14 @@ industries: []
 categories:
 - Business
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Russ Davidson",
+ "name": "How Mobile Apps Are Revolutionizing The Manufacturing Industry"
+}
+</script>
 
 Technology takes over all industries in due time, whether it is advancements in hardware, <a href="https://anadea.info/blog/artificial-intelligence-pandoras-box-or-the-holy-grail" target="_blank">artificial intelligence</a>, or mobile technology.
 

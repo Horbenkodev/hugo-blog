@@ -16,6 +16,15 @@ categories:
 - Business
 - Machine Learning
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "How to Unlock New Business Value with Machine Learning"
+}
+</script>
+
 ***Machine learning (ML), business intelligence (BI) and artificial intelligence (AI); we have got beyond these being mere buzzwords. A whole industry has grown up around them, worth billions. And the number of success stories are growing across a diverse range of sectors. This technology is proven.***
 
 But at the same time, businesses can still be forgiven for not understanding what and how they can benefit from machine learning. And wondering if that is connected to other words and phrases that are kicked around?

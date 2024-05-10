@@ -16,6 +16,14 @@ industries: []
 categories:
 - Machine Learning
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "Business Benefits of Using Machine Learning"
+}
+</script>
 ***Businesses everywhere are facing serious challenges, and adapting to a new economic reality. Around the world, the impact of Coronavirus (Covid-19) will be felt for years to come. Growth is slowing, and in some cases, countries are entering recession.***
 
 Now more than ever, businesses need to be competitive.

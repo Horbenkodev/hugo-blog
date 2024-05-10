@@ -17,6 +17,14 @@ industries: []
 categories:
 - News
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "Anadea is Among Top Ruby On Rails Development Companies of August 2020"
+}
+</script>
 
 <img src="Top_Ruby_on_Rails_Developers_-_2020.png" alt="Top Ruby on Rails DEvelopers 2020" width='220' class="float-right">
 

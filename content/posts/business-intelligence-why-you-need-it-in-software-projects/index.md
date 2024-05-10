@@ -16,6 +16,14 @@ industries: []
 categories:
 - Business
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Anadea",
+ "name": "Business Intelligence: Why You Need It in Software Projects?"
+}
+</script>
 ***When new software is developed, whether a simple app or something more involved, it should always be a data-driven process. Business intelligence, or BI, is the process whereby internal teams and stakeholders work with analysts to determine the most effective ways to solve problems.***
 
 This sounds like a sensible approach, and ultimately whether a company is going through a <a href="https://anadea.info/blog/digital-transformation" target="_blank">digital transformation</a> or simply needs new software, the role of analysts and intelligence is about solving problems.
