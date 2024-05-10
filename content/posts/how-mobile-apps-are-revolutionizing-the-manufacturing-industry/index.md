@@ -17,18 +17,10 @@ industries: []
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Russ Davidson",
- "name": "How Mobile Apps Are Revolutionizing The Manufacturing Industry"
-}
-</script>
 
 Technology takes over all industries in due time, whether it is advancements in hardware, <a href="https://anadea.info/blog/artificial-intelligence-pandoras-box-or-the-holy-grail" target="_blank">artificial intelligence</a>, or mobile technology.
 
-In business, mobile apps have helped revolutionize payments, e-commerce, order management, and more. It's easy to see why some industries may have paved the way for the use of mobile apps while the rest catch up, given the benefits mobile technology (namely, <a href="https://anadea.info/solutions/erp-development" target="_blank">enterprise resource planning solutions</a>) can provide. These are the ability to connect from wherever you may be and much much more. 
+In business, mobile apps have helped revolutionize payments, e-commerce, order management, and more. It's easy to see why some industries may have paved the way for the use of mobile apps while the rest catch up, given the benefits mobile technology (namely, <a href="https://anadea.info/solutions/erp-development" target="_blank">enterprise resource planning solutions</a>) can provide. These are the ability to connect from wherever you may be and much much more.
 
 It can be obvious to think of how mobile applications have a strong role in some industries, such as <a href="https://anadea.info/solutions/ecommerce-software-development" target="_blank">e-commerce</a>. Something even as simple as paying with a credit card at a kiosk wouldn't be possible without the prevalence of smartphones and mobile apps. In an industry such as manufacturing, one might not have an immediate thought of why mobiles apps may be desired.
 
@@ -50,9 +42,9 @@ For example, with mobile devices on the shop floor, manufacturers can quickly ac
 
 ![Employee productivity](Employee-productivity.jpg)
 
-We're in an age where your entire workforce likely has a smartphone as their own personal device. What this means is that opposed to even 5 years ago, everyone has familiarity with how mobile phones and tablets work (including how to operate applications within their operating systems). 
+We're in an age where your entire workforce likely has a smartphone as their own personal device. What this means is that opposed to even 5 years ago, everyone has familiarity with how mobile phones and tablets work (including how to operate applications within their operating systems).
 
-In light of this, there should be no reasons why you don't have your workforce equipped to use mobile devices in the field to increase overall productivity. Having mobile devices used among your workforce allows for better tracking of your employee's actions. If you are tracking production output, or when inventory is being stocked/replenished, and require employees to make note of such at every step of the way, you allow for greater knowledge of how well your employees are using their time. 
+In light of this, there should be no reasons why you don't have your workforce equipped to use mobile devices in the field to increase overall productivity. Having mobile devices used among your workforce allows for better tracking of your employee's actions. If you are tracking production output, or when inventory is being stocked/replenished, and require employees to make note of such at every step of the way, you allow for greater knowledge of how well your employees are using their time.
 
 If you run a large enough manufacturing plant, it also may be important to know the location of your employees. While you don't necessarily need full GPS tracking of your employee's devices (although that option exists), you should be able to assume a location of an employee based on their last performed action (scanning inventory at a specific location, for example).
 
@@ -66,7 +58,7 @@ The goal of having all that information at your fingertips? Faster decision maki
 
 ## Progressing forward in manufacturing
 
-Mobile apps will continue to be improved upon and added as available options to either operate your existing SaaS solution or to run an independent program you've fallen in love with. The answer won't be as easy as dropping your existing legacy system/methods in favor of mobile technology. In fact, the most scalable way to incorporate mobile technology will be a few tasks at a time. The technology is only improving, and it will not be waiting for you. 
+Mobile apps will continue to be improved upon and added as available options to either operate your existing SaaS solution or to run an independent program you've fallen in love with. The answer won't be as easy as dropping your existing legacy system/methods in favor of mobile technology. In fact, the most scalable way to incorporate mobile technology will be a few tasks at a time. The technology is only improving, and it will not be waiting for you.
 
 
 <br />

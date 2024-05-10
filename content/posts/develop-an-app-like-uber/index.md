@@ -14,16 +14,6 @@ industries: []
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "How to Make an App Like Uber: Features and Tech Components [2022]"
-}
-</script>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How Much Does It Cost to Make an App Like Uber?","acceptedAnswer":[{"@type":"Answer","text":"Depending on the scope, vendor’s fee, and the number of specialists involved, the approximate cost of your Uber car service app can differ significantly. The estimated cost of the Uber-like apps we create is between $35,000 and $75,000 for 8–16 weeks of work."}]},{"@type":"Question","name":"How to Save Money on Uber-like App Development?","acceptedAnswer":[{"@type":"Answer","text":"To save money on developing an app like Uber, you can:\n\nStart with an MVP. A minimum viable product is a fully functional app that is only designed to solve its primary task with no side features. And no side features mean no side spending.\n\nStart with one native app instead of two. You can create an app like Uber in Android or iOS instead of both at once. One app will allow you to test the demand for your product and decide whether you want the one for the alternative platform or stick with the existing Uber-like app solution. You can always spend more money, but you can’t spend it back once you have already given it away.\n\nChoose a vendor that offers favorable conditions, such as not paying the whole sum at once. At the start, we at Anadea only charge a small fee, and the rest is paid exclusively upon features completion."}]},{"@type":"Question","name":"What Are the Main Parts of Apps Like Uber?","acceptedAnswer":[{"@type":"Answer","text":"Essentially, for the consumer, the core principle of Uber and its clones comes down to the same sequence, i.e.:\n\nRequest a trip and specify the pickup point;\nMatch with the nearest driver;\nTake a ride;\nPay non-cash;\nRate the driver and get rated by them.\nThese are the main parts of apps like Uber if you are up to creating one. The rest of the features are built over this frame. The Uber model is suitable not only for ride-hailing but also for solving the problem of finding help of any kind, be it finding a nanny, a tow truck, a plumber, or a parking lot nearby."}]}]}</script>
-
 _– How are all these people parking their cars in such crowded yards?.. They are practically over one another like sardines in a can._
 
 This is not what we think, but is probably the way of thinking of many large cities’ residents. Over the years, people living fast-paced lives prefer using affordable taxis like Uber instead of buying their own car. For many citizens, it is simply more convenient than maintaining one and - horrors! - figuring out where to park it.
@@ -62,7 +52,7 @@ In a nutshell, the working principle of Uber and similar apps boils down to the 
 
 2. __Match.__ Out of all the nearby cars which drivers use the same app, the algorithm picks the nearest one and sends the user request to the driver who confirms it and goes where needed.
 
-3. __Ride.__ When approval from the driver is granted, the rider sees the car description - model, color, license plate number - and the estimated time of arrival. 
+3. __Ride.__ When approval from the driver is granted, the rider sees the car description - model, color, license plate number - and the estimated time of arrival.
 
 4. __Pay.__ The rider pays for the ride in cash or with a card. The latter is usually the one of choice as one of the main reasons people prefer Uber-like apps is to avoid cash-related fuss.
 
@@ -89,12 +79,12 @@ Integrations of a side API like __Google Maps__ or __MapBox__ will provide accur
 Give riders the opportunity to choose the convenient payment option - card or cash. Integrate your app with proven payment services for smooth transactions and ask QA engineers working on your Uber-like application to pay special attention to its financial aspect. Nothing is more irritating to users than money withdrawn twice or delayed returns, so make sure they won’t have such an experience with your app.
 
 #### Registration & Profile
-Most apps like Uber use the phone number and email for signing up. The first is mostly needed for security and connecting with riders if they are not online. The second is where receipts and promotions are sent. The original app, Uber, offers registration via Facebook and Google or email - with the phone number not going anywhere. 
+Most apps like Uber use the phone number and email for signing up. The first is mostly needed for security and connecting with riders if they are not online. The second is where receipts and promotions are sent. The original app, Uber, offers registration via Facebook and Google or email - with the phone number not going anywhere.
 
 Once they sign up, allow users to fill in personal information like their name and default home and work addresses to choose from on the go. Some apps like Bolt allow uploading a profile picture.
 
 #### Driver’s Profile
-Driver’s name and profile picture are a must in any Uber-like app. The number of years of driving experience and driver’s rating indicating how other users were satisfied with their driving would be a plus. Finally, a picture will allow the rider to know the driver a bit better before getting in their car. This is particularly important for the rider's safety - we will get back to it later. 
+Driver’s name and profile picture are a must in any Uber-like app. The number of years of driving experience and driver’s rating indicating how other users were satisfied with their driving would be a plus. Finally, a picture will allow the rider to know the driver a bit better before getting in their car. This is particularly important for the rider's safety - we will get back to it later.
 
 #### Safety Uber App Features
 Taking measures to assure safe rides is not just a trend but a necessity, and we hope as few people as possible know it from experience. Rides with strangers, especially at night time, require extreme caution, and you, with an idea to build an app like Uber, need to provide users with maximum safety. For that, you can remind riders to send car data and trip details to their significant other. Uber has the __Trusted Contacts__ feature listing people to whom these data can be sent.
@@ -130,7 +120,7 @@ _<center><font size="-1">Source: <a href="https://www.freepik.com/premium-vector
 From the drivers’ point of view, the list of features is getting less evident as most people only know driving services like Uber from the rider’s perspective. But still, there is something to talk about for drivers using the app.
 
 #### Driver Report
-For the safety of both riders and drivers, the original Uber app collects the driving information, including that of exceeding speed limits. If violations within a certain period of time - week, month, etc. - are way too frequent, the driver’s working position might be reviewed to minimize the risk of accidents. 
+For the safety of both riders and drivers, the original Uber app collects the driving information, including that of exceeding speed limits. If violations within a certain period of time - week, month, etc. - are way too frequent, the driver’s working position might be reviewed to minimize the risk of accidents.
 
 #### Advanced Route Building
 Enable the navigator used by drivers to indicate areas where the traffic is tight or construction works take place. Advanced route building suggests multiple routes to choose from and indicates the estimated ride duration depending on the above factors. Faster order completion allows you to earn more as drivers can take more orders.
@@ -158,7 +148,7 @@ To answer the question of how much does it cost to build an app like Uber, sever
 You certainly don’t have to implement the entire list of Uber-like app features above in your app, especially if you decide to start with MVP development or if you only want to use the Uber model but the entire ride-hailing app concept. Keep in mind that the more complex the functionality, the higher the final cost. Also, consider whether you want your own custom modules like chat or get along with __built-in third-party service integrations__ - the latter is much more affordable and you can always change it to a more desired option by the time your app starts making a profit.
 
 ### Your Company Type
-You need to take a wide perspective to get the estimated cost of creating an app like Uber. The stage of business development you are at plays a significant role in cost estimation. In case you already run a taxi business and have drivers you partner with, that is one option. Another one is if you are just itching to start such a venture as a taxi business being at the very beginning of growing your company. 
+You need to take a wide perspective to get the estimated cost of creating an app like Uber. The stage of business development you are at plays a significant role in cost estimation. In case you already run a taxi business and have drivers you partner with, that is one option. Another one is if you are just itching to start such a venture as a taxi business being at the very beginning of growing your company.
 
 In the first case, it is pretty clear - you have an established business and want it to go bigger. In the second, consider that the app alone won’t meet all of the business needs: you will also need marketing, SEO, and ASO so that the first users learn about your new app like Uber. These are additional categories of spending you should be prepared for.
 

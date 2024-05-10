@@ -18,14 +18,6 @@ categories:
 - Web
 - Development
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Benjamin Shepardson",
- "name": "A Timeline of Everything We Know About Web Development (So You Can Understand the News)"
-}
-</script>
 Web development is a long and storied process. From the Internet's humblest of beginnings in the 1960s as a US Department of Defense project to its existence today as the ultimate communications tool, web developers have been there every step of the way, innovating and thinking up new and interesting ways to apply technology to our lives.
 
 The story is long but entertaining. Here's what you might not have learned in school about how the Internet developed over nearly half a century. What you'll learn will likely surprise you - but it will also make it much easier for you to understand just how groundbreaking the newest developments as they're announced today.
@@ -58,7 +50,7 @@ HTML launched an Internet renaissance. Web pages began popping up everywhere. By
 
 The next decade got off to a rocky start, especially due to the dot-com bubble burst in 2000 that sent hundreds, if not thousands, of fledgling Internet startups shuttering their doors. Things got worse in 2001 when federal judges shut down <a href="https://www.wired.com/2002/05/the-day-the-napster-died/" rel="nofollow" target="_blank">music sharing site Napster</a>, leaving many music lovers high and dry with no way to share tracks easily.
 
-Web development bounced back in a major way. Though, thanks to the launch of sites like Myspace, Skype, and <a href="https://ben-seo.com/the-growth-of-wordpress.html" target="_blank">WordPress</a> in 2003, the social media trend continued with Facebook launching in 2004 alongside the Firefox browser. 
+Web development bounced back in a major way. Though, thanks to the launch of sites like Myspace, Skype, and <a href="https://ben-seo.com/the-growth-of-wordpress.html" target="_blank">WordPress</a> in 2003, the social media trend continued with Facebook launching in 2004 alongside the Firefox browser.
 
 2005 brought us YouTube, and 2006 gave us Twitter (for better or worse). The capabilities of <a href="https://www.designrush.com/agency/web-development-companies" target="_blank">web development companies</a> became increasingly advanced with Adobe Flash providing embedded interactive elements and cascading style sheets (CSS) making it easier to create in HTML.
 
@@ -70,7 +62,7 @@ Meanwhile, in 2013, <a href="http://www.bbc.com/news/world-us-canada-23123964" r
 
 ## 2016-2020
 
-In years 2016-2020, mobile-first design became a big deal. With more people accessing the web on their phones, developers had to shift their focus to making websites that work well on smaller screens. Then, there were progressive web apps (PWAs). These are basically web applications that look and feel like native mobile apps, but are actually built using web technologies. They offer a seamless user experience, even when offline, and can be installed on the user's home screen just like a native app. Single-page applications (SPAs) were also popular during this time. These are web applications that load a single HTML page and dynamically update the content as the user interacts with the app. This results in a more seamless user experience. Then, of course, Artificial intelligence (AI) and machine learning (ML) were integrated into web applications, giving rise to things like chatbots, voice assistants, and recommendation engines. 
+In years 2016-2020, mobile-first design became a big deal. With more people accessing the web on their phones, developers had to shift their focus to making websites that work well on smaller screens. Then, there were progressive web apps (PWAs). These are basically web applications that look and feel like native mobile apps, but are actually built using web technologies. They offer a seamless user experience, even when offline, and can be installed on the user's home screen just like a native app. Single-page applications (SPAs) were also popular during this time. These are web applications that load a single HTML page and dynamically update the content as the user interacts with the app. This results in a more seamless user experience. Then, of course, Artificial intelligence (AI) and machine learning (ML) were integrated into web applications, giving rise to things like chatbots, voice assistants, and recommendation engines.
 
 ## 2020-our days
 These days, trends of the previous five years remain relevant and are reaching their peak. So, with the increasing popularity of voice assistants like Siri, Alexa, and Google Assistant, voice search optimization is becoming a critical aspect of web development. Websites will need to be optimized for voice search to provide relevant results to the users. Then we have Motion UI, a design trend that is becoming increasingly popular. It involves the use of animations and other visual effects to create a more engaging and interactive user experience. And the one that is booming right now is AI and everything it entails; smart recommendation systems, chatbots, and voice assistants are not a feature anymore but a standard in web development.

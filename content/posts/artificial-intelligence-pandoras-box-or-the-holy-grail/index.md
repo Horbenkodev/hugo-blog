@@ -17,14 +17,6 @@ categories:
 - Business
 - Machine Learning
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Olga",
- "name": "Artificial Intelligence: a Pandora's Box or the Holy Grail?"
-}
-</script>
 Google, Amazon, Facebook and other tech giants are working on the creation of advanced artificial intelligence systems and their potential application. Have you ever been interested in how it is going now in the field of computer science dedicated to artificial intelligence? What progress has been made in AI and what are the key issues in artificial intelligence?
 
 Let's ponder on some artificial intelligence important questions and challenges.
@@ -49,13 +41,13 @@ Reasons for this misunderstanding? To name a few:
 
 * **Unrealistic expectations.** It's quite possible you already use the outcomes of AI research every day and take it for granted. Virtual assistants such as Apple's Siri, flying drones, online customer support [chatbots](https://anadea.info/blog/what-is-a-chatbot-and-how-to-use-it-for-business), music recommendation services like Pandora and Netflix are our present. But automated robot vacuum cannot compete with robot butler of Tony Stark. High expectations are among the reasons why we misunderstand AI.
 
-Since artificial intelligence is a broad topic it is worth to mention its types. AI that focuses on one task only is called weak AI, a.k.a. narrow. It can beat the Go champion, but it's the only one area it specializes in. All currently existing systems of AI are narrow. Strong AI, a.k.a. general is a kind of intelligence that can compete a human in different areas. It can solve any problem as compared with weak AI. 
- 
+Since artificial intelligence is a broad topic it is worth to mention its types. AI that focuses on one task only is called weak AI, a.k.a. narrow. It can beat the Go champion, but it's the only one area it specializes in. All currently existing systems of AI are narrow. Strong AI, a.k.a. general is a kind of intelligence that can compete a human in different areas. It can solve any problem as compared with weak AI.
+
 Below are some examples of modern developments that involve AI techniques.
 
 **Automation of planning and scheduling.** Remote Agent, the artificial intelligence system developed by NASA in 1999, ran on the onboard computer of a spacecraft. It established plans based on high-level goals set from Earth and was capable of self-testing and self-repairing in a case of disaster. Thus, Remote Agent enabled a spacecraft to control itself automatically.
 
-**Video game AI.** If you have ever played games like Mortal Kombat or Need for Speed, you have interacted with video game AI. Artificial intelligence in video games is a set of software methods used in order to give an illusion of intellect in the behavior of non-player characters. 
+**Video game AI.** If you have ever played games like Mortal Kombat or Need for Speed, you have interacted with video game AI. Artificial intelligence in video games is a set of software methods used in order to give an illusion of intellect in the behavior of non-player characters.
 
 **Medical diagnosis.** Watson Health, IBM's AI system, helps in the field of healthcare. The AI program is capable of solving health challenges and providing evidence-based treatment recommendations through the data-driven insights. IBM Watson is also successfully used in drug discovery.
 
@@ -67,28 +59,28 @@ Below are some examples of modern developments that involve AI techniques.
 
 The definition of artificial intelligence is mainly focused on its subdiscipline - machine learning. The simplest example of machine learning is when we need to distinguish one thing from another. Rather than to find a direct solution to a problem, [machine learning development](https://anadea.info/services/machine-learning-software-development) uses algorithms to train the machine.
 
-That is, instead of hand-coding software with an instruction set for performing a task, a machine is trained by a great quantity of data and algorithms which enable it to learn how to perform the task. Now algorithmic approaches include learning about how to create a decision tree, inductive logic programming, reinforce learning, and clustering among others. 
+That is, instead of hand-coding software with an instruction set for performing a task, a machine is trained by a great quantity of data and algorithms which enable it to learn how to perform the task. Now algorithmic approaches include learning about how to create a decision tree, inductive logic programming, reinforce learning, and clustering among others.
 
 ### Deep learning
 Deep learning is a specific type of machine learning. Let's say we train our software program by showing it samples of some input data and the right answers or explanation to it. And thus we adjust the program to give right relevant output. If we apply deep learning, the process of selection and configuration of certain indicators becomes automatic. Deep learning, the processing power of modern computers and data storage have resulted in the establishment of artificial neural networks that can mimic human decision making.
 
 ## The speed of AI advancement
 
-On May 11, 1997, Deep Blue designed by IBM defeated world chess champion Garry Kasparov in a six-game match. 
+On May 11, 1997, Deep Blue designed by IBM defeated world chess champion Garry Kasparov in a six-game match.
 
-Nineteen years later, in March 2016, <a href="https://www.deepmind.com/research/highlighted-research/alphago" rel="nofollow" target="_blank">Alpha Go</a>, a computer program developed by Google DeepMind for playing the ancient Chinese board game of Go, won four out of five games in the match against Lee Sedol. 
+Nineteen years later, in March 2016, <a href="https://www.deepmind.com/research/highlighted-research/alphago" rel="nofollow" target="_blank">Alpha Go</a>, a computer program developed by Google DeepMind for playing the ancient Chinese board game of Go, won four out of five games in the match against Lee Sedol.
 
 In October 2017 the latest evolution of Alpha Go, AlphaGo Zero, exceeded the old version in 40 days. AlphaGo Zero uses reinforcement learning which means it is its own teacher.
 
-Why these examples of artificial intelligence? The <a href="https://en.wikipedia.org/wiki/Shannon_number" rel="nofollow" target="_blank">Shannon number</a> estimates the game-tree complexity of chess in 10<sup>120</sup>. With the board's 361 points of Go, its game-tree complexity is 10<sup>360</sup>, according to <a href="http://fragrieu.free.fr/SearchingForSolutions.pdf" rel="nofollow" target="_blank">Victor Allis</a>. Something astronomical, eh? Let's make it more understandable. For comparison: after the fourth move in a game of chess there are about 100 000 possible positions, in Go, this number exceeds 16 billion. And here is an illustration of a tic-tac-toe game-tree. 
+Why these examples of artificial intelligence? The <a href="https://en.wikipedia.org/wiki/Shannon_number" rel="nofollow" target="_blank">Shannon number</a> estimates the game-tree complexity of chess in 10<sup>120</sup>. With the board's 361 points of Go, its game-tree complexity is 10<sup>360</sup>, according to <a href="http://fragrieu.free.fr/SearchingForSolutions.pdf" rel="nofollow" target="_blank">Victor Allis</a>. Something astronomical, eh? Let's make it more understandable. For comparison: after the fourth move in a game of chess there are about 100 000 possible positions, in Go, this number exceeds 16 billion. And here is an illustration of a tic-tac-toe game-tree.
 
 <center><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Tic-tac-toe-full-game-tree-x-rational.jpg" alt="Tic-tac-toe game-tree" style="width: 90%;"></center>
 
-Not by games alone. AI chatbots, for instance, are also rapidly evolving: 
+Not by games alone. AI chatbots, for instance, are also rapidly evolving:
 
 * **<a href="https://en.wikipedia.org/wiki/Tay_(bot)" rel="nofollow" target="_blank">Tay</a>**, an AI chatbot released by Microsoft in March 2016 via Twitter, in theory, should have been trained human language and interaction by exchanging words with Twitter users. But having communicated to people for a while, it quickly became a Nazi.
 
-* Google's Deep Brain neural nets **Alice**, **Bob**, and **Eve** <a href="https://arxiv.org/pdf/1610.06918v1.pdf" rel="nofollow" target="_blank">demonstrated</a> they can learn to protect information from other neural nets and therefore they may be quite effective in cryptographic protecting as well as attacking. 
+* Google's Deep Brain neural nets **Alice**, **Bob**, and **Eve** <a href="https://arxiv.org/pdf/1610.06918v1.pdf" rel="nofollow" target="_blank">demonstrated</a> they can learn to protect information from other neural nets and therefore they may be quite effective in cryptographic protecting as well as attacking.
 
 * **<a href="https://code.facebook.com/posts/1686672014972296/deal-or-no-deal-training-ai-bots-to-negotiate/" rel="nofollow" target="_blank">Bots by FAIR</a>**
  (Facebook Artificial Intelligence Research lab) created an entirely new language which makes sense only for them. This unexpected result was produced by training the bots to negotiate.

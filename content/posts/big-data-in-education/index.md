@@ -17,15 +17,7 @@ industries:
 - eLearning
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Charles Ebert",
- "name": "Big Data in Education: Realities, Challenges and Opportunities"
-}
-</script>
-The <a href="https://www.forbes.com/sites/forbestechcouncil/2018/06/14/iot-for-economic-and-social-good-how-the-internet-of-things-makes-our-world-better/" target="_blank">Internet of Things</a> (IoT) and a new, faster web (known as Web 3.0) are here upon us, and as some wise old dude stated, we have no choice but to adapt or perish. One of the newer technologies related to the IoT is Big Data, which fundamentally involves the collection, analysis, and application of large volumes of data in various spheres. 
+The <a href="https://www.forbes.com/sites/forbestechcouncil/2018/06/14/iot-for-economic-and-social-good-how-the-internet-of-things-makes-our-world-better/" target="_blank">Internet of Things</a> (IoT) and a new, faster web (known as Web 3.0) are here upon us, and as some wise old dude stated, we have no choice but to adapt or perish. One of the newer technologies related to the IoT is Big Data, which fundamentally involves the collection, analysis, and application of large volumes of data in various spheres.
 
 In this article, the focus is on the use of Big Data in <a href="https://anadea.info/solutions/e-learning-software-development/m-learning">eLearning App Development</a> and the opportunities and realities it presents as well as the existing challenges and gaps in research that need to be addressed to enhance effectiveness. Here we go:
 
@@ -60,13 +52,13 @@ What's more, having well-managed analytics systems can help institutions to cust
 ## Realities and challenges of Big Data in education
 
 Indeed, Big Data analytics and related technologies such as Deep Learning, Cloud Computing and Supporting Vector Machines are the key to a more modern, more successful education model. Nonetheless, in the midst of all the opportunities and advantages it offers, Big Data also presents a bunch of challenges including:
-	
+
 ### 1. Limited talent pool
 
 As society becomes increasingly data-driven, the demand for skilled data experts continues to skyrocket across various sectors. The education sector is no exception, as the use of Big Data has the potential to transform the way students learn and teachers teach. However, the shortage of skilled data professionals remains a significant obstacle to the seamless adoption of this technology in schools. Unfortunately, only a handful of top colleges offer data science courses, and as a result, there are very few people with the necessary skills to ensure the successful integration of Big Data in the education sector. This shortage of skilled professionals presents a major challenge as it may prevent most schools from leveraging the full benefits of Big Data, thus locking out millions of students from the opportunities that it offers.
 
 To bridge this gap, there is a pressing need for educational institutions to invest in developing data science courses and programs that will produce a new generation of data experts. This investment will not only provide students with the necessary skills to thrive in the data-driven economy but also equip educators with the tools needed to personalize instruction and enhance learning outcomes.
-	
+
 ### 2. Scalability and storage issues
 
 The collection and analysis of vast amounts of information have become increasingly important for businesses to gain insights and make informed decisions. However, as the volume of data continues to grow exponentially, the capacity of traditional Big Data machines to process and analyze it is often exceeded, resulting in crashes and slowdowns that can compromise the quality of analysis and the accuracy of resulting outcomes.

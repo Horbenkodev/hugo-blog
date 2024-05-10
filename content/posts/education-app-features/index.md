@@ -13,15 +13,6 @@ industries:
 - eLearning
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Top-13 Education App Features: Must-have and Not Much"
-}
-</script>
-
 What is it about eLearning that makes it so efficient and convenient? It is a wise set of features an educational platform has. Let’s think what these features are, what are the ones no eLearning platform can go without and what are just nice to have. Keep reading if you are about to <a href="https://anadea.info/solutions/e-learning-software-development" target="_blank">create your own online learning system</a>.
 
 Before listing the features, let’s picture what an ideal educational platform should look like and keep these in mind.

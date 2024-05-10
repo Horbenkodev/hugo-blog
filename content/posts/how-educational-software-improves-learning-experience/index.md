@@ -13,22 +13,13 @@ industries:
 - eLearning
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "How to Create Educational Software for Schools"
-}
-</script>
-
 It’s important to say from the start that in today’s world there are 2 types of schools - traditional schools and online schools. Depending on what type your school belongs to, there will be different answers to the question “How to create educational software for schools”. An <a href="https://anadea.info/solutions/e-learning-software-development" target="_blank">educational software development company</a>, we will cover them both.
 
 ## For traditional schools
 __School management system software__<br />
-Modern schools tend to have a solid technical foundation for a full school ecosystem. You probably ask yourself “what scope of processes should a School Management System Software cover?” The answer is that it can ease routine for all participants - from school administration to students and parents. A lot of modules can be included in it, from managing school staff and procurement to reporting to governmental institutions, bookkeeping, and developing curricula. With its help, you can see how your school is doing as an organization, get insights on teachers’ load and efficiency, evaluate students’ performance and progress, the state of the training base, and much much more. 
+Modern schools tend to have a solid technical foundation for a full school ecosystem. You probably ask yourself “what scope of processes should a School Management System Software cover?” The answer is that it can ease routine for all participants - from school administration to students and parents. A lot of modules can be included in it, from managing school staff and procurement to reporting to governmental institutions, bookkeeping, and developing curricula. With its help, you can see how your school is doing as an organization, get insights on teachers’ load and efficiency, evaluate students’ performance and progress, the state of the training base, and much much more.
 
-To define the necessary scope for School Management System Software development, it’s a good idea to conduct a <a href="https://anadea.info/blog/how-to-turn-your-project-into-fantastic-with-discovery-phase-in-software-development" target="_blank">discovery phase</a> with a professional BA. 
+To define the necessary scope for School Management System Software development, it’s a good idea to conduct a <a href="https://anadea.info/blog/how-to-turn-your-project-into-fantastic-with-discovery-phase-in-software-development" target="_blank">discovery phase</a> with a professional BA.
 It’s probably that in the basic complectation you’ll need these modules:
 
 * Student Management
@@ -45,7 +36,7 @@ Let’s look at the time and cost and team composition to build an MVP version o
 * Back-end engineer
 * QA specialist
 
-The approximate time for development will be about 5-7 months, and the price will start from $128K. 
+The approximate time for development will be about 5-7 months, and the price will start from $128K.
 
 <picture>
  <source srcset="school_management_software_development.jpg">
@@ -55,7 +46,7 @@ The approximate time for development will be about 5-7 months, and the price wil
 __Education administration software__<br />
 The core occupation of the school is teaching students. Education administration software is a lighter version of School Management Software, it helps to automate administrative processes in educational institutions starting from scheduling and classroom administration, finishing with the supervision of an educational process and students’ performance.
 
-The approximate time for development will be about 3 months, and the price will start from $65K with the same team composition. 
+The approximate time for development will be about 3 months, and the price will start from $65K with the same team composition.
 
 <picture>
  <source srcset="education_administration_software_development.jpg">
@@ -63,10 +54,10 @@ The approximate time for development will be about 3 months, and the price will 
 </picture>
 
 __A specific module__<br />
-Sometimes there’s no need to develop a solution from the ground up. In case you need some functionality to add to the existing solution, you can build some specific module and integrate it with your system. It will cost you about $15-20K and take approximately 1,5-2 months. 
+Sometimes there’s no need to develop a solution from the ground up. In case you need some functionality to add to the existing solution, you can build some specific module and integrate it with your system. It will cost you about $15-20K and take approximately 1,5-2 months.
 
 ## Other types of solutions in education software
-At Anadea, we have 20 years of experience working in the sphere of education. Our team is ready to develop from scratch or enhance existing solutions. __On average, 7-8 weeks of development require a budget of $23,000.__ 
+At Anadea, we have 20 years of experience working in the sphere of education. Our team is ready to develop from scratch or enhance existing solutions. __On average, 7-8 weeks of development require a budget of $23,000.__
 
 <picture>
  <source srcset="elearning_software_development_scope_and_cost.png">
@@ -82,7 +73,7 @@ __Learning experience platform (LXP)__<br />
 Provide all parties involved in education with data, tools, and resources to support and advance education delivery and management on one platform.
 
 __E-learning platform__<br />
-Provide educators, learners, and other parties with information, tools, and resources to assist and improve education delivery and management on a platform. A great example of this solution is the <a href="https://anadea.info/projects/nordic-learning-platform" target="_blank">Nordic Learning Platform</a> developed by Anadea for New Nordic Schools. Nordic Learning Platform is an ecosystem that provides all the necessary tools to assist the leadership, teachers, and students in focusing on their learning and development journey. 
+Provide educators, learners, and other parties with information, tools, and resources to assist and improve education delivery and management on a platform. A great example of this solution is the <a href="https://anadea.info/projects/nordic-learning-platform" target="_blank">Nordic Learning Platform</a> developed by Anadea for New Nordic Schools. Nordic Learning Platform is an ecosystem that provides all the necessary tools to assist the leadership, teachers, and students in focusing on their learning and development journey.
 
 __Knowledge management solutions__<br />
 Deliver a single access point to a knowledge base in a big organization. Keep, manage and deliver data in different formats to every knowledge management solution user.
@@ -106,7 +97,7 @@ __Learning Management System (LMS)__<br />
 Our team will develop tailored <a href="https://anadea.info/solutions/e-learning-software-development/lms" target="_blank">LMS systems for administration</a>, documentation, and tracking. and reporting needs on-demand. Deliver educational courses, training programs, planning, execution, and evaluation of a learning process.
 
 ## Instead of conclusions
-Typically, developing educational software requires a lot of integrations with various third-party services, as often, there’s no need to build some functionality from scratch. Secondly, it requires compliance with education standards like SCORM, xAPI, LTI and others. Don’t forget about GDPR and Accessibility. 
+Typically, developing educational software requires a lot of integrations with various third-party services, as often, there’s no need to build some functionality from scratch. Secondly, it requires compliance with education standards like SCORM, xAPI, LTI and others. Don’t forget about GDPR and Accessibility.
 
 In case you have any questions, feel free to contact us - we’ll be happy to help you with your project.
 

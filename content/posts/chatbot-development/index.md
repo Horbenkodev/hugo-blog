@@ -262,32 +262,3 @@ It is a process of building a software application that will be able to simulate
 ### How much does it cost to develop a chatbot?
 
 Project costs can vary based on multiple factors, including the desired complexity of the solution, the tech stack, and the rates of the team that you want to hire. The prices for the simplest solutions that are not powered by AI and ML can start at $5K-$10K but more advanced projects are more expensive. Their costs can reach $150K+. To find out the exact cost, you can contact our team and ask for estimates.
-
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-   "@type": "Question",
-   "name": "What is chatbot development?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "It is a process of building a software application that will be able to simulate and process human conversation. Modern solutions are usually powered by AI and can understand natural language in a written and/or oral form. They are usually launched by companies with a view to enhancing their customer support services."
-    }
-   ]
-  },
-  {
-   "@type": "Question",
-   "name": "How much does it cost to develop a chatbot?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "Project costs can vary based on multiple factors, including the desired complexity of the solution, the tech stack, and the rates of the team that you want to hire. The prices for the simplest solutions that are not powered by AI and ML can start at $5K-$10K but more advanced projects are more expensive. Their costs can reach $150K+. To find out the exact cost, you can contact our team and ask for estimates."
-    }
-   ]
-  }
- ]
-}
-</script>

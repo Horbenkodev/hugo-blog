@@ -17,14 +17,6 @@ industries: []
 categories:
 - Development
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Building Desktop App with Electron"
-}
-</script>
 ### Electron: if you can build a website, you can build a desktop app
 
 Currently, in the <a href="https://anadea.info/services/web-development">custom web development services</a> we can do almost everything using HTML/CSS/JS. There are numerous libraries, frameworks, debugging and testing tools, articles, and training resources available for web application development. Additionally, StackOverflow provides quick access to answers and examples for many questions. For browsers, there are many extensions that can be used to follow, measure, and debug every aspect of a site, making it easier to create web applications quickly.
@@ -63,7 +55,7 @@ Let's begin! First of all, make sure that you have already installed <a href="ht
 
 1. `app` directory - only this directory is distributed with the real application. This directory also contains a separate `package.json` file. We will use this file to specify dependencies required for the app's operation. Besides, libraries from this file will be added to production version of the app (DMG file).
 2. `build` directory - we will put `icon.icns` and `background.png` into this folder. These images will be used to customize the installation process for Mac platform.
- 
+
 ![Preview of installation](Chapter_1._Preview_of_instalation.png)
 
 3. `electron-app` directory - a directory for our electron app (electron setup files, HTML files with react-root element).
@@ -101,7 +93,7 @@ npm install electron --save-dev
 npm install electron-positioner --save-dev // Helps positioning your app windows.
 ```
 
-Now we should run the next command to start our app: 
+Now we should run the next command to start our app:
 
 ```
 npm run electron
@@ -169,7 +161,7 @@ class TrayWindow {
 
   // Creation of the new window.
   this.window = new BrowserWindow({
-   show: false, // Initially, we should hide it, in such way we will remove blink-effect. 
+   show: false, // Initially, we should hide it, in such way we will remove blink-effect.
    height: 210,
    width: 225,
    frame: false, // This option will remove frame buttons. By default window has standart chrome header buttons (close, hide, minimize). We should change this option because we want to display our window like Tray Window not like common chrome-like window.
@@ -276,9 +268,9 @@ npm run electron
 ## Chapter 3: Dynamic tray
 
 TODO:
-1. Add dynamic changes to tray bar of the screen. 
+1. Add dynamic changes to tray bar of the screen.
 
-Let's add random words into the tray bar on button click. 
+Let's add random words into the tray bar on button click.
 
 We should add one more listener to HTML file:
 
@@ -887,9 +879,9 @@ TODO:
 2. RactDevtools
 3. ReduxDevtools
 
-At this point, we have pages that contain `HTML/JS/CSS`. Now, we will connect `Chrome Debug tools`. 
+At this point, we have pages that contain `HTML/JS/CSS`. Now, we will connect `Chrome Debug tools`.
 
-First of all, I will show you how to open `Devtools` on any page. 
+First of all, I will show you how to open `Devtools` on any page.
 
 Let's add a key-binding to our app to open devtools (F12). We will put this key-binding into our Menu. Do not worry, Menu will work even if you hide it (or hide dock).
 
@@ -1181,7 +1173,7 @@ Github links:
 
 >Branch without React: `live-coding`
 
-1. [Time Tracker App](https://github.com/DmytroVasin/TimeTracker) based on Electron 
+1. [Time Tracker App](https://github.com/DmytroVasin/TimeTracker) based on Electron
 2. [Rails API](https://github.com/DmytroVasin/TimeTrakerAPI) that was used in final app
 
 Keep reading our blog for more helpful tips!

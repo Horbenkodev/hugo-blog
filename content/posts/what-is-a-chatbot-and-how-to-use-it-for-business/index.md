@@ -16,14 +16,6 @@ industries: []
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "What is a Chatbot and How to Use It for Your Business"
-}
-</script>
 
 The evolution of artificial intelligence is now in full swing and chatbots are only a faint splash on a huge wave of progress. Today the number of users of messaging apps like WhatsApp, Slack, Skype and their analogs is skyrocketing, Facebook Messenger alone has more than <a href="https://www.statista.com/statistics/417295/facebook-messenger-monthly-active-users/" rel="nofollow" target="_blank">1.2 billion</a> monthly users. With the spread of messengers, virtual chatterbots that imitate human conversations for solving various tasks are becoming increasingly in demand. Chinese WeChat bots can already set medical appointments, call a taxi, send money to friends, check in for a flight and many many other.
 
@@ -41,9 +33,9 @@ According to <a href="https://en.oxforddictionaries.com/definition/chatbot" rel=
 
 It is an assistant that communicates with us through text messages, a virtual companion that integrates into websites, applications or instant messengers and helps entrepreneurs to get closer to customers. Such a bot is an automated system of communication with users.
 
-Why does a business need chatbots? There are reasons for that like getting rid of routine tasks and simultaneous processing of multiple requests from users. Besides, a tremendous speed of processing users' requests with chatbots helps gaining customers' loyalty. 
+Why does a business need chatbots? There are reasons for that like getting rid of routine tasks and simultaneous processing of multiple requests from users. Besides, a tremendous speed of processing users' requests with chatbots helps gaining customers' loyalty.
 
-Consumers also benefit from chatbots and they are getting increasingly interested in this technology. A <a href="https://www.researchgate.net/publication/318776998_Why_people_use_chatbots_Paper_accepted_for_presentation_at_the_4th_International_Conference_on_Internet_Science_22-24_November_2017_Thessaloniki_Greece" rel="nofollow" target="_blank">study</a> presented at the 4th International Conference on Internet Science in November, 2017 identified reasons why people choose to interact with chatbots. According to this research, the main factors that motivate people to use chatbots are: 
+Consumers also benefit from chatbots and they are getting increasingly interested in this technology. A <a href="https://www.researchgate.net/publication/318776998_Why_people_use_chatbots_Paper_accepted_for_presentation_at_the_4th_International_Conference_on_Internet_Science_22-24_November_2017_Thessaloniki_Greece" rel="nofollow" target="_blank">study</a> presented at the 4th International Conference on Internet Science in November, 2017 identified reasons why people choose to interact with chatbots. According to this research, the main factors that motivate people to use chatbots are:
 
 * **Productivity.** Chatbots provide the assistance or access to information quickly and efficiently.
 * **Entertainment.** Chatbots amuse people by giving them funny tips, they also help killing time when users have nothing to do.
@@ -83,7 +75,7 @@ Both startups and savvy companies are now incorporating interactive agents into 
 **Improve customer service.** It is the best option for those who don't want their customers to:
 
 * Wait for operator's answer - "Stay on the line, your call is very important to us" is always annoying, isn't it?
-* Search for an answer in the FAQ - as a rule users don't have time for scrolling dozens of pages with instructions. 
+* Search for an answer in the FAQ - as a rule users don't have time for scrolling dozens of pages with instructions.
 
 **Streamline the shopping process.** It only takes to write what you want to the chatbot and the bot will send the information to the sales department. You don't need to repeat several times "I need the same, but with metal buttons". Besides, the chatbot remembers your preferences and uses this information when you return.
 
@@ -104,21 +96,21 @@ If we managed to inspire you to create your own chatbot, here are some tips to h
 
 Now let's look closer at 2 approaches to building chatbots:
 
-**Creating from scratch.** If you are not a programmer yourself, you will need to hire [software developers](https://anadea.info/) as this method requires work with code, manual integration with messengers and customization. Among the advantages of this approach are: 
+**Creating from scratch.** If you are not a programmer yourself, you will need to hire [software developers](https://anadea.info/) as this method requires work with code, manual integration with messengers and customization. Among the advantages of this approach are:
 
- * full compliance with your needs, 
- * control over data the bot receives, 
- * the possibility to make corrections easily, 
- * best for a customer-facing chatbots. 
+ * full compliance with your needs,
+ * control over data the bot receives,
+ * the possibility to make corrections easily,
+ * best for a customer-facing chatbots.
 
 This method may require significant financial and time investments.
 
-**Using chatbot builder platforms.** You can create a chatbot with the help of services providing all the necessary features and integrations. It can be a good choice for an in-house chatbot serving your team. This option is associated with some disadvantages, including the limited configuration and the dependence on the service. Some popular platforms for building chatbots are: 
+**Using chatbot builder platforms.** You can create a chatbot with the help of services providing all the necessary features and integrations. It can be a good choice for an in-house chatbot serving your team. This option is associated with some disadvantages, including the limited configuration and the dependence on the service. Some popular platforms for building chatbots are:
 
- * <a href="https://mobilemonkey.com/" target="_blank">Mobile Monkey</a>, 
- * <a href="https://chatfuel.com/" rel="nofollow" target="_blank">Chatfuel</a>, 
- * <a href="https://beepboophq.com/" rel="nofollow" target="_blank">Beep Boop</a>, 
- * <a href="https://www.chattypeople.com/" rel="nofollow" target="_blank">ChattyPeople</a>, 
+ * <a href="https://mobilemonkey.com/" target="_blank">Mobile Monkey</a>,
+ * <a href="https://chatfuel.com/" rel="nofollow" target="_blank">Chatfuel</a>,
+ * <a href="https://beepboophq.com/" rel="nofollow" target="_blank">Beep Boop</a>,
+ * <a href="https://www.chattypeople.com/" rel="nofollow" target="_blank">ChattyPeople</a>,
  * <a href="https://botsify.com/" rel="nofollow" target="_blank">Botsify</a>,
  * <a href="https://smooch.io/" rel="nofollow" target="_blank">Smooch.io</a>.
 
@@ -141,6 +133,6 @@ A chatbot will be a good idea and bring you desired results only when these chal
 
 ## Conclusion. What to do?
 
-Many business owners are just beginning to understand what benefits chatbots can bring to them. This technology is still in an early stage, its capabilities continue increasing and the best chatbots have yet to be created. 
+Many business owners are just beginning to understand what benefits chatbots can bring to them. This technology is still in an early stage, its capabilities continue increasing and the best chatbots have yet to be created.
 
 Invest in building a chatbot for your business and be at the forefront of innovation!

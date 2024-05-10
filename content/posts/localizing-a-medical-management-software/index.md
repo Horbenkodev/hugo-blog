@@ -17,14 +17,6 @@ industries:
 - Healthcare
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Bernadine Racoma",
- "name": "Localizing a Medical Management Software"
-}
-</script>
 Medical software localization is a delicate task. It's not something that can be delegated to just anyone who knows basic translation or someone fluent in the source and target languages. Mistakes can create inefficiencies or lead to serious consequences. It needs meticulous attention to details and a thoughtfully planned process.
 
 Medical translators and translation team leaders can pick a few great ideas from the following pointers and reminders.
@@ -34,7 +26,7 @@ Medical translators and translation team leaders can pick a few great ideas from
 This may sound like a generic and no-brainer reminder, but it's worth repeating and emphasizing. You need to have solid procedures to identify what needs to be done and to check everything for errors before submitting the final output to the client:
 
 * Discuss expectations and goals with the client. Clarify all details of the project especially the format and organization of the final output. Identify the target languages. The client may also want a specific tone (formal/conversational/etc), which may be different from the source texts so be sure to verify this.
-* It would help to write a project scope document. This can be similar to a to-do list with descriptions of the courses of action to be taken. 
+* It would help to write a project scope document. This can be similar to a to-do list with descriptions of the courses of action to be taken.
 * Allocate enough time in hiring proficient and experienced translators with medical knowhow. Efficient language service companies usually don't have in-house translators. They rely on freelancers or independent contractors especially for less popular languages. It would be staggeringly costly to hire permanent translators unless the company focuses on specific languages.
 * Set deadlines, not just a single deadline for the completion of the entire project. There should be a timeline for the completion of specific tasks. Divide the project into tasks with their respective delivery times.
 * Consider a project timeline that involves the following minimum steps:
@@ -43,7 +35,7 @@ This may sound like a generic and no-brainer reminder, but it's worth repeating 
   * actual translation work,
   * quality analysis,
   * correction of errors and another round of quality analysis/control,
-  * conversion of the final output to the expected format, 
+  * conversion of the final output to the expected format,
   * submission to client.
 
 ***Related read: [How to Develop a Professional Medical App for Doctors](https://anadea.info/blog/how-to-develop-a-professional-medical-app-for-doctors)***
@@ -67,7 +59,7 @@ Don't think it's inconvenient giving your client frequent updates about the proj
 
 ### 4. Emphasize quality control
 
-There should at least be two stages of review or quality control for the localization output: one for the initial translation and another for the final output (even if no errors were discovered in the first review). On the other hand, it's also advisable to take into account potential compliance issues. 
+There should at least be two stages of review or quality control for the localization output: one for the initial translation and another for the final output (even if no errors were discovered in the first review). On the other hand, it's also advisable to take into account potential compliance issues.
 
 [Medical management software](https://anadea.info/solutions/medical-app-development/hospital-management-development) may not be covered by legal requirements on associated software for medical equipment, but to be sure, it's advisable to inquire about the pertinent legal regulations.
 
@@ -77,7 +69,7 @@ In some cases, software testing may be undertaken by the localization service pr
 
 ### 5. Designate an experienced project manager and expert quality assurance (QA) supervisors
 
-As mentioned, medical software localization should not be entrusted to basic translators or someone familiar with the source and target languages. However, not everyone in the team needs to have some medical knowledge. The graphics and video production members, for example, don't have to know anything about medicine. 
+As mentioned, medical software localization should not be entrusted to basic translators or someone familiar with the source and target languages. However, not everyone in the team needs to have some medical knowledge. The graphics and video production members, for example, don't have to know anything about medicine.
 
 What's important is to have a project manager and QA supervisors who are experienced on the job. They have the primary responsibility of ensuring that the resulting translations are contextually precise and with optimum brevity. They are responsible in making sure that the words used are what medical professionals use most often.
 

@@ -14,14 +14,6 @@ industries:
 categories:
 - Machine Learning
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Predictive Analytics in Education: Use of Predictive Analytics in Education"
-}
-</script>
 
 <h2>Table of contents</h2>
 <ul>
@@ -37,7 +29,7 @@ categories:
 
 
 <a name="introduction"></a>
-Predictive analytics and other data-based learning systems are playing now more of an important role in school and higher education in the years ahead. Predictive analytics uses statistical analysis and machine learning to predict the probability of a certain event occurring in the future after processing a set of historical data. Educational institutions have plenty of possibilities to gather all sorts of information - schoolchildrens’ grades, assessment results, various reports to governmental institutions, psychological test results, attendance, etc. 
+Predictive analytics and other data-based learning systems are playing now more of an important role in school and higher education in the years ahead. Predictive analytics uses statistical analysis and machine learning to predict the probability of a certain event occurring in the future after processing a set of historical data. Educational institutions have plenty of possibilities to gather all sorts of information - schoolchildrens’ grades, assessment results, various reports to governmental institutions, psychological test results, attendance, etc.
 Schoolchildren, students, parents, and governments involved in the process are going to benefit from them in the terms of educational effectiveness, while universities will benefit from using this as a way of matching students with courses more effectively and showcasing strengths to a wider and more appreciative audience.
 
 ![prediction-analytics.jpg](prediction-analytics.jpg)
@@ -80,6 +72,6 @@ However, as this is an area of government concern, in the U.S. and other countri
 <a name="summary"></a>
 ## Concluding thoughts
 
-Predictive analytics is a powerful tool for Education that makes many processes easier and more effective. It requires the use of historical data which has to be cleaned and parsed before any analytics algorithms can be used to analyze the data. The question of a centralized system where all the educational institutions can store the data and benefit from it is open, as well as the question of availability of this data to other contributors like private institutions or even private tutors. Nevertheless, the possibility of building a predictive analytics system for a separately taken educational institution is a matter of a couple of months subject with the proviso digitized data sufficiency. For further information on a specific case, please contact our experts, we will be happy to help you with your idea or a current project. 
+Predictive analytics is a powerful tool for Education that makes many processes easier and more effective. It requires the use of historical data which has to be cleaned and parsed before any analytics algorithms can be used to analyze the data. The question of a centralized system where all the educational institutions can store the data and benefit from it is open, as well as the question of availability of this data to other contributors like private institutions or even private tutors. Nevertheless, the possibility of building a predictive analytics system for a separately taken educational institution is a matter of a couple of months subject with the proviso digitized data sufficiency. For further information on a specific case, please contact our experts, we will be happy to help you with your idea or a current project.
 
 

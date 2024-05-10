@@ -14,14 +14,6 @@ industries: []
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Margareth",
- "name": "How Stability of Team Composition Affects Your Product"
-}
-</script>
 Among many things to keep in mind when choosing a company to outsource software development, an unobvious one is the __stability of team composition__, commonly expressed through __attrition rate__.
 
 The attrition rate is the __rate at which employees leave the company__. Mathematically, it is the number of people who have quit divided by the average number of employees over a period of time, usually a month, expressed as a percentage. Here’s the formula:

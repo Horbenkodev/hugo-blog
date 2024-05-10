@@ -15,14 +15,6 @@ industries:
 - Real Estate
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "What is the Future of the Real Estate Software Industry?"
-}
-</script>
 
 Real estate technology continues to thrive as the industry continues to grow and transform. With over 120 real estate startups, it's no surprise that this sector is making a significant impact on the property industry.
 
@@ -48,9 +40,9 @@ Not all of this money is flowing from VC firms, which makes the funding dynamics
 
 Experts predict that investment in real estate tech will continue to rise in the coming years, with the market expected to reach $43.8 billion by 2025. This growth is driven by increasing demand for digital solutions in the real estate industry, as well as the potential for significant returns on investment.
 
-Smaller players and competitors are likely to get acquired by more established well-funded firms. We can also anticipate some lateral moves, either through acquisitions, funding or strategic partnerships from adjacent and connected sectors, such as fintech and traditional financial companies. 
+Smaller players and competitors are likely to get acquired by more established well-funded firms. We can also anticipate some lateral moves, either through acquisitions, funding or strategic partnerships from adjacent and connected sectors, such as fintech and traditional financial companies.
 
-We can except that in the next year or so, some real estate technology companies are going to break through into the mainstream, especially in the consumer-facing space. Some of these <a href="https://anadea.info/blog/disrupt-like-zillow-transforming-the-real-estate-industry" target="_blank">property tech startups</a> are going to become as well known as Airbnb and WeWork. Finance-related solutions are going to further disrupt and improve the process of buying and managing property. Real estate agents and brokers are, as a natural part of what they do, going to promote the adoption of these services when they save them time and money. 
+We can except that in the next year or so, some real estate technology companies are going to break through into the mainstream, especially in the consumer-facing space. Some of these <a href="https://anadea.info/blog/disrupt-like-zillow-transforming-the-real-estate-industry" target="_blank">property tech startups</a> are going to become as well known as Airbnb and WeWork. Finance-related solutions are going to further disrupt and improve the process of buying and managing property. Real estate agents and brokers are, as a natural part of what they do, going to promote the adoption of these services when they save them time and money.
 
 Grey Wolf, an investment firm in this sector hosted a panel on the future of real estate technology at Wharton's <a href="https://brendanfwallace.medium.com/how-technology-is-changing-the-landscape-of-commercial-real-estate-leasing-operations-and-528896c39fff" target="_blank">Zell Lurie Real Estate Center's Fall Members Meeting</a>. The consensus from that panel is "that technology will dramatically improve how real estate assets are managed. The future of real estate asset management is a technological future, that much is clear."
 

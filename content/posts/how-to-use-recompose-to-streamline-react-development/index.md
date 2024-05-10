@@ -17,18 +17,10 @@ industries: []
 categories:
 - Development
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "How to Use Recompose to Streamline React Development"
-}
-</script>
 
 ## Composition as a way to create reusable code
 
-It's pretty exciting to observe how DRY coding tools in React were changing over time. And we must give credit to the developers - at no stage in the development of this library were any recommendations to use inheritance to solve such problems. In the early versions of React and React.createClass, there were mixins that were simple JavaScript objects. The result of applying them to a React component was quite predictable: the component got new properties and methods corresponding to the keys from the mixin object. 
+It's pretty exciting to observe how DRY coding tools in React were changing over time. And we must give credit to the developers - at no stage in the development of this library were any recommendations to use inheritance to solve such problems. In the early versions of React and React.createClass, there were mixins that were simple JavaScript objects. The result of applying them to a React component was quite predictable: the component got new properties and methods corresponding to the keys from the mixin object.
 
 There was a bit more non-trivial logic when a mixin was used to extend lifecycle methods. Almost every library providing an implementation of Flux had a mixin that allowed you to quickly connect a component to the store. Actually, this is what is now being done with `connect`.
 
@@ -36,7 +28,7 @@ Then, ES6 came out. A new syntax for component creation has greatly influenced t
 
 ### HOC as a composition tool
 
-For people familiar with OOP, composition is the ability to store a reference to an object of another class inside an object in some form (for example, in the field), i.e. to obtain the functionality of another class partially or completely. And what is called composition in <a href="https://anadea.info/services/web-development/react-js-development" target="_blank">React development</a> may confuse them. 
+For people familiar with OOP, composition is the ability to store a reference to an object of another class inside an object in some form (for example, in the field), i.e. to obtain the functionality of another class partially or completely. And what is called composition in <a href="https://anadea.info/services/web-development/react-js-development" target="_blank">React development</a> may confuse them.
 
 The point is that in spite of the fact that React components are defined as JavaScript classes, in essence, they are more like functions. For functions, a native composition tool is a decorator (a higher-order function that takes a function and returns a function). In the case of React, this is a function that takes a component and returns a component, a.k.a. Higher Order Component (HOC).
 
@@ -47,7 +39,7 @@ const withAuthorizedUser = Komponent => (
    if (user) {
      return <Komponent {…props} user={user} />
    } else {
-     return <SignInPage {…props} />     
+     return <SignInPage {…props} />
    }
   }
 )
@@ -80,9 +72,9 @@ Let's take a deeper look into how to use React Recompose.
 
 <a href="https://github.com/acdlite/recompose" target="_blank">Recompose</a> lends itself as a lodash for React, so besides the possibility to create a composition of self-written HOCs, it also offers a wealth of its own ones to fit every taste.
 
-We somehow naturally developed the following style of defining React components: 
-* first of all, we try to define a functional component; 
-* if it fails, we consider the possibility of inheritance from `PureComponent`; 
+We somehow naturally developed the following style of defining React components:
+* first of all, we try to define a functional component;
+* if it fails, we consider the possibility of inheritance from `PureComponent`;
 * if this option doesn't work as well, then we define a class inherited from `Component`. That is, functions have higher priority than classes.
 
 Recompose HOCs provide the ability to make pretty much every component functional. Everything that makes us define our components as classes is solved by using a set of higher-order components: determining the state and a set of methods for managing this state, defining event handlers, setting props values ​​by default, using lifecycle methods, and so on.
@@ -105,7 +97,7 @@ const enhance = compose(
  observer
 )
 // Named export without using the HOCs
-// for testing or using within style guides 
+// for testing or using within style guides
 export const Search = ({ activateSearch, deactivateSearch, uiState }) => (
  // … typical jsx
 )

@@ -106,32 +106,3 @@ Software development costs vary based on a large number of parameters, including
 ### Does it make sense to invest in a healthcare fintech project now?
 
 Given all the new opportunities that fintech healthcare solutions can offer and the growing interest in them from the side of medical institutions and patients, it will be sensible to consider the possibility of investing in such products.
-
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-   "@type": "Question",
-   "name": "How much does it cost to develop a fintech healthcare solution?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "Software development costs vary based on a large number of parameters, including but not limited to the complexity of a future solution, the specificity of features, the required tech stack, etc. Also, such a factor as the structure of the development team will have a significant influence. As a rule, fintech solutions today are built with the use of the most cutting-edge technologies, which explains the rather high costs of such projects. On average, the development of a fintech product starts at $70K. However, before planning your project budget we strongly recommend you have a consultation with the development team that will provide you with an estimate."
-    }
-   ]
-  },
-  {
-   "@type": "Question",
-   "name": "Does it make sense to invest in a healthcare fintech project now?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "Given all the new opportunities that fintech healthcare solutions can offer and the growing interest in them from the side of medical institutions and patients, it will be sensible to consider the possibility of investing in such products."
-    }
-   ]
-  }
- ]
-}
-</script>

@@ -15,14 +15,6 @@ industries: []
 categories:
 - Development
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Setting up an Elixir Cluster in Docker Swarm with Distillery and Libcluster"
-}
-</script>
 
 In this tutorial we'll explore the creation of an Elixir app cluster that is run in Docker Swarm and does properly maintain node connectability as the swarm scales up and down.
 
@@ -107,7 +99,7 @@ Make it executable by running
 
 And finally add it to Distillery hooks by inserting `set pre_configure_hooks: "rel/hooks/pre_configure.d"` line into the environment you want in rel/config.exs.
 
-#### 2. <a href="https://github.com/Anadea/elixir-cluster-docker-swarm-demo/commit/a324283" style="color: #5666a1" target="_blank">(commit)</a> use this new environment variable in the vm.args file for the long node name. 
+#### 2. <a href="https://github.com/Anadea/elixir-cluster-docker-swarm-demo/commit/a324283" style="color: #5666a1" target="_blank">(commit)</a> use this new environment variable in the vm.args file for the long node name.
 
 The name section may look as the following:
 

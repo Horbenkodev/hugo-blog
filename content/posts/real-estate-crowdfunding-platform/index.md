@@ -184,32 +184,3 @@ Such projects have several monetization options. First of all, they can take a s
 ### How long does it take to develop a crowdfunding real estate platform?
 
 The duration of the development project depends on its scope, complexity, required functionality, and the size of the team that will work on it. However, you should bear in mind that such projects are usually complex and may include a lot of technical work. The development may take around 9 months and more, especially when you have plans for several integrations and innovative tools.
-
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-   "@type": "Question",
-   "name": "How do real estate crowdfunding platforms make money?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "Such projects have several monetization options. First of all, they can take a small percentage of each transaction. Secondly, they can introduce charges for investors and project owners (for example, management or advisory fees). It could be also a good idea to offer some premium features (like ML-powered predictions) on a paid basis. Moreover, in some cases, it can be relevant to establish cooperation with brands and place their ads to get additional revenue."
-    }
-   ]
-  },
-  {
-   "@type": "Question",
-   "name": "How long does it take to develop a crowdfunding real estate platform?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "The duration of the development project depends on its scope, complexity, required functionality, and the size of the team that will work on it. However, you should bear in mind that such projects are usually complex and may include a lot of technical work. The development may take around 9 months and more, especially when you have plans for several integrations and innovative tools."
-    }
-   ]
-  }
- ]
-}
-</script>

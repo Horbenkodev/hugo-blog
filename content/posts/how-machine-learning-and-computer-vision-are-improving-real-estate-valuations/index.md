@@ -16,15 +16,6 @@ industries:
 categories:
 - Machine Learning
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "How Machine Learning and Computer Vision are Improving Real Estate Valuations"
-}
-</script>
-
 ***Right now and for the foreseeable future, real estate is likely to go through something of a slump. As the world economy slows to a crawl and potentially dips into a recession, as a consequence of Coronavirus (COVID-19), real estate won’t be moving at the same pace.***
 
 However, real estate has weathered many a storm in the past. Many recessions have come and gone, with the sector recovering every single time. People are going to be busy moving home, and buying and selling once this is over (and in some cases, during this global pandemic).
@@ -64,4 +55,4 @@ Accurate valuations are a selling point and USP for sellers. Knowing that one re
 
 Don’t worry if you aren't equipped with the tech capabilities of Zillow. Working with <a href="/solutions/real-estate-software">the right technology partner</a>, neural networks and ML applications can be custom developed to give you a real competitive advantage.
 
-With a wide range of computer vision, AI and ML-based solutions on the market, there are ways to produce more accurate valuations without hiring an internal team of developers and data scientists. We can create a customized solution that uses image analysis (computer vision) to determine the valuation of properties more accurately than are currently possible. 
+With a wide range of computer vision, AI and ML-based solutions on the market, there are ways to produce more accurate valuations without hiring an internal team of developers and data scientists. We can create a customized solution that uses image analysis (computer vision) to determine the valuation of properties more accurately than are currently possible.

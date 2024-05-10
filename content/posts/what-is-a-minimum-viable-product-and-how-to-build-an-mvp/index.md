@@ -14,14 +14,6 @@ industries: []
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "What Is MVP and How to Build an MVP App"
-}
-</script>
 
 Even though many new ideas sound brilliant in theory, there are no success guarantees in reality. The success of a launch depends on many factors, including... luck. However, blaming bad luck for failure is immature. The reasons can be slightly more complicated, as <a href="https://www.investopedia.com/articles/personal-finance/040915/how-many-startups-fail-and-why.asp" rel="nofollow">nearly 90%</a> of all startups fail.
 
@@ -85,7 +77,7 @@ MVP is not about gaining profit but estimating the product’s potential in the 
 
 <a name="why-fail"></a>
 ## Why Business Ideas are Failing
-We mentioned earlier that about 90% of ideas never make it. Time to go deeper into the main reasons for their failure - it’s always best to learn from someone else’s mistakes. 
+We mentioned earlier that about 90% of ideas never make it. Time to go deeper into the main reasons for their failure - it’s always best to learn from someone else’s mistakes.
 <a name="no-demand"></a>
 ### No Market Demand
 When the timing isn’t right, there’s hardly anything to do. The market might not yet be ready for the product offered, no matter how good it is. That’s why it’s so important to conduct **a market analysis** before launching: evaluate the demand and market growth, research competitors, analyze consumer behavior. Understanding what the market needs at the moment will help avoid big misfortune.
@@ -102,7 +94,7 @@ Sometimes it just doesn’t work out when you and the team are not on the same w
 Besides, there is something just as harmful as poor communication when working on a product. **Poor management** is way more serious as it greatly affects the productivity of team members. And it will affect you too - problematic management almost excludes meeting deadlines, timely bug fixes, and other aspects that in the end can cause serious problems with the product, which results in the following reason on the list.
 <a name="quality"></a>
 ### Poor Product Quality
-In the case of low-quality products, the market being not ready to open its doors for a fresh startup is a good excuse for failure (mind reason 1). However, sometimes it’s just the quality of an app that ruins everything. Investing in development is not enough: as a business, you need to **be engaged in the development process** and regularly ask the team for demos. 
+In the case of low-quality products, the market being not ready to open its doors for a fresh startup is a good excuse for failure (mind reason 1). However, sometimes it’s just the quality of an app that ruins everything. Investing in development is not enough: as a business, you need to **be engaged in the development process** and regularly ask the team for demos.
 
 The saddest thing is, people may truly like the idea, but no user will stick to a bugged app that constantly pulls errors.
 

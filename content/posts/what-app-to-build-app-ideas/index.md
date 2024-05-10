@@ -14,14 +14,6 @@ categories:
 - Mobile
 - App Ideas
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Ideas for Apps to Build in 2022"
-}
-</script>
 
 You can run a business like a pro but lack creativity when it comes to finding new app ideas. Which is perfectly fine and explains why articles like this one exist.
 
@@ -35,7 +27,7 @@ However, it is not always that simple to choose what app to develop. The market 
 Even considering the above, you still have a chance to introduce something new to the market, something people will need and appreciate.
 
 ### Find a problem and give a solution
-This section will not take long – soon we will pass to the actual mobile app ideas. It is here to remind you how crucial it is that your app startup is not just there but there __to solve a particular problem of users__. 
+This section will not take long – soon we will pass to the actual mobile app ideas. It is here to remind you how crucial it is that your app startup is not just there but there __to solve a particular problem of users__.
 
 For instance, that very same app for rock climbers can help enthusiasts organize trips, find climbing spots near them, sort routes by difficulty, etc. in one place. Before they found the app, they had to check several resources before going for trips, and the app manages to simplify this process. A win for all!
 
@@ -50,7 +42,7 @@ __How to identify what the market needs?__ Here is a couple of advice for you:
 As a <a href="https://anadea.info/services/mobile-development">mobile app development company</a>, in this post we will be focusing on best app ideas for __real-life practical applications__.
 
 ## Best app ideas in 2022
-Eventually, what apps to create in 2022? We prepared a comprehensive listing for you. 
+Eventually, what apps to create in 2022? We prepared a comprehensive listing for you.
 
 Mind there are apps falling into several categories at a time. We decided not to eliminate repetitions in case you are only interested in one category and do not read the whole article.
 
@@ -260,7 +252,7 @@ A great variety of pet tech apps is waiting to be created yet. Does any of the f
 * Dog training app featuring advice, recommendations, and guides on training;
 * Pet health journal;
 * Music app to calm a dog;
-* Apps for animal show participants; 
+* Apps for animal show participants;
 * ML-driven breed recognition app.
 
 ## Ready, set… build!

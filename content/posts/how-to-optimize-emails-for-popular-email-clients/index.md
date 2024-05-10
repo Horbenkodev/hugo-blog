@@ -16,14 +16,6 @@ industries: []
 categories:
 - Development
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "How to Optimize Your Emails for Most Popular Email Clients"
-}
-</script>
 
 We see tons of different emails every day. New arrivings, news feeds, discounts, some advertising and a lot of stuff that we usually skip or delete immediately. In fact, these letters are pretty hard to make. Apart from custom design and good writing, developers have to create an email layout. That is the trickiest part because email can be viewed from way too many devices, OS and browsers. Developers have to keep this in mind and adapt layouts to everything.
 
@@ -33,7 +25,7 @@ I had a chat with Kate Demianenko, frontend developer at [Anadea](https://anadea
 
 When you make a simple web page you know that you will open it in a browser or via mobile apps. That makes things less complicated, because you have to work with 4 or 5 browsers and two major mobile OS platforms. You just have to check out how the page is displayed and that's all.
 
-When it comes to email layouts, this is where the fun starts. Aside from different operating systems and browsers, we also have different email clients. Each of them has its individual displaying methods that work differently with each device, OS and screen width. 
+When it comes to email layouts, this is where the fun starts. Aside from different operating systems and browsers, we also have different email clients. Each of them has its individual displaying methods that work differently with each device, OS and screen width.
 
 Here's the list of devices, browsers, mail clients and operating systems we need to check __(updated as for 2023)__:
 
@@ -74,13 +66,13 @@ Here's the list of devices, browsers, mail clients and operating systems we need
   - iPad (latest version)
   - iPad Mini (latest version)
 
-All of them work differently and have unique layout interpretation which causes unpredictable behaviour. There is a set of rules for this case, but it doesn't cover every aspect. Marketing evolves and no one sends simple emails with a picture and text these days. Email design creates new ways to deliver ads with emails and it also makes letters and email layout design way more complex. Modern emails look like individual mini-HTML pages with numerous layers that depend on each other.  
+All of them work differently and have unique layout interpretation which causes unpredictable behaviour. There is a set of rules for this case, but it doesn't cover every aspect. Marketing evolves and no one sends simple emails with a picture and text these days. Email design creates new ways to deliver ads with emails and it also makes letters and email layout design way more complex. Modern emails look like individual mini-HTML pages with numerous layers that depend on each other.
 
-It is nearly impossible to check all variations, however we found a good way to do it. 
+It is nearly impossible to check all variations, however we found a good way to do it.
 
 ## Solutions
 
-We use [SendWithUs](https://anadea.info/blog/sendwithus-overview) service. It allows you to see all template changes, such as adding a new element or style. It has an option of testing the letter on different devices. After you have chosen the devices and email clients you would like to test, SendWithUs sends a letter to real devices and sends back a screenshot of how they look. So it's not a big deal if you don't have some device in your test park. 
+We use [SendWithUs](https://anadea.info/blog/sendwithus-overview) service. It allows you to see all template changes, such as adding a new element or style. It has an option of testing the letter on different devices. After you have chosen the devices and email clients you would like to test, SendWithUs sends a letter to real devices and sends back a screenshot of how they look. So it's not a big deal if you don't have some device in your test park.
 
 IOS devices are pretty stable in displaying mails, so we're not worried about iPhone X. Outlook in Windows is a whole different story. Before you even begin, you should ponder on your approach multiple times. Designers usually do not think about how challenging it is to implement their email design ideas. That's why we have to estimate the difficulty first, inspect every element and choose the best decision. It may be redefining hundreds of styles using media queries (it's good that they work everywhere) or just hiding an item and showing a new one. If you don't want to start the whole process once again, you also have to keep in mind the mobile version.
 
@@ -98,7 +90,7 @@ It is better to specify all the basic styles inline (use the desktop version of 
 <style media="only screen and (max-width: 600px)" type="text/css">
   @media only screen and (max-width: 600px) {
      td[class="mobile_width"] {
-       width: 16px !important; 
+       width: 16px !important;
      }
    }
 </style>
@@ -123,6 +115,6 @@ You often need to indent the edges of the container. Forget about padding and ma
 
 ## Epilogue
 
-Email layout is definitely not a simple task that requires a lot of planning, patience and skills. If you are in it, it will be really handy to have these tricks up your sleeve. When making your next of your email for clients, remember about variety, don't forget to check the results and things won't go wrong. 
+Email layout is definitely not a simple task that requires a lot of planning, patience and skills. If you are in it, it will be really handy to have these tricks up your sleeve. When making your next of your email for clients, remember about variety, don't forget to check the results and things won't go wrong.
 
 I hope you did enjoy this reading and if you truly did, subscribe to our [blog](https://anadea.info/blog) for more information and advices about creating great email layouts and other programming-related topics.

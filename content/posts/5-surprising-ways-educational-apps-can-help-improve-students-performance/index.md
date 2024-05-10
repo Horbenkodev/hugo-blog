@@ -13,15 +13,6 @@ industries:
 - eLearning
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Top-7 Suggestions to Improve Your Educational Mobile App"
-}
-</script>
-
 A lot has been said about how educational apps help students. And you probably would not be going for <a href="https://anadea.info/solutions/e-learning-software-development" target="_blank">educational software development services</a> if there was no demand for such apps, so surely they carry some meaningful benefits for users. However, this is not the subject of today’s article. The subject is how to improve user experience with your app so that both users and you can benefit from it even more.
 
 You will find this post useful if:
@@ -82,7 +73,7 @@ The points above may have sounded disturbing but still, not all app improvements
 
 <a name="optimize"></a>
 ### Optimize app performance
-Loyalty of users grows as app loading speed decreases, which requires optimizing the app performance. 
+Loyalty of users grows as app loading speed decreases, which requires optimizing the app performance.
 
 * Resize and compress images if they can yet be resized and compressed with no drop in quality;
 * Enable image caching for faster loading of screens;
@@ -96,9 +87,9 @@ Achieving good stats is not a goal per se for students but a nice little touch t
 * Days of learning in a row;
 * Position on the leaderboard;
 * Percent of correctly answered questions per topic;
-* Grades drilldown. 
+* Grades drilldown.
 
-These and other stats can be communicated to students in the form of <a href="https://anadea.info/blog/edtech-insights-improving-students-performance-with-push-notifications" target="_blank">push notifications</a>. 
+These and other stats can be communicated to students in the form of <a href="https://anadea.info/blog/edtech-insights-improving-students-performance-with-push-notifications" target="_blank">push notifications</a>.
 
 Not students alone will appreciate the stats. Teachers can also benefit from automated data collection — for example, to overview the performance of the entire class and have students requiring a more personalized approach highlighted.
 
@@ -124,7 +115,7 @@ Mostly, students and especially their parents see social media as an obstacle to
 
 <a name="behavior"></a>
 ### Analyze user behavior
-Sometimes the answers to why users delete the app are unobvious to the naked eye. There are a multitude of tools in the market that enable you to follow the user paths, from heat map analyzers to session recorders. 
+Sometimes the answers to why users delete the app are unobvious to the naked eye. There are a multitude of tools in the market that enable you to follow the user paths, from heat map analyzers to session recorders.
 
 Analysis of user behavior will help you answer the important question of whether there are any bottlenecks in your app. The __bottlenecks__ are the spots where users get stuck and consequently leave. If there are any, it is possible that your app UI needs revision or, in the case you started big, some features turn out unnecessary and are better be cut down.
 
@@ -150,103 +141,10 @@ If you want an app to be a part of users’ routine for a long, long time, then 
 
 Just a few more things to highlight at the end.
 
-* Again, no new features should be added to a bugged app — eventually, it may cause more serious problems that are expensive to fix. Every new feature has to undergo <a href="https://anadea.info/services/quality-assurance" target="_blank">Quality Assurance</a> (QA) before it’s out. 
+* Again, no new features should be added to a bugged app — eventually, it may cause more serious problems that are expensive to fix. Every new feature has to undergo <a href="https://anadea.info/services/quality-assurance" target="_blank">Quality Assurance</a> (QA) before it’s out.
 
-* Just because some feature is trendy doesn’t mean your users need it. Before starting to improve your elearning application, it’s nice to collect opinions of users — for example, on social media platforms or through an in-app form. 
+* Just because some feature is trendy doesn’t mean your users need it. Before starting to improve your elearning application, it’s nice to collect opinions of users — for example, on social media platforms or through an in-app form.
 
 * Don’t hesitate to reach out if any questions remain. A company with 20+ years of experience in education software development, we are excited to help you with improving your app to make learning easier for everybody.
 
 {{< ctabutton href="https://anadea.info/free-project-estimate" >}}Get an eLearning app quote{{< /ctabutton >}}
-
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "HowTo",
- "name": "How to improve my educational app?",
- "step": [
-  { "@type": "HowToSection",
-   "name": "Preparation",
-   "position": "1",
-   "itemListElement": [
-    {
-     "@type": "HowToStep",
-     "position": "1",
-     "itemListElement": [
-      {
-       "@type": "HowToDirection",
-       "position": 1,
-        "text": "Optimize app performance;"     
-      }
-     ]
-    },
-    {
-     "@type": "HowToStep",
-     "position": "2", 
-     "itemListElement": [
-      {
-       "@type": "HowToDirection",
-       "position": 1,
-       "text": "Provide advanced statistics for all sides;"    
-      }
-     ]
-    },
-    {
-     "@type": "HowToStep",
-     "position": "3",
-       "itemListElement": [
-      {
-       "@type": "HowToDirection",
-       "position": 1,
-       "text": "Take care of students’ health and comfort;"    
-      }
-     ]
-    }, 
-    {
-     "@type": "HowToStep",
-     "position": "4",
-          "itemListElement": [
-      {
-       "@type": "HowToDirection",
-       "position": 1,
-        "text": "Integrate social media;"     
-      }
-     ]
-    },
-    {
-     "@type": "HowToStep",
-     "position": "5",
-      "itemListElement": [
-      {
-       "@type": "HowToDirection",
-       "position": 1,
-       "text": "Analyze user behavior;"    
-      }
-     ]
-    },
-     {
-     "@type": "HowToStep",
-     "position": "6",
-      "itemListElement": [
-      {
-       "@type": "HowToDirection",
-       "position": 1,
-       "text": "Don’t forget marketing;"    
-      }
-     ]
-    },
-    {
-     "@type": "HowToStep",
-     "position": "7",
-      "itemListElement": [
-      {
-       "@type": "HowToDirection",
-       "position": 1,
-       "text": "Grow multi-platform capabilities."    
-      }
-     ]
-    }
-   ]
-  }
- ]
-}
-</script>

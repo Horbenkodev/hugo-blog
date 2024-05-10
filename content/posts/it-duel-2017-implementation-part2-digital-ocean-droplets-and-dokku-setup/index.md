@@ -17,20 +17,12 @@ categories:
 - Development
 - Ruby on Rails
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": " IT Duel 2017: "Battle of the Bots - Hexagon" Creation of the Game - Part 2 - DigitalOcean Droplets and Dokku Setup "
-}
-</script>
 
 In the first article of the series, we recalled the rules of the game and the technical characteristics of the game engine. Now, let's describe how to use DigitalOcean and Dokku to allow players to write a bot in multiple languages, while having guaranteed equal resources in runtime and a pleasant deploy procedure.
 
 The key to the solution is <a href="https://www.docker.com/" target="_blank">Docker</a>. The coolness of this tool can hardly be overestimated, as after its release the learning curve for DevOps has declined significantly. Since then, a regular developer swiftly sets up the environment for any needs, easily and naturally updates the system dependencies and has never heard of conflicts of dependencies…
 
-Well, as for the swift setup... Despite all the simplicity and elegance of the tool, programming *docker-compose* files and deploying scripts for non-trivial projects constitutes quite a serious DevOps task. For instance, one day I had to embed a legacy Ruby on Rails project into a someone else's continuous integration system, tailored exclusively to PHP. Build the Docker image, run the tests in a disposable container, with luck - deploy the image to host machines via the docker registry. It seemed to be a simple task at first glance, however it turned into a real battle and I even felt like I was starting to win it! .. Just one thought did bother me - "It is too difficult! In fact, I am now writing my yet another <a href="https://github.com/heroku/heroku-buildpack-ruby" target="_blank">heroku buildpack for ruby</a>. " In the end, everything began to operate like clockwork with the help of … 
+Well, as for the swift setup... Despite all the simplicity and elegance of the tool, programming *docker-compose* files and deploying scripts for non-trivial projects constitutes quite a serious DevOps task. For instance, one day I had to embed a legacy Ruby on Rails project into a someone else's continuous integration system, tailored exclusively to PHP. Build the Docker image, run the tests in a disposable container, with luck - deploy the image to host machines via the docker registry. It seemed to be a simple task at first glance, however it turned into a real battle and I even felt like I was starting to win it! .. Just one thought did bother me - "It is too difficult! In fact, I am now writing my yet another <a href="https://github.com/heroku/heroku-buildpack-ruby" target="_blank">heroku buildpack for ruby</a>. " In the end, everything began to operate like clockwork with the help of …
 
 <a href="https://dokku.com/" target="_blank">Dokku</a>! A faithful comrade-in-arms, Dokku is a high-level wrapper on top of Docker and Nginx:
 
@@ -168,7 +160,7 @@ $ dokku plugin:install https://github.com/dokku/dokku-redis
 $ dokku redis:create app_redis
 $ dokku redis:link app_redis app
 
-# Add the host name to the application, at the same time specify the corresponding A record in the DNS registrar panel 
+# Add the host name to the application, at the same time specify the corresponding A record in the DNS registrar panel
 $ dokku domains:add app internal.it-duel2017.anadea.info
 
 # Install and configure LetsEncrypt plugin to generate free SSL certificates

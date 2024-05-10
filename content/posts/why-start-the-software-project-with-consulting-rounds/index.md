@@ -14,18 +14,10 @@ industries: []
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Why start the software project with consulting rounds"
-}
-</script>
 
 There are many opinions about digital technology consulting. Some people think that consultants set crazy rates and at the same time do not bring any benefit. Some even had a negative experience working with IT consultants.
 
-Information technologies make business more projected and manageable. However, the adoption of information technology in business is complicated by the problem of misunderstanding: the business does not understand what to expect from IT, and IT companies can not always convey the idea in an accessible language. 
+Information technologies make business more projected and manageable. However, the adoption of information technology in business is complicated by the problem of misunderstanding: the business does not understand what to expect from IT, and IT companies can not always convey the idea in an accessible language.
 
 <a href=https://anadea.info/services/consulting-and-audit>Anadea has been engaged in digital strategy consulting</a> since 2000, helping companies, in particular from healthcare, real estate and education domains, solve specific problems and maintain market relevance through new digital channels. Based on our experience we will clarify why you should start your project with consultation rounds and what benefits it can bring to your business.
 
@@ -41,7 +33,7 @@ The digital environment covers everything related to software. It may be website
 
 Since digitization consultants work at the intersection of several areas - management and digital technologies, they understand the context and goals of a business and the power of information technology. Such a combination of knowledge makes an IT consultant a valued partner in <a href="https://anadea.info/blog/digital-transformation" target="_blank">digital transformation</a>.
 
-As for tech products on an idea stage, IT consulting is a must. It seems to many startup owners that they know in detail how to develop their software project and what tasks need to be solved in the first place. As our practice over 20+ years shows, this is a big illusion. For various reasons, such startup owners forget, inter alia, essential non-functional requirements - protection of personal data, extensibility, legal requirements, external interfaces, which subsequently will lead to significant challenges in further development. Digital business consultants help to polish the product idea to perfection from the very beginning which reduces the further change requests costs and <a href="https://anadea.info/blog/why-startups-benefit-from-a-code-audit-when-scaling">makes it easy to scale a software product</a>. 
+As for tech products on an idea stage, IT consulting is a must. It seems to many startup owners that they know in detail how to develop their software project and what tasks need to be solved in the first place. As our practice over 20+ years shows, this is a big illusion. For various reasons, such startup owners forget, inter alia, essential non-functional requirements - protection of personal data, extensibility, legal requirements, external interfaces, which subsequently will lead to significant challenges in further development. Digital business consultants help to polish the product idea to perfection from the very beginning which reduces the further change requests costs and <a href="https://anadea.info/blog/why-startups-benefit-from-a-code-audit-when-scaling">makes it easy to scale a software product</a>.
 
 ## What digital consulting can give your business
 
@@ -55,7 +47,7 @@ At the first moment, the money spent on digital strategy and consulting is seen 
 
 ### Assessing the digital presence of your business
 
-An IT consultant draws a comprehensive overview of technology workflows in digital channels used by your business. Such a clear picture of the overall digital state determines how you should invest in the future. 
+An IT consultant draws a comprehensive overview of technology workflows in digital channels used by your business. Such a clear picture of the overall digital state determines how you should invest in the future.
 
 ### Digital audit
 
@@ -71,9 +63,9 @@ Digital consulting provides information architecture by structuring the flow of 
 
 ### The pros and cons of hiring IT consultants
 
-There are lots of reasons for using an external technology consultant. The IT advisers add specific knowledge and skills that your team may not have. Consulting provides an expert and unbiased assessment of your software. Whether this software satisfies business processes requirements best, whether it is secure, whether it is reliable and effective. 
+There are lots of reasons for using an external technology consultant. The IT advisers add specific knowledge and skills that your team may not have. Consulting provides an expert and unbiased assessment of your software. Whether this software satisfies business processes requirements best, whether it is secure, whether it is reliable and effective.
 
-However, there are some points to the disadvantage of external IT consulting. You will need to spend a lot of time communicating with consultants on a business solution. Yes, they can work without your participation, but the result is unlikely to meet your specific needs. In some cases, engaging third-party consultants may potentially undermine your internal team's self-confidence. 
+However, there are some points to the disadvantage of external IT consulting. You will need to spend a lot of time communicating with consultants on a business solution. Yes, they can work without your participation, but the result is unlikely to meet your specific needs. In some cases, engaging third-party consultants may potentially undermine your internal team's self-confidence.
 
 ![pros-and-cons-of-digital-consulting.png](pros-and-cons-of-digital-consulting.png)
 

@@ -17,16 +17,8 @@ categories:
 - Business
 - Development
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "How to Leverage the Project Management Triangle"
-}
-</script>
 
-Being the project manager at a [custom software development company](https://anadea.info/services/custom-software-development), I often have to deal with the requests like "I want to do this app for a fixed price, can you do it?" or "Could you tell me a precise cost of my project?". Moreover, clients asking these questions may have just a brief idea of what they want to implement and they may not be sure about all the details of their project, however, they need the answer. 
+Being the project manager at a [custom software development company](https://anadea.info/services/custom-software-development), I often have to deal with the requests like "I want to do this app for a fixed price, can you do it?" or "Could you tell me a precise cost of my project?". Moreover, clients asking these questions may have just a brief idea of what they want to implement and they may not be sure about all the details of their project, however, they need the answer.
 
 The only way to handle such situations is to introduce a clear process which lets us deliver a software product that meets technical requirements and at the same time achieve desired time / cost outcomes. Basically, this brings us to the necessity to find the right balance between the constraints faced in every IT project: scope, schedule and cost. This is also known as the Triple Constraint or the Project Management Triangle.
 
@@ -38,7 +30,7 @@ In this article, we will show you how to properly manage all three project const
 
 Let's review each constraint in detail.
 
-## Scope 
+## Scope
 
 Scope is the set of features and functionality required to complete the project. There are certain steps and activities needed to clearly define the scope and deliver it on time and within schedule and budget.
 
@@ -56,7 +48,7 @@ The second step is to create a design for the system (features). At this stage, 
 
 ![Creating UI/UX design](ux-ui.png)
 
-Based on outcomes of these two steps, project manager creates a Work breakdown structure which records all features that need to be implemented. Now, the project has the list of items that can be estimated by a development team and this is the next step of the process. 
+Based on outcomes of these two steps, project manager creates a Work breakdown structure which records all features that need to be implemented. Now, the project has the list of items that can be estimated by a development team and this is the next step of the process.
 
 Estimation of every feature includes the following activities:
 
@@ -73,23 +65,23 @@ In order to track progress on the development phase, project manager compares pl
 
 ![Track development progress](Schedule.png)
 
-## Schedule 
+## Schedule
 
-Once we have the Work breakdown structure with estimations, we can understand how long it will take us to implement the project given the allocated development team. 
+Once we have the Work breakdown structure with estimations, we can understand how long it will take us to implement the project given the allocated development team.
 
 A tool which is used for this purpose is a Gantt chart. This chart makes it easy to visualize project management timelines by transforming task names, start dates, durations, and end dates into cascading horizontal bar charts.
 
 We usually organize our work based on Agile (Scrum) framework and break project into iterations (Sprints). Duration of each Sprint is 2 weeks and it includes such activities as:
 
 1. Sprint planning to plan the scope of work for a sprint.
-2. Implementation of the scope (development and testing). 
+2. Implementation of the scope (development and testing).
 3. Daily standups to get the team synced on the sprint progress.
 4. Demo meeting to show results of the sprint work.
 5. Retrospective meeting to summarize the sprint results.
 
 ![Gantt chart for tracking software project constraints](Gantt-chart.png)
 
-So, using Gantt chart allows all participants to know when feature development starts and when it ends. 
+So, using Gantt chart allows all participants to know when feature development starts and when it ends.
 
 ## Cost
 
@@ -101,7 +93,7 @@ Project costs is a very sensitive aspect and should be tracked very carefully. F
 
 ![Burndown chart for leveraging the triple constraints of project management](Burndown-chart.png)
 
-Change requests, e.g. adding new features or modifying UX flow, may significantly affect the budget. The Burndown chart will help to keep finger on the budget pulse and control budget throughout the project lifecycle. 
+Change requests, e.g. adding new features or modifying UX flow, may significantly affect the budget. The Burndown chart will help to keep finger on the budget pulse and control budget throughout the project lifecycle.
 
 ## Conclusion
 

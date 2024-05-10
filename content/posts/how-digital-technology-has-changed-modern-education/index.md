@@ -13,15 +13,6 @@ industries:
 - eLearning
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "How to Introduce New Technology in the Classroom (And Why Do It)"
-}
-</script>
-
 The times when a student owning a cell phone was something extraordinary are long gone, and now you can’t pry the kids away from their phones with a crowbar. As irritating as it may be for teachers, the new technology, in fact, is no evil. Once you comprehend how it can facilitate teaching and learning, adopting new tools for classrooms will become a question of time.
 
 ## Table of contents
@@ -34,7 +25,7 @@ The times when a student owning a cell phone was something extraordinary are lon
 
 <a name="traditional-education"></a>
 ## Is this the end of traditional education?
-Yes and no. Technology is not here to replace traditional learning with soulless machines; it’s here to help motivate students (according to PBS LearningMedia <a href="https://www.pbs.org/about/about-pbs/blogs/news/pbs-survey-finds-teachers-are-embracing-digital-resources-to-propel-student-learning/" target="_blank" rel="nofollow">research</a>, 74% of teachers responded that using classroom technology increases student motivation) and save teachers’ time. 
+Yes and no. Technology is not here to replace traditional learning with soulless machines; it’s here to help motivate students (according to PBS LearningMedia <a href="https://www.pbs.org/about/about-pbs/blogs/news/pbs-survey-finds-teachers-are-embracing-digital-resources-to-propel-student-learning/" target="_blank" rel="nofollow">research</a>, 74% of teachers responded that using classroom technology increases student motivation) and save teachers’ time.
 
 Take a look at these numbers:
 
@@ -58,7 +49,7 @@ These examples illustrate how technology in the classroom positively impacts com
 
 __Adds precision to the demonstration.__ The Internet is a bottomless source of all kinds of educational materials, for example, videos that can be freely used at the lessons. And videos are just a tip of the iceberg. Before demonstrations were limited to hand-outs and images from textbooks, now, entire ecosystems can be built to fulfill educational goals, where the content can be uploaded, downloaded, shared and modified.
 
-__Accelerates research and information exchange.__ Gen Z is the most technologically advanced generation; they are fast learners able to gulp down huge amounts of information. So by the time a millennial would just make it to the library, a zoomer would have already found and read what they needed on a device. 
+__Accelerates research and information exchange.__ Gen Z is the most technologically advanced generation; they are fast learners able to gulp down huge amounts of information. So by the time a millennial would just make it to the library, a zoomer would have already found and read what they needed on a device.
 
 With the availability of information online, including high-profile university resources (we’re not talking Wikipedia here), almost all can be found right at the lesson. In an __online learning environment__, teachers can even form a custom knowledge base to share the information across students and adjust it to fit the learning plan.
 
@@ -97,9 +88,9 @@ With technology, assessment becomes reciprocal. Teachers have always encouraged 
 
 <a name="custom-lxp"></a>
 ## What a custom LXP can offer
-In 2022, the market offers hundreds of out-of-the-box learning management systems and learning experience platforms. At the beginning of the Covid-19 pandemic, many schools and universities hastily switched to systems like Moodle that have proven effective for holding online classes and performance reviews but turned out not that appealing in the long run due to limited customization opportunities. Now, institutions are increasingly leaning towards building their own LXP. 
+In 2022, the market offers hundreds of out-of-the-box learning management systems and learning experience platforms. At the beginning of the Covid-19 pandemic, many schools and universities hastily switched to systems like Moodle that have proven effective for holding online classes and performance reviews but turned out not that appealing in the long run due to limited customization opportunities. Now, institutions are increasingly leaning towards building their own LXP.
 
-__An example from real life.__ A school in the US was using a paid learning experience platform it was fine with. That LXP had rich functionality and charged around $4 monthly fee per user. However, despite all its functionality, the LXP was lacking a module for connecting parents to the system. The administration decided to then start using another system on top of the existing one, a tool for parents and teachers connection. 
+__An example from real life.__ A school in the US was using a paid learning experience platform it was fine with. That LXP had rich functionality and charged around $4 monthly fee per user. However, despite all its functionality, the LXP was lacking a module for connecting parents to the system. The administration decided to then start using another system on top of the existing one, a tool for parents and teachers connection.
 
 Technically, the need was covered, but the second tool also cost money and more than that, duplicated certain functionalities of the primary system, such as the school event calendar, __which was also paid for__. After some consideration, it was decided at the school that a <a href="https://anadea.info/solutions/e-learning-software-development/lxp" target="_blank">custom LXP development</a> would be more cost-effective and __pay off in less than 2 years__, compared to keeping the two systems. So doing a little math pushed for creating a platform with the functionality meeting the needs of the school and to which the staff, students and their parents had access.
 

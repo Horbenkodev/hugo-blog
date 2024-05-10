@@ -15,20 +15,12 @@ industries: []
 categories:
 - Development
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "What is JVM and Why it is Worth to Develop Apps on Java Platform"
-}
-</script>
 
 The history of Java began in 1995, when the first version of this programming language was released. "Write Once, Run Anywhere" (WORA) was the slogan of the new language. This meant that Java was not just another programming language, but a whole platform which you could use to build applications for everything, from powerful servers in data centers to a coffee machine in your kitchen.
 
-## How does it work? 
+## How does it work?
 
-The programs written in Java, C, Go or any other programming language have to be translated to machine code to let computers understand them. However, different types of hardware and different computers speak different dialects of machine code. With most languages you have to translate the program into each dialect separately. It's not about Java! 
+The programs written in Java, C, Go or any other programming language have to be translated to machine code to let computers understand them. However, different types of hardware and different computers speak different dialects of machine code. With most languages you have to translate the program into each dialect separately. It's not about Java!
 
 The point is that instead of translating the program into machine code, the Java compiler converts it to an intermediate language called bytecode. And this bytecode is the secret ingredient. It is executed not on the hardware itself, but on a JVM (Java Virtual Machine). What is JVM and why it is needed? JVM is a special software that serves as a translator from bytecode to the language of machine code. Install a JVM on your phone - here's a mobile app. Want a web application? No problem, install Java virtual machine on the server and run your website with photos of pets.
 
@@ -38,7 +30,7 @@ It has been more than 20 years since the rise of the Java platform and you know 
 
 <img src="Advantages_of_java.png" alt="Infographic: Advantages of Java and JVM" width='400' class="float-right">
 
-### Independence from platform 
+### Independence from platform
 
 As mentioned above, applications written in Java can run on Windows, on Linux, or even on a refrigerator. The main thing is to have a JVM installed on the device.
 
@@ -74,7 +66,7 @@ Among these languages are: functional to the core Clojure, dynamic Groovy, pragm
 
 In support of the above, I would like to give a few examples of projects implemented by us on the Java platform.
 
-#### For education industry: 
+#### For education industry:
 
 **[STAV Online](https://anadea.info/projects/stav-online)** - an online platform for teaching and learning the national language in Danish schools. Training is conducted using the gamification technique: instead of books - game worlds and bonus points will be a reward to the diligent student. The teacher can track the progress of both the class as a whole and individual students. Since students and teachers work with the application mainly from tablets, the application is also adapted for mobile devices. At the moment, the application serves more than 10 thousand students and over a thousand teachers.
 
@@ -88,6 +80,6 @@ Everyone likes to play games and our developers are no exception. However, since
 
 ## Outcomes
 
-JVM is a modern, mature, reliable and stable platform that allows developing applications of any complexity and purpose. Development on JVM saves time and money for the business owner, and also brings pleasure to the developer. A satisfied developer is an effective developer. Applications written for the JVM are safe, productive and reliable and they can be easily transferred to various hardware platforms. 
+JVM is a modern, mature, reliable and stable platform that allows developing applications of any complexity and purpose. Development on JVM saves time and money for the business owner, and also brings pleasure to the developer. A satisfied developer is an effective developer. Applications written for the JVM are safe, productive and reliable and they can be easily transferred to various hardware platforms.
 
 Is it worth to develop your product in Java? Definitely it is! At least try it, you will like it.

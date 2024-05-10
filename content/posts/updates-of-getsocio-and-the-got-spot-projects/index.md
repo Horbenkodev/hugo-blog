@@ -15,16 +15,8 @@ industries: []
 categories:
 - News
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "What's New? Updates of Getsocio and The Got Spot projects"
-}
-</script>
 
-Recently we've released a new mobile app - The Got Spot app. The launch of this application is closely related to our Getsocio project, so let's first talk about major updates of Getsocio itself and some other linked projects. 
+Recently we've released a new mobile app - The Got Spot app. The launch of this application is closely related to our Getsocio project, so let's first talk about major updates of Getsocio itself and some other linked projects.
 
 ## Getsocio
 
@@ -68,7 +60,7 @@ After the first coupon scanner apps appeared on the market, Getsocio's customers
 
 ## The Got Spot mobile app
 
-Now, let's get back to the most recent release - The Got Spot mobile app. 
+Now, let's get back to the most recent release - The Got Spot mobile app.
 
 The growing business of one of Getsocio's key clients required developing a mobile application for their website. However, previously available client applications were created in distant 2012 and looked like this:
 ![Getsocio mobile app old](Getsocio_mobile_old.jpg)

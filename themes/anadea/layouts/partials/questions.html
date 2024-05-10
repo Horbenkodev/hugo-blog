@@ -36,4 +36,24 @@
       {{ end }}
     </dl>
   </section>
+  <script type="application/ld+json">
+    {
+     "@context": "https://schema.org",
+     "@type": "FAQPage",
+     "mainEntity": [
+      {{ range .}}
+        {
+        "@type": "Question",
+        "name": "{{ .question }}",
+        "acceptedAnswer": [
+          {
+          "@type": "Answer",
+          "text": "{{ .answer }}"
+          }
+        ]
+        }
+      {{ end }}
+     ]
+    }
+    </script>
 {{ end }}

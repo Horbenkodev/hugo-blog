@@ -162,32 +162,3 @@ It is a web solution that helps people to find potential partners for building r
 ### How does a dating website match people?
 
 There can be different approaches to choosing candidates that will be demonstrated to a user. But usually, it works with predictions made by algorithms. In other words, a website tries to create a list of people who will be liked by users. It can be done based on the indicated interests or previously made choices.
-
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-   "@type": "Question",
-   "name": "What is a dating website?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "It is a web solution that helps people to find potential partners for building romantic relationships based on their common interests, preferences, location, and other parameters."
-    }
-   ]
-  },
-  {
-   "@type": "Question",
-   "name": "How does a dating website match people?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "There can be different approaches to choosing candidates that will be demonstrated to a user. But usually, it works with predictions made by algorithms. In other words, a website tries to create a list of people who will be liked by users. It can be done based on the indicated interests or previously made choices."
-    }
-   ]
-  }
- ]
-}
-</script>

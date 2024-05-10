@@ -17,14 +17,6 @@ industries: []
 categories:
 - Development
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "React Native: the Journey of a Beginner"
-}
-</script>
 
 <p align="right"><sub>"If you sit by the riverbank for a long time,<br>
 you will see the dead body of the framework,<br>
@@ -89,7 +81,7 @@ export const requestExternalStoragePermission = async (onSuccess, onError) => {
     PermissionsAndroid.PERMISSIONS.READ_EXTERNAL_STORAGE,
     {
      title: 'App read external storage Permission',
-     message: `App needs access to your external storage 
+     message: `App needs access to your external storage
           so you can take keep your data.`
     }
    )
@@ -148,7 +140,7 @@ Since the code is executed by JavaScript, there can be any set of libraries of t
 I could finish my article here by adding a few pretentious phrases like "everything works out of the box," "a large community," "a huge number of plugins." However, the reality is that the first impression can be deceiving and it is necessary to go a long way in [iOS app development](https://anadea.info/services/mobile-development/ios-development) and [Android app development](https://anadea.info/services/mobile-development/android-development) before getting a viable application that solves a real customer's problem.
 
 ## Pitfalls:
- 
+
 Possible errors in iOS:
 
 * **When creating a build in XCode, the build gets to Other Items,** which makes it impossible to submit it to the AppStore.
@@ -163,7 +155,7 @@ Solution: in all projects that are in the Library, you need to set:
 
 * **Missing project updates after making changes, "hang ups" and other unpredictabilities.**
 
-A possible reason is that the "clean project" in XCode does not completely remove the temporary files it created. 
+A possible reason is that the "clean project" in XCode does not completely remove the temporary files it created.
 
 Solution: delete the temporary files manually. They are in the directory:
 
@@ -173,9 +165,9 @@ cd /Users/[local machine]/Library/Developer/Xcode/DerivedData/
 
 * **When creating the Archive for the AppStore, XCode swears at duplicate files.**
 
-This can happen if you use pod and React with its components inside it, as well as some of them directly from node_modules. 
+This can happen if you use pod and React with its components inside it, as well as some of them directly from node_modules.
 
-Solution: exclude files from the build by adding to ios/Podfile: 
+Solution: exclude files from the build by adding to ios/Podfile:
 
 ```
 post_install do |installer|

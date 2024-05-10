@@ -17,16 +17,6 @@ industries:
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Sophia Lawrence",
- "name": "How to Get Seed Funding for Your Health IT Startup"
-}
-</script>
-
-Updated 7 September, 2021
 
 Healthcare is an evergreen industry worldwide. As advances in medical sciences and pharmaceuticals continue, there will be no dearth of innovative ideas to launch healthcare based startups. In all probability, most health startups will be IT-based. Primarily because IT now touches almost every sphere of our lives.
 
@@ -44,7 +34,7 @@ With some research, you can find seed funding for your health IT startup. Howeve
 
 ### Healthcare providers
 
-Several well-respected healthcare providers that own chains of hospitals, clinics and diagnostic centers are offering seed funding for health IT startups. In fact, these healthcare providers are creating a special fund to seed health IT and related startups. According to one report, a leading healthcare provider will set up a fund worth US$50 million to seed health startups. 
+Several well-respected healthcare providers that own chains of hospitals, clinics and diagnostic centers are offering seed funding for health IT startups. In fact, these healthcare providers are creating a special fund to seed health IT and related startups. According to one report, a leading healthcare provider will set up a fund worth US$50 million to seed health startups.
 
 This phenomenon will soon become common worldwide: there are several potential areas in health IT that entrepreneurs are yet to explore. If you have a fantastic startup idea in the health IT sector, try approaching one of these healthcare providers that have a seed fund.
 
@@ -62,7 +52,7 @@ Here, it is worth noting that crowdfunding works differently than direct seed fu
 
 ### Bank funding
 
-There are several banks worldwide that fund health IT startups. In the US, for example, Silicon Valley Bank ranks among the leading seed funder for health IT startups. 
+There are several banks worldwide that fund health IT startups. In the US, for example, Silicon Valley Bank ranks among the leading seed funder for health IT startups.
 
 Some banks have formed special divisions to finance innovative startups in health IT. A great example is India, where the government offers funding to health IT startups under its Micro Units Development and Refinance Agency (MUDRA) Bank, a state-sponsored initiative implemented through public sector, private and cooperative banks.
 

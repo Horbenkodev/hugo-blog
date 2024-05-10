@@ -14,14 +14,6 @@ industries: []
 categories:
 - App Ideas
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "How to Build Successful IT Startup Such as Car Wash App"
-}
-</script>
 
 <h2>Table of contents</h2>
 
@@ -52,7 +44,7 @@ However, many people find real life a bit different. In this article, we will ta
 
 <a name="idea"></a>
 ## Business idea of car wash app
-A good business idea assumes that people will get a real benefit from using an online software. The best way to prove that the idea is good is to use business analysis techniques. In the perfect world, a healthy business project is started from a business analysis stage. To explain what it is and how it is supposed to work let's take an existing idea and go through the whole process. 
+A good business idea assumes that people will get a real benefit from using an online software. The best way to prove that the idea is good is to use business analysis techniques. In the perfect world, a healthy business project is started from a business analysis stage. To explain what it is and how it is supposed to work let's take an existing idea and go through the whole process.
 
 Let’s take something simple like a car wash appointment booking system. A car wash startup is suitable for our purposes - this type of service looks pretty stable and Google says that the car washing market has been rising for the last 10 years. Last year, its size reached more than $35 billion and it is expected to reach more than $40 billion in the near future.
 
@@ -75,7 +67,7 @@ This example assumes that we are going to build a __collaboration platform__ - s
 Next few points that we need to go through are __Target Audience__, __Needs__, __Features__, and __Value__.
 <a name="audience"></a>
 ## Target Audience
-Target Audience should be described as detailed as possible. Here we need to think about next things: 
+Target Audience should be described as detailed as possible. Here we need to think about next things:
 * __Users' nature__ - are they big companies or small teams or both on the service providers' side? Who are the customers? Are they ordinary people with cars or professional drivers having non-obvious but important requirements?
 
 * __Market details__ - is there a special market demand which we can satisfy and get a competitive advantage? Are there any details that may influence our strategy such as age or gender?
@@ -90,7 +82,7 @@ Talking about the needs of users, we need to identify a problem that our service
 
 <a name="value"></a>
 ## The Value
-Next point should simply and unambiguously describe the value of our product. It can be something like: “Our app makes getting the car wash services accessible, simple and enjoyable.” It looks obvious but probably this point is the most important among all of them. The business will be successful only in case the value is relevant to customer needs. 
+Next point should simply and unambiguously describe the value of our product. It can be something like: “Our app makes getting the car wash services accessible, simple and enjoyable.” It looks obvious but probably this point is the most important among all of them. The business will be successful only in case the value is relevant to customer needs.
 
 <a name="how-work"></a>
 ## How does IT work?
@@ -153,9 +145,9 @@ Another aspect to think about is a monetization model. There is a huge list of d
 
 <a name="step"></a>
 ## The first step towards app development
-Well, looks like we've made our first step in the right direction. Now we have high-level logic of our future product and the understanding of its basic components. Generally, you are ready to start looking for a car wash app development company. For sure, they will be happy to get such a simple, logical and clearly articulated vision of an upcoming product from you. 
+Well, looks like we've made our first step in the right direction. Now we have high-level logic of our future product and the understanding of its basic components. Generally, you are ready to start looking for a car wash app development company. For sure, they will be happy to get such a simple, logical and clearly articulated vision of an upcoming product from you.
 
-One small warning before we go to the development process breakdown. Often people apply to our company with hundreds of pages of documentation describing their product as closely as possible. Usually, it goes straight to the imaginary bin because the modern approach to development assumes something completely different. 
+One small warning before we go to the development process breakdown. Often people apply to our company with hundreds of pages of documentation describing their product as closely as possible. Usually, it goes straight to the imaginary bin because the modern approach to development assumes something completely different.
 
 <a name="agile"></a>
 ## Agile

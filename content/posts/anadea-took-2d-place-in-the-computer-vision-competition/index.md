@@ -15,16 +15,7 @@ categories:
 - Machine Learning
 - News
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Anadea Took 2d Place in the Computer Vision Competition Organized by Open Data Science Community"
-}
-</script>
-
-<img src="super.png" class="float-left" width='150'>Recently, Our Deep Learning Team participated in a competition organized by Open Data Science community and took <a href="https://ods.ai/tracks/ml4sg-df2021/competitions/lacmus-cvc-soc2021/leaderboard" rel="nofollow" target="_blank">2d place</a>! Congrats, guys! 
+<img src="super.png" class="float-left" width='150'>Recently, Our Deep Learning Team participated in a competition organized by Open Data Science community and took <a href="https://ods.ai/tracks/ml4sg-df2021/competitions/lacmus-cvc-soc2021/leaderboard" rel="nofollow" target="_blank">2d place</a>! Congrats, guys!
 
 
 ![leaderboard_1.png](leaderboard_1.png)

@@ -13,14 +13,6 @@ industries: []
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Business Plan for a Mobile App Startup - Complete Guide"
-}
-</script>
 
 __Any venture needs a strategy. Especially if you are just starting. Whatever sector you're in and whether your potential customers are B2C or B2B, this puts you up against a lot of competition. Find out all about drawing a primary business plan for an app startup to have your feet firmly on the ground.__
 
@@ -58,47 +50,47 @@ Here is what you need to include in the business plan when launching a mobile ap
 
 
 <a name="template"></a>
-## Business Plan Template 
+## Business Plan Template
 
 ![business plan template](high-angle-shot-woman-hands-typing-keyboard-focused-female-student-working-her-homework-computer-making-notes-waiting-important-call-from-boss-glancing-smartphone_1_.jpg)
 
 <a name="executive-summary"></a>
-### 1. Executive Summary 
+### 1. Executive Summary
 
-Be clear and concise in writing the executive summary, especially if seeking investment. It might be easier to write the introduction to the business plan at the very end of composing a plan after everything else is down on paper. 
+Be clear and concise in writing the executive summary, especially if seeking investment. It might be easier to write the introduction to the business plan at the very end of composing a plan after everything else is down on paper.
 Generally, the summary includes the following elements:
 
 <a name="problem"></a>
 
-#### 1.1. Problem 
+#### 1.1. Problem
 
 A problem or series of pain points is something that you know your potential customers have. Either no effective solution exists or the present solution has serious shortcomings. Also, to make your app startup a viable commercial proposition, it should demonstrate that the problem affects enough people.
 
 <a name="solution"></a>
 
-#### 1.2. Solution 
+#### 1.2. Solution
 
-Now introduce your app idea and explain why it's a suitable solution to the problem. Explain how it affects the pain points identified and why people or companies will turn to it as a potential solution. 
+Now introduce your app idea and explain why it's a suitable solution to the problem. Explain how it affects the pain points identified and why people or companies will turn to it as a potential solution.
 
 <a name="proposition"></a>
-#### 1.3. Value proposition 
+#### 1.3. Value proposition
 
 A value proposition is the essence of the value your product delivers to its consumers. No business plan survives contact with real customers and the market in action, however, the value proposition is a good starting point.
 If you are entering a certain niche or attempting to create an entirely new one, it might be harder to define the value proposition. On the contrary, if entering established markets, you need to use this opportunity to outline why you should be chosen over the competitors. Chances are, they've got more resources and customers, so explain why you're different from the quality point of view.
 
 <a name="targets"></a>
 
-#### 1.4. Targets 
+#### 1.4. Targets
 
 If you’re seeking investment, an investor needs to know if your goals align with their portfolio. Define what is the meaning of success for you. Is it:
 
 * A specific revenue target?
 * An exit - IPO or acquisition?
-* And how soon do you hope to achieve that (e.g. 3 to 5 years)? 
+* And how soon do you hope to achieve that (e.g. 3 to 5 years)?
 
 You may also use some business plan templates, e.g. the ones provided by <a href="https://www.hubspot.com/business-templates/business-plans" target="_blank" rel="nofollow">HubSpot</a>.<a name="market"></a>
 
-### 2. Market 
+### 2. Market
 
 Some of the most successful startups of the last decade were entering huge existing markets. Take Uber and Airbnb as examples of <a href="https://anadea.info/solutions/travel-app-development" target="_blank">travel app development</a>. It’s an enormous global market, and it took these startups much effort to start making profit.
 
@@ -108,7 +100,7 @@ Not everyone needs to be that ambitious, but it certainly helps investors know t
 
 2. Serviceable Available Market **(SAM)** = percentage of the market you can reach through your sales/marketing and partner channels over a specific timescale, e.g. 3 to 5 years.
 
-3. Serviceable Obtainable Market **(SOM)** = known size of the early adopter market that you can reach in the first 6 to 12 months. 
+3. Serviceable Obtainable Market **(SOM)** = known size of the early adopter market that you can reach in the first 6 to 12 months.
 
 Now, if you are entering an established/growing market, research firms such as Nielsen or Forrester should have an idea of this market’s size and anticipated growth projections. Gartner can probably give you an overview of competitors. All of this research should be publicly available.
 If you are facing established competitors - whether they're also startups or big players, it would be useful to do a SWOT analysis as part of the app development business plan.
@@ -119,7 +111,7 @@ Make sure you know what the challenges are. Investors recognize false confidence
 {{< ctabutton href="https://anadea.info/free-project-estimate" >}}Hire App Developers{{< /ctabutton >}}</p>
 <a name="company"></a>
 
-### 3. Company 
+### 3. Company
 
 Your team is everything. It is the main reason investors put money into startups. Accelerators, such as TechStars and Y Combinator, pick startups for the teams behind an idea.
 
@@ -128,21 +120,21 @@ Your team is everything. It is the main reason investors put money into startups
 
 In this section of your tech startup business plan, you need to point out the following:
 
-* Legal entity, where the company is registered and when it was formed. 
+* Legal entity, where the company is registered and when it was formed.
 * Number of employees and/or shareholders.
-* Where are you based and how does the team operate together, if some members are remote? 
+* Where are you based and how does the team operate together, if some members are remote?
 
 <a name="history"></a>
 
-#### 3.1. History 
+#### 3.1. History
 
-Next, you need to outline the history. How did you uncover this problem you want to solve? What steps did you take to understand the market and customer pain points (e.g. <a href="https://anadea.info/blog/what-is-a-minimum-viable-product-and-how-to-build-an-mvp" target="_blank">develop an MVP</a>, do some market testing)? How did you assemble the team? 
+Next, you need to outline the history. How did you uncover this problem you want to solve? What steps did you take to understand the market and customer pain points (e.g. <a href="https://anadea.info/blog/what-is-a-minimum-viable-product-and-how-to-build-an-mvp" target="_blank">develop an MVP</a>, do some market testing)? How did you assemble the team?
 
-Listing key milestones is also a useful indicator of how you've grown and lessons learned along the way. 
+Listing key milestones is also a useful indicator of how you've grown and lessons learned along the way.
 
 <a name="team"></a>
 
-#### 3.2. Team 
+#### 3.2. Team
 
 Investors want to know more about everyone involved, be it regular employees or those playing a key role in the strategic direction of the company. They surely wonder about the cost of the team, meaning salaries, insurances, and other key expenses. Give details on how they got involved, their role and responsibilities, along with professional experience in mobile application development or related fields.
 
@@ -152,7 +144,7 @@ If you have an advisory team, it's useful to list who's onboard and how they are
 
 <a name="strategy"></a>
 
-### 4. Marketing Strategy 
+### 4. Marketing Strategy
 
 A marketing strategy is one aspect of your plan that will iterate and change a lot during the first year or two. It vastly depends on milestones you set: say, you plan on advertising the product after its release, then take on community management, and after that, remarket. A marketing strategy for an app startup suggests achieving goals one by one.
 
@@ -164,27 +156,27 @@ Get a sense of costs. How much will it cost to acquire a customer (known as your
 
 ### 5. Financials
 
-Now is the time to sit down and crunch some numbers. In any business plan, investors need to see the following: 
+Now is the time to sit down and crunch some numbers. In any business plan, investors need to see the following:
 
-1. How are you going to make money? 
-2. What it will cost to run your business? 
-3. How much funding is needed? 
+1. How are you going to make money?
+2. What it will cost to run your business?
+3. How much funding is needed?
 
 <a name="revenue-models"></a>
-#### 5.1. Revenue models 
+#### 5.1. Revenue models
 
-For app founders, the following revenue models are available: 
+For app founders, the following revenue models are available:
 
 * **Advertising.** This works if you intend for your user-base to be the product, whereby they get it for free and advertisers pay to reach them.
 
 * **Paid.** Although many people are averse to paying to download, apps can still generate revenue this way. If you are going this road, iOS and macOS app stores are where you are more likely to find users willing to pay, alongside selling apps through your own and third-party websites.
 
-* **In-app purchases.** For consumer apps, this is the most viable route to revenue. Base revenue projections on a percentage making a purchase - don't be over-optimistic - and use prompts such as referral discounts to encourage upgrades. 
+* **In-app purchases.** For consumer apps, this is the most viable route to revenue. Base revenue projections on a percentage making a purchase - don't be over-optimistic - and use prompts such as referral discounts to encourage upgrades.
 * **Subscription.** A popular choice for B2B apps (hence the boom in SaaS startups), although this is also becoming more commonplace with consumer apps.
 
 <a name="costs"></a>
 
-#### 5.2. Costs 
+#### 5.2. Costs
 
 Investors need to know how much everything is going to cost and what the variables are.
 
@@ -194,7 +186,7 @@ Some costs, such as salaries, subscriptions, and office rent, are going to remai
 
 <a name="funding"></a>
 
-#### 5.3. Funding 
+#### 5.3. Funding
 
 And finally, to secure investment, you should be able to outline how long it will take to achieve profitability and how much funding is needed. This is the amount you are asking for. In exchange, you need to say how much equity you are giving away, or alternatively, figure out how long it will take to bootstrap until profitability - once you've got an app to launch.
 

@@ -170,32 +170,3 @@ The demand for various solutions that can help oil and gas companies increase th
 ### Are there any risks of using AI in the oil and gas industry?
 
 As well as in any other industry, the implementation of AI for oil and gas can be associated with some difficulties and pitfalls. First of all, the introduction of such systems requires investments which can be risky if a company hasn't properly estimated the feasibility of this move. Secondly, it's important to understand that AI is a great supportive tool but at the moment its use should be combined with traditional methods. Thirdly, it is vital to make sure that the used tools are fully compliant with the existing regulations.
-
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-   "@type": "Question",
-   "name": "Is it worth investing in AI for oil and gas market?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "The demand for various solutions that can help oil and gas companies increase their productivity is continuously moving higher. AI is one of the technologies that can be used by businesses to achieve the set goals. Already today AI-powered software is applied for optimizing supply chains, providing accurate predictions, reducing downtimes, and streamlining a lot of routine operations. As AI has already proved its efficiency in the oil and gas industry, investments in such products can become a feasible idea these days."
-    }
-   ]
-  },
-  {
-   "@type": "Question",
-   "name": "Are there any risks of using AI in the oil and gas industry?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "As well as in any other industry, the implementation of AI for oil and gas can be associated with some difficulties and pitfalls. First of all, the introduction of such systems requires investments which can be risky if a company hasn't properly estimated the feasibility of this move. Secondly, it's important to understand that AI is a great supportive tool but at the moment its use should be combined with traditional methods. Thirdly, it is vital to make sure that the used tools are fully compliant with the existing regulations."
-    }
-   ]
-  }
- ]
-}
-</script>

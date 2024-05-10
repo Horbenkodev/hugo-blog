@@ -15,14 +15,6 @@ categories:
 - Development
 - Ruby on Rails
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "How to Integrate Google Maps into Ruby on Rails App"
-}
-</script>
 
 Google Maps service is an incredible tool that offers fast, reliable, and highly customizable features. It is also freemium, making it an ideal option for startups, with a daily limit of 2500 requests that should be more than enough for most. When I began my web development career, I was tasked with integrating an interactive map into an application. Like many others, I often forgot that "there is nothing new under the sun." Thus, I spent some time exploring guides instead of looking for pre-built solutions.
 
@@ -134,7 +126,7 @@ An example: let's assume that there are several tabs in our app and each tab con
 Below you can find a CoffeeScript code for implementation of the required functionality.
 
 ```
-class GoogleMap 
+class GoogleMap
  # defaults
  zoom =
   initialView: 15
@@ -174,13 +166,13 @@ class GoogleMap
    position = new google.maps.LatLng marker["lat"], marker["lon"]
    title = "#{marker['full_address']}"
    @addMarker position, title
- 
+
  drawMarkers: (map) ->
   # draw markers
   _.each markers, (marker) ->
    marker.setMap map
    # IMPORTANT: calling setMap method on marker will draw this marker, calling setMap with null parameter will erase it
- 
+
  showMarkers: ->
   @setAllMap map
 
@@ -205,7 +197,7 @@ This class then can be used in the code as follows:
 ```
 $ ->
  { GoogleMap } = app.google.classes
- 
+
  googleMap = new GoogleMap($('[data-map]:eq(0)').data('home'))
  googleMap.placeMarkers($("[data-map]:eq(0)").data("markers-list"))
 

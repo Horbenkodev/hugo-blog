@@ -16,14 +16,6 @@ industries: []
 categories:
 - Design
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Arlene Jessica",
- "name": "Objectives of Business Signages in a Digital World and How to Design Them"
-}
-</script>
 
 Businesses gain customer popularity because of the quality of the product or service that they provide. However, how do they gain customers in the first place? Well, you can definitely start brainstorming for designs because a signage is what you'll be needing to lure in customers from all over the Internet.
 

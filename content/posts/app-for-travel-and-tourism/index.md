@@ -13,15 +13,6 @@ industries:
 - Travel
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Travel & Tourism Market Overview: What to Consider When Developing a Travel App"
-}
-</script>
-
 The travel and tourism industry is starting to recover from a COVID-19 outbreak, quarantine, and movement restrictions. The travel sector recovered over 50% of its gross revenue by the end of 2021 when compared to the pre-coronavirus numbers. This recovery is projected to reach 85% by the end of 2022, by Travelport.
 
 Many countries opened borders to recover the state of affairs and catch waves of tourists heading on vacation. Or, as they say in the tourism industry - mid-season (March, April, May, October) and high season (June, July, August, September). Traditionally, __Q3 is the most fertile quarter__, which is also well seen on the bar chart below that reflects the number of downloads of top Travel category apps in Google Play and App Store in the USA by Sensortower.

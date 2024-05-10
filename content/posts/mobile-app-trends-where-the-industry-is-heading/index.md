@@ -14,14 +14,6 @@ industries: []
 categories:
 - Trends
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Mobile App Trends in 2022: Where the Industry is Heading"
-}
-</script>
 
 By the end of the year, what do technology enthusiasts do? Right, they google what's up with the industry, where it's heading, and what are the trends for the upcoming year. Now it's time to make predictions on what mobile app trends will rule the world in 2023. Some of them emerged years ago, however, it took time for them to expand, and they are gaining true power over the minds of consumers and entrepreneurs only now. Let's get started!
 
@@ -84,7 +76,7 @@ That being said, in 2023, the 5G technology will strengthen its position as a st
 
 <a name="instant"></a>
 ### Instant Apps
-For this fast pace of life, people tend to make decisions as quickly as possible. A while ago, Google Play enabled the “Try Now” button in its app. It means that a user interested in your app can try it instantly without downloading the full version. It saves time, device’s memory, and allows getting the first impression of the app helping users decide whether they want to install it. 
+For this fast pace of life, people tend to make decisions as quickly as possible. A while ago, Google Play enabled the “Try Now” button in its app. It means that a user interested in your app can try it instantly without downloading the full version. It saves time, device’s memory, and allows getting the first impression of the app helping users decide whether they want to install it.
 
 Forge of Empires, a Google Play Instant version of which was uploaded to the store, had a <a href="https://www.thinkwithgoogle.com/intl/en-cee/marketing-strategies/app-and-mobile/innogames-attracts-new-players-and-boosts-conversions-google-play-instant/" rel="nofollow" target="_blank">3X higher conversion rate</a> than an average app by the same studio - all thanks to the demo. Impressive, isn’t it?
 
@@ -92,9 +84,9 @@ So we’d strongly recommend Android developers have instant versions of their a
 
 <a name="wellbeing"></a>
 ### Digital Wellbeing
-Are you familiar with the words “digital wellbeing” and “digital detox”? __Digital wellbeing__ is basically taking control over the amount and quality of digital content consumed. __Digital detox__ is self-limitation from online activities in favor of real life. Even if you hear (or read) it for the first time, now both are a huge trend that will prosper even more in 2023. Why so? 
+Are you familiar with the words “digital wellbeing” and “digital detox”? __Digital wellbeing__ is basically taking control over the amount and quality of digital content consumed. __Digital detox__ is self-limitation from online activities in favor of real life. Even if you hear (or read) it for the first time, now both are a huge trend that will prosper even more in 2023. Why so?
 
-Lots of people are experiencing anxiety and distraction as a result of the constant use of devices: they involuntary check their phones whenever possible. Surfing the internet, scrolling Instagram feed, and reading news posted every minute is not relaxing but stressful. 
+Lots of people are experiencing anxiety and distraction as a result of the constant use of devices: they involuntary check their phones whenever possible. Surfing the internet, scrolling Instagram feed, and reading news posted every minute is not relaxing but stressful.
 
 To focus on what really matters and manage phone usage, there are tools for setting daily limits and tracking time spent in particular apps. No apps are needed for that, you may say, but digital wellbeing applications are a surprisingly hot trend this year. So why not develop your own one in 2023?
 
@@ -108,7 +100,7 @@ The demand for digital wellbeing apps described before is a part of another glob
 
 <a name="beacon"></a>
 ### Beacon Technology
-Beacons are small devices roughly the size of a regular Wi-Fi router. They are installed in public places, e.g. in stores, to detect the presence of people nearby. 
+Beacons are small devices roughly the size of a regular Wi-Fi router. They are installed in public places, e.g. in stores, to detect the presence of people nearby.
 
 ![1748198a8510bcc1395e7ed94f6889d7.jpg](1748198a8510bcc1395e7ed94f6889d7.jpg)
 
