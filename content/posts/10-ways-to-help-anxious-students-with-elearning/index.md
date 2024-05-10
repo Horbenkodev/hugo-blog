@@ -1,22 +1,22 @@
 ---
 title: How eLearning Help Students With Anxiety
-publishDate: '2019-04-23T00:00:00Z'
-authors:
-- Tiffany Harper
-description: Anxiety is a very broad term that can be defined in many different ways.
-  According to the definition at WebMD.com, anxiety disorders are a group of mental
-  illnesses, which cause overwhelming and constant fear and worry. All anxiety disorders
-  can and will interfere with the learning process.
+publishDate: 2019-04-23T00:00:00Z
 image: anxious-student.jpg
 og_image: anxious-student.jpg
+description: Anxiety is a very broad term that can be defined in many different
+  ways. According to the definition at WebMD.com, anxiety disorders are a group
+  of mental illnesses, which cause overwhelming and constant fear and worry. All
+  anxiety disorders can and will interfere with the learning process.
 promote:
   promote: false
 top: false
-industries:
-- eLearning
+authors:
+  - Tiffany Harper
 categories: []
+industries:
+  - eLearning
 ---
-Anxiety is a very broad term that can be defined in many different ways. According to the <a href="https://www.webmd.com/anxiety-panic/guide/anxiety-disorders" target="_blank">definition at WebMD.com</a>, anxiety disorders are a group of mental illnesses, which cause overwhelming and constant fear and worry. 
+Anxiety is a very broad term that can be defined in many different ways. According to the <a href="https://www.webmd.com/anxiety-panic/guide/anxiety-disorders" target="_blank">definition at WebMD.com</a>, anxiety disorders are a group of mental illnesses, which cause overwhelming and constant fear and worry.  
 
 There are various types of anxiety disorders, the most common ones being panic disorder, social anxiety disorder, specific phobias, and generalized anxiety disorder. 
 
@@ -145,6 +145,6 @@ Take the above-listed tips into consideration. They help you make eLearning more
 
 <br />
 
----
+- - -
+
 *This is a guest post by **Tiffany Harper.** Tiffany is an experienced writer from New York (USA) and an extremely active woman. She began her career as a journalist, and now she works as a subject matter specialist with <a href="https://www.bestessays.com/" target="_blank">Bestessays.com</a>, mostly in business and eLearning technologies. Please do not hesitate to contact her on <a href="https://twitter.com/harper_tiffany" target="_blank">Twitter</a>.*
- 
