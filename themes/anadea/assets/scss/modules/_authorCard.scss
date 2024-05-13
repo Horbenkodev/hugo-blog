@@ -2,12 +2,14 @@
   --name-text: var(--black);
   --position-text: var(--slate-gray);
   --background-color: var(--white);
+  --background-avatar: var(--concrete);
 }
 
 @mixin dark {
   --name-text: var(--white);
-  --position-text: var(--slate-gray);
+  --position-text: var(--alto);
   --background-color: var(--black);
+  --background-avatar: #303030;
 }
 
 .authorCard {
@@ -37,9 +39,10 @@
 
   &__avatar {
     width: clamped(42px, 56px);
-    height: auto;
+    height: clamped(42px, 56px);
     aspect-ratio: 1;
     object-fit: cover;
+    background-color: var(--background-avatar);
     background-size: cover;
     border-radius: 50%;
   }

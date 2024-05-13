@@ -27,15 +27,17 @@ export const postCardHTML = (item) => {
 
   return `<article class="postCard">
   <div class="postCard__content">
-    <img class="postCard__image"
-      src="${item.permalink}${item.image}"
-      srcset="${item.srcset}"
-      width="360"
-      height="280"
-      loading="lazy"
-      decoding="async"
-      sizes="(max-width: 768px) 100vw, (max-width: 992px) 50vw, 33vw"
-    />
+    <div class="postCard__head">
+      <img class="postCard__image"
+        src="${item.permalink}${item.image}"
+        srcset="${item.srcset}"
+        width="360"
+        height="280"
+        loading="lazy"
+        decoding="async"
+        sizes="(max-width: 768px) 100vw, (max-width: 992px) 50vw, 33vw"
+      />
+    </div>
     <div class="postCard__caption">
       <div class="postInfo">
           ${authors}
@@ -55,4 +57,25 @@ export const postCardHTML = (item) => {
     </div>
   </div>
   </article>`;
+};
+
+export const noResultHTML = () => {
+  return `
+    <div class="emptyState">
+      <h2 class="emptyState__title">Oops, we didn't find what you were looking for</h2>
+      <p class="emptyState__text">Try different keywords or make sure all words are spelled correctly</p>
+      <img class="emptyState__img" src="/img/no-result-image.svg" alt=""></img>
+    </div>
+  `;
+};
+
+export const resetHTML = () => {
+  return `
+  <div class="emptyState">
+    <h2 class="emptyState__title">Your search is clear</h2>
+    <p class="emptyState__text">What hidden gems will you discover next?</p>
+    <a class="emptyState__button" href="/">Go back to Blog<a/>
+    <img class="emptyState__img" src="/img/search-reset-image.svg" alt=""></img>
+  </div>
+  `;
 };

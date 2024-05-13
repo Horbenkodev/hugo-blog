@@ -3,6 +3,7 @@
   --meta-text: var(--slate-gray);
   --main-color: var(--dove-gray);
   --background-color: var(--lavender-50);
+  --select-background: var(--white);
   --select-arrow: url("data:image/svg+xml,%3Csvg width='10' height='6' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M.146.646a.5.5 0 0 1 .708 0L5 4.793 9.146.646a.5.5 0 1 1 .708.708l-4.5 4.5a.5.5 0 0 1-.708 0l-4.5-4.5a.5.5 0 0 1 0-.708Z' fill='%23111'/%3E%3C/svg%3E");
   --search-lens: url("data:image/svg+xml,%3Csvg width='24' height='24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 19a8 8 0 1 0 0-16 8 8 0 0 0 0 16ZM20.998 21l-4.35-4.35' stroke='%23706e6e' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
   --search-lens-active: url("data:image/svg+xml,%3Csvg width='24' height='24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 19a8 8 0 1 0 0-16 8 8 0 0 0 0 16ZM20.998 21l-4.35-4.35' stroke='%23111' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
@@ -13,6 +14,7 @@
   --meta-text: var(--alto);
   --main-color: var(--emperor);
   --meta-color: var(--persian-rose);
+  --select-background: var(--black);
   --select-arrow: url("data:image/svg+xml,%3Csvg width='10' height='6' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M.146.646a.5.5 0 0 1 .708 0L5 4.793 9.146.646a.5.5 0 1 1 .708.708l-4.5 4.5a.5.5 0 0 1-.708 0l-4.5-4.5a.5.5 0 0 1 0-.708Z' fill='%23fff'/%3E%3C/svg%3E");
   --search-lens: url("data:image/svg+xml,%3Csvg width='24' height='24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 19a8 8 0 1 0 0-16 8 8 0 0 0 0 16ZM20.998 21l-4.35-4.35' stroke='%23cecece' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
   --search-lens-active: url("data:image/svg+xml,%3Csvg width='24' height='24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 19a8 8 0 1 0 0-16 8 8 0 0 0 0 16ZM20.998 21l-4.35-4.35' stroke='%23fff' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
@@ -22,7 +24,7 @@
   display: grid;
   grid-template-rows: repeat(3, 1fr);
   gap: 12px;
-  margin: 24px auto;
+  margin-bottom: 40px;
 
   &__search {
     width: 100%;
@@ -56,7 +58,7 @@
     color: var(--main-text);
     appearance: none;
     cursor: pointer;
-    background: unset;
+    background-color: var(--select-background);
     background-image: var(--select-arrow);
     background-repeat: no-repeat;
     background-position: right 16px center;

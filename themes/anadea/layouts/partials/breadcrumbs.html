@@ -1,7 +1,11 @@
 <nav aria-label="Breadcrumb" role="navigation">
   <ol class="breadcrumbs">
     <li class="breadcrumbs__item"><a class="breadcrumbs__link" href="https://anadea.info">Home</a></li>
-    <li class="breadcrumbs__item"><a class="breadcrumbs__link" href="/">Blog</a></li>
+    {{ if .IsHome }}
+      <li class="breadcrumbs__item"><a aria-current="page" class="breadcrumbs__link" href="/">Blog</a></li>
+    {{ else }}
+      <li class="breadcrumbs__item"><a class="breadcrumbs__link" href="/">Blog</a></li>
+    {{ end }}
     {{ if not .IsHome }}
     <li class="breadcrumbs__item">
       <a aria-current="page" class="breadcrumbs__link" href="{{ .RelPermalink }}">{{ .Title }}</a>

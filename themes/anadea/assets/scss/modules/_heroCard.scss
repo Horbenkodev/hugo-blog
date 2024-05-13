@@ -1,20 +1,22 @@
 @mixin light {
   --main-text: var(--black);
   --meta-text: var(--slate-gray);
-  --background-color: var(--lavender-50);
+  --background-color: var(--concrete);
+  --background-avatar: var(--white);
 }
 
 @mixin dark {
   --main-text: var(--silver);
   --meta-text: var(--silver);
-  --background-color: var(--shark);
+  --background-color: var(--mine-shaft);
+  --background-avatar: var(--mine-shaft2);
 }
 
 .heroCard {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 24px;
+  padding: 16px;
   margin-bottom: 60px;
   background-color: var(--background-color);
   border-radius: 16px;
@@ -27,9 +29,11 @@
 
   &__avatar {
     width: 124px;
+    height: 124px;
     aspect-ratio: 1;
     margin-bottom: 12px;
     object-fit: cover;
+    background-color: var(--background-avatar);
     border-radius: 50%;
   }
 

@@ -1,11 +1,13 @@
 @mixin light {
+  --main-text: var(--mine-shaft);
   --link-text: #5666a1;
   --link-hover: #8592be;
 }
 
 @mixin dark {
-  --link-text: #dc296c;
-  --link-hover: #dc296c;
+  --main-text: var(--alto);
+  --link-text: var(--persian-rose);
+  --link-hover: var(--persian-rose);
 }
 
 .markdown {
@@ -24,6 +26,10 @@
       color: var(--link-hover);
       text-decoration: underline;
     }
+  }
+
+  p {
+    color: var(--main-text);
   }
 
   img {
@@ -49,7 +55,6 @@
   }
 
   table {
-    // @include AdaptiveTable;
     border-spacing: 0;
     border-collapse: collapse;
 
@@ -79,6 +84,7 @@
 
   ul {
     padding-left: 1em;
+    color: var(--main-text);
   }
 
   li {
