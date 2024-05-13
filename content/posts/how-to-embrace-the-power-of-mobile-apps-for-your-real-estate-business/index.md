@@ -31,10 +31,7 @@ The success of the market leaders is not something that stops ambitious entrepre
 ## Why are real estate apps so popular?
 People are constantly moving out from their places and looking for new ones to move in - that’s how it is and how it’s always been. And COVID-19 is no longer a deal-breaker. Of course, the pandemic highlighted the weaknesses of the industry when it comes to digital solutions. Nevertheless, this situation became a booster that pushed the real estate app market growth.
 
-<picture>
- <source srcset="real_estate_covid.png">
- <img src="real_estate_covid.png" loading="lazy">
-</picture>
+![](real_estate_covid.png)
 
 The main difference between, say, 20 years back and now is that people don’t quite need real estate agents and brokers assisting in their search __in real life__ anymore. These are replaced by mobile applications available at any moment with no third parties involved. No wonder that people choose instant access to a huge base of houses over scheduling viewings all over the town.
 
@@ -133,10 +130,7 @@ Access to the phone’s camera allows users to quickly make floor plans by movin
 ### Mortgage calculator
 A realtors app that can give the exact info about mortgage rates and payments is the perfect tool when a real estate agent needs to figure the cost of the home or to determine which loan is more suitable for the client. A <a href="https://www.zillow.com/z/buying/app-download/" rel="nofollow">mortgage calculator</a> by Zillow is a nice example of how this feature may work.
 
-<picture>
- <source srcset="mortgage_calculator.png">
- <img src="mortgage_calculator.png" loading="lazy">
-</picture>
+![](mortgage_calculator.png)
 
 ### Value calculator
 Earlier we identified tools for property cost evaluation as a separate category. Still, the value calculation feature can be found in a number of popular real estate apps like Zillow and Trulia. Since people mainly use apps for one particular feature, separate apps for property valuation are still in demand. However, adding a value estimator to your app makes sense - unless the app is at the <a href="https://anadea.info/guides/what-is-mvp" target="_blank">MVP</a> stage.
@@ -235,42 +229,27 @@ Those are the names others look up to. See the examples of successful real estat
 ### Zillow
 This real estate marketplace is considered the best in the market for a reason, thus the demand for developing real estate apps like Zillow is so high. Zillow is a one-stop shop for buying and selling houses, valuating their cost, and taking control of budgeting.
 
-<picture>
- <source media="(max-width: 700px)" srcset="zillow_mobile.png">
- <img src="zillow.png" loading="lazy">
-</picture>
+![](zillow.png)
 
 ### Trulia
 Another leading real estate database for homebuyers and landlords, Trulia has a more simple interface compared to that of Zillow but still offers users comprehensive information on the neighborhood and even has crime map data in it.
 
-<picture>
- <source media="(max-width: 700px)" srcset="trulia_mobile.png">
- <img src="trulia.png" loading="lazy">
-</picture>
+![](trulia.png)
 
 ### HotPads
 The HotPads app is a map-based tool that shows the user houses and apartments near them. Advanced filters allow users to narrow their search. Highly usable and efficient, this app has become very popular among users in the U.S.
 
-<picture>
- <source media="(max-width: 700px)" srcset="hotpads_mobile.png">
- <img src="hotpads.png" loading="lazy">
-</picture>
+![](hotpads.png)
 
 ### Redfin
 One of the largest real estate MLS with homes listings that refresh every 5 minutes. With this app, users can instantly schedule video and in-person tours and plan visits to open houses.
 
-<picture>
- <source media="(max-width: 700px)" srcset="redfin_mobile.png">
- <img src="redfin.png" loading="lazy">
-</picture>
+![](redfin.png)
 
 ### Realtor.com
 Need to find a realtor, calculate mortgage payments, or estimate your home’s value - Realtor.com has an answer to all of these problems. Less popular and innovative than Zillow, it still has many loyal users.
 
-<picture>
- <source media="(max-width: 700px)" srcset="realtor_mobile.png">
- <img src="realtor.png" loading="lazy">
-</picture>
+![](realtor.png)
 
 ## How much does it cost to develop a real estate app?
 Pretty much like with any other type of apps, real estate app development cost depends on the complexity of the solution, the selection of features, and hours of work. Here's a couple of examples from our experience with real estate application development:
@@ -301,10 +280,7 @@ Another project that we’d like to tell you about in this article is ListingDoo
 
 The idea of ListingDoor was to provide users with a new web service for selling houses without using the help of real estate agents. The platform allows people to do it just in two steps. It is enough just to create an account and then sell their properties via listings. The solution also offers access to a collection of marketing materials for the real estate industry. Users can also use the platform to create their own brochures and sale signs using photos of their houses and apartments.
 
-<picture>
- <source media="(max-width: 700px)" srcset="listingdoor_mobile.jpg">
- <img src="listingdoor.png" loading="lazy">
-</picture>
+![](listingdoor.png)
 
 Already now this project stands out from the row of similar products. But we also know the founder of the startup is always open to different cutting-edge and really bold ideas. That’s why we are always ready to enrich the solution with new innovative features that will help it to attract new users and absolutely wow the audience.
 

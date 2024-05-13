@@ -80,10 +80,7 @@ Our team believes that the most important characteristic that distinguishes a me
 
 Another thing to consider while developing a mobile product for the medical industry is the regulations. Many procedures are regulated by law, thereby one should always think of how to implement the workflows designed decades ago for manual processing within the modern technological capabilities.
 
-<picture>
- <source srcset="stethoscope-prescription-laptop.jpg">
- <img src="stethoscope-prescription-laptop.jpg">
-</picture>
+![](stethoscope-prescription-laptop.jpg)
 
 <a name="types"></a>
 ## Types of mobile apps for doctors
@@ -120,10 +117,7 @@ These are basically knowledge bases doctors use to get and verify information sa
 
 __Example:__ <a href="https://apps.apple.com/us/app/uptodate/id334265345?platform=iphone" target="_blank" rel="nofollow">UpToDate</a>, the app used by millions of clinicians, answers their questions on any subject. Offers individual or institutional subscriptions to be used by the whole staff.
 
-<picture>
- <source srcset="medium-shot-doctors-work-with-tablet.jpg">
- <img src="medium-shot-doctors-work-with-tablet.jpg">
-</picture>
+![](medium-shot-doctors-work-with-tablet.jpg)
 
 <a name="monitoring"></a>
 ### Patient monitoring apps
@@ -245,10 +239,7 @@ Now that we have found out the distinctive characteristics and the key features 
 
 Mobile applications for doctors have raised new concerns about medical confidentiality. For example, sometimes a doctor may need a comment by a colleague on some rare case. Medical apps in this way allow sharing such experiences with a large number of physicians without violating medical confidentiality by blocking the images of a person and deleting identifying information. You need to focus on who can access which data in the Dr's app and how to prevent unauthorized access even by accident.
 
-<picture>
- <source srcset="doctor-looking-information-database.jpg">
- <img src="doctor-looking-information-database.jpg">
-</picture>
+![](doctor-looking-information-database.jpg)
 
 <a name="security"></a>
 #### Data security
@@ -281,10 +272,7 @@ The app should solve the tasks, i.e. help doctors in their practice, and perform
 
 Having developed architecture, you will start to create user experience, but having a strict requirement for the security within the mobile app for medical specialists can make UX an odd and not user-friendly for an end user. So within this process, you have to find a compromise between security and user friendliness.
 
-<picture>
- <source srcset="doctor-with-digital-tablet.jpg">
- <img src="doctor-with-digital-tablet.jpg">
-</picture>
+![](doctor-with-digital-tablet.jpg)
 
 <a name="Audience"></a>
 #### Audience

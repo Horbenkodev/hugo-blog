@@ -64,10 +64,8 @@ Businesses that deal with supply chain processes can introduce various mobile ap
 
 **Iota** (Logistimo) is one of the apps that can be used to demonstrate the benefits of this type of solution. It helps to manage logistics and supply chain processes in emerging markets. Namely, this app is targeted at all participants of supply chains, including distributors, retailers, and agents but your app can be developed specifically for the needs of your company. This mobile app helps to view real-time data related to inventory and track purchases and sales.
 
-<picture>
- <source srcset="Iota.png">
- <img src="Iota.png" loading="lazy">
-</picture>
+![](Iota.png)
+
 
 ### Mobile accounting
 
@@ -75,10 +73,8 @@ Desktop accounting software was introduced several decades ago and quickly start
 
 **Zoho Books** is one of the most well-known and widely used apps for mobile accounting. It helps to keep track of cash flows, monitor spending, check tax compliance, and perform other important accounting tasks.
 
-<picture>
- <source srcset="zoho.png">
- <img src="zoho.png" loading="lazy">
-</picture>
+![](zoho.png)
+
 
 ### Enhanced data management
 
@@ -86,10 +82,8 @@ Data processing and management can be a very time-consuming and challenging task
 
 If you want to find out how such apps can be helpful in your business processes, you can have a look at the example of the **Domo** application. It offers its users much more than traditional static reports. Instead of that, it is possible to get access to real-time data visualization, data analytics, and convenient tools for working with all the reports.
 
-<picture>
- <source srcset="domo.png">
- <img src="domo.png" loading="lazy">
-</picture>
+![](domo.png)
+
 
 ### Facilitated employee onboarding
 
@@ -97,10 +91,7 @@ Mobile apps can help to increase the efficiency of the onboarding process. Such 
 
 **BambooHR** is an app that has managed to gain high popularity among small and medium-sized companies. It helps to smartly organize all information about all the employees, track work hours and quickly edit or update any necessary documents. You can consider this app as an example for building your own solution for your enterprise.
 
-<picture>
- <source srcset="bamboo.png">
- <img src="bamboo.png" loading="lazy">
-</picture>
+![](bamboo.png)
 
 ### Payment and transaction control
 
@@ -108,10 +99,8 @@ Your app can be enriched with the functionality for conducting payments and mana
 
 **PayPal Business** is now widely used by companies for getting access to their corporate accounts just on the go and managing financial transactions.
 
-<picture>
- <source srcset="paypal.png">
- <img src="paypal.png" loading="lazy">
-</picture>
+![](paypal.png)
+
 
 ### Better customer support
 
@@ -119,10 +108,7 @@ Enterprise mobile applications can become a convenient channel of communication 
 
 **Help Scout** is a solution that allows companies to provide support services to their customers at any time. This app helps to quickly reply to clients, view conversations, and assign them to other employees.
 
-<picture>
- <source srcset="helpscout.png">
- <img src="helpscout.png" loading="lazy">
-</picture>
+![](helpscout.png)
 
 ## Enterprise mobile app development process
 

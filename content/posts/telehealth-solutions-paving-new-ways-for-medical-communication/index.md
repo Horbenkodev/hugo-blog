@@ -62,10 +62,7 @@ It’s possible that you’ve heard the terms ‘telemedicine’ and ‘teleheal
 
 First of all, the terms ‘telemedicine’ and ‘telehealth’ are often used as synonymous. However, there is a slight difference between them.
 
-<picture>
- <source srcset="video_call_with_doctor.jpg">
- <img src="video_call_with_doctor.jpg" alt="video call with doctor">
-</picture>
+![video call with doctor](video_call_with_doctor.jpg)
 
 __Telemedicine__ is the use of digital technologies and tools like video conferencing, instant messengers, and smart devices to provide healthcare services over a distance. This term refers specifically to the __remote delivery of clinical services__, i.e. evaluating, diagnosing, and treating patients via secure video/audio connections. The above-mentioned pandemic outbreak has shown an evident rise in the adoption of Telemedicine technology and its offerings. With telemedicine, follow-up visits, management of chronic conditions, preventive care, medication management, and specialist consultation can be provided remotely.
 
@@ -114,10 +111,7 @@ Telemedicine apps __improve patients’ experience__. They automate a lion's sha
 ### For doctors
 Doctors value telemedicine apps for zero risk of getting infected, easy data management, a well-tuned process, and less negativity from patients. Communication is well structured, efficient and can be recorded to preserve details. In case of conflicts, doctors have evidence to support their point of view. In general, doctors willingly adopt telemedicine solutions, especially when they give access to patients’ health records and a user-friendly way of managing them.
 
-<picture>
- <source srcset="kid_on_a_telehealth_visit.jpg">
- <img src="kid_on_a_telehealth_visit.jpg" alt="kid on a telehealth visit">
-</picture>
+![kid on a telehealth visit](kid_on_a_telehealth_visit.jpg)
 
 <a name="challenges"></a>
 ## Overcoming challenges of telemedicine
@@ -147,10 +141,7 @@ It has proven useful to spend as much promoting and advertising a new service as
 ### Patients’ resistance to change
 And finally, that brings us to a challenge only experienced in countries where patients need to pay for treatment. Payers are still unwilling to pay for telemedicine services as much as they would for in-person treatment. Despite the convenience and cost savings - for the patient - many don't see as much value in telehealth appointments as they do in visits. Possible solutions are either smart advertising - demonstrating value more effectively to patients - or new payment solutions and pricing conditions - this is the final challenge that healthcare providers need to overcome for successful telehealth software rollouts.
 
-<picture>
- <source srcset="doctor_online.jpg">
- <img src="doctor_online.jpg" alt="doctor online">
-</picture>
+![](doctor_online.jpg)
 
 <a name="cost"></a>
 ## How much does it cost to develop a telemedicine app?

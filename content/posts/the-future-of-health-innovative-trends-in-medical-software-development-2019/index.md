@@ -36,10 +36,7 @@ The capabilities of <a href="https://anadea.info/solutions/machine-learning-soft
 
 * __Recognition of prescription errors.__ One of the emerging trends in healthcare technology is the identification of prescription inaccuracy using AI. The system examines EHR data history and compares prescriptions to it in order to help doctors and nurses spot prescription errors. Therefore, AI technology can save lives by lowering the odds that patients would receive the wrong dosage or prescriptions that have negative interactions with other medications they are taking.
 
-<picture>
- <source srcset="medications.jpg">
- <img src="medications.jpg" loading="lazy">
-</picture>
+![](medications.jpg)
 
 * __Drug development.__ The journey of a new drug from laboratory to a shelf, on average, takes up to 14 years, according to the US Food and Drug Administration. In this, not all medications successfully enter the market. The difficulty of developing a new drug is that researchers must examine tens of thousands of molecules to find "candidates" for inclusion in the drug, then thoroughly test them and find a ratio of components that are effective in treating a particular disease.<br><br>In order to optimize the search for the ideal drug formula, pharmaceutical companies are introducing machine learning techniques to analyze arrays of biomedical data. The AI system conducts a deep analysis of many types of unstructured data from specialized databases and open sources on the Internet, and based on the processed data, evaluates the potential effectiveness of each candidate for drugs. Such an approach is already used by <a href="https://www.exscientia.co.uk/" rel="nofollow" target="_blank">Exscienta</a>, a drug design company.
 
@@ -56,10 +53,7 @@ Although it’s been years (can you believe it?) since the pandemic first stroke
 
 * __The preparatory work for vaccines__ such as performing calculations, pinpointing the right molecules, and finding details about related diseases.
 
-<picture>
- <source srcset="vaccination.jpg">
- <img src="vaccination.jpg" loading="lazy">
-</picture>
+![](vaccination.jpg)
 
 * __Forecasting the epidemic development__ of COVID-19 and predicting its potential hosts and sources. Canada-based BlueDot tracks, recognizes, and reports the spread of the virus faster than the World Health Organization.
 
@@ -77,10 +71,7 @@ Continuous developments in the field of devices connected to the network help to
 
 * __Remote health condition monitoring.__ Today, the biggest potential of the internet of things in medicine is in the field of patient monitoring sensors. Such sensors in surgery, intensive care units and post-operative hospital monitor vital signs, evaluate them and instantly notify nurses, physicians and other specialists about critical changes, reducing response time. In some cases it allows patients to leave the hospital and finish their treatment at home while physicians keep monitoring their health remotely. As an example, Breather by PN Medical sends vital information to medical providers when a patient needs extra help.
 
-<picture>
- <source srcset="measurement.jpg">
- <img src="measurement.jpg" loading="lazy">
-</picture>
+![](measurement.jpg)
 
 * __Wearable devices.__ Gadgets that continuously monitor the daily activity of patients and provide information such as heart rate, body temperature, etc. help to prevent the occurrence of conditions requiring urgent medical care. For example, implantable glucose monitoring systems allow patients with diabetes to regularly monitor indicators through the mobile app and reduce the risks of unplanned hospitalization.
 
@@ -124,10 +115,7 @@ For example, doctors of <a href="http://virtualreality.duke.edu/news/" target="_
 
 * __Treatment of mental disorders.__ It turns out that treatment of fears and phobias, paranoia and post-traumatic disorders with VR is also effective. Despite the fact that the quality of graphics even in modern VR is far from photorealism, the use of virtual reality in healthcare can really convey a sense of presence and help patients.
 
-<picture>
- <source srcset="vr.jpg">
- <img src="vr.jpg" loading="lazy">
-</picture>
+![](vr.jpg)
 
 An outstanding contribution to the development of medical VR is made by <a href="https://ict.usc.edu/profile/albert-skip-rizzo/" target="_blank" rel="nofollow">Dr. Albert "Skip" Rizzo</a>. He has been using VR in clinical research since the mid-90s, and for his treatment methods for post-traumatic stress disorder, he received an award from the American Psychological Association - one of the most influential associations of professional psychologists in the world.
 

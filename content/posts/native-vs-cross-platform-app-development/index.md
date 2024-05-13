@@ -24,10 +24,7 @@ This article doesn't just outline the differences between the approaches; it off
 
 Let's revisit the basics of native and cross-platform <a href="https://anadea.info/services/mobile-development" target="_blank">mobile app development</a>. These two unique methods for creating apps come with their own advantages and challenges. In the vast app market of 2023, there are over 9 million apps worldwide—this includes over 3.5 million in the Google Play Store and over 1.6 million in the Apple App Store. The sheer number of apps makes it clear how crucial it is to choose the right development approach to ensure your app stands out.
 
-<picture>
- <source srcset="Native_vs._Cross-Platform_Development_Basics.png">
- <img src="Native_vs._Cross-Platform_Development_Basics.png" loading="lazy" alt="What is cross-platform app development vs native">
-</picture>
+![What is cross-platform app development vs native](Native_vs._Cross-Platform_Development_Basics.png)
 
 ### What is native development?
 
@@ -71,10 +68,7 @@ Additionally, mobile apps often have unique designs for iOS and Android. Designe
 
 To provide you with a clear and concise overview of the differences between native vs cross platform app development, we've compiled a table summarizing the key aspects of both approaches.
 
-<picture>
- <source srcset="Native_vs._Cross-Platform_Development_Comparison.png">
- <img src="Native_vs._Cross-Platform_Development_Comparison.png" loading="lazy" alt="Differences between native vs cross platform app development">
-</picture>
+![Differences between native vs cross platform app development](Native_vs._Cross-Platform_Development_Comparison.png)
 
 Wrapping up, native excels in performance and quick platform updates, suitable for intricate, high-demand apps, e.g. <a href="https://anadea.info/blog/enterprise-mobile-apps-development" target="_blank">enterprise mobile apps development</a>. Cross-platform offers cost efficiency, quicker development, and design consistency, with some trade-offs in performance and security due to third-party libraries. The decision should be driven by your app's unique requirements and the technical realities of each approach.
 
@@ -98,10 +92,7 @@ We developed a personal productivity app called Smart Reminder, designed to enha
 - **Time reminders:** Scheduling reminders based on specific times to keep track of your daily activities and commitments.
 - **Geolocation reminders:** Leveraging the power of location-based reminders, triggering alerts based on your geographical position.
 
-<picture>
- <source srcset="smart_reminder.png">
- <img src="smart_reminder.png" loading="lazy" alt="Smart Reminder app">
-</picture>
+![Smart Reminder app](smart_reminder.png)
 
 > If you're interested in delving deeper into the creation and conceptualization of Smart Reminder, including the research that shaped our product vision, we've detailed our journey in an insightful **eBook**. To explore our strategies, decisions, and more, you can access the eBook <a href="https://anadea.info/e-books/user-persona-for-mobile-app" target="_blank">here</a>.
 

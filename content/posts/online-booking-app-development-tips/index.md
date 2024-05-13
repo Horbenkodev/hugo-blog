@@ -54,17 +54,11 @@ And, of course, all these advantages have a direct impact on business profits.
 
 In 1996, **Booking.com** was just a small Dutch startup that didn't look very promising at that time. Today it is one of the leading companies in the industry. Now Booking.com is available in its web and mobile versions and has over 28 million accommodation listings. Moreover, it offers the possibility to book transfers and entertainment as well. It is also possible to read blog posts and reviews left by other travelers. All this makes Booking.com a comprehensive platform for people who are planning to go on vacations or have a business trip. Everything can be smoothly organized directly via Booking.
 
-<picture>
- <source srcset="booking_com.png">
- <img src="booking_com.png" loading="lazy">
-</picture>
+![](booking_com.png)
 
 **OpenTable** is a restaurant reservation service that started its way in 1998. At that time, it offered the functionality for booking tables only at a limited number of restaurants in San Francisco. Now its network unites more than 50K restaurants worldwide. Every year, more than 1 billion tables are booked via the OpenTable app and website. And every month, nearly 1 million restaurant reviews are added by users which proves a high level of interest from the side of people.
 
-<picture>
- <source srcset="opentable.png">
- <img src="opentable.png" loading="lazy">
-</picture>
+![](opentable.png)
 
 Do these figures demonstrated by industry leaders show that the market is already full and there is no space for those who are just started their business journey? Definitely not. The interest of users is extremely high and there are no signs that can indicate that this interest will start decreasing anytime soon.
 
@@ -74,19 +68,13 @@ Though for users it may be comfortable to use such global platforms as Booking o
 
 As we've already mentioned the range of apps that fall under this category is amazingly wide. But let us mention the key types of these solutions. We hope that this information will help you to better understand what you can offer to your clients if you decide to transform all your booking app development ideas into a real software product.
 
-<picture>
- <source srcset="Booking_Apps.png">
- <img src="Booking_Apps.png" loading="lazy" alt="Online booking app types with examples">
-</picture>
+![Online booking app types with examples](Booking_Apps.png)
 
 ### Hotel and accommodation booking
 
 Without any doubt, the majority of modern users know such names of websites and apps as **Booking.com** and **Airbnb**. And this popularity can be brightly demonstrated with real numbers, in 2022 only, the number of Booking.com downloads for Android and iOS reached the mark of 80 million.
 
-<picture>
- <source srcset="booking_statista.png">
- <img src="booking_statista.png" loading="lazy">
-</picture>
+![](booking_statista.png)
 
 Such apps allow users to find accommodations like hotel rooms, hostels, and apartments, in different corners of the world, compare the available offers, view photos, read reviews and descriptions, and book the best variants. When it comes to payments, there can be different options. Sometimes it is required to pay online, in some other cases you can pay upon arrival.
 
@@ -208,10 +196,7 @@ If you do not have in-house developers, you always have a choice whether to crea
 - Does your corporate structure presuppose further expansion at the moment?
 - Do you have enough resources for all the related recruiting, hiring, and onboarding tasks?
 
-<picture>
- <source srcset="How_to_choose_the_right_development_team.png">
- <img src="How_to_choose_the_right_development_team.png" loading="lazy" alt="In house vs outsourcing app development">
-</picture>
+![In house vs outsourcing app development](How_to_choose_the_right_development_team.png)
 
 If you've answered "yes" to all these questions, it is probably a good idea to create an in-house team. In other cases, we offer to consider outsourcing.
 

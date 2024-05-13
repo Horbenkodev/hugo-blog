@@ -26,10 +26,7 @@ The eLearning market received a strong boost amid the coronavirus pandemic and s
 
 The demand for eLearning is growing not only in the sphere of school or university education but also in the sector of corporate training. According to the [results](https://www.prosperityforamerica.org/elearning-statistics/) of studies and surveys, eLearning helps companies save up to 45% of the time that was traditionally required for in-person corporate learning.
 
-<picture>
- <source srcset="Rise_of_elearning.png">
- <img src="Rise_of_elearning.png" loading="lazy" alt="eLearning revenue growth and market penetration">
-</picture>
+![eLearning revenue growth and market penetration](Rise_of_elearning.png)
 
 All the mentioned figures demonstrate that there is a stable demand for eLearning courses which can be excellent information for you if you are planning to offer your own solution and are going to start education content development. However, the market activity that can be observed today also shows that the competition is already rather tough (and can get even tougher in the near future). Nevertheless, it shouldn't discourage you. Vice versa it's a good motivator to get better prepared for the e-Learning development process and deliver a high-quality platform with outstanding courses.
 
@@ -85,10 +82,7 @@ There is one more important point to think about at this stage. It is a necessit
 
 - **xAPI** (Experience API) is another popular eLearning standard that allows companies that stand behind eLearning courses to collect and track data related to users' interactions with the provided materials, their achievements, and progress. It is important that in this case, you can get information about user experiences from different devices and platforms. This model provides you with deep insights into user needs and enables you to make the learning process more flexible and personalized.
 
-<picture>
- <source srcset="API.png">
- <img src="API.png" loading="lazy" alt="xAPI vs SCORM">
-</picture>
+![xAPI vs SCORM](API.png)
 
 On one hand, it may seem that given today's requirements in the eLearning industry, xAPI is a much more beneficial option than traditional SCORM. On the other hand, you also should bear in mind some challenges and limitations related to its usage. First of all, its implementation can be rather complex and may require additional expertise and resources. Secondly, not all learning management systems can support it. And thirdly, to start using a solution powered by this eLearning standard, learners, and administrators may need some time to familiarize themselves with it.
 
@@ -112,10 +106,7 @@ Now, when all the preparatory work is done, it's time to proceed to the content 
 
 4. **Support and manage collaborative development.** It is vital to build regular and result-oriented cooperation and communication between all the stakeholders and all the people involved in the eLearning course development process. All the participants should be allowed to express ideas, view the progress, and control the tasks that are assigned to them or can be assigned by them. To make it possible we recommend you use cloud-based tools and file-sharing systems.
 
-<picture>
- <source srcset="eLearning.png">
- <img src="eLearning.png" loading="lazy" alt="eLearning content development tips">
-</picture>
+![eLearning content development tips](eLearning.png)
 
 ## Step 4: Conduct eLearning content review
 

@@ -154,10 +154,8 @@ By the way, if you have already created a UX empathy map but your
 research is still going on, you can always come back to the map and add
 new information or remove any data that has turned out to be irrelevant.
 
-<picture>
- <source srcset="One-User_vs._Multiple-User_Empathy_Maps.png">
- <img src="One-User_vs._Multiple-User_Empathy_Maps.png" loading="lazy" alt="One user and multiple user empathy map difference">
-</picture>
+![One user and multiple user empathy map difference](One-User_vs._Multiple-User_Empathy_Maps.png)
+
 
 ## Why you should create a design thinking empathy map
 
@@ -204,10 +202,8 @@ The process of empathy mapping typically includes the following steps.
 
 5. **Summarizing what you have.** After placing all notes in the corresponding section, you need to analyze whether everything is really okay with your map and whether all team members agree with the results. You can discuss whether your findings are sufficient and whether any additional studies are required. Namely, thanks to an empathy map design thinking can bring the best results as the creation of a UX empathy map is the first step of this framework. That's why you should pay enough attention to evaluating the quality of the materials and information that you have at your disposal.
 
-<picture>
- <source srcset="How_to_Create_an_Empathy_Map__Step-by-Step_Process.png">
- <img src="How_to_Create_an_Empathy_Map__Step-by-Step_Process.png" loading="lazy" alt="How to create an empathy map">
-</picture>
+![How to create an empathy map](How_to_Create_an_Empathy_Map__Step-by-Step_Process.png)
+
 
 ## How to use a design thinking map?
 Let's imagine that you have already created an empathy map. But what can you do next? How to utilize it?

@@ -62,18 +62,12 @@ Big projects require big teams and not every outsourcing company is ready to pro
 ### Scope, time and cost
 It’s an essential section, as it can provide you with the vision, wild-ass-guess estimation, and even benchmarking if you analyze several samples. Pay extra attention to the MVP version, killer features, if there was gold plating, and what were the timeframe and the cost, of course.
 
-<picture>
- <source srcset="project_features__1_.png">
- <img src="project_features__1_.png" loading="lazy">
-</picture>
+![](project_features__1_.png)
 
 ### Services and technologies
 If your business is already supported by solid tech specialists in your in-house team, it’s not a waste of time to show them this section and ask what they think about it. It may appear that they can evaluate the elegance of the solution, the rationality of selected technologies and services in other companies’ case studies and speak up their mind.
 
-<picture>
- <source srcset="services_and_technologies__1_.png">
- <img src="services_and_technologies__1_.png" alt="services and technologies" loading="lazy">
-</picture>
+![services and technologies](services_and_technologies__1_.png)
 
 ### Business future plans
 Business future plans speak louder than words. Do they plan to continue, or scale, was the solution effective to hit the goals? If yes, it’s a good point to take a closer look at the software development company.

@@ -40,10 +40,7 @@ E-commerce platforms like Amazon have revolutionized the way we shop by providin
 
 But what about offline retailers? Traditional advertising campaigns are no longer enough to stay competitive. In this digital age, retailers must adapt and embrace technology to blur the line between online and offline experiences. Automated newsletters and push notifications sent directly to our smartphones are just the tip of the iceberg. To stay ahead of the game, offline retailers must be flexible, efficient, and consumer-friendly. They must provide an experience that seamlessly blends the online and offline worlds, offering personalized recommendations and a shopping experience that feels tailor-made just for them. Only by embracing the latest technology and offering a personalized touch can offline retailers keep up with the demands of today's savvy consumers.
 
-<picture>
- <source srcset="Blockchain-retail.png">
- <img src="Blockchain-retail.png" loading="lazy">
-</picture>
+![](Blockchain-retail.png)
 
 ## Customization is the key
 
@@ -78,10 +75,7 @@ integrated into a synergetic system capable of providing retailers with an ultim
 The retailers won't need to rely on a risky human factor in the
 inventory management anymore when the immutable blockchain-based databases work together with the <a href="https://indeema.com/blog/how-much-does-it-cost-to-create-iot-solution" target="_blank">IoT</a>.
 
-<picture>
- <source srcset="001.jpg">
- <img src="001.jpg" loading="lazy">
-</picture>
+![](001.jpg)
 
 ### 2. Fair customer loyalty campaigns
 

@@ -9,7 +9,7 @@ og_image: betting_socials.jpg
 promote:
   promote: false
 top: false
-draft: true
+draft: false
 industries:
 - Sports
 categories: []
@@ -31,18 +31,11 @@ One of the key things that we recommend you pay attention to is the peculiaritie
 According to the [research](https://www.westwoodone.com/blog/2022/06/21/new-online-sports-betting-study-am-fm-radio-listeners-show-significantly-more-interest-and-engagement-than-tv-viewers/) conducted by Westwood One Audio Active Group, nearly 80% of users who express their interest in sports betting are from 21 to 54 years old which is a quite wide segment. But it is interesting to mention, that people of the age of 55+ have also started to show interest in such activities, and their share in continuously growing. One more thing that may sound quite surprising to many of us is that women are also becoming more and more engaged in this market.
 
 ![people_interested_in_sports_betting chart](people_interested_in_sports_betting.png)
-<picture>
- <source srcset="people_interested_in_sports_betting.png">
- <img src="people_interested_in_sports_betting.png" loading="lazy">
-</picture>
 <center><font size="-1"><a href="https://www.westwoodone.com/blog/2022/06/21/new-online-sports-betting-study-am-fm-radio-listeners-show-significantly-more-interest-and-engagement-than-tv-viewers/">Data source</a></font></center>
 
 In general, the research has helped to create a socioeconomic profile of an average participant in sports betting activities. Despite the stereotypes that may say that unemployed millennials are the most active users of such apps, in reality, they are usually adults with kids and full-time jobs.
 
-<picture>
- <source srcset="socioeconomic.png">
- <img src="socioeconomic.png" loading="lazy">
-</picture>
+![](socioeconomic.png)
 <center><font size="-1"><a href="https://www.westwoodone.com/blog/2022/06/21/new-online-sports-betting-study-am-fm-radio-listeners-show-significantly-more-interest-and-engagement-than-tv-viewers/">Data source</a></font></center>
 
 You may ask us why we pay so much attention to these characteristics of users in the context of explaining how to build betting website. But the answer is quite simple.
@@ -57,19 +50,13 @@ But what betting sports apps are popular today? Here are a couple of examples.
 
 This sports betting solution is launched by the largest casino-entertainment company in the US Caesars Entertainment Inc which was established in 1937. Today Caesars Sportsbook is a world-class sports betting solution that legally operates in 20 states of the US. To attract new users, the platform provides generous welcome bonuses. One of the most highly demanded features of this platform is micro-betting which allows users to bet on some particular game moments that are not related to the final results.
 
-<picture>
- <source srcset="caesar.png">
- <img src="caesar.png" loading="lazy">
-</picture>
+![](caesar.png)
 
 ### DraftKings
 
 It is an American company that offers daily fantasy sports and sports betting technologies. The company was founded in 2012 and since then, it has been expanding fast by obtaining licenses in new territories and making strategic acquisitions. The company's betting app is highly praised for its user-friendly interface and appealing bonuses. Moreover, it offers access to a wide range of sports and bet types.
 
-<picture>
- <source srcset="draftkings.png">
- <img src="draftkings.png" loading="lazy">
-</picture>
+![](draftkings.png)
 
 ## Legal and regulatory considerations related to sports betting app development
 
@@ -79,10 +66,7 @@ In general, a legal online gambling website or app that provides services to use
 
 In **the United States**, the situation is also quite interesting. If you are going to launch a betting application in the US, we recommend you carefully study the market situation at the ongoing moment as the situation can be dynamic. As of June 2023, 34 states and the District of Columbia have a "Live, Legal" status. It means that sports betting services can be offered via legal sportsbooks. There are also 4 states where sports betting is legalized but the market here is not available.
 
-<picture>
- <source srcset="image4.png">
- <img src="image4.png" loading="lazy">
-</picture>
+![](image4.png)
 <center><font size="-1"><a href="https://www.americangaming.org/research/state-gaming-map/">Source</a></font></center>
 
 In **Australia**, sports betting is legal. But states there also have different licensing laws.
@@ -164,10 +148,7 @@ The cost of any software development project is affected by a row of factors, su
 
 That's why it is impossible to name any precise figures without analyzing any particular case. As a rule, the final price will be somewhere in the range of **$35,000 - $65,000**. But before planning your budget, you should have a consultation with your development team that will provide you with more accurate estimates.
 
-<picture>
- <source srcset="sports-betting-basics.png">
- <img src="sports-betting-basics.png" loading="lazy" alt="Sports betting mobile app infographic - Market size, features, cost">
-</picture>
+![Sports betting mobile app infographic - Market size, features, cost](sports-betting-basics.png)
 
 ## Conclusion
 

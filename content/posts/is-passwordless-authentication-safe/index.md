@@ -54,10 +54,7 @@ When our customers turn to us with the question “Is passwordless authenticatio
 - **Implementation costs and complexity**. Some passwordless authentication methods (like biometric-based auth) are related to the necessity to introduce new hardware and software. As a result, it may be rather challenging for organizations to implement them. Moreover, the deployment of this authentication system will also require additional investments.
 - **Single point of failure.** In the case of using passwords, when a person forgets it, as a rule, there is a possibility of resetting a password and getting access to the account. With passwordless auth, there can be much more difficulties, if a person’s biometric data is compromised or something happens to a token device.
 
-<picture>
- <source srcset="Types_of_Passwordless_Authentication-1.png">
- <img src="Types_of_Passwordless_Authentication-1.png" loading="lazy" alt="Passwordless authentication security challenges and solutions">
-</picture>
+![Passwordless authentication security challenges and solutions](Types_of_Passwordless_Authentication-1.png)
 
 ## Passkeys: Are they a viable option for your company?
 
