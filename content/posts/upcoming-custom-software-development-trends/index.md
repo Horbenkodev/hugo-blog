@@ -17,15 +17,6 @@ industries: []
 categories:
 - Development
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Upcoming Custom Software Development Trends"
-}
-</script>
-
 We can't imagine our lives without gadgets and every month there appear more and more smart devices, useful applications and innovative services. None of them would be possible without great ideas and participation of professionals who can and love to code. The advancement of technologies and custom software development opened up a lot of doors and made many unimaginable things real. Our grandparents would be stunned if they could live one day in the modern world where it is absolutely normal when a cab is magically summoned through a small wireless electronic gadget that talks and pays for us, plays music and allows having a video call with a co-worker while still in the car.
 
 But for a present-day user this seems natural. Technological discoveries are adopted really fast and quite soon become so commonplace that we wonder how we ever lived without them. Of course, little would be possible without proper software tailored to our needs. All these tech innovations like wearables, VR and AR, 3D printing and smart machines constantly require unique solutions - something that off-the-shelf software simply isn't able to give you.

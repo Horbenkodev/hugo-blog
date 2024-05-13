@@ -15,15 +15,6 @@ industries: []
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Time, Cost, Quality: Which Ones Do You Choose for Your App?"
-}
-</script>
-
 > Getting an app built is an investment. Whether your audience is consumers or business users, apps are an integral part of modern life. Over a decade of innovation places high expectations on the user experience of any new app to hit the market.
 
 Businesses know they need to set aside a budget to ensure they get an app that will meet or exceed these minimum expectations. We even created a [calculator](https://anadea.info/tools/estimate) to help companies get a sense of how much they need to budget.

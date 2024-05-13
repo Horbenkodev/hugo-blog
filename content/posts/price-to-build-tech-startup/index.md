@@ -14,15 +14,6 @@ industries: []
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "What Is the Cost to Build a Tech Startup?"
-}
-</script>
-
 Hey!
 
 Would you like to <a href="https://anadea.info/services/mobile-development" target="_blank">create your own application</a>, build a website, or make something new with help of technology? Of course, this is a good intention and, in case you are a developer, you can do it yourself. But what if you don’t know how to code and all you have is a brilliant idea?

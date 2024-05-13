@@ -14,15 +14,6 @@ industries:
 - Travel
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Travel Agency Software: What Are the Benefits for Business?"
-}
-</script>
-
 Although more and more people tend to plan their travels without side help - for some, it is not less exciting than traveling per se - travel agents still have their share of work. Software for travel booking and accounting is designed to automate travel agents’ routine and make their work more efficient, as well as simplify travel planning for agencies’ clients. Our post will reveal the ways in which you as a travel agent or a travel agency owner can benefit from such automation and whether you need the services of a <a href="/solutions/travel-app-development" target="_blank">travel software development company</a>.
 
 <h2>Table of Contents</h2>

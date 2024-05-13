@@ -18,15 +18,6 @@ industries:
 categories:
 - UX-UI
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "UX Tips to Boost Sales on Your Real Estate Website"
-}
-</script>
-
 Every owner of a real estate selling website wants his website to become some kind of a sensation in a housing market and generate leads constantly. Sometimes humble applications with the right idea, and just as important, an outstanding design can grow into a nationwide solution like it happened with one of our projects <a href="https://anadea.info/projects/agentfolio" target="_blank">Agentfolio</a>, an extremely useful tool for buyers and brokers which helped them to navigate the process of buying properties. However...
 
 ## Users are becoming more and more demanding

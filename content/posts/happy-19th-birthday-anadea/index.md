@@ -14,14 +14,6 @@ industries: []
 categories:
 - News
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Happy 19th Birthday, Anadea!"
-}
-</script>
 > Celebrating 19 years of excellence
 
 ***Today is a special day for Anadea. Our company turned 19! The entire Anadea team is excited to have reached this milestone!***

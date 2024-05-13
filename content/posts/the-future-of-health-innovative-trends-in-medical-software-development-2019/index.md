@@ -15,15 +15,6 @@ industries:
 categories:
 - Trends
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "The Future of Health Technology: Innovative Healthcare Trends 2023"
-}
-</script>
-
 Medicine is an area where technology is always welcome. The transformation of healthcare with the help of digital technologies is happening all over the world. How do modern technologies shape the direction of <a href="https://anadea.info/solutions/medical-app-development" target="_blank">custom healthcare software development services</a> and what prospects are drawn in the future? Let's find out.
 
 ## Artificial intelligence in healthcare will cure everyone

@@ -18,15 +18,6 @@ industries: []
 categories:
 - UX-UI
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Pete Trbovich",
- "name": "How Micro Animations Improve UX"
-}
-</script>
-
 These days engagement is the name of the game when it comes to websites and apps. Brands know that competition in the marketplace is fierce, attention spans are short, and customer loyalty can be fickle. Therefore, websites and apps need to focus on user experience - making a site or app genuinely engaging - interesting or genuinely fun to use, fast loading and intuitive.
 
 Getting all the factors in place that make for a great user experience is an art form in itself, but one particular functional tool designers are increasingly turning to are micro-animations, a form of micro-interaction that can help to bridge <a href="https://anadea.info/services/ui-ux-design" target="_blank">software UI and UX design</a> components, and serve a multitude of purposes - from drawing a user's focus where they want it to go, helping progression through a task or form, providing feedback, answering questions, and even just entertaining.

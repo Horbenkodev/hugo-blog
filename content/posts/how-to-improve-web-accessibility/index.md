@@ -15,15 +15,6 @@ categories:
 - Accessibility
 - Web
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "How to improve your website’s accessibility"
-}
-</script>
-
 <h2>Contents</h2>
 <ol>
  <li><a href="#accessibility_today">Accessibility today - accessibility as a trend, what is web accessibility, regulations.</a></li>

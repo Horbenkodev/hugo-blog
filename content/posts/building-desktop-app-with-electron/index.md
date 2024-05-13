@@ -18,14 +18,6 @@ industries: []
 categories:
 - Development
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Building Desktop App with Electron"
-}
-</script>
 ### Electron: if you can build a website, you can build a desktop app
 
 Currently, in the <a href="https://anadea.info/services/web-development">custom web development services</a> we can do almost everything using HTML/CSS/JS. There are numerous libraries, frameworks, debugging and testing tools, articles, and training resources available for web application development. Additionally, StackOverflow provides quick access to answers and examples for many questions. For browsers, there are many extensions that can be used to follow, measure, and debug every aspect of a site, making it easier to create web applications quickly.

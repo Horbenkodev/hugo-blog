@@ -15,16 +15,6 @@ industries: []
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "User persona for startups"
-}
-</script>
-
-
 If you are an entrepreneur, who wants to begin your startup, if you are looking for ways to do it in the best possible way, if you worry that the developer or team won’t understand you the way you expect, this article is for you.
 
 Have you ever heard about TheraTactics or Xinja? Both of them are failed startups, which secured funding of $320,000 and $100,600,000 respectively. Everybody knows unicorns and nobody remembers the failed ones.

@@ -18,14 +18,6 @@ industries:
 - eLearning
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Charles Ebert",
- "name": "Big Data in Education: Realities, Challenges and Opportunities"
-}
-</script>
 The <a href="https://www.forbes.com/sites/forbestechcouncil/2018/06/14/iot-for-economic-and-social-good-how-the-internet-of-things-makes-our-world-better/" target="_blank">Internet of Things</a> (IoT) and a new, faster web (known as Web 3.0) are here upon us, and as some wise old dude stated, we have no choice but to adapt or perish. One of the newer technologies related to the IoT is Big Data, which fundamentally involves the collection, analysis, and application of large volumes of data in various spheres.
 
 In this article, the focus is on the use of Big Data in <a href="https://anadea.info/solutions/e-learning-software-development/m-learning">eLearning App Development</a> and the opportunities and realities it presents as well as the existing challenges and gaps in research that need to be addressed to enhance effectiveness. Here we go:

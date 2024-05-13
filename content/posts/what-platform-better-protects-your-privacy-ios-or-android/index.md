@@ -16,15 +16,6 @@ industries: []
 categories:
 - Mobile
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Emily Clark",
- "name": "What Platform Better Protects Your Privacy: iOS or Android?"
-}
-</script>
-
 Mobile users are on edge when it comes to their data privacy, and for good reasons.
 
 Last year's headlines exposed <a href="https://www.popsci.com/last-year-tech-2018/" target="_blank">major privacy breaches</a> from big-name companies that millions of people trusted with sensitive personal data:

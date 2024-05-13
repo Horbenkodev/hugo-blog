@@ -16,15 +16,6 @@ industries: []
 categories:
 - Development
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "What to do if every website update causes user complaints"
-}
-</script>
-
 __What’s in common between my 8-year-old son’s project for a school contest on creative programming and my everyday work as a developer?__ There’s a lot, as it turned out.
 
 ## It started well… Until there are issues

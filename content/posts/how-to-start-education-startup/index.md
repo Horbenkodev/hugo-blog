@@ -14,15 +14,6 @@ industries:
 - eLearning
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "How to Build an Online Education Startup?"
-}
-</script>
-
 _Updated on August 11, 2022._
 
 <h2>Table of contents</h2>

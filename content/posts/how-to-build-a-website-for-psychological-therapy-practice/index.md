@@ -16,15 +16,6 @@ industries:
 categories:
 - Web
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "How to Build a Website For Psychological Therapy Practice"
-}
-</script>
-
 Are you committed to starting a private practice in counseling psychology? Or have you been a private practitioner for a while now? Either way, you can consider building a website to promote your services. As soon as you have developed your psychology private practice business plan and decided to take the plunge, creating a website is a logical next step.
 
 This is not an article about how to start a psychotherapy private practice but about adding value to your business through online presence. Let’s dive in.

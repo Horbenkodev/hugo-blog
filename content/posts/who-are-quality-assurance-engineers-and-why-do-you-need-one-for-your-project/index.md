@@ -16,15 +16,6 @@ categories:
 ---
 Code that’s initially flawless is almost as real as unicorns. Even NASA has malfunctions. Neglecting [Quality Assurance](https://anadea.info/services/quality-assurance) (QA) can result in serious challenges. Below, you’ll find out who is in charge of the quality of your software product and why QA is essential on IT projects.
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Margareth",
- "name": "Who are Quality Assurance Engineers and Why You Need Them for Your Project"
-}
-</script>
-
 <h2>Table of Contents</h2>
 <ol>
 <li><a href="#who-are">Who are QA Engineers?</a></li>

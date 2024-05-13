@@ -17,15 +17,6 @@ categories:
 - UX-UI
 - Web
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "James Scott",
- "name": "How to Use Micro-Moments in Your Website Design"
-}
-</script>
-
 What are micro moments? To put it simply, a micro-moment, <a href="https://www.thinkwithgoogle.com/marketing-strategies/micro-moments/" target="_blank">as Google defines it</a>, occurs when people turn to their devices in order to act on a need they have. These needs can include wanting to learn, do, buy or watch something.
 
 Micro-moments have become a big marketing trend precisely because smart devices, such as phones and tablets, have become an important part of people’s lives. As consumers increasingly get tired of emails, notifications, and ads, the market reaches a sort of saturation. People can’t be fed more information than they already receive, because they simply don’t have any more time left to absorb it. This means that marketers have to come up with new ways to capture consumers’ attention. But how can you efficiently include micro-moments in your website design?

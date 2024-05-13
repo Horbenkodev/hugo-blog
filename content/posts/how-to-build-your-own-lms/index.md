@@ -14,15 +14,6 @@ industries:
 - eLearning
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "6 Steps Toward Developing Your Own Learning Management System"
-}
-</script>
-
 Even judging by our incoming contact requests, we can say that the demand for LMS development has grown a lot lately. To support this impression, we turned to statistics that stated that the LMS market value is expected to grow to $38 billion by 2027 (in 2019, it was valued at $8.76 billion). For us, that was the starting point to proceed investigating this topic and preparing this overview of the main steps of <a href="https://anadea.info/solutions/e-learning-software-development/lms" target="_blank">custom LMS development</a>.
 
 ## What is an LMS?

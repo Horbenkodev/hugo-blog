@@ -18,14 +18,6 @@ industries:
 categories:
 - Machine Learning
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Chatbots In Healthcare Industry: a New Remedy for Old Problems"
-}
-</script>
 Updated 7 September, 2021
 
 Modern medicine is technological medicine. [Health institutions are moving from analog to digital](https://anadea.info/blog/digital-healthcare-a-new-approach-to-care-coordination), mastering computer analysis and forecasting systems. Technologies in healthcare are not only the latest medical equipment but also industry-specific software that automates work processes.

@@ -16,15 +16,6 @@ industries: []
 categories:
 - Development
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Immersion in React Native: Navigation, Offline Mode, Push Notifications"
-}
-</script>
-
 ## Navigation
 
 The right choice of navigation is a basis of designing applications on React Native. It largely defines the project structure and the performance. At the moment, there are two types of navigation:

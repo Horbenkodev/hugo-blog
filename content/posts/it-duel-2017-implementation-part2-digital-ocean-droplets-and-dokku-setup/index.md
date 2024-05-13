@@ -18,15 +18,6 @@ categories:
 - Development
 - Ruby on Rails
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": " IT Duel 2017: "Battle of the Bots - Hexagon" Creation of the Game - Part 2 - DigitalOcean Droplets and Dokku Setup "
-}
-</script>
-
 In the first article of the series, we recalled the rules of the game and the technical characteristics of the game engine. Now, let's describe how to use DigitalOcean and Dokku to allow players to write a bot in multiple languages, while having guaranteed equal resources in runtime and a pleasant deploy procedure.
 
 The key to the solution is <a href="https://www.docker.com/" target="_blank">Docker</a>. The coolness of this tool can hardly be overestimated, as after its release the learning curve for DevOps has declined significantly. Since then, a regular developer swiftly sets up the environment for any needs, easily and naturally updates the system dependencies and has never heard of conflicts of dependencies…

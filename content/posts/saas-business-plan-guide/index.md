@@ -15,15 +15,6 @@ industries: []
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "How to Write a Business Plan for a SaaS Company"
-}
-</script>
-
 If you are on this page, perhaps you are already well aware of the benefits of composing a business plan when starting a venture. It allows you to stand firmly on the ground at every stage of business development and present your idea to investors correctly.
 
 What could possibly bring you here is the question of __how a business plan for SaaS is any different from a regular business plan__ and what to pay attention to when working out a SaaS <a href="https://anadea.info/services/business-analysis" target="_blank">business strategy</a>. Let’s figure it out.

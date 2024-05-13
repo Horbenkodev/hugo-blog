@@ -17,14 +17,6 @@ industries:
 - Travel
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "The Hottest Trends in the Travel App Development"
-}
-</script>
 > Whether it's innovative approaches to loyalty schemes, or procrastination-inducing, brain-numbingly addictive games, the different types of apps promising to enhance our lives in one way or another is staggering.
 
 Surprisingly, trumping the allure of Candy Crush, travel apps are more popular now than ever. <a href="https://www.tnooz.com/article/six-out-of-ten-mobile-users-now-downloading-travel-apps/" rel="nofollow" target="_blank">Tnooz</a> conducted a study that found that 60% of mobile users have now downloaded and used a travel-related smartphone app, vindicating the travel industry's ascendancy up the app ranks.

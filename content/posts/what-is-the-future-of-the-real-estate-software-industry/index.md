@@ -16,15 +16,6 @@ industries:
 - Real Estate
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "What is the Future of the Real Estate Software Industry?"
-}
-</script>
-
 Real estate technology continues to thrive as the industry continues to grow and transform. With over 120 real estate startups, it's no surprise that this sector is making a significant impact on the property industry.
 
 Recent data shows that in 2021, the global real estate technology market size is estimated to reach $13.5 billion, with a projected compound annual growth rate (CAGR) of 12.5% from 2021 to 2028. This growth is due to the increasing adoption of digital solutions in the real estate sector.

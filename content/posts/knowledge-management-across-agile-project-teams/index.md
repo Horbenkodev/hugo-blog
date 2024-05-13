@@ -19,15 +19,6 @@ categories:
 - Business
 - Development
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Ehsan Memari",
- "name": "Knowledge Management across Agile Project Teams"
-}
-</script>
-
 If you happen to own or work for a software enterprise, you possibly have been asked a hundred times if you are agile. Although initially intended to upturn the accessibility of <a href="https://anadea.info/services/custom-software-development" target="_blank">custom software development teams</a>, in the recent times 'agile' has emerged as the default team-based working model for all enterprises, irrespective of their size, industry and location. Nevertheless, agility offers the prospects for a wide-ranging and persistent increase in team productivity and competency.
 
 ## Understanding agile project management

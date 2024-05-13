@@ -16,14 +16,6 @@ industries:
 - eLearning
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Max Holland",
- "name": "Digital Transformation in Education"
-}
-</script>
 Updated on 12 August, 2021
 
 <h2>Table of contents</h2>

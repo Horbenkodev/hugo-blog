@@ -16,15 +16,6 @@ industries:
 categories:
 - Machine Learning
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Melanie Purkis",
- "name": "What You Need to Know About Voice Technology and HIPAA"
-}
-</script>
-
 Voice technology has gained significant momentum over the past several years and is on track to impact billions of people in the years that lie ahead. Amazon Alexa and Google Home are popular devices that utilize voice technology and are becoming more frequent within households across America. As voice assistants, technology enables people to create grocery lists, inquire about factual information and even make purchases.
 
 Voice technology is being utilized in the medical industry as well, though its applications look much different than those of the consumer world. It’s expected to be highly utilized within the healthcare vertical, with an annual <a href="https://voicebot.ai/2019/03/23/how-ai-and-voice-assistants-will-change-healthcare/" target="_blank">value of around $20 billion</a>.

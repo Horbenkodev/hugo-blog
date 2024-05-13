@@ -16,15 +16,6 @@ industries:
 - Sports
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "How Mobile Apps Are Revolutionizing the Sports Industry"
-}
-</script>
-
 Whether they're playing or watching, digital technology is overhauling how people enjoy – and interact – with their games. We examine the trends that are shaping how the sports industry is using mobile applications to engage with their audience.
 
 ## Why apps are big business in sports

@@ -16,15 +16,6 @@ industries:
 - Healthcare
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "How to Develop a Healthcare App and How Much Does It Cost"
-}
-</script>
-
 Usually, it’s the cost of custom development that interests entrepreneurs the most. It takes the time and skills of a whole team of specialists to develop a healthcare app, be it a fitness tracker or an EMR system. Below, you’ll find all you need to know before building a health app, including many aspects that can affect its cost.
 
 <h2>Table of Contents</h2>

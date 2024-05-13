@@ -15,15 +15,6 @@ industries: []
 categories:
 - Development
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "What You Need to Know to Put Your App in the App Store or Google Play?"
-}
-</script>
-
 Let's imagine for a moment that your dream has come true: your app has been created, the development process is left behind as well as sleepless nights, everyday work, gallons of coffee and piles of cigarettes. The app that until recently used to live only in your imagination is now in your hands. You see how it is working and living, you are satisfied with the long way you have done. What's next? The time has come to introduce your creation to the world and this article will tell you how to submit app to app store.
 
 So, you have to upload the application to digital stores: the App Store or Google Play. But how to do it with a minimum waste of time, nerves, coffee and tobacco? For example, the App Store can reject your app again and again - it happens that some apps get rejected 6, 10 and even 12 times. What are the right steps to submit an app to the store? Let's sort it out.

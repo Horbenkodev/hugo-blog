@@ -15,15 +15,6 @@ industries: []
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Software Development Company Portfolio: How to Assess Case Studies and What to Look At?"
-}
-</script>
-
 Assessment of a <a href="https://anadea.info/projects" target="_blank">software company portfolio</a> goes hand in hand with the process of choosing an outsourcing partner, doesn’t it? In most cases, yes. But there are a few more cases of how you can use it:
 
 * Benchmarking of the project’s time and cost.

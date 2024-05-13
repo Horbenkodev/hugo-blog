@@ -14,14 +14,6 @@ industries: []
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "What you need to know about Clubhouse MVP Development"
-}
-</script>
 In the startup world, if you want to be a successful entrepreneur and create the next big app, you have to follow trends and explore success stories. The latest media explosion of Clubhouse app has drawn our attention and stuck us to the topic.
 
 We are 100% sure that you’ve already browsed info about what Clubhouse is or even have got an invitation to use it, but for those who are on their way, we provide a sneak peek into the mystery of Clubhouse app. To make a long story short, Clubhouse is a <a href="https://anadea.info/solutions/social-media-app-development">social networking app</a> based on audio-chats that’s getting its popularity extremely rapidly.

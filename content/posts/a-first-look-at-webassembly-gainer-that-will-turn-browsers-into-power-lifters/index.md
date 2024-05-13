@@ -16,14 +16,6 @@ draft: true
 industries: []
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "A First Look at WebAssembly - Gainer That Will Turn Browsers Into Power Lifters"
-}
-</script>
 Evolution never stops. All things come into the world, grow and fade away in the end, letting other things take their place - that's the circle of life. Being a part of life, web browsers can't escape the same fate. It's time for them to grow and evolve.
 
 Today we'll look at WebAssembly. It's a pretty interesting technology that can take web browsers to a new level. All of us get used to existing browser functions: texting, sending audio and video messages, music, videos, uploading and downloading files. But hey, how long we've been able to do this? 10 years? Maybe 15 years? That's pretty long period. We're living in the world of virtual reality, artificial intelligence, robots, flying skateboards and exo-suits. Browsers should fit this high-tech world!

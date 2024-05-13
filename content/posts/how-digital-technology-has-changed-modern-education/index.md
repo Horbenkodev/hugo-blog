@@ -14,15 +14,6 @@ industries:
 - eLearning
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "How to Introduce New Technology in the Classroom (And Why Do It)"
-}
-</script>
-
 The times when a student owning a cell phone was something extraordinary are long gone, and now you can’t pry the kids away from their phones with a crowbar. As irritating as it may be for teachers, the new technology, in fact, is no evil. Once you comprehend how it can facilitate teaching and learning, adopting new tools for classrooms will become a question of time.
 
 ## Table of contents

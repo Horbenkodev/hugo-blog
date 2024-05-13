@@ -18,15 +18,6 @@ industries: []
 categories:
 - Development
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "How to Use Recompose to Streamline React Development"
-}
-</script>
-
 ## Composition as a way to create reusable code
 
 It's pretty exciting to observe how DRY coding tools in React were changing over time. And we must give credit to the developers - at no stage in the development of this library were any recommendations to use inheritance to solve such problems. In the early versions of React and React.createClass, there were mixins that were simple JavaScript objects. The result of applying them to a React component was quite predictable: the component got new properties and methods corresponding to the keys from the mixin object.

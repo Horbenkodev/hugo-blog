@@ -14,15 +14,6 @@ industries:
 - Healthcare
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "How to Develop a Professional Medical App for Doctors"
-}
-</script>
-
 Healthcare giants like Pfizer Inc, Aetna and McKesson Corporation know how digital technologies can transform medicine and they have already entered the mobile app industry with their solutions for early disease detection, providing access for doctors to up to date agendas, getting better medical outcomes, and much more. Undoubtedly, technology-driven medicine has provided many beneficial opportunities for healthcare professionals. A <a href="https://anadea.info/solutions/medical-app-development" target="_blank">healthcare software development company</a>, we know how popular medical apps for doctors are.
 
 In 2020, mobile health industry market size was valued at over $45 billion, however COVID-19 outbreak triggered a drastic surge in market size, which is now predicted to reach $100 billion by the end of 2021, which is a fivefold increase since 2016. According to <a href="https://www.physicianspractice.com/view/2018-mobile-health-survey-results" target="_blank">Physicians Practice 2018 Mobile Health Survey</a> 69% of physicians use mobile phones in their practices. There will be over 3.7 billion mobile medical app downloads worldwide in the coming years.

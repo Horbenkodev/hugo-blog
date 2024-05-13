@@ -14,14 +14,6 @@ industries: []
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "A Guide to Digital Transformation"
-}
-</script>
 Digital transformation is an often misunderstood phrase that is overused in the global business community. It isn't about getting the latest shiny piece of technology. Nor is it about switching to a new software solution or platform for the sake of it.
 
 Digital transformation, as the name suggests, is about making a profound change in an organization using technology. It is focused on creating real operational transformation. It could be for internal purposes, to improve efficiencies and workloads. [Digital transformation solutions](https://anadea.info/solutions) are designed to save companies time, money, and unlock new value and potential.

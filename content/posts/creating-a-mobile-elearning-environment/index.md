@@ -17,15 +17,6 @@ industries:
 - eLearning
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Classroom in a Pocket? Creating a Mobile eLearning Environment"
-}
-</script>
-
 eLearning has transformed modern education. Over the last fifteen years, education has gone from paper to platform and app-based, with students and teachers learning together in remarkable new ways.
 
 One of those key trends is the move away from laptops and tablets onto smartphones. Students want the convenience of a virtual classroom on a much smaller screen. As an eLearning environment, phones can be used for research, collaborative learning, taking notes in lectures, and even writing and submitting essays and papers.

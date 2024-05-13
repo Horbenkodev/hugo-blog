@@ -17,15 +17,6 @@ industries:
 - eLearning
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Berta Melder",
- "name": "How to Design Corporate eLearning Solutions to Train Your Young Employees"
-}
-</script>
-
 Just a few years ago, nobody expected that the issue of employee retention would become so global. Today, more than <a href="https://www.pewresearch.org/fact-tank/2018/04/11/millennials-largest-generation-us-labor-force/" target="_blank">35% of the American workforce</a> consists of millennials. This generation dictates its own standards, changing the game, and forcing HR managers and recruiters to reconsider their traditional approaches. They earned a reputation as people who switch jobs more often than any other generation of employees. They are very picky in everything about work, so companies need to adjust the working environment to their lifestyle.
 
 Why do those young people switch jobs so often? There are many reasons for that, however, there is one reason which looks especially dangerous — millennials are not engaged in their jobs. According to the statistics, the majority of millennial employees plan to leave their current companies by 2020. In 2015, about <a href="https://news.gallup.com/poll/188144/employee-engagement-stagnant-2015.aspx?utm_campaign=elearningindustry.com&amp;utm_source=%2Fcorporate-training-for-millennials-bite-sized&amp;utm_medium=link" target="_blank">50% of American employees were not engaged</a>. Obviously, many companies don't want to accept such a situation, which is a reason why they introduce new strategies of corporate training,and custom elearning solutions. eLearning offers countless opportunities for any organization that wants to train and to engage its workforce at the same time.

@@ -18,15 +18,6 @@ industries: []
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Russ Davidson",
- "name": "How Mobile Apps Are Revolutionizing The Manufacturing Industry"
-}
-</script>
-
 Technology takes over all industries in due time, whether it is advancements in hardware, <a href="https://anadea.info/blog/artificial-intelligence-pandoras-box-or-the-holy-grail" target="_blank">artificial intelligence</a>, or mobile technology.
 
 In business, mobile apps have helped revolutionize payments, e-commerce, order management, and more. It's easy to see why some industries may have paved the way for the use of mobile apps while the rest catch up, given the benefits mobile technology (namely, <a href="https://anadea.info/solutions/erp-development" target="_blank">enterprise resource planning solutions</a>) can provide. These are the ability to connect from wherever you may be and much much more.

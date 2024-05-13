@@ -16,18 +16,7 @@ categories:
 - Development
 - Ruby on Rails
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "MetricsCollector for Ruby on Rails"
-}
-</script>
-
-<center>
 ![Metrics Collector](MetricsCollector.png)
-</center>
 
 From one point, we've started collecting some metrics from our projects in <a href="https://anadea.info/services/web-development/ruby-on-rails-development" target="_blank">Ruby on Rails</a> so that we could see the dynamic and statistics, because some problems catch your attention only when you can see them right in front of your eyes.
 

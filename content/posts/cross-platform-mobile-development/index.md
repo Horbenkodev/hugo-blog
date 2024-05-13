@@ -16,14 +16,6 @@ categories:
 - Mobile
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Cross Platform Mobile App Development Best Practices"
-}
-</script>
 **Often in our practice, we, as a cross-platform development company, face the following questions: Will cross-platform do for my business? What benefits will I get if I choose cross-platform app development? How much does it cost to develop a cross-platform app? On these, and other questions, you’ll find a solid answer as far as you read this article.**
 
 <h2>Table of contents</h2>

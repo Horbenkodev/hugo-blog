@@ -17,14 +17,6 @@ industries:
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Health IT Startup Funding: Here’s How to Attract the Investment"
-}
-</script>
 We have reached a new era in the digital world. The way healthcare organizations are delivering patient care is shifting in the rise of a worldwide pandemic. Telehealth, machine learning, virtual care and <a href="https://anadea.info/solutions/medical-app-development" rel="dofollow" target="_blank">custom healthcare software development</a> are emerging forces. To remain competitive, healthcare providers must change the ways they operate.
 
 Consequently, healthcare providers and those responsible for paying for treatments are always looking for innovative ways to grow, improve patient outcomes, and reduce costs. The recent <a href="https://www.healthcareitnews.com/blog/beyond-telehealth-virtual-care-technology-trends-will-transform-healthcare" rel="nofollow" target="_blank">estimate</a> by consulting firm McKinsey suggests that $250 billion in healthcare spending could shift to virtual care models in the wake of coronavirus spread. At the same time, half of the world’s population lacks access to essential healthcare services, says the <a href="https://www.who.int/news-room/detail/13-12-2017-world-bank-and-who-half-the-world-lacks-access-to-essential-health-services-100-million-still-pushed-into-extreme-poverty-because-of-health-expenses" rel="nofollow" target="_blank">report</a> by the World Bank and World Health Organization.

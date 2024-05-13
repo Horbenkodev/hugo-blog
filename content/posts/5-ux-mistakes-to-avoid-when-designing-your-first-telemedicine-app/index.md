@@ -19,14 +19,6 @@ industries:
 categories:
 - UX-UI
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Zyana Morris",
- "name": "5 UX Mistakes to Avoid When Designing Your First Telemedicine App"
-}
-</script>
 Developing a mobile application is a complicated task, especially when you are designing a <a href="https://anadea.info/blog/telehealth-solutions-paving-new-ways-for-medical-communication" target="_blank">telemedicine app</a> that will facilitate online health visits. As a developer, you need to fit in the unique user interface with excellent app functionality to ensure smooth interaction between the patient and the doctor through video chat.
 
 When healthcare is involved, there's no room for designing mistakes. If you fail to avoid the common UX pitfalls, your mobile app will fail to get the much needed public attention. It also leaves a negative impression on potential clients because your app is not downloaded enough times or has negative reviews online.

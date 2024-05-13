@@ -18,15 +18,6 @@ industries: []
 categories:
 - Development
 ---
-
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Neeraj",
- "name": "9 Best Programming Languages to Learn in 2019"
-}
-</script>
 ***There is no doubt that the IT industry has taken over as one of the most productive industries. And more than half of the jobs in the IT field require good programming knowledge.***
 
 The demand for developers has skyrocketed recently as every company tends to rely on software tools. The increase in demand for developers has also lead to an increase in the online learning platforms. There are many online computer programming certificates available which are backed up by accredited institutions. If you are new to coding, it's not easy to choose which of them is the right for you.

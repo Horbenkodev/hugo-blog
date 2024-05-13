@@ -18,15 +18,6 @@ industries: []
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Kristen Youngs",
- "name": "The Pros and Cons of Hiring a Development Team Vs. a Tech Co-Founder"
-}
-</script>
-
 In 2022, gross consumer mobile app spending amounted to 167 billion U.S. dollars. So if you're searching for a way to get your own app idea into the hands of users, there's never been a better time. The app market isn't just booming... it's exploding.
 
 Of course, adding your app to the mix of all the others raking in billions of dollars is easier said than done, especially if you're a founder without a technical background.

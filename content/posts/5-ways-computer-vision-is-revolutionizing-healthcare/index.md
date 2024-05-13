@@ -17,14 +17,6 @@ categories:
 - Machine Learning
 ---
 Updated 13 September, 2021.
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Olga",
- "name": "5 Ways Computer Vision is Revolutionizing Healthcare"
-}
-</script>
 
 ***Computer Vision is an exciting field within Artificial Intelligence (AI) that can read scans, videos and images, then generate actionable information from them.***
 

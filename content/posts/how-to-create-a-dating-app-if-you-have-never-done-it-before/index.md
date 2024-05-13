@@ -17,15 +17,6 @@ industries: []
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "How to Create an Online Dating App: Key Practical Tips"
-}
-</script>
-
 After the internet entered our lives, the way we communicate with others changed once and forever. Some decades years ago, when people felt lonely and wanted to find new friends or partners for building romantic relationships, they needed to visit public places, parties, or at least buy a newspaper with dating ads. Now, everything doesn't look so complicated. To meet a new person, it is enough to open an app marketplace and download a dating app where thousands of users have already created their accounts.
 
 In this article, we are going to tell you more about the specificity of solutions of this type and share some useful practical tips on how to create a dating app like Tinder.

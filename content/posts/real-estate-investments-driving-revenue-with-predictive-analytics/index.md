@@ -17,15 +17,6 @@ industries:
 - Real Estate
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "David Freudenberg",
- "name": "Real Estate Investments: Driving Revenue with Predictive Analytics"
-}
-</script>
-
 When investing in real estate, especially in rental properties, one should make quick and well-informed decisions, backed by data. The real estate market changes at a rapid pace, and for success, you have to be able to adapt to those changes just as fast.
 
 Today, there are many helpful resources and tools available to anyone who wants to invest in real estate. Using predictive analytics, a sophisticated technological tool, can help you make the correct decisions when investing in real estate and rental properties.

@@ -15,15 +15,6 @@ industries:
 categories:
 - Trends
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "2022 Newest Trends in Education: Which EdTech Trends to Pursue?"
-}
-</script>
-
 _Updated July, 2022_
 
 

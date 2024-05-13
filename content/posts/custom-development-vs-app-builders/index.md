@@ -14,14 +14,6 @@ industries: []
 categories:
 - Mobile
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Custom Mobile Development VS App Builder: Which to Choose"
-}
-</script>
 App builders (no-code and low-code platforms) broke into the app development market not so long ago. The rise of interest started in the 2010s. However, the idea of developing software without software developers has been discussed since at least 1982. James Martin published a book called Application Development Without Programmers. Today low-code and no-code platforms and tools all go under the terms app builder (sometimes app creator, drag-and-drop builder, DIY builder).
 
 **A low-code platform** offers a method for creating software with minimal coding. However, low-code platforms are usually piloted by developers who add custom, hand-written code where required. No-code platforms, on the other hand, promise the ability to create a working application without writing any code.

@@ -17,15 +17,6 @@ industries:
 - Real Estate
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Must Have Features to Build a Localized Real Estate App"
-}
-</script>
-
 Keep up with changes and news on your local real estate market, do paperwork, wade through bureaucratic procedures, plan open houses, schedule meetings with clients or other agents and meet them, answer calls and emails, update information about your listings, figure out how to differ from competitors, keep a database of leads... On top of that, you understand that having an app is a necessity for your local real estate business, and there is simply no time to address the issue. Looks familiar to you?
 
 We, as a [real estate app development company](https://anadea.info/solutions/real-estate-software), understand that you are too busy to figure out the intricacies of the software development process. In this article, on the example of StreetEasy, we’ll show the main features of real estate web or mobile application and tell you what each feature may give to your business.

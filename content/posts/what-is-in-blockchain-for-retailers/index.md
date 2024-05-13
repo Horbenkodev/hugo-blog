@@ -17,15 +17,6 @@ industries: []
 categories:
 - Retail
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "How to Use Blockchain in Retail"
-}
-</script>
-
 Experience matters most when your business depends on a great diversity of customers. Even a greater significance the experience gains when it comes to your regular customers: they purchase a combination
 of your product and the positive experience you can provide. Retailers are under pressure from the e-shops nowadays since the latter can offer numerous new experiences to their online customers. The e-commerce websites turn the present gadget addiction into a competitive advantage.
 

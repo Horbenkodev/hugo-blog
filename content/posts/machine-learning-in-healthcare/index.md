@@ -16,15 +16,6 @@ industries:
 categories:
 - Machine Learning
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "How Machine Learning and Big Data Add Value to Healthcare"
-}
-</script>
-
 Updated 10 September,2021
 
 ***According to McKinsey, the U.S. healthcare system generates over 1 trillion gigabytes of data every year. An incredible volume, even in a world that produces more data annually than we have managed in the course of Human history.***

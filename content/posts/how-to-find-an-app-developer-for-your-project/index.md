@@ -14,15 +14,6 @@ industries: []
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "How to Find an App Developer for Your Project"
-}
-</script>
-
 __Say you run a business. Online or offline, in either case there’s a moment when you decide to scale, and developing a custom app sounds like a promising idea. How does it cross your mind? And is there a real need to invest in a mobile app?__
 
 The IT industry is growing, and so does the demand for its services. As per the latest available <a href="https://evansdata.com/reports/viewRelease.php?reportID=9" rel="nofollow">report</a> by Evans Data, a software market research firm, there are **26.9M software developers** worldwide. And in recent years, Clutch.co, the largest IT vendors aggregator, <a href="https://www.prnewswire.com/news-releases/over-half-of-millennial-owned-small-businesses-have-a-mobile-app-300601731.html" rel="nofollow">found</a> that 42% of the U.S. small businesses had their app, of which:

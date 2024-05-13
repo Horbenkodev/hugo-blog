@@ -15,15 +15,6 @@ industries:
 categories:
 - Machine Learning
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Predictive Analytics in Education: Use of Predictive Analytics in Education"
-}
-</script>
-
 <h2>Table of contents</h2>
 <ul>
  <li><a href="#introduction">Current state of predictive analytics in the Education sector</a></li>

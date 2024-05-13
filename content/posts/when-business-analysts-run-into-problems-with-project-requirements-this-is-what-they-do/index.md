@@ -18,15 +18,6 @@ industries: []
 categories:
 - Business Analysis
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Nick Karlsson",
- "name": "When Business Analysts Run Into Problems with Project Requirements, This Is What They Do"
-}
-</script>
-
 One of the main reasons for project failure is poor requirements management. In this article, we will give insights on what are project requirements, types of requirements and how to gather requirements to ensure project success. We will also give you the answer to what [business analysts](https://anadea.info/guides/business-analyst-role) do to effectively handle project requirements. Let’s start with the basics.
 
 ## What are the project requirements?

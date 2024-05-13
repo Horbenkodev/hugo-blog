@@ -17,15 +17,6 @@ industries: []
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Time to Innovate or How to Create a Viable Flight and Hotel Booking App"
-}
-</script>
-
 How do you think the flight search and hotel booking industry should work in the age when Elon Musk says he's going to develop a neural interface for telepath-like thoughts exchange? I'll describe it in two words: fast and easy. Oh, wait, that's three words…
 
 Nevermind, queues at the air ticket offices and blind looking for a place to stay at night have turned into scary stories for kids. Thanks to apps, travellers are now informed about nearest and most comfortable hotels, cheapest tickets and whatever else their hearts desire.

@@ -19,15 +19,6 @@ industries: []
 categories:
 - UX-UI
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Aaron Chichioco",
- "name": "Sticky Navigation: Is it Worth It?"
-}
-</script>
-
 Web design trends rise and fall like waves in the sea of time. Beneath this attempt at poesy is an undeniable fact. Sure, some best practices, such as <a href="https://redstagfulfillment.com/online-store-work-across-all-devices/" target="_blank">responsive design</a>, seem like they're here to stay, but many will hit the curb in a year or two, if they haven't yet. Sticky navigation has been around for a while, but it's expected to become big this year. Should you incorporate it into your site? It depends.
 
 <a href="https://www.smashingmagazine.com/2012/09/sticky-menus-are-quicker-to-navigate/" target="_blank">Sticky navigation</a> is one of two common forms of website navigation, the other being fixed navigation. In the latter, the menu bar is "glued" to the top of the page and moves up along with the rest of the site's content every time the user scrolls down. Sticky navigation means that the menu bar remains visible at the very top, even though the user has arrived at the bottom of the page.

@@ -18,14 +18,6 @@ categories:
 - eCommerce
 - Trends
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Ecommerce Mobile App Trends 2017: New Opportunities for the Market"
-}
-</script>
 Have you thought that just 20 years ago there were no smartphones? The web industry was focused on purely PC and laptop users. The emergence and rapid spread of smartphones have dramatically changed not only our daily lives but also the online industry. To date, more than half the world uses smartphones and the volume of mobile and tablet traffic surpasses the volume of desktop traffic. That is why a great internet marketing strategy for famous brands as well as small businesses involves more than just a mobile-friendly site. A responsive design is no longer enough to win modern customers with smartphones.
 
 A business with a strong base of regular clients and a mobile-optimized website has everything needed to move forward on the Internet. Harnessing the potential of mobile devices can quickly distance you from competitors and attract new customers. This is about apps.

@@ -15,15 +15,6 @@ industries: []
 categories:
 - App Ideas
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "How to Build Successful IT Startup Such as Car Wash App"
-}
-</script>
-
 <h2>Table of contents</h2>
 
 <ul>

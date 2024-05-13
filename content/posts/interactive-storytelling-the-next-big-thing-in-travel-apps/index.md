@@ -16,15 +16,6 @@ industries:
 - Travel
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Interactive Storytelling: The Next Big Thing in Travel Apps"
-}
-</script>
-
 As of the end of 2022, Instagram, the widely used photo-sharing app, has surpassed 2.5 billion active users. It is projected that the social media platform, which is owned by Facebook, now generates over $20 billion in advertising revenue, marking a staggering 264% increase from the $5.5 billion reported in 2017.
 
 Travel - alongside food, drink and fitness - is one of the most popular categories of content on Instagram. Between those on holiday, to couples and families enjoying city breaks or weekends in the countryside, to serious travelers, there are hundreds of hashtags used to support images, videos and Stories.

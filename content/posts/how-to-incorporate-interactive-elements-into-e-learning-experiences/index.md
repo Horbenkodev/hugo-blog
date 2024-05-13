@@ -17,15 +17,6 @@ industries:
 - eLearning
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Tiffany Harper",
- "name": "How to Incorporate Interactive Elements into e-learning Experiences"
-}
-</script>
-
 For both education and business, e-learning has become an ideal solution to training, knowledge sharing and evolution in general. What was once comprised of physical presence in courses and long seminars is now just a process involving a few clicks. Both employees in companies and children in schools can benefit from e-learning, but there is one problem - how to make it engaging?
 
 Online education is an ambitious undertaking, but a lot of experts are slightly extremist on the subject of automation. They want AI to replace all human interaction with learners, similar to what we're seeing in the eCommerce industry. However, for e-learning to affect an employee or <a href="https://www.sciencedirect.com/science/article/abs/pii/S0360131510000035" target="_blank">student satisfaction</a>, you need to make it interactive and engaging throughout the process.

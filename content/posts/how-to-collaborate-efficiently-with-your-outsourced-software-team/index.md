@@ -17,15 +17,6 @@ industries: []
 categories:
 - Business
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Andrew Carroll",
- "name": "5 Ways IT Project Owners Can Collaborate More Efficiently With Their Outsourced Software Teams"
-}
-</script>
-
 Software development is a complex process. The success of the whole IT project depends on the efforts of each team member and, of course, the mutual understanding of the team members and clients. This connection is difficult to ensure particularly when your software team is located in different parts of the world.
 
 I have heard many of my acquaintances ranting about the failure of their outsourced development projects. To be honest, I have been a part of some failed projects too. Then, I have also been a part of many successful ones. What my successes and failures tell me is that it's not the outsourced team that is to blame; it is, in fact, the mediocre team organization, poorly defined team architecture, lack of documentation of employee roles/responsibilities, and miscommunication or gaps in communication.

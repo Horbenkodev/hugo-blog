@@ -9,7 +9,7 @@ og_image: betting_socials.jpg
 promote:
   promote: false
 top: false
-draft: false
+draft: true
 industries:
 - Sports
 categories: []

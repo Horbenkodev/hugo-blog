@@ -17,15 +17,6 @@ industries:
 - eLearning
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Tod Browndorf",
- "name": "Training in the Workplace: How an Employee Engagement App can Help"
-}
-</script>
-
 Updated on 19 August, 2021
 <h2>Table of contents</h2>
 <ul>

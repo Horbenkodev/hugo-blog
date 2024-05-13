@@ -16,15 +16,6 @@ industries: []
 categories:
 - News
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "How We are Tackling the New Work-From-Home Reality at Anadea"
-}
-</script>
-
 One of the basic responses to an unforeseen life-threatening situation is to freeze. Most of us having faced a possibility to catch COVID-19 will feel helpless and lost, and, as a result, may lack confidence about the future. It is all about losing control over the situation.
 
 When such a situation arises, everyone is free to pick their own way to tackle anxiety. Someone may opt for downsizing their projects and slowing down but there are also those who will find the way to use the situation as a chance to become stronger and to demonstrate their best qualities.

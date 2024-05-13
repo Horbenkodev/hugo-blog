@@ -18,15 +18,6 @@ categories:
 - Development
 - Ruby on Rails
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Carrierwave: How to Avoid Issues with Version Inheritance"
-}
-</script>
-
 <a href="https://github.com/carrierwaveuploader/carrierwave" rel="nofollow" target="_blank">Сarrierwave</a> is a popular image upload gem used by the Rails community to upload files to the server.
 
 Recently I had a task to upload two types of images into the application. Under the hood,the only difference between them was the target directory on the server. Sounds pretty simple, right?

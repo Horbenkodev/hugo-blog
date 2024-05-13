@@ -14,14 +14,6 @@ industries:
 - Sports
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "How to Develop a Sports App in 2022"
-}
-</script>
 _Updated July, 2022._
 
 <h2>Contents</h2>

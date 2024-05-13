@@ -17,15 +17,6 @@ industries: []
 categories:
 - Mobile
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Sophie Ross",
- "name": "Top-9 Security Issues in Mobile App Development"
-}
-</script>
-
 The development of mobile apps has come a long way since the first 500 apps hit the Apple App Store in
 2008. Thousands of apps are released every day with the majority of them dying as quickly as they
 appear. The problem? Persistent insecurity within mobile app development that has driven top-ranking

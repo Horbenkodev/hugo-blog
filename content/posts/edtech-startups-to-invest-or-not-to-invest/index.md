@@ -14,15 +14,6 @@ industries:
 - eLearning
 categories: []
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "EdTech Startups: to Invest or Not to Invest?"
-}
-</script>
-
 Education development is traditionally considered the responsibility of the government, and when we hear the words "educational startups", Coursera and Udemy come to mind. However, they are not alone who improve the way we learn. There are more and more companies that try to facilitate the educational process by involving technologies. This results not only from realities of the digitalized present but also from the profitability of edtech startups. Here are the reasons to invest in <a href="https://anadea.info/solutions/e-learning-software-development" target="_blank">eLearning app startups</a> and related challenges.
 
 <h2>Table of contents</h2>

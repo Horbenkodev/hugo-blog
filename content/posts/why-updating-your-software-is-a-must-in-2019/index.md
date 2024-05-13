@@ -17,15 +17,6 @@ industries: []
 categories:
 - Development
 ---
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "Article",
- "author": "Anadea",
- "name": "Why Updating Your Software is a Must in 2019"
-}
-</script>
-
 Another update? What? Aren't those pop-up upgrade requests downright annoying?
 In the 21st century, we can't spare a minute for a smartphone OS update, much less an hour for software updates.
 
