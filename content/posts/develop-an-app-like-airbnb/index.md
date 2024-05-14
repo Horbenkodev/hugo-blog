@@ -9,6 +9,7 @@ og_image: airbnb_app_development.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Real Estate
 - Travel

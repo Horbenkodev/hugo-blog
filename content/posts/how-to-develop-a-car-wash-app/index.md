@@ -10,11 +10,11 @@ og_image: build_car_wash_app.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - App Ideas
 ---
-
 <h2>Table of contents</h2>
 
 <ul>

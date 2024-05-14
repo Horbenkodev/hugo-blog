@@ -12,11 +12,11 @@ og_image: Software-update.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development
 ---
-
 Another update? What? Aren't those pop-up upgrade requests downright annoying?
 In the 21st century, we can't spare a minute for a smartphone OS update, much less an hour for software updates.
 

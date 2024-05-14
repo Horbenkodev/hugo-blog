@@ -2,7 +2,7 @@
 {{ $industries := .Site.Taxonomies.industries }}
 
 <form class="filters" id="search">
-  <input class="filters__search" type="search" name="token" id="search-query" placeholder="Search..." />
+  <input class="filters__search" type="search" name="token" id="search-query" placeholder="Search..." autocomplete="off" />
 
   <div class="filters__block">
     <select name="categories" id="categories" class="filters__select">

@@ -10,6 +10,7 @@ og_image: cross-platform-apps.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Mobile

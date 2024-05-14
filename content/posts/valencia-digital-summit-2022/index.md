@@ -10,26 +10,21 @@ og_image: vds2022-socials.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - News
 ---
 We’re way too far from Silicon Valley, the first place that comes to mind when IT and innovations are brought up. Nor are we in Poland that’s become Europe’s cradle of IT talents in the past years. But we’re somewhere just as big, that’s for sure. So where are we?
 
-<picture>
- <source srcset="valencia-museum.jpg">
- <img src="valencia-museum.jpg" loading="lazy">
-</picture>
+![](valencia-museum.jpg)
 <center><i><font size="-1">City of Art and Sciences, Valencia, Spain</font></i></center>
 
 On October 24–26, the Valencian City of Art and Sciences held the 5th Valencia Digital Summit bringing together hundreds of speakers, investors and startup founders in front of 10,000 people. The major sponsors that made the event possible are Startup Valencia non-profit organization and the Distrito Digital initiative to house technological companies and talent.
 
 Our Alicante-based business development team couldn’t but visit.
 
-<picture>
- <source srcset="sales.jpg">
- <img src="sales.jpg" loading="lazy">
-</picture>
+![](sales.jpg)
 <center><i><font size="-1">Alexandra Lichko, Iryna Lysenko</font></i></center>
 
 Our goal was to learn what’s new in the tech world from the trendsetters. As exciting as it sounds, in practice it was quite a challenge to choose the speakers to attend. Given what a challenge it is to scroll the page listing all speakers to the bottom on the event’s website (try it!), imagine what it was like not knowing where to look first :) All this inside the Valencia City of Art and Sciences, an incredible place in itself.
@@ -41,10 +36,7 @@ We were especially interested in the emerging __AI trends__, an evolving niche t
 
 We also had an opportunity to see BoB from __Super Robotics__ in action. BoB is a computer vision-driven robot that moves around a supermarket and audits the shelves’ contents. With the help of its numerous cameras, it scans the goods and gathers essential information on the items in stock, their location, and if any are missing. It’s already working at a good level of precision but still needs improvement, so we discuss the opportunity to work on it together.
 
-<picture>
- <source srcset="vds2022.jpg">
- <img src="vds2022.jpg" loading="lazy">
-</picture>
+![](vds2022.jpg)
 
 ## Fresh perspectives in FinTech
 A rapidly developing business domain __FinTech__ remains one of our key focuses. It was exciting to learn more about the FinTech community in Spain.

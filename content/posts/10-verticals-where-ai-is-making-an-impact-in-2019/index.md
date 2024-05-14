@@ -11,6 +11,7 @@ og_image: ai-business.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

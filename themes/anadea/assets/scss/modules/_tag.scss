@@ -1,11 +1,13 @@
 @mixin light {
-  --main-text: var(--slate-gray);
-  --hover-text: var(--black);
+  --main-color: var(--emperor);
+  --hover-color: var(--persian-rose-100);
+  --active-color: var(--persian-rose-200);
 }
 
 @mixin dark {
-  --main-text: var(--silver);
-  --hover-text: var(--white);
+  --main-color: var(--mercury);
+  --hover-color: var(--persian-rose-100);
+  --active-color: var(--persian-rose-200);
 }
 
 .tag {
@@ -17,15 +19,20 @@
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
-  color: var(--main-text);
+  color: var(--main-color);
   text-decoration: none;
-  border: 1px var(--main-text) solid;
+  cursor: pointer;
+  border: 1px var(--main-color) solid;
   border-radius: 5000px;
 
   &:hover {
-    color: var(--hover-text);
-    cursor: pointer;
-    border-color: var(--hover-text);
+    color: var(--hover-color);
+    border-color: var(--hover-color);
+  }
+
+  &:active {
+    color: var(--active-color);
+    border-color: var(--active-color);
   }
 }
 

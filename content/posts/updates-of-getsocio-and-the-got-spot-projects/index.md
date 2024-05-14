@@ -11,11 +11,11 @@ og_image: Getsocio-updates.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - News
 ---
-
 Recently we've released a new mobile app - The Got Spot app. The launch of this application is closely related to our Getsocio project, so let's first talk about major updates of Getsocio itself and some other linked projects.
 
 ## Getsocio

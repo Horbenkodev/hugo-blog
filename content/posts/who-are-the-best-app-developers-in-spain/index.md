@@ -12,11 +12,11 @@ og_image: mobile_app_devs.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - News
 ---
-
 Spaniards have firmly established themselves among the world's biggest smartphone users. The percentage of smartphone owners in Spain has already exceeded 65% of the population and smartphone user penetration is predicted to reach over 71% by 2022. This equals to over 30 million users, which creates a sweet spot for IT business and sparks up the Spanish app development industry.
 
 As an IT company with a wide international outlook, [Anadea](https://anadea.info/) has been making its way to the Spanish software development market for a while. Actually, we achieved quite a lot here. By now, we have many good business partners and clients in Spain. We've worked on a number of exciting and innovative projects for our Spanish clients, including applications for financial and real estate sectors.

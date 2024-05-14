@@ -11,6 +11,7 @@ og_image: crm-for-real-estate-agents.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Real Estate
 categories: []

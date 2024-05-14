@@ -10,11 +10,11 @@ og_image: Kotlin.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development
 ---
-
 On February 15, 2016 JetBrains company released version 1.0 of <a href="https://kotlinlang.org/" target="_blank">Kotlin</a>, a programming language that has been in development for about 5 years. This language works on JVM. We've already talked about what <a href="https://anadea.info/services/web-development/java">Java development</a> is with our developer Alexander Mihalchenko. Today, we met again with Alexander, this time to discuss Kotlin - why Kotlin is good and if there are any drawbacks of using this language, both for developers and for entrepreneurs.
 
 **Hello, Alex.**<br>

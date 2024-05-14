@@ -10,12 +10,12 @@ og_image: psy-social.png
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories:
 - Web
 ---
-
 Are you committed to starting a private practice in counseling psychology? Or have you been a private practitioner for a while now? Either way, you can consider building a website to promote your services. As soon as you have developed your psychology private practice business plan and decided to take the plunge, creating a website is a logical next step.
 
 This is not an article about how to start a psychotherapy private practice but about adding value to your business through online presence. Let’s dive in.
@@ -69,10 +69,7 @@ Don’t create an exhaustive biography but do share your passion, experience, an
 
 This is a good place to include your contact information and office hours. This is especially helpful if you have several therapists in your practice with their own office hours.
 
-<picture>
- <source srcset="/assets/pages/blog/blog-psychological-therapy-practice/blog_psychological_therapy-1.png">
- <img src="/assets/pages/blog/blog-psychological-therapy-practice/blog_psychological_therapy-1.png" loading="lazy">
-</picture>
+![](blog_psychological_therapy-1.png)
 
 Summing up, here’s what the About page of a psychologist's website must include:
 
@@ -150,10 +147,7 @@ It’s officially legal: all patients have the right to access their health reco
 ### Appointment scheduling
 Your site visitors can make an appointment and see your availability. If more than one practitioner operates in your practice, you can make your appointment scheduling system even more helpful and convenient for your patients.
 
-<picture>
- <source srcset="/assets/pages/blog/blog-psychological-therapy-practice/blog_psychological_therapy-3.png">
- <img src="/assets/pages/blog/blog-psychological-therapy-practice/blog_psychological_therapy-3.png" loading="lazy">
-</picture>
+![](blog_psychological_therapy-3.png)
 
 ### Telemedicine and telehealth
 Telemedicine makes it easier and more convenient for your patients to become engaged in their own mental health care. Patients love the convenience, flexibility, and real-time connection with you as a therapist, especially since now online visits have become a new standard. A video call functionality can be integrated into your website for this purpose. Learn more in our article on <a href="https://anadea.info/blog/telehealth-solutions-paving-new-ways-for-medical-communication" target="_blank">telehealth app development</a>.

@@ -13,6 +13,7 @@ og_image: Digital-medicine.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories: []

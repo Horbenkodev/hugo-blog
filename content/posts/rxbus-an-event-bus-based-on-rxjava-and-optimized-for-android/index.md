@@ -11,11 +11,11 @@ og_image: Event-bus.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development
 ---
-
 ## What it's all about
 
 Event bus is a great solution that allows objects with different lifecycles and located in different layers of hierarchy to communicate.

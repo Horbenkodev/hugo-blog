@@ -10,11 +10,11 @@ og_image: Why-start-the-software-project-with-consulting-rounds.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business
 ---
-
 There are many opinions about digital technology consulting. Some people think that consultants set crazy rates and at the same time do not bring any benefit. Some even had a negative experience working with IT consultants.
 
 Information technologies make business more projected and manageable. However, the adoption of information technology in business is complicated by the problem of misunderstanding: the business does not understand what to expect from IT, and IT companies can not always convey the idea in an accessible language.

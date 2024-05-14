@@ -9,6 +9,7 @@ og_image: saas_business_socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business
@@ -199,3 +200,32 @@ Software-as-a-service is one of three main types of cloud solutions. It is a mod
 
 ### Who can develop a SaaS product for me?
 If you do not have plans to hire in-house developers and want to start a SaaS business, you can work with a professional development team with expertise in building cloud solutions. At Anadea, we have rich experience in this sphere and can help you to build an advanced product that will meet market needs and demands.
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+  {
+   "@type": "Question",
+   "name": "What is SaaS?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "Software-as-a-service is one of three main types of cloud solutions. It is a model of distributing software via the Internet. A cloud provider hosts apps that will be available to users without the necessity to download and install them on their devices."
+    }
+   ]
+  },
+  {
+   "@type": "Question",
+   "name": "Who can develop a SaaS product for me?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "If you do not have plans to hire in-house developers and want to start a SaaS business, you can work with a professional development team with expertise in building cloud solutions. At Anadea, we have rich experience in this sphere and can help you to build an advanced product that will meet market needs and demands."
+    }
+   ]
+  }
+ ]
+}
+</script>

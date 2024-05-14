@@ -12,11 +12,11 @@ og_image: app-security.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Mobile
 ---
-
 The development of mobile apps has come a long way since the first 500 apps hit the Apple App Store in
 2008. Thousands of apps are released every day with the majority of them dying as quickly as they
 appear. The problem? Persistent insecurity within mobile app development that has driven top-ranking

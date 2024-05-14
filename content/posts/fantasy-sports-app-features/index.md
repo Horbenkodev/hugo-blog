@@ -10,6 +10,7 @@ og_image: "%D1%81ompressed.jpg"
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Sports
 categories: []

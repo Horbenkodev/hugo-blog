@@ -11,10 +11,21 @@ og_image: Corporate-lms-implementation.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - eLearning
 categories: []
 ---
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "author": "Tiffany Harper",
+ "name": "Must-Have Considerations When Implementing a Corporate LMS"
+}
+</script>
+
+Updated on 16 August, 2021
 
 <h2>Table of contents</h2>
 <ul>

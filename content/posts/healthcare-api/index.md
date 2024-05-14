@@ -9,6 +9,7 @@ og_image: healthcare_api_socials.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories: []
@@ -282,3 +283,32 @@ Application programming interfaces help to ensure the connection between differe
 ### How much does it cost to use medical APIs?
 
 The prices set by different healthcare API vendors greatly vary and may be calculated based on different models. Some providers use a transaction-based model where they set rates per call. Some other models presuppose different pricing for different sets of features. There is also an option to pay an annual fee for access to the API and related services. That's why you always need to find out the exact terms of each vendor before making your choice. By the way, sometimes there is a free trial period that can help you to get familiarized with a product.
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+  {
+   "@type": "Question",
+   "name": "What are the key reasons for using healthcare APIs?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "Application programming interfaces help to ensure the connection between different healthcare apps and systems and make them seamlessly interoperate and exchange data. Thanks to them, your applications, EHR systems, and other sources of data (such as, for example, drug databases) can be unified and used as a single source of reliable information."
+    }
+   ]
+  },
+  {
+   "@type": "Question",
+   "name": "How much does it cost to use medical APIs?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "The prices set by different healthcare API vendors greatly vary and may be calculated based on different models. Some providers use a transaction-based model where they set rates per call. Some other models presuppose different pricing for different sets of features. There is also an option to pay an annual fee for access to the API and related services. That's why you always need to find out the exact terms of each vendor before making your choice. By the way, sometimes there is a free trial period that can help you to get familiarized with a product."
+    }
+   ]
+  }
+ ]
+}
+</script>

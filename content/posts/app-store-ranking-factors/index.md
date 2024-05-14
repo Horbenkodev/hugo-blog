@@ -9,6 +9,7 @@ og_image: aso.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Mobile

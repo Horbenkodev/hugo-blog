@@ -12,10 +12,12 @@ og_image: Employee-engagement-app.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - eLearning
 categories: []
 ---
+Updated on 19 August, 2021
 <h2>Table of contents</h2>
 <ul>
  <li><a href="#introduction">Introduction to employee engagement mobile app facilities</a></li>

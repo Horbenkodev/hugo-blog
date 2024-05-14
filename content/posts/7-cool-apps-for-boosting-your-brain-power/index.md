@@ -11,6 +11,7 @@ og_image: Brain-training-app.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - App Ideas

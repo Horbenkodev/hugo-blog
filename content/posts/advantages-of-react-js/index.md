@@ -21,6 +21,7 @@ og_image: advantages-react-blog-img.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development

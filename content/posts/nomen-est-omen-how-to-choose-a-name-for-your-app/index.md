@@ -9,11 +9,11 @@ og_image: name.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business
 ---
-
 Finding a great name for a product is one of the most difficult parts in the development. The name means a lot and can influence the fate of your business. We may recall a song by Johnny Cash "A boy named Sue", which tells us how a female name turned the man's life into a living hell, despite the fact that Sue was a good guy. The same story can happen to your app. Even the best of the kind application may end up on the sidelines of global network because of a silly, overcomplicated, plain or misleading name.
 
 ## A technology touch to naming apps

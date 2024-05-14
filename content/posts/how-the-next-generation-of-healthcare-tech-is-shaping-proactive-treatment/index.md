@@ -12,10 +12,12 @@ og_image: proactive-healthcare.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories: []
 ---
+_Updated on 1 September, 2021._<br><br>
 
 Digital technology and <a href="https://anadea.info/solutions/medical-app-development" target="_blank">medical software development</a> are radically changing healthcare. From research and development to new treatments, apps, platforms and wearables and having a profound impact.
 

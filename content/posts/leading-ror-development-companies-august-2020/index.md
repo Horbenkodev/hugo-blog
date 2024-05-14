@@ -12,11 +12,11 @@ og_image: Top_Ruby_on_Rails_Developers_-_2020.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - News
 ---
-
 <img src="Top_Ruby_on_Rails_Developers_-_2020.png" alt="Top Ruby on Rails DEvelopers 2020" width='220' class="float-right">
 
 In the end of August 2020 a researcher of TopDevelopers observed the landscape of web application frameworks that developers prefer for its exclusive features. The analyst came to a conclusion that Ruby on Rails is one of the leading alternatives among other frameworks for this purpose.

@@ -12,11 +12,11 @@ og_image: outsource-vs-crowdsource.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - QA
 ---
-
 Writing code is hard. For some, this may come as a surprise, software quality assurance and testing are not easier. Of course, reporting bugs may not require too much technical skills. But the same cannot be said about evaluating a product from customer's perspective, understanding software product features, developing a test strategy, planning the test cases, picking which tools to use, and all of that within strict deadlines when a product was supposed to be ready yesterday and its release is today, especially while dealing with a very demanding customer. That's why the question "What does a quality assurance engineer do?" doesn't boil down to a simple answer.
 
 Unscrupulous developers of different software may claim their code is perfect and flawless, but they know that ideal code is as real as unicorns. Even NASA has malfunction. Avoiding QA and testing results in serious challenges. It is the essence why we need quality assurance. But hiring more employees in staff to test software more often turns out to be inefficient. If you don't wish your software product to be associated with "bugs" and you can't hire experienced professionals but need them, you should think about involving external QA specialists. The question thus arises whether to outsource or crowdsource.

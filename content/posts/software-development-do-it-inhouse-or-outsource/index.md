@@ -12,11 +12,11 @@ og_image: hire-or-outsource1.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business
 ---
-
 We often hear that we live in the world of possibilities. However, how often do you hear what these possibilities are?
 
 Look at Apple. We love their computers and phones, the quality and innovations they bring. We also know that their products are a bit pricey - the newest iPhone would cost about $1000 or more. $1000 for a device assembled in China! Can you imagine how costly it would be if Apple built it in the USA? Thrice as expensive, I bet. However, Apple did a smart choice to outsource their production. It allows assembling more devices, makes them affordable, keeps the quality good and lets the headquarters in the States develop new features and work on new ideas. In the end, everybody is happy.

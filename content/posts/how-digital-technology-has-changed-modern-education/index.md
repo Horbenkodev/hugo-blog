@@ -9,6 +9,7 @@ og_image: elephants.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - eLearning
 categories: []
@@ -38,10 +39,7 @@ So on one hand, it’s _yes_ because now the <a href="https://anadea.info/client
 ## How technology improves learning and communication
 It’s believed that the teacher’s figure is not an unshakable authority for modern students. This puts much pressure on teachers that fail to reach out to kids and teens and emphasizes the gap between generations. We hope this comic strip has nothing to do with your job.
 
-<picture>
- <source srcset="explain_these_bad_grades.jpg">
- <img src="explain_these_bad_grades.jpg" alt="explain these bad grades" loading="lazy">
-</picture>
+![explain these bad grades](explain_these_bad_grades.jpg)
 
 To some extent, positions shifted because students think that adults fall behind modern trends. As if only those adults who accept the modern world with all the novelties it brings along are worth listening to. From this point of view, technology has become a tool for improving teacher-student communication.
 
@@ -77,10 +75,8 @@ For effective parent-teacher communication, there are tools that foster parent e
 * Setting up individual and group calls;
 * Messaging between parents and school staff.
 
-<picture>
- <source srcset="teacher_and_mother.jpg">
- <img src="teacher_and_mother.jpg" alt="teacher and mother" loading="lazy">
-</picture>
+![teacher and mother](teacher_and_mother.jpg)
+
 
 __Brings assessment to the next level.__ Every educational system has methodologies for assessing students’ performance based on many criteria in order to make assessment fair for everyone, as it should be. But every case still needs to be approached individually. Digital tools can simplify the process significantly, offering many tracking options that give teachers the aggregate picture of student performance on a timeline. If it’s not linear and the grades drill down emphasizes difficulties with certain study topics, perhaps the learning plan has to be reviewed either for individual students, a group of students or the whole class so that no gaps in their knowledge are present.
 

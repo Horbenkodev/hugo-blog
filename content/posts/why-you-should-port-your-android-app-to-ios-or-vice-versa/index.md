@@ -10,11 +10,11 @@ og_image: ios_android_porting.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business
 ---
-
 There is a joke in game industry: if you want to get profit from one game several times - port it to another platform. Look at Rockstar company, for example. In 2013 Grand Theft Auto V assailed consoles with sales in millions of copies and billions of dollars. When the craze has died down, they released the game on PCs, added some updates and ta da - GTA V became the market leader again!
 
 This approach can hardly be called unfair or bad. Eventually, everyone wins - development company, users on all platforms at once and platform manufacturers because not everyone has the patience to wait for a few years while the entire world plays their favorite game. When the long-awaited ported version finally arrives, the patient users will have to upgrade their PCs, as the game comes with new 4k textures and trendy visual effects. I would go so far as to say that this business model is brilliant because Rockstar has cashed in on everything. It's a great example of how to do business.

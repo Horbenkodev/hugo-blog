@@ -7,9 +7,10 @@ a.ctaButton {
   line-height: 1.5;
   color: #ffffff;
   text-decoration: none;
-  background-color: #dc296c;
   border: none;
-  border-radius: 5px;
+  border-radius: 8px;
+
+  @include mainButton;
 
   &:hover {
     color: inherit;

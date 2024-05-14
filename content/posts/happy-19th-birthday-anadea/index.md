@@ -9,6 +9,7 @@ og_image: Dnepr-3.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - News

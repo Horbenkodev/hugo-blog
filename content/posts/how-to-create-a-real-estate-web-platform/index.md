@@ -9,12 +9,12 @@ og_image: real_estate_website_socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Real Estate
 categories:
 - Web
 ---
-
 How many deals are closed on real estate websites every day, be it renting, buying, or selling? It’s impossible to calculate it even close to approximately since there are thousands and thousands of real estate websites with millions of visitors a day.
 
 But if you are terrified by the huge, although abstract numbers, don’t be. The real estate industry has its own specifics that allow new market players to stand against the competition. Buying a house is not a 10-dollar deal, so before making any decision, a person lurks on every site they can find—and does so multiple times. Thus, another website with more unique offers is not an irritation, it can be a blessing.

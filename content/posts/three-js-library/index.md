@@ -10,6 +10,7 @@ og_image: sharks.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development
@@ -25,7 +26,7 @@ Yes, all of these incompatibilities could be bypassed if the code was played aro
 
 ```shell
 $ npm install three @react-three/fiber
-```	
+```
 
 There is only one drawback, or rather a nuance in it: the library works only with React version 18 or higher.
 
@@ -40,17 +41,17 @@ Our designer has drawn the company logo in Blender and had it in 3 formats: glb,
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="560" height="315" src="https://www.youtube.com/embed/q1xsB3w1EZI?showinfo=0&loop=1&playlist=q1xsB3w1EZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-The latter format gives us the possibility to upload the model without material (just a white) and color it using JavaScript. This way, you can make your model more interactive. It is possible to change the texture, make it more rough or metallic. 
+The latter format gives us the possibility to upload the model without material (just a white) and color it using JavaScript. This way, you can make your model more interactive. It is possible to change the texture, make it more rough or metallic.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="560" height="315" src="https://www.youtube.com/embed/Pr5iNqQwHns?showinfo=0&loop=1&playlist=Pr5iNqQwHns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## Part III—3D models in JavaScript 
+## Part III—3D models in JavaScript
 
 __This part is about creating a 3D model on the example of animated Earth.__
 
-Creating a 3D model using only code will require more effort and time than just uploading one. You need to have a basic knowledge of the library’s opportunities, geometry and material species, and a good 3D orientation. Certainly, you can find a lot of videos or articles about how it’s best to create one or another training model and how to interact with textures and animation. Having brought all parts together (knowledge, ideas and comments from the project team), we’ve created something interesting: 
+Creating a 3D model using only code will require more effort and time than just uploading one. You need to have a basic knowledge of the library’s opportunities, geometry and material species, and a good 3D orientation. Certainly, you can find a lot of videos or articles about how it’s best to create one or another training model and how to interact with textures and animation. Having brought all parts together (knowledge, ideas and comments from the project team), we’ve created something interesting:
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="560" height="315" src="https://www.youtube.com/embed/5h_iS4cSwow?showinfo=0&loop=1&playlist=5h_iS4cSwow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -62,9 +63,9 @@ You can end up in outer space if you add <code><OrbitControls /></code> to the c
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="560" height="315" src="https://www.youtube.com/embed/s0JYLwVNIVs?showinfo=0&loop=1&playlist=s0JYLwVNIVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-As we can see, the geometry is rather simple - it’s a sphere. However, the materials are more complex. Textures (special images) of Earth and Moon were used here. These are easily found on the Internet. You can use <code><meshStandardMaterial map={moonTexture}/></code> with Moon texture <code>(moonTexture)</code> or use <a href="https://threejs.org/docs/#api/en/materials/ShaderMaterial" target="_blank" rel="nofollow">Shaders</a> to get complex texture, for example, atmosphere imitation. This aspect is tricky enough and should be approached individually, but you can find a lot of examples of code that can be adapted to your needs. That’s what we did. 
+As we can see, the geometry is rather simple - it’s a sphere. However, the materials are more complex. Textures (special images) of Earth and Moon were used here. These are easily found on the Internet. You can use <code><meshStandardMaterial map={moonTexture}/></code> with Moon texture <code>(moonTexture)</code> or use <a href="https://threejs.org/docs/#api/en/materials/ShaderMaterial" target="_blank" rel="nofollow">Shaders</a> to get complex texture, for example, atmosphere imitation. This aspect is tricky enough and should be approached individually, but you can find a lot of examples of code that can be adapted to your needs. That’s what we did.
 
-As for animation, the Earth’s axis-turning was the easiest part. You should only set the axis and rotation speed. 
+As for animation, the Earth’s axis-turning was the easiest part. You should only set the axis and rotation speed.
 
 ```javascript
 useFrame(() => {
@@ -72,28 +73,28 @@ useFrame(() => {
 });
 ```
 
-By the way, custom hooks from the React-three-fiber library like __useFrame__ and __useLoader__ are irreplaceable hooks for comfortable work with 3D in React apps. __useFrame__ is used to work with animation; __useLoader__ is used for uploading 3D models, maps, textures and vertices. 
+By the way, custom hooks from the React-three-fiber library like __useFrame__ and __useLoader__ are irreplaceable hooks for comfortable work with 3D in React apps. __useFrame__ is used to work with animation; __useLoader__ is used for uploading 3D models, maps, textures and vertices.
 
-Rotating the Moon around the Earth by the circle trajectory was a more complex task. Here, you could use some math. 
+Rotating the Moon around the Earth by the circle trajectory was a more complex task. Here, you could use some math.
 
 ```javascript
 useFrame(() => {
  // circle trajectory
  let date = Date.now() * 0.0005 + 1;
  ref.current.position.set(
-  Math.cos(date) * 2 + 0, 
-  0, 
+  Math.cos(date) * 2 + 0,
+  0,
   Math.sin(date) * 2 + 0);
  // rotation
  ref.current.rotation.y += 0.004;
 })
 ```
 
-<code>date</code> sets sequential coefficients for changing coordinate values, and adjustment of the 0.0005 number can increase or slow down the rotation speed. 
+<code>date</code> sets sequential coefficients for changing coordinate values, and adjustment of the 0.0005 number can increase or slow down the rotation speed.
 
-I set the Moon’s position x-y-z below, where y stays equal to zero because I want the trajectory to be horizontal, in the _X_ plane. However, you can set <code>y = Math.sin(date) * 2 + 0</code> and get the elliptical trajectory inclined at 45 degrees. 
+I set the Moon’s position x-y-z below, where y stays equal to zero because I want the trajectory to be horizontal, in the _X_ plane. However, you can set <code>y = Math.sin(date) * 2 + 0</code> and get the elliptical trajectory inclined at 45 degrees.
 
-By the way, 0 in the end is the pivot coordinate, around which the mesh is rotating. We have a pivot at the Earth sphere (position 0-0-0). So, we can get different results by changing one or another parameter. 
+By the way, 0 in the end is the pivot coordinate, around which the mesh is rotating. We have a pivot at the Earth sphere (position 0-0-0). So, we can get different results by changing one or another parameter.
 
 Stars are also moving according to the set direction. We’ll provide more details on it down the road.
 
@@ -176,7 +177,7 @@ function Pins() {
 }
 ```
 
-Here, pins are small spheres of standard material and color. But you are free to use more complex geometries or upload your own 3D models at all. 
+Here, pins are small spheres of standard material and color. But you are free to use more complex geometries or upload your own 3D models at all.
 
 ## Part IV—Complex animation along a given trajectory
 Continuing the topic of animation, we managed to get a certain shape from random positioning points __on the example of an outline of a country__.
@@ -189,10 +190,10 @@ We haven’t found any service that draws the outlines of shapes, so we drew the
 
 To make such an animation, we need to get the initial and the final 3D coordinates of each point. As the shape consists of 2D vectors, we transformed the point’s scope to an array of positions of each point - <code>[[1.34, 2.34, 1.5], [1.62, 2.28, 1.5], . . . ]</code>.
 
-The random coordinates were obtained quite easily, and the stars from Part III were distributed in the same way. 
+The random coordinates were obtained quite easily, and the stars from Part III were distributed in the same way.
 
 ```javascript
-// creates 500 random coordinates for star-points 
+// creates 500 random coordinates for star-points
 const starVertices = [];
 for (let i = 0; i < 500; i++) {
  const x = (Math.random() - 0.5) * 30;
@@ -202,7 +203,7 @@ for (let i = 0; i < 500; i++) {
 }
 ```
 
-In this example, all points are separate Meshes (Components) which were added to the scene using <code>Array.map()</code>. This enables us to animate each point separately by a single line of code: 
+In this example, all points are separate Meshes (Components) which were added to the scene using <code>Array.map()</code>. This enables us to animate each point separately by a single line of code:
 
 ```javascript
 vector = new THREE.Vector3(x, y, z) // set the direction of mesh movement

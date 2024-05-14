@@ -12,6 +12,7 @@ og_image: Travel_app_trends.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Travel
 categories: []

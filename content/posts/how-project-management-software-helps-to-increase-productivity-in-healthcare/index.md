@@ -10,10 +10,12 @@ og_image: Hospital-management-software_benefits.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories: []
 ---
+Updated 13 September, 2021.
 
 There is a system that brings all the aspects of the working of hospitals and nursing homes under one roof. We call this system the **healthcare project management system**. With the number of patients coming in and going out every day and healthcare professionals moving on in their careers from one level to another, imagine what a hospital would look like without a project management system. Chaotic, in one word.
 

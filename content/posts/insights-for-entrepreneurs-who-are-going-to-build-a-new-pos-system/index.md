@@ -13,11 +13,11 @@ og_image: Pos-system.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Retail
 ---
-
 A Point of sale (POS) system is a very <a href="https://www.entrepreneur.com/encyclopedia/point-of-sale-pos-system" target="_blank">important component in a business</a> but it may not be useful if it is out-of-date. How do you know that it is time to upgrade or acquire a new POS system? The first thing you will notice is that your system will become slow or it may even become unresponsive to commands. You may also find that the system has an outdated payment processing, outdated hardware, and limited integration capabilities. Apart from that, it may become inaccurate and unreliable.
 
 An old POS system may not allow you to do email marketing campaigns and may not have social media integrations. In addition, it may not allow you to create a loyalty program for your customers. If your POS has any of those characteristics, then it is time to build or purchase a new POS system.

@@ -9,11 +9,11 @@ og_image: travel_agency_spftware_development.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Travel
 categories: []
 ---
-
 Although more and more people tend to plan their travels without side help - for some, it is not less exciting than traveling per se - travel agents still have their share of work. Software for travel booking and accounting is designed to automate travel agents’ routine and make their work more efficient, as well as simplify travel planning for agencies’ clients. Our post will reveal the ways in which you as a travel agent or a travel agency owner can benefit from such automation and whether you need the services of a <a href="/solutions/travel-app-development" target="_blank">travel software development company</a>.
 
 <h2>Table of Contents</h2>
@@ -160,10 +160,7 @@ The theory is fine but examples from practice are more valuable. Anadea has succ
 <a name="tripaneer"></a>
 ### <u><a href="https://www.tripaneer.com/" target="_blank" rel="nofollow">Tripaneer</a></u>
 
-<picture>
- <source srcset="tripaneer_travel_website.jpg">
- <img src="tripaneer_travel_website.jpg" alt="Tripaneer travel website" loading="lazy">
-</picture>
+![Tripaneer travel website](tripaneer_travel_website.jpg)
 
 Tripaneer is a leading marketplace to book all kinds of health and wellness retreats to enjoy during holidays – yoga, meditation, mindfulness, silence retreats, and more. Providing both offline and online experiences, Tripaneer is a choice for over 160k travelers. Our task was to create a trustworthy and calming visual style for the website so that visitors feel comfortable leaving their details and find trips of interest in just a few clicks.
 
@@ -183,10 +180,7 @@ In addition, Tripaneer allows users to __sign up as a partner__ so that travel a
 <a name="bahamago"></a>
 ### <u><a href="https://www.bahamago.com/" target="_blank">BahamaGo</a></u>
 
-<picture>
- <source srcset="bahamago_travel_agency_website.jpg">
- <img src="bahamago_travel_agency_website.jpg" alt="BahamaGo travel agency website" loading="lazy">
-</picture>
+![BahamaGo travel agency website](bahamago_travel_agency_website.jpg)
 
 BahamaGo is a web tour booking system for an online travel agency that makes finding and booking hotels, tours, and airlines in the Bahamas quick and easy for users. The headline functions of BahamaGo are:
 * __Booking engine.__ The visitors can book flights for all of the major domestic airlines, search and book hotels and tours in the Bahamas, as well as make other travel arrangements.

@@ -12,11 +12,11 @@ og_image: Mobile-app.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business
 ---
-
 ***A recent study conducted by digital experts <a href="http://go.appannie.com/report-app-economy-forecast-part-two" rel="nofollow" target="_blank">AppAnnie</a> predicts the app economy will be worth $6.3 trillion by 2021, up $1.3 trillion since last year and a staggering $5 trillion since 2014.***
 
 Competition is fierce, and as a result, the Google Play and Apple App stores currently comprise of over <a href="https://www.statista.com/statistics/276623/number-of-apps-available-in-leading-app-stores/" rel="nofollow" target="_blank">5 million apps</a> combined, with new applications entering the market daily.

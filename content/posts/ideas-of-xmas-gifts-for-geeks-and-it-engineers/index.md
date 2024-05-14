@@ -12,10 +12,10 @@ og_image: gifts-for-engineers.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories: []
 ---
-
 Christmas is a favorite holiday for both children and adults. The pre-holiday fuss is always accompanied by the search for suitable gifts for relatives, friends and colleagues. People always want to choose something original and at the same time useful and pleasant. It's easy enough to please a little boy with a toy car or Lego building blocks. And that is another story to make an adult happier with a gift, especially when he or she interests in the stuff you don't know much about.
 
 The profession of a programmer is special - sometimes you don't understand what he talks or thinks about, as software developers have their own language, peculiar interests and humor. Choosing gifts for engineers is fun. There are a lot of fun gadgets and unusual solutions like engineering toys for adults that programmers would sincerely appreciate. After several years in a team of IT people, I accumulated some experience in a matter of choosing gifts for them and I would like to share that experience with you. In this article you'll find great ideas of gifts for geeks and IT professionals everything from useful to entertaining. It also can fill out your own wish list. Here we go!

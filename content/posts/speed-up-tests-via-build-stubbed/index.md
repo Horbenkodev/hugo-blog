@@ -12,12 +12,12 @@ og_image: build_stubbed.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development
 - Ruby on Rails
 ---
-
 Rspec is an awesome thing that was created for ruby community. Most of us write tests. However, sometimes in large projects our test becomes very slow. So, each launch of the test really hurts and it does not meter whether you launch your test before commit/push or on CI. When it takes over 30 minutes to pass your test suit,  something definitely went wrong.
 
 There are many things that you can improve: database clearing, perform caching, stub external requests and so on.

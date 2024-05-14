@@ -12,6 +12,7 @@ og_image: HR-software-preview.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

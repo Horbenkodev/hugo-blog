@@ -11,11 +11,11 @@ og_image: sports_app.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Sports
 categories: []
 ---
-
 Whether they're playing or watching, digital technology is overhauling how people enjoy – and interact – with their games. We examine the trends that are shaping how the sports industry is using mobile applications to engage with their audience.
 
 ## Why apps are big business in sports

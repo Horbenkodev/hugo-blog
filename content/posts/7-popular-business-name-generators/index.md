@@ -10,6 +10,7 @@ og_image: naming.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

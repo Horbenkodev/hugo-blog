@@ -11,11 +11,13 @@ og_image: HIPAA-compliant-ecommerce.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories:
 - eCommerce
 ---
+Updated 9 September, 2021.
 
 *If your web store deals even partially with protected health information (PHI), then PCI Compliance isn't the only thing you need to concern yourself with. You'll also have to contend with HIPAA - here's how you can do just that.*
 

@@ -12,11 +12,11 @@ og_image: outsourcing_to_europe.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business
 ---
-
 The other day I got really tired after working at my desktop computer so I promised myself to spend the weekend without any gadgets or screens. Guess what? I couldn't live a full life. I had problems paying for my flat, ordering a taxi, getting in touch with friends, making an appointment with my doctor for the next week, reading and simply checking the time. I'm not talking about setting alarms or watching a film online. I'm quite sure that this list will be more or less the same for many people around the globe. Undoubtedly, technology has deeply penetrated into our day-to-day life and has stopped being a luxury, but is rather a necessity now.
 
 ## A bandwagon

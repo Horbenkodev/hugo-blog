@@ -12,12 +12,12 @@ og_image: Project-management.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business
 - Development
 ---
-
 Being the project manager at a [custom software development company](https://anadea.info/services/custom-software-development), I often have to deal with the requests like "I want to do this app for a fixed price, can you do it?" or "Could you tell me a precise cost of my project?". Moreover, clients asking these questions may have just a brief idea of what they want to implement and they may not be sure about all the details of their project, however, they need the answer.
 
 The only way to handle such situations is to introduce a clear process which lets us deliver a software product that meets technical requirements and at the same time achieve desired time / cost outcomes. Basically, this brings us to the necessity to find the right balance between the constraints faced in every IT project: scope, schedule and cost. This is also known as the Triple Constraint or the Project Management Triangle.

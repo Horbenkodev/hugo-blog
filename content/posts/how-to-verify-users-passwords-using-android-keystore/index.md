@@ -12,11 +12,11 @@ og_image: Security-android.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development
 ---
-
 Everybody knows that security is a very important issue for users and therefore developers should take a proper care of it. There are many posts about Android security in the Internet - some of them explain difference between cryptography algorithms, whilst others are dedicated to basics of Android security. In this post I will spotlight a single use case Android developers may face in their work.
 
 Let's assume that we develop an application and we need to identify users - I am talking about a regular login screen. We are developing a standalone application and so we cannot rely on backend user validation capability as we usually do. Of course, we need a secure authorization flow.

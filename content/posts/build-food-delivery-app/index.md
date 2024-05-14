@@ -9,6 +9,7 @@ og_image: larch-conifer-cone-branch-tree-40896.jpeg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - App Ideas

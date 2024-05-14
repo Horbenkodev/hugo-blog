@@ -10,11 +10,11 @@ og_image: start-up-company-motivation-business-concept_1_.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business
 ---
-
 Even though many new ideas sound brilliant in theory, there are no success guarantees in reality. The success of a launch depends on many factors, including... luck. However, blaming bad luck for failure is immature. The reasons can be slightly more complicated, as <a href="https://www.investopedia.com/articles/personal-finance/040915/how-many-startups-fail-and-why.asp" rel="nofollow">nearly 90%</a> of all startups fail.
 
 So, as a business, you have an idea of a solution for a problem and you can’t wait to make it real with a custom application. To estimate its chances to survive in a crowded market, you should test the waters first. At this point, iterative development is what can help. The best option is a **Minimum Viable Product** (MVP).

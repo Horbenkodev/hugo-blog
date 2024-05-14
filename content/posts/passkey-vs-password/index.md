@@ -9,6 +9,7 @@ og_image: password_passkey_socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development
@@ -102,3 +103,72 @@ The main disadvantage is that a passkey is tied to a device. It means that a use
 ### What happens to a passkey if I lose the smartphone where it was generated?
 
 If you lose your smartphone or it is stolen, it doesn’t mean that you won’t be able to get access to your online accounts. You will just need to create a new passkey on a new device.
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+  {
+   "@type": "Question",
+   "name": "What is a password?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "A password can be defined as secret data (as a rule, it will be a string of characters) that is used to gain access to an app, device, or place. It can be a word, a phrase, or just a random combination of letters, numbers, and special characters."
+    }
+   ]
+  },
+  {
+   "@type": "Question",
+   "name": "What is a passkey?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "Passket is a FIDO (Fast Identity Online) credential that is stored on your device and is used to unlock your online accounts. The principle of its work relies on a private cryptographic key and a public cryptographic key. The service where you have your account stores the public key, while the private key will be kept locally (on your device). When you create your account, your passkey is generated. And then, when you need to sign in, your browser or operating system will help the service to use the right passkey and verify you. In general, for a user, this process looks and feels very similar to the cases when they have saved passwords in the browser."
+    }
+   ]
+  },
+  {
+   "@type": "Question",
+   "name": "Will passkeys replace passwords?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "It is highly sensible to presuppose that in the future, passwords will be fully replaced by passkeys. They have a lot of benefits related to security and data protection directly. And also, they are convenient for users: people do not need to learn anything by heart and worry that if they forget their password, they won’t be able to log in."
+    }
+   ]
+  },
+  {
+   "@type": "Question",
+   "name": "What are the differences between passkeys vs. passwods?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "While passwords are user-created and susceptible to phishing, passkeys are automatically generated and resist phishing attempts, making them the more secure and user-friendly option despite being newer."
+    }
+   ]
+  },
+   {
+   "@type": "Question",
+   "name": "Do passkeys have any drawbacks?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "The main disadvantage is that a passkey is tied to a device. It means that a user needs to have this device at hand when he or she wants to log into an account from another PC, laptop, tablet, or mobile phone. But, this issue is fixed by using services like iCloud or password managers like Strongbox. They make sure passkeys can be used on all devices of a user, making it easier and avoiding the hassle of being tied to just one device."
+    }
+   ]
+  },
+  {
+   "@type": "Question",
+   "name": "What happens to a passkey if I lose the smartphone where it was generated?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "If you lose your smartphone or it is stolen, it doesn’t mean that you won’t be able to get access to your online accounts. You will just need to create a new passkey on a new device."
+    }
+   ]
+  }
+ ]
+}
+</script>

@@ -1,0 +1,77 @@
+@mixin light {
+  --main-color: var(--black);
+  --meta-color: var(--mine-shaft);
+  --button-color: var(--white);
+}
+
+@mixin dark {
+  --main-color: var(--white);
+  --meta-color: var(--alto);
+  --button-color: var(--white);
+}
+
+.emptyState {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: clamped(40px, 80px);
+
+  &__title {
+    margin: 0;
+    margin-bottom: 16px;
+    font-size: clamped(22px, 28px);
+    color: var(--main-color);
+  }
+
+  &__text {
+    margin: 0;
+    margin-bottom: clamped(32px, 48px);
+    color: var(--meta-color);
+  }
+
+  &__button {
+    @include mainButton;
+
+    width: 100%;
+    padding: 8px 20px;
+    margin-bottom: clamped(80px, 100px);
+    font-weight: 700;
+    color: var(--button-color);
+    text-align: center;
+    text-decoration: none;
+    border-radius: 8px;
+  }
+
+  &__img {
+    max-width: 284px;
+    margin-bottom: clamped(120px, 160px);
+  }
+}
+
+@include sm {
+  .emptyState {
+    &__button {
+      width: auto;
+    }
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .emptyState {
+    @include dark;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .emptyState {
+    @include light;
+  }
+}
+
+[data-theme='dark'] .emptyState {
+  @include dark;
+}
+
+[data-theme='light'] .emptyState {
+  @include light;
+}

@@ -12,6 +12,7 @@ og_image: health-app.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories: []

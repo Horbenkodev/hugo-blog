@@ -12,6 +12,7 @@ og_image: Workplace-gamification-infographic.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

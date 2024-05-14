@@ -12,12 +12,12 @@ og_image: RoR_developer.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business
 - Ruby on Rails
 ---
-
 When you're looking for an outsourced Ruby on Rails developer for your project, just like with any other third-party provider, you want to find someone who has an extensive experience, easy to collaborate with, and actually does the work that meets your expectations. It may be challenging to detect an expert who truly meets all the requirements and this leaves a lot of entrepreneurs falling into well-known pitfalls associated with hiring the wrong person.
 
 At [Anadea](https://anadea.info/), we've been in the software development industry for over 20 years and we have come to know how important it is for our clients to get a quality software product that serves their unique needs. Not only do we specialize in Ruby on Rails development and building [custom software apps for business](/solutions), we also have a proven track record in refactoring and improving software solutions created by other development teams. This gives us a clear understanding of where the issues can come from and how to develop software that will not cause unwanted headache to our clients. We've come a long way on this front, earned a high standing in custom software development and particularly in providing [Ruby on Rails development services](/services/web-development/ruby-on-rails-development).

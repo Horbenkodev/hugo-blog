@@ -11,11 +11,11 @@ og_image: Advantages-of-java.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development
 ---
-
 The history of Java began in 1995, when the first version of this programming language was released. "Write Once, Run Anywhere" (WORA) was the slogan of the new language. This meant that Java was not just another programming language, but a whole platform which you could use to build applications for everything, from powerful servers in data centers to a coffee machine in your kitchen.
 
 ## How does it work?

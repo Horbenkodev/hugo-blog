@@ -13,11 +13,11 @@ og_image: React-native-app.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development
 ---
-
 <p align="right"><sub>"If you sit by the riverbank for a long time,<br>
 you will see the dead body of the framework,<br>
 which you have long wanted to learn, floating by."</sub></p>

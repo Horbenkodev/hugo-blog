@@ -9,6 +9,7 @@ og_image: passwordless_auth_security_socials.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business
@@ -53,10 +54,7 @@ When our customers turn to us with the question “Is passwordless authenticatio
 - **Implementation costs and complexity**. Some passwordless authentication methods (like biometric-based auth) are related to the necessity to introduce new hardware and software. As a result, it may be rather challenging for organizations to implement them. Moreover, the deployment of this authentication system will also require additional investments.
 - **Single point of failure.** In the case of using passwords, when a person forgets it, as a rule, there is a possibility of resetting a password and getting access to the account. With passwordless auth, there can be much more difficulties, if a person’s biometric data is compromised or something happens to a token device.
 
-<picture>
- <source srcset="Types_of_Passwordless_Authentication-1.png">
- <img src="Types_of_Passwordless_Authentication-1.png" loading="lazy" alt="Passwordless authentication security challenges and solutions">
-</picture>
+![Passwordless authentication security challenges and solutions](Types_of_Passwordless_Authentication-1.png)
 
 ## Passkeys: Are they a viable option for your company?
 
@@ -89,3 +87,42 @@ There are no specific restrictions related to the use of passwordless security m
 ### What are the key benefits of passwordless security methods?
 
 Such methods ensure better user experiences and a higher level of protection in comparison to traditional passwords. People do not need to take care of creating, remembering, and storing passwords, while the risks of various password-based attacks will be eliminated.
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+  {
+   "@type": "Question",
+   "name": "Is passkey safe?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "Definitely yes, at least it is much safer than a password. It is so because the concept of passkeys involves the use of two-factor authentication. It helps to enhance the protection level but it is often ignored by users of those apps and websites that have traditional passwords."
+    }
+   ]
+  },
+  {
+   "@type": "Question",
+   "name": "When is it better not to use passwordless authentication?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "There are no specific restrictions related to the use of passwordless security methods. However, you should bear in mind the learning curve (those users who are accustomed to relying on passwords may face difficulties with utilizing a new approach without proper training) and the investments associated with the implementation of passwordless auth."
+    }
+   ]
+  },
+  {
+   "@type": "Question",
+   "name": "What are the key benefits of passwordless security methods?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "Such methods ensure better user experiences and a higher level of protection in comparison to traditional passwords. People do not need to take care of creating, remembering, and storing passwords, while the risks of various password-based attacks will be eliminated."
+    }
+   ]
+  }
+ ]
+}
+</script>

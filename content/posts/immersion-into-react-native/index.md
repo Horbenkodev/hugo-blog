@@ -11,11 +11,11 @@ og_image: Diving-in-RN.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development
 ---
-
 ## Navigation
 
 The right choice of navigation is a basis of designing applications on React Native. It largely defines the project structure and the performance. At the moment, there are two types of navigation:

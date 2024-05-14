@@ -11,13 +11,13 @@ og_image: digital-ocean-dokku.jpeg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - News
 - Development
 - Ruby on Rails
 ---
-
 In the first article of the series, we recalled the rules of the game and the technical characteristics of the game engine. Now, let's describe how to use DigitalOcean and Dokku to allow players to write a bot in multiple languages, while having guaranteed equal resources in runtime and a pleasant deploy procedure.
 
 The key to the solution is <a href="https://www.docker.com/" target="_blank">Docker</a>. The coolness of this tool can hardly be overestimated, as after its release the learning curve for DevOps has declined significantly. Since then, a regular developer swiftly sets up the environment for any needs, easily and naturally updates the system dependencies and has never heard of conflicts of dependencies…

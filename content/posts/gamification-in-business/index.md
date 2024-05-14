@@ -10,6 +10,7 @@ og_image: 3Z_2104.w026.n002.307B.p1.307__1_.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - eLearning
 - Healthcare

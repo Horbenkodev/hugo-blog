@@ -12,6 +12,7 @@ og_image: cloud_accounting.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business

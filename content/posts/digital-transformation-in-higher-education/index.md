@@ -11,10 +11,13 @@ og_image: higher-education-technology.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - eLearning
 categories: []
 ---
+Updated on 12 August, 2021
+
 <h2>Table of contents</h2>
 <ul>
  <li><a href="#digital-transformation">Digital transformation in education</a></li>

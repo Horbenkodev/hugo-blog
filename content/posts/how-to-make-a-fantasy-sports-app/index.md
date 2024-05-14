@@ -9,11 +9,11 @@ og_image: fantasy_sports_socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Sports
 categories: []
 ---
-
 Why is there so much hype about fantasy sports? To say the least, the industry is making some crazy money, stealing the hearts and minds of sports fans around the world. The article will reveal how you can create a fantasy sports app of your own that will be exciting and profitable at the same time.
 
 ## What are fantasy sports?

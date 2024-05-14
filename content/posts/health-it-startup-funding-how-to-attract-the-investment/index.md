@@ -11,6 +11,7 @@ og_image: health-IT-startup-funding-how-to-attract-the-investment.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories:

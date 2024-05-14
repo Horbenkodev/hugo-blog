@@ -9,6 +9,7 @@ og_image: elearning_website_socials.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - eLearning
 categories: []
@@ -198,3 +199,32 @@ The project timelines, as well as its cost, are greatly impacted by the scope of
 ### Is it a good time to build an elearning website now?
 
 Despite the fact that today, there is already a row of very strong players like Coursera, the chances of succeeding for newcomers are still rather high. The interest in online education is increasing. It means that with a high-quality platform, you will be able to win the hearts of users who are looking for new knowledge.
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+  {
+   "@type": "Question",
+   "name": "How much time will it take to create a eLearning website?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "The project timelines, as well as its cost, are greatly impacted by the scope of work and the complexity of the platform that you want to launch. It can take from 3 months to 1 year. But as soon as the platform is launched, it doesn't mean that the work of your developers will end. We recommend you regularly update your website, enrich it with new features, and integrate it with additional services based on users' needs."
+    }
+   ]
+  },
+  {
+   "@type": "Question",
+   "name": "Is it a good time to build an elearning website now?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "Despite the fact that today, there is already a row of very strong players like Coursera, the chances of succeeding for newcomers are still rather high. The interest in online education is increasing. It means that with a high-quality platform, you will be able to win the hearts of users who are looking for new knowledge."
+    }
+   ]
+  }
+ ]
+}
+</script>

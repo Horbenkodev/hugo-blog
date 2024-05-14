@@ -10,6 +10,7 @@ og_image: small-project-detection.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Machine Learning

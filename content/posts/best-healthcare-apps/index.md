@@ -9,6 +9,7 @@ og_image: sunshine.png
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories: []
@@ -20,14 +21,14 @@ To avoid confusion, it is important to distinguish between apps for self-care, l
 
 Apps falling under the first category, __health apps__, help users better understand how their body works, track their habits, and maintain a healthier lifestyle.
 
-Meanwhile, __healthcare apps__ are used in applied medical practice or for tracking particular medical conditions. That’s why an alternative way to name healthcare apps is __medical apps__. 
+Meanwhile, __healthcare apps__ are used in applied medical practice or for tracking particular medical conditions. That’s why an alternative way to name healthcare apps is __medical apps__.
 
 To explain the difference more clearly, imagine that health apps are vitamins and healthcare, or medical apps, are prescription medications.
 
 ## The great benefits of healthcare apps
 Let’s be brutally honest here: are apps essential for life? Somehow, our ancestors used to make it without mobile devices at all. Apps are a great business and an amazing tool to simplify lives, but definitely not save them.
 
-Well, it is a bit different with health care apps. Saying they save lives are big words, but with no exaggeration, they can contribute to a more efficient patient treatment. 
+Well, it is a bit different with health care apps. Saying they save lives are big words, but with no exaggeration, they can contribute to a more efficient patient treatment.
 
 Medical apps enable faster and more quality patient communication with healthcare practitioners. Doctors can store and input information about patients in one place and share it with other doctors immediately. And one not so evident benefit of apps in healthcare is that they bring some extra profit to doctors.
 
@@ -67,10 +68,10 @@ __Platform:__ Android, iOS.<br />
 __Pricing:__ can be free if insurance is covering televisits.
 
 <a name="heal"></a>
-### Heal – Care in the comfort of home 
+### Heal – Care in the comfort of home
 The creators of Heal describe it as one of the best healthcare apps for patients that delivers awesome healthcare services. As most medicare apps we know, Heal allows setting up calls with doctors and also gives them access to users’ history and info on their conditions.
 
-The distinguishing feature of Heal is integration with the Apple Health app which allows users to share their collected health data with their connected doctor. 
+The distinguishing feature of Heal is integration with the Apple Health app which allows users to share their collected health data with their connected doctor.
 
 On top of that, users have the opportunity to visit the same doctor over and over again unlike with many other apps in which patients are connected with the first available specialist.
 
@@ -79,7 +80,7 @@ __Pricing:__ can be free if insurance is covering televisits.
 
 <a name="eyecarelive"></a>
 ### Eyecarelive – Connection with your eye doctor
-Eyecarelive is a telehealth mobile application for eye treatment. With the app, users can contact their eye care provider through audio or video calls and discuss such eye conditions as dry eye, redness, allergy, and contact lenses issues. Information on ophthalmologic conditions is recorded into the user's medical history for every doctor to see it. 
+Eyecarelive is a telehealth mobile application for eye treatment. With the app, users can contact their eye care provider through audio or video calls and discuss such eye conditions as dry eye, redness, allergy, and contact lenses issues. Information on ophthalmologic conditions is recorded into the user's medical history for every doctor to see it.
 
 Eyecarelive's main features are:
 

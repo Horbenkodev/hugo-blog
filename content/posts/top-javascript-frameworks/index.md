@@ -12,11 +12,11 @@ og_image: Infogr_top-js_frameworks_view.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development
 ---
-
 In the world of [front-end development](https://anadea.info/blog/modern-front-end-pros-and-cons), things are a bit complicated. New frameworks appear all the time, which provides both opportunities and challenges for developers. Forget about tea and cookies, learn new stuff if you want to catch up with the changing world! The situation has become better in the past few years but it's still confusing. Polymer, Aurelia, Sencha, Webix and so on - what's behind all those names? How and when should you use them?
 
 Today we'd like to create a shortcut for you - here are the top 5 popular JS frameworks based on the experiences of our frontend developers.

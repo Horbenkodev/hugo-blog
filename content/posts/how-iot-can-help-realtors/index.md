@@ -11,11 +11,11 @@ og_image: iot-in-real-estate.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Real Estate
 categories: []
 ---
-
 ***The Internet of Things, also known as Connected Devices, are making houses talk. With the advent of IoT in real estate, homes are advancing into sci-fi imagined futures. What was fiction, such as pre-set and remote control for heating, lighting and even food ordering, is becoming reality.***
 
 Can connected devices help realtors and real estate agents and property owners and developers?

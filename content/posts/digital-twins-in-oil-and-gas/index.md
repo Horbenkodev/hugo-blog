@@ -9,6 +9,7 @@ og_image: digital_twins_socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business
@@ -173,3 +174,28 @@ A digital twin is a virtual model that is created to reflect a physical object o
 ### How much does it cost to build a digital twin?
 
 The final cost of your project realization will depend on a wide range of factors, including the complexity of the simulated operations, the volume of data to be processed, the used programming language and other technologies, as well as the size of the development team that you will work with. The simplest solutions for small companies can cost around $30K-$50K. However, oil and gas companies typically require rather complex solutions with rich functionality. The cost of such projects usually starts at around $100K and can reach the level of $1.5M. Before starting project realization, you can ask your development team to provide project estimates. At Anadea, we can do it [for free](https://anadea.info/free-project-estimation).
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+  {
+   "@type": "Question",
+   "name": "What is a digital twin?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "A digital twin is a virtual model that is created to reflect a physical object or real-life process in a digital environment. This solution relies on real-time data and ML algorithms to help companies simulate various 'what-if' scenarios to make better-informed decisions and reduce risks."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "How much does it cost to build a digital twin?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "The final cost of your project realization will depend on a wide range of factors, including the complexity of the simulated operations, the volume of data to be processed, the used programming language and other technologies, as well as the size of the development team that you will work with. The simplest solutions for small companies can cost around $30K-$50K. However, oil and gas companies typically require rather complex solutions with rich functionality. The cost of such projects usually starts at around $100K and beyond. Before starting project realization, you can ask your development team to provide project estimates. At Anadea, we can do it for free."
+   }
+  }
+ ]
+}
+</script>

@@ -11,11 +11,11 @@ og_image: Mobile-privacy.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Mobile
 ---
-
 Mobile users are on edge when it comes to their data privacy, and for good reasons.
 
 Last year's headlines exposed <a href="https://www.popsci.com/last-year-tech-2018/" target="_blank">major privacy breaches</a> from big-name companies that millions of people trusted with sensitive personal data:

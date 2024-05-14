@@ -9,6 +9,7 @@ og_image: hotel-booking-socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Travel
 categories: []
@@ -200,3 +201,5 @@ The cost will depend on many factors including the complexity of your solution, 
 ### How long will it take to build an online hotel booking system?
 
 As well as in the case of project costs, its duration is affected by various factors and conditions. But if we turn to an example of a solution with a standard set of features, its development will take around 12-16 weeks.
+
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is a hotel booking website?","acceptedAnswer":[{"@type":"Answer","text":"It is a website that unites offers from different hotels and allows users to book rooms for the desired periods of time and pay for them online."}]},{"@type":"Question","name":"How much does it cost to create hotel website?","acceptedAnswer":[{"@type":"Answer","text":"The cost will depend on many factors including the complexity of your solution, the number of required integrations, and functionality. The prices usually start at $60K. If you want to get more accurate figures for planning your budget, you can always contact our team and get a quote."}]},{"@type":"Question","name":"How long will it take to build an online hotel booking system?","acceptedAnswer":[{"@type":"Answer","text":"As well as in the case of project costs, its duration is affected by various factors and conditions. But if we turn to an example of a solution with a standard set of features, its development will take around 12-16 weeks."}]}]}</script>

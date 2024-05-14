@@ -9,6 +9,7 @@ og_image: deers.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - eLearning
 categories: []
@@ -38,20 +39,15 @@ Let’s look at the time and cost and team composition to build an MVP version o
 
 The approximate time for development will be about 5-7 months, and the price will start from $128K.
 
-<picture>
- <source srcset="school_management_software_development.jpg">
- <img src="school_management_software_development.jpg" alt="school management software development" loading="lazy">
-</picture>
+![school management software development](school_management_software_development.jpg)
+
 
 __Education administration software__<br />
 The core occupation of the school is teaching students. Education administration software is a lighter version of School Management Software, it helps to automate administrative processes in educational institutions starting from scheduling and classroom administration, finishing with the supervision of an educational process and students’ performance.
 
 The approximate time for development will be about 3 months, and the price will start from $65K with the same team composition.
 
-<picture>
- <source srcset="education_administration_software_development.jpg">
- <img src="education_administration_software_development.jpg" alt="education administration software development" loading="lazy">
-</picture>
+![education administration software development](education_administration_software_development.jpg)
 
 __A specific module__<br />
 Sometimes there’s no need to develop a solution from the ground up. In case you need some functionality to add to the existing solution, you can build some specific module and integrate it with your system. It will cost you about $15-20K and take approximately 1,5-2 months.
@@ -59,10 +55,7 @@ Sometimes there’s no need to develop a solution from the ground up. In case yo
 ## Other types of solutions in education software
 At Anadea, we have 20 years of experience working in the sphere of education. Our team is ready to develop from scratch or enhance existing solutions. __On average, 7-8 weeks of development require a budget of $23,000.__
 
-<picture>
- <source srcset="elearning_software_development_scope_and_cost.png">
- <img src="elearning_software_development_scope_and_cost.png" alt="elearning software development scope and cost" loading="lazy">
-</picture>
+![elearning software development scope and cost](elearning_software_development_scope_and_cost.png)
 
 Here are the different types of solutions that we deliver for institutions that are mostly online business model:
 

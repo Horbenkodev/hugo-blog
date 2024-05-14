@@ -10,6 +10,7 @@ og_image: balloons_socials.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development

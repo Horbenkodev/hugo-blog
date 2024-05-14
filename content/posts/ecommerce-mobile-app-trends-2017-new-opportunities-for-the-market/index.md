@@ -12,6 +12,7 @@ og_image: mobile_commerce.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - eCommerce

@@ -10,6 +10,7 @@ og_image: online_learning_portal_socials.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - eLearning
 categories: []
@@ -26,10 +27,7 @@ If you are considering starting an education portal development project, this ar
 
 An online education portal can be defined as a platform or a web space for educational resources and content. It unites under one roof everything that users may need for going through the learning process: lectures, texts, videos, materials, tests, chats with teachers and other students, etc. In addition to just access to learning materials, such solutions typically offer a row of convenient tools for evaluating students’ knowledge and tracking their progress.
 
-<picture>
- <source srcset="Elements_of_Online_Education_Portals.jpg">
- <img src="Elements_of_Online_Education_Portals.jpg" loading="lazy">
-</picture>
+![](Elements_of_Online_Education_Portals.jpg)
 
 What are the key benefits of eLearning portals?
 
@@ -50,28 +48,21 @@ There are different types of platforms that can be included in this category, su
 
 Coursera is a globally known e-learning portal that can provide anyone with access to online courses and degrees from a wide range of prominent companies and universities. The total number of organizations and institutions that offer their programs via Coursera has already gone beyond 300, while the [number](https://about.coursera.org/press) of registered users is around 129 million. There are hundreds of free courses for learners, but the majority of them are paid. However, users can leverage the possibility of getting scholarships and financial aid.
 
-<picture>
- <source srcset="coursera.jpg">
- <img src="coursera.jpg" loading="lazy">
-</picture>
+![](coursera.jpg)
 
 ### Udemy
 
 This is another popular online learning and teaching marketplace, with 69 million students and over 213000 courses available to them. Udemy sells content on demand. The tuition fees for different courses greatly vary as they depend on the instructor. Everyone can become a student and a tutor, meaning that if you have an idea for launching your course, your main task will be to create the content. The course hosting and promotion will be the responsibility of Udemy, but of course, your reputation as a tutor will also matter. The better reputation you have, the higher your chances to attract learners to your course will be.
 
-<picture>
- <source srcset="udemy.jpg">
- <img src="udemy.jpg" loading="lazy">
-</picture>
+![](udemy.jpg)
+
 
 ### Stanford University Student and Faculty Portal
 
 This online learning portal differs from the ones mentioned above. It is not a widely available but a secured student portal. Users can submit their required data to start their association with the university and interact with the provided materials. It has the functionality required for student enrollment and financial questions, teaching and grading, academic advising, employment, and training, as well as for various administrative processes. Students can also get access to a library of course materials with real-time access, use online test and exam assessment tools, and communicate with other students, administrators, and alumni via online chats and forums.
 
-<picture>
- <source srcset="stanford_axess.png">
- <img src="stanford_axess.png" loading="lazy">
-</picture>
+![](stanford_axess.png)
+
 
 {{< ctabutton href="https://anadea.info/contacts" >}}Create your own platform{{< /ctabutton >}}
 
@@ -116,10 +107,7 @@ While trying to make your solution as unique as possible, you shouldn’t forget
 - **Analytics and reporting.** Users should be able to consider their learning history and monitor their progress. If you add AI-based analytics tools, learners will get personalized content recommendations and tips. Moreover, you can make it possible for administrators to have access to such data as learners' feedback, learning content usage, learners’ performance, time spent on courses, etc.
 - **Social learning and communication.** You can allow users to create and join learning communities, forums, and chats where they can share their thoughts, impressions, and fresh ideas, as well as get some help from others. It will be a good idea to let learners interact with content via comments, likes, and shares.
 
-<picture>
- <source srcset="Essential_eLearning_Platform_Features.jpg">
- <img src="Essential_eLearning_Platform_Features.jpg" loading="lazy">
-</picture>
+![](Essential_eLearning_Platform_Features.jpg)
 
 {{< ctabutton href="https://anadea.info/contacts" >}}Request a free quote{{< /ctabutton >}}
 
@@ -135,10 +123,7 @@ The Nordic Learning Platform empowers students from pre-kindergarten through gra
 - **Smart feedback and recommendations.** The platform provides targeted feedback and suggests additional learning resources based on student progress.
 - **Predictive analytics.** AI helps anticipate student difficulties and recommends interventions before they fall behind.
 
-<picture>
- <source srcset="Nordic_Learning_Platform.jpg">
- <img src="Nordic_Learning_Platform.jpg" loading="lazy">
-</picture>
+![](Nordic_Learning_Platform.jpg)
 
 Feel free to find out more about this project in the [case study](https://anadea.info/projects/nordic-learning-platform).
 
@@ -191,3 +176,32 @@ Cost always depends on many factors and one of the most important of them is the
 ### What can explain the popularity of eLearning portals?
 
 Such solutions can greatly enhance learning experiences. Students can move through the educational journey at their own pace and focus on those topics that are the most challenging or important for them. Students can interact with learning materials at any time of the day from any location. Moreover, very often these portals provide tools for checking knowledge, which helps teachers to better track the progress of their students. As a result, thanks to modern technologies, the learning process becomes more efficient and personalized.
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+  {
+   "@type": "Question",
+   "name": "How much does it cost to build an e-learning portal?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "Cost always depends on many factors and one of the most important of them is the complexity of your project. If you are planning to launch a solution only with a set of basic features, such services will cost around $25K-$50K. In those cases, when it is required to develop advanced functionality (like AI-powered recommendations or chatbots), the cost may go up to $100K or higher. At Anadea, we provide project cost estimates for free—just leave us a request for proposal."
+    }
+   ]
+  },
+  {
+   "@type": "Question",
+   "name": "What can explain the popularity of eLearning portals?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "Such solutions can greatly enhance learning experiences. Students can move through the educational journey at their own pace and focus on those topics that are the most challenging or important for them. Students can interact with learning materials at any time of the day from any location. Moreover, very often these portals provide tools for checking knowledge, which helps teachers to better track the progress of their students. As a result, thanks to modern technologies, the learning process becomes more efficient and personalized."
+    }
+   ]
+  }
+ ]
+}
+</script>

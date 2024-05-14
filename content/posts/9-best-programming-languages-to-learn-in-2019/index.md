@@ -13,6 +13,7 @@ og_image: Programming-languages.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development

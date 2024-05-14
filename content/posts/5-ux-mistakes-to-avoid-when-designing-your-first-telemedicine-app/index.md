@@ -13,6 +13,7 @@ og_image: Mobile-app_ux.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories:

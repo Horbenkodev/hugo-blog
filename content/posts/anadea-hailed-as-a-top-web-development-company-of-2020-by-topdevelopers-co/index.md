@@ -9,6 +9,7 @@ og_image: anadea-hailed-as-a-top-web-development-company-of-2020-by-topdeveloper
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - News

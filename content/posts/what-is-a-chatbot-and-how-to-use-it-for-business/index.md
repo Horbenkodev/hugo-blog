@@ -12,11 +12,11 @@ og_image: what-is-chatbot.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business
 ---
-
 The evolution of artificial intelligence is now in full swing and chatbots are only a faint splash on a huge wave of progress. Today the number of users of messaging apps like WhatsApp, Slack, Skype and their analogs is skyrocketing, Facebook Messenger alone has more than <a href="https://www.statista.com/statistics/417295/facebook-messenger-monthly-active-users/" rel="nofollow" target="_blank">1.2 billion</a> monthly users. With the spread of messengers, virtual chatterbots that imitate human conversations for solving various tasks are becoming increasingly in demand. Chinese WeChat bots can already set medical appointments, call a taxi, send money to friends, check in for a flight and many many other.
 
 Online chatbots save time and efforts by automating customer support. Gartner forecasts that by 2020, over 85% of customer interactions will be handled without a human. However, the opportunites provided by chatbot systems go far beyond giving responses to customers' inquiries. They are also used for other business tasks, like collecting information about users, helping to organize meetings and reducing overhead costs. There is no wonder that <a href="https://www.statista.com/statistics/656596/worldwide-chatbot-market/" rel="nofollow" target="_blank">size of the chatbot market</a> is growing exponentially.

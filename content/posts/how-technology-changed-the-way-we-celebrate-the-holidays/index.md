@@ -12,11 +12,11 @@ og_image: holiday-gift.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business
 ---
-
 Over the years, technology has drastically changed the way we have lived our lives. There is no denying that the modern world is exorbitantly different from the world just 100 years ago. We are currently living in an era that is overwhelmed with technology to make daily living easier, and holidays are not an exception.
 
 With the continual rise of smartphones, social media, and Internet of Things connected devices, there are an abundance of ways the holidays have changed because of the technology we use today. By the year 2020, there will be <a href="https://futurism.com/by-2020-there-will-be-4-devices-for-every-human-on-earth" target="_blank">24 billion internet connected devices</a> installed around the world. That number is more than four devices for every one person on the planet. With the Internet so readily available to more people, communicating and interacting during the holidays is ultimately changing. Just like other types of change, holiday celebrations are neither "better" or "worse" from the past, rather they are different.

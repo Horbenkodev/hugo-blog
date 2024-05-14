@@ -12,11 +12,11 @@ og_image: modern-app-development.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business
 ---
-
 Do you know what you are going to do in 10 years' time? How will your music tastes change? What phone will you buy next? What will your future house or children look like? No matter how much data you gather and how closely you analyze it, how many professionals you involve in your research, it is extremely difficult to find out exactly what the future will be like. Who knows what innovation or discovery will be made that will absolutely change the way we perceive life? All we have left is to predict, make guesses and act accordingly.
 
 Decades ago audio streaming, instant messages and video calls only lived in sci-fi books and our dreams. They used to be a mere fantasy. As for now, no single day passes without the gadgets that make it possible. Who could tell precisely how technology would one day change our lives? In other words, it has always been difficult to talk about the future. Nevertheless, we will never stop trying and will continue to analyze what we have now in order to know what to expect next.

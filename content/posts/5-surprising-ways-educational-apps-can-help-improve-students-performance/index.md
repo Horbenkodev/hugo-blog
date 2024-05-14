@@ -9,6 +9,7 @@ og_image: frog.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - eLearning
 categories: []
@@ -148,3 +149,96 @@ Just a few more things to highlight at the end.
 * Don’t hesitate to reach out if any questions remain. A company with 20+ years of experience in education software development, we are excited to help you with improving your app to make learning easier for everybody.
 
 {{< ctabutton href="https://anadea.info/free-project-estimate" >}}Get an eLearning app quote{{< /ctabutton >}}
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "HowTo",
+ "name": "How to improve my educational app?",
+ "step": [
+  { "@type": "HowToSection",
+   "name": "Preparation",
+   "position": "1",
+   "itemListElement": [
+    {
+     "@type": "HowToStep",
+     "position": "1",
+     "itemListElement": [
+      {
+       "@type": "HowToDirection",
+       "position": 1,
+        "text": "Optimize app performance;"
+      }
+     ]
+    },
+    {
+     "@type": "HowToStep",
+     "position": "2",
+     "itemListElement": [
+      {
+       "@type": "HowToDirection",
+       "position": 1,
+       "text": "Provide advanced statistics for all sides;"
+      }
+     ]
+    },
+    {
+     "@type": "HowToStep",
+     "position": "3",
+       "itemListElement": [
+      {
+       "@type": "HowToDirection",
+       "position": 1,
+       "text": "Take care of students’ health and comfort;"
+      }
+     ]
+    },
+    {
+     "@type": "HowToStep",
+     "position": "4",
+          "itemListElement": [
+      {
+       "@type": "HowToDirection",
+       "position": 1,
+        "text": "Integrate social media;"
+      }
+     ]
+    },
+    {
+     "@type": "HowToStep",
+     "position": "5",
+      "itemListElement": [
+      {
+       "@type": "HowToDirection",
+       "position": 1,
+       "text": "Analyze user behavior;"
+      }
+     ]
+    },
+     {
+     "@type": "HowToStep",
+     "position": "6",
+      "itemListElement": [
+      {
+       "@type": "HowToDirection",
+       "position": 1,
+       "text": "Don’t forget marketing;"
+      }
+     ]
+    },
+    {
+     "@type": "HowToStep",
+     "position": "7",
+      "itemListElement": [
+      {
+       "@type": "HowToDirection",
+       "position": 1,
+       "text": "Grow multi-platform capabilities."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
+</script>

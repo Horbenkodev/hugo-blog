@@ -12,11 +12,11 @@ og_image: super-coder.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business
 ---
-
 As the software development industry is growing at a rapid pace, the need for qualified software developers is also rising each day. When it comes to your software development needs, undoubtedly you only want to partner with a great software developer. However, if you do not have any programming knowledge, how can you find the right software expert?
 
 ## The ideal software developer

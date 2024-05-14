@@ -10,11 +10,13 @@ og_image: Machine-learning-in-healthcare.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories:
 - Machine Learning
 ---
+Updated 10 September,2021
 
 ***According to McKinsey, the U.S. healthcare system generates over 1 trillion gigabytes of data every year. An incredible volume, even in a world that produces more data annually than we have managed in the course of Human history.***
 

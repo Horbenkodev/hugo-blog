@@ -9,12 +9,12 @@ og_image: Predictive-analytics-in-education.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - eLearning
 categories:
 - Machine Learning
 ---
-
 <h2>Table of contents</h2>
 <ul>
  <li><a href="#introduction">Current state of predictive analytics in the Education sector</a></li>

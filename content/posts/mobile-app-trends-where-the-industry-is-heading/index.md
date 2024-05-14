@@ -10,11 +10,11 @@ og_image: woman-checks-results-fitness-training-smartwatch-listens-music-via-hea
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Trends
 ---
-
 By the end of the year, what do technology enthusiasts do? Right, they google what's up with the industry, where it's heading, and what are the trends for the upcoming year. Now it's time to make predictions on what mobile app trends will rule the world in 2023. Some of them emerged years ago, however, it took time for them to expand, and they are gaining true power over the minds of consumers and entrepreneurs only now. Let's get started!
 
 <h2>Table of Contents</h2>

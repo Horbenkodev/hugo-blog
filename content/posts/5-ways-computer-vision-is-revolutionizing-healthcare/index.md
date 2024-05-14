@@ -10,11 +10,14 @@ og_image: Computer-vision-in-medical-field.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories:
 - Machine Learning
 ---
+Updated 13 September, 2021.
+
 ***Computer Vision is an exciting field within Artificial Intelligence (AI) that can read scans, videos and images, then generate actionable information from them.***
 
 In the last few months, as Coronavirus (COVID-19) has swept the world, changing how we live and work, Computer Vision technology has taken on a new level of importance. Coronavirus has infected over a million around the world, so far killing over 40,000, according to daily updates from the World Health Organization (WHO).

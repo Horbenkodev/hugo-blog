@@ -9,11 +9,11 @@ og_image: saas-devops.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - DevOps
 ---
-
 When starting a SaaS-product-based business and hiring a <a href="https://anadea.info/services/saas-development" target="_blank">SaaS app development company</a> to create the desired software, apart from other vital questions businesses want to know who will be in charge of the technical side. While typically custom software development is limited to involving back- and front-end engineers, a designer and a QA specialist, development in the field of cloud-based systems, which SaaS is, often requires a DevOps specialist. In this article, we will explain what they are in charge of and how your SaaS can benefit from DevOps.
 
 ## Why DevOps for SaaS is necessary

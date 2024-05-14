@@ -11,11 +11,11 @@ og_image: Docker-swarm-tutorial.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development
 ---
-
 In this tutorial we'll explore the creation of an Elixir app cluster that is run in Docker Swarm and does properly maintain node connectability as the swarm scales up and down.
 
 ## Intro + tools

@@ -12,6 +12,7 @@ og_image: Programming.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development

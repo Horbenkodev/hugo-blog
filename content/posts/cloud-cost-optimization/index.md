@@ -9,6 +9,7 @@ og_image: cloud_cost_optimization_socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - DevOps
@@ -192,3 +193,32 @@ The most popular and efficient measure that will help you optimize your expenses
 ### Who can help me optimize cloud costs?
 
 If you have (or want to create) a cloud governance team, typically these experts will fulfill such tasks as designing and introducing cloud cost optimization best practices in accordance with your business needs. However, for many businesses, it is just not feasible to have such specialists in-house. That's why you can find a reliable partner like Anadea and cooperate with the best DevOps engineers and cloud software developers who have outstanding expertise in working with cloud services and optimizing their use and costs.
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+  {
+   "@type": "Question",
+   "name": "How can I reduce cloud costs?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "The most popular and efficient measure that will help you optimize your expenses is just to stop paying for resources and services that you do not currently need. When you understand that you overpay, the first thing that you will need to do is to review your billing reports to find out what services are the most expensive and analyze whether you really need them at the scale that you pay for them."
+    }
+   ]
+  },
+  {
+   "@type": "Question",
+   "name": "Who can help me optimize cloud costs?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "If you have (or want to create) a cloud governance team, typically these experts will fulfill such tasks as designing and introducing cloud cost optimization best practices in accordance with your business needs. However, for many businesses, it is just not feasible to have such specialists in-house. That's why you can find a reliable partner like Anadea and cooperate with the best DevOps engineers and cloud software developers who have outstanding expertise in working with cloud services and optimizing their use and costs."
+    }
+   ]
+  },
+ ]
+}
+</script>

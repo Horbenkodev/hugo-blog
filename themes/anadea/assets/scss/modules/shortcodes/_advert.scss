@@ -1,10 +1,10 @@
-$background-color: var(--medium-purple);
+$background-color: var(--persian-rose);
 $text-color: var(--white);
 
 .advert {
   display: flex;
   flex-direction: column;
-  padding: 32px;
+  padding: 16px;
   margin-bottom: 60px;
   background-color: $background-color;
   border-radius: 24px;
@@ -13,11 +13,20 @@ $text-color: var(--white);
     margin: 0;
     font-size: 18px;
     line-height: 28px;
+  }
+
+  p {
     color: $text-color;
   }
 
   a {
     color: $text-color;
     text-decoration: underline;
+  }
+}
+
+@include md {
+  .advert {
+    padding: 32px;
   }
 }

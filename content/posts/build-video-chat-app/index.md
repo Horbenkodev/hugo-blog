@@ -10,6 +10,7 @@ og_image: video_chat_socials.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business
@@ -239,3 +240,32 @@ When you want to build video chat app from scratch, you should know that the pri
 ### Why should I enrich a video chat app with AI functionality?
 
 AI can help you to ensure higher user satisfaction by providing better quality of calls, offering additional tools (like real-time translation, captions, etc.), and letting businesses gather deep insights into their customers' sentiments.
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+  {
+   "@type": "Question",
+   "name": "How much does it cost to make a video chat app?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "When you want to build video chat app from scratch, you should know that the price will depend on many factors, including the technologies that will be used, the complexity and functionality of your app, as well as the rates of the team that will create it. The cost of such development projects may start at $40,000 and reach $100,000 (and go higher if you want to create an advanced feature-rich solution with multiple integrations)."
+    }
+   ]
+  },
+  {
+   "@type": "Question",
+   "name": "Why should I enrich a video chat app with AI functionality?",
+   "acceptedAnswer": [
+    {
+     "@type": "Answer",
+     "text": "AI can help you to ensure higher user satisfaction by providing better quality of calls, offering additional tools (like real-time translation, captions, etc.), and letting businesses gather deep insights into their customers' sentiments."
+    }
+   ]
+  }
+ ]
+}
+</script>

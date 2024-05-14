@@ -11,11 +11,11 @@ og_image: blockchain.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development
 ---
-
 No matter who you are or what industry you work in, you've probably heard way more than you ever wanted to know about blockchain, cryptocurrencies and other related things. However, despite being on everyone's lips, this technology still remains far from broad adoption and full understanding of its potential.
 
 I started my journey into blockchain a year and a half ago and had an opportunity to probe its capabilities on several projects. I'm going to share some high level information about private and public blockchains, use cases for blockchain, and why businesses may need this technology or, just as importantly, why they may not. So, this article is about big picture concepts and tailored for those who are just starting to explore the world of blockchain, thus don't worry if you're not exactly a "tech person". That being said, if you do have a technology background, this will be an awesome refresher of the core concepts and ideas you may have encountered before.

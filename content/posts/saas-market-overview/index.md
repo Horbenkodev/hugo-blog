@@ -9,11 +9,12 @@ og_image: SaaS_market.png
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business
 ---
-Cloud technologies have greatly changed the way business processes are organized. One of the main types of cloud computing services is SaaS (Software-as-a-Service) and that’s exactly what we are going to talk about in this article. 
+Cloud technologies have greatly changed the way business processes are organized. One of the main types of cloud computing services is SaaS (Software-as-a-Service) and that’s exactly what we are going to talk about in this article.
 
 This blog post will cover not only the basic information about the present state of SaaS markets but will also include forecasts for the further growth of the SaaS segment as well as experts’ expectations about its future.
 
@@ -36,7 +37,7 @@ You can read more in one of our blog posts on <a href="https://anadea.info/blog/
 
 If you think that SaaS solutions have a limited target audience, it is not so. Launching such a product you can be sure, that it can attract the attention of both small startups and huge corporations that work in absolutely different industries.
 
-The huge list of advantages that SaaS products are associated with is one of the main boosters for the SaaS market growth. But is the market actively growing now? And what are other factors that have a positive impact on the SaaS market size? 
+The huge list of advantages that SaaS products are associated with is one of the main boosters for the SaaS market growth. But is the market actively growing now? And what are other factors that have a positive impact on the SaaS market size?
 
 ## SaaS industry overview
 According to the data <a href="https://www.grandviewresearch.com/industry-analysis/saas-market-report" target="_blank" rel="nofollow">provided</a> by the Grand View Research company, in 2021, the global SaaS market size reached the mark of $165.9 billion while the projected figure for 2022 is $186.6 billion. A CAGR (compound annual growth rate) for the period from 2022 to 2028 is expected to be around 11%.
@@ -67,14 +68,14 @@ If you are also thinking about the launch of a solution of this type, we strongl
 In order to succeed in launching a software product, it is vital to make sure that it satisfies the current needs of your potential users and meets their expectations when it comes to functionality, navigation, and design. That’s why we’ve decided to prepare this list of SaaS trends. We hope that this list will help you to better understand what kind of SaaS platform will bring the highest real value to users and your business.
 
 ### Trend 1. Mobile-first platform development
-When during the coronavirus lockdowns it became obvious that people needed to have tools that would allow them to work at any location, the demand for mobile solutions jumped. 
+When during the coronavirus lockdowns it became obvious that people needed to have tools that would allow them to work at any location, the demand for mobile solutions jumped.
 
-Some SaaS vendors managed to quickly optimize their existing platforms for providing users the possibility to work with their apps on mobile devices. And it was the right decision on their side. More and more people today access the web via their mobile devices while personal computers are losing their positions. 
+Some SaaS vendors managed to quickly optimize their existing platforms for providing users the possibility to work with their apps on mobile devices. And it was the right decision on their side. More and more people today access the web via their mobile devices while personal computers are losing their positions.
 
 That’s why even when you are working on the development of a business solution, it is important to make it available via a smartphone. Moreover, in many cases, it will be more feasible to start with a mobile product that will be further adapted for being used on a PC.
 
 ### Trend 2. Vertical SaaS
-This type of solution is built for a specific industry, for example, retail, healthcare, or education. Of course, these solutions have a lot in common but they help each business to address their needs more precisely given their industry-specific demands. Thanks to this, the work with SaaS platforms becomes more efficient and result-oriented. 
+This type of solution is built for a specific industry, for example, retail, healthcare, or education. Of course, these solutions have a lot in common but they help each business to address their needs more precisely given their industry-specific demands. Thanks to this, the work with SaaS platforms becomes more efficient and result-oriented.
 
 With the expanding row of companies that change their business processes under the influence of the digital revolution, it has become absolutely clear that there are no “one-size-fits-all” solutions. As a result, today increased demand for custom development and industry-specific apps can be observed. Given this fact, if you are thinking about offering your clients a new software solution, vertical SaaS can be a good option.
 
@@ -103,21 +104,21 @@ But there are also some other indicators that can be viewed as good signs.
 Investments in the SaaS industry are continuously growing. If we take only the US SaaS sector as an example, we will see that in 2021, it attracted a record amount of venture capital investment. More than 4000 deals <a href="https://www.svb.com/industry-insights/enterprise-software/saas-investment-valuation-vc-activity-trends" target="_blank">took place</a> which brought $94 billion in investment. Just compare: in 2020, the investment volume was $38 billion.
 
 It is interesting to note that the average public SaaS business has a <a href="https://www.saastr.com/the-simple-reason-there-are-so-many-saas-unicorns-today/" target="_blank">valuation</a> of around $27 billion. As of December 2022, among the largest SaaS companies based on their market capitalization, we should name Adobe Inc ($153.7 billion), Salesforce Inc ($131.1 billion), and Intuit Inc ($112.3 billion). And given the growing popularity of SaaS solutions and the increasing volumes of end-user spending on public cloud services, we have enough ground to suppose that SaaS businesses will have excellent chances to continue thriving (of course, if they continuously improve their services and adjust them to new market conditions).
- 
+
 ## Let’s boost your business growth with an efficient SaaS platform
 As you can see, the future of the SaaS market looks quite bright and there are no reasons even to think that the demand for SaaS services is going to decrease in the upcoming years. If you are considering a plan to launch your own cloud-based platform that will help your clients and employees in dealing with their everyday tasks, you need to have a reliable development team by your side.
 
 At Anadea, we will be always happy to help you in building a cloud-based solution that will be fully tailored to your needs. Our seasoned developers have a deep understanding of the current market landscape and strong practical skills in using the most cutting-edge tech tools. Want to learn more? Do not hesitate to contact us!
- 
+
 ## Frequently Asked Questions
 ### What is the SaaS industry?
-The SaaS industry is a business branch that unites a wide range of software products and vendors. The main peculiarity that makes them stand out from the row of other providers and solutions is the way of delivering apps as a service over the internet. Users do not need to install these cloud-based apps on their computers and other devices. They get access to them via their web browsers. Thanks to that, these solutions can be available to users regardless of their location if they have an internet connection. These applications are delivered by vendors in accordance with a subscription-based model with flexible pricing. 
+The SaaS industry is a business branch that unites a wide range of software products and vendors. The main peculiarity that makes them stand out from the row of other providers and solutions is the way of delivering apps as a service over the internet. Users do not need to install these cloud-based apps on their computers and other devices. They get access to them via their web browsers. Thanks to that, these solutions can be available to users regardless of their location if they have an internet connection. These applications are delivered by vendors in accordance with a subscription-based model with flexible pricing.
 
 ### How many SaaS companies are there?
 It is quite complicated to name the exact figure. But according to various estimates, as of 2022, there are around 30,000 SaaS companies worldwide and nearly 60% of them are based in the US.
 
 ### How do SaaS companies make money?
-As SaaS companies provide their solutions to users as a service, users pay for using this software. It means that the core source of revenue for such companies is subscription fees. Pricing models can be different. While some businesses choose usage-based pricing, some others adopt a seat-based approach. To attract new users, quite often companies offer so-called freemium deals. These deals include a free trial period that a person can use in order to understand whether the chosen solution is an appropriate one. 
+As SaaS companies provide their solutions to users as a service, users pay for using this software. It means that the core source of revenue for such companies is subscription fees. Pricing models can be different. While some businesses choose usage-based pricing, some others adopt a seat-based approach. To attract new users, quite often companies offer so-called freemium deals. These deals include a free trial period that a person can use in order to understand whether the chosen solution is an appropriate one.
 
 Besides subscriptions, companies can also introduce special premium plans or earn on publishing ads.
 

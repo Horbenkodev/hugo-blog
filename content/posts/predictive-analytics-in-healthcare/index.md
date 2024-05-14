@@ -13,11 +13,13 @@ og_image: Predictive-analytics-in-healthcare.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Healthcare
 categories:
 - Machine Learning
 ---
+Updated on 10 September, 2021.
 
 The healthcare industry is one of the multi-dimensional industries in the world. It caters to many services, including prevention, diagnosis, and treatment of various diseases or impairments in human beings. Health experts and professionals have spent years (decades, even) looking for ways to continuously develop operational efficiency in healthcare.
 

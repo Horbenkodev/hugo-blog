@@ -9,10 +9,12 @@ og_image: edtech-startup.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - eLearning
 categories: []
 ---
+_Updated on August 11, 2022._
 
 <h2>Table of contents</h2>
 <ul>
@@ -246,3 +248,108 @@ In case you decide to create a web solution, you’ll need to create or buy qual
 Anyway, at least now you’ve got an overall notion of how to start an education startup.
 
 {{< ctabutton href="https://anadea.info/free-project-estimate" >}}Let's discuss your idea{{< /ctabutton >}}
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "HowTo",
+ "name": "How to Build an Online Education Startup?",
+ "step": [
+  { "@type": "HowToSection",
+   "name": "Preparation",
+   "position": "1",
+   "itemListElement": [
+    {
+     "@type": "HowToStep",
+     "position": "1",
+     "itemListElement": [
+      {
+       "@type": "HowToDirection",
+       "position": 1,
+        "text": "Set yourself a direction where to move with the idea"
+      }
+     ]
+    },
+    {
+     "@type": "HowToStep",
+     "position": "2",
+     "itemListElement": [
+      {
+       "@type": "HowToDirection",
+       "position": 1,
+       "text": "Do market research"
+      }
+     ]
+    },
+    {
+     "@type": "HowToStep",
+     "position": "3",
+       "itemListElement": [
+      {
+       "@type": "HowToDirection",
+       "position": 1,
+       "text": "Specify a product concept"
+      }
+     ]
+    },
+    {
+     "@type": "HowToStep",
+     "text": "Monetization",
+     "position": "4",
+          "itemListElement": [
+      {
+       "@type": "HowToDirection",
+       "position": 1,
+        "text": "Find a killer feature for your app"
+      }
+     ]
+    },
+    {
+     "@type": "HowToStep",
+     "position": "5",
+      "itemListElement": [
+      {
+       "@type": "HowToDirection",
+       "position": 1,
+       "text": "Think about monetization"
+      }
+     ]
+    },
+    {
+     "@type": "HowToStep",
+     "position": "6",
+      "itemListElement": [
+      {
+       "@type": "HowToTip",
+       "position": 1,
+       "text": "Get education startup funding"
+      }
+     ]
+    },
+    {
+     "@type": "HowToStep",
+     "position": "7",
+      "itemListElement": [
+      {
+       "@type": "HowToTip",
+       "position": 1,
+       "text": "Find an e-Learning development company"
+      }
+     ]
+    },
+    {
+     "@type": "HowToStep",
+     "position": "8",
+      "itemListElement": [
+      {
+       "@type": "HowToTip",
+       "position": 1,
+       "text": "Set up measurable metrics"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
+</script>

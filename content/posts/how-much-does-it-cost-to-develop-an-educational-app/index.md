@@ -13,11 +13,11 @@ og_image: education-app-cost.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - eLearning
 categories: []
 ---
-
 The good thing about the Internet is that sometimes it contains useful information. People who want to learn new skills start their road browsing the web in search of the topic they want to learn. They can find amazing resources that help people learn to play the banjo, speak Italian, play chess or even write software in Ruby on Rails.
 
 When it comes to education, the Internet has changed the game that was in place twenty years ago. It has given opportunities to school teachers, instructors of all kinds and other people who produce high-quality educational content. These people can use well-known platforms such as YouTube or Patreon. But sometimes these platforms are too generic while the content requires a special licensing approach. In this case the content producers need a <a href="https://anadea.info/solutions/e-learning-software-development/lxp" target="_blank">custom e-learning platform</a>, provided by one of trustful educational app development companies.

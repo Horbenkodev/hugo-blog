@@ -13,12 +13,12 @@ og_image: Self_storage_management_software.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development
 - Web
 ---
-
 Self-storage companies lease storage space, such as lockers, containers, and garages, and often have multiple locations with hundreds of units. Managing this business requires specialized management software to keep track of all the units.
 
 Typically, self-storage management systems include features for managing the status of each unit (available, rented, reserved, or disabled), customer accounts and reporting. Some management software may also include additional features such as point of sale, customer notes, digital signature, insurance, payment processing, and accounting.

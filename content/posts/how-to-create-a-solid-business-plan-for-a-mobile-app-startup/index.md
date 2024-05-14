@@ -9,11 +9,11 @@ og_image: planapp.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Business
 ---
-
 __Any venture needs a strategy. Especially if you are just starting. Whatever sector you're in and whether your potential customers are B2C or B2B, this puts you up against a lot of competition. Find out all about drawing a primary business plan for an app startup to have your feet firmly on the ground.__
 
 Guessing and hoping for the best is not the kind of logic an entrepreneur follows. Whether you need to align a team around a vision or raise funding, creating a business plan is a smart use of time. If you are looking to raise Angel, venture capital, or crowdfunding, a solid business plan will help you better see every step of your journey. Put in your mobile app business plan as many learnings from interactions with potential customers as possible, and having paying customers would be a big upside.

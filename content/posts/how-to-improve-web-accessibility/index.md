@@ -9,12 +9,12 @@ og_image: build_accessibility.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Accessibility
 - Web
 ---
-
 <h2>Contents</h2>
 <ol>
  <li><a href="#accessibility_today">Accessibility today - accessibility as a trend, what is web accessibility, regulations.</a></li>

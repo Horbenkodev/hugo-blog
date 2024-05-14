@@ -10,11 +10,11 @@ og_image: Unity-3d.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries: []
 categories:
 - Development
 ---
-
 Before on our blog, we explored the recent advancements in the mobile app development industry. The utilization of virtual and augmented reality, along with customers' fixation on mobile animation, 3D models, visual effects, and gaming elements, have propelled the industry to new heights. However, due to the increasing scale and complexity of app development challenges, developers require innovative tools to combat significant hurdles, not just minor ones. This is why the Unity 3D game engine is worthy of particular attention.
 
 Why choose Unity? It all began with their inclusion of Microsoft HoloLens support in Unity 5.5, followed by maintenance of nearly all VR platforms. Additionally, Unity is ideally suited for building cross-platform applications, requiring only a few clicks to produce a build for another platform. This addresses a frequent issue for customers who desire to release their apps on both iOS and Android.

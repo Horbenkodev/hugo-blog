@@ -10,6 +10,7 @@ og_image: create-real-estate-app.jpg
 promote:
   promote: false
 top: false
+draft: true
 industries:
 - Real Estate
 categories: []
