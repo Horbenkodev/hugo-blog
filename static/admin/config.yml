@@ -3,11 +3,12 @@ local_backend: true
 backend:
   name: git-gateway
   branch: main
+  squash_merges: true
 
 media_folder: "static/img"
 public_folder: "img"
 
-publish_mode: simple
+publish_mode: editorial_workflow
 
 collections:
   - name: "posts"
@@ -23,15 +24,7 @@ collections:
       - {label: "Publish Date", name: "publishDate", widget: "datetime", default: ""}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Og Image", name: "og_image", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Short Description", name: "description", widget: "text"}
-
-      - label: "Questionary"
-        name: "questionary"
-        widget: "list"
-        fields:
-          - {label: Question, name: question, widget: string, required: false}
-          - {label: Answer, name: answer, widget: string, required: false}
 
       - label: "Promote post"
         name: "promote"
@@ -71,7 +64,16 @@ collections:
         search_fields: ["name"]
         display_fields: ["name"]
         value_field: "name"
+      - {label: "Body", name: "body", widget: "markdown"}
+
+      - label: "Questionary"
+        name: "questionary"
+        widget: "list"
+        fields:
+          - {label: Question, name: question, widget: string, required: false}
+          - {label: Answer, name: answer, widget: string, required: false}
     sortable_fields: ["title", "publishDate", "top", "promote.promote"]
+
 
   - label: "Authors"
     label_singular: "Author"
