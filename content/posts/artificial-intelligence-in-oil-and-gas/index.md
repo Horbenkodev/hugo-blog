@@ -16,14 +16,14 @@ categories:
 industries: []
 questionary:
   - question: Is it worth investing in AI for oil and gas market?
-    answer: The demand for various solutions that can help oil and gas companies
+    answer: "  The demand for various solutions that can help oil and gas companies
       increase their productivity is continuously moving higher. AI is one of
       the technologies that can be used by businesses to achieve the set goals.
       Already today AI-powered software is applied for optimizing supply chains,
       providing accurate predictions, reducing downtimes, and streamlining a lot
       of routine operations. As AI has already proved its efficiency in the oil
       and gas industry, investments in such products can become a feasible idea
-      these days.
+      these days."
   - question: Are there any risks of using AI in the oil and gas industry?
     answer: As well as in any other industry, the implementation of AI for oil and
       gas can be associated with some difficulties and pitfalls. First of all,
