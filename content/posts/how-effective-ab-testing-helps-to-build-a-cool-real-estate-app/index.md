@@ -1,21 +1,23 @@
 ---
 title: How Effective A/B Testing Helps to Build a Cool Real Estate App
-publishDate: '2019-07-22T00:00:00Z'
-authors: []
-description: The success of real estate web giants like Zillow, Trulia, StreetEasy
-  consists of many fragments. It looks like a puzzle. Until you put all its fragments
-  in its place, you will not be able to see the overall picture, you will not achieve
-  success until all the components are brought together. Today we are going to talk
-  about one of the fragments - a/b testing for real estate platform.
+draft: false
+publishDate: 2019-07-22T00:00:00.000Z
 image: ab-test-testing.jpg
 og_image: ab-test-testing.jpg
+description: The success of real estate web giants like Zillow, Trulia,
+  StreetEasy consists of many fragments. It looks like a puzzle. Until you put
+  all its fragments in its place, you will not be able to see the overall
+  picture, you will not achieve success until all the components are brought
+  together. Today we are going to talk about one of the fragments - a/b testing
+  for real estate platform.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- Real Estate
+authors:
+  - Web Development Team
 categories: []
+industries:
+  - Real Estate
 ---
 The success of real estate web giants like Zillow, Trulia, StreetEasy consists of many fragments. It looks like a puzzle. Until you put all its fragments in its place, you will not be able to see the overall picture, you will not achieve success until all the components are brought together. Today we are going to talk about one of the fragments - [quality assurance testing services](https://anadea.info/services/quality-assurance) and a/b testing for real estate platform.
 
