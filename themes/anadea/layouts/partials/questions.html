@@ -43,15 +43,15 @@
      "mainEntity": [
       {{ range .}}
         {
-        "@type": "Question",
-        "name": "{{ .question }}",
-        "acceptedAnswer": [
-          {
-          "@type": "Answer",
-          "text": "{{ .answer }}"
-          }
-        ]
-        }
+          "@type": "Question",
+          "name": "{{ .question }}",
+          "acceptedAnswer": [
+            {
+              "@type": "Answer",
+              "text": "{{ .answer }}"
+            }
+          ]
+        },
       {{ end }}
      ]
     }
