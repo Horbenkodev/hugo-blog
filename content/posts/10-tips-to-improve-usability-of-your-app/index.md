@@ -2,8 +2,8 @@
 promote:
   promote: false
 draft: true
-title: "10 Tips to Improve Usability of Your App "
-publishDate: 2018-06-29T00:00:00Z
+title: 10 Tips to Improve Usability of Your App
+publishDate: 2018-06-29T00:00:00.000Z
 image: mobile-user-experience.jpg
 og_image: mobile-user-experience.jpg
 description: Today, we have millions of apps that are available in different
