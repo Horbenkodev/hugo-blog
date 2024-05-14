@@ -21,6 +21,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Slug", name: "slug", widget: "string", required: false}
+      - {label: "Draft", name: "draft", widget: "boolean", default: false}
       - {label: "Publish Date", name: "publishDate", widget: "datetime", default: ""}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Og Image", name: "og_image", widget: "image", required: false}
