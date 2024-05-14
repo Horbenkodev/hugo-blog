@@ -1,20 +1,21 @@
 ---
-title: Top Apps for Developing the Brain and Memory
-publishDate: '2018-05-16T00:00:00Z'
-authors: []
-description: Are you aware that the speed of our brain depends on the number of active
-  networks - axons connecting neurons that actively conduct nerve impulses? The more
-  we train our brains with different exercises, the more different areas of the brain
-  become involved, which leads to an increase in our mental abilities.
-image: Brain-training-app.jpg
-og_image: Brain-training-app.jpg
 promote:
   promote: false
-top: false
 draft: true
-industries: []
+title: "Top Apps for Developing the Brain and Memory "
+publishDate: 2018-05-16T00:00:00Z
+image: Brain-training-app.jpg
+og_image: Brain-training-app.jpg
+description: Are you aware that the speed of our brain depends on the number of
+  active networks - axons connecting neurons that actively conduct nerve
+  impulses? The more we train our brains with different exercises, the more
+  different areas of the brain become involved, which leads to an increase in
+  our mental abilities.
+top: false
+authors: []
 categories:
-- App Ideas
+  - App Ideas
+industries: []
 ---
 Are you aware that the speed of our brain depends on the number of active networks - axons connecting neurons that actively conduct nerve impulses? The brain works through a network of <a href="https://en.wikipedia.org/wiki/Human_brain" rel="nofollow" target="_blank">90 billion neurons</a>, which to date have not been fully understood by neuroscientists so that they can tell us with confidence how this relates to what is commonly called mind. If I try to explain by one sentence, then the more we train our brains with different exercises, the more different areas of the brain become involved, which leads to an increase in our mental abilities.
 
