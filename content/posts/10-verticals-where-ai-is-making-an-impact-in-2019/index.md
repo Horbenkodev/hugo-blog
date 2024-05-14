@@ -1,21 +1,21 @@
 ---
-title: 10 Verticals Where AI Is Making an Impact
-publishDate: '2018-11-29T00:00:00Z'
-authors: []
-description: Once just a sci-fi concept from the movies, AI is now a reality that
-  is completely changing the world. Constant advances in technology made it possible
-  for AI to creep its way into our lives and it's clear that it is definitely here
-  to stay.
-image: ai-business.jpg
-og_image: ai-business.jpg
 promote:
   promote: false
-top: false
 draft: true
-industries: []
+title: " 10 Verticals Where AI Is Making an Impact"
+publishDate: 2018-11-29T00:00:00Z
+image: ai-business.jpg
+og_image: ai-business.jpg
+description: Once just a sci-fi concept from the movies, AI is now a reality
+  that is completely changing the world. Constant advances in technology made it
+  possible for AI to creep its way into our lives and it's clear that it is
+  definitely here to stay.
+top: false
+authors: []
 categories:
-- Business
-- Machine Learning
+  - Business
+  - Machine Learning
+industries: []
 ---
 Once just a sci-fi concept from the movies, AI is now a reality that is completely changing the world. Constant advances in technology made it possible for AI to creep its way into our lives and it's clear that it is definitely here to stay.
 
