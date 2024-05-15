@@ -1,18 +1,45 @@
 ---
-title: 'Native vs Cross-Platform App Development: Our Practical Experience'
-publishDate: '2024-01-04T00:00:00Z'
-authors: []
-description: Navigate the key differences between cross-platform mobile app development
-  vs native as the Anadea team creates the same apps using these two methods.
+title: "Native vs Cross-Platform App Development: Our Practical Experience"
+draft: false
+publishDate: 2024-01-04T00:00:00Z
 image: cross_platform_native.png
 og_image: cross_platform_native_socials.png
+description: Navigate the key differences between cross-platform mobile app
+  development vs native as the Anadea team creates the same apps using these two
+  methods.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - Mobile Development Team
 categories:
-- Development
+  - Development
+  - Mobile
+industries: []
+questionary:
+  - question: What is the main difference between native app development vs
+      cross-platform?
+    answer: Native development implies creating apps tailored to a specific platform
+      using platform-specific languages, while cross-platform development
+      enables the creation of apps that run on multiple platforms with a single
+      codebase. This difference impacts factors like performance, development
+      time, and consistency.
+  - question: Can I switch between native and cross-platform development approaches?
+    answer: In most cases, switching between these approaches mid-project can be
+      challenging (but not impossible). Ideally, the choice between cross
+      platform vs native app development should be made at the project's outset,
+      considering the specific requirements and goals.
+  - question: What is Anadea's experience in Flutter development?
+    answer: Anadea's experience in Flutter development is marked by multiple
+      delivered applications with Pro-Med, imagi Edu, Sports social network, and
+      others among them. Explore our <a href="https://anadea.info/projects"
+      target="_blank">software company portfolio</a> to discover the impactful
+      applications we've crafted in partnership with clients across the globe.
+  - question: What is Anadea's experience in native app development?
+    answer: Anadea boasts a rich track record in native app development, with
+      standout projects such as Admirals and Plei in our portfolio. We invite
+      you to explore our extensive portfolio of delivered projects to see how
+      we've partnered with clients globally to create impactful native apps.
 ---
 When venturing into the mobile space, many businesses face a critical decision: choosing between native vs cross-platform development for their app. Understanding this dilemma, we, the mobile developers at Anadea, embarked on a journey to shed light on this very choice.
 
@@ -80,7 +107,7 @@ Before we start, we'd like to stress that the experiment doesn't claim to be sci
 
 Instead, our goal was to empirically test whether any development approach encountered significant time-consuming issues while implementing the same features. Below, you'll get an inside look at our development process, find some comparative insights, and possibly consider them when choosing a platform for your mobile application.
 
-> **Important:** There are scenarios where it's not practical to develop a mobile application for both Android and iOS. For instance, if one platform dominates the market for the app, or the app's key feature relies on platform-specific functions, like the iPhone's ProRAW photos. These situations are beyond the scope of this article, as they present no real dilemma.
+{{< advert >}}**Important:** There are scenarios where it's not practical to develop a mobile application for both Android and iOS. For instance, if one platform dominates the market for the app, or the app's key feature relies on platform-specific functions, like the iPhone's ProRAW photos. These situations are beyond the scope of this article, as they present no real dilemma.{{< /advert >}}
 
 Now onto the experiment!
 
@@ -94,7 +121,7 @@ We developed a personal productivity app called Smart Reminder, designed to enha
 
 ![Smart Reminder app](smart_reminder.png)
 
-> If you're interested in delving deeper into the creation and conceptualization of Smart Reminder, including the research that shaped our product vision, we've detailed our journey in an insightful **eBook**. To explore our strategies, decisions, and more, you can access the eBook <a href="https://anadea.info/e-books/user-persona-for-mobile-app" target="_blank">here</a>.
+{{< advert_with_cta title="eBook alert!" description="If you're interested in delving deeper into the creation and conceptualization of Smart Reminder, including the research that shaped our product vision, we've detailed our journey in an insightful eBook. Explore our strategies, decisions, and more!" button="Download now" url="https://anadea.info/e-books/user-persona-for-mobile-app" >}}
 
 ### Technology choice
 
@@ -110,7 +137,7 @@ To enhance the functionality of Smart Reminder, we integrated several third-part
 - **Firebase Auth (Google Sign-In):** A secure and convenient authentication system for easy app access.
 - **OpenStreetMap and native frameworks:** OpenStreetMap is used for geolocation reminders on cross-platform and Android, while native Swift frameworks are employed for iOS, ensuring accurate and efficient location-based services.
 
-> **Related read:** <a href="https://anadea.info/guides/custom-development-vs-app-builders" target="_blank">Custom Mobile Development VS App Builder: Which to Choose</a>
+{{< advert >}}**Related read:** <a href="https://anadea.info/guides/custom-development-vs-app-builders" target="_blank">Custom Mobile Development VS App Builder: Which to Choose</a>{{< /advert >}}
 
 ### Experience with Android, iOS, and cross-platform development
 
@@ -164,70 +191,3 @@ The initial phase of our experiment, focusing on MVP creation, highlighted the e
 Our exploration of cross platform vs native app development has shed light on critical considerations for businesses and developers. We've navigated the realms of performance, security, and platform-specific features, revealing the nuances of each method. Yet we believe that every project is unique and the best approach—be it native or cross-platform—varies with each specific case. If you're contemplating the development method for your app idea, we're here to offer guidance and help bring your vision to life.
 
 {{< ctabutton href="https://anadea.info/contacts" >}}Contact us{{< /ctabutton >}}
-
-## Frequently Asked Questions
-
-### What is the main difference between native app development vs cross-platform?
-
-Native development implies creating apps tailored to a specific platform using platform-specific languages, while cross-platform development enables the creation of apps that run on multiple platforms with a single codebase. This difference impacts factors like performance, development time, and consistency.
-
-### Can I switch between native and cross-platform development approaches?
-
-In most cases, switching between these approaches mid-project can be challenging (but not impossible). Ideally, the choice between cross platform vs native app development should be made at the project's outset, considering the specific requirements and goals.
-
-### What is Anadea's experience in Flutter development?
-
-Anadea's experience in Flutter development is marked by multiple delivered applications with Pro-Med, imagi Edu, Sports social network, and others among them. Explore our <a href="https://anadea.info/projects" target="_blank">software company portfolio</a> to discover the impactful applications we've crafted in partnership with clients across the globe.
-
-### What is Anadea's experience in native app development?
-
-Anadea boasts a rich track record in native app development, with standout projects such as Admirals and Plei in our portfolio. We invite you to explore our extensive portfolio of delivered projects to see how we've partnered with clients globally to create impactful native apps.
-
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-   "@type": "Question",
-   "name": "What is the main difference between native app development vs cross-platform?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "Native development implies creating apps tailored to a specific platform using platform-specific languages, while cross-platform development enables the creation of apps that run on multiple platforms with a single codebase. This difference impacts factors like performance, development time, and consistency."
-    }
-   ]
-  },
-  {
-   "@type": "Question",
-   "name": "Can I switch between native and cross-platform development approaches?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "In most cases, switching between these approaches mid-project can be challenging (but not impossible). Ideally, the choice between cross platform vs native app development should be made at the project's outset, considering the specific requirements and goals."
-    }
-   ]
-  },
-  {
-   "@type": "Question",
-   "name": "What is Anadea's experience in Flutter development?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "Anadea's experience in Flutter development is marked by multiple delivered applications with Pro-Med, imagi Edu, Sports social network, and others among them. Explore our software company portfolio to discover the impactful applications we've crafted in partnership with clients across the globe."
-    }
-   ]
-  },
-  {
-   "@type": "Question",
-   "name": "What is Anadea's experience in native app development?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "Anadea boasts a rich track record in native app development, with standout projects such as Admirals and Plei in our portfolio. We invite you to explore our extensive portfolio of delivered projects to see how we've partnered with clients globally to create impactful native apps."
-    }
-   ]
-  }
- ]
-}
-</script>
