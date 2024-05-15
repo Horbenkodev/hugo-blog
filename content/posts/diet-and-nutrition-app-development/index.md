@@ -91,6 +91,10 @@ Instead of giving a list of all the possible features of diet tracking software,
 * **Registration/Log in.**
 * **Onboarding.** User enters their current weight and desired weight. Based on these measurements, the app calculates BMI and optimal calorie intake for losing or gaining weight in a healthier way. Or, the user can set a desired calorie limit themselves.
 
+  {{< advert >}}Text{{< /advert >}}
+
+
+
 > **Important note.** Given the incidence of eating disorders, which <a href="https://www.nationaleatingdisorders.org/statistics-research-eating-disorders" target="_blank" rel="nofollow">30 million Americans</a> struggle with, don’t allow for setting up extra low calorie limits per day without notifying users of the danger. Commonly, the <a href="https://www.nhs.uk/common-health-questions/food-and-diet/what-should-my-daily-intake-of-calories-be/" target="_blank" rel="nofollow">recommended daily calorie intake</a> is 2.000 calories for women and 2.500 for men, or slightly less for weight loss. Your goal is to help people, not support a harmful lifestyle.
 
 * **Integration with food/ingredients database API** like <a href="https://spoonacular.com/food-api" target="_blank" rel="nofollow">Spoonacular</a> that comprises the most popular products and their nutritional value. Possibility to add new items to the catalog for custom meals or rare products.
@@ -140,7 +144,7 @@ Instead of giving a list of all the possible features of diet tracking software,
 * Categorized **catalog** of recipes: breakfasts, soups, desserts, vegan meals, etc.
 * **Ability to add recipes to bookmarks** and categorize bookmarks, rate recipes and mark them cooked, and leave comments. Content management system to publish users’ own recipes, indicating the ingredient list, time to cook, nutritional value of the meal, number of servings, and cooking order.
 
-> Recipes in your app can be dedicated to a certain diet, such as for athletes, low carb, vegetarian/vegan/paleo, gluten/lactose-free diet, lent, etc.
+{{< advert >}}Recipes in your app can be dedicated to a certain diet, such as for athletes, low carb, vegetarian/vegan/paleo, gluten/lactose-free diet, lent, etc.{{< /advert >}}
 
 * **Suggestion module.** Based on what the user added to bookmarks or cooked, the diet recipe app can suggest recipes of similar ingredients, calorie value, or other things in common.
 * **Filter feature** to search for recipes with a particular ingredient or, contrarily, exclude the ingredients the user prefers to avoid from search results.
