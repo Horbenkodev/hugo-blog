@@ -155,6 +155,7 @@ The table below shows use cases for Flutter and native technologies.
  </tr>
  <tr>
   <td>Build Gaming apps</td>
+  <td></td>
  </tr>
 </table>
 
