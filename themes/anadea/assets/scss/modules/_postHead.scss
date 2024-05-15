@@ -1,9 +1,6 @@
-$background-color: var(--white);
-$text-color: var(--black);
-
 @mixin light {
   --main-text: var(--black);
-  --date-text: var(--slate-gray);
+  --date-text: var(--emperor);
   --background-color: var(--white);
 }
 
