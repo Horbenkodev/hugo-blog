@@ -12,5 +12,7 @@ promote:
   promote: true
   promote_url: https://marketbusinessnews.com/big-ecological-deal-for-small-businesses-the-electric-car-schemes-business-model/320785/
 top: false
+authors:
+  - Marketing Team
 ---
 Big Ecological Deal for Small Businesses. The Electric Car Scheme’s Business Model
