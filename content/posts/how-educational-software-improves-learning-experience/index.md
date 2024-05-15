@@ -1,6 +1,6 @@
 ---
 title: How to Create Educational Software for Schools
-draft: false
+draft: true
 publishDate: 2022-08-05T00:00:00.000Z
 image: deers.jpg
 og_image: deers.jpg
