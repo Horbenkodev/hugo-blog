@@ -10,8 +10,8 @@ $grid-gap: clamped(16px, 22px);
 }
 
 @mixin dark {
-  --border-color: var(--white);
-  --main-text: var(--white);
+  --border-color: var(--emperor);
+  --main-text: var(--alto);
   --meta-text: var(--silver);
   --background-color: var(--black);
 }
