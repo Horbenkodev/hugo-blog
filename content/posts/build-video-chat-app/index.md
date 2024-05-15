@@ -1,7 +1,7 @@
 ---
 title: How to Build a Video Chat App and Beat Competition
 draft: false
-publishDate: 2023-09-06T00:00:00Z
+publishDate: 2023-09-06T00:00:00.000Z
 image: video_chat.png
 og_image: video_chat_socials.png
 description: A video conferencing app can become a key channel for interaction
@@ -10,7 +10,8 @@ description: A video conferencing app can become a key channel for interaction
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - Web Development Team
 categories:
   - Business
 industries: []
