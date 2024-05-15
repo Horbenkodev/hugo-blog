@@ -84,9 +84,9 @@ can take the information received during usability studies or interviews
 with users. In other words, you can just take direct quotes and add them
 to your map. For example, it can be some phrases like
 
--  "I always have difficulties in using the app as the navigation is too complicated".
--  "I always have worries about the safety of my funds during transactions".
--  "I like this service because there are a lot of bonuses for clients".
+* "I always have difficulties in using the app as the navigation is too complicated".
+* "I always have worries about the safety of my funds during transactions".
+* "I like this service because there are a lot of bonuses for clients".
 
 The **"Thinks"** part is more challenging to fill in if we compare it with
 the previous one. In this case, you can't just take the words of users.
@@ -98,26 +98,26 @@ their opinions (especially if they are negative). It happens because
 they do not want to seem impolite or even rude. That's why you should
 try to understand what users may really think.
 
--  "This advertising is too annoying".
--  "I wish the company provided more special offers for users of this application".
--  "It is impossible to win, I do not want to play anymore".
+* "This advertising is too annoying".
+* "I wish the company provided more special offers for users of this application".
+* "It is impossible to win, I do not want to play anymore".
 
 The **"Does"** section covers those steps and actions that a person
 performs. Here you do not need to take into account any words, here only
 actions matter. It means that you should analyze what a person does.
 
--  Opens and closes the page several times.
--  Tries to compare prices offered by different online stores.
--  Makes a decision really fast.
+* Opens and closes the page several times.
+* Tries to compare prices offered by different online stores.
+* Makes a decision really fast.
 
 The content of the **"Feels"** section is often presented as a list of
 adjectives. It should describe the emotions that the user feels. While
 filling in this quadrant, you need to think about impressions that the
 person may have during interaction with your solution.
 
--  Confused: lack of detailed information about the offered products.
--  Irritated: it is unclear how to place an order.
--  Happy: it is simple and fast to interact with an app.
+* Confused: lack of detailed information about the offered products.
+* Irritated: it is unclear how to place an order.
+* Happy: it is simple and fast to interact with an app.
 
 Empathy mapping may be a rather confusing task if you have never done it
 before. Sometimes you will find out that people express rather neutral
@@ -158,7 +158,9 @@ will be able to have a look at how your product is perceived by the
 group in general and such an empathy map can be used for creating user
 personas as it helps to visualize your knowledge about users. However, take into account that user personas should be still created.
 
-{{< advert_with_cta title="eBook alert!" description='"Your Mobile App & The User Persona You Should Have"' button="Download now" >}}
+{{< advert_with_cta title="eBook alert!" description=\`"Your Mobile App & The User Persona You Should Have"\` button="Download now" >}}
+
+
 
 Aggregated maps can be created based on the information gathered during
 field studies and surveys and can help you summarize the collected data.
@@ -185,47 +187,38 @@ perspective for looking at users.
 
 What does empathy mapping help to do?
 
-- **To understand who a user is.** While studying what your users think, what they do, what emotions they have, and how they interact with your product, you can find out the needs and expectations of people which can help you to see how you can adjust your solution to them. Moreover, thanks to empathy mapping UX experts can detect the knowledge gaps your team still has. Based on their opinion, you can conduct additional surveys and studies to get enough information for your further project realization.
-
-- **To better explain to all the team members who a user is.** A design thinking empathy map is an excellent tool to use within a team. Thanks to a convenient form of presenting the information, all team members can easily see what attitudes people have and what behaviors are demonstrated by them. After the creation of such a map, it can be used during the entire project realization process.
-
-- **To gather data directly from users.** It is also possible to provide users with all the required tools for filling in such maps fully on their own. You can utilize such a chance as a secondary source of data. You should also bear in mind that on the one hand, while sharing any data without an interviewer, people can stay more open, but on the other hand, there is still a probability that they will be ashamed to share their real thoughts. It means that even in this case, some part of the information may stay hidden.
+* **To understand who a user is.** While studying what your users think, what they do, what emotions they have, and how they interact with your product, you can find out the needs and expectations of people which can help you to see how you can adjust your solution to them. Moreover, thanks to empathy mapping UX experts can detect the knowledge gaps your team still has. Based on their opinion, you can conduct additional surveys and studies to get enough information for your further project realization.
+* **To better explain to all the team members who a user is.** A design thinking empathy map is an excellent tool to use within a team. Thanks to a convenient form of presenting the information, all team members can easily see what attitudes people have and what behaviors are demonstrated by them. After the creation of such a map, it can be used during the entire project realization process.
+* **To gather data directly from users.** It is also possible to provide users with all the required tools for filling in such maps fully on their own. You can utilize such a chance as a secondary source of data. You should also bear in mind that on the one hand, while sharing any data without an interviewer, people can stay more open, but on the other hand, there is still a probability that they will be ashamed to share their real thoughts. It means that even in this case, some part of the information may stay hidden.
 
 When you have enough information about users and can efficiently use it
 in your product creation, you can achieve the following results:
 
--  Higher user satisfaction;
--  Increased conversion rate;
--  Enhanced loyalty;
--  Better profits.
+* Higher user satisfaction;
+* Increased conversion rate;
+* Enhanced loyalty;
+* Better profits.
 
 ## How to make an empathy map?
 
 The process of empathy mapping typically includes the following steps.
 
 1. **Scope definition.** First of all, you need to understand whether you need to analyze an individual user, a user persona, or a group of users. Then you should decide on the exact goal that you have. Do you want to use this tool just for a better understanding of the people who use or will use your product or do you have a more precise goal? For example, do you need to analyze your audience to deliver a special tool that will be of great use during the holiday season? In the second case, you will have set time frames which will also have an impact on your working process.
-
 2. **Collecting information.** To prepare an empathy map you should gather enough materials. There can be different methods for that, such as surveys, user interviews, diary studies, field studies, etc.
-
 3. **Accumulating the material that you have.** If you are working alone, you can use any methods and techniques that you like. If you are working with a team, it will be a good idea to use sticky notes, whiteboards, and online collaboration tools that will allow all team members to share their ideas.
-
 4. **Grouping ideas for each section.** When you have enough information, you will need to analyze which quadrant each thesis will suit. In this case, sticky notes will be very convenient to use. You can easily move them if you decide that this or that idea will be more appropriate for another section. Today there is a wide choice of empathy map canvas options. That's why for your convenience, you can choose one of them.
-
 5. **Summarizing what you have.** After placing all notes in the corresponding section, you need to analyze whether everything is really okay with your map and whether all team members agree with the results. You can discuss whether your findings are sufficient and whether any additional studies are required. Namely, thanks to an empathy map design thinking can bring the best results as the creation of a UX empathy map is the first step of this framework. That's why you should pay enough attention to evaluating the quality of the materials and information that you have at your disposal.
 
 ![How to create an empathy map](How_to_Create_an_Empathy_Map__Step-by-Step_Process.png)
 
-
 ## How to use a design thinking map?
+
 Let's imagine that you have already created an empathy map. But what can you do next? How to utilize it?
 
-- **Find out patterns in user behavior and discover new opportunities.** Thanks to the visualization of the data that you've gathered in various studies, you can quickly identify the existing patterns and explore areas for improving your product and, consequently, user experience.
-
-- **Refine user personas.** Thanks to better seeing what people think about your offer, you can improve user personas by expanding and updating the information that you have.
-
-- **Enhance user journey.** It will be helpful to combine such tools as user journey maps with empathy maps to get a full picture of the user experience that you provide. By doing this, you can identify at what points users face frustrations or challenges. Based on the results of such analysis, you can deliver adequate solutions.
-
-- **Make better-informed design decisions.** After defining the specific needs of your users, you can better address them with your solution. It means that thanks to empathy mapping, you can deliver more impactful and valuable products.
+* **Find out patterns in user behavior and discover new opportunities.** Thanks to the visualization of the data that you've gathered in various studies, you can quickly identify the existing patterns and explore areas for improving your product and, consequently, user experience.
+* **Refine user personas.** Thanks to better seeing what people think about your offer, you can improve user personas by expanding and updating the information that you have.
+* **Enhance user journey.** It will be helpful to combine such tools as user journey maps with empathy maps to get a full picture of the user experience that you provide. By doing this, you can identify at what points users face frustrations or challenges. Based on the results of such analysis, you can deliver adequate solutions.
+* **Make better-informed design decisions.** After defining the specific needs of your users, you can better address them with your solution. It means that thanks to empathy mapping, you can deliver more impactful and valuable products.
 
 Actually, placing users and their needs at the center of building
 solutions is not something extraordinarily new. This approach has been
