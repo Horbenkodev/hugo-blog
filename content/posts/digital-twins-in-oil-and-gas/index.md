@@ -1,7 +1,7 @@
 ---
 title: "Digital Twins in Oil and Gas: Core Insights"
 draft: false
-publishDate: 2023-10-16T00:00:00Z
+publishDate: 2023-10-16T00:00:00.000Z
 image: digital_twins.png
 og_image: digital_twins_socials.png
 description: Learn about the benefits of digital twins in oil and gas industry
@@ -34,8 +34,6 @@ questionary:
       we can do it for free.
 ---
 Modern technologies can greatly change the way different enterprises carry out their processes and manage their assets. One of these types of solutions that have the greatest potential to help companies make better-informed decisions and, consequently achieve better results, is digital twins. Let's put it as simply as possible. Digital twins can be explained as digital representations of physical objects, processes, or even people that are placed in a digital version of their real-time environment. It means that such simulations help businesses see what outcomes they can get in different situations and be better prepared for possible negative impacts of their decisions.
-
-![](digital_twins.png)
 
 Today digital twins can be created for companies of different types but in this article, we'd like to focus on those solutions that are applied by oil and gas enterprises. This industry has been the backbone of the economy for many years and any operational inefficiency or wrongly taken decision can cause serious consequences for many markets. Oil and gas companies are among the richest and the most valuable in the world. However, they suffer from market volatility, environmental concerns, and other challenges that are pushing them to look for new ways to operate their assets and build their market strategy. Digital twins in oil and gas industry are among those solutions that can help enterprises to transform their operations and innovate their approaches to business.
 
@@ -132,7 +130,7 @@ The experience of enterprises that use digital twins has proven that thanks to t
 
 Given all the benefits that AI brings to the industry, it is absolutely clear why developers pay a lot of attention to the ways to efficiently integrate this technology into digital twins and other solutions for gas and oil companies. And in this case, it is important to rely on a development partner, like Anadea, that has relevant expertise in [AI and ML services](https://anadea.info/services/machine-learning-software-development) to achieve the best results.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Talk to an expert{{< /ctabutton >}}
+{{< advert_with_cta title="Interested in AI implementation?" description="Contact us and get a consultation from top AI experts" button="Book a consultation" >}}
 
 ## Challenges in the implementation of digital twins in oil and gas
 
