@@ -8,7 +8,7 @@
     {{ end }}
     {{ if not .IsHome }}
     <li class="breadcrumbs__item">
-      <a aria-current="page" class="breadcrumbs__link" href="{{ .RelPermalink }}">{{ .Title }}</a>
+      <a aria-current="page" class="breadcrumbs__link" href="{{ .RelPermalink }}">{{ or .Params.breadcrumbs .Title }}</a>
     </li>
     {{ end }}
   </ol>
