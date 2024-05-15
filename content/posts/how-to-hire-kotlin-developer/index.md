@@ -1,7 +1,7 @@
 ---
 title: "How to Hire Kotlin Developer: Practical Steps"
 draft: false
-publishDate: 2023-11-24T00:00:00Z
+publishDate: 2023-11-24T00:00:00.000Z
 image: kotlin_developers.png
 og_image: kotlin_developers_socials.png
 description: Given the popularity of Kotlin for mobile and web apps a lot of
@@ -84,8 +84,6 @@ Among other popular requirements, we should mention familiarity with the Agile d
 In accordance with the seniority level that developers have you can also expect from them different speeds of performing tasks and different abilities in addressing issues without external help and guidance.
 
 {{< advert_with_cta title="Speak to Kotlin experts" description="Ask them anything you'd like to know about software development with Kotlin" button="Get in touch" >}}
-
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Speak to Kotlin experts{{< /ctabutton >}}
 
 ## Where can you hire Kotlin developers?
 
