@@ -1,18 +1,37 @@
 ---
-title: 'Digital Twins in Oil and Gas: Core Insights'
-publishDate: '2023-10-16T00:00:00Z'
-authors: []
-description: Learn about the benefits of digital twins in oil and gas industry and
-  find out whether it’s worth investing in such solutions.
+title: "Digital Twins in Oil and Gas: Core Insights"
+draft: false
+publishDate: 2023-10-16T00:00:00Z
 image: digital_twins.png
 og_image: digital_twins_socials.png
+description: Learn about the benefits of digital twins in oil and gas industry
+  and find out whether it’s worth investing in such solutions.
 promote:
   promote: false
-top: false
-draft: true
-industries: []
+top: true
+authors:
+  - AI/ML Team
 categories:
-- Business
+  - Business
+industries:
+  - Oil and Gas
+questionary:
+  - question: What is a digital twin?
+    answer: A digital twin is a virtual model that is created to reflect a physical
+      object or real-life process in a digital environment. This solution relies
+      on real-time data and ML algorithms to help companies simulate various
+      'what-if' scenarios to make better-informed decisions and reduce risks.
+  - question: How much does it cost to build a digital twin?
+    answer: The final cost of your project realization will depend on a wide range
+      of factors, including the complexity of the simulated operations, the
+      volume of data to be processed, the used programming language and other
+      technologies, as well as the size of the development team that you will
+      work with. The simplest solutions for small companies can cost around
+      $30K-$50K. However, oil and gas companies typically require rather complex
+      solutions with rich functionality. The cost of such projects usually
+      starts at around $100K and beyond. Before starting project realization,
+      you can ask your development team to provide project estimates. At Anadea,
+      we can do it for free.
 ---
 Modern technologies can greatly change the way different enterprises carry out their processes and manage their assets. One of these types of solutions that have the greatest potential to help companies make better-informed decisions and, consequently achieve better results, is digital twins. Let's put it as simply as possible. Digital twins can be explained as digital representations of physical objects, processes, or even people that are placed in a digital version of their real-time environment. It means that such simulations help businesses see what outcomes they can get in different situations and be better prepared for possible negative impacts of their decisions.
 
@@ -164,38 +183,3 @@ Digital twins unite the power of a row of cutting-edge technologies like IoT, AI
 If you already have an idea for creating such a solution and you are looking for a development team, at Anadea, we are always at your disposal. Just leave your inquiry!
 
 {{< ctabutton href="https://anadea.info/free-project-estimate" >}}Get a free quote{{< /ctabutton >}}
-
-## Frequently Asked Questions
-
-### What is a digital twin?
-
-A digital twin is a virtual model that is created to reflect a physical object or real-life process in a digital environment. This solution relies on real-time data and ML algorithms to help companies simulate various "when-if" scenarios to make better-informed decisions and reduce risks.
-
-### How much does it cost to build a digital twin?
-
-The final cost of your project realization will depend on a wide range of factors, including the complexity of the simulated operations, the volume of data to be processed, the used programming language and other technologies, as well as the size of the development team that you will work with. The simplest solutions for small companies can cost around $30K-$50K. However, oil and gas companies typically require rather complex solutions with rich functionality. The cost of such projects usually starts at around $100K and can reach the level of $1.5M. Before starting project realization, you can ask your development team to provide project estimates. At Anadea, we can do it [for free](https://anadea.info/free-project-estimation).
-
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-   "@type": "Question",
-   "name": "What is a digital twin?",
-   "acceptedAnswer": {
-    "@type": "Answer",
-    "text": "A digital twin is a virtual model that is created to reflect a physical object or real-life process in a digital environment. This solution relies on real-time data and ML algorithms to help companies simulate various 'what-if' scenarios to make better-informed decisions and reduce risks."
-   }
-  },
-  {
-   "@type": "Question",
-   "name": "How much does it cost to build a digital twin?",
-   "acceptedAnswer": {
-    "@type": "Answer",
-    "text": "The final cost of your project realization will depend on a wide range of factors, including the complexity of the simulated operations, the volume of data to be processed, the used programming language and other technologies, as well as the size of the development team that you will work with. The simplest solutions for small companies can cost around $30K-$50K. However, oil and gas companies typically require rather complex solutions with rich functionality. The cost of such projects usually starts at around $100K and beyond. Before starting project realization, you can ask your development team to provide project estimates. At Anadea, we can do it for free."
-   }
-  }
- ]
-}
-</script>
