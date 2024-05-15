@@ -69,7 +69,7 @@
     font-weight: 400;
     color: var(--description-color);
 
-    @include multiline-ellipsis(5);
+    @include multiline-ellipsis(4);
   }
 
   &__tags {
