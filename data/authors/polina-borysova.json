@@ -1,1 +1,8 @@
-{"team":false,"avatar":"/img/avatars/borysova.jpg","name":"Polina Borysova","description":"","shortDescription":""}
+{
+  "team": false,
+  "avatar": "/img/avatars/borysova.jpg",
+  "name": "Polina Borysova",
+  "description": "Polina is a front-end developer who crafts user experiences with the precision of a sculptor. A master of the core front-end technologies, Polina's code is elegant, efficient, and delivers stunning results. Her insatiable curiosity keeps her on the pulse of trending tools and frameworks, ensuring her work is always ahead of the curve.",
+  "shortDescription": "Polina is a front-end developer who crafts user experiences with the precision of a sculptor. A master of the core front-end technologies, Polina's code is elegant, efficient, and delivers stunning results.",
+  "position": "Front-end Developer"
+}
