@@ -1,7 +1,7 @@
 ---
 title: Top Cloud Cost Optimization Strategies
 draft: false
-publishDate: 2023-10-31T00:00:00Z
+publishDate: 2023-10-31T00:00:00.000Z
 image: cloud_cost_optimization.png
 og_image: cloud_cost_optimization_socials.png
 description: Cloud spendings are getting out of control? Learn about the top
@@ -9,7 +9,8 @@ description: Cloud spendings are getting out of control? Learn about the top
 promote:
   promote: false
 top: true
-authors: []
+authors:
+  - Alexander Mikhalchenko
 categories:
   - DevOps
 industries: []
