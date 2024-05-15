@@ -158,3 +158,14 @@ collections:
         display_fields: ["name"]
         value_field: "name"
     sortable_fields: ["name"]
+
+  - name: "site_settings"
+    label: "Site Settings"
+    files:
+      - file: "config/_default/params.yml"
+        label: Hugo Params
+        name: config
+        editor:
+          preview: false
+        fields:
+          - {label: "Indexing", name: "indexing", widget: "boolean"}

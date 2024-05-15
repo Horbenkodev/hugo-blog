@@ -4,6 +4,9 @@
 <meta property="twitter:creator" content="@Anadea_Info">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="og:url" content="{{ .Permalink }}">
+{{ if not site.Params.indexing }}
+  <meta name="robots" content="noindex, nofollow" />
+{{ end }}
 
 {{ if .IsPage }}
   <title>{{ .Title }}</title>
