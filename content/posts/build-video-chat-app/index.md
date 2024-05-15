@@ -1,19 +1,33 @@
 ---
 title: How to Build a Video Chat App and Beat Competition
-publishDate: '2023-09-06T00:00:00Z'
-authors: []
-description: A video conferencing app can become a key channel for interaction with
-  your audience. Read our article to get tips that will help you make a video chat
-  app.
+draft: false
+publishDate: 2023-09-06T00:00:00Z
 image: video_chat.png
 og_image: video_chat_socials.png
+description: A video conferencing app can become a key channel for interaction
+  with your audience. Read our article to get tips that will help you make a
+  video chat app.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- Business
+  - Business
+industries: []
+questionary:
+  - question: How much does it cost to make a video chat app?
+    answer: When you want to build video chat app from scratch, you should know that
+      the price will depend on many factors, including the technologies that
+      will be used, the complexity and functionality of your app, as well as the
+      rates of the team that will create it. The cost of such development
+      projects may start at $40,000 and reach $100,000 (and go higher if you
+      want to create an advanced feature-rich solution with multiple
+      integrations).
+  - question: Why should I enrich a video chat app with AI functionality?
+    answer: AI can help you to ensure higher user satisfaction by providing better
+      quality of calls, offering additional tools (like real-time translation,
+      captions, etc.), and letting businesses gather deep insights into their
+      customers' sentiments.
 ---
 Decades ago businesses had a very limited set of tools and channels for communicating with their clients, partners, suppliers, and authorities. The interaction was based mainly on phone calls and paper letters but their deliveries could take weeks if not longer in the case of international communication. With the introduction of the internet, everything was changed. Now businesses rely on emails and chats while traditional post services now have a supportive role.
 
@@ -93,7 +107,7 @@ But as we've already mentioned, people started to use video conferencing apps si
 
 - **Sentiment analysis for customer service applications.** Your AI-powered app will be able to understand and process natural language as well as identify subjective information in opinions voiced by your customers. It will help you to gather valuable insights into their real thoughts about your brand, products, and services. Further, you will be able to use this info to make better decisions regarding your business development and product enhancements.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Hire AI developers{{< /ctabutton >}}
+{{< advert_with_cta title="Interested in AI implementation?" description="Contact us and get a consultation from top AI experts" button="Book a consultation" >}}
 
 ## How to integrate AI in the right way?
 
@@ -230,42 +244,3 @@ At Anadea, we have impressive expertise in building solutions of absolutely diff
 Just share your ideas with us and we will provide a project estimate for free.
 
 {{< ctabutton href="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}
-
-## Frequently Asked Questions
-
-### How much does it cost to make a video chat app?
-
-When you want to build video chat app from scratch, you should know that the price will depend on many factors, including the technologies that will be used, the complexity and functionality of your app, as well as the rates of the team that will create it. The cost of such development projects may start at $40,000 and reach $100,000 (and go higher if you want to create an advanced feature-rich solution with multiple integrations).
-
-### Why should I enrich a video chat app with AI functionality?
-
-AI can help you to ensure higher user satisfaction by providing better quality of calls, offering additional tools (like real-time translation, captions, etc.), and letting businesses gather deep insights into their customers' sentiments.
-
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-   "@type": "Question",
-   "name": "How much does it cost to make a video chat app?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "When you want to build video chat app from scratch, you should know that the price will depend on many factors, including the technologies that will be used, the complexity and functionality of your app, as well as the rates of the team that will create it. The cost of such development projects may start at $40,000 and reach $100,000 (and go higher if you want to create an advanced feature-rich solution with multiple integrations)."
-    }
-   ]
-  },
-  {
-   "@type": "Question",
-   "name": "Why should I enrich a video chat app with AI functionality?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "AI can help you to ensure higher user satisfaction by providing better quality of calls, offering additional tools (like real-time translation, captions, etc.), and letting businesses gather deep insights into their customers' sentiments."
-    }
-   ]
-  }
- ]
-}
-</script>
