@@ -1,12 +1,12 @@
 @mixin light {
   --main-text: var(--black);
-  --meta-text: var(--slate-gray);
+  --meta-text: var(--emperor);
   --background-color: var(--lavender-50);
 }
 
 @mixin dark {
   --main-text: var(--white);
-  --meta-text: var(--silver);
+  --meta-text: var(--mercury);
   --background-color: var(--shark);
 }
 

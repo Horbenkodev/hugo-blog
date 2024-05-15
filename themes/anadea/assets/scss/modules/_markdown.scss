@@ -1,13 +1,13 @@
 @mixin light {
   --main-text: var(--mine-shaft);
   --link-text: #5666a1;
-  --link-hover: #8592be;
+  --link-hover: #5666a1;
 }
 
 @mixin dark {
   --main-text: var(--alto);
-  --link-text: var(--persian-rose);
-  --link-hover: var(--persian-rose);
+  --link-text: #f12571;
+  --link-hover: #f12571;
 }
 
 .markdown {
