@@ -1,7 +1,7 @@
 ---
 title: "Empathy Map and Design Thinking: What You Should Know"
 draft: false
-publishDate: 2023-12-01T00:00:00Z
+publishDate: 2023-12-01T00:00:00.000Z
 image: empathy_map__1_.png
 og_image: empathy_map_socials.png
 description: Fnd out what empathy mapping is and how it helps UX experts better
@@ -158,7 +158,7 @@ will be able to have a look at how your product is perceived by the
 group in general and such an empathy map can be used for creating user
 personas as it helps to visualize your knowledge about users. However, take into account that user personas should be still created.
 
-{{< advert_with_cta title="eBook alert!" description=""Your Mobile App & The User Persona You Should Have"" button="Download now" >}}
+{{< advert_with_cta title="eBook alert!" description='"Your Mobile App & The User Persona You Should Have"' button="Download now" >}}
 
 Aggregated maps can be created based on the information gathered during
 field studies and surveys and can help you summarize the collected data.
