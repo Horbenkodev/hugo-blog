@@ -158,7 +158,7 @@ will be able to have a look at how your product is perceived by the
 group in general and such an empathy map can be used for creating user
 personas as it helps to visualize your knowledge about users. However, take into account that user personas should be still created.
 
-{{< advert_with_cta title="eBook alert!" description="“Your Mobile App & The User Persona You Should Have”" button="Download now" >}}
+{{< advert_with_cta title="eBook alert!" description="“Your Mobile App & The User Persona You Should Have”" button="Download now" url="https://anadea.info/e-books/user-persona-for-mobile-app">}}
 
 Aggregated maps can be created based on the information gathered during
 field studies and surveys and can help you summarize the collected data.
