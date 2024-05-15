@@ -82,7 +82,7 @@ Instead of giving a list of all the possible features of diet tracking software,
 * Add **water tracking** as an extra feature. Sufficient water is essential to stay hydrated, have better skin, and lose weight thus can assist users in achieving their main goal.
 * **Gamification elements.** Encourage users by notifying them about the progress they make, like ‘3 milestones achieved in a month’ or ‘a full week of advised water intake’.
 
-> Don’t set too unrealistic milestones—these can be discouraging for users and not quite good for their health.
+{{< advert >}}Don’t set too unrealistic milestones—these can be discouraging for users and not quite good for their health.{{< /advert >}}
 
 * **Reports/Analytics** for users to see their weight changing over time and analyzing the efficiency of their new eating habits. The ability to share results on social media will be a plus.
 
@@ -91,11 +91,7 @@ Instead of giving a list of all the possible features of diet tracking software,
 * **Registration/Log in.**
 * **Onboarding.** User enters their current weight and desired weight. Based on these measurements, the app calculates BMI and optimal calorie intake for losing or gaining weight in a healthier way. Or, the user can set a desired calorie limit themselves.
 
-  {{< advert >}}Text{{< /advert >}}
-
-
-
-> **Important note.** Given the incidence of eating disorders, which <a href="https://www.nationaleatingdisorders.org/statistics-research-eating-disorders" target="_blank" rel="nofollow">30 million Americans</a> struggle with, don’t allow for setting up extra low calorie limits per day without notifying users of the danger. Commonly, the <a href="https://www.nhs.uk/common-health-questions/food-and-diet/what-should-my-daily-intake-of-calories-be/" target="_blank" rel="nofollow">recommended daily calorie intake</a> is 2.000 calories for women and 2.500 for men, or slightly less for weight loss. Your goal is to help people, not support a harmful lifestyle.
+  {{< advert >}}**Important note.** Given the incidence of eating disorders, which <a href="https://www.nationaleatingdisorders.org/statistics-research-eating-disorders" target="_blank" rel="nofollow">30 million Americans</a> struggle with, don’t allow for setting up extra low calorie limits per day without notifying users of the danger. Commonly, the <a href="https://www.nhs.uk/common-health-questions/food-and-diet/what-should-my-daily-intake-of-calories-be/" target="_blank" rel="nofollow">recommended daily calorie intake</a> is 2.000 calories for women and 2.500 for men, or slightly less for weight loss. Your goal is to help people, not support a harmful lifestyle.{{< /advert >}}
 
 * **Integration with food/ingredients database API** like <a href="https://spoonacular.com/food-api" target="_blank" rel="nofollow">Spoonacular</a> that comprises the most popular products and their nutritional value. Possibility to add new items to the catalog for custom meals or rare products.
 * **Entering food amount** in grams for the app to calculate calorie intake.
