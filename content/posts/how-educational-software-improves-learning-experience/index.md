@@ -56,7 +56,7 @@ At Anadea, we have 20 years of experience working in the sphere of education. Ou
 
 Here are the different types of solutions that we deliver for institutions that are mostly online business model:
 
-* **<a href="https://anadea.info/solutions/e-learning-software-development/m-learning" target="_blank">eLearning apps development</a>. Different types of educational mobile apps for school children, students, teachers, for personal self-education, and other kinds of purposes, tailored to your needs. <a href="https://anadea.info/projects/stav-online" target="_blank">Stav Online</a> for Dansk Psykologisk Forlag and <a href="https://anadea.info/projects/codecoach-by-first-code-academy" target="_blank">CodeCoach</a> for First Code Academy are interactive e-learning platforms developed by Anadea.
+* **<a href="https://anadea.info/solutions/e-learning-software-development/m-learning" target="_blank">eLearning apps development</a>**. Different types of educational mobile apps for school children, students, teachers, for personal self-education, and other kinds of purposes, tailored to your needs. <a href="https://anadea.info/projects/stav-online" target="_blank">Stav Online</a> for Dansk Psykologisk Forlag and <a href="https://anadea.info/projects/codecoach-by-first-code-academy" target="_blank">CodeCoach</a> for First Code Academy are interactive e-learning platforms developed by Anadea.
 * **Learning experience platform (LXP)**. Provide all parties involved in education with data, tools, and resources to support and advance education delivery and management on one platform.
 * **E-learning platform**. Provide educators, learners, and other parties with information, tools, and resources to assist and improve education delivery and management on a platform. A great example of this solution is the <a href="https://anadea.info/projects/nordic-learning-platform" target="_blank">Nordic Learning Platform</a> developed by Anadea for New Nordic Schools. Nordic Learning Platform is an ecosystem that provides all the necessary tools to assist the leadership, teachers, and students in focusing on their learning and development journey.
 * **Knowledge management solutions**. Deliver a single access point to a knowledge base in a big organization. Keep, manage and deliver data in different formats to every knowledge management solution user.
@@ -73,4 +73,4 @@ Typically, developing educational software requires a lot of integrations with v
 
 In case you have any questions, feel free to contact us - we’ll be happy to help you with your project.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Get an education software development quote{{< /ctabutton >}}
+{{< advert_with_cta title="I need educational software!" description=Share your requirements, and we'll get back with an estimate" button="Request a free quote" >}}
