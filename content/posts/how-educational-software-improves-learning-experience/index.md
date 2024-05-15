@@ -1,6 +1,6 @@
 ---
 title: How to Create Educational Software for Schools
-draft: true
+draft: false
 publishDate: 2022-08-05T00:00:00.000Z
 image: deers.jpg
 og_image: deers.jpg
@@ -74,4 +74,4 @@ Typically, developing educational software requires a lot of integrations with v
 
 In case you have any questions, feel free to contact us - we’ll be happy to help you with your project.
 
-{{< advert_with_cta title="I need educational software!" description="Share your requirements, and we'll get back with an estimate" button="Request a free quote" >}}
+{{< advert_with_cta title="I need educational software development!" description="Share your requirements, and we'll get back with an estimate" button="Request a free quote" >}}
