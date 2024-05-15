@@ -143,6 +143,7 @@ Before implementing any AI for oil and gas business, managers should clearly def
 
 ## AI and complementary technologies
 
+
 AI is a technology that has enormous potential for dealing with an extremely wide range of tasks across many industries. But it shouldn't be considered only in isolation. To achieve the highest results, AI and ML can be combined with other advanced technologies.
 
 ![AI, IoT, Big Data, and Blockchain in Oil and Gas](AI.png)
