@@ -1,18 +1,30 @@
 ---
-title: 'Empathy Map and Design Thinking: What You Should Know'
-publishDate: '2023-12-01T00:00:00Z'
-authors: []
-description: Fnd out what empathy mapping is and how it helps UX experts better understand
-  what people expect to get from the product.
+title: "Empathy Map and Design Thinking: What You Should Know"
+draft: false
+publishDate: 2023-12-01T00:00:00Z
 image: empathy_map__1_.png
 og_image: empathy_map_socials.png
+description: Fnd out what empathy mapping is and how it helps UX experts better
+  understand what people expect to get from the product.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - Business Analysis Team
 categories:
-- Design
+  - Design
+industries: []
+questionary:
+  - question: What is an empathy map?
+    answer: It is a visualization tool that helps UX experts present accumulated
+      knowledge about the attitudes and behaviors of users. Moreover, this tool
+      helps to communicate this information to other team members.
+  - question: Why do UX experts create empathy maps?
+    answer: Thanks to visualizing all the information that you have about users'
+      opinions, expectations, and feelings, you can detect general trends in
+      their attitudes and define the existing issues. Based on this knowledge,
+      you can deliver more valuable solutions that will perfectly address users'
+      needs.
 ---
 Just building a reliable and secure app from the technological perspective wouldn't be enough to ensure success for your solution.
 People will never use an app just because "it works well". They should
@@ -146,7 +158,7 @@ will be able to have a look at how your product is perceived by the
 group in general and such an empathy map can be used for creating user
 personas as it helps to visualize your knowledge about users. However, take into account that user personas should be still created.
 
-> Related eBook: <a href="https://anadea.info/e-books/user-persona-for-mobile-app" target="_blank">Your Mobile App & The User Persona You Should Have</a>
+{{< advert_with_cta title="eBook alert!" description=""Your Mobile App & The User Persona You Should Have"" button="Download now" >}}
 
 Aggregated maps can be created based on the information gathered during
 field studies and surveys and can help you summarize the collected data.
@@ -155,7 +167,6 @@ research is still going on, you can always come back to the map and add
 new information or remove any data that has turned out to be irrelevant.
 
 ![One user and multiple user empathy map difference](One-User_vs._Multiple-User_Empathy_Maps.png)
-
 
 ## Why you should create a design thinking empathy map
 
@@ -274,48 +285,3 @@ realization of your project. Share your idea with us to get project
 estimates.
 
 {{< ctabutton href="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}
-
-## Frequently Asked Questions
-
-### What is an empathy map?
-
-It is a visualization tool that helps UX experts present accumulated
-knowledge about the attitudes and behaviors of users. Moreover, this
-tool helps to communicate this information to other team members.
-
-### Why do UX experts create empathy maps?
-
-Thanks to visualizing all the information that you have about users'
-opinions, expectations, and feelings, you can detect general trends in
-their attitudes and define the existing issues. Based on this knowledge,
-you can deliver more valuable solutions that will perfectly address
-users' needs.
-
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-   "@type": "Question",
-   "name": "What is an empathy map?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "It is a visualization tool that helps UX experts present accumulated knowledge about the attitudes and behaviors of users. Moreover, this tool helps to communicate this information to other team members."
-    }
-   ]
-  },
-  {
-   "@type": "Question",
-   "name": "Why do UX experts create empathy maps?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "Thanks to visualizing all the information that you have about users' opinions, expectations, and feelings, you can detect general trends in their attitudes and define the existing issues. Based on this knowledge, you can deliver more valuable solutions that will perfectly address users' needs."
-    }
-   ]
-  }
- ]
-}
-</script>
