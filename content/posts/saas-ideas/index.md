@@ -1,7 +1,7 @@
 ---
 title: Best SaaS Businesses Ideas
 draft: false
-publishDate: 2023-05-15T00:00:00Z
+publishDate: 2023-05-15T00:00:00.000Z
 image: saas-ideas.png
 og_image: saas-ideas-socials.png
 description: Looking for SaaS ideas to kickstart a profitable software product
@@ -224,6 +224,6 @@ Is the list of the best SaaS ideas limited to those that we've mentioned in this
 
 And at Anadea, we will be happy to help you with any type of software development project you may have. Our seasoned developers have rich expertise and outstanding practical skills in working with cloud technologies. We are not afraid of complicated tasks and we are sure that we will always find the best solution even in the case of the most challenging tasks.
 
-<a href="https://anadea.info/free-project-estimate">Contact us</a> to get more information about the terms of cooperation with us!
+Contact us to get more information about the terms of cooperation with us!
 
 {{< ctabutton href="https://anadea.info/free-project-estimate" >}}Create my SaaS{{< /ctabutton >}}
