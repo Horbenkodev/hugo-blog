@@ -1,7 +1,7 @@
 ---
 title: "Native vs Cross-Platform App Development: Our Practical Experience"
 draft: false
-publishDate: 2024-01-04T00:00:00Z
+publishDate: 2024-01-04T00:00:00.000Z
 image: cross_platform_native.png
 og_image: cross_platform_native_socials.png
 description: Navigate the key differences between cross-platform mobile app
@@ -107,7 +107,7 @@ Before we start, we'd like to stress that the experiment doesn't claim to be sci
 
 Instead, our goal was to empirically test whether any development approach encountered significant time-consuming issues while implementing the same features. Below, you'll get an inside look at our development process, find some comparative insights, and possibly consider them when choosing a platform for your mobile application.
 
-{{< advert >}}**Important:** There are scenarios where it's not practical to develop a mobile application for both Android and iOS. For instance, if one platform dominates the market for the app, or the app's key feature relies on platform-specific functions, like the iPhone's ProRAW photos. These situations are beyond the scope of this article, as they present no real dilemma.{{< /advert >}}
+{{< advert >}}<b>Important:</b> There are scenarios where it's not practical to develop a mobile application for both Android and iOS. For instance, if one platform dominates the market for the app, or the app's key feature relies on platform-specific functions, like the iPhone's ProRAW photos. These situations are beyond the scope of this article, as they present no real dilemma.{{< /advert >}}
 
 Now onto the experiment!
 
@@ -115,11 +115,9 @@ Now onto the experiment!
 
 We developed a personal productivity app called Smart Reminder, designed to enhance user's daily organization and efficiency. The app boasts several key features:
 
-- **Notes:** A simple yet powerful tool for jotting down thoughts, ideas, or important information.
-- **Time reminders:** Scheduling reminders based on specific times to keep track of your daily activities and commitments.
-- **Geolocation reminders:** Leveraging the power of location-based reminders, triggering alerts based on your geographical position.
-
-![Smart Reminder app](smart_reminder.png)
+* **Notes:** A simple yet powerful tool for jotting down thoughts, ideas, or important information.
+* **Time reminders:** Scheduling reminders based on specific times to keep track of your daily activities and commitments.
+* **Geolocation reminders:** Leveraging the power of location-based reminders, triggering alerts based on your geographical position.
 
 {{< advert_with_cta title="eBook alert!" description="If you're interested in delving deeper into the creation and conceptualization of Smart Reminder, including the research that shaped our product vision, we've detailed our journey in an insightful eBook. Explore our strategies, decisions, and more!" button="Download now" url="https://anadea.info/e-books/user-persona-for-mobile-app" >}}
 
@@ -127,17 +125,19 @@ We developed a personal productivity app called Smart Reminder, designed to enha
 
 To bring Smart Reminder to life, we carefully selected a range of technologies, ensuring optimal performance across platforms:
 
-- **Kotlin for Android:** Leveraging Kotlin's modern features and compatibility with Android for a seamless user experience.
-- **Flutter for cross-platform:** Utilizing Flutter's capabilities to develop a unified and efficient app experience on multiple platforms.
-- **Swift for iOS:** Employing Swift to craft a high-quality, native experience for iOS users.
+* **Kotlin for Android:** Leveraging Kotlin's modern features and compatibility with Android for a seamless user experience.
+* **Flutter for cross-platform:** Utilizing Flutter's capabilities to develop a unified and efficient app experience on multiple platforms.
+* **Swift for iOS:** Employing Swift to craft a high-quality, native experience for iOS users.
+
+![Smart Reminder app](smart_reminder.png)
 
 To enhance the functionality of Smart Reminder, we integrated several third-party services:
 
-- **Firebase Firestore:** A real-time online database that ensures your notes and reminders are always up-to-date and synchronized.
-- **Firebase Auth (Google Sign-In):** A secure and convenient authentication system for easy app access.
-- **OpenStreetMap and native frameworks:** OpenStreetMap is used for geolocation reminders on cross-platform and Android, while native Swift frameworks are employed for iOS, ensuring accurate and efficient location-based services.
+* **Firebase Firestore:** A real-time online database that ensures your notes and reminders are always up-to-date and synchronized.
+* **Firebase Auth (Google Sign-In):** A secure and convenient authentication system for easy app access.
+* **OpenStreetMap and native frameworks:** OpenStreetMap is used for geolocation reminders on cross-platform and Android, while native Swift frameworks are employed for iOS, ensuring accurate and efficient location-based services.
 
-{{< advert >}}**Related read:** <a href="https://anadea.info/guides/custom-development-vs-app-builders" target="_blank">Custom Mobile Development VS App Builder: Which to Choose</a>{{< /advert >}}
+{{< advert >}}<b>Related read:</b> <a href="https://anadea.info/guides/custom-development-vs-app-builders" target="_blank">Custom Mobile Development VS App Builder: Which to Choose</a>{{< /advert >}}
 
 ### Experience with Android, iOS, and cross-platform development
 
@@ -147,9 +147,9 @@ Now, let's finally dive into the most fascinating part, where three developers a
 
 The journey into the development of Smart Reminder was marked by innovation and practicality. The Android developer saw the straightforward features of Smart Reminder as an opportunity to delve into the newest technologies available for the Android platform. This exploration was guided by several key decisions:
 
-- **Going with recent trends:** Jetpack Compose was chosen for building native UI, aligning with the trends in Android development. Jetpack Compose's dynamic and flexible framework allowed us to create a more intuitive and responsive user interface.
-- **Architectural precision:** MVI (Model-View-Intent) architecture was the choice to complement Jetpack Compose. This architectural pattern helped streamline the app development process, ensuring a robust and scalable app structure.
-- **Design innovation:** Material 3, Google's latest design system, allowed for leveraging the most current design elements and principles. This choice was crucial in providing users with a visually appealing and seamless experience.
+* **Going with recent trends:** Jetpack Compose was chosen for building native UI, aligning with the trends in Android development. Jetpack Compose's dynamic and flexible framework allowed us to create a more intuitive and responsive user interface.
+* **Architectural precision:** MVI (Model-View-Intent) architecture was the choice to complement Jetpack Compose. This architectural pattern helped streamline the app development process, ensuring a robust and scalable app structure.
+* **Design innovation:** Material 3, Google's latest design system, allowed for leveraging the most current design elements and principles. This choice was crucial in providing users with a visually appealing and seamless experience.
 
 Implementing geo notifications was a critical feature of Smart Reminder. To achieve this, the Android developer utilized native Geofence capabilities alongside **OpenStreetMap** , which offered a free and effective solution for location-based reminders.
 
@@ -169,10 +169,10 @@ Perhaps the most significant advantage of Flutter is its **support for a single 
 
 When working on the iOS version of SmartReminder, the iOS developer faced the task of adapting it from its original Android-focused design. The challenge? iOS has its own unique style and user expectations, and the app should fit naturally into this style. Here's how it was achieved:
 
-- **Embracing iOS features:** To make things quicker and ensure iOS users feel at home, the developer used native iOS UIKit tools for things like picking dates, showing alerts, and other elements. Those are what iOS users know and love.
-- **Swipe actions for better interaction:** iOS users like to swipe on lists for quick actions. So, the developer added this to the app to make it feel more intuitive and handy.
-- **Adding Apple Sign-In:** Apple Sign-In was used because when you go for other social media logins, Apple's rules say you need to offer their sign-in method too.
-- **Choosing Apple Maps:** For showing maps and locations, the developer picked Apple Maps over OpenStreetMap. Why? They're free, simpler to add, and keep getting updates from Apple. Plus, it meant less reliance on third-party services.
+* **Embracing iOS features:** To make things quicker and ensure iOS users feel at home, the developer used native iOS UIKit tools for things like picking dates, showing alerts, and other elements. Those are what iOS users know and love.
+* **Swipe actions for better interaction:** iOS users like to swipe on lists for quick actions. So, the developer added this to the app to make it feel more intuitive and handy.
+* **Adding Apple Sign-In:** Apple Sign-In was used because when you go for other social media logins, Apple's rules say you need to offer their sign-in method too.
+* **Choosing Apple Maps:** For showing maps and locations, the developer picked Apple Maps over OpenStreetMap. Why? They're free, simpler to add, and keep getting updates from Apple. Plus, it meant less reliance on third-party services.
 
 In short, the iOS version of SmartReminder does everything it's supposed to, feels familiar to iOS users, isn't too dependent on third-party services, and is up-to-date with the latest Swift and other iOS tech. This should make it easier to keep the app running smoothly in the future.
 
