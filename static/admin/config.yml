@@ -16,10 +16,12 @@ collections:
     label_singular: "Post"
     folder: "content/posts"
     path: "{{slug}}/index"
-    summary: "{{top | ternary('🔥 Top | ','')}} {{promote.promote | ternary('⭐ Promote | ','')}} {{title}}"
+    summary: "{{top | ternary('🔥 Top | ','')}} {{promote.promote | ternary('⭐ Promote | ','')}} {{title}} {{fields.authors[0] | ternary(' • ', '')}} {{fields.authors[0] | ternary('fields.authors[0], '')}}"
     create: true
     fields:
+      - {label: "CEO Title", name: "ceoTitle", widget: "string", required: false}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Breadcrumbs", name: "breadcrumbs", widget: "string", required: false}
       - {label: "Slug", name: "slug", widget: "string", required: false}
       - {label: "Draft", name: "draft", widget: "boolean", default: false}
       - {label: "Publish Date", name: "publishDate", widget: "datetime", default: ""}
@@ -158,3 +160,14 @@ collections:
         display_fields: ["name"]
         value_field: "name"
     sortable_fields: ["name"]
+
+  - name: "site_settings"
+    label: "Site Settings"
+    files:
+      - file: "config/_default/params.yml"
+        label: Hugo Params
+        name: config
+        editor:
+          preview: false
+        fields:
+          - {label: "Indexing", name: "indexing", widget: "boolean"}

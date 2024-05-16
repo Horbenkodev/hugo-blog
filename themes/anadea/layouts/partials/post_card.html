@@ -16,12 +16,11 @@
       {{ partial "image.html" $params }}
     </div>
 
-
     <div class="postCard__caption">
       {{ partial "post_info.html" . }}
       <h2 class="postCard__title">
         <a href="{{ .RelPermalink }}" class="postCard__link">
-          {{ .Params.title }}
+          {{ or .Params.ceoTitle .Params.title }}
         </a>
       </h2>
       <p class="postCard__description">{{ .Params.description }}</p>

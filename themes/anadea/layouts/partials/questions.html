@@ -12,7 +12,7 @@
             data-id="{{ $uniqID }}"
             class="questions__control"
           >
-            {{ .question }}
+            {{ .question | markdownify | safeHTML }}
           </button>
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -29,7 +29,7 @@
         <dd id="{{ $uniqID }}" data-answer="{{ $uniqID }}" class="questions__foldable">
           <div class="questions__inner">
             <div class="questions__answer">
-              {{ .answer }}
+              {{ .answer | markdownify | safeHTML }}
             </div>
           </div>
         </dd>
