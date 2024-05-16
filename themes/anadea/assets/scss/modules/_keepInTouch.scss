@@ -1,13 +1,13 @@
 @mixin light {
   --main-text: var(--black);
   --meta-text: var(--emperor);
-  --background-color: var(--lavender-50);
+  --background-color: var(--concrete);
 }
 
 @mixin dark {
   --main-text: var(--white);
-  --meta-text: var(--mercury);
-  --background-color: var(--shark);
+  --meta-text: var(--silver);
+  --background-color: var(--mine-shaft);
 }
 
 .keepInTouch {
