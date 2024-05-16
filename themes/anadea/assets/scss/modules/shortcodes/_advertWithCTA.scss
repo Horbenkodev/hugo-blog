@@ -30,6 +30,10 @@ $text-color: var(--white);
     a {
       color: $text-color;
       text-decoration: underline;
+
+      &:hover {
+        color: $text-color;
+      }
     }
   }
 
@@ -61,9 +65,5 @@ a.advertWithCTA {
 @include md {
   .advertWithCTA {
     padding: 32px;
-
-    &__button {
-      width: 25%;
-    }
   }
 }
