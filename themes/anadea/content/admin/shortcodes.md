@@ -15,6 +15,12 @@ build:
 {{</* advert_with_cta title="Title" description="Description" button="Button text" */>}}
 ```
 
+With custom link
+
+``` go
+{{</* advert_with_cta title="Title" description="Description" button="Button text" url="https://example.com" */>}}
+```
+
 {{< advert_with_cta title="Title" description="Description" button="Button text" >}}
 
 ```go

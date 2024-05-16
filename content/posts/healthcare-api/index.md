@@ -1,18 +1,36 @@
 ---
-title: 'Top Healthcare APIs: Why Use Them for Building Your Solution?'
-publishDate: '2023-07-12T00:00:00Z'
-authors: []
-description: How can the use of a healthcare API facilitate the development process
-  and enhance the final result? Read this article to learn about top healthcare APIs.
+title: "Top Healthcare APIs: Why Use Them for Building Your Solution?"
+draft: false
+publishDate: 2023-07-12T00:00:00Z
 image: healthcare_api.jpg
 og_image: healthcare_api_socials.jpg
+description: How can the use of a healthcare API facilitate the development
+  process and enhance the final result? Read this article to learn about top
+  healthcare APIs.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- Healthcare
+authors:
+  - Web Development Team
 categories: []
+industries:
+  - Healthcare
+questionary:
+  - question: What are the key reasons for using healthcare APIs?
+    answer: Application programming interfaces help to ensure the connection between
+      different healthcare apps and systems and make them seamlessly
+      interoperate and exchange data. Thanks to them, your applications, EHR
+      systems, and other sources of data (such as, for example, drug databases)
+      can be unified and used as a single source of reliable information.
+  - question: How much does it cost to use medical APIs?
+    answer: The prices set by different healthcare API vendors greatly vary and may
+      be calculated based on different models. Some providers use a
+      transaction-based model where they set rates per call. Some other models
+      presuppose different pricing for different sets of features. There is also
+      an option to pay an annual fee for access to the API and related services.
+      That's why you always need to find out the exact terms of each vendor
+      before making your choice. By the way, sometimes there is a free trial
+      period that can help you to get familiarized with a product.
 ---
 Despite the huge progress made in the development of software solutions for the healthcare industry over recent years, there is still a lot of work to do. In 2022, the global digital health market size [reached](https://www.statista.com/topics/2409/digital-health/#topicOverview) $330 billion, and investments in this market are expected to grow. According to [analysts](https://www.grandviewresearch.com/press-release/global-digital-health-market), by 2030, this figure may hit the mark of $809.2 billion. The digital transformation is going on. But is it as smooth as it is expected to be? Unfortunately, there are still a lot of issues related to a lack of data sharing between healthcare providers, format inconsistency (a lot of clinics in the US rely on faxes even today), and low interoperability of the used solutions. And here is when (and why) healthcare APIs enter the game.
 
@@ -260,6 +278,8 @@ Of course, it may be rather confusing to quickly make a decision when there is s
 
 When you work with a software development team, you can always discuss the choice of a medical API with your developers. While you will deeper analyze the provided functionality, IT specialists will pay more attention to the tech aspects. For example, at Anadea, we are always open to such discussions and are ready to help our customers to make the right choice.
 
+{{< advert_with_cta title="In doubt?" description="Experienced medical software developers will guide you through the intricacies of healthcare APIs" button="Book a consultation" >}}
+
 ## How can healthcare APIs be used?
 
 In our practice, we regularly work with healthcare APIs and quite often we offer our customers from the healthcare industry to use them for enriching their systems with access to the most reliable data sources or additional functionality. Of course, there are some concerns related to this approach from the side of customers. Very often they ask us about the security of these APIs and their compatibility with their software infrastructures. Nevertheless, when you rely on top healthcare APIs, they always have good documentation that helps developers to understand how to use them and in what cases they can be easily implemented. Moreover, as a rule, their providers take the entire responsibility for their security.
@@ -273,42 +293,3 @@ The use of healthcare APIs for building your applications and systems can not on
 If you are interested in launching a healthcare application and are looking for a professional software development team, we will be happy to provide you with our help. At Anadea, we have rich expertise in building feature-rich [solutions for the healthcare industry](https://anadea.info/projects#healthcare) and are always open to new projects. Just contact us, share your ideas, and our experts will help you to find the best approach to transforming them into an advanced software product.
 
 {{< ctabutton href="https://anadea.info/free-project-estimate" >}}Get a free quote{{< /ctabutton >}}
-
-## Frequently Asked Questions
-
-### What are the key reasons for using healthcare APIs?
-
-Application programming interfaces help to ensure the connection between different healthcare apps and systems and make them seamlessly interoperate and exchange data. Thanks to them, your applications, EHR systems, and other sources of data (such as, for example, drug databases) can be unified and used as a single source of reliable information.
-
-### How much does it cost to use medical APIs?
-
-The prices set by different healthcare API vendors greatly vary and may be calculated based on different models. Some providers use a transaction-based model where they set rates per call. Some other models presuppose different pricing for different sets of features. There is also an option to pay an annual fee for access to the API and related services. That's why you always need to find out the exact terms of each vendor before making your choice. By the way, sometimes there is a free trial period that can help you to get familiarized with a product.
-
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-   "@type": "Question",
-   "name": "What are the key reasons for using healthcare APIs?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "Application programming interfaces help to ensure the connection between different healthcare apps and systems and make them seamlessly interoperate and exchange data. Thanks to them, your applications, EHR systems, and other sources of data (such as, for example, drug databases) can be unified and used as a single source of reliable information."
-    }
-   ]
-  },
-  {
-   "@type": "Question",
-   "name": "How much does it cost to use medical APIs?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "The prices set by different healthcare API vendors greatly vary and may be calculated based on different models. Some providers use a transaction-based model where they set rates per call. Some other models presuppose different pricing for different sets of features. There is also an option to pay an annual fee for access to the API and related services. That's why you always need to find out the exact terms of each vendor before making your choice. By the way, sometimes there is a free trial period that can help you to get familiarized with a product."
-    }
-   ]
-  }
- ]
-}
-</script>

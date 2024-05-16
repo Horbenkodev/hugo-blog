@@ -10,7 +10,8 @@ description: With the right approaches, AI can revolutionize the work of many
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - AI/ML Team
 categories:
   - Business
 industries: []
@@ -141,6 +142,7 @@ Risk-taking, experimentation, adaptability, and continuous learning should becom
 Before implementing any AI for oil and gas business, managers should clearly define areas where AI can be of great use and prepare the existing workflows and processes for the introduction of new solutions. Only when every team member clearly understands the role of new solutions in his or her work as well as in the functioning of the entire enterprise in general, it is possible to expect any positive outcomes of digitalization and AI adoption.
 
 ## AI and complementary technologies
+
 
 AI is a technology that has enormous potential for dealing with an extremely wide range of tasks across many industries. But it shouldn't be considered only in isolation. To achieve the highest results, AI and ML can be combined with other advanced technologies.
 
