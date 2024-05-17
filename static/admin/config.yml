@@ -19,15 +19,15 @@ collections:
     summary: "{{top | ternary('🔥 Top | ','')}} {{promote.promote | ternary('⭐ Promote | ','')}} {{title}} {{fields.authors[0] | ternary(' • ', '')}} {{fields.authors[0] | ternary(fields.authors[0], '')}}"
     create: true
     fields:
-      - {label: "CEO Title", name: "ceoTitle", widget: "string", required: false}
-      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Title", name: "ceoTitle", widget: "string", required: false}
+      - {label: "Name (H1)", name: "title", widget: "string"}
       - {label: "Breadcrumbs", name: "breadcrumbs", widget: "string", required: false}
       - {label: "Slug", name: "slug", widget: "string", required: false}
       - {label: "Draft", name: "draft", widget: "boolean", default: false}
       - {label: "Publish Date", name: "publishDate", widget: "datetime", default: ""}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Og Image", name: "og_image", widget: "image", required: false}
-      - {label: "Short Description", name: "description", widget: "text"}
+      - {label: "Description", name: "description", widget: "text"}
 
       - label: "Promote post"
         name: "promote"
