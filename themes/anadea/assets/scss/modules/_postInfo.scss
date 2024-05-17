@@ -1,5 +1,5 @@
 @mixin light {
-  --main-text: var(--main-text-override, var(--slate-gray));
+  --main-text: var(--main-text-override, var(--emperor));
 }
 
 @mixin dark {
