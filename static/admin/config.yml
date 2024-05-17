@@ -16,7 +16,7 @@ collections:
     label_singular: "Post"
     folder: "content/posts"
     path: "{{slug}}/index"
-    summary: "{{top | ternary('🔥 Top | ','')}} {{promote.promote | ternary('⭐ Promote | ','')}} {{title}} {{fields.authors[0] | ternary(' • ', '')}} {{fields.authors[0] | ternary('fields.authors[0], '')}}"
+    summary: "{{top | ternary('🔥 Top | ','')}} {{promote.promote | ternary('⭐ Promote | ','')}} {{title}} {{fields.authors[0] | ternary(' • ', '')}} {{fields.authors[0] | ternary(fields.authors[0], '')}}"
     create: true
     fields:
       - {label: "CEO Title", name: "ceoTitle", widget: "string", required: false}
@@ -44,9 +44,9 @@ collections:
         collection: "authors"
         required: false
         multiple: true
-        search_fields: ["name"]
-        display_fields: ["name"]
-        value_field: "name"
+        search_fields: ["title"]
+        display_fields: ["title"]
+        value_field: "{{slug}}"
 
       - label: "Categories"
         name: "categories"
@@ -77,7 +77,6 @@ collections:
           - {label: Answer, name: answer, widget: string, required: false}
     sortable_fields: ["title", "publishDate", "top", "promote.promote"]
 
-
   - label: "Authors"
     label_singular: "Author"
     identifier_field: name
@@ -89,8 +88,8 @@ collections:
     editor:
       preview: false
     fields:
-      - {label: "Name", name: "name", widget: "string"}
       - {label: "Team", name: "team", widget: "boolean", default: false}
+      - {label: "Title", name: "title", widget: "string"}
       - label: "Avatar"
         name: "avatar"
         widget: "image"

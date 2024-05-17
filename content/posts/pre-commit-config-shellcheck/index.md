@@ -2,7 +2,7 @@
 title: pre-commit-config-shellcheck for syntax and semantic checks automation
 publishDate: '2022-08-18T00:00:00Z'
 authors:
-- Eugene Pasko
+- eugene-pasko
 description: pre-commit-config-shellcheck is a tool by Anadea developers for checking
   entry points in the pre-commit config with ShellCheck.
 image: nemo.jpg

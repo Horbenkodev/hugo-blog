@@ -2,7 +2,7 @@
 title: How to Get Seed Funding for Your Health IT Startup
 publishDate: '2019-01-31T00:00:00Z'
 authors:
-- Sophia Lawrence
+- sophia-lawrence
 description: Healthcare is an evergreen industry worldwide. As advances in medical
   sciences and pharmaceuticals continue, there will be no dearth of innovative ideas
   to launch healthcare based startups. In all probability, most health startups will

@@ -14,7 +14,7 @@ promote:
   promote: false
 top: false
 authors:
-  - Web Development Team
+  - web-development-team
 categories: []
 industries:
   - Real Estate
@@ -101,4 +101,3 @@ Let's take a look at StreetEasy, a NYC based real estate platform. The thing is 
 The improvement of real estate digital products like Zillow, StreetEasy, Trulia is just getting started after the public release when the project is handed over to the owner. Today, having a real estate website is not enough. You need to be among the best in the digital world, and especially in your local area. A/B testing for real estate is a great way to make your website better.
 
 Want a modern real estate site that will generate more leads? [Contact us](https://anadea.info/contacts).
-

@@ -2,7 +2,7 @@
 title: How to Increase Your Mobile App User Retention
 publishDate: '2018-09-04T00:00:00Z'
 authors:
-- Alicia Wells
+- alicia-wells
 description: Loyal customers are the foundation of every business. But, more often
   than not, the most challenging thing about creating a successful app is not building
   the app, but growing a substantial user base. There are multiple variables at play

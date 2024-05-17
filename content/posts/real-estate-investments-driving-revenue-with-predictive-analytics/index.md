@@ -2,7 +2,7 @@
 title: 'Real Estate Investments: Driving Revenue with Predictive Analytics'
 publishDate: '2019-05-29T00:00:00Z'
 authors:
-- David Freudenberg
+- david-freudenberg
 description: When investing in real estate, especially in rental properties, one should
   make quick and well-informed decisions, backed by data. The real estate market changes
   at a rapid pace, and for success, you have to be able to adapt to those changes
@@ -148,7 +148,3 @@ To put it, breaking down the data and analyzing it provides potential real estat
 
 ---
 *This is a guest post by **David Freudenberg.** David Freudenberg is an American businessman and real estate investor who operates in the sunny state of Florida. Predictive Analytics has saved him a ton of time in running CMAs and analyzing neighborhoods to invest in. You may have recognized his company from the popular slogan, “<a href="https://davidbuyshousesflorida.com/" target="_blank">We Buy Houses Florida</a>.”*
-
-
-
-

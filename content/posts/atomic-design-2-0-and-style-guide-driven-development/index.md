@@ -2,7 +2,7 @@
 title: Atomic design 2.0 and style guide driven development
 publishDate: '2020-06-23T00:00:00Z'
 authors:
-- Anastasiya Bakuta
+- anastasiya-bakuta
 description: 'Design involves the entire process of creating components: starting
   from design, going through layout to complete isolation of components in the frontend.
   Modern JS libraries and frameworks enthusiastically accepted these ideas: react,

@@ -2,7 +2,7 @@
 title: 10 Tips to Improve Usability of Your App
 publishDate: '2018-06-29T00:00:00Z'
 authors:
-- Bryan Davis
+- bryan-davis
 description: Today, we have millions of apps that are available in different marketplaces
   such as Google Play Store and Apple Store. In order to minimize congestion on their
   screens and be a high-quality product, mobile apps focus on the interface design

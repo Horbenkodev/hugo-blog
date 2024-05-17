@@ -2,7 +2,7 @@
 title: 'Training in the Workplace: How an Employee Engagement App can Help'
 publishDate: '2019-04-17T00:00:00Z'
 authors:
-- Tod Browndorf
+- tod-browndorf
 description: As the digital world is advancing by leaps and bounds, today, we have
   some very good Employee engagement apps which can help to train employees in the
   workplace. Getting good manpower is a tough thing but to train them according to

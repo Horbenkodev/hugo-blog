@@ -2,7 +2,7 @@
 title: 'Advantages of React JS: Open-source JavaScript Library'
 publishDate: '2020-08-05T00:00:00Z'
 authors:
-- Andrey Kutejko
+- andrey-kutejko
 description: 'Due to the growing popularity of reactive approaches to software development,
   programmers are now turning with more and more interest to React JS - open-source
   JavaScript library that solves problem of fast visualization of a big dataflow and

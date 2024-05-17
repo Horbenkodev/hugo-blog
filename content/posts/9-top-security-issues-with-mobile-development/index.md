@@ -2,7 +2,7 @@
 title: Top-9 Security Issues with Mobile Development
 publishDate: '2018-08-29T00:00:00Z'
 authors:
-- Sophie Ross
+- sophie-ross
 description: The development of mobile apps has come a long way since the first 500
   apps hit the Apple App Store in2008. Thousands of apps are released every day with
   the majority of them dying as quickly as theyappear. The problem? Persistent insecurity

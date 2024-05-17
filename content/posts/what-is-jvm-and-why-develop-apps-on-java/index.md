@@ -2,7 +2,7 @@
 title: What is JVM and Why it is Worth to Develop Apps on Java Platform
 publishDate: '2017-12-12T00:00:00Z'
 authors:
-- Alexander Mikhalchenko
+- alexander-mikhalchenko
 description: The history of Java began in 1995, when the first version of this programming
   language was released. "Write Once, Run Anywhere" (WORA) was the slogan of the new
   language. This meant that Java was not just another programming language.

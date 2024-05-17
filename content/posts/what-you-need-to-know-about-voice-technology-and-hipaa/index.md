@@ -2,7 +2,7 @@
 title: What You Need to Know About Voice Technology and HIPAA
 publishDate: '2019-12-18T00:00:00Z'
 authors:
-- Melanie Purkis
+- melanie-purkis
 description: Voice technology has gained significant momentum over the past several
   years and is on track to impact billions of people in the years that lie ahead.
 image: Voice-technology-and-HIPAA.jpg

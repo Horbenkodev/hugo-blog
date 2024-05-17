@@ -2,7 +2,7 @@
 title: Big Data - The Perfect Aid for Mobile App Development
 publishDate: '2018-05-15T00:00:00Z'
 authors:
-- Vivek Kumar
+- vivek-kumar
 description: Smartphones and smart-devices have simplified our daily tasks manifolds.
   They have become an indispensable part of our lives. Today, we just cannot imagine
   a single day without these devices. We no longer need to head out for purchasing

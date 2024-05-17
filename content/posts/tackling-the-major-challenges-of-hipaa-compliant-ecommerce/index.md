@@ -2,7 +2,7 @@
 title: Tackling The Major Challenges of HIPAA-Compliant eCommerce
 publishDate: '2019-03-29T00:00:00Z'
 authors:
-- Tim Mullahy
+- tim-mullahy
 description: If your web store deals even partially with protected health information
   (PHI), then PCI Compliance isn't the only thing you need to concern yourself with.
   You'll also have to contend with HIPAA - here's how you can do just that.
@@ -78,5 +78,3 @@ HIPAA compliance isn't all that different from PCI compliance, really. The two s
 Now that you know the stumbling blocks you might encounter in that regard, you should be just fine. If you have questions, issues, or doubts, don’t hesitate to contact us, our team will gladly help you. We have relevant expertise in healthcare custom software development, as well as dedicated medical app developers, we are compliant with budget and deadlines, and offer clear, straightforward, and honest communication with C1 English. Finally, we guarantee honesty and transparency regarding development services costs and speed and precision of our work.
 
 <br />
-
-

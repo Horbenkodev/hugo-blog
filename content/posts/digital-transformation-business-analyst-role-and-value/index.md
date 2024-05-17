@@ -2,7 +2,7 @@
 title: 'Digital Transformation: Business Analyst Role and Value'
 publishDate: '2019-09-23T00:00:00Z'
 authors:
-- Max Holland
+- max-holland
 description: When it comes to running a business, the only thing that’s inevitable
   is change. Whether you’re targeting a new client base, striving to meet shareholder
   expectations, or competing with a new player in the market, evolution is the name

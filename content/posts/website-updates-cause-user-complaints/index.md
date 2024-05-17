@@ -2,7 +2,7 @@
 title: What to Do If Every Website Update Causes User Complaints
 publishDate: '2022-06-06T00:00:00Z'
 authors:
-- Alexey Kudryashov
+- alexey-kudryashov
 description: On what’s in common between an 8-year-old boy's game and everyday work
   of a developer and how to use this analogy to make a software project run like a
   clockwork.

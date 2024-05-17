@@ -1,9 +1,13 @@
 <div class="postInfo">
-  {{- with .Page.GetTerms "authors" -}}
-    {{- with index . 0 -}}
-      <a class="postInfo__link" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-      <div class="postInfo__bullet"></div>
-    {{- end }}
-  {{- end -}}
+  {{ with .Page.GetTerms "authors" }}
+    {{ with index . 0 }}
+      {{ $author := . }}
+      {{ $baseName := path.BaseName $author.Path }}
+      {{ with index .Site.Data.authors $baseName }}
+        <a class="postInfo__link" href="{{ $author.RelPermalink }}">{{ .title }}</a>
+        <div class="postInfo__bullet"></div>
+      {{ end }}
+    {{ end }}
+  {{ end }}
   <time class="postInfo__date" datetime="{{ .PublishDate }}">{{ .PublishDate | time.Format ":date_medium" }}</time>
 </div>

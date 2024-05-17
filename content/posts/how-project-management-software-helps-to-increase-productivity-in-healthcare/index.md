@@ -2,7 +2,7 @@
 title: How Project Management Software Increases Productivity in Healthcare?
 publishDate: '2020-02-13T00:00:00Z'
 authors:
-- Lauren Williams
+- lauren-williams
 description: There is a system that brings all the aspects of the working of hospitals
   and nursing homes under one roof - the healthcare project management system.
 image: Project-management-software-in-healthcare.jpg

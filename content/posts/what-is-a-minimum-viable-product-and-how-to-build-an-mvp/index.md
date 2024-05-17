@@ -2,7 +2,7 @@
 title: What Is MVP and How to Develop an MVP App
 publishDate: '2021-11-15T00:00:00Z'
 authors:
-- Vadim Kondratiev
+- vadim-kondratiev
 description: What makes Minimum Viable Product a working option not only for startups
   but also for businesses? See the concept of MVP explained.
 image: start-up-company-motivation-business-concept_1_.png

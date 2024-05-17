@@ -2,7 +2,7 @@
 title: Knowledge Management across Agile Project Teams
 publishDate: '2018-02-19T00:00:00Z'
 authors:
-- Ehsan Memari
+- ehsan-memari
 description: If you happen to own or work for a software enterprise, you possibly
   have been asked a hundred times if you are agile. Although initially intended to
   upturn the accessibility of software development teams, in the recent times 'agile'

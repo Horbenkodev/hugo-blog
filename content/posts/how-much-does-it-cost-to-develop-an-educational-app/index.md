@@ -2,7 +2,7 @@
 title: How Much Does It Cost to Develop an Educational App
 publishDate: '2019-02-06T00:00:00Z'
 authors:
-- Vadim Kondratiev
+- vadim-kondratiev
 description: The good thing about Internet is that sometimes it contains useful information.
   People who want to learn new skills start their road browsing the web in search
   of the topic they want to learn. They can find amazing resources that help people

@@ -2,7 +2,7 @@
 title: How Technology Changed the Way We Celebrate the Holidays
 publishDate: '2018-12-20T00:00:00Z'
 authors:
-- Nick Andrew Rojas
+- nick-andrew-rojas
 description: Over the years, technology has drastically changed the way we have lived
   our lives. There is no denying that the modern world is exorbitantly different from
   the world just 100 years ago. We are currently living in an era that is overwhelmed

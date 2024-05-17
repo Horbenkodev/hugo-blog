@@ -2,7 +2,7 @@
 title: Improving Your eLearning Project With Push Notifications
 publishDate: '2018-12-18T00:00:00Z'
 authors:
-- Marry Ann
+- marry-ann
 description: The article reveals some mobile app and web browser push notifications
   insights applied to eLearning.
 image: e-learning.jpg

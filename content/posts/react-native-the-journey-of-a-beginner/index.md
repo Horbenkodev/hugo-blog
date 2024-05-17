@@ -2,7 +2,7 @@
 title: 'React Native: The Journey of a Beginner '
 publishDate: '2018-03-12T00:00:00Z'
 authors:
-- Anastasiya Bakuta
+- anastasiya-bakuta
 description: React Native is, perhaps, the most interesting and fast-evolving platform.
   Today you can create a new project based on its latest version, and in just a few
   months it will get outdated for a few releases. And if a year ago React Native was

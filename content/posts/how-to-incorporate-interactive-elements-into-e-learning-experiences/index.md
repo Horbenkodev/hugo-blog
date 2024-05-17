@@ -2,7 +2,7 @@
 title: How to Incorporate Interactive Elements into E-learning
 publishDate: '2019-05-15T00:00:00Z'
 authors:
-- Tiffany Harper
+- tiffany-harper
 description: For both education and business, e-learning has become an ideal solution
   to training, knowledge sharing and evolution in general. What was once comprised
   of physical presence in courses and long seminars is now just a process involving

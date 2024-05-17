@@ -2,7 +2,7 @@
 title: A Timeline of Everything We Know About Web Development
 publishDate: '2018-05-29T00:00:00Z'
 authors:
-- Benjamin Shepardson
+- benjamin-shepardson
 description: Web development is a long and storied process. From the Internet's humblest
   of beginnings in the 1960s as a US Department of Defense project to its existence
   today as the ultimate communications tool, web developers have been there every

@@ -2,7 +2,7 @@
 title: 'What Platform Better Protects Your Privacy: iOS or Android?'
 publishDate: '2019-03-07T00:00:00Z'
 authors:
-- Emily Clark
+- emily-clark
 description: Mobile users are on edge when it comes to their data privacy, and for
   good reasons. Last year's headlines exposed major privacy breaches from big-name
   companies that millions of people trusted with sensitive personal data.

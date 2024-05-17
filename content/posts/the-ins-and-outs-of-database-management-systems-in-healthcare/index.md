@@ -2,7 +2,7 @@
 title: The Ins and Outs of Database Management Systems in Healthcare
 publishDate: '2019-06-07T00:00:00Z'
 authors:
-- Nick Andrew Rojas
+- nick-andrew-rojas
 description: Database management systems are software that handles the storage, retrieval,
   and updating of data in a computer system. Many different industries and professions
   use database management systems, but it could be argued that no industry relies
@@ -112,5 +112,3 @@ While it is true that database management systems are not perfect, they are defi
 
 
 <br />
-
-

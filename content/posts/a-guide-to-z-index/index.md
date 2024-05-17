@@ -2,7 +2,7 @@
 title: 'A Guide to Z-Index: Challenges and Solutions'
 publishDate: '2019-05-22T00:00:00Z'
 authors:
-- Anastasiya Bakuta
+- anastasiya-bakuta
 description: Z-index is a CSS property of an element that determines its position
   relative to other elements on the Z-axis. It applies only to elements with `absolute`,
   `fixed`, `sticky` or `relative` position (respectively, if the position property

@@ -2,7 +2,7 @@
 title: How to Boost Your Mobile App Visibility the Smart Way
 publishDate: '2018-01-21T00:00:00Z'
 authors:
-- Aaron Borecky
+- aaron-borecky
 description: Smartphones constitute a major driving force in our lives today. Besides
   playing a decisive role in our day-to-day activities, the smart devices have a great
   impact on the modern business world. A large section of online users have developed

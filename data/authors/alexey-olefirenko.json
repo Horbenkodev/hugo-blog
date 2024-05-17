@@ -1,1 +1,7 @@
-{"team":false,"avatar":"/img/avatars/alexey_olefirenko.jpg","name":"Alexey Olefirenko","description":"","shortDescription":""}
+{
+  "team": false,
+  "avatar": "/img/avatars/alexey_olefirenko.jpg",
+  "title": "Alexey Olefirenko",
+  "description": "",
+  "shortDescription": ""
+}

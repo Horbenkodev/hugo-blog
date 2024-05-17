@@ -2,7 +2,7 @@
 title: 'Business Analysts: How to Avoid Problems with Project Requirements'
 publishDate: '2019-05-30T00:00:00Z'
 authors:
-- Nick Karlsson
+- nick-karlsson
 description: One of the main reasons for project failure is poor requirements management.
   In this article, we will give insights on what are project requirements, types of
   requirements and how to gather requirements to ensure project success. We will also

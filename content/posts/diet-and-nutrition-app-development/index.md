@@ -10,7 +10,7 @@ promote:
   promote: false
 top: false
 authors:
-  - Mobile Development Team
+  - mobile-development-team
 categories: []
 industries:
   - Sports
