@@ -1,10 +1,9 @@
 <figure class="authorCard">
-  {{- if .author.team -}}
+  {{ if .author.team }}
     <div class="authorCard__avatar">
       {{ partial "team_avatar.html" . }}
     </div>
-  {{- else -}}
-
+  {{ else }}
     {{ $params := dict
       "class" "authorCard__avatar"
       "width" 56
@@ -16,11 +15,11 @@
     }}
 
     {{ partial "image.html" $params }}
+  {{ end }}
 
-  {{- end -}}
   <figcaption class="authorCard__info">
     <a class="authorCard__link" href="{{ .url }}">
-      <span class="authorCard__name">{{ .author.name }}</span>
+      <span class="authorCard__name">{{ .author.title }}</span>
       <span class="authorCard__position">{{ .author.position }}</span>
     </a>
   </figcaption>

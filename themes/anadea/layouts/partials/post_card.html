@@ -1,4 +1,4 @@
-{{- $taxonomyList := slice "categories" "industries" -}}
+{{ $taxonomyList := slice "categories" "industries" }}
 
 <article class="postCard">
   <div class="postCard__content">
@@ -18,20 +18,23 @@
 
     <div class="postCard__caption">
       {{ partial "post_info.html" . }}
+
       <h2 class="postCard__title">
         <a href="{{ .RelPermalink }}" class="postCard__link">
           {{ or .Params.ceoTitle .Params.title }}
         </a>
       </h2>
+
       <p class="postCard__description">{{ .Params.description }}</p>
+
       <div class="postCard__tags">
-        {{- range $taxonomyList -}}
-          {{- with $.Page.GetTerms . -}}
-            {{- range . -}}
+        {{ range $taxonomyList }}
+          {{ with $.Page.GetTerms . }}
+            {{ range . }}
               <a class="tag" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-            {{- end -}}
-          {{- end -}}
-        {{- end -}}
+            {{ end }}
+          {{ end }}
+        {{ end }}
       </div>
     </div>
   </div>
