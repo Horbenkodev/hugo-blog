@@ -1,1 +1,7 @@
-{"team":false,"avatar":"/img/avatars/andrey_kutejko.jpg","name":"Andrey Kutejko","description":"","shortDescription":""}
+{
+  "team": false,
+  "avatar": "/img/avatars/andrey_kutejko.jpg",
+  "title": "Andrey Kutejko",
+  "description": "",
+  "shortDescription": ""
+}

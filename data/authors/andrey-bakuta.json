@@ -1,1 +1,7 @@
-{"team":false,"avatar":"/img/avatars/andrey_bakuta.jpg","name":"Andrey Bakuta","description":"","shortDescription":""}
+{
+  "team": false,
+  "avatar": "/img/avatars/andrey_bakuta.jpg",
+  "title": "Andrey Bakuta",
+  "description": "",
+  "shortDescription": ""
+}

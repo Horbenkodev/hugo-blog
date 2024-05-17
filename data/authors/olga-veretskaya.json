@@ -1,1 +1,7 @@
-{"team":false,"avatar":"/img/avatars/Olga-Veretskaya.png","name":"Olga Veretskaya","description":"","shortDescription":""}
+{
+  "team": false,
+  "avatar": "/img/avatars/Olga-Veretskaya.png",
+  "title": "Olga Veretskaya",
+  "description": "",
+  "shortDescription": ""
+}

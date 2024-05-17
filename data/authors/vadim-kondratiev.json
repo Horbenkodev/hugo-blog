@@ -1,1 +1,7 @@
-{"team":false,"avatar":"/img/avatars/vadim_kondratiev.jpg","name":"Vadim Kondratiev","description":"","shortDescription":""}
+{
+  "team": false,
+  "avatar": "/img/avatars/vadim_kondratiev.jpg",
+  "title": "Vadim Kondratiev",
+  "description": "",
+  "shortDescription": ""
+}

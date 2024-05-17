@@ -1,1 +1,7 @@
-{"team":false,"avatar":"/img/avatars/alexey_kudryashov.jpg","name":"Alexey Kudryashov","description":"","shortDescription":""}
+{
+  "team": false,
+  "avatar": "/img/avatars/alexey_kudryashov.jpg",
+  "title": "Alexey Kudryashov",
+  "description": "",
+  "shortDescription": ""
+}

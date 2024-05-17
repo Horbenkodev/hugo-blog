@@ -1,1 +1,7 @@
-{"team":false,"avatar":"/img/avatars/irina_lysenko.jpeg","name":"Irina Lysenko","description":"","shortDescription":""}
+{
+  "team": false,
+  "avatar": "/img/avatars/irina_lysenko.jpeg",
+  "title": "Irina Lysenko",
+  "description": "",
+  "shortDescription": ""
+}

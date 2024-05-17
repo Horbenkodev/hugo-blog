@@ -1,1 +1,7 @@
-{"team":false,"avatar":"/img/avatars/Vladimir-Shumik.jpg","name":"Vladimir Shumik","description":"","shortDescription":""}
+{
+  "team": false,
+  "avatar": "/img/avatars/Vladimir-Shumik.jpg",
+  "title": "Vladimir Shumik",
+  "description": "",
+  "shortDescription": ""
+}

@@ -1,1 +1,7 @@
-{"team":false,"avatar":"/img/avatars/pasko.jpg","name":"Eugene Pasko","description":"","shortDescription":""}
+{
+  "team": false,
+  "avatar": "/img/avatars/pasko.jpg",
+  "title": "Eugene Pasko",
+  "description": "",
+  "shortDescription": ""
+}

@@ -1,1 +1,7 @@
-{"team":false,"avatar":"/img/avatars/baltaksa.jpg","name":"Danyil Baltaksa","description":"","shortDescription":""}
+{
+  "team": false,
+  "avatar": "/img/avatars/baltaksa.jpg",
+  "title": "Danyil Baltaksa",
+  "description": "",
+  "shortDescription": ""
+}
