@@ -2,7 +2,7 @@
 title: 'Predictive Analytics in Healthcare: Improving Efficiency'
 publishDate: '2019-09-27T00:00:00Z'
 authors:
-- Kimberly Grimms
+- kimberly-grimms
 description: The healthcare industry is one of the multi-dimensional industries in
   the world. It caters to many services, including prevention, diagnosis, and treatment
   of various diseases or impairments in human beings. Health experts and professionals

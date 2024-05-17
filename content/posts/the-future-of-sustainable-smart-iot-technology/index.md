@@ -2,7 +2,7 @@
 title: The Future of Sustainable Smart IoT-Technology
 publishDate: '2020-03-26T00:00:00Z'
 authors:
-- Jori Hamilton
+- jori-hamilton
 description: From solar panels to smart vehicles, energy-saving devices for the home
   to entire cities being powered by smart devices; IoT is making the goal for a sustainable
   future well within our reach.

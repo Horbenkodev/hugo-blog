@@ -2,7 +2,7 @@
 title: 'Online Teaching Platform: Breaking the Barriers of Education'
 publishDate: '2018-10-04T00:00:00Z'
 authors:
-- Katie Taylor
+- katie-taylor
 description: Did you know that online training takes 40-60% less time to complete
   a course than traditional classroom training, and it can increase employee engagement
   in the workplace by over 18%? While some companies and educational establishments

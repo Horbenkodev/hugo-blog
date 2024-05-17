@@ -10,7 +10,7 @@ promote:
   promote: false
 top: false
 authors:
-  - Polina Borysova
+  - polina-borysova
 categories:
   - Development
 industries: []

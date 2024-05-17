@@ -2,7 +2,7 @@
 title: Objectives of Business Signages and How to Design Them
 publishDate: '2018-04-06T00:00:00Z'
 authors:
-- Arlene Jessica
+- arlene-jessica
 description: Businesses gain customer popularity because of the quality of the product
   or service that they provide. However, how do they gain customers in the first place?
   Well, you can definitely start brainstorming for designs because a signage is what

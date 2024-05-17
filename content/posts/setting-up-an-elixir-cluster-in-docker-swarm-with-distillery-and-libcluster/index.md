@@ -2,7 +2,7 @@
 title: Building Elixir Cluster with Docker Swarm, Distillery, Libcluster
 publishDate: '2019-07-05T00:00:00Z'
 authors:
-- Alexey Olefirenko
+- alexey-olefirenko
 description: In this tutorial we'll explore the creation of an Elixir app cluster
   that is run in Docker Swarm and does properly maintain node connectability as the
   swarm scales up and down.

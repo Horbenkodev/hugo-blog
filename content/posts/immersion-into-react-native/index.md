@@ -2,7 +2,7 @@
 title: 'React Native: Navigation, Offline Mode, Push Notifications'
 publishDate: '2018-03-29T00:00:00Z'
 authors:
-- Anastasiya Bakuta
+- anastasiya-bakuta
 description: 'The right choice of navigation is a basis of designing applications
   on React Native. It largely defines the project structure and the performance. At
   the moment, there are two types of navigation: native and JavaScript-based.'

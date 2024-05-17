@@ -10,7 +10,7 @@ promote:
   promote: false
 top: false
 authors:
-  - Ihor Kozar
+  - ihor-kozar
 categories:
   - Development
   - Mobile

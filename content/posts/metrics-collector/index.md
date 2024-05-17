@@ -2,7 +2,7 @@
 title: MetricsCollector for Ruby on Rails
 publishDate: '2022-08-04T00:00:00Z'
 authors:
-- Danyil Baltaksa
+- danyil-baltaksa
 description: This article will introduce you the Ruby tool that we have built at Anadea
   to automate some repetitive processes.
 image: cacti.jpg

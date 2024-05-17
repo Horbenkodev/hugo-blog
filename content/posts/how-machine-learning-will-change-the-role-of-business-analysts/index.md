@@ -2,7 +2,7 @@
 title: How Machine Learning Will Change the Role of Business Analysts
 publishDate: '2018-12-27T00:00:00Z'
 authors:
-- Nadine Rochester
+- nadine-rochester
 description: Machine learning (ML) is a technology that is related to artificial intelligence
   (AI), based around the idea that systems can learn from data and either improve
   performance or become more accurate. It is linked to the concept of automation,

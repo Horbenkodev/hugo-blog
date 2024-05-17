@@ -2,7 +2,7 @@
 title: 'Big Data in Education: Realities, Challenges and Opportunities'
 publishDate: '2018-06-20T00:00:00Z'
 authors:
-- Charles Ebert
+- charles-ebert
 description: The Internet of Things (IoT) and a new, dynamic web (known as Web 2.0)
   are here upon us, and as some wise old dude stated, we have no choice but to adapt
   or perish. One of the newer technologies related to the IoT is Big Data, which fundamentally

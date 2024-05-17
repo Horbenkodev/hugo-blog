@@ -2,7 +2,7 @@
 title: Top-5 Qualities Of a Great Software Developer
 publishDate: '2018-06-25T00:00:00Z'
 authors:
-- Khristine Agase
+- khristine-agase
 description: As the software development industry is growing at a rapid pace, the
   need for qualified software developers is also rising each day. When it comes to
   your software development needs, undoubtedly you only want to partner with a great

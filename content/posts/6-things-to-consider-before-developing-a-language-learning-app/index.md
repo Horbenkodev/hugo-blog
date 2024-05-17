@@ -2,7 +2,7 @@
 title: 6 Secrets of Successful Language Learning App Development
 publishDate: '2018-10-09T00:00:00Z'
 authors:
-- Ronnie Avelino
+- ronnie-avelino
 description: Learning a new language is almost de rigueur today, as globalization
   demands multilingual language skills. Language learning is a chance to expand business
   activities, find new opportunities for employment and to improve one's intellectual

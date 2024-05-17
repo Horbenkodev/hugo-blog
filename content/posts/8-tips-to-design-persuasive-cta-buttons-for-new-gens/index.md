@@ -2,7 +2,7 @@
 title: How to Design the Best CTA Buttons for New Gens
 publishDate: '2020-01-10T00:00:00Z'
 authors:
-- Aaron Chichioco
+- aaron-chichioco
 description: In the game of web design and online marketing where getting noticed
   by customers matter most, CTA buttons are one of the biggest players. Their role
   is very important - to subtly but effectively drive website users to do what you

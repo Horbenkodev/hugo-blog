@@ -2,7 +2,7 @@
 title: 'Onboarding a New Software Developer: Mistakes to Avoid'
 publishDate: '2016-07-21T00:00:00Z'
 authors:
-- Vadim Kondratiev
+- vadim-kondratiev
 description: Software development is no different from other areas of knowledge -
   some people can master it, some cannot. Some software developers can create high-profile
   applications, others deliver code full of bugs that never gets into production.

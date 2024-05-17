@@ -10,7 +10,7 @@ promote:
   promote: false
 top: true
 authors:
-  - Alexander Mikhalchenko
+  - alexander-mikhalchenko
 categories:
   - DevOps
 industries: []

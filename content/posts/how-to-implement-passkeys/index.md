@@ -2,7 +2,7 @@
 title: 'Passkey Implementation Guide: Third-party and Custom Solutions'
 publishDate: '2024-03-25T00:00:00Z'
 authors:
-- Eugene Pasko
+- eugene-pasko
 description: Learn everything about passkey implementation for your business. Ditch
   passwords, boost your software security with our ultimate guide.
 image: passkey_implementation.jpg

@@ -2,7 +2,7 @@
 title: 'Best Flutter Packages: Developers'' Top Picks'
 publishDate: '2023-11-17T00:00:00Z'
 authors:
-- Ihor Kozar
+- ihor-kozar
 description: Navigating thousands of Flutter packages is getting overwhelming? Discover
   our Flutter developers' top picks and alternatives that ensure compatibility, efficiency,
   and ease of use.

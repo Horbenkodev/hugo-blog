@@ -2,7 +2,7 @@
 title: How Much Does It Cost to Develop an App for Healthcare?
 publishDate: '2022-02-23T00:00:00Z'
 authors:
-- Vadim Kondratiev
+- vadim-kondratiev
 description: It takes the time and skills of a whole team of specialists to develop
   a healthcare app. Find all you need to know before building a health app, including
   many aspects that can affect its cost.

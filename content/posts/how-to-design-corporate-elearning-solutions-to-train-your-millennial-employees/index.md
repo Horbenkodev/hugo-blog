@@ -2,7 +2,7 @@
 title: How to Design Corporate eLearning Solutions for Young Employees
 publishDate: '2018-08-31T00:00:00Z'
 authors:
-- Berta Melder
+- berta-melder
 description: Just a few years ago, nobody expected that the issue of employee retention
   would become so global. Today, more than 35% of the American workforce consists
   of millennials. This generation dictates its own standards, changing the game, and

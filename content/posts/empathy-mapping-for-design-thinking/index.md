@@ -10,7 +10,7 @@ promote:
   promote: false
 top: false
 authors:
-  - Business Analysis Team
+  - business-analysis-team
 categories:
   - Design
 industries: []

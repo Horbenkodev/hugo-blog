@@ -2,7 +2,7 @@
 title: Integrating Self-Storage Services in Web Software
 publishDate: '2017-12-04T00:00:00Z'
 authors:
-- Vadim Kondratiev
+- vadim-kondratiev
 description: Self-storage facilities are companies that provide storage space (lockers,
   containers, garages, etc.) by lease. Often, self-storage companies have multiple
   locations with a few hundred of units in each. It is quite a big business and it

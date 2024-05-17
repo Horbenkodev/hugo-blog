@@ -10,7 +10,7 @@ promote:
   promote: false
 top: true
 authors:
-  - AI/ML Team
+  - ai-ml-team
 categories:
   - Business
 industries:

@@ -11,7 +11,7 @@ promote:
   promote: false
 top: false
 authors:
-  - Web Development Team
+  - web-development-team
   - Mobile Development Team
 categories:
   - Business

@@ -2,7 +2,7 @@
 title: Localizing a Medical Management Software
 publishDate: '2019-05-08T00:00:00Z'
 authors:
-- Bernadine Racoma
+- bernadine-racoma
 description: Medical software localization is a delicate task. It's not something
   that can be delegated to just anyone who knows basic translation or someone fluent
   in the source and target languages. Mistakes can create inefficiencies or lead to

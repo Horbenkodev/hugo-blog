@@ -2,7 +2,7 @@
 title: How to Use Recompose to Streamline React Development
 publishDate: '2019-04-16T00:00:00Z'
 authors:
-- Andrey Bakuta
+- andrey-bakuta
 description: It's pretty exciting to observe how DRY coding tools in React were changing
   over time. And we must give credit to the developers - at no stage in the development
   of this library were any recommendations to use inheritance to solve such problems.

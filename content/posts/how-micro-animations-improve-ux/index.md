@@ -2,7 +2,7 @@
 title: How Micro Animations Improve UX
 publishDate: '2018-11-06T00:00:00Z'
 authors:
-- Pete Trbovich
+- pete-trbovich
 description: These days engagement is the name of the game when it comes to websites
   and apps. Brands know that competition in the marketplace is fierce, attention spans
   are short, and customer loyalty can be fickle. Therefore, websites and apps need

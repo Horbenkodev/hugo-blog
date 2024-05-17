@@ -2,7 +2,7 @@
 title: 'Telehealth Solutions: Costs, Benefits and Challenges'
 publishDate: '2022-09-14T00:00:00Z'
 authors:
-- Daria Lopukhina
+- daria-lopukhina
 description: When everyone is busy, being poorly can be an inconvenience that many
   people don't have the time to deal with. Doctors, too, are some of the busiest professionals
   in the world and are often struggling under the weight of too much work without

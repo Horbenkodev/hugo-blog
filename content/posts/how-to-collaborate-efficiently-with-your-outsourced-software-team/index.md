@@ -2,7 +2,7 @@
 title: How to Collaborate Efficiently With Your Outsourced Software Team
 publishDate: '2018-05-22T00:00:00Z'
 authors:
-- Andrew Carroll
+- andrew-carroll
 description: Software development is a complex process. The success of the whole IT
   project depends on the efforts of each team member and, of course, the mutual understanding
   of the team members and clients. This connection is difficult to ensure particularly

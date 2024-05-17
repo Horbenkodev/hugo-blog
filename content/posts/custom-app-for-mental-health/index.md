@@ -2,7 +2,7 @@
 title: How to Develop a Mental Health Application
 publishDate: '2022-03-14T00:00:00Z'
 authors:
-- Irina Lysenko
+- irina-lysenko
 description: If your mental health startup is determined to make a difference in the
   mental health apps niche, here's an article for you.
 image: pexels-photo-668353.jpeg

@@ -2,7 +2,7 @@
 title: 9 Best Programming Languages to Learn in 2019
 publishDate: '2019-02-28T00:00:00Z'
 authors:
-- Neeraj
+- neeraj
 description: There is no doubt that the IT industry has taken over as one of the most
   productive industries. And more than half of the jobs in the IT field require good
   programming knowledge. The demand for developers has skyrocketed recently as every

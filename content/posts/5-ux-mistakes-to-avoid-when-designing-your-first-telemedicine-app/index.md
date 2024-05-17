@@ -2,7 +2,7 @@
 title: 5 UX Mistakes to Avoid When Designing Your First Telemedicine App
 publishDate: '2018-02-28T00:00:00Z'
 authors:
-- Zyana Morris
+- zyana-morris
 description: Developing a mobile application is a complicated task, especially when
   you are designing a telemedicine app that will facilitate online health visits.
   As a developer, you need to fit in the unique user interface with excellent app

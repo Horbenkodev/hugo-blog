@@ -2,7 +2,7 @@
 title: 'Sticky Navigation: Is it Worth It?'
 publishDate: '2019-04-04T00:00:00Z'
 authors:
-- Aaron Chichioco
+- aaron-chichioco
 description: Web design trends rise and fall like waves in the sea of time. Beneath
   this attempt at poesy is an undeniable fact. Sure, some best practices, such as
   responsive design, seem like they're here to stay, but many will hit the curb in

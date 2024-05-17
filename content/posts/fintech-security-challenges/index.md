@@ -2,7 +2,7 @@
 title: Top 5 Fintech Security Challenges and How to Overcome Them
 publishDate: '2024-04-03T00:00:00Z'
 authors:
-- Eugene Stepchenko
+- eugene-stepchenko
 description: Fintech businesses are the fortress architects, responsible for keeping
   their users’ data safe. Explore our view on how to strengthen cybersecurity in fintech.
 image: dark_side_of_fintech.jpg

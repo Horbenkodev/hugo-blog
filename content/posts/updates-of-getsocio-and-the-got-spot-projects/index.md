@@ -2,7 +2,7 @@
 title: What's New? Updates of Getsocio and The Got Spot projects
 publishDate: '2018-09-19T00:00:00Z'
 authors:
-- Vladimir Shumik
+- vladimir-shumik
 description: Recently we've released a new mobile app - The Got Spot app. The launch
   of this application is closely related to our Getsocio project, so let's first talk
   about major updates of Getsocio itself and some other linked projects.

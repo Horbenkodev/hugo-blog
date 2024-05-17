@@ -2,7 +2,7 @@
 title: 5 Reasons Why App Development is Dying & Why We Need Superior Apps
 publishDate: '2018-03-09T00:00:00Z'
 authors:
-- Alma Causey
+- alma-causey
 description: Just as the dinosaurs never imagined their extinction, it's hard to believe
   that the millions of apps in the app store are being threatened with termination.
   Yes, it may be difficult to digest, but industry experts claim that the app ecosystem

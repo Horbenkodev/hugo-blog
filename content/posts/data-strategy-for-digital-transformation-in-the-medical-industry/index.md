@@ -2,7 +2,7 @@
 title: Data Strategy for Digital Transformation in the Medical Industry
 publishDate: '2018-12-05T00:00:00Z'
 authors:
-- Nick Andrew Rojas
+- nick-andrew-rojas
 description: As technology blurs the line between digital and physical medical care,
   private practices and doctors must start using technology to promote the intimate
   connection necessary in doctor-patient relationships. In 2017, more than 95% of

@@ -2,7 +2,7 @@
 title: How eLearning Help Students With Anxiety
 publishDate: '2019-04-23T00:00:00Z'
 authors:
-- Tiffany Harper
+- tiffany-harper
 description: Anxiety is a very broad term that can be defined in many different ways.
   According to the definition at WebMD.com, anxiety disorders are a group of mental
   illnesses, which cause overwhelming and constant fear and worry. All anxiety disorders
@@ -148,4 +148,3 @@ Take the above-listed tips into consideration. They help you make eLearning more
 
 ---
 *This is a guest post by **Tiffany Harper.** Tiffany is an experienced writer from New York (USA) and an extremely active woman. She began her career as a journalist, and now she works as a subject matter specialist with <a href="https://www.bestessays.com/" target="_blank">Bestessays.com</a>, mostly in business and eLearning technologies. Please do not hesitate to contact her on <a href="https://twitter.com/harper_tiffany" target="_blank">Twitter</a>.*
-
