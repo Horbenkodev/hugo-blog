@@ -98,7 +98,6 @@ collections:
         media_folder: "/assets/img/avatars"
         public_folder: "/img/avatars"
       - {label: "Description", name: "description", widget: "text"}
-      - {label: "Short Description", name: "shortDescription", widget: "text"}
       - {label: "Position", name: "position", widget: "string", required: false}
     sortable_fields: ["name"]
 
