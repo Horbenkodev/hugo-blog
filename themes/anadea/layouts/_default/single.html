@@ -1,5 +1,5 @@
 {{ define "page-css" }}
-  {{ partial "head/page_css.html" (dict
+  {{ partial "head_resources/page_css.html" (dict
     "sourcePath" "scss/post.scss"
     "targetPath" "css/post.css"
     )
@@ -7,7 +7,7 @@
 {{ end }}
 
 {{ define "page-js" }}
-  {{ partial "head/page_js.html" (dict  "sourcePath" "js/post.js") }}
+  {{ partial "head_resources/page_js.html" (dict  "sourcePath" "js/post.js") }}
 {{ end }}
 
 {{ define "main" }}
