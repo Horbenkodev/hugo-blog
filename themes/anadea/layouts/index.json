@@ -1,0 +1,28 @@
+{{- $.Scratch.Add "index" slice -}}
+
+{{- range .Site.RegularPages -}}
+  {{- $authorTitle := slice -}}
+  {{- with .Page.GetTerms "authors" -}}
+    {{- with index . 0 -}}
+      {{- $baseName := path.BaseName .Path -}}
+      {{- with index .Site.Data.authors $baseName -}}
+        {{- $authorTitle = .title -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- $srcset := partial "utils/srcset.html" . -}}
+  {{- $.Scratch.Add "index" (dict
+    "title" .Title
+    "description" .Params.description
+    "categories" .Params.categories
+    "industries" .Params.industries
+    "image" .Params.image
+    "srcset" $srcset
+    "permalink" .RelPermalink
+    "authors" (slice $authorTitle)
+    "publishDate" .Params.publishDate
+    )
+  -}}
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}
