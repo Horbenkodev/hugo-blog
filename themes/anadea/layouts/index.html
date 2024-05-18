@@ -38,9 +38,11 @@
     {{ $paginator := .Paginate $feed }}
 
     <div class="postFeed">
-      {{- range $paginator.Pages }}
-        {{- partial "post_card.html" . -}}
-      {{ end -}}
+      {{ with $paginator }}
+        {{ range .Pages }}
+          {{ partial "post_card.html" . }}
+        {{ end }}
+      {{ end }}
     </div>
 
     {{ partial "pagination.html" . }}
