@@ -47,7 +47,6 @@
 
 <link rel="canonical" href="{{ .Permalink }}">
 
-{{ partialCached "head/application_css.html" . }}
-{{ partialCached "head/application_js.html" . }}
-
-{{ partial "gtm.html" . }}
+{{ partialCached "head_resources/application_css.html" . }}
+{{ partialCached "head_resources/application_js.html" . }}
+{{ partialCached "head_resources/gtm.html" . }}
