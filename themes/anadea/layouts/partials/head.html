@@ -17,7 +17,7 @@
   <meta name="og:description" content="{{ .Description }}">
   <meta name="twitter:description" content="{{ .Description }}">
 {{ else }}
-  {{ $defaultTitle := printf "Custom Software Development Blog | Anadea - page %d" .Paginator.PageNumber }}
+  {{ $defaultTitle := printf "Custom Software Development Blog | Anadea" }}
   {{ $defaultDescription := "Blog about custom software development, web technologies, agile practices and interesting projects we work on." }}
 
   <title>{{ $defaultTitle }}</title>
@@ -47,7 +47,6 @@
 
 <link rel="canonical" href="{{ .Permalink }}">
 
-{{ partialCached "head/application_css.html" . }}
-{{ partialCached "head/application_js.html" . }}
-
-{{ partial "gtm.html" . }}
+{{ partialCached "head_resources/application_css.html" . }}
+{{ partialCached "head_resources/application_js.html" . }}
+{{ partialCached "head_resources/gtm.html" . }}

@@ -3,9 +3,9 @@ $indicator-size: clamped(28px, 44px);
 $grid-gap: clamped(16px, 22px);
 
 @mixin light {
-  --border-color: var(--gunmetal);
+  --border-color: var(--mercury);
   --main-text: var(--black);
-  --meta-text: var(--slate-gray);
+  --meta-text: var(--emperor);
   --background-color: var(--white);
 }
 

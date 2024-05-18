@@ -1,5 +1,5 @@
 {{ define "page-css" }}
-  {{ partial "head/page_css.html" (dict
+  {{ partial "head_resources/page_css.html" (dict
     "sourcePath" "scss/author.scss"
     "targetPath" "css/author.css"
     )
@@ -7,7 +7,7 @@
 {{ end }}
 
 {{ define "page-js" }}
-  {{ partialCached "head/search_form_js.html" . }}
+  {{ partialCached "head_resources/search_form_js.html" . }}
 {{ end }}
 
 {{ define "main" }}
@@ -17,15 +17,18 @@
     {{ partial "page_head.html" . }}
 
     {{ with index .Site.Data.authors $baseName }}
-      <h1 class="title">{{ .title }}</h1>
-      {{ partial "hero_card.html" . }}
+    <h1 class="title">{{ .title }}</h1>
+    {{ partial "hero_card.html" . }}
     {{ end }}
 
     {{ partial "filters.html" . }}
 
     <div class="postFeed">
-      {{ range .Paginator.Pages }}
-        {{ partial "post_card.html" . }}
+      {{ $paginator := .Paginate .Pages }}
+      {{ with $paginator }}
+        {{ range .Pages }}
+          {{ partial "post_card.html" . }}
+        {{ end }}
       {{ end }}
     </div>
 

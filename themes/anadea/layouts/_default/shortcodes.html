@@ -4,9 +4,9 @@
   dir="{{ or site.Language.LanguageDirection `ltr` }}"
 >
   <head>
-    {{ partial "head/application_css.html" }}
+    {{ partial "head_resources/application_css.html" }}
 
-    {{ partial "head/page_css.html" (dict
+    {{ partial "head_resources/page_css.html" (dict
       "sourcePath" "scss/post.scss"
       "targetPath" "css/post.css"
       )

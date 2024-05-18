@@ -1,10 +1,12 @@
+$text-color: var(--white);
+
 a.ctaButton {
   display: inline-block;
   padding: 16px 24px;
   margin: 0 auto;
   font-size: 18px;
   font-weight: 400;
-  line-height: 1.5;
+  line-height: 0.9;
   color: #ffffff;
   text-decoration: none;
   border: none;
@@ -13,7 +15,7 @@ a.ctaButton {
   @include mainButton;
 
   &:hover {
-    color: inherit;
+    color: $text-color;
     text-decoration: inherit;
   }
 }

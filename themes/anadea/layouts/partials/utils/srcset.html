@@ -1,20 +1,19 @@
-{{ $image := dict }}
-{{ $srcset := "" }}
+{{- $image := dict -}}
+{{- $srcset := "" -}}
 
-{{ with .Resources.GetMatch .Params.image }}
-  {{ $image = . }}
-  {{ range site.Params.deviceSizes }}
+{{- with .Resources.GetMatch .Params.image -}}
+  {{- $image = . -}}
+  {{- range site.Params.deviceSizes -}}
     {{- if ge $image.Width . -}}
-      {{ $spec := print . `x webp`}}
-      {{ $url := print ($image.Resize $spec).RelPermalink " " . "w" }}
+      {{- $spec := print . `x webp` -}}
+      {{- $url := print ($image.Resize $spec).RelPermalink " " . "w" -}}
 
-      {{ if eq $srcset "" }}
-        {{ $srcset = print $url }}
-      {{ else }}
-        {{ $srcset = print $srcset ", " $url }}
-      {{ end }}
-    {{ end }}
-  {{ end }}
-{{ end }}
-
-{{ $srcset }}
+      {{- if eq $srcset "" -}}
+        {{- $srcset = print $url -}}
+      {{- else -}}
+        {{- $srcset = print $srcset ", " $url -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $srcset -}}

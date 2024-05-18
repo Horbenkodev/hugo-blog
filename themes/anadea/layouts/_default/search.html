@@ -1,10 +1,10 @@
 {{- define "page-js" -}}
-  {{ partialCached "head/search_js.html" . }}
-  {{ partialCached "head/search_form_js.html" . }}
+  {{ partialCached "head_resources/search_js.html" . }}
+  {{ partialCached "head_resources/search_form_js.html" . }}
 {{- end -}}
 
 {{ define "page-css" }}
-  {{ partialCached "head/page_css.html" (dict
+  {{ partialCached "head_resources/page_css.html" (dict
     "sourcePath" "scss/home.scss"
     "targetPath" "css/home.css"
     )
