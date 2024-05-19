@@ -11,7 +11,7 @@ promote:
 top: false
 draft: true
 industries:
-- Healthcare
+- healthcare
 categories: []
 ---
 Scientists in medicine synthesize organs and tissues, create realistic prosthetic devices, and make other things thought fantastic real. Impressive it is, but how is technology advancement applied in more routine healthcare operations? It is applied in a way, more precisely – in <a href="https://anadea.info/solutions/medical-app-development" target="_blank">medical app development</a>. But before going further, one issue has to be clarified.

@@ -12,7 +12,7 @@ promote:
 top: false
 draft: true
 industries:
-- Healthcare
+- healthcare
 categories: []
 ---
 Updated 13 September, 2021.

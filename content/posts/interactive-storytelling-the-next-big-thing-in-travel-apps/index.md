@@ -13,7 +13,7 @@ promote:
 top: false
 draft: true
 industries:
-- Travel
+- travel
 categories: []
 ---
 As of the end of 2022, Instagram, the widely used photo-sharing app, has surpassed 2.5 billion active users. It is projected that the social media platform, which is owned by Facebook, now generates over $20 billion in advertising revenue, marking a staggering 264% increase from the $5.5 billion reported in 2017.

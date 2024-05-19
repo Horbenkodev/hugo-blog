@@ -14,7 +14,7 @@ promote:
 top: false
 draft: true
 industries:
-- Real Estate
+- real-estate
 categories: []
 ---
 Real estate industry is a wide and profitable segment that will hardly ever fall into decay. That's why it is not surprising that many companies provide their services in that business area. If you are going to enter this market, one of the critical steps you have to take is to find an awesome name for your company. As a <a href="https://anadea.info/solutions/real-estate-software" target="_blank">real estate software development company</a>, we've had the opportunity to work with numerous businesses in this area and we're more than willing to assist you with this task.

@@ -12,7 +12,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Mobile
+- mobile
 ---
 App builders (no-code and low-code platforms) broke into the app development market not so long ago. The rise of interest started in the 2010s. However, the idea of developing software without software developers has been discussed since at least 1982. James Martin published a book called Application Development Without Programmers. Today low-code and no-code platforms and tools all go under the terms app builder (sometimes app creator, drag-and-drop builder, DIY builder).
 

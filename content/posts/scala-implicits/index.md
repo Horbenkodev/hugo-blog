@@ -13,7 +13,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Development
+- development
 ---
 Programmers strive to write simple and understandable code. The less code is written, the less likely it is that there is an error in it. <a href="https://anadea.info/services/web-development/java-and-scala-development">Scala development</a> offers the ability to write even more concise code and rely on the help of the compiler. This is achieved through implicit conversions and implicit parameters. However, everything that is implicit, usually brings only misunderstanding. Let's see what lies behind the magic of implicits in Scala.
 

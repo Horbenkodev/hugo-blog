@@ -15,7 +15,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 Over the years, technology has drastically changed the way we have lived our lives. There is no denying that the modern world is exorbitantly different from the world just 100 years ago. We are currently living in an era that is overwhelmed with technology to make daily living easier, and holidays are not an exception.
 

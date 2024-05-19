@@ -14,7 +14,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Development
+- development
 ---
 Certain work requires specific tools, as people say. If you want to dig a hole - use a spade, a nail can be battered down with a hammer, a tree can be cut with an axe, etc. But there will always be tasks, for which using a standard tool won't be enough - you will have to enhance and customize it. A power shovel will serve much better than a spade for making a huge pit and if you need to mount something without making holes, you'll have to put the hammer aside and use some superglue instead. Tools must be adjusted to the task and the requirements of specialists who perform this task.
 

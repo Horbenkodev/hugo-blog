@@ -13,7 +13,7 @@ promote:
 top: false
 draft: true
 industries:
-- eLearning
+- elearning
 categories: []
 ---
 Updated on 12 August, 2021

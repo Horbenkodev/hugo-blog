@@ -12,7 +12,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 Today the growing popularity of SaaS solutions is quite obvious The interest of companies from different spheres in launching solutions of this kind is well explicable given the fact that remote work has become a real trend and the need for mobility is growing as well. But when you want to launch a SaaS product and contact a development company, there is a high chance that developers will offer you SaaS MVP development services at first. Is it really a feasible idea? Do you need to invest your money in a SaaS MVP before proceeding to the development of a full-scale solution?
 

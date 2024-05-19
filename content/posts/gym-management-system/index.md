@@ -11,7 +11,7 @@ promote:
 top: false
 draft: true
 industries:
-- Sports
+- sports
 categories: []
 ---
 Today we can see that many industries and markets are experiencing a stage of active digitalization that is boosted by the progress made in the tech world. The fitness industry is also one of those that are open to technologies and are ready to welcome innovations that can bring benefits to market participants. The range of solutions for this industry is rather wide. For example, on our blog, we have already shared our insights into the development of <a href="https://anadea.info/blog/how-to-build-workout-fitness-app" target="_blank">fitness workout apps</a> and now we'd like to provide you with practical tips on how to build management software for gyms that will be bound to succeed.

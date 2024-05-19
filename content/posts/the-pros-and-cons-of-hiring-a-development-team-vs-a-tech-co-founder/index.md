@@ -16,7 +16,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 In 2022, gross consumer mobile app spending amounted to 167 billion U.S. dollars. So if you're searching for a way to get your own app idea into the hands of users, there's never been a better time. The app market isn't just booming... it's exploding.
 

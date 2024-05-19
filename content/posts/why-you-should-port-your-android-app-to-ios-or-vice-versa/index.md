@@ -13,7 +13,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 There is a joke in game industry: if you want to get profit from one game several times - port it to another platform. Look at Rockstar company, for example. In 2013 Grand Theft Auto V assailed consoles with sales in millions of copies and billions of dollars. When the craze has died down, they released the game on PCs, added some updates and ta da - GTA V became the market leader again!
 

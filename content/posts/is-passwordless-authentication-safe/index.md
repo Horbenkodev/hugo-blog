@@ -12,7 +12,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 The security of tech solutions and data protection are among the most serious concerns regarding the development and launch of software products. And security-related fears are not groundless. The tools and methods used by hackers are becoming more sophisticated. This leads to situations when traditional security measures are just not powerful enough to protect users and their data. According to the recently published <a href="https://www.esentire.com/resources/library/2023-official-cybercrime-report" target="_blank">report</a>, the global annual cost of cybercrime can hit an alarming amount of $9.5 trillion in 2024. In 2025, this figure is expected to reach the level of $10.5 trillion.
 

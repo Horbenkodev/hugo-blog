@@ -14,7 +14,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Development
+- development
 ---
 So you're working with Flutter, and you're staring down the barrel of 33,000+ packages on Pub.dev. The eternal question: which ones are worth your time? Choice paralysis is real, so let's cut through the noise. This post is about the packages that we, developers at Anadea, actually find useful in our day-to-day work. We've sorted them into essential categories and also offer up an alternative for each!
 

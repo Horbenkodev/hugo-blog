@@ -13,7 +13,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Fintech
+- fintech
 ---
 <center><sub>Image source: <a href="https://dribbble.com/shots/3943504-Banking-App" rel="nofollow" target="_blank">Dribbble - Anadea</a></a></sub></center>
 

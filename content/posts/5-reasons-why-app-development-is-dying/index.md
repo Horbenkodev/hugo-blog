@@ -15,7 +15,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 Just as the dinosaurs never imagined their extinction, it's hard to believe that the millions of apps in the app store are being threatened with termination. Yes, it may be difficult to digest, but industry experts claim that the app ecosystem – one of the largest - is on the verge of failing.
 

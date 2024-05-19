@@ -11,9 +11,9 @@ promote:
 top: false
 draft: true
 industries:
-- Real Estate
+- real-estate
 categories:
-- Web
+- web
 ---
 How many deals are closed on real estate websites every day, be it renting, buying, or selling? It’s impossible to calculate it even close to approximately since there are thousands and thousands of real estate websites with millions of visitors a day.
 

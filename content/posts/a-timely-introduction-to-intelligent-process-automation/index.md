@@ -13,7 +13,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 ***Intelligent process automation, and other ways of automating previously manual ways of working, has never been more timely or relevant.***
 

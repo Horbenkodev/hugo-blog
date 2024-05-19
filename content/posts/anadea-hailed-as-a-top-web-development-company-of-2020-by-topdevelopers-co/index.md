@@ -12,7 +12,7 @@ top: false
 draft: true
 industries: []
 categories:
-- News
+- news
 ---
 At Anadea we have made perfection a habit and not a goal. This is the reason why in a recent <a href="https://www.topdevelopers.co/press-releases/leading-web-development-companies-june-2020" rel="nofollow" target="_blank">press release about the leading web developers</a> of June 2020 by TopDevelopers.co, has the name of Anadea in a prominent position in the list of efficient firms. TopDevelopers.co is a reputed research and review platform and directory of B2B IT Service Providers worldwide. We are happy and proud about this recognition.
 

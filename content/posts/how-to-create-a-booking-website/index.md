@@ -11,7 +11,7 @@ promote:
 top: false
 draft: true
 industries:
-- Travel
+- travel
 categories: []
 ---
 Do you remember the last time when you called a hotel to book a room? Yes, we know, it's a very complicated question. Probably you have never done it all. Today the processes in the hospitality industry don't look as they used to several decades ago. A major part of the interaction between a hotel and guests takes place on an online hotel booking system. And without any doubt, it is a win-win game. While clients can greatly save time and book a room with just a couple of clicks at any time of the day, hotels can automate this process and minimize risks caused by human factors.

@@ -14,7 +14,7 @@ promote:
 top: false
 draft: true
 industries:
-- Real Estate
+- real-estate
 categories: []
 ---
 When investing in real estate, especially in rental properties, one should make quick and well-informed decisions, backed by data. The real estate market changes at a rapid pace, and for success, you have to be able to adapt to those changes just as fast.

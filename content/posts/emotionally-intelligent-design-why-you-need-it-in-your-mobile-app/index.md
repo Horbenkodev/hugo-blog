@@ -15,7 +15,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Design
+- design
 ---
 Nearly all of us have a smartphone. We use various applications every day - document management, driving assistance, dictionaries, workout tracking, [brain puzzles](https://anadea.info/blog/7-cool-apps-for-boosting-your-brain-power), local weather, barcode scanners, you name it. There are as many apps in App Store and Google Play as stars in the sky.
 

@@ -16,8 +16,8 @@ top: false
 draft: true
 industries: []
 categories:
-- Web
-- Development
+- web
+- development
 ---
 Web development is a long and storied process. From the Internet's humblest of beginnings in the 1960s as a US Department of Defense project to its existence today as the ultimate communications tool, web developers have been there every step of the way, innovating and thinking up new and interesting ways to apply technology to our lives.
 

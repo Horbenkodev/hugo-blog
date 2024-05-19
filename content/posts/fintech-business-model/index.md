@@ -12,8 +12,8 @@ top: false
 draft: true
 industries: []
 categories:
-- Fintech
-- Business
+- fintech
+- business
 ---
 Traditional banking and financial services and products are continuously losing their efficiency in the modern world. Due to their inflexibility, they can’t fully address all the existing needs of markets. As a result, customers do not have any other choice but to start looking for alternative options. Here is when fintech solutions enter the arena to change the landscape of financial services once and for all.
 

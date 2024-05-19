@@ -12,7 +12,7 @@ promote:
 top: false
 draft: true
 industries:
-- Real Estate
+- real-estate
 categories: []
 ---
 ***Zillow is a serious player in the U.S. real estate market. Founded in 2006, Zillow now contains a database of 110 million homes and apartments across the U.S., with buyers, sellers and renters using the platform to move house.***

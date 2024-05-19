@@ -12,7 +12,7 @@ promote:
 top: false
 draft: true
 industries:
-- Healthcare
+- healthcare
 categories: []
 ---
 Some years ago, when you wanted to get an appointment at a medical center or clinic, you had to be ready to listen to the short beeps of a busy line for hours. Although some healthcare institutions still follow the same patterns, many others have already introduced alternative methods. Thanks to the digitalization of this process, now, when you need to visit a doctor, it can be enough just to make a couple of taps in a medical appointment app.

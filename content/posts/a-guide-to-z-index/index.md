@@ -16,8 +16,8 @@ top: false
 draft: true
 industries: []
 categories:
-- Development
-- Design
+- development
+- design
 ---
 ## What is z-index?
 

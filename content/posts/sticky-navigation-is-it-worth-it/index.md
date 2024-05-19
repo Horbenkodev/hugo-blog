@@ -17,7 +17,7 @@ top: false
 draft: true
 industries: []
 categories:
-- UX-UI
+- ux-ui
 ---
 Web design trends rise and fall like waves in the sea of time. Beneath this attempt at poesy is an undeniable fact. Sure, some best practices, such as <a href="https://redstagfulfillment.com/online-store-work-across-all-devices/" target="_blank">responsive design</a>, seem like they're here to stay, but many will hit the curb in a year or two, if they haven't yet. Sticky navigation has been around for a while, but it's expected to become big this year. Should you incorporate it into your site? It depends.
 

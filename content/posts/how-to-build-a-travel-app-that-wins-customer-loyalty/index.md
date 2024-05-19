@@ -13,7 +13,7 @@ promote:
 top: false
 draft: true
 industries:
-- Travel
+- travel
 categories: []
 ---
 Travelers want to focus on enjoying their trip, not getting bogged down by planning the details. With predictions of <a href="https://www.lonelyplanet.com/articles/international-travel-increase-next-decade" target="_blank">280 million households</a> travelling internationally at least once a year by 2025, there is a strong growth in apps to support users along every step.

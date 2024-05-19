@@ -15,7 +15,7 @@ promote:
 top: false
 draft: true
 industries:
-- Healthcare
+- healthcare
 categories: []
 ---
 As technology blurs the line between digital and physical medical care, private practices and doctors must start using technology to promote the intimate connection necessary in doctor-patient relationships. More than 95% of non-federal acute care hospitals used information technology for health care today. Technology in medicine is widespread and growing, redefining how we think about healthcare.

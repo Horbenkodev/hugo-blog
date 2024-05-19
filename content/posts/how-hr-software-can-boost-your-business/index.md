@@ -15,7 +15,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 A growing business is an indicator of its success, but more people on the payroll can become a headache for HR personnel.
 

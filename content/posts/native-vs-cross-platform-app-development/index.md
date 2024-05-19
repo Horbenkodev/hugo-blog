@@ -13,8 +13,8 @@ top: false
 authors:
   - mobile-development-team
 categories:
-  - Development
-  - Mobile
+  - development
+  - mobile
 industries: []
 questionary:
   - question: What is the main difference between native app development vs

@@ -12,7 +12,7 @@ promote:
 top: false
 draft: true
 industries:
-- eLearning
+- elearning
 categories: []
 ---
 The thesis that games are only for kids should be forgotten once and forever because it is not true! Everyone loves games in one form or another. Of course, the games that are interesting to toddlers do not look quite engaging for teenagers, while some entertainments created for adults can’t attract children from primary school. But the fact that we all like the spirit of competition and the taste of victory is obvious. Namely, it provides the foundation for the increasing popularity of the gamification concept.

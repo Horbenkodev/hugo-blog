@@ -11,9 +11,9 @@ promote:
 top: false
 draft: true
 industries:
-- Healthcare
+- healthcare
 categories:
-- Fintech
+- fintech
 ---
 Healthcare is one of those industries that are actively adopting various <a href="https://anadea.info/solutions/medical-app-development" target="_blank">digital solutions</a> these days. A lot of them are directly aimed at increasing the quality of medical services and expanding their range. Nevertheless, we shouldn’t forget that the provision of medical care is also associated with a huge number of administrative tasks and processes which traditionally used to take a lot of time and effort. However, the application of fintech in healthcare industry can help to efficiently address the existing issues related to them.
 

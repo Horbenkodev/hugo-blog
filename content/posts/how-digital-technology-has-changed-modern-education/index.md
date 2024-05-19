@@ -11,7 +11,7 @@ promote:
 top: false
 draft: true
 industries:
-- eLearning
+- elearning
 categories: []
 ---
 The times when a student owning a cell phone was something extraordinary are long gone, and now you can’t pry the kids away from their phones with a crowbar. As irritating as it may be for teachers, the new technology, in fact, is no evil. Once you comprehend how it can facilitate teaching and learning, adopting new tools for classrooms will become a question of time.

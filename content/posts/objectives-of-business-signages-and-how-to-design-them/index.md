@@ -15,7 +15,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Design
+- design
 ---
 Businesses gain customer popularity because of the quality of the product or service that they provide. However, how do they gain customers in the first place? Well, you can definitely start brainstorming for designs because a signage is what you'll be needing to lure in customers from all over the Internet.
 

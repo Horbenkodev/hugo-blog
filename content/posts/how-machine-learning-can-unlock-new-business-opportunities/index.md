@@ -13,8 +13,8 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
-- Machine Learning
+- business
+- machine-learning
 ---
 ***Machine learning (ML), business intelligence (BI) and artificial intelligence (AI); we have got beyond these being mere buzzwords. A whole industry has grown up around them, worth billions. And the number of success stories are growing across a diverse range of sectors. This technology is proven.***
 

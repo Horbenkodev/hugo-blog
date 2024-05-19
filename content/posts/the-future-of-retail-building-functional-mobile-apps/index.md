@@ -15,7 +15,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 The world of eCommerce is growing with every single year. Why to spend your time and effort on going to brick and mortar stores if you have tons of international shops available night and day with a much wider choice of goods that are brought to your doorstep fast and often for free? Some online stores even deliver their clothes for you to try them on at home and only then to pay for the chosen ones. As for the unwanted pieces of clothing - you simply ship them back, also free of charge. So everything is done with the view to minimize the possible customers' inconveniences like wrong deliveries or extra costs and to encourage those uncertain people that still fear the new to make use of online shopping services.
 

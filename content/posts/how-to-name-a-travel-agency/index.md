@@ -13,7 +13,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 The onset of the digital era took tour and travel industry to a new level. Along with maps, tour guides, handbooks and various online platforms where you can order a taxi, book a hotel or find a storage for your luggage, travel agencies have moved to the web too. All of them now have websites and mobile apps. It became easy for tourists to find a suitable service provider but the travel market players are at risk to get lost in the terabytes of information that swamps consumers in the Internet.
 

@@ -14,7 +14,7 @@ top: false
 draft: true
 industries: []
 categories:
-- UX-UI
+- ux-ui
 ---
 Design of user interfaces is something similar to a mixture of art and science. However, it has never been an act of pure creativity. So if you are inspired by the quote "Good artists copy, great - steal", be careful, do not cut yourself with shards of broken illusions. Because Pablo Picasso didn't say that, guys. It is the same dubious creature of the Internet as the fake quotes of Abraham Lincoln circulating online.
 

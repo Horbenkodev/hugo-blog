@@ -13,9 +13,9 @@ promote:
 top: false
 draft: true
 industries:
-- Real Estate
+- real-estate
 categories:
-- Machine Learning
+- machine-learning
 ---
 ***Right now and for the foreseeable future, real estate is likely to go through something of a slump. As the world economy slows to a crawl and potentially dips into a recession, as a consequence of Coronavirus (COVID-19), real estate won’t be moving at the same pace.***
 

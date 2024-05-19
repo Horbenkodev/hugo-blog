@@ -15,8 +15,8 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
-- Machine Learning
+- business
+- machine-learning
 ---
 Google, Amazon, Facebook and other tech giants are working on the creation of advanced artificial intelligence systems and their potential application. Have you ever been interested in how it is going now in the field of computer science dedicated to artificial intelligence? What progress has been made in AI and what are the key issues in artificial intelligence?
 

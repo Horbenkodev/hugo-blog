@@ -15,7 +15,7 @@ promote:
 top: false
 draft: true
 industries:
-- Healthcare
+- healthcare
 categories: []
 ---
 Medical software localization is a delicate task. It's not something that can be delegated to just anyone who knows basic translation or someone fluent in the source and target languages. Mistakes can create inefficiencies or lead to serious consequences. It needs meticulous attention to details and a thoughtfully planned process.

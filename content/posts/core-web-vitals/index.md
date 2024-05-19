@@ -13,7 +13,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Promotion
+- promotion
 ---
 <h2>Contents</h2>
 <ol>

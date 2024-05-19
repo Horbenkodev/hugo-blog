@@ -13,7 +13,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 Choosing a business name is often a challenging and demanding process. It's not easy to find the name that perfectly aligns with the nature of your product, its concept and functionality. Ideally, your business name should be clear, imposing and easily associable with your app or service.
 

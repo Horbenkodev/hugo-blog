@@ -12,7 +12,7 @@ top: false
 draft: true
 industries: []
 categories:
-- News
+- news
 ---
 > Celebrating 19 years of excellence
 

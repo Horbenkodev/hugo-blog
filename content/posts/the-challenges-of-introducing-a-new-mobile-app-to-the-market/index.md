@@ -15,7 +15,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 ***A recent study conducted by digital experts <a href="http://go.appannie.com/report-app-economy-forecast-part-two" rel="nofollow" target="_blank">AppAnnie</a> predicts the app economy will be worth $6.3 trillion by 2021, up $1.3 trillion since last year and a staggering $5 trillion since 2014.***
 

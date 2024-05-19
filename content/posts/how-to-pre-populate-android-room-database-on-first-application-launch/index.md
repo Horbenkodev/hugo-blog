@@ -15,7 +15,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Development
+- development
 ---
 Sometimes we need an application to be prefilled with some data on its first launch. Usually, we would make a REST query and receive the data from backend, but our application is standalone so that the only data source we have is our apk file.
 

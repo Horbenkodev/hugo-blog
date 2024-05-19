@@ -13,7 +13,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 > Getting an app built is an investment. Whether your audience is consumers or business users, apps are an integral part of modern life. Over a decade of innovation places high expectations on the user experience of any new app to hit the market.
 

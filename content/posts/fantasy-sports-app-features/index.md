@@ -12,7 +12,7 @@ promote:
 top: false
 draft: true
 industries:
-- Sports
+- sports
 categories: []
 ---
 <h2>Contents</h2>
