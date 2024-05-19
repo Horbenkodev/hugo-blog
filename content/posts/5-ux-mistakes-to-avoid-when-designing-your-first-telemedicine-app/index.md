@@ -15,9 +15,9 @@ promote:
 top: false
 draft: true
 industries:
-- Healthcare
+- healthcare
 categories:
-- UX-UI
+- ux-ui
 ---
 Developing a mobile application is a complicated task, especially when you are designing a <a href="https://anadea.info/blog/telehealth-solutions-paving-new-ways-for-medical-communication" target="_blank">telemedicine app</a> that will facilitate online health visits. As a developer, you need to fit in the unique user interface with excellent app functionality to ensure smooth interaction between the patient and the doctor through video chat.
 

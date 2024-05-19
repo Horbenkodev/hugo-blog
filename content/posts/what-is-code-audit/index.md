@@ -12,7 +12,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Code Audit
+- code-audit
 ---
 **You built it, you love it—your software is a masterpiece.** But is it functioning at its best? In this rapidly changing tech world, ensuring your code is high-quality and secure is critical. That's where a <a href="https://anadea.info/services/code-review-service" target="_blank">code audit</a> comes in. It's a comprehensive analysis of your codebase designed to identify any areas for improvement.
 

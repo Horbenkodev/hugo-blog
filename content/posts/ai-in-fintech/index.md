@@ -12,7 +12,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Fintech
+- fintech
 ---
 The financial industry has a long history. It has well-established processes, products, and services that stay practically unchanged for decades, if not centuries. However, the market itself is quite dynamic, and the traditional offerings seem to be irrelevant in the modern financial environment.
 

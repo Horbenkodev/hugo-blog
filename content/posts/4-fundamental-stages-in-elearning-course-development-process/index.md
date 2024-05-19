@@ -11,7 +11,7 @@ promote:
 top: false
 draft: true
 industries:
-- eLearning
+- elearning
 categories: []
 ---
 When you are planning to build an eLearning solution, its tech part is crucial but you shouldn't concentrate only on this aspect. The content also matters (and in some cases can be even more important than some advanced features that can be built to enrich your solution). On our blog, you can find a lot of useful tips on how to create software solutions of various types, including [eLearning websites](https://anadea.info/blog/e-learning-website-development-tips). But in this article, we'd like to have a look at building edtech products from another perspective and explain the peculiarities of the eLearning course development process.

@@ -12,8 +12,8 @@ top: false
 draft: true
 industries: []
 categories:
-- Accessibility
-- Web
+- accessibility
+- web
 ---
 <h2>Contents</h2>
 <ol>

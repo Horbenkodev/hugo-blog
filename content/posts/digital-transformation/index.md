@@ -12,7 +12,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 Digital transformation is an often misunderstood phrase that is overused in the global business community. It isn't about getting the latest shiny piece of technology. Nor is it about switching to a new software solution or platform for the sake of it.
 

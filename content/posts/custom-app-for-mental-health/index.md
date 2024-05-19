@@ -12,7 +12,7 @@ promote:
 top: false
 draft: true
 industries:
-- Healthcare
+- healthcare
 categories: []
 ---
 We all know that public health measures taken a couple years back, like self-isolation and quarantine, are necessary to protect the health of the population, but doctors warn they may have a profound and long-lasting effect on mental health. More than that, the COVID-19 has been proven to affect existing mental disorders by aggravating their manifestation! So what can be done to diminish the sense of fear and anxiety in the wake of another wave of the pandemic?

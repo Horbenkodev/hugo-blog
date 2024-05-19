@@ -1,3 +1,6 @@
+taxonomyList:
+  - categories
+  - industries
 deviceSizes:
   - 384
   - 640

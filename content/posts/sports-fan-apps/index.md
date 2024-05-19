@@ -11,7 +11,7 @@ promote:
 top: false
 draft: true
 industries:
-- Sports
+- sports
 categories: []
 ---
 When somebody is talking about <a href="https://anadea.info/solutions/sports-app-development" target="_blank">sports app development</a>, people would typically think about solutions built for training. And it is a very clear association given the wide adoption of such applications. However, the category of sports software products is much bigger than that and unites a lot of groups of solutions and fan engagement platforms are also among them. In this article, we are going to talk about the development of sports fan apps, the role that they play in the sports industry, and the key tasks that can be solved with their help.

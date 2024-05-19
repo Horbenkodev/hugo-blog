@@ -15,7 +15,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 We often hear that we live in the world of possibilities. However, how often do you hear what these possibilities are?
 

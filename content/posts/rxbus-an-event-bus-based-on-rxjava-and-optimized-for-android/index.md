@@ -14,7 +14,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Development
+- development
 ---
 ## What it's all about
 

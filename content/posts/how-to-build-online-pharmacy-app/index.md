@@ -12,7 +12,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 Today all industries are experiencing a phase of active digitalization. And the pharmacy market is not an exception. If some decades ago it was quite difficult to imagine that you would be able to buy pills or drops via the internet, today some drug stores can allow you to order even prescription medicines online and get them delivered in a couple of hours. The standards in the industry are gradually changing as well as people's expectations. And that's where online pharmacy app development is entering the game. In this article, we offer you to have a look at the peculiarities of software solutions of this kind and the benefits that a pharmacy delivery app can bring to your business.
 

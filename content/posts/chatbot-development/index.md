@@ -12,7 +12,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 After the introduction of **ChatGPT** by OpenAI in November 2022, it may seem that absolutely anyone is talking about artificial intelligence today. But while some people are expressing their concerns about the risks of losing jobs because of AI, others are looking for ways to use the capacities of AI in their own interests. AI and ML are technologies that have enormous potential to change the world, including the business landscape. We strongly believe that modern companies shouldn't lose their chance to lead the market competition by using the new opportunities that advanced solutions can offer.
 

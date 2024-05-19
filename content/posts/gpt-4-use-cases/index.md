@@ -12,7 +12,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 The introduction of ChatGPT by OpenAI in November 2022 became a major milestone for AI adoption in the business world. It would be absolutely incorrect to say that before this large language model-based chatbot was made publicly available, businesses and individuals hadn't used any AI-powered tools for dealing with various professional tasks or just for fun. Nevertheless, ChatGPT became a real game-changer. The team behind this model invested a lot of effort to enhance this AI chatbot and make it as helpful for different groups of users as possible. OpenAI is continuously working on delivering more advanced models that can act as "brains" for various apps.
 

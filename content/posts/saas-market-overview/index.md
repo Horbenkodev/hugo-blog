@@ -12,7 +12,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 Cloud technologies have greatly changed the way business processes are organized. One of the main types of cloud computing services is SaaS (Software-as-a-Service) and that’s exactly what we are going to talk about in this article.
 

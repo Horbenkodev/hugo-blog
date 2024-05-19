@@ -1,0 +1,14 @@
+{{ with site.Params.taxonomyList }}
+{{ range . }}
+  {{ $itemType := . }}
+  {{ with $.Page.GetTerms . }}
+    {{ range . }}
+      {{ $link := .RelPermalink  }}
+      {{ $path := path.BaseName .Path }}
+      {{ with index (index $.Site.Data $itemType) $path }}
+        <a class="tag" href="{{ $link }}">{{ .title }}</a>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ end }}

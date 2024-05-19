@@ -11,7 +11,7 @@ promote:
 top: false
 draft: true
 industries:
-- Healthcare
+- healthcare
 categories: []
 ---
 Healthcare giants like Pfizer Inc, Aetna and McKesson Corporation know how digital technologies can transform medicine and they have already entered the mobile app industry with their solutions for early disease detection, providing access for doctors to up to date agendas, getting better medical outcomes, and much more. Undoubtedly, technology-driven medicine has provided many beneficial opportunities for healthcare professionals. A <a href="https://anadea.info/solutions/medical-app-development" target="_blank">healthcare software development company</a>, we know how popular medical apps for doctors are.

@@ -15,8 +15,8 @@ top: false
 draft: true
 industries: []
 categories:
-- Development
-- Ruby on Rails
+- development
+- ruby-on-rails
 ---
 <a href="https://github.com/carrierwaveuploader/carrierwave" rel="nofollow" target="_blank">Сarrierwave</a> is a popular image upload gem used by the Rails community to upload files to the server.
 

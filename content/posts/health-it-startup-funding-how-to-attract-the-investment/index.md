@@ -13,9 +13,9 @@ promote:
 top: false
 draft: true
 industries:
-- Healthcare
+- healthcare
 categories:
-- Business
+- business
 ---
 We have reached a new era in the digital world. The way healthcare organizations are delivering patient care is shifting in the rise of a worldwide pandemic. Telehealth, machine learning, virtual care and <a href="https://anadea.info/solutions/medical-app-development" rel="dofollow" target="_blank">custom healthcare software development</a> are emerging forces. To remain competitive, healthcare providers must change the ways they operate.
 

@@ -15,7 +15,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 As a business owner, you are pretty much aware of the ongoing tech and business trends. It becomes essential to keep up with the latest technology developments and run the business smoothly — one of the areas that have noticed significant changes is the accounting and bookkeeping.
 

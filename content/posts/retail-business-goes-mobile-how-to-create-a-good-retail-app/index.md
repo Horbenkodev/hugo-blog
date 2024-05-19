@@ -15,7 +15,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Retail
+- retail
 ---
 It's mind-blowing! A couple of years ago they said that the number of smartphones exceeded the number of toothbrushes - fact or fiction, who knows, and now… we've already got a <a href="https://itunes.apple.com/lu/app/oral-b-app/id698092608?mt=8" rel="nofollow" target="_blank">mobile app for electric toothbrushes</a>. Why do you think that apps are being created left, right and center? Because everyone and their mom seems to be smartphone holics. We all love facts and digits. So, here are some statistics on <a href="https://techcrunch.com/2018/01/17/global-app-downloads-topped-175-billion-in-2017-revenue-surpassed-86-billion/" rel="nofollow" target="_blank">app downloads, revenue</a>, <a href="https://techcrunch.com/2018/01/16/time-spent-in-apps-grew-just-6-last-year-down-from-11-in-2017/" rel="nofollow" target="_blank">time spent in apps</a> and some pieces of data on why mobile apps are useful for retail business.
 

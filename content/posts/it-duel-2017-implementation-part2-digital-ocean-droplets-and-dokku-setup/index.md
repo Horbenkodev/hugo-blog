@@ -14,9 +14,9 @@ top: false
 draft: true
 industries: []
 categories:
-- News
-- Development
-- Ruby on Rails
+- news
+- development
+- ruby-on-rails
 ---
 In the first article of the series, we recalled the rules of the game and the technical characteristics of the game engine. Now, let's describe how to use DigitalOcean and Dokku to allow players to write a bot in multiple languages, while having guaranteed equal resources in runtime and a pleasant deploy procedure.
 

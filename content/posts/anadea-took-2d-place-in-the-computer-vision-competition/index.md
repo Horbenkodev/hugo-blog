@@ -13,8 +13,8 @@ top: false
 draft: true
 industries: []
 categories:
-- Machine Learning
-- News
+- machine-learning
+- news
 ---
 <img src="super.png" class="float-left" width='150'>Recently, Our Deep Learning Team participated in a competition organized by Open Data Science community and took <a href="https://ods.ai/tracks/ml4sg-df2021/competitions/lacmus-cvc-soc2021/leaderboard" rel="nofollow" target="_blank">2d place</a>! Congrats, guys!
 

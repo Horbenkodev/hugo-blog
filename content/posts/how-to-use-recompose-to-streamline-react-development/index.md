@@ -16,7 +16,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Development
+- development
 ---
 ## Composition as a way to create reusable code
 

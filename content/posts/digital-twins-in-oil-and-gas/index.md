@@ -12,9 +12,9 @@ top: true
 authors:
   - ai-ml-team
 categories:
-  - Business
+  - business
 industries:
-  - Oil and Gas
+  - oil-and-gas
 questionary:
   - question: What is a digital twin?
     answer: A digital twin is a virtual model that is created to reflect a physical

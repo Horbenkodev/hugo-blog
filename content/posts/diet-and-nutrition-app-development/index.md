@@ -13,7 +13,7 @@ authors:
   - mobile-development-team
 categories: []
 industries:
-  - Sports
+  - sports
 ---
 Walk more, work out, eat veggies. Anyone concerned about their weight or overall health has heard it at least onсe in a lifetime. And there’s nothing wrong with these pieces of advice, except for one small nuance: sometimes they are not enough. People may lack motivation or self-discipline.
 

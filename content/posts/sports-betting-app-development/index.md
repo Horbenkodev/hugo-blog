@@ -11,7 +11,7 @@ promote:
 top: false
 draft: true
 industries:
-- Sports
+- sports
 categories: []
 ---
 After the fall observed amid the coronavirus crisis, the sports betting and lottery market has started to grow again. And in 2022, it even managed to climb up to the pre-pandemic levels of around [$230 billion](https://www.statista.com/statistics/1186240/sports-betting-and-lottery-industry-market-size-global/). Today people demonstrate an increased interest in such activities. And it can be considered to be a very good sign for businesses that are thinking about the possibility to launch betting sports apps.

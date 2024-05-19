@@ -14,7 +14,7 @@ authors:
   - web-development-team
   - mobile-development-team
 categories:
-  - Business
+  - business
 industries: []
 questionary:
   - question: Where can I find Kotlin developers?

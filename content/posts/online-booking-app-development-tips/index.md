@@ -13,7 +13,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 Nobody wants to waste time standing in queues in front of the ticket office and absolutely nobody is fond of spending long hours on a phone when it is necessary to book a hotel room. And thanks to modern apps, it is possible to avoid these unpleasant experiences. Given the wide range of benefits that users can leverage thanks to solutions of this type, it is absolutely not surprising why so many startups and companies are interested in launching such apps.
 

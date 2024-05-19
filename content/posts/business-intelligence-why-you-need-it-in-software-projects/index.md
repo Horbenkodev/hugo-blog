@@ -14,7 +14,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 ***When new software is developed, whether a simple app or something more involved, it should always be a data-driven process. Business intelligence, or BI, is the process whereby internal teams and stakeholders work with analysts to determine the most effective ways to solve problems.***
 

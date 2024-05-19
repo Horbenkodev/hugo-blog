@@ -12,7 +12,7 @@ top: true
 authors:
   - alexander-mikhalchenko
 categories:
-  - DevOps
+  - devops
 industries: []
 questionary:
   - question: How can I reduce cloud costs?

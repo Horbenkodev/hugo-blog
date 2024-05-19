@@ -13,7 +13,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 Software as a service (SaaS) has long been around. Both businesses and individuals got used to SaaS and use it daily. That’s what Netflix, Google Apps and Slack have in common: business models of all end with the -aaS suffix.
 

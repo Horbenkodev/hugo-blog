@@ -12,7 +12,7 @@ top: false
 authors:
   - web-development-team
 categories:
-  - Development
+  - development
 industries: []
 questionary:
   - question: What are SaaS architecture best practices?

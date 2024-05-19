@@ -13,7 +13,7 @@ authors:
   - web-development-team
 categories: []
 industries:
-  - eLearning
+  - elearning
 ---
 It’s important to say from the start that in today’s world there are 2 types of schools - traditional schools and online schools. Depending on what type your school belongs to, there will be different answers to the question “How to create educational software for schools”. An <a href="https://anadea.info/solutions/e-learning-software-development" target="_blank">educational software development company</a>, we will cover them both.
 

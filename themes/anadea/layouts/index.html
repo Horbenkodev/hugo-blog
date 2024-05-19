@@ -15,7 +15,7 @@
   {{ $top := where .Site.RegularPages "Params.top" true }}
 
   <div class="container container__w1300">
-    {{ partial "page_head.html" . }}
+    {{ partial "shared/page_head.html" . }}
 
     <h1 class="title">Anadea Blog</h1>
 
@@ -31,7 +31,7 @@
       </section>
     {{ end }}
 
-    {{- partial "filters.html" . -}}
+    {{ partial "shared/filters.html" . }}
 
     {{ $feed := where .Site.RegularPages ".Params.promote.promote" "eq" false }}
     {{ $feed = where $feed ".Params.top" "eq" false }}
@@ -40,11 +40,11 @@
     <div class="postFeed">
       {{ with $paginator }}
         {{ range .Pages }}
-          {{ partial "post_card.html" . }}
+          {{ partial "shared/post_card.html" . }}
         {{ end }}
       {{ end }}
     </div>
 
-    {{ partial "pagination.html" . }}
+    {{ partial "shared/pagination.html" . }}
   </div>
 {{ end }}

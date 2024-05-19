@@ -13,8 +13,8 @@ top: false
 draft: true
 industries: []
 categories:
-- Development
-- Ruby on Rails
+- development
+- ruby-on-rails
 ---
 ![Metrics Collector](MetricsCollector.png)
 

@@ -12,7 +12,7 @@ top: false
 draft: true
 industries: []
 categories:
-- News
+- news
 ---
 ***Anadea has been awarded Best Custom Education Software Development Company - Eastern Europe, 2019.***
 

@@ -13,7 +13,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Development
+- development
 ---
 Before on our blog, we explored the recent advancements in the mobile app development industry. The utilization of virtual and augmented reality, along with customers' fixation on mobile animation, 3D models, visual effects, and gaming elements, have propelled the industry to new heights. However, due to the increasing scale and complexity of app development challenges, developers require innovative tools to combat significant hurdles, not just minor ones. This is why the Unity 3D game engine is worthy of particular attention.
 

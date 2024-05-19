@@ -1,5 +1,3 @@
-import { toKebabCase } from '../_utils';
-
 function initForm() {
   const search = document.getElementById('search');
 
@@ -35,7 +33,7 @@ function initForm() {
       return;
     }
 
-    const path = categories ? `/categories/${toKebabCase(categories)}` : `/industries/${toKebabCase(industries)}`;
+    const path = categories ? `/categories/${categories}` : `/industries/${industries}`;
     window.location = path;
   });
 }

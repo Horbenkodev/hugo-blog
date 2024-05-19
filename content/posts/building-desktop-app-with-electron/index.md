@@ -16,7 +16,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Development
+- development
 ---
 ### Electron: if you can build a website, you can build a desktop app
 

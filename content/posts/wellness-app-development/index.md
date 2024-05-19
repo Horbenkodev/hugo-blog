@@ -11,8 +11,8 @@ promote:
 top: false
 draft: true
 industries:
-- Healthcare
-- Sports
+- healthcare
+- sports
 categories: []
 ---
 Today we observe an increased attention of people to their health and well-being. We have started to think about what we eat, what activities we have, what influence our work has on our mental health, and whether we sleep enough long and enough well. It's a very positive trend that has a strong impact on the general quality of living that society has. Amid these ongoing changes in the mindset of people, we can also notice the growing demand for health and wellness applications that can make it easier for people to track their habits, adjust their menus, and monitor various vital parameters.

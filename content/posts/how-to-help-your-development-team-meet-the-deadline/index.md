@@ -14,7 +14,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 Software development is a complex process. The success of the whole IT project depends on the efforts of each team member and, of course, the mutual understanding between you and the team. This connection is difficult to ensure, particularly when you and your development team are located in different parts of the world.
 

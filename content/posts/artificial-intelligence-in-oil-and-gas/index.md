@@ -13,9 +13,9 @@ top: false
 authors:
   - ai-ml-team
 categories:
-  - Business
+  - business
 industries:
-  - Oil and Gas
+  - oil-and-gas
 questionary:
   - question: Is it worth investing in AI for oil and gas market?
     answer: The demand for various solutions that can help oil and gas companies

@@ -14,7 +14,7 @@ promote:
 top: false
 draft: true
 industries:
-- eLearning
+- elearning
 categories: []
 ---
 eLearning has transformed modern education. Over the last fifteen years, education has gone from paper to platform and app-based, with students and teachers learning together in remarkable new ways.

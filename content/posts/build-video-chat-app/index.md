@@ -13,7 +13,7 @@ top: false
 authors:
   - web-development-team
 categories:
-  - Business
+  - business
 industries: []
 questionary:
   - question: How much does it cost to make a video chat app?

@@ -15,8 +15,8 @@ top: false
 draft: true
 industries: []
 categories:
-- Development
-- Ruby on Rails
+- development
+- ruby-on-rails
 ---
 ## What is hash table?
 

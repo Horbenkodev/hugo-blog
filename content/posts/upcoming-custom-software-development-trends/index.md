@@ -15,7 +15,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Development
+- development
 ---
 We can't imagine our lives without gadgets and every month there appear more and more smart devices, useful applications and innovative services. None of them would be possible without great ideas and participation of professionals who can and love to code. The advancement of technologies and custom software development opened up a lot of doors and made many unimaginable things real. Our grandparents would be stunned if they could live one day in the modern world where it is absolutely normal when a cab is magically summoned through a small wireless electronic gadget that talks and pays for us, plays music and allows having a video call with a co-worker while still in the car.
 

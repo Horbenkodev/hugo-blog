@@ -13,7 +13,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 There are many opinions about digital technology consulting. Some people think that consultants set crazy rates and at the same time do not bring any benefit. Some even had a negative experience working with IT consultants.
 

@@ -15,7 +15,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Design
+- design
 ---
 Smartphones have transformed the way we live our lives, becoming a powerful force that influences our day-to-day activities and revolutionizes the modern business world. The abundance of smart apps available for download has made these devices indispensable, with many users developing a deep attachment to their smartphones. These digital tools simplify everything from simple tasks to complex financial and technical procedures, enabling a smarter way of living.
 

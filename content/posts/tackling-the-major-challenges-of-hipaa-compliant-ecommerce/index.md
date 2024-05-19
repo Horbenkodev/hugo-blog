@@ -13,9 +13,9 @@ promote:
 top: false
 draft: true
 industries:
-- Healthcare
+- healthcare
 categories:
-- eCommerce
+- ecommerce
 ---
 Updated 9 September, 2021.
 

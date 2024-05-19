@@ -14,7 +14,7 @@ promote:
 top: false
 draft: true
 industries:
-- Healthcare
+- healthcare
 categories: []
 ---
 You probably witnessed that a high workload on healthcare institutions reduces the quality of healthcare services. The recent challenge was the breakthrough of the COVID-19 pandemic when the number of Covid cases grew exponentially. Still, there are digital means that are able to alleviate this burden for doctors, some of the busiest and most responsible professionals in the world. They are often struggling under the weight of too much work without the time or resources to cope. Telemedicine solutions are designed to create new ways for doctor-patient communication that are more cost and time-effective for both parties.

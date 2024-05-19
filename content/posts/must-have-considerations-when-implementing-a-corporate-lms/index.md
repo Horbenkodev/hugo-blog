@@ -13,7 +13,7 @@ promote:
 top: false
 draft: true
 industries:
-- eLearning
+- elearning
 categories: []
 ---
 <script type="application/ld+json">

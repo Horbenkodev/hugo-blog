@@ -13,9 +13,9 @@ top: false
 draft: true
 industries: []
 categories:
-- News
-- Development
-- Ruby on Rails
+- news
+- development
+- ruby-on-rails
 ---
 In the previous articles of the series we decided on the required playground functionality and prepared a [runtime infrastructure for game bots and sandboxes](https://anadea.info/blog/it-duel-2017-implementation-part2-digital-ocean-droplets-and-dokku-setup). It's time to actually program the game engine. As the main tools we will use [RoR](https://anadea.info/services/web-development/ruby-on-rails-development) and Sidekiq on the backend, ReactJS and WebSocket on the frontend.
 

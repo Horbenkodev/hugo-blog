@@ -16,7 +16,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 Technology takes over all industries in due time, whether it is advancements in hardware, <a href="https://anadea.info/blog/artificial-intelligence-pandoras-box-or-the-holy-grail" target="_blank">artificial intelligence</a>, or mobile technology.
 

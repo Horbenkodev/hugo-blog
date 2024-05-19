@@ -12,7 +12,7 @@ promote:
 top: false
 draft: true
 industries:
-- Sports
+- sports
 categories: []
 ---
 When people hear that there are mobile apps for hockey fans or applications launched by football clubs, it is highly unlikely that they will get surprised. However, a golf mobile app may seem to be not a very obvious choice. Nevertheless, given the general digitalization of the sports space, it's impossible to ignore the role of golf mobile app development in the industry. Moreover, the demand for such products as well as <a href="https://anadea.info/solutions/sports-app-development" target="_blank">sports app developers</a> has been growing in recent years, being boosted by the deeper smartphone penetration in modern society.

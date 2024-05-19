@@ -12,7 +12,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 Do you know what are the most popular ways people meet their love? While such options as "through friends" or "at work" are still rather common, already in 2019 Stanford sociologist Michael Rosenfeld [revealed](https://news.stanford.edu/2019/08/21/online-dating-popular-way-u-s-couples-meet/) that the majority of traditional couples meet online. And without any doubt, we can say that the coronavirus pandemic, and especially its first wave in 2020, had a very strong impact on the further development of this tendency. People are accustomed to doing practically everything online and looking for a new love is one of those tasks that can be performed without the necessity to leave your home.
 

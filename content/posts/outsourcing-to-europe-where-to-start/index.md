@@ -15,7 +15,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 The other day I got really tired after working at my desktop computer so I promised myself to spend the weekend without any gadgets or screens. Guess what? I couldn't live a full life. I had problems paying for my flat, ordering a taxi, getting in touch with friends, making an appointment with my doctor for the next week, reading and simply checking the time. I'm not talking about setting alarms or watching a film online. I'm quite sure that this list will be more or less the same for many people around the globe. Undoubtedly, technology has deeply penetrated into our day-to-day life and has stopped being a luxury, but is rather a necessity now.
 
@@ -93,4 +93,3 @@ The main countries which are definitely gaining more and more popularity in the 
 In my view, many companies are still in two minds about choosing Europe as their outsourcing destination because they know little about its countries. Let's not forget that very often programming teams are left behind the scenes - nobody knows who really did the hard part. Here's just a few examples of [how it feels](https://clutch.co/profile/anadea) to work with a dedicated and professional Europe-based team.
 
 Nowadays Europe is fighting hard to create a positive image of an outsourcing destination and that's great because as an entrepreneur you get higher chances of receiving quality service. So if you're not just looking for lower app development costs but need a good price/quality balance, you might give Europe a chance to prove it has enough worthy, reliable and skilled IT specialists, working with whom will be not only more convenient but rewarding as well.
-

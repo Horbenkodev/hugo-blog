@@ -15,7 +15,7 @@ top: false
 draft: true
 industries: []
 categories:
-- UX-UI
+- ux-ui
 ---
 ## What is atomic design?
 

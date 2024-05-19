@@ -14,7 +14,7 @@ promote:
 top: false
 draft: true
 industries:
-- eLearning
+- elearning
 categories: []
 ---
 Anxiety is a very broad term that can be defined in many different ways. According to the <a href="https://www.webmd.com/anxiety-panic/guide/anxiety-disorders" target="_blank">definition at WebMD.com</a>, anxiety disorders are a group of mental illnesses, which cause overwhelming and constant fear and worry.

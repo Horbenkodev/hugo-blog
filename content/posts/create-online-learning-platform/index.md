@@ -11,7 +11,7 @@ promote:
 top: false
 draft: true
 industries:
-- eLearning
+- elearning
 categories: []
 ---
 Books, blackboards, pens, and pencils…It is obvious that the majority of us will have such associations with schools and learning. Nevertheless, with time flow, everything is gradually changing. Of course, the state of education and the used methods greatly vary in different counties, nevertheless, the global digitalization trend is obvious. Modern students already do not need to spend long hours at libraries because they can get access to all the materials via online platforms. At the same time, books are not the only source of information and boring texts and rules are not the only formats to learn different things.

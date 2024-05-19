@@ -13,7 +13,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 Among many things to keep in mind when choosing a company to outsource software development, an unobvious one is the __stability of team composition__, commonly expressed through __attrition rate__.
 

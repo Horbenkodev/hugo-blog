@@ -14,7 +14,7 @@ promote:
 top: false
 draft: true
 industries:
-- Healthcare
+- healthcare
 categories: []
 ---
 _Updated on 1 September, 2021._<br><br>

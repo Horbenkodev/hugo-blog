@@ -13,8 +13,8 @@ top: false
 draft: true
 industries: []
 categories:
-- Development
-- Ruby on Rails
+- development
+- ruby-on-rails
 ---
 Google Maps service is an incredible tool that offers fast, reliable, and highly customizable features. It is also freemium, making it an ideal option for startups, with a daily limit of 2500 requests that should be more than enough for most. When I began my web development career, I was tasked with integrating an interactive map into an application. Like many others, I often forgot that "there is nothing new under the sun." Thus, I spent some time exploring guides instead of looking for pre-built solutions.
 

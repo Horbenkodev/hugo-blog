@@ -1,5 +1,21 @@
-{{ $categories := .Site.Taxonomies.categories }}
-{{ $industries := .Site.Taxonomies.industries }}
+{{ $categoriesOptions := slice }}
+{{ $industriesOptions := slice }}
+
+{{ with .Site.Taxonomies.industries }}
+  {{ range $key, $_ := . }}
+    {{ with index $.Site.Data.industries $key }}
+      {{ $industriesOptions = $industriesOptions | append (dict "title" .title "value" $key) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ with .Site.Taxonomies.categories }}
+  {{ range $key, $_ := . }}
+    {{ with index $.Site.Data.categories $key }}
+      {{ $categoriesOptions = $categoriesOptions | append (dict "title" .title "value" $key) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
 
 <form class="filters" id="search">
   <input class="filters__search" type="search" name="token" id="search-query" placeholder="Search..." autocomplete="off" />
@@ -7,14 +23,14 @@
   <div class="filters__block">
     <select name="categories" id="categories" class="filters__select">
       <option value="" selected >All categories</option>
-      {{ range $key, $value := $categories }}
-        <option value="{{ title $key }}">{{ title $key }}</option>
+      {{ range $categoriesOptions }}
+        <option value="{{ .value }}">{{ .title }}</option>
       {{ end }}
     </select>
     <select name="industries" id="industries" class="filters__select">
       <option value="" selected >All industries</option>
-      {{ range $key, $value := $industries}}
-        <option value="{{ title $key }}">{{ title $key }}</option>
+      {{ range $industriesOptions}}
+        <option value="{{ .value }}">{{ .title }}</option>
       {{ end }}
     </select>
   </div>

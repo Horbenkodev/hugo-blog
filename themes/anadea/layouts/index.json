@@ -1,12 +1,36 @@
 {{- $.Scratch.Add "index" slice -}}
 
 {{- range .Site.RegularPages -}}
-  {{- $authorTitle := slice -}}
+  {{- $authors := slice -}}
+  {{- $categories := slice -}}
+  {{- $industries := slice -}}
+
   {{- with .Page.GetTerms "authors" -}}
     {{- with index . 0 -}}
+      {{- $url := .RelPermalink -}}
       {{- $baseName := path.BaseName .Path -}}
       {{- with index .Site.Data.authors $baseName -}}
-        {{- $authorTitle = .title -}}
+        {{- $authors = $authors | append (dict "title" .title "url" $url) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- with .Page.GetTerms "categories" -}}
+    {{- range . -}}
+      {{- $url := .RelPermalink -}}
+      {{- $path := path.BaseName .Path -}}
+      {{- with index .Site.Data.categories $path -}}
+        {{- $categories = $categories | append (dict "title" .title "url" $url) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- with .Page.GetTerms "industries" -}}
+    {{- range . -}}
+      {{- $url := .RelPermalink -}}
+      {{- $path := path.BaseName .Path -}}
+      {{- with index .Site.Data.industries $path -}}
+        {{- $industries = $industries | append (dict "title" .title "url" $url) -}}
       {{- end -}}
     {{- end -}}
   {{- end -}}
@@ -17,12 +41,15 @@
     "description" .Params.description
     "categories" .Params.categories
     "industries" .Params.industries
+    "categoriesData" $categories
+    "industriesData" $industries
     "image" .Params.image
     "srcset" $srcset
     "permalink" .RelPermalink
-    "authors" (slice $authorTitle)
+    "authors" $authors
     "publishDate" .Params.publishDate
     )
   -}}
 {{- end -}}
+
 {{- $.Scratch.Get "index" | jsonify -}}

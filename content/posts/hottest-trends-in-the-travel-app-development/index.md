@@ -14,7 +14,7 @@ promote:
 top: false
 draft: true
 industries:
-- Travel
+- travel
 categories: []
 ---
 > Whether it's innovative approaches to loyalty schemes, or procrastination-inducing, brain-numbingly addictive games, the different types of apps promising to enhance our lives in one way or another is staggering.

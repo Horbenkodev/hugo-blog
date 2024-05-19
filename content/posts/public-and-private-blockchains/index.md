@@ -14,7 +14,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Development
+- development
 ---
 No matter who you are or what industry you work in, you've probably heard way more than you ever wanted to know about blockchain, cryptocurrencies and other related things. However, despite being on everyone's lips, this technology still remains far from broad adoption and full understanding of its potential.
 

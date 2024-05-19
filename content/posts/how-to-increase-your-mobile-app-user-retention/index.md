@@ -16,7 +16,7 @@ top: false
 draft: true
 industries: []
 categories:
-- UX-UI
+- ux-ui
 ---
 Loyal customers are the foundation of every business. However, more often than not, the most challenging thing when you embark on <a href="https://anadea.info/services/mobile-development" target="_blank">custom mobile app development</a> is not building the app, but growing a substantial user base. There are multiple variables at play in user retention. The fact that an app works perfectly does not guarantee it will have a lot of loyal users. Although developers know the importance of user retention and want to attract a lot of repeat users, many are not using the right strategies to bring about this result.
 

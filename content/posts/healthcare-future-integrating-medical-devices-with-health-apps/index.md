@@ -14,7 +14,7 @@ promote:
 top: false
 draft: true
 industries:
-- Healthcare
+- healthcare
 categories: []
 ---
 > Millions of people download and use health apps. Whether you are tracking steps and exercise using a Fitbit, or counting calories with MyFitnessPal, health apps along with <a href="https://anadea.info/solutions/medical-app-development" target="_blank">medical software development services</a> are increasingly popular.

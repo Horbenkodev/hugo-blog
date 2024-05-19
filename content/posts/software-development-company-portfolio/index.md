@@ -13,7 +13,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 Assessment of a <a href="https://anadea.info/projects" target="_blank">software company portfolio</a> goes hand in hand with the process of choosing an outsourcing partner, doesn’t it? In most cases, yes. But there are a few more cases of how you can use it:
 

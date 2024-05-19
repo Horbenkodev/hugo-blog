@@ -22,6 +22,7 @@
     height: 0.5em;
     background-color: var(--main-text);
     border-radius: 50%;
+    transform: translateY(-1px);
   }
 
   &__link {

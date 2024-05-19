@@ -15,7 +15,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Development
+- development
 ---
 We see tons of different emails every day. New arrivings, news feeds, discounts, some advertising and a lot of stuff that we usually skip or delete immediately. In fact, these letters are pretty hard to make. Apart from custom design and good writing, developers have to create an email layout. That is the trickiest part because email can be viewed from way too many devices, OS and browsers. Developers have to keep this in mind and adapt layouts to everything.
 

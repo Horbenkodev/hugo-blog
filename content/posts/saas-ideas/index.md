@@ -12,7 +12,7 @@ top: false
 authors:
   - web-development-team
 categories:
-  - Business
+  - business
 industries: []
 questionary:
   - question: How to choose the best SaaS product idea?

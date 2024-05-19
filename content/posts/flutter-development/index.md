@@ -12,8 +12,8 @@ top: false
 authors:
   - ihor-kozar
 categories:
-  - Development
-  - Mobile
+  - development
+  - mobile
 industries: []
 ---
 The times when Flutter was just a hype technology and developers rolled their eyes at the mention of it, prophesying it a quick death, are long gone. Death did not happen, the framework has been evolving for more than four years, attracting more and more people, and has already won the title of the best framework for cross-platform development.
