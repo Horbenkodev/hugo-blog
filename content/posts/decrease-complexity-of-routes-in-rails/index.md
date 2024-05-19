@@ -15,8 +15,8 @@ top: false
 draft: true
 industries: []
 categories:
-- Development
-- Ruby on Rails
+- development
+- ruby-on-rails
 ---
 Sometimes, when you are working with a large codebase, your `routes.rb` files grow really fast and become very dirty.
 

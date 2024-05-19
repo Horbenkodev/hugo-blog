@@ -12,7 +12,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 The remote format of work is becoming increasingly popular these days. And if in 2020, when the first COVID-19 lockdowns were introduced, remote work was a necessity, today it is a trend that is widely supported by businesses worldwide. This trend is one of the strongest boosters of the demand for various software tools that help to make this remote interaction as efficient and comfortable as possible. Among these products, we should name SaaS (Software-as-a-Service) platforms. If you are also considering launching such a solution, it will be very useful to learn how SaaS development cost is calculated and what factors can influence the final amount.
 

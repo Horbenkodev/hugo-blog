@@ -15,7 +15,7 @@ top: false
 draft: true
 industries: []
 categories:
-- News
+- news
 ---
 <img src="Top_Ruby_on_Rails_Developers_-_2020.png" alt="Top Ruby on Rails DEvelopers 2020" width='220' class="float-right">
 

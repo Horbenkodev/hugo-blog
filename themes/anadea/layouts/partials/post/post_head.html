@@ -2,11 +2,11 @@
 {{ $lastMod := (os.Stat $file).ModTime }}
 
 <div class="container container__w960">
-  {{- partial "page_head.html" . -}}
+  {{ partial "shared/page_head.html" . }}
 
   <div class="postHead">
     <div class="postHead__tags">
-      {{- partial "taxonomy.html" . -}}
+      {{ partial "post/taxonomy.html" . }}
     </div>
     <h1 class="postHead__title">{{ .Title }}</h1>
 
@@ -16,10 +16,10 @@
     <img class="postHead__image" src="{{ .Params.image }}" alt="{{ .Title }}" />
     <div class="postHead__footer">
       <div class="postHead__authors">
-        {{- partial "authors.html" . -}}
+        {{ partial "post/authors.html" . }}
       </div>
       <div class="postHead__social">
-        {{- partial "social_share.html" . -}}
+        {{ partial "post/social_share.html" . }}
       </div>
     </div>
   </div>

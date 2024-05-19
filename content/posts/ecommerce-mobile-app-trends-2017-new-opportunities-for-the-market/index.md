@@ -15,8 +15,8 @@ top: false
 draft: true
 industries: []
 categories:
-- eCommerce
-- Trends
+- ecommerce
+- trends
 ---
 Have you thought that just 20 years ago there were no smartphones? The web industry was focused on purely PC and laptop users. The emergence and rapid spread of smartphones have dramatically changed not only our daily lives but also the online industry. To date, more than half the world uses smartphones and the volume of mobile and tablet traffic surpasses the volume of desktop traffic. That is why a great internet marketing strategy for famous brands as well as small businesses involves more than just a mobile-friendly site. A responsive design is no longer enough to win modern customers with smartphones.
 

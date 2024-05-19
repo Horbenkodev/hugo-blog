@@ -12,7 +12,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 Every person knows that grocery shopping can be very exhausting and time-consuming. Moreover, you can't go and buy products at any moment that is convenient to you, an absolute majority of supermarkets do not work in a 24/7 regime. But modern technologies are here to change the game. Thanks to the new opportunities that grocery delivery app development can open to us today, the way we do shopping can be fully revolutionized. In our blog post, we want to tell you more about the peculiarities of this type of solution, mention the most popular features that you need to add to your application and share some important practical tips.
 

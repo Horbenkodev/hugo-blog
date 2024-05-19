@@ -14,7 +14,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 In theory, custom ERP (enterprise resource planning) software is preferable to an out-of-the-box alternative, which isn't designed with your needs in mind. <a href="https://anadea.info/solutions/erp-development" target="_blank">Custom ERP system development services</a>, however, are often more expensive, and it's worth considering the pros and cons of both approaches. Let's see how things are in practice.
 

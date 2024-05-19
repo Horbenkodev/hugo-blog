@@ -12,7 +12,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 2023 is definitely a year of AI and probably we wouldn't exaggerate if we said that right now we are living in the era of Artificial Intelligence. The range of opportunities that developers have thanks to this technology is really breathtaking. And what is even more impressive is that we are just at the beginning of this AI journey. Solutions that are based on it are gradually becoming more and more sophisticated and the interaction with them is getting more and more human-like. One of the AI-powered software products that the majority of us have probably already interacted with is a chatbot.
 

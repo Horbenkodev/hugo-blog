@@ -12,8 +12,8 @@ top: false
 draft: true
 industries: []
 categories:
-- Mobile
-- App Ideas
+- mobile
+- app-ideas
 ---
 You can run a business like a pro but lack creativity when it comes to finding new app ideas. Which is perfectly fine and explains why articles like this one exist.
 

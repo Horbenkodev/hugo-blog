@@ -16,7 +16,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Development
+- development
 ---
 ***There is no doubt that the IT industry has taken over as one of the most productive industries. And more than half of the jobs in the IT field require good programming knowledge.***
 

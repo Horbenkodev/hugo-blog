@@ -11,7 +11,7 @@ promote:
 top: false
 draft: true
 industries:
-- Healthcare
+- healthcare
 categories: []
 ---
 It's difficult to imagine the functioning of any modern company or organization without using business software in dealing with routine tasks and processes. Healthcare institutions also greatly rely on various systems and applications for efficiently building their workflow.

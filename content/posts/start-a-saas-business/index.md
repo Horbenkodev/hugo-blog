@@ -12,7 +12,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 With the growing adoption of cloud technologies in the modern business world, the need for SaaS products is increasing. Namely, this fact brightly explains the desire of many entrepreneurs, startups, and well-established entities to start a SaaS business. With the right approach to the realization of such plans, it can become a very promising and profitable idea. If you are also considering starting a SaaS company as an option for your business strategy, this article where we are going to share a row of practical tips is exactly what you need.
 

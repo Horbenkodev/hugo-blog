@@ -12,7 +12,7 @@ top: false
 draft: true
 industries: []
 categories:
-- App Ideas
+- app-ideas
 ---
 Online food ordering and delivery skyrocketed in popularity in 2020 and there’s no sign of slowing down. With whole countries going into lockdowns and quarantines during the second wave of COVID-19 pandemic, families and single people don’t always have all the necessary ingredients to cook wholesome meals at home. Sometimes the lack of motivation also plays a role, since ordering food is one of few pleasures left under quarantine. Statistics says that <a href="https://beambox.com/townsquare/food-delivery-service-statistics">more than 70% of Americans</a> opt for online food delivery. And what’s great for your food delivery startup, apps are increasingly more popular among consumers than websites.
 

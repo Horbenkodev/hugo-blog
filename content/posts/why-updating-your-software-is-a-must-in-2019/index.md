@@ -15,7 +15,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Development
+- development
 ---
 Another update? What? Aren't those pop-up upgrade requests downright annoying?
 In the 21st century, we can't spare a minute for a smartphone OS update, much less an hour for software updates.

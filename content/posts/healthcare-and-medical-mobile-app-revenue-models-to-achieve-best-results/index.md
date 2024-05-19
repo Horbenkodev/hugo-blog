@@ -12,7 +12,7 @@ promote:
 top: false
 draft: true
 industries:
-- Healthcare
+- healthcare
 categories: []
 ---
 It is a long and difficult way from a medical app idea to <a href="https://anadea.info/solutions/medical-app-development" target="_blank">medical app development</a> and deriving profit from it further on. Before the app can make you money, it is necessary to validate the market and consider all the nuances you may come across on your way.

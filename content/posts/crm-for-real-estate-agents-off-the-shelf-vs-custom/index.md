@@ -13,7 +13,7 @@ promote:
 top: false
 draft: true
 industries:
-- Real Estate
+- real-estate
 categories: []
 ---
 ## What is CRM in real estate?

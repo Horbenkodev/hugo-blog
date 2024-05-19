@@ -1,5 +1,3 @@
-{{- $taxonomyList := slice "categories" "industries" -}}
-
 <article class="topPostCard">
   <div class="topPostCard__content">
 
@@ -13,26 +11,23 @@
       "ctx" .
     }}
 
-    {{ partial "image.html" $params }}
+    {{ partial "utils/image.html" $params }}
 
     <div class="topPostCard__caption">
-      {{ partial "post_info.html" . }}
+      {{ partial "shared/post_info.html" . }}
+
       <h2 class="topPostCard__title">
         <a href="{{ .RelPermalink }}" class="topPostCard__link">
-          {{- .Params.title -}}
+          {{ .Params.title }}
         </a>
       </h2>
+
       <p class="topPostCard__description">
-        {{- .Params.description -}}
+        {{ .Params.description }}
       </p>
+
       <div class="topPostCard__tags">
-        {{- range $taxonomyList -}}
-          {{- with $.Page.GetTerms . -}}
-            {{- range . -}}
-              <a class="tag" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-            {{- end -}}
-          {{- end -}}
-        {{- end -}}
+        {{ partial "shared/tags.html" . }}
       </div>
     </div>
   </div>

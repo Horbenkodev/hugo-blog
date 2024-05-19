@@ -11,7 +11,7 @@ promote:
 top: false
 draft: true
 industries:
-- Travel
+- travel
 categories: []
 ---
 The travel and tourism industry is starting to recover from a COVID-19 outbreak, quarantine, and movement restrictions. The travel sector recovered over 50% of its gross revenue by the end of 2021 when compared to the pre-coronavirus numbers. This recovery is projected to reach 85% by the end of 2022, by Travelport.

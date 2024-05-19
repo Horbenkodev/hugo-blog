@@ -14,9 +14,9 @@ promote:
 top: false
 draft: true
 industries:
-- Healthcare
+- healthcare
 categories:
-- Machine Learning
+- machine-learning
 ---
 Updated 7 September, 2021
 

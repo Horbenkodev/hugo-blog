@@ -12,7 +12,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 __Say you run a business. Online or offline, in either case there’s a moment when you decide to scale, and developing a custom app sounds like a promising idea. How does it cross your mind? And is there a real need to invest in a mobile app?__
 

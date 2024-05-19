@@ -12,9 +12,9 @@ promote:
 top: false
 draft: true
 industries:
-- Healthcare
+- healthcare
 categories:
-- Machine Learning
+- machine-learning
 ---
 Voice technology has gained significant momentum over the past several years and is on track to impact billions of people in the years that lie ahead. Amazon Alexa and Google Home are popular devices that utilize voice technology and are becoming more frequent within households across America. As voice assistants, technology enables people to create grocery lists, inquire about factual information and even make purchases.
 

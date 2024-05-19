@@ -16,8 +16,8 @@ top: false
 draft: true
 industries: []
 categories:
-- Development
-- Web
+- development
+- web
 ---
 Self-storage companies lease storage space, such as lockers, containers, and garages, and often have multiple locations with hundreds of units. Managing this business requires specialized management software to keep track of all the units.
 

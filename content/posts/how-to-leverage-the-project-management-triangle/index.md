@@ -15,8 +15,8 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
-- Development
+- business
+- development
 ---
 Being the project manager at a [custom software development company](https://anadea.info/services/custom-software-development), I often have to deal with the requests like "I want to do this app for a fixed price, can you do it?" or "Could you tell me a precise cost of my project?". Moreover, clients asking these questions may have just a brief idea of what they want to implement and they may not be sure about all the details of their project, however, they need the answer.
 

@@ -15,7 +15,7 @@ promote:
 top: false
 draft: true
 industries:
-- eLearning
+- elearning
 categories: []
 ---
 The <a href="https://www.forbes.com/sites/forbestechcouncil/2018/06/14/iot-for-economic-and-social-good-how-the-internet-of-things-makes-our-world-better/" target="_blank">Internet of Things</a> (IoT) and a new, faster web (known as Web 3.0) are here upon us, and as some wise old dude stated, we have no choice but to adapt or perish. One of the newer technologies related to the IoT is Big Data, which fundamentally involves the collection, analysis, and application of large volumes of data in various spheres.

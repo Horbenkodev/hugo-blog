@@ -13,7 +13,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 If you are an entrepreneur, who wants to begin your startup, if you are looking for ways to do it in the best possible way, if you worry that the developer or team won’t understand you the way you expect, this article is for you.
 

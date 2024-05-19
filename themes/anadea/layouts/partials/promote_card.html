@@ -11,17 +11,17 @@
       "ctx" .
     }}
 
-    {{ partial "image.html" $params }}
+    {{ partial "utils/image.html" $params }}
 
     <div class="promotionCard__info">
-      {{ partial "post_info.html" . }}
+      {{ partial "shared/post_info.html" . }}
       <h2 class="promotionCard__title">
         <a class="promotionCard__link" href="{{ .Params.promote.promote_url }}" target="_blank">
-          {{- .Params.title -}}
+          {{ .Params.title }}
         </a>
       </h2>
       <div class="promotionCard__description">
-        {{- .Params.description -}}
+        {{ .Params.description }}
       </div>
     </div>
   </div>

@@ -13,7 +13,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Development
+- development
 ---
 Imagine a world where users no longer need to remember countless passwords or worry about phishing scams. That's exactly what passkey promises. Let's dive into how it works, its benefits, and how to <a href="https://anadea.info/services/passkey">implement passkey</a> seamlessly into your software.
 

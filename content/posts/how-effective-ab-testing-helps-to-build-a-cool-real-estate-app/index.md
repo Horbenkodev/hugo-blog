@@ -17,7 +17,7 @@ authors:
   - web-development-team
 categories: []
 industries:
-  - Real Estate
+  - real-estate
 ---
 The success of real estate web giants like Zillow, Trulia, StreetEasy consists of many fragments. It looks like a puzzle. Until you put all its fragments in its place, you will not be able to see the overall picture, you will not achieve success until all the components are brought together. Today we are going to talk about one of the fragments - [quality assurance testing services](https://anadea.info/services/quality-assurance) and a/b testing for real estate platform.
 

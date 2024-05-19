@@ -15,7 +15,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business Analysis
+- business-analysis
 ---
 When it comes to running a business, the only thing that’s inevitable is change. Whether you’re targeting a new client base, striving to meet shareholder expectations, or competing with a new player in the market, evolution is the name of the game. As a software development company, we know that change can be hard, especially when you’re transitioning from brick-and-mortar operations to digital-first or digital-only. In this article, we describe the strategies that have helped us navigate an ever-changing digital landscape, and helped our clients achieve meaningful, sustainable digital transformations.
 

@@ -14,7 +14,7 @@ promote:
 top: false
 draft: true
 industries:
-- Real Estate
+- real-estate
 categories: []
 ---
 Keep up with changes and news on your local real estate market, do paperwork, wade through bureaucratic procedures, plan open houses, schedule meetings with clients or other agents and meet them, answer calls and emails, update information about your listings, figure out how to differ from competitors, keep a database of leads... On top of that, you understand that having an app is a necessity for your local real estate business, and there is simply no time to address the issue. Looks familiar to you?

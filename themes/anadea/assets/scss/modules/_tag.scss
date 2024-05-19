@@ -11,10 +11,10 @@
 }
 
 .tag {
-  z-index: 2;
+  box-sizing: border-box;
   display: flex;
   align-items: center;
-  height: 28px;
+  height: clamped(32px, 34px);
   padding: 0 10px;
   font-size: 14px;
   font-weight: 400;
@@ -33,14 +33,6 @@
   &:active {
     color: var(--active-color);
     border-color: var(--active-color);
-  }
-}
-
-@media screen and (width >= 426px) {
-  .tag {
-    height: 32px;
-    padding: 0 17px;
-    font-size: 14px;
   }
 }
 

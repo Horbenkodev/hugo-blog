@@ -12,8 +12,8 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
-- Web
+- business
+- web
 ---
 If you are having a thought about placing your business on the web, your second thought will probably be about finding a web developer to help you. On where to find a web developer for your project and how to say the right one for you, we will be speaking in this post.
 

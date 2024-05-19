@@ -12,7 +12,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Code Audit
+- code-audit
 ---
 IT projects often take the approach of building first and asking questions later. Why spend time double-checking when product updates need shipping?
 

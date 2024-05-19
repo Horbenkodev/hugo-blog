@@ -14,7 +14,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Development
+- development
 ---
 __What’s in common between my 8-year-old son’s project for a school contest on creative programming and my everyday work as a developer?__ There’s a lot, as it turned out.
 

@@ -14,7 +14,7 @@ authors:
   - web-development-team
 categories: []
 industries:
-  - Healthcare
+  - healthcare
 questionary:
   - question: What are the key reasons for using healthcare APIs?
     answer: Application programming interfaces help to ensure the connection between

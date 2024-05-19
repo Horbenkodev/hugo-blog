@@ -11,7 +11,7 @@ promote:
 top: false
 draft: true
 industries:
-- Healthcare
+- healthcare
 categories: []
 ---
 Going to the cloud is one of the top tech trends that we have observed across many industries, including healthcare, in recent years. And SaaS (<a href="https://anadea.info/services/saas-development" target="_blank">Software as a Service</a>) is the most widely used software delivery model. SaaS healthcare applications have numerous advantages that both patients and doctors can leverage. However, to develop high-quality healthcare SaaS products, a project team should deeply understand the specificity of such solutions and have relevant tech skills. Thanks to our rich practical experience in <a href="https://anadea.info/solutions/medical-app-development" target="_blank">medical app development</a>, we've managed to accumulate valuable knowledge on how to create products that fully meet the market needs.

@@ -12,7 +12,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Development
+- development
 ---
 The issue of digital security is more pressing than ever before. Hackers, fraudsters, and other illegal players are continuously working on making their tools and approaches more and more sophisticated. Just imagine. In 2023, in the US only, the <a href="https://www.statista.com/statistics/273550/data-breaches-recorded-in-the-united-states-by-number-of-breaches-and-records-exposed/" target="_blank">number</a> of data compromises reached the level of 3,205, while in 2005, this figure was 157, which is more than 20 times lower. And, of course, <a href="https://anadea.info/services/custom-software-development" target="_blank">software development</a> teams should take this fact into account while building their solutions.
 

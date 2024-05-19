@@ -13,7 +13,7 @@ top: false
 draft: true
 industries: []
 categories:
-- News
+- news
 ---
 We’re way too far from Silicon Valley, the first place that comes to mind when IT and innovations are brought up. Nor are we in Poland that’s become Europe’s cradle of IT talents in the past years. But we’re somewhere just as big, that’s for sure. So where are we?
 

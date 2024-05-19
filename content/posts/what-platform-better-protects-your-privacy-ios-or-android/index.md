@@ -14,7 +14,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Mobile
+- mobile
 ---
 Mobile users are on edge when it comes to their data privacy, and for good reasons.
 

@@ -11,7 +11,7 @@ promote:
 top: false
 draft: true
 industries:
-- Real Estate
+- real-estate
 categories: []
 ---
 With the overall digitalization that we can observe in the business world today, it is quite difficult to imagine the work of huge volumes of customer data without a reliable software system. That's exactly what a CRM (customer relationship management) solution can be used for.

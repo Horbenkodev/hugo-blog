@@ -14,8 +14,8 @@ top: false
 draft: true
 industries: []
 categories:
-- UX-UI
-- Web
+- ux-ui
+- web
 ---
 What are micro moments? To put it simply, a micro-moment, <a href="https://www.thinkwithgoogle.com/marketing-strategies/micro-moments/" target="_blank">as Google defines it</a>, occurs when people turn to their devices in order to act on a need they have. These needs can include wanting to learn, do, buy or watch something.
 

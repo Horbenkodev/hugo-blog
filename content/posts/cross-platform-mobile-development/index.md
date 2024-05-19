@@ -13,8 +13,8 @@ top: false
 draft: true
 industries: []
 categories:
-- Mobile
-- Business
+- mobile
+- business
 ---
 **Often in our practice, we, as a cross-platform development company, face the following questions: Will cross-platform do for my business? What benefits will I get if I choose cross-platform app development? How much does it cost to develop a cross-platform app? On these, and other questions, you’ll find a solid answer as far as you read this article.**
 

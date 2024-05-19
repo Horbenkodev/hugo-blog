@@ -14,7 +14,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 Twenty-five years ago, if you asked anyone what they thought the future would look like, you’d likely be met with answers like “Robots for companions, flying cars and regular trips to Mars.” While we’re a long way off from holidaying in the stars, we have made unimaginable headway in the field of IoT Technology.
 

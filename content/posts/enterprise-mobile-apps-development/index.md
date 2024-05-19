@@ -12,7 +12,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 Today, the success of businesses greatly depends on the quality of the software solutions that are used by their employees for organizing work processes. That's why, if you have plans to create mobile enterprise applications for your business processes, you should be ready to invest enough time, resources, and force into the development process in order to achieve the desired results.
 

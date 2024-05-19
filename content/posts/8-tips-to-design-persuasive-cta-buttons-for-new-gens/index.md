@@ -15,7 +15,7 @@ top: false
 draft: true
 industries: []
 categories:
-- UX-UI
+- ux-ui
 ---
 In the game of web design and online marketing where getting noticed by customers matter most, CTA buttons are one of the biggest players. Their role is very important - to subtly but effectively drive website users to do what you need them to do, whether that’s to <a href="https://www.webmastered.com/email-marketing-beginners-guide/#Newsletters" target="_blank">sign up for newsletters</a>, purchase products, fill out forms, and more.
 

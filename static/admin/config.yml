@@ -54,9 +54,9 @@ collections:
         collection: "categories"
         required: false
         multiple: true
-        search_fields: ["name"]
-        display_fields: ["name"]
-        value_field: "name"
+        search_fields: ["title"]
+        display_fields: ["title"]
+        value_field: "{{slug}}"
 
       - label: "Industries"
         name: "industries"
@@ -64,9 +64,9 @@ collections:
         collection: "industries"
         required: false
         multiple: true
-        search_fields: ["name"]
-        display_fields: ["name"]
-        value_field: "name"
+        search_fields: ["title"]
+        display_fields: ["title"]
+        value_field: "{{slug}}"
       - {label: "Body", name: "body", widget: "markdown"}
 
       - label: "Questionary"

@@ -13,7 +13,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Fintech
+- fintech
 ---
 Fintech apps have become financial superheroes, bringing convenience and lightning speed to everyday transactions. But like any hero, they have a weakness: data security. Data breaches in <a href="https://anadea.info/solutions/financial-software-development" target="_blank">fintech software</a> are a real concern, as some major cases have shown.
 

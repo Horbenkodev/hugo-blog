@@ -11,8 +11,8 @@ promote:
 top: false
 draft: true
 industries:
-- Real Estate
-- Travel
+- real-estate
+- travel
 categories: []
 ---
 Homeowners rent out their property for guests to make reservations directly. Such a simple concept has become a breakthrough back in 2008 when the first version of the Airbnb website was launched. In 2012, when the website got a mobile app for Android, things went even better, and for a decade already, the demand for Airbnb-like apps is still present. A <a href="https://anadea.info/solutions/travel-app-development" target="_blank">travel app development company</a>, we'll reveal the specifics the market if you want to build your own travel booking app.

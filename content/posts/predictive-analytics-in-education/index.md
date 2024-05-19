@@ -11,9 +11,9 @@ promote:
 top: false
 draft: true
 industries:
-- eLearning
+- elearning
 categories:
-- Machine Learning
+- machine-learning
 ---
 <h2>Table of contents</h2>
 <ul>

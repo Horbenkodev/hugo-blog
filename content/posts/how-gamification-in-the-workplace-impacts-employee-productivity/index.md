@@ -15,7 +15,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 > Happy employees are more productive. Staff who enjoy their work perform better, work harder and stay with a company longer.
 

@@ -12,10 +12,10 @@ promote:
 top: false
 draft: true
 industries:
-- eLearning
-- Healthcare
+- elearning
+- healthcare
 categories:
-- Business
+- business
 ---
 Take a look at how online games have changed over the past ten years. They have become bolder and more diverse. They have reached a big audience, bigger than ever before. They have received great attention, greater than ever before. They have earned lots of money, more than ever before. These changes in the gamification industry certainly spark up the interest of smart entrepreneurs who come up with more and more game-based solutions for business. <a href="https://www.statista.com/statistics/608824/gamification-market-value-worldwide/" rel="nofollow" target="_blank">Statista</a> helps to match words with numbers - the gamification market is expected to grow to over 12 billion U.S. dollars in 2021.
 

@@ -13,7 +13,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Fintech
+- fintech
 ---
 Though the traditional banking and finance industry has been growing and
 developing for centuries, today, it may seem that it is experiencing not

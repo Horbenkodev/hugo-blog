@@ -15,7 +15,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Development
+- development
 ---
 Online advertising has turned into something trivial for us. We receive advertisements by email, see them on YouTube, social networks, online shops, etc. We take internet ads as they are and just notice the things that they try to sell us. However, have you ever wondered what mechanism drives online advertisements and how does digital advertising work? It's hard to believe, but there's a huge advertising empire behind that slim yellow line and pop-up ads on YouTube. Today, we'll take a close look at an extensive tech system that works for internet advertising and delivers ads to our screens.
 

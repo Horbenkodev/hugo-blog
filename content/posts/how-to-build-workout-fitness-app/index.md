@@ -11,7 +11,7 @@ promote:
 top: false
 draft: true
 industries:
-- Sports
+- sports
 categories: []
 ---
 Today, we can observe that people pay much more attention to their health and well-being than even a decade ago. The reasons for that can be different for various regions and social groups, but one factor is obvious. Thanks to modern tech solutions, it has become easier for people to devote more time to themselves. To keep fit, it is not obligatory to attend a gym; it is enough just to have a cool fitness app. But even if you are a fan of gyms or fitness clubs, a relevant app can make the process of training much more engaging, efficient, and pleasant.

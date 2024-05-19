@@ -14,7 +14,7 @@ promote:
 top: false
 draft: true
 industries:
-- Healthcare
+- healthcare
 categories: []
 ---
 Healthcare is changing, it is going digital, and this is good news for patients, healthcare providers, as well as <a href="https://anadea.info/solutions/medical-app-development" target="_blank">medical software development services</a>.

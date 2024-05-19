@@ -12,7 +12,7 @@ top: false
 authors:
   - business-analysis-team
 categories:
-  - Design
+  - design
 industries: []
 questionary:
   - question: What is an empathy map?

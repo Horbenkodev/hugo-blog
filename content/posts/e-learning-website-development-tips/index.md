@@ -11,7 +11,7 @@ promote:
 top: false
 draft: true
 industries:
-- eLearning
+- elearning
 categories: []
 ---
 Modern approaches to education seriously differ from traditional ones. And technologies play a vital role in this transformation. Thanks to the introduction of new solutions and tools, the e-learning industry is growing at an impressive pace. In 2022, the [global e-learning industry size](https://www.vantagemarketresearch.com/industry-report/online-education-e-learning-market-2028#:~:text=Snapshot&text=Global%20Online%20Education%2FE%2DLearning,17.2%25%20over%20the%20forecast%20period.) was at the level of over $198 billion. And with the projected CAGR for the period from 2023 to 2030 of over 17%, this figure will be around $692 billion by 2030.

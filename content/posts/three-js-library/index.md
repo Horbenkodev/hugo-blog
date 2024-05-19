@@ -12,7 +12,7 @@ top: false
 authors:
   - polina-borysova
 categories:
-  - Development
+  - development
 industries: []
 ---
 In the flow of everyday tasks from customers, we constantly had to face mechanisms for working with complex animations or with complex graphic designs. As one of the possible ways to solve such problems, we chose to use the <a href="https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene" target="_blank" rel="nofollow">Three.js library</a>, which has quite a wide range of configurational and practical usage.

@@ -1,7 +1,7 @@
-{{- define "page-js" -}}
+{{ define "page-js" }}
   {{ partialCached "head_resources/search_js.html" . }}
   {{ partialCached "head_resources/search_form_js.html" . }}
-{{- end -}}
+{{ end }}
 
 {{ define "page-css" }}
   {{ partialCached "head_resources/page_css.html" (dict
@@ -13,9 +13,11 @@
 
 {{ define "main" }}
   <div class="container container__w1300">
-    {{- partial "page_head.html" . -}}
+    {{ partial "shared/page_head.html" . }}
+
     <h1>Search</h1>
-    {{- partial "filters.html" . -}}
+
+    {{ partial "shared/filters.html" . }}
 
     <div id="searchResults"></div>
   </div>

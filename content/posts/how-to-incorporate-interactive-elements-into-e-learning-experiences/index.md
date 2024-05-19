@@ -14,7 +14,7 @@ promote:
 top: false
 draft: true
 industries:
-- eLearning
+- elearning
 categories: []
 ---
 For both education and business, e-learning has become an ideal solution to training, knowledge sharing and evolution in general. What was once comprised of physical presence in courses and long seminars is now just a process involving a few clicks. Both employees in companies and children in schools can benefit from e-learning, but there is one problem - how to make it engaging?

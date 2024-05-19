@@ -16,7 +16,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business Analysis
+- business-analysis
 ---
 One of the main reasons for project failure is poor requirements management. In this article, we will give insights on what are project requirements, types of requirements and how to gather requirements to ensure project success. We will also give you the answer to what [business analysts](https://anadea.info/guides/business-analyst-role) do to effectively handle project requirements. Let’s start with the basics.
 

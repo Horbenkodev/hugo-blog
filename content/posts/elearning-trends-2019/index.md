@@ -14,9 +14,9 @@ promote:
 top: false
 draft: true
 industries:
-- eLearning
+- elearning
 categories:
-- Trends
+- trends
 ---
 Information technologies are changing almost every aspect of our lives. From communication to finance, you can use digital tools to speed up and improve your business. The trend did not bypass the learning industry, so now you can utilize online mechanisms to improve the skills of your employees and boost their productivity.
 

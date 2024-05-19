@@ -11,7 +11,7 @@ promote:
 top: false
 draft: true
 industries:
-- Real Estate
+- real-estate
 categories: []
 ---
 Such a way of raising money from a large group of investors as crowdfunding is a rather popular option in many industries today. And the real estate market is one of them. Crowdfunding real estate platforms that allow users to financially support real estate acquisitions are gaining popularity.

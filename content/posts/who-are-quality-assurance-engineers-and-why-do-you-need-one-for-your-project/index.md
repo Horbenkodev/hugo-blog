@@ -12,7 +12,7 @@ top: false
 draft: true
 industries: []
 categories:
-- QA
+- qa
 ---
 Code that’s initially flawless is almost as real as unicorns. Even NASA has malfunctions. Neglecting [Quality Assurance](https://anadea.info/services/quality-assurance) (QA) can result in serious challenges. Below, you’ll find out who is in charge of the quality of your software product and why QA is essential on IT projects.
 

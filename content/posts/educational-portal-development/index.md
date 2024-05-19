@@ -12,7 +12,7 @@ promote:
 top: false
 draft: true
 industries:
-- eLearning
+- elearning
 categories: []
 ---
 Online learning keeps gaining popularity. While in some cases digital solutions play a supportive role in the studying process, a modern online education portal can fully replace traditional learning methods.

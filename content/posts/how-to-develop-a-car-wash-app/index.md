@@ -13,7 +13,7 @@ top: false
 draft: true
 industries: []
 categories:
-- App Ideas
+- app-ideas
 ---
 <h2>Table of contents</h2>
 

@@ -12,7 +12,7 @@ promote:
 top: false
 draft: true
 industries:
-- Real Estate
+- real-estate
 categories: []
 ---
 With an idea to start a <a href="https://anadea.info/solutions/real-estate-software" target="_blank">real estate app development</a> project, you want the resulting product to bring real value to people. Especially with <a href="https://www.nar.realtor/research-and-statistics/research-reports/real-estate-in-a-digital-age" rel="nofollow">97%</a> of home buyers using the internet in their search. And you surely want your project to make profit. How to do it when there are such huge real estate apps like Zillow and Trulia out in the market?

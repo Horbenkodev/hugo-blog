@@ -20,7 +20,7 @@
     }
   </script>
 
-  {{ partial "post_head.html" . }}
+  {{ partial "post/post_head.html" . }}
 
   <div class="container container__w960 postBody">
     <article class="ToC__mobileOnly">
@@ -45,18 +45,18 @@
 
       <div class="postBody__animated">
         <div class="sticky hidden" id="author-connect">
-          {{ partial "keep_in_touch.html" . }}
+          {{ partial "post/keep_in_touch.html" . }}
         </div>
 
         <div class="sticky hidden" id="read-next">
-          {{ partial "read_next.html" . }}
+          {{ partial "post/read_next.html" . }}
         </div>
       </div>
     </aside>
   </div>
 
   <div class="container container__w1300">
-    {{ partial "questions.html" . }}
-    {{ partial "keep_reading.html" . }}
+    {{ partial "post/questions.html" . }}
+    {{ partial "post/keep_reading.html" . }}
   </div>
 {{ end }}

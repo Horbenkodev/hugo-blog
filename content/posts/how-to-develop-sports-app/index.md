@@ -11,7 +11,7 @@ promote:
 top: false
 draft: true
 industries:
-- Sports
+- sports
 categories: []
 ---
 _Updated July, 2022._

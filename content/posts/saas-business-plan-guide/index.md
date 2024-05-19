@@ -13,7 +13,7 @@ top: false
 draft: true
 industries: []
 categories:
-- Business
+- business
 ---
 If you are on this page, perhaps you are already well aware of the benefits of composing a business plan when starting a venture. It allows you to stand firmly on the ground at every stage of business development and present your idea to investors correctly.
 

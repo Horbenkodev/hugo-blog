@@ -11,7 +11,7 @@ promote:
 top: false
 draft: true
 industries:
-- Sports
+- sports
 categories: []
 ---
 When talking about sports apps, the majority of people start thinking about applications for yoga, fitness trackers, or solutions that help to plan routes for runners. <a href="https://anadea.info/solutions/sports-app-development" target="_blank">Sports app development</a> is gaining momentum and such services enjoy a rather high popularity these days. Nevertheless, the range of software products for this market isn't limited to applications aimed at improving the efficiency of training. The sports industry is one of those that are actively adopting new technologies in its many processes, including the administrative ones. In this article, we are going to talk about one particular type of such tech product for this industry. It will be sport team management software.

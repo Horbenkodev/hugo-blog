@@ -14,7 +14,7 @@ top: false
 draft: true
 industries: []
 categories:
-- News
+- news
 ---
 One of the basic responses to an unforeseen life-threatening situation is to freeze. Most of us having faced a possibility to catch COVID-19 will feel helpless and lost, and, as a result, may lack confidence about the future. It is all about losing control over the situation.
 
