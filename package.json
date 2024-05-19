@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "dev": "run-p start:**",
-    "start:hugo": "hugo server -v --gc --noHTTPCache --disableFastRender --renderToMemory --templateMetrics --templateMetricsHints --logLevel debug",
+    "start:hugo": "hugo server -v --gc --minify --noHTTPCache --disableFastRender --renderToMemory --templateMetrics --templateMetricsHints --logLevel debug",
     "start:decap-server": "npx decap-server",
     "prepare": "husky",
     "stylelint": "stylelint '**/*.scss' --fix"
