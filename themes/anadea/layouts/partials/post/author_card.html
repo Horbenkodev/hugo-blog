@@ -1,7 +1,7 @@
 <figure class="authorCard">
   {{ if .author.team }}
     <div class="authorCard__avatar">
-      {{ partial "team_avatar.html" . }}
+      {{ partial "shared/team_avatar.html" . }}
     </div>
   {{ else }}
     {{ $params := dict
@@ -9,12 +9,12 @@
       "width" 56
       "height" 56
       "src" .author.avatar
-      "alt" (or .author.alt .Params.title)
+      "alt" (or .author.title .Params.title)
       "sizes" 112
       "ctx" .
     }}
 
-    {{ partial "image.html" $params }}
+    {{ partial "utils/image.html" $params }}
   {{ end }}
 
   <figcaption class="authorCard__info">

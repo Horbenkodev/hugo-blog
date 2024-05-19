@@ -12,23 +12,27 @@
 
 {{ define "main" }}
   <div class="container container__w1300">
-    {{ partial "page_head.html" . }}
+    {{ partial "shared/page_head.html" . }}
 
     <header class="taxonomyPage">
-      <h1 class="taxonomyPage__title">Articles about {{ .Title }}</h1>
+      {{ $path := path.BaseName .Path }}
+
+      {{ with index (index $.Site.Data .Type) $path }}
+        <h1 class="taxonomyPage__title">Articles about {{ .title }}</h1>
+      {{ end }}
     </header>
 
-    {{ partial "filters.html" . }}
+    {{ partial "shared/filters.html" . }}
 
     <div class="postFeed">
       {{ $paginator := .Paginate .Pages }}
       {{ with $paginator }}
         {{ range .Pages }}
-          {{ partial "post_card.html" . }}
+          {{ partial "shared/post_card.html" . }}
         {{ end }}
       {{ end }}
     </div>
 
-    {{ partial "pagination.html" . }}
+    {{ partial "shared/pagination.html" . }}
   </div>
 {{ end }}

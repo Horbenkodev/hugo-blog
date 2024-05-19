@@ -2,7 +2,7 @@
   {{ if .team }}
   <div class="heroCard__bio">
     <div class="heroCard__avatar">
-      {{ partial "team_avatar.html" . }}
+      {{ partial "shared/team_avatar.html" . }}
     </div>
     <div>{{ .title }}</div>
   </div>
@@ -18,7 +18,7 @@
         "ctx" .
       }}
 
-      {{ partial "image.html" $params }}
+      {{ partial "utils/image.html" $params }}
 
       <h3 class="heroCard__name">{{ .title }}</h3>
       <div class="heroCard__position">{{ .position }}</div>

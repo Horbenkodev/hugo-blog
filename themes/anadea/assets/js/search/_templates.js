@@ -1,22 +1,20 @@
-import { toKebabCase } from '../_utils';
-
 const categoriesHTML = (collection) =>
-  collection.map((category) => `<a href="/categories/${toKebabCase(category)}" class="tag">${category}</a>`).join('');
+  collection.map((category) => `<a href="${category.url}" class="tag">${category.title}</a>`).join('');
 
 const industriesHTML = (collection) =>
-  collection.map((industry) => `<a href="/industries/${toKebabCase(industry)}" class="tag">${industry}</a>`).join('');
+  collection.map((industry) => `<a href="${industry.url}" class="tag">${industry.title}</a>`).join('');
 
 const authorsHTML = (collection) =>
   collection
     .map(
       (author) =>
-        `<a class="postInfo__link" href="/authors/${toKebabCase(author)}">${author}</a><div class="postInfo__bullet"></div>`,
+        `<a class="postInfo__link" href="${author.url}">${author.title}</a><div class="postInfo__bullet"></div>`,
     )
     .join('');
 
 export const postCardHTML = (item) => {
-  const categories = categoriesHTML(item.categories || []);
-  const industries = industriesHTML(item.industries || []);
+  const categories = categoriesHTML(item.categoriesData || []);
+  const industries = industriesHTML(item.industriesData || []);
   const authors = authorsHTML((item.authors && item.authors[0] && [item.authors[0]]) || []);
 
   const formattedDate = new Date(item.publishDate).toLocaleDateString('en-EN', {
