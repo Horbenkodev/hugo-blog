@@ -1,7 +1,7 @@
 ---
 title: Who Are The Best App Developers in Spain?
-draft: true
-publishDate: 2017-09-29T00:00:00Z
+draft: false
+publishDate: 2017-09-29T00:00:00.000Z
 image: mobile-app-devs.jpg
 og_image: mobile_app_devs.jpg
 description: Spaniards have firmly established themselves among the world's
@@ -66,7 +66,7 @@ Clutch is not the only one service that conducts IT services market researches a
 
 One of our [clients](https://anadea.info/projects/viventor), a Spanish-Latvian startup that hired our developers to build Android and iOS apps for their financial investment platform, gave us the following feedback:
 
-> Many thanks to the whole team for the successful release of the new version of our application! Despite the seemingly small amount of innovation compared to the first version, still, the amount of work was extensive. I was pleased with the successful and high-quality communication with our backend team and how the disputed issues were resolved. Special thanks for solving issues outside of working hours! The development of mobile applications for us was a novelty and we gained invaluable experience. Thank you again and good luck in future projects!
+{{< advert >}}Many thanks to the whole team for the successful release of the new version of our application! Despite the seemingly small amount of innovation compared to the first version, still, the amount of work was extensive. I was pleased with the successful and high-quality communication with our backend team and how the disputed issues were resolved. Special thanks for solving issues outside of working hours! The development of mobile applications for us was a novelty and we gained invaluable experience. Thank you again and good luck in future projects!{{< /advert >}}
 
 You can find more reviews from our clients in our [profile on Clutch](https://clutch.co/profile/anadea).
 
