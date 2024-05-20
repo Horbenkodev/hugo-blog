@@ -15,7 +15,7 @@ promote:
 top: false
 authors:
   - web-development-team
-  - mobile-development-team-1
+  - mobile-development-team
 categories:
   - code-audit
 industries: []

@@ -14,7 +14,7 @@ promote:
   promote: false
 top: false
 authors:
-  - mobile-development-team-1
+  - mobile-development-team
 categories:
   - development
   - mobile
