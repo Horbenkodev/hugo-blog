@@ -8,7 +8,15 @@
     {{ end }}
     {{ if not .IsHome }}
     <li class="breadcrumbs__item">
-      <a aria-current="page" class="breadcrumbs__link" href="{{ .RelPermalink }}">{{ or .Params.breadcrumbs .Title }}</a>
+      {{ $path := path.BaseName .Path }}
+
+      <a aria-current="page" class="breadcrumbs__link" href="{{ .RelPermalink }}">
+        {{ with index (index $.Site.Data .Type) $path }}
+          {{ .title }}
+        {{ else }}
+          {{ or .Params.breadcrumbs .Title }}
+        {{ end }}
+      </a>
     </li>
     {{ end }}
   </ol>
