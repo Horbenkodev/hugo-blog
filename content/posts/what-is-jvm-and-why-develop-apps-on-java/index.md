@@ -3,7 +3,7 @@ title: What is JVM and Why it is Worth to Develop Apps on Java Platform
 breadcrumbs: Why Develop on Java
 slug: what-is-jvm-and-why-develop-apps-on-java
 draft: false
-publishDate: 2017-12-12T00:00:00Z
+publishDate: 2017-12-12T00:00:00.000Z
 image: Java_JVM.jpg
 og_image: Advantages-of-java.png
 description: The history of Java began in 1995, when the first version of this
@@ -69,15 +69,15 @@ Among these languages are: functional to the core Clojure, dynamic Groovy, pragm
 
 In support of the above, I would like to give a few examples of projects implemented by us on the Java platform.
 
-#### For education industry:
+### For education industry
 
 **[STAV Online](https://anadea.info/projects/stav-online)** - an online platform for teaching and learning the national language in Danish schools. Training is conducted using the gamification technique: instead of books - game worlds and bonus points will be a reward to the diligent student. The teacher can track the progress of both the class as a whole and individual students. Since students and teachers work with the application mainly from tablets, the application is also adapted for mobile devices. At the moment, the application serves more than 10 thousand students and over a thousand teachers.
 
-#### For enhancing software development process:
+### For enhancing software development process
 
 Nobody likes errors in applications and there are QA testers whose role is to find glitches and bugs. After detecting an error, testers have to describe its symptoms and steps to reproduce the bug. They can, of course, do this on paper, but we live in the age of digital technologies. Therefore, we developed the **QA Assistant** app for our testers, which provides a convenient interface for describing bugs, creating test scenarios, reporting and other QA activities.
 
-#### For game development:
+### For game development
 
 Everyone likes to play games and our developers are no exception. However, since we are not only players, but also software developers, we have some games written in Java in our portfolio as well. Here, for example, the clone of the **Plumber** puzzle in a somewhat unusual implementation. Instead of pipes are wires, instead of cranes - bulbs. The game is available on the <a href="https://itunes.apple.com/app/bulb-fiction/id973146040?mt=8" rel="nofollow" target="_blank">App Store</a>.
 
