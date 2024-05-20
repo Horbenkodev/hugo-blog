@@ -1,5 +1,8 @@
 ---
-title: "Native vs Cross-Platform App Development: Our Practical Experience"
+ceoTitle: "Native vs Cross-Platform App Development: Our Practical Experience"
+title: " Cross-Platform App Development vs Native? Our Experience Solving the Dilemma"
+breadcrumbs: Cross-Platform App Development vs Native
+slug: native-vs-cross-platform-app-development
 draft: false
 publishDate: 2024-01-04T00:00:00.000Z
 image: cross_platform_native.png
