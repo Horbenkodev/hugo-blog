@@ -1,18 +1,21 @@
 ---
-title: What you need to know about Clubhouse MVP Development
-publishDate: '2021-02-25T00:00:00Z'
-authors: []
-description: What Is Clubhouse? Is it the new Tik-Tok? You can find out how much it
-  costs to develop Clubhouse and how much time it takes, roughly
+title: What You Need to Know about Clubhouse MVP Development
+slug: clubhouse-mvp-development-assessment-cost
+draft: false
+publishDate: 2021-02-25T00:00:00Z
 image: clubhouse_meta.jpg
 og_image: clubhouse_header.jpg
+description: What Is Clubhouse? Is it the new TikTok? You can find out how much
+  it costs to develop Clubhouse and how much time it takes, roughly.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - mobile-development-team-1
 categories:
-- business
+  - business
+industries:
+  - social
 ---
 In the startup world, if you want to be a successful entrepreneur and create the next big app, you have to follow trends and explore success stories. The latest media explosion of Clubhouse app has drawn our attention and stuck us to the topic.
 
