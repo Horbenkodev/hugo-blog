@@ -1,7 +1,7 @@
 ---
 title: Why Updating Your Software is a Must
 draft: false
-publishDate: 2019-04-18T00:00:00Z
+publishDate: 2019-04-18T00:00:00.000Z
 image: Software-update.jpg
 og_image: Software-update.jpg
 description: Another update? What? Aren't those pop-up upgrade requests
@@ -13,7 +13,8 @@ description: Another update? What? Aren't those pop-up upgrade requests
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - web-development-team
 categories:
   - development
 industries: []
