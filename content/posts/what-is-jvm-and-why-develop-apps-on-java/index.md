@@ -1,20 +1,23 @@
 ---
 title: What is JVM and Why it is Worth to Develop Apps on Java Platform
-publishDate: '2017-12-12T00:00:00Z'
-authors:
-- alexander-mikhalchenko
-description: The history of Java began in 1995, when the first version of this programming
-  language was released. "Write Once, Run Anywhere" (WORA) was the slogan of the new
-  language. This meant that Java was not just another programming language.
+breadcrumbs: Why Develop on Java
+slug: what-is-jvm-and-why-develop-apps-on-java
+draft: false
+publishDate: 2017-12-12T00:00:00Z
 image: Java_JVM.jpg
 og_image: Advantages-of-java.png
+description: The history of Java began in 1995, when the first version of this
+  programming language was released. "Write Once, Run Anywhere" (WORA) was the
+  slogan of the new language. This meant that Java was not just another
+  programming language.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - alexander-mikhalchenko
 categories:
-- development
+  - development
+industries: []
 ---
 The history of Java began in 1995, when the first version of this programming language was released. "Write Once, Run Anywhere" (WORA) was the slogan of the new language. This meant that Java was not just another programming language, but a whole platform which you could use to build applications for everything, from powerful servers in data centers to a coffee machine in your kitchen.
 
@@ -28,7 +31,7 @@ It has been more than 20 years since the rise of the Java platform and you know 
 
 ## Advantages of Java virtual machine
 
-<img src="Advantages_of_java.png" alt="Infographic: Advantages of Java and JVM" width='400' class="float-right">
+![](Advantages_of_java.png)
 
 ### Independence from platform
 
