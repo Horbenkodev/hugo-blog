@@ -1,21 +1,23 @@
 ---
 title: Who Are The Best App Developers in Spain?
-publishDate: '2017-09-29T00:00:00Z'
-authors: []
-description: Spaniards have firmly established themselves among the world's biggest
-  smartphone users. The percentage of smartphone owners in Spain has already exceeded
-  65% of the population and smartphone user penetration is predicted to reach over
-  71% by 2022. This equals to over 30 million users, which creates a sweet spot for
-  IT business and sparks up the Spanish app development industry.
+draft: true
+publishDate: 2017-09-29T00:00:00Z
 image: mobile-app-devs.jpg
 og_image: mobile_app_devs.jpg
+description: Spaniards have firmly established themselves among the world's
+  biggest smartphone users. The percentage of smartphone owners in Spain has
+  already exceeded 65% of the population and smartphone user penetration is
+  predicted to reach over 71% by 2022. This equals to over 30 million users,
+  which creates a sweet spot for IT business and sparks up the Spanish app
+  development industry.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - marketing-team
 categories:
-- news
+  - news
+industries: []
 ---
 Spaniards have firmly established themselves among the world's biggest smartphone users. The percentage of smartphone owners in Spain has already exceeded 65% of the population and smartphone user penetration is predicted to reach over 71% by 2022. This equals to over 30 million users, which creates a sweet spot for IT business and sparks up the Spanish app development industry.
 
