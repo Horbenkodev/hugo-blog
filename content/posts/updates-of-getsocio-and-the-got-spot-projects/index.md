@@ -1,20 +1,22 @@
 ---
 title: What's New? Updates of Getsocio and The Got Spot projects
-publishDate: '2018-09-19T00:00:00Z'
-authors:
-- vladimir-shumik
-description: Recently we've released a new mobile app - The Got Spot app. The launch
-  of this application is closely related to our Getsocio project, so let's first talk
-  about major updates of Getsocio itself and some other linked projects.
+breadcrumbs: Updates of Getsocio and The Got Spot
+draft: true
+publishDate: 2018-09-19T00:00:00Z
 image: Getsocio-updates.jpg
 og_image: Getsocio-updates.jpg
+description: Recently we've released a new mobile app - The Got Spot app. The
+  launch of this application is closely related to our Getsocio project, so
+  let's first talk about major updates of Getsocio itself and some other linked
+  projects.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - vladimir-shumik
 categories:
-- news
+  - news
+industries: []
 ---
 Recently we've released a new mobile app - The Got Spot app. The launch of this application is closely related to our Getsocio project, so let's first talk about major updates of Getsocio itself and some other linked projects.
 
@@ -62,8 +64,7 @@ After the first coupon scanner apps appeared on the market, Getsocio's customers
 
 Now, let's get back to the most recent release - The Got Spot mobile app.
 
-The growing business of one of Getsocio's key clients required developing a mobile application for their website. However, previously available client applications were created in distant 2012 and looked like this:
-![Getsocio mobile app old](Getsocio_mobile_old.jpg)
+The growing business of one of Getsocio's key clients required developing a mobile application for their website. However, previously available client applications were created in distant 2012 - a long time ago!
 
 It was necessary to build a new API, create a new design and develop an application. We decided to use React Native for this project as it was a great opportunity to apply our expertise in this framework. As a result, we developed an app for both iOS and Android platforms. Here are some mock-ups to give you an idea of how it looks like:
 
@@ -87,4 +88,4 @@ We can't but mention the team members who made all these updates happen:
 
 Thank you for making these projects great!
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Get a Software Development quote{{< /ctabutton >}}
+{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Get a software development quote{{< /ctabutton >}}
