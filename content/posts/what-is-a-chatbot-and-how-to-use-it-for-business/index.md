@@ -1,21 +1,23 @@
 ---
 title: What is a Chatbot and How to Use It for Your Business
-publishDate: '2017-12-29T00:00:00Z'
-authors: []
-description: The evolution of artificial intelligence is now in full swing and chatbots
-  are only a faint splash on a huge wave of progress. Today the number of users of
-  messaging apps like WhatsApp, Slack, Skype and their analogs is skyrocketing, Facebook
-  Messenger alone has more than 1.2 billion monthly users. With the spread of messengers,
-  virtual chatterbots are becoming increasingly in demand.
+breadcrumbs: Chatbot for Business
+draft: false
+publishDate: 2017-12-29T00:00:00Z
 image: what-is-chatbot.jpg
 og_image: what-is-chatbot.jpg
+description: The evolution of artificial intelligence is now in full swing and
+  chatbots are only a faint splash on a huge wave of progress. Today the number
+  of users of messaging apps like WhatsApp, Slack, Skype and their analogs is
+  skyrocketing, Facebook Messenger alone has more than 1.2 billion monthly
+  users. With the spread of messengers, virtual chatterbots are becoming
+  increasingly in demand.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- business
+  - business
+industries: []
 ---
 The evolution of artificial intelligence is now in full swing and chatbots are only a faint splash on a huge wave of progress. Today the number of users of messaging apps like WhatsApp, Slack, Skype and their analogs is skyrocketing, Facebook Messenger alone has more than <a href="https://www.statista.com/statistics/417295/facebook-messenger-monthly-active-users/" rel="nofollow" target="_blank">1.2 billion</a> monthly users. With the spread of messengers, virtual chatterbots that imitate human conversations for solving various tasks are becoming increasingly in demand. Chinese WeChat bots can already set medical appointments, call a taxi, send money to friends, check in for a flight and many many other.
 
@@ -29,7 +31,7 @@ Of course, it is not so simple to create an interactive agent that the user will
 
 According to <a href="https://en.oxforddictionaries.com/definition/chatbot" rel="nofollow" target="_blank">Oxford Dictionaries</a>, a chatbot is
 
-> "A computer program designed to simulate conversation with human users, especially over the Internet."
+> A computer program designed to simulate conversation with human users, especially over the Internet.
 
 It is an assistant that communicates with us through text messages, a virtual companion that integrates into websites, applications or instant messengers and helps entrepreneurs to get closer to customers. Such a bot is an automated system of communication with users.
 
@@ -58,7 +60,7 @@ Depending on how the specific bots were programmed, we can divide them into two 
 
 **Smart chatbots** rely on [artificial intelligence](https://anadea.info/blog/artificial-intelligence-pandoras-box-or-the-holy-grail) when they communicate with users. Instead of pre-prepared answers, the robot responds with adequate suggestions on the topic. In addition, all the words said by the customers are recorded for later processing. However, the Forrester <a href="https://www.forrester.com/report/The+State+Of+Chatbots/-/E-RES136207" rel="nofollow" target="_blank">report</a> "The State of Chatbots" points out that artificial intelligence is not a magic and is not yet ready to produce marvelous experiences for users on its own. On the contrary, it requires a huge work:
 
-> "Chat developers and designers are the gardeners: they have to tend to the chatbots and coach their growth through continuous, yet gentle, correction. these designers must also beg, coerce, and incent customers to put up with subpar experiences during the process: the learning is really slow."
+> Chat developers and designers are the gardeners: they have to tend to the chatbots and coach their growth through continuous, yet gentle, correction. these designers must also beg, coerce, and incent customers to put up with subpar experiences during the process: the learning is really slow.
 
 ### The most popular chatbot
 
@@ -68,7 +70,7 @@ Through the chatbot search engines, you can find an interesting application in e
 
 ## What can chatbots do?
 
-> "I think chatbots are the future of engagement between a fan and a brand or celebrity." ~ Christina Milian
+> I think chatbots are the future of engagement between a fan and a brand or celebrity. (Christina Milian)
 
 Both startups and savvy companies are now incorporating interactive agents into their daily operations, communication with customers and sales processes. Chatbots can help to:
 
@@ -89,10 +91,10 @@ Both startups and savvy companies are now incorporating interactive agents into 
 
 If we managed to inspire you to create your own chatbot, here are some tips to help you get started. There are 4 main stages:
 
-**1. Define the goals.** What should your chatbot do? Clearly indicate the list of functions your chatbot needs to perform. <br>
-**2. Choose a channel to interact with your customers.** Be where your clients prefer to communicate - your website, mobile app, Facebook Messenger, WhatsApp or other messaging platform. <br>
-**3. Choose the way of creation.** There are two of them: using readymade chat bot software or building a custom bot from scratch. <br>
-**4. Create, customize and launch.** Describe the algorithm of its actions, develop a database of answers and test the work of the chatbot. Double check everything before showing your creation to potential customers.
+1. **Define the goals.** What should your chatbot do? Clearly indicate the list of functions your chatbot needs to perform. <br>
+2. **Choose a channel to interact with your customers.** Be where your clients prefer to communicate - your website, mobile app, Facebook Messenger, WhatsApp or other messaging platform. <br>
+3. **Choose the way of creation.** There are two of them: using readymade chat bot software or building a custom bot from scratch. <br>
+4. **Create, customize and launch.** Describe the algorithm of its actions, develop a database of answers and test the work of the chatbot. Double check everything before showing your creation to potential customers.
 
 Now let's look closer at 2 approaches to building chatbots:
 
