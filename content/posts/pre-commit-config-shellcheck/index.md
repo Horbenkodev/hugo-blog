@@ -1,19 +1,22 @@
 ---
+ceoTitle: pre-commit-config-shellcheck for syntax and semantic checks automation
 title: pre-commit-config-shellcheck for syntax and semantic checks automation
-publishDate: '2022-08-18T00:00:00Z'
-authors:
-- eugene-pasko
-description: pre-commit-config-shellcheck is a tool by Anadea developers for checking
-  entry points in the pre-commit config with ShellCheck.
+breadcrumbs: pre-commit-config-shellcheck
+slug: pre-commit-config-shellcheck
+draft: false
+publishDate: 2022-08-18T00:00:00Z
 image: nemo.jpg
 og_image: nemo.jpg
+description: pre-commit-config-shellcheck is a tool by Anadea developers for
+  checking entry points in the pre-commit config with ShellCheck.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - eugene-pasko
 categories:
-- development
+  - development
+industries: []
 ---
 ## The reasoning
 Second-checking of an already written code may be an exhausting and unreliable task for most of the programmers involved in <a href="https://anadea.info/services/custom-software-development" target="_blank">custom software development</a>. While refactoring the code a few days ago, we found some mistakes in shell code in the pre-commit config file. These errors have been there for a long time without any warnings. That's why we thought if these code checks either were more reliable or proceeded automatically. Thereafter, <a href="https://github.com/Anadea/pre-commit-config-shellcheck" target="_blank">pre-commit-config-shellcheck</a> was created for this very purpose.
