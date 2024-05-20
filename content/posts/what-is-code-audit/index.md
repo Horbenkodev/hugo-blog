@@ -4,7 +4,7 @@ title: "What is Code Audit: Deep Dive into Software Quality"
 breadcrumbs: What is Code Audit
 slug: what-is-code-audit
 draft: false
-publishDate: 2024-03-19T00:00:00Z
+publishDate: 2024-03-19T00:00:00.000Z
 image: code_audit.jpg
 og_image: code_audit_socials.jpg
 description: Unsure about code audits? We answer burning questions! Discover how
@@ -180,7 +180,7 @@ While internal code reviews are valuable, there are significant advantages to br
 
 A third-party code audit offers a powerful way to gain a deeper understanding of your code's strengths and weaknesses. This independent perspective can be crucial for making informed decisions about your software's security, performance, and overall success.
 
-> **Whitepaper alert** 🚨 <br> <a href="https://anadea.info/e-books/code-audit-services-guide" target="_blank">Code Audit Decoded: The Ultimate Guide for Getting Your Software Reviewed</a>
+{{< advert_with_cta title="Whitepaper alert!" description="“Code Audit Decoded: The Ultimate Guide for Getting Your Software Reviewed”" button="Download now" url="https://anadea.info/e-books/code-audit-services-guide" >}}
 
 ## What is the code audit process?
 
