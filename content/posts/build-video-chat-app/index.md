@@ -1,5 +1,8 @@
 ---
-title: How to Build a Video Chat App and Beat Competition
+ceoTitle: How to Build a Video Chat App and Beat Competition
+title: How to Create Video Chat App Powered by AI for Your Business Needs
+breadcrumbs: Build Video Chat App
+slug: build-video-chat-app
 draft: false
 publishDate: 2023-09-06T00:00:00.000Z
 image: video_chat.png
