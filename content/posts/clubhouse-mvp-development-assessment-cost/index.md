@@ -2,7 +2,7 @@
 title: What You Need to Know about Clubhouse MVP Development
 slug: clubhouse-mvp-development-assessment-cost
 draft: false
-publishDate: 2021-02-25T00:00:00Z
+publishDate: 2021-02-25T00:00:00.000Z
 image: clubhouse_meta.jpg
 og_image: clubhouse_header.jpg
 description: What Is Clubhouse? Is it the new TikTok? You can find out how much
@@ -25,7 +25,8 @@ So, what’s so special about this newcomer into a cohesive class of popular soc
 
 ## What is the Clubhouse app?
 
-<img src="socila_app_interface.png" alt="Sicial App Interface" width='350' class="float-right">
+![](socila_app_interface.png)
+
 Some time ago social networks were used for the purpose of communication and establishing connections between people. Shortly they became so popular that they started to grow in their amount and gain specific goals - showcase photos, establish professional connections, share short messages, etc. No wonder that the Clubhouse idea of conducting conversations among people with common interests or of one social circle in the format of live voice chat appeared to become so popular.
 
 At first glance, Clubhouse looks like a simple application - nothing technically special. A user creates a profile, chooses interests, selects people to connect with, and viola! - starts the audio chat with others.
@@ -64,15 +65,11 @@ The cost of the app development depends on rates of the app development company 
 
 As an example estimate, let’s take this calculation, as one of the possible assumptions that you’d love to see these specialists on your project:
 
-- **Business Analyst** - 10 h * rate per hour, $
-
-- **Designer** – 80 h * rate per hour, $
-
-- **Mobile developer** – 480 h * rate per hour, $
-
-- **Backend developer** - 40 h* rate per hour, $
-
-- **QA** – 240 h * rate per hour, $
+* **Business Analyst** - 10 h * rate per hour, $
+* **Designer** – 80 h * rate per hour, $
+* **Mobile developer** – 480 h * rate per hour, $
+* **Backend developer** - 40 h* rate per hour, $
+* **QA** – 240 h * rate per hour, $
 
 So, sum these amounts up, and you’ll get the estimate in $, or to be more precise, the range from minimum to maximum. So, it comes out that the development of an app like Clubhouse will range from at minimum about $20 000 to no limit. This is quite a rough way of the preliminary assessment.
 
