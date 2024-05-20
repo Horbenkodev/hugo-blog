@@ -4,7 +4,7 @@ title: "AI in Fintech: New Opportunities for Businesses and Users"
 breadcrumbs: How Is AI Used in Fintech?
 slug: ai-in-fintech
 draft: false
-publishDate: 2023-11-16T00:00:00Z
+publishDate: 2023-11-16T00:00:00.000Z
 image: ai_fintech.png
 og_image: ai_fintech_socials.png
 description: How is AI used in fintech and can you apply it to enhance your
@@ -12,10 +12,12 @@ description: How is AI used in fintech and can you apply it to enhance your
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - ai-ml-team
 categories:
-  - fintech
-industries: []
+  - business
+industries:
+  - fintechn
 questionary:
   - question: How can AI be used in fintech?
     answer: There is a wide range of possible AI use cases in the fintech market. AI
