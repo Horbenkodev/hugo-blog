@@ -1,8 +1,8 @@
 ---
 title: What's New? Updates of Getsocio and The Got Spot projects
 breadcrumbs: Updates of Getsocio and The Got Spot
-draft: true
-publishDate: 2018-09-19T00:00:00Z
+draft: false
+publishDate: 2018-09-19T00:00:00.000Z
 image: Getsocio-updates.jpg
 og_image: Getsocio-updates.jpg
 description: Recently we've released a new mobile app - The Got Spot app. The
@@ -16,7 +16,8 @@ authors:
   - vladimir-shumik
 categories:
   - news
-industries: []
+industries:
+  - supply-chain
 ---
 Recently we've released a new mobile app - The Got Spot app. The launch of this application is closely related to our Getsocio project, so let's first talk about major updates of Getsocio itself and some other linked projects.
 
@@ -31,22 +32,22 @@ However, as you know, fashion tends to come back, and at the end of 2017 we got 
 ### The main updates of Getsocio:
 
 * **New integration with MailChimp** <br>
- Creating an email campaign now takes just a few clicks. A newsletter campaign goes to MailChimp, which sends it out to subscribers. Subscribers are synchronized between MailChimp and Getsocio.
+  Creating an email campaign now takes just a few clicks. A newsletter campaign goes to MailChimp, which sends it out to subscribers. Subscribers are synchronized between MailChimp and Getsocio.
 
 ![Integration with MailChimp](Mailchimp_integration.png)
 
 * **New integration with Stripe payment system** <br>
- Now, there is an opportunity to tie the purchases to a phone number and not to enter the credit card details every time.
+  Now, there is an opportunity to tie the purchases to a phone number and not to enter the credit card details every time.
 
-<center><img src="Stripe.png" alt="Integration with Stripe" style="width: 60%;"></center>
+![](Stripe.png)
 
 * **OpenStreetMap integration** <br>
- Due to changes in Google Maps policy, it became necessary to add an alternative. Customers now can get their Google Maps Api Key and use Google Maps, or opt to use OpenStreetMap.
+  Due to changes in Google Maps policy, it became necessary to add an alternative. Customers now can get their Google Maps Api Key and use Google Maps, or opt to use OpenStreetMap.
 
 ![OpenStreetMap integration](OpenStreetMap.png)
 
 * **Changing the coupon status from Unused to Used from the user's personal cabinet** <br>
-Now, not only the vendor can mark the coupon as used, but also the user.
+  Now, not only the vendor can mark the coupon as used, but also the user.
 
 ![Changing the coupon status](Coupon_status.png)
 
@@ -64,7 +65,9 @@ After the first coupon scanner apps appeared on the market, Getsocio's customers
 
 Now, let's get back to the most recent release - The Got Spot mobile app.
 
-The growing business of one of Getsocio's key clients required developing a mobile application for their website. However, previously available client applications were created in distant 2012 - a long time ago!
+The growing business of one of Getsocio's key clients required developing a mobile application for their website. However, previously available client applications were created in distant 2012 and looked like this:
+
+![](Getsocio_mobile_old.jpg)
 
 It was necessary to build a new API, create a new design and develop an application. We decided to use React Native for this project as it was a great opportunity to apply our expertise in this framework. As a result, we developed an app for both iOS and Android platforms. Here are some mock-ups to give you an idea of how it looks like:
 
