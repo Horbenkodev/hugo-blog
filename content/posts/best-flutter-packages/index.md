@@ -4,7 +4,7 @@ title: Must-Have Flutter Packages with Alternatives
 breadcrumbs: " Best Flutter Packages"
 slug: best-flutter-packages
 draft: false
-publishDate: 2023-11-17T00:00:00Z
+publishDate: 2023-11-17T00:00:00.000Z
 image: best_flutter_packages.png
 og_image: flutter_packages_socials.png
 description: Navigating thousands of Flutter packages is getting overwhelming?
@@ -36,14 +36,15 @@ questionary:
       focus on building unique features of their app, rather than reinventing
       the wheel for standard functionalities.
   - answer: "When navigating the Flutter package ecosystem, consider the following
-      tips:   - **Research:** Look into each package's compatibility,
-      maintenance history, and community feedback. - **Test for suitability:**
-      Experiment with a few packages in a test project to see how well they
-      integrate with your app and meet your specific needs. - **Stay updated:**
-      The Flutter ecosystem evolves rapidly, so it's important to stay informed
-      about new and updated packages. - **Consider alternatives:** Always look
-      for alternative packages that might better suit your project’s needs, as
-      one package does not fit all solutions."
+      tips:  <ul>   <li><b>Research:</b> Look into each package's compatibility,
+      maintenance history, and community feedback.</li>   <li><b>Test for
+      suitability:</b> Experiment with a few packages in a test project to see
+      how well they integrate with your app and meet your specific
+      needs.</li>   <li><b>Stay updated:</b> The Flutter ecosystem evolves
+      rapidly, so it's important to stay informed about new and updated
+      packages.</li>   <li><b>Consider alternatives:</b> Always look for
+      alternative packages that might better suit your project’s needs, as one
+      package does not fit all solutions.</li> </ul>"
     question: How to navigate the Flutter package ecosystem effectively?
 ---
 So you're working with Flutter, and you're staring down the barrel of 33,000+ packages on Pub.dev. The eternal question: which ones are worth your time? Choice paralysis is real, so let's cut through the noise. This post is about the packages that we, developers at Anadea, actually find useful in our day-to-day work. We've sorted them into essential categories and also offer up an alternative for each!
