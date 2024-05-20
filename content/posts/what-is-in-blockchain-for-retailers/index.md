@@ -1,21 +1,27 @@
 ---
-title: What is in Blockchain for Retailers?
-publishDate: '2018-10-11T00:00:00Z'
-authors: []
-description: 'Experience matters most when your business depends on a great diversity
-  of customers. Even a greater significance the experience gains when it comes to
-  your regular customers: they purchase a combinationof your product and the positive
-  experience you can provide. Retailers are under pressure from the e-shops nowadays
-  since the latter can offer numerous new experiences to their online customers.'
-image: header.png
+ceoTitle: What is in Blockchain for Retailers?
+title: How to Use Blockchain in Retail
+breadcrumbs: Blockchain in Retail
+slug: what-is-in-blockchain-for-retailers
+draft: false
+publishDate: 2018-10-11T00:00:00Z
+image: Blockchain-retail.png
 og_image: Blockchain-retail.png
+description: "Experience matters most when your business depends on a great
+  diversity of customers. Even a greater significance the experience gains when
+  it comes to your regular customers: they purchase a combinationof your product
+  and the positive experience you can provide. Retailers are under pressure from
+  the e-shops nowadays since the latter can offer numerous new experiences to
+  their online customers."
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - business-analysis-team
 categories:
-- retail
+  - business
+industries:
+  - supply-chain
 ---
 Experience matters most when your business depends on a great diversity of customers. Even a greater significance the experience gains when it comes to your regular customers: they purchase a combination
 of your product and the positive experience you can provide. Retailers are under pressure from the e-shops nowadays since the latter can offer numerous new experiences to their online customers. The e-commerce websites turn the present gadget addiction into a competitive advantage.
@@ -50,7 +56,7 @@ Thus, you look progressive when your payment options include crypto. It is easy 
 
 Whatever popularity one or another cryptocurrency can gain, you should not focus on the monetary aspect of blockchain alone, however. The distributed ledger technology can provide your retail business with various new capabilities far beyond just the payment in crypto.
 
-> Related article: [All You Need to Know About Public & Private Blockchains](https://anadea.info/blog/public-and-private-blockchains)
+{{< advert >}}Related article: [All You Need to Know About Public & Private Blockchains](https://anadea.info/blog/public-and-private-blockchains){{< /advert >}}
 
 ## 3 stunts retailers cannot pull off without blockchain
 
@@ -88,9 +94,3 @@ these days. But unlikely something other than the DLT can keep the private data 
 The brick-and-mortar shops have only one crucial advantage over the e-stores in terms of customer experience - an opportunity to touch the goods, to feel a product when it is put on. However, such an advantage can become almost useless if retailers ignore the achievements of the digital era.
 
 Such a disruptive technology as blockchain can enhance the retail business in its competition with e-shops. At the same time, such issues as the consumer data security, error-free inventory management, and transparent loyalty programmes have equal significance for both brick-and-mortar shops and e-stores. The new improved customer experience is what the DLT can provide to any kind of retail business.
-
-
-<br />
-
----
-*This is a guest post by **Volodymyr Shevchyk.** Volodymyr is an enthusiastic entrepreneur and a co-founder of <a href="https://indeema.com/" target="_blank">Indeema Software</a>. All his activities are devoted to implementation of modern technologies into the people's day-to-day routine. To learn more about Volodymyr please click <a href="https://twitter.com/indeemasoftware" target="_blank">here</a>.*
