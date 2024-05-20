@@ -2,7 +2,7 @@
 title: Why You Should Port Your Android App to iOS or Vice Versa?
 breadcrumbs: Port Android Apps to iOS and Vice Versa
 draft: false
-publishDate: 2017-01-04T00:00:00Z
+publishDate: 2017-01-04T00:00:00.000Z
 image: ios_android_porting.jpg
 og_image: ios_android_porting.jpg
 description: "There is a joke in game industry: if you want to get profit from
@@ -11,7 +11,8 @@ description: "There is a joke in game industry: if you want to get profit from
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - mobile-development-team-1
 categories:
   - business
 industries: []
