@@ -2,7 +2,7 @@
 title: What is a Chatbot and How to Use It for Your Business
 breadcrumbs: Chatbot for Business
 draft: false
-publishDate: 2017-12-29T00:00:00Z
+publishDate: 2017-12-29T00:00:00.000Z
 image: what-is-chatbot.jpg
 og_image: what-is-chatbot.jpg
 description: The evolution of artificial intelligence is now in full swing and
@@ -14,7 +14,8 @@ description: The evolution of artificial intelligence is now in full swing and
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - web-development-team
 categories:
   - business
 industries: []
