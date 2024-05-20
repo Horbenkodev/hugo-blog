@@ -16,7 +16,7 @@ collections:
     label_singular: "Post"
     folder: "content/posts"
     path: "{{slug}}/index"
-    summary: "{{top | ternary('🔥 Top | ','')}} {{promote.promote | ternary('⭐ Promote | ','')}} {{title}} {{fields.authors[0] | ternary(' • ', '')}} {{fields.authors[0] | ternary(fields.authors[0], '')}} {{draft | ternary('|','')}} {{draft | ternary('✍️ Draft  ','')}}"
+    summary: "{{draft | ternary('✍️ Draft  ','')}} {{draft | ternary('|','')}} {{top | ternary('🔥 Top | ','')}} {{promote.promote | ternary('⭐ Promote | ','')}} {{title}} {{fields.authors[0] | ternary(' • ', '')}} {{fields.authors[0] | ternary(fields.authors[0], '')}}"
     create: true
     fields:
       - {label: "Title", name: "ceoTitle", widget: "string", required: false}
@@ -75,7 +75,7 @@ collections:
         fields:
           - {label: Question, name: question, widget: string, required: false}
           - {label: Answer, name: answer, widget: string, required: false}
-    sortable_fields: ["title", "publishDate", "top", "promote.promote"]
+    sortable_fields: ["title", "publishDate", "top", "promote.promote", "draft"]
 
   - label: "Authors"
     label_singular: "Author"
