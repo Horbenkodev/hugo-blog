@@ -1,20 +1,23 @@
 ---
-title: 'What is the Future of the Real Estate Software Industry? '
-publishDate: '2018-10-24T00:00:00Z'
-authors: []
-description: Real estate technology is big business. The world's fastest growing sector
-  (technology) is quietly transforming the world's largest industry (property), with
-  over 120 real estate startups making a huge impact on how we buy, sell and manage
-  assets.
+title: "What is the Future of the Real Estate Software Industry? "
+breadcrumbs: Future of Real Estate Software
+draft: false
+publishDate: 2018-10-24T00:00:00Z
 image: real_estate.jpg
-og_image: Real-estate-tech-trends-cover.png
+og_image: real_estate.jpg
+description: Real estate technology is big business. The world's fastest growing
+  sector (technology) is quietly transforming the world's largest industry
+  (property), with over 120 real estate startups making a huge impact on how we
+  buy, sell and manage assets.
 promote:
   promote: false
 top: false
-draft: true
+authors:
+  - web-development-team
+categories:
+  - business
 industries:
-- real-estate
-categories: []
+  - real-estate
 ---
 Real estate technology continues to thrive as the industry continues to grow and transform. With over 120 real estate startups, it's no surprise that this sector is making a significant impact on the property industry.
 
@@ -34,7 +37,7 @@ Speaking in the <a href="https://commercialobserver.com/2018/01/vc-funding-in-re
 
 Not all of this money is flowing from VC firms, which makes the funding dynamics different from other software sectors. Connell McGill, Co-founder/CEO of building data software firm Enertiv notes that "You have all these families where real estate is their core business, and now there are these new technologies that are aiming to disrupt their space or make their businesses more profitable," McGill said. "These are families that have a significant amount of resources that can be invested [in real estate tech]."
 
-> Related read: [How to Buld a Real Estate Web Platform](https://anadea.info/blog/how-to-create-a-real-estate-web-platform)
+{{< advert >}}Related read: [How to Buld a Real Estate Web Platform](https://anadea.info/blog/how-to-create-a-real-estate-web-platform){{< /advert >}}
 
 ## What next for this sector?
 
