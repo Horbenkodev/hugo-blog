@@ -1,19 +1,23 @@
 ---
-title: What App to Create? A List of App Ideas
-publishDate: '2022-06-10T00:00:00Z'
-authors: []
-description: Great ideas for app startups with examples from a software development
-  portfolio.
+ceoTitle: What App to Create? A List of App Ideas
+title: " Ideas for Apps to Develop"
+breadcrumbs: Best Ideas for App Development
+slug: what-app-to-build-app-ideas
+draft: false
+publishDate: 2022-06-10T00:00:00Z
 image: thinking-face.png
 og_image: thinking-face.png
+description: Great ideas for app startups with examples from a software
+  development portfolio.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - mobile-development-team
 categories:
-- mobile
-- app-ideas
+  - mobile
+  - app-ideas
+industries: []
 ---
 You can run a business like a pro but lack creativity when it comes to finding new app ideas. Which is perfectly fine and explains why articles like this one exist.
 
@@ -35,39 +39,18 @@ __How to identify what the market needs?__ Here is a couple of advice for you:
 
 * Analyze popular queries using __Google Trends__. It is an easy-to-use tool that highlights the popularity of keywords of interest and simplifies your search for creative app ideas.
 
-* Research app development companies and their __portfolios__. Usually, portfolios feature the most successful and relevant projects. Study them well, and if some case study particularly catches your eye, think about how you would alter that app idea to improve it.
+* Research app development agencies and their __portfolios__. Usually, portfolios feature the most successful and relevant projects. Study them well, and if some case study particularly catches your eye, think about how you would alter that app idea to improve it.
 
 * Visit __<a href="http://data.ai/" rel="nofollow" target="_blank">data.ai</a>__, a website synchronized with app stores that shows the demand for apps in different countries and their rating. This way, you will see what is trendy exactly to a day.
 
 As a <a href="https://anadea.info/services/mobile-development">mobile app development company</a>, in this post we will be focusing on best app ideas for __real-life practical applications__.
 
-## Best app ideas in 2022
-Eventually, what apps to create in 2022? We prepared a comprehensive listing for you.
+## Best app ideas
+Eventually, what apps to create? We prepared a comprehensive listing for you.
 
 Mind there are apps falling into several categories at a time. We decided not to eliminate repetitions in case you are only interested in one category and do not read the whole article.
 
-### Ideas for apps – Quick navigation
-<ul>
-  <li><a href="#ai-ml">AI/ML driven app</a></li>
-  <li><a href="#health">Health app</a></li>
-  <li><a href="#travel">Travel app</a></li>
-  <li><a href="#tracker">Tracking app</a></li>
-  <li><a href="#fitness">Fitness app</a></li>
-  <li><a href="#service">Service app</a></li>
-  <li><a href="#elearning">eLearning app</a></li>
-  <li><a href="#management">Management app</a></li>
-  <li><a href="#parking">Smart parking app</a></li>
-  <li><a href="#marketplace">Marketplace app</a></li>
-  <li><a href="#shopping">Shopping app</a></li>
-  <li><a href="#finance">Financial applications</a></li>
-  <li><a href="#sports">Apps to rent sports equipment <br />and find game companions</a></li>
-  <li><a href="#streaming">Live streaming app</a></li>
-  <li><a href="#pets">Pet owner app</a></li>
-</ul>
-
-
-<a name="ai-ml"></a>
-## <u><a href="https://anadea.info/services/machine-learning-software-development" target="_blank">AI/ML driven app</a></u>
+### <u><a href="https://anadea.info/services/machine-learning-software-development" target="_blank">AI/ML driven app</a></u>
 Artificial Intelligence and Machine Learning in app development are now more available than they ever were. These technologies have a great scope of applications in business and life – here are just a few of them:
 
 * Voice assistants help find information online, recognize language and music;
@@ -82,7 +65,8 @@ Artificial Intelligence and Machine Learning in app development are now more ava
 
 * AI-driven tools check policies, process user requests, and collect analytics for management apps.
 
-<a name="health"></a>
+{{< advert_with_cta title="Interested in AI implementation?" description="Contact us and get a consultation from top AI experts" button="Book a consultation" >}}
+
 ### Health app
 Healthcare in app development is a niche where a division between apps for healthcare professionals and average consumers exists. It is important that first you decide which of the two categories you choose.
 
@@ -101,7 +85,7 @@ For __average users__ willing to take a better care of their health using the sm
 * Baby health tracker;
 * App for men’s or women’s health.
 
-> Related read: <a href="https://anadea.info/guides/healthcare-app-development-cost" target="_blank">How Much Does It Cost to Develop an App for Healthcare?</a>
+{{< advert >}}Related read: <a href="https://anadea.info/guides/healthcare-app-development-cost" target="_blank">How Much Does It Cost to Develop an App for Healthcare?</a>{{< /advert >}}
 
 __<a href="https://anadea.info/blog/custom-app-for-mental-health" target="_blank">Mental health apps</a>__ for therapists and patients deserve a special mention. App development ideas in this area are:
 
@@ -114,7 +98,6 @@ __<a href="https://anadea.info/blog/custom-app-for-mental-health" target="_blank
 * Trigger checker;
 * Educational app to learn more about specific conditions are receive useful advice.
 
-<a name="travel"></a>
 ### Travel app
 Again, will it be an app for __travel agents__ or travelers? If the first, build one of those:
 
@@ -132,9 +115,8 @@ In their turn, __travelers__ will make use of apps built following these apps id
 * Public transportation guide to not get lost in a foreign country;
 * Guide for traveling with an animal to indicate pet-friendly hotels, cafes, and activities around the city.
 
-> Related article: <a href="https://anadea.info/blog/travel-agency-software" target="_blank">How to Build Software for Travel Booking and Accounting</a>
+{{< advert >}}Related article: <a href="https://anadea.info/blog/travel-agency-software" target="_blank">How to Build Software for Travel Booking and Accounting</a>{{< /advert >}}
 
-<a name="tracker"></a>
 ### Tracking app
 Trackers have a great potential because responsible users use the app on a daily basis providing for __a high in-app retention__. Here is just a small list of trackers for every occasion:
 
@@ -228,13 +210,13 @@ To save and multiply their capital, people willingly use money-related apps:
 * App for loans and investments;
 * Money transfer app.
 
-> See more: <a href="https://anadea.info/guides/how-to-build-a-personal-finance-app" target="_blank">How to Build Personal Financial App - Step by Step Guide</a>
+{{< advert >}}See more: <a href="https://anadea.info/guides/how-to-build-a-personal-finance-app" target="_blank">How to Build Personal Financial App - Step by Step Guide</a>{{< /advert >}}
 
 <a name="sports"></a>
 ### Apps to rent sports equipment and find game companions
 People enjoying sports will appreciate an app to organize their activities and find teammates. A great thing is this is applicable to all sports, from soccer to cybersports or chess. Allow your users to hold tournaments, form teams, find and book places to play sports.
 
-> Related case study: <a href="https://anadea.info/projects/plei" target="_blank">Plei - Sports Management App</a>
+{{< advert >}}Related case study: <a href="https://anadea.info/projects/plei" target="_blank">Plei - Sports Management App</a>{{< /advert >}}
 
 <a name="streaming"></a>
 ### Live streaming app
@@ -257,5 +239,3 @@ A great variety of pet tech apps is waiting to be created yet. Does any of the f
 
 ## Ready, set… build!
 Let’s assume you found some promising app idea – it is great if you did! Now you probably want to know how much does it cost to create a mobile app. <a href="https://anadea.info/free-project-estimate" target="_blank">Request a free quote</a> from an app development company for a personalized response.
-
-> See next: <a https://anadea.info/guides/how-to-find-an-app-developer" target="_blank">How to Find an App Developer for Your Project</a>
