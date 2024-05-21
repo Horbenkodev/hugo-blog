@@ -1,20 +1,20 @@
 ---
 title: The Future of Sustainable Smart IoT-Technology
-publishDate: '2020-03-26T00:00:00Z'
-authors:
-- jori-hamilton
-description: From solar panels to smart vehicles, energy-saving devices for the home
-  to entire cities being powered by smart devices; IoT is making the goal for a sustainable
-  future well within our reach.
+draft: false
+publishDate: 2020-03-26T00:00:00.000Z
 image: Iot-and-sustainability.jpg
 og_image: Sustainable-IoT-technology.jpg
+description: From solar panels to smart vehicles, energy-saving devices for the
+  home to entire cities being powered by smart devices; IoT is making the goal
+  for a sustainable future well within our reach.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - web-development-team
 categories:
-- business
+  - business
+industries: []
 ---
 Twenty-five years ago, if you asked anyone what they thought the future would look like, you’d likely be met with answers like “Robots for companions, flying cars and regular trips to Mars.” While we’re a long way off from holidaying in the stars, we have made unimaginable headway in the field of IoT Technology.
 
@@ -73,11 +73,5 @@ Here, it is worth noting that while millennials seem to be the champions of the 
 
 Another smart commuting option is carpooling. While carpooling itself is not a new concept, companies like <a href="https://citymapper.com/company" target="_blank">United Kingdom-based CityMapper</a> are changing the way it happens. With a ride-sharing application, they use the “power of open data, mobile, and payment technology to make transport sustainable and hassle-free” and reduce traffic congestion and the burden of pollution on the environment.
 
-<br />
 
 With everything from smart lighting to smart cars and even smart dustbins, IoT home devices are changing the way we live. Convenience aside, these new technologies are bringing us closer to the goal of a truly sustainable future with no compromise on technological advancement. The onus is both on companies to find even more sustainable applications of IoT and on us to adopt them, because it’s never been easier to join the climate cause — right from the comfort of our own homes.
-
-<br />
-
----
-*This is a guest post by **Jori Hamilton.** Jori is an experienced freelance writer from the Northwestern U.S who takes interest in covering topics related to business, technology, and productivity. You can find her on <a href="https://twitter.com/HamiltonJori" rel="nofollow" target="_blank">Twitter</a> and <a href="https://www.linkedin.com/in/jori-hamilton-587100181/" rel="nofollow" target="_blank">LinkedIn</a> or view her <a href="https://writerjorihamilton.contently.com/" target="_blank">portfolio</a>.*
