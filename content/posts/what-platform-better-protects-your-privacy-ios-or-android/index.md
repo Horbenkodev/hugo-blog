@@ -92,7 +92,7 @@ iOS app developers work using Apple's closed-source system. The company doesn't 
 
 Android offers a broader app selection and more freedom to customize, but Apple's limited choices provide its users with a much higher level of security than Android.
 
-{{< advert >}}Related read: [What You Need to Know to Put Your App in the App Store or Google Play?](https://anadea.info/blog/how-to-put-your-app-in-the-app-store-or-google-play){{< advert >}}
+{{< advert >}}Related read: [What You Need to Know to Put Your App in the App Store or Google Play?](https://anadea.info/blog/how-to-put-your-app-in-the-app-store-or-google-play){{< /advert >}}
 
 ## Apple devices offer stronger privacy protection compared to Android
 
