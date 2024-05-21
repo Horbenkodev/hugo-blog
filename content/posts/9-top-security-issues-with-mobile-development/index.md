@@ -1,24 +1,25 @@
 ---
 title: Top-9 Security Issues with Mobile Development
-publishDate: '2018-08-29T00:00:00Z'
-authors:
-- sophie-ross
-description: The development of mobile apps has come a long way since the first 500
-  apps hit the Apple App Store in2008. Thousands of apps are released every day with
-  the majority of them dying as quickly as theyappear. The problem? Persistent insecurity
-  within mobile app development that has driven top-rankingapps into oblivion.
+breadcrumbs: Mobile App Security
+draft: false
+publishDate: 2018-08-29T00:00:00Z
 image: Mobile-app-security-issues.jpg
-og_image: app-security.jpg
+og_image: Mobile-app-security-issues.jpg
+description: The development of mobile apps has come a long way since the first
+  500 apps hit the Apple App Store in2008. Thousands of apps are released every
+  day with the majority of them dying as quickly as theyappear. The problem?
+  Persistent insecurity within mobile app development that has driven
+  top-rankingapps into oblivion.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - security-team
 categories:
-- mobile
+  - mobile
+industries: []
 ---
-The development of mobile apps has come a long way since the first 500 apps hit the Apple App Store in
-2008. Thousands of apps are released every day with the majority of them dying as quickly as they
+The development of mobile apps has come a long way since the first 500 apps hit the Apple App Store in 2008. Thousands of apps are released every day with the majority of them dying as quickly as they
 appear. The problem? Persistent insecurity within mobile app development that has driven top-ranking
 apps into oblivion.
 
@@ -121,9 +122,3 @@ Even as many budding developers emerge with their latest apps, the widespread la
 still cripples their progress.
 
 Mobile app security and data protection are crucial for the continuity of any app, and these factors are becoming more important to average app users. User data is a precious resource that can be exploited for selfish benefits, which is even more reason for app development companies to put more emphasis on ensuring that their mobile apps are safe and secure.
-
-
-<br />
-
----
-*This is a guest post by **Sophie Ross.** Sophie is a marketing specialist at <a href="https://securitygladiators.com/" target="_blank">Security Gladiators</a>. A writer by day and a reader by night, she is specialized in tech and cybersecurity. When she is not behind the screen, Sophie can be found playing with her dog.*
