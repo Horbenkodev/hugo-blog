@@ -1,25 +1,22 @@
 ---
 title: Tackling The Major Challenges of HIPAA-Compliant eCommerce
-publishDate: '2019-03-29T00:00:00Z'
-authors:
-- tim-mullahy
-description: If your web store deals even partially with protected health information
-  (PHI), then PCI Compliance isn't the only thing you need to concern yourself with.
-  You'll also have to contend with HIPAA - here's how you can do just that.
+draft: false
+publishDate: 2019-03-29T00:00:00Z
 image: HIPAA-compliant-ecommerce.jpg
 og_image: HIPAA-compliant-ecommerce.jpg
+description: If your web store deals even partially with protected health
+  information (PHI), then PCI Compliance isn't the only thing you need to
+  concern yourself with. You'll also have to contend with HIPAA - here's how you
+  can do just that.
 promote:
   promote: false
 top: false
-draft: true
+authors: []
+categories: []
 industries:
-- healthcare
-categories:
-- ecommerce
+  - healthcare
 ---
-Updated 9 September, 2021.
-
-*If your web store deals even partially with protected health information (PHI), then PCI Compliance isn't the only thing you need to concern yourself with. You'll also have to contend with HIPAA - here's how you can do just that.*
+If your web store deals even partially with protected health information (PHI), then PCI Compliance isn't the only thing you need to concern yourself with. You'll also have to contend with HIPAA - here's how you can do just that.
 
 Whether you're a healthcare agency offering online services or a digital retailer that sells healthcare products like prescriptions, HIPAA is not something your website can afford to ignore. Protected Health Information (PHI), no matter where it resides, must be treated with the utmost respect and care. This is in addition to all the other data your website needs to protect - access credentials, transaction records, transaction data, and so on.
 
@@ -37,7 +34,7 @@ First thing's first, if your website is going to be compliant, you need to start
 
 The good news is that most eCommerce platforms if implemented properly, can be made compliant. It's just that some are easier than others. If you're looking for a starting point, WooCommerce and Magento are both great options - easy to use, and with a wealth of plugins to help keep your data under wraps.
 
-***Related read: [Development of Custom Electronic Medical Record (EMR) in Practice](https://anadea.info/blog/development-of-custom-emr-in-practice)***
+{{< advert >}}Related read: [Development of Custom Electronic Medical Record (EMR) in Practice](https://anadea.info/blog/development-of-custom-emr-in-practice){{< /advert >}}
 
 ## Seeing to data storage and sanitization
 
@@ -76,5 +73,3 @@ To that end, your storefront needs to maintain a delicate balance between securi
 HIPAA compliance isn't all that different from PCI compliance, really. The two standards just deal with different types of data. So long as you comply with one, you can apply many of the same best practices to the other.
 
 Now that you know the stumbling blocks you might encounter in that regard, you should be just fine. If you have questions, issues, or doubts, don’t hesitate to contact us, our team will gladly help you. We have relevant expertise in healthcare custom software development, as well as dedicated medical app developers, we are compliant with budget and deadlines, and offer clear, straightforward, and honest communication with C1 English. Finally, we guarantee honesty and transparency regarding development services costs and speed and precision of our work.
-
-<br />
