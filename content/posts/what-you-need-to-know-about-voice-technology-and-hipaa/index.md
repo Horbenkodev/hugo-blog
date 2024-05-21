@@ -1,20 +1,21 @@
 ---
 title: What You Need to Know About Voice Technology and HIPAA
-publishDate: '2019-12-18T00:00:00Z'
-authors:
-- melanie-purkis
-description: Voice technology has gained significant momentum over the past several
-  years and is on track to impact billions of people in the years that lie ahead.
+draft: false
+publishDate: 2019-12-18T00:00:00Z
 image: Voice-technology-and-HIPAA.jpg
 og_image: Voice-technology-and-HIPAA.jpg
+description: Voice technology has gained significant momentum over the past
+  several years and is on track to impact billions of people in the years that
+  lie ahead.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- healthcare
+authors:
+  - ai-ml-team
 categories:
-- machine-learning
+  - machine-learning
+industries:
+  - healthcare
 ---
 Voice technology has gained significant momentum over the past several years and is on track to impact billions of people in the years that lie ahead. Amazon Alexa and Google Home are popular devices that utilize voice technology and are becoming more frequent within households across America. As voice assistants, technology enables people to create grocery lists, inquire about factual information and even make purchases.
 
@@ -26,11 +27,7 @@ AI and machine learning have been making waves across industries for years. Algo
 
 Deep learning - a subset of machine learning - can even make inferences based on data it has come across previously. In short, deep learning allows an AI application to come to its own conclusions. Deep learning solutions can even explain their reasoning and decisions, presenting a major upside when it comes to the kind of complex decision-making that happens in healthcare.
 
----
-
-***Related read: [Innovative Trends in Medical Software Development](https://anadea.info/blog/the-future-of-health-innovative-trends-in-medical-software-development-2019)***
-
----
+{{< advert >}}Related read: [Innovative Trends in Medical Software Development](https://anadea.info/blog/the-future-of-health-innovative-trends-in-medical-software-development-2019){{< advert >}}
 
 The use cases run the gamut and prove fascinating in terms of how technology can provide care to people.
 
@@ -40,11 +37,7 @@ All in all, this AI-enabled technology promises to ease time burdens on physicia
 
 That said, there are <a href="https://www.liquidweb.com/blog/what-is-hipaa-compliant-hosting-and-why-does-it-matter/" target="_blank">Health Insurance Portability and Accountability Act</a> (HIPAA) implications that people and organizations need to be aware of, too. Securing server platforms is the most obvious; however, voice technology brings other implications with it. One of the biggest threats is the unintended audience for a call. Obviously, where patient health data is concerned, there are strict HIPAA rules about who can access that information. Controlling access in the era of voice assistants is an important consideration.
 
----
-
-***Related read: [How Much Does It Cost to Develop an App for Healthcare?](https://anadea.info/guides/healthcare-app-development-cost)***
-
----
+{{< advert >}}Related read: [How Much Does It Cost to Develop an App for Healthcare?](https://anadea.info/guides/healthcare-app-development-cost){{< advert >}}
 
 ## Voice technology and HIPAA
 
@@ -58,11 +51,7 @@ It’s a similar situation for doctors who may use this type of technology to br
 
 Scenarios like this require a look at the setting of transmission of sensitive healthcare information and how voice technology may respond to it. Doctors doing rounds are constantly transitioning from patient to patient and could benefit from receiving information about each patient ahead of time. That said, voice technology that just spouts patient info aloud in an elevator is not ideal. Voice technology that can sense whether a doctor is wearing headphones and triggers audio versus a doctor who may be around unauthorized parties, triggering a text-to-phone display instead, would be ideal.
 
----
-
-***Related read: [Digital Healthcare: A New Approach to Care Coordination](https://anadea.info/blog/digital-healthcare-a-new-approach-to-care-coordination)***
-
----
+{{< advert >}}Related read: [Digital Healthcare: A New Approach to Care Coordination](https://anadea.info/blog/digital-healthcare-a-new-approach-to-care-coordination){{< advert >}}
 
 It’s important to look at this type of technology from the patient’s perspective, too.
 
@@ -71,9 +60,3 @@ Voice technology that can remind someone to take their medicine at a given time 
 Having the option to transition between modes of communication depending on location and situation will be integral to the success of voice technology within the healthcare field.
 
 While the advancements in voice technology and their applications in the medical field are exciting, there are still many kinks to be ironed out in terms of HIPAA compliance. As developers and doctors explore different use cases, the do’s and don’ts will likely become more clear. In the meantime, those in the healthcare industry are advised to use caution and err on the side of compliance.
-
-
-<br />
-
----
-*This is a guest post by **Melanie Purkis.** Melanie Purkis is the Product Leader for Liquid Web's Managed Hosting Products & Services, including <a href="https://www.liquidweb.com/solutions/hipaa-compliant-hosting/" target="_blank">HIPAA Compliant Solutions</a>. Melanie has 23 years of experience with professional leadership in the IT and web hosting industries.*
