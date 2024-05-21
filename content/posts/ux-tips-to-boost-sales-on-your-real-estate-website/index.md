@@ -1,22 +1,25 @@
 ---
 title: UX Tips to Boost Sales on Your Real Estate Website
-publishDate: '2018-07-26T00:00:00Z'
-authors: []
-description: Every owner of a real estate selling website wants his website to become
-  some kind of a sensation in a housing market and generate leads constantly. Sometimes
-  humble applications with the right idea, and just as important, an outstanding design
-  can grow into a nationwide solution like it happened with one of our projects Agentfolio,
-  an extremely useful tool for buyers and brokers.
+breadcrumbs: Real Estate Website UX
+draft: false
+publishDate: 2018-07-26T00:00:00Z
 image: ux-real-eatate.jpeg
 og_image: ux-real-eatate.jpeg
+description: Every owner of a real estate selling website wants his website to
+  become some kind of a sensation in a housing market and generate leads
+  constantly. Sometimes humble applications with the right idea, and just as
+  important, an outstanding design can grow into a nationwide solution like it
+  happened with one of our projects Agentfolio, an extremely useful tool for
+  buyers and brokers.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- real-estate
+authors:
+  - web-development-team
 categories:
-- ux-ui
+  - design
+industries:
+  - real-estate
 ---
 Every owner of a real estate selling website wants his website to become some kind of a sensation in a housing market and generate leads constantly. Sometimes humble applications with the right idea, and just as important, an outstanding design can grow into a nationwide solution like it happened with one of our projects <a href="https://anadea.info/projects/agentfolio" target="_blank">Agentfolio</a>, an extremely useful tool for buyers and brokers which helped them to navigate the process of buying properties. However...
 
@@ -40,11 +43,7 @@ If we transfer this into the context of website design for real estate, we'll se
 
 Now that we've figured out what is UX design, let's move on to how to <a href="https://anadea.info/blog/emotionally-intelligent-design-why-you-need-it-in-your-mobile-app" target="_blank">create positive emotional bonds</a> with customers and get more sales with the help of user experience design for real estate website.
 
----
-
-***Related read: [How to Make a Website for Real Estate](https://anadea.info/blog/how-to-create-a-real-estate-web-platform)***
-
----
+{{< advert >}}Related read: [How to Make a Website for Real Estate](https://anadea.info/blog/how-to-create-a-real-estate-web-platform){{< /advert >}}
 
 ## UX tips for real estate website design
 
@@ -56,7 +55,7 @@ Rest assured, the main reason for users to visit your website is hunting or sell
 
 **2. Offer a choice in filters.** Users prefer easy actions, and they'd rather choose maximum price in filters by a click than by typing it. And now imagine a customer, who tries to find a house via smart phone and there is a need to type something in filters. It can't be too much fun.
 
-<center><img src="filters.png" alt="Apartment renting app - filters" style="width: 80%;"/></center>
+![Apartment renting app - filters](filters.png)
 
 **3. Keep the original text of the query.** Don't delete the query after the search button is pressed. If a user doesn't find houses and apartments that he needs he will want to slightly change the query instead of retyping it. And we already know that users prefer easy actions.
 
@@ -68,7 +67,7 @@ Rest assured, the main reason for users to visit your website is hunting or sell
 * Search by area - let renters and home buyers outline the area they want to focus on.
 * Neighborhood area - show the properties for sale around the neighborhoods users want to live in.
 
-<center><img src="https://cdn.dribbble.com/users/578664/screenshots/2565756/hotelsdribbble-1.7.gif" alt="Apartment renting app - search" style="width: 80%;"/></center>
+![Apartment renting app - search](https://cdn.dribbble.com/users/578664/screenshots/2565756/hotelsdribbble-1.7.gif)
 
 **6. Show credibility and reviews of agents.** The Internet has accustomed us to make decisions based on the experience of others. The more positive experiences there are, the more satisfied with the decision we are. The same applied to real estate buyers and sellers. They also choose agents, building upon the results of the reviews.
 
@@ -76,4 +75,4 @@ Rest assured, the main reason for users to visit your website is hunting or sell
 
 ## Real estate web development and UX. Where to start
 
-The key concept of a business is to make money for its owner. The main idea of a realty website is enhancing the visibility, attracting new clients, and generating more income, which is impossible without lead generation. If your real estate site doesn't generate as many leads as you would like maybe it is time to re-think the design of your website. Our team has experienced real estate web developers that can help you to cope with this task.
+The key concept of a business is to make money for its owner. The main idea of a realty website is enhancing the visibility, attracting new clients, and generating more income, which is impossible without lead generation. If your real estate site doesn't generate as many leads as you would like maybe it is time to re-think the design of your website. Our team has experienced real estate web developers that can help you to complete this task.
