@@ -4,7 +4,7 @@ title: " How to Implement Passkeys: Guide for Businesses"
 breadcrumbs: Passkey Implementation Guide
 slug: how-to-implement-passkeys
 draft: false
-publishDate: 2024-03-25T00:00:00Z
+publishDate: 2024-03-25T00:00:00.000Z
 image: passkey_implementation.jpg
 og_image: passkey_implementation_socials.jpg
 description: Learn everything about passkey implementation for your business.
@@ -135,7 +135,7 @@ Acquired by Bitwarden, this framework simplifies integrating passwordless option
 
 Although these resources are popular solutions for passkey implementation, they often appear platform-specific. Other than that, third-party services often increase spending on the development due to their own cost—it might be the cost for a month of usage for enterprise solutions, cost-per-user, or a single-time fee.
 
-{{< advert >}}Related read:** <a href="https://anadea.info/blog/passkey-vs-password" target="_blank">Passkey vs Password: Which Is Better?</a>{{< /advert >}}
+{{< advert >}}Related read: <a href="https://anadea.info/blog/passkey-vs-password" target="_blank">Passkey vs Password: Which Is Better?</a>{{< /advert >}}
 
 ## Anadea’s passkey solution
 
