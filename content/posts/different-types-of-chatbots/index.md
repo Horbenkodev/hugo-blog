@@ -1,20 +1,36 @@
 ---
-title: 'Types of Chatbots: What’s the Difference Between Them?'
-publishDate: '2023-10-23T00:00:00Z'
-authors: []
-description: If you are thinking about launching a chatbot for your business, you
-  should know that there are different types of chatbots. Read about them in our article.
+ceoTitle: "Types of Chatbots: What’s the Difference Between Them?"
+title: "Types of Chatbots: Which One Will Be the Best for Your Business?"
+breadcrumbs: Different Types of Chatbots
+slug: different-types-of-chatbots
+draft: false
+publishDate: 2023-10-23T00:00:00Z
 image: chatbot_types.png
 og_image: chatbot_types_social.png
+description: If you are thinking about launching a chatbot for your business,
+  you should know that there are different types of chatbots. Read about them in
+  our article.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - ai-ml-team
 categories:
-- business
+  - business
+industries: []
+questionary:
+  - question: What are the different types of chatbots?
+    answer: Chatbots can be classified in accordance with their functionality and
+      application. Based on their model, we can define rule-based, button-based,
+      keyword-based, AI, voice, generative AI, and hybrid bots. As for their
+      application, there are custom service, sales, marketing, entertainment,
+      and skills bots.
+  - question: Why do businesses use chatbots?
+    answer: Such solutions can bring a lot of benefits to businesses. They allow
+      companies to automate the way of interacting with clients, increase the
+      quality of customer care, as well as optimize labor costs.
 ---
-2023 is definitely a year of AI and probably we wouldn't exaggerate if we said that right now we are living in the era of Artificial Intelligence. The range of opportunities that developers have thanks to this technology is really breathtaking. And what is even more impressive is that we are just at the beginning of this AI journey. Solutions that are based on it are gradually becoming more and more sophisticated and the interaction with them is getting more and more human-like. One of the AI-powered software products that the majority of us have probably already interacted with is a chatbot.
+We're living in a year of AI and probably we wouldn't exaggerate if we said that right now we're in the era of Artificial Intelligence. The range of opportunities that developers have thanks to this technology is really breathtaking. And what is even more impressive is that we are just at the beginning of this AI journey. Solutions that are based on it are gradually becoming more and more sophisticated and the interaction with them is getting more and more human-like. One of the AI-powered software products that the majority of us have probably already interacted with is a chatbot.
 
 Numerous businesses all over the world have applied such solutions to automate their communication with customers and increase their quality. But it is also important to understand that the first chatbots were introduced earlier than the mass adoption of AI began. And even today not all bots are AI-powered. A lot of them work based on other technologies and can demonstrate excellent efficiency in the set tasks.
 
@@ -86,9 +102,7 @@ Cons of button-based chatbots
 
 When you open a chat with such a bot, you typically see a greeting message and a row of options like "I have a question", "Could you show me a demo", or "I do not need help, thanks". If you choose a variant that you have a question, a bot will ask you to specify the type/topic of your question. After you select it, you will get a list of standard questions to choose from.
 
-<center>
-<img src="button_based_chatbot.png" loading="lazy" width="50%">
-</center>
+![](button_based_chatbot.png)
 
 ### Keyword recognition-based chatbots
 
@@ -186,7 +200,7 @@ Google's **Bard** or OpenAI's **ChatGPT** are among the most widely discussed ex
 
 When ChatGPT was introduced, we noticed the beginning of a new wave of concerns that AI would replace a lot of people and a lot of specialists would lose their jobs. Nevertheless, it is vital to understand that ChatGPT, for example, can become a splendid supportive tool for a lot of professionals. However, it will be too early to say that its content can be used without proper control and management from the side of people.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Get a custom chatbot quote{{< /ctabutton >}}
+{{< advert_with_cta title="Interested in AI chatbot development?" description="Contact us and get a consultation from top AI experts" button="Book a consultation" >}}
 
 ### Voice bots
 
@@ -230,9 +244,7 @@ Drawbacks of hybrid chatbots
 
 A lot of businesses today opt for such solutions to increase the quality of their customer service, reduce loads for their employees, and make sure that clients' requests can be processed 24/7.
 
-<center>
- <img src="hybrid_chatbot.png" loading="lazy" width="50%">
-</center>
+![](hybrid_chatbot.png)
 
 Such bots are also popular in the healthcare industry and help users understand their possible diagnoses based on their symptoms. Users should write or voice their questions and bots offer them different options in a rule-based format (often button-based) to narrow down their symptoms and conditions.
 
@@ -267,9 +279,7 @@ What disadvantages do support chatbots have?
 
 Today a lot of businesses rely on chatbots for dealing with standard requests while specialists join the conversation only in those cases when chatbots can't solve the task. Among the most prominent companies that have launched such bots for their clients in different regions, we can name **H&M, Flixbus, Sephora, Domino's Pizza**, and many others.
 
-<center>
- <img src="support_bot.png" loading="lazy" width="50%">
-</center>
+![](support_bot.png)
 
 ### Marketing and sales bots
 
@@ -290,9 +300,7 @@ Minuses of using marketing and sales bots
 
 Drift is one of the chatbots that can be used to address the sales and marketing needs of a company. The chatbot is already being used by hundreds of businesses that have observed significant positive changes. For example, after the integration of Drift, **SalesRabbit** managed to increase its demo conversion rate by 40% while the number of qualified leads increased by 50%. And it's important to mention that such results were achieved without website redesign.
 
-<center>
- <img src="marketing_sales_bot.png" loading="lazy" width="50%">
-</center>
+![](marketing_sales_bot.png)
 
 ### Skills bots
 
@@ -330,9 +338,7 @@ Disadvantages of entertainment chatbots
 
 There are a lot of solutions that are built to entertain people. For example, have you ever used a chatbot that can generate custom Valentine's Day cards? If not, you should try it. It will be interesting to see how it works.
 
-<center>
- <img src="entertainment_bot.png" loading="lazy" width="50%">
-</center>
+![](entertainment_bot.png)
 
 ## The future of chatbots
 
@@ -378,43 +384,4 @@ If you are planning to introduce a chatbot and are looking for a reliable partne
 
 Do not hesitate to contact us to discuss the details.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Get a free quote{{< /ctabutton >}}
-
-## Frequently Asked Questions
-
-### What are the different types of chatbots?
-
-Chatbots can be classified in accordance with their functionality and application. Based on their model, we can define rule-based, button-based, keyword-based, AI, voice, generative AI, and hybrid bots. As for their application, there are custom service, sales, marketing, entertainment, and skills bots.
-
-### Why do businesses use chatbots?
-
-Such solutions can bring a lot of benefits to businesses. They allow companies to automate the way of interacting with clients, increase the quality of customer care, as well as optimize labor costs.
-
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-   "@type": "Question",
-   "name": "What are the different types of chatbots?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "Chatbots can be classified in accordance with their functionality and application. Based on their model, we can define rule-based, button-based, keyword-based, AI, voice, generative AI, and hybrid bots. As for their application, there are custom service, sales, marketing, entertainment, and skills bots."
-    }
-   ]
-  },
-  {
-   "@type": "Question",
-   "name": "Why do businesses use chatbots?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "Such solutions can bring a lot of benefits to businesses. They allow companies to automate the way of interacting with clients, increase the quality of customer care, as well as optimize labor costs."
-    }
-   ]
-  }
- ]
-}
-</script>
+{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}
