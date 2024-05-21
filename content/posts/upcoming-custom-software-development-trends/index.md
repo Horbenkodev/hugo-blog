@@ -1,7 +1,7 @@
 ---
 title: Upcoming Custom Software Development Trends
 draft: false
-publishDate: 2017-01-17T00:00:00Z
+publishDate: 2017-01-17T00:00:00.000Z
 image: Custom_software_trends.jpg
 og_image: Custom_software_trends.jpg
 description: We can't imagine our lives without gadgets and every month there
@@ -13,7 +13,8 @@ description: We can't imagine our lives without gadgets and every month there
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - web-development-team
 categories:
   - development
 industries: []
