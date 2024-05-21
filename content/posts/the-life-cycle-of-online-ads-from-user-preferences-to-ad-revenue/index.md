@@ -1,21 +1,24 @@
 ---
-title: 'The Life Cycle of Online Ads: from User Preferences to Ad Revenue'
-publishDate: '2017-06-09T00:00:00Z'
-authors: []
-description: Online advertising has turned into something trivial for us. We receive
-  advertisements by email, see them on YouTube, social networks, online shops, etc.
-  We take internet ads as they are and just notice the things that they try to sell
-  us. However, have you ever wondered what mechanism drives online advertisements
-  and how does digital advertising work?
+title: "The Life Cycle of Online Ads: from User Preferences to Ad Revenue"
+breadcrumbs: The Life Cycle of Online Ads
+slug: ""
+draft: false
+publishDate: 2017-06-09T00:00:00Z
 image: the-life-cycle-of-online-ads-from-user-preferences-to-ad-revenue.jpg
 og_image: the-life-cycle-of-online-ads-from-user-preferences-to-ad-revenue.jpg
+description: Online advertising has turned into something trivial for us. We
+  receive advertisements by email, see them on YouTube, social networks, online
+  shops, etc. We take internet ads as they are and just notice the things that
+  they try to sell us. However, have you ever wondered what mechanism drives
+  online advertisements and how does digital advertising work?
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - web-development-team
 categories:
-- development
+  - development
+industries: []
 ---
 Online advertising has turned into something trivial for us. We receive advertisements by email, see them on YouTube, social networks, online shops, etc. We take internet ads as they are and just notice the things that they try to sell us. However, have you ever wondered what mechanism drives online advertisements and how does digital advertising work? It's hard to believe, but there's a huge advertising empire behind that slim yellow line and pop-up ads on YouTube. Today, we'll take a close look at an extensive tech system that works for internet advertising and delivers ads to our screens.
 
@@ -53,96 +56,74 @@ To sum it up, let's imagine that there is a publisher, who has an available spac
 
 ### Ad server
 
-**1. Forecasting** - tracking the number of available ad spaces:
-* estimating inventory for a specific target audience;
-* the estimation is based on 12-month history to ensure the best accuracy;
-* taking seasonal fluctuations into account;
-* measuring differences between the actual and estimated traffic.
-
-**2. Targeting:**
-* organizing users by content, geolocation, technologies (OS), age, gender etc.;
-* forming the rules of selecting target audience and saving them as a template to be used later.
-
-**3. Delivery** - optimization of the chosen advertising logic to improve the campaign performance:
-* carrying out an advertising campaign in accordance with the business rules based on click-throughs and target coverage;
-* options for deep targeting and frequency adjustments;
-* providing the ability to use achieved results in order to fine-tune your ad campaign on the go.
-
-**4. Reporting** - ability to use data to make decisions:
-* output of statistical data on CPM (cost of 1000 displays of your ad to potential customers), number of requests, etc.;
-* providing summary information for different time periods;
-* summarizing data about partners-buyers and advertisers' activities;
-* email reports and customizable schedule;
-* setting up the report format;
-* action tracking for a specified advertiser or campaign.
-
-**5. Usability** - adaptive and handy interface.
-
-**6. Platform:**
-* API for easy integration with third-party platforms;
-* 24/7 tech support;
-* built-in integration with some of leading third-party platforms.
+1. **Forecasting** - tracking the number of available ad spaces:
+   * estimating inventory for a specific target audience;
+   * the estimation is based on 12-month history to ensure the best accuracy;
+   * taking seasonal fluctuations into account;
+   * measuring differences between the actual and estimated traffic.
+2. **Targeting:**
+   * organizing users by content, geolocation, technologies (OS), age, gender etc.;
+   * forming the rules of selecting target audience and saving them as a template to be used later.
+3. **Delivery** - optimization of the chosen advertising logic to improve the campaign performance:
+   * carrying out an advertising campaign in accordance with the business rules based on click-throughs and target coverage;
+   * options for deep targeting and frequency adjustments;
+   * providing the ability to use achieved results in order to fine-tune your ad campaign on the go.
+4. **Reporting** - ability to use data to make decisions:
+   * output of statistical data on CPM (cost of 1000 displays of your ad to potential customers), number of requests, etc.;
+   * providing summary information for different time periods;
+   * summarizing data about partners-buyers and advertisers' activities;
+   * email reports and customizable schedule;
+   * setting up the report format;
+   * action tracking for a specified advertiser or campaign.
+5. **Usability** - adaptive and handy interface.
+6. **Platform:**
+   * API for easy integration with third-party platforms;
+   * 24/7 tech support;
+   * built-in integration with some of leading third-party platforms.
 
 ### Supply side platform
 
-**1. Yield optimization** - increasing incomes without losing time:
-* access to all leading DSP platforms;
-* integration of the customer's existing network solutions and dozens of pre-integrated networks;
-* running a single auction for all connected DSP;
-* analysis and evaluation of the customer's inventory.
-
-**2. Reporting:**
-* setting up reports that allow you to track income, CPM, requests, target audience, calculate ratings and monitor their dynamics;
-* visualizing reports in graphical form.
-
-**3. Ad quality safeguards and tools:**
-* control and protection from suspicious third-party suppliers;
-* managing channel conflicts and setting up various content filters;
-* blocking of banned ads.
-
-**4. Usability:**
-* multi-user support;
-* easy navigation.
-
-**5. Flexible selling models:**
-* selling top advertising spots at a premium price;
-* ability to choose the sales model;
-* option to prioritize specific deals depending on the price or strategic indicators.
+1. **Yield optimization** - increasing incomes without losing time:
+   * access to all leading DSP platforms;
+   * integration of the customer's existing network solutions and dozens of pre-integrated networks;
+   * running a single auction for all connected DSP;
+   * analysis and evaluation of the customer's inventory.
+2. **Reporting:**
+   * setting up reports that allow you to track income, CPM, requests, target audience, calculate ratings and monitor their dynamics;
+   * visualizing reports in graphical form.
+3. **Ad quality safeguards and tools:**
+   * control and protection from suspicious third-party suppliers;
+   * managing channel conflicts and setting up various content filters;
+   * blocking of banned ads.
+4. **Usability:**
+   * multi-user support;
+   * easy navigation.
+5. **Flexible selling models:**
+   * selling top advertising spots at a premium price;
+   * ability to choose the sales model;
+   * option to prioritize specific deals depending on the price or strategic indicators.
 
 ### Demand side platform
-
-**1. RTB-bits** - storage of ad requests and their bids.
-
-**2. Single system - multiple inventories** - accessing multiple SSPs.
-
-**3. Campaign management** - centralized tool for managing ad campaigns.
-
-**4. Reporting** - reporting on ad views through all integrated resources.
-
-**5. Data analytics** - ability to optimize the budget of ad campaigns in real-time.
+1. **RTB-bits** - storage of ad requests and their bids.
+2. **Single system - multiple inventories** - accessing multiple SSPs.
+3. **Campaign management** - centralized tool for managing ad campaigns.
+4. **Reporting** - reporting on ad views through all integrated resources.
+5. **Data analytics** - ability to optimize the budget of ad campaigns in real-time.
 
 ### Ad exchange
-
-**1. Reporting** - the same as in SSP.
-
-**2. Ad quality safeguards and tools** - the same as in SSP.
-
-**3. Pricing controls** - searching the right price for maximization:
-* creating a package of ad spaces according to the category and size of advertising content, position on the page or other targeted criteria;
-* setting maximum price limit;
-* monitoring of the correlation between the level of earnings and the max price, adjusting the price respectively.
-
-**4. Usability** - the same as in SSP.
-
-**5. Flexible selling models** - the same as in SSP.
+1. **Reporting** - the same as in SSP.
+2. **Ad quality safeguards and tools** - the same as in SSP.
+3. **Pricing controls** - searching the right price for maximization:
+   * creating a package of ad spaces according to the category and size of advertising content, position on the page or other targeted criteria;
+   * setting maximum price limit;
+   * monitoring of the correlation between the level of earnings and the max price, adjusting the price respectively.
+4. **Usability** - the same as in SSP.
+5. **Flexible selling models** - the same as in SSP.
 
 ### Data management platform
-
-**1. Data collection** - gathering data about users and their actions in the web.
-
-**2. Finding segments** - data processing and grouping in different categories.
-
-**3. Sending instructions** - reports and income request instructions generation.
+1. **Data collection** - gathering data about users and their actions in the web.
+2. **Finding segments** - data processing and grouping in different categories.
+3. **Sending instructions** - reports and income request instructions generation.
 
 ## Closing thoughts
 
