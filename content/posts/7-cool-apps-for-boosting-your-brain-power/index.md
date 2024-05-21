@@ -1,20 +1,25 @@
 ---
-title: Top Apps for Developing the Brain and Memory
-publishDate: '2018-05-16T00:00:00Z'
-authors: []
-description: Are you aware that the speed of our brain depends on the number of active
-  networks - axons connecting neurons that actively conduct nerve impulses? The more
-  we train our brains with different exercises, the more different areas of the brain
-  become involved, which leads to an increase in our mental abilities.
+ceoTitle: " Top Apps for Developing the Brain and Memory"
+title: Cool Apps for Boosting Your Brain Power
+breadcrumbs: Cool Apps for Boosting Your Brain Power
+slug: 7-cool-apps-for-boosting-your-brain-power
+draft: false
+publishDate: 2018-05-16T00:00:00Z
 image: Brain-training-app.jpg
 og_image: Brain-training-app.jpg
+description: Are you aware that the speed of our brain depends on the number of
+  active networks - axons connecting neurons that actively conduct nerve
+  impulses? The more we train our brains with different exercises, the more
+  different areas of the brain become involved, which leads to an increase in
+  our mental abilities.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - mobile-development-team
 categories:
-- app-ideas
+  - app-ideas
+industries: []
 ---
 Are you aware that the speed of our brain depends on the number of active networks - axons connecting neurons that actively conduct nerve impulses? The brain works through a network of <a href="https://en.wikipedia.org/wiki/Human_brain" rel="nofollow" target="_blank">90 billion neurons</a>, which to date have not been fully understood by neuroscientists so that they can tell us with confidence how this relates to what is commonly called mind. If I try to explain by one sentence, then the more we train our brains with different exercises, the more different areas of the brain become involved, which leads to an increase in our mental abilities.
 
@@ -24,7 +29,7 @@ I like apps that relate to the genre of "logical", and I have tried many of them
 
 ## Memoryzer
 
-<center><img src="Memoryzer.png" alt="Memoryzer" style="width: 80%;"/></center>
+![Memoryzer](Memoryzer.png)
 
 Memoryzer is one of the mind strengthening games for training photographic memory. Its undoubted advantage is that it is implemented simply, and at the same time it is suitable for adults and children. At the beginning you see a set of various pets on a game board, after a few seconds they are hidden.
 
@@ -32,7 +37,7 @@ This small game will help you to improve the concentration ability it is require
 
 ## VOI
 
-<center><img src="Voi.png" alt="VOI" style="width: 80%;"/></center>
+![VOI](Voi.png)
 
 A simple but challenging game for your brain. It is all about negative and spaces. Two-color mode gives the game a uniqueness - white is black, and black is white. The goal is to create a certain figure on each level, the original of which is at the top of the screen. There is a set of diverse figures in front of you. It is necessary to impose them on each other, and in the area where the contact occurs, the color will change. And in this way you need to arrange all the figures to form the original picture.
 
@@ -42,7 +47,7 @@ Try it: **<a href="https://itunes.apple.com/us/app/voi/id1110376793?mt=8" rel="n
 
 ## Mekorama
 
-<center><img src="Mekorama.png" alt="Mekorama" style="width: 80%;"/></center>
+![Mekorama](Mekorama.png)
 
 There are lots of logical games in the Play Market, for players of all ages, as they say - for every taste and color. Mekorama in this regard will please everyone. The essence of this brain puzzle is to get a small robotic miracle from point A to point B. Well, as always, with obstacles. And it is not always possible to pass the level on the first try. Somewhere it is necessary to move the box and pass, somewhere to rotate the mill. Perhaps the most common element of each location is moving platforms. They will make you to burnish your brain in trying to rotate them correctly or move so that the "puzzle" is formed the way you need. In general, the levels are not the same. The graphics please the eye. There is nothing superfluous, just the design you need to move on, and the cute robot you need to control.
 
@@ -52,7 +57,7 @@ Try it: **<a href="https://itunes.apple.com/us/app/mekorama/id1079464948?mt=8" r
 
 ## Brain Dots
 
-<center><img src="Brain-dots.png" alt="Brain Dots" style="width: 80%;"/></center>
+![Brain dots](Brain-dots.png)
 
 Brain Dots is an unusual puzzle game. All you have to do to complete the level is to push two balls of pink and blue color together. To do this, draw lines, circles, squiggles - everything you can think of just to beat the level. Balls obey the laws of physics and will act as they should. Your drawing turns into a physical object and well, that's where it starts… Passed 10 levels? Do not rush to say that it's easy. With the rise of the level, there are various obstacles that are sometimes quite problematic to bypass.
 
@@ -62,7 +67,7 @@ Try it: **<a href="https://play.google.com/store/apps/details?id=jp.co.translimi
 
 ## That Level Again
 
-<center><img src="That-level-again.png" alt="That level again" style="width: 80%;"/></center>
+![That level again](That-level-again.png)
 
 I consider such games just a masterpiece. I have rarely met games which interact with the phone so closely. It's pretty simple. You are given the same level throughout the game in which you need to open the door. And the ways to complete each level will be totally different. In the left upper corner you see the name of the location, that is also a hint of how to pass the level. The only thing they have in common is that it is needed to pass from the left side of the screen to the right. And the rest, including even controlling is constantly changing. Sometimes you need to shake your smartphone, sometimes to press with a character the "Pause" button, and sometimes you need even to "die" to pass the level.
 
