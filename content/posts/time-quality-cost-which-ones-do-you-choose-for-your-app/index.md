@@ -1,27 +1,30 @@
 ---
-title: 'Time, Cost, Quality: Which Ones Do You Choose for Your App?'
-publishDate: '2018-04-13T00:00:00Z'
-authors: []
-description: Getting an app built is an investment. Whether your audience is consumers
-  or business users, apps are an integral part of modern life. Over a decade of innovation
-  places high expectations on the user experience of any new app to hit the market.
+title: "Time, Cost, Quality: Which Ones Do You Choose for Your App?"
+breadcrumbs: " Time VS Cost VS Quality"
+draft: false
+publishDate: 2018-04-13T00:00:00Z
 image: Right-choice.jpg
 og_image: Time-cost-quality.jpg
+description: Getting an app built is an investment. Whether your audience is
+  consumers or business users, apps are an integral part of modern life. Over a
+  decade of innovation places high expectations on the user experience of any
+  new app to hit the market.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - business-analysis-team
 categories:
-- business
+  - business
+industries: []
 ---
-> Getting an app built is an investment. Whether your audience is consumers or business users, apps are an integral part of modern life. Over a decade of innovation places high expectations on the user experience of any new app to hit the market.
+Getting an app built is an investment. Whether your audience is consumers or business users, apps are an integral part of modern life. Over a decade of innovation places high expectations on the user experience of any new app to hit the market.
 
 Businesses know they need to set aside a budget to ensure they get an app that will meet or exceed these minimum expectations. We even created a [calculator](https://anadea.info/tools/estimate) to help companies get a sense of how much they need to budget.
 
 Although we take a transparent approach to pricing, timescales and project management when working with clients, we know not everyone in our industry does. Some web and app development firms charge considerably more. Others charge a lot less, aiming to rush through product development so they can move onto the next paying project.
 
-> Related article: [Transparency as a Key to Successful Partnership](https://anadea.info/blog/transparency-as-a-clue-to-successful-partnership)
+{{< advert >}}Related article: [Transparency as a Key to Successful Partnership](https://anadea.info/blog/transparency-as-a-clue-to-successful-partnership){{< /advert >}}
 
 As a result, companies can be left with the bewildering _good, cheap, fast_ choice:
 
@@ -35,7 +38,7 @@ It comes down to the time, cost, quality triangle (also known in project managem
 
 To help companies chose the best option for them, we've made a comparison below.
 
-## 1: Time
+## 1. Time
 
 App development goes through several stages. From wireframe and designs, to iterative testing, creating the front and back-end, connecting the app to any databases, APIs or other services as needed, then quality testing, further iterations and changes, as needed.
 
@@ -43,7 +46,7 @@ App development goes through several stages. From wireframe and designs, to iter
 
 Every app comes with its own production timescale. It depends on the number of features, estimated hours - which should be illustrated in a proposal - and time for a web development firm to work with a client, communicating needs and changes throughout the project. However, a quote seems too long or too short, it probably is. Reasonable quotes should reflect the total time to build, iterate, test, improve and complete an app. Not rushing a project for a quick finish, nor dragging the work out for months and months.
 
-## 2: Quality
+## 2. Quality
 
 Quality is a huge concern. If the end-result is an app you aren't happy with, it could take months to fix problems, or you might need to wait until you can work with a different firm to rebuild the app. Agencies that promise cheap and quick results often compromise on quality. Even if something looks nice - which is easier to achieve than ever thanks to templates - the user experience could let you down.
 
@@ -51,7 +54,7 @@ An app that doesn't perform as expected when it goes live represents a huge miss
 
 Without an effective [software testing (QA)](https://anadea.info/services/quality-assurance) process, you risk delivering a poor performing app to your customers and end-users. Some IT firms even re-outsource work to external developers or other third-party agencies in other countries. We know that some of these firms and freelancers do a fantastic job. But not all. Without the ability to monitor and consistently improve outputs, you risk launching an app far below the quality threshold your business needs.
 
-## 3: Cost
+## 3. Cost
 
 When is a bargain not a bargain?
 
