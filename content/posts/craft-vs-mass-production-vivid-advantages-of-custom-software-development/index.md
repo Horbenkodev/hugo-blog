@@ -1,20 +1,23 @@
 ---
-title: Vivid Advantages of Custom Software Development
-publishDate: '2016-09-30T00:00:00Z'
-authors: []
-description: Certain work requires specific tools, as people say. If you want to dig
-  a hole - use a spade, a nail can be battered down with a hammer, a tree can be cut
-  with an axe, etc. But there will always be tasks, for which using a standard tool
-  won't be enough - you will have to enhance and customize it.
+ceoTitle: " Vivid Advantages of Custom Software Development"
+title: "Craft vs. Mass Production: Vivid Advantages of Custom Software Development"
+breadcrumbs: Custom Software vs. Out-of-the-Box Software
+slug: craft-vs-mass-production-vivid-advantages-of-custom-software-development
+draft: false
+publishDate: 2016-09-30T00:00:00Z
 image: custom_development.jpg
 og_image: custom_development.jpg
+description: Certain work requires specific tools, as people say. If you want to
+  dig a hole - use a spade, a nail can be battered down with a hammer, a tree
+  can be cut with an axe, etc. But there will always be tasks, for which using a
+  standard tool won't be enough - you will have to enhance and customize it.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- development
+  - development
+industries: []
 ---
 Certain work requires specific tools, as people say. If you want to dig a hole - use a spade, a nail can be battered down with a hammer, a tree can be cut with an axe, etc. But there will always be tasks, for which using a standard tool won't be enough - you will have to enhance and customize it. A power shovel will serve much better than a spade for making a huge pit and if you need to mount something without making holes, you'll have to put the hammer aside and use some superglue instead. Tools must be adjusted to the task and the requirements of specialists who perform this task.
 
