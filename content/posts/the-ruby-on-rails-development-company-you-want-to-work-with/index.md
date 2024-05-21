@@ -1,22 +1,23 @@
 ---
 title: The Ruby on Rails Development Company You Want to Work With
-publishDate: '2017-04-14T00:00:00Z'
-authors: []
-description: When you're looking for an outsourced Ruby on Rails developer for your
-  project, just like with any other third-party provider, you want to find someone
-  who has extensive experience, easy to collaborate with and actually does the work
-  that meets your expectations. It may be challenging to detect an expert who truly
-  meets all the requirements.
+breadcrumbs: Top Ruby on Rails Development Company
+draft: false
+publishDate: 2017-04-14T00:00:00Z
 image: RoR_developer.jpg
 og_image: RoR_developer.jpg
+description: When you're looking for an outsourced Ruby on Rails developer for
+  your project, just like with any other third-party provider, you want to find
+  someone who has extensive experience, easy to collaborate with and actually
+  does the work that meets your expectations. It may be challenging to detect an
+  expert who truly meets all the requirements.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- business
-- ruby-on-rails
+  - business
+  - ruby-on-rails
+industries: []
 ---
 When you're looking for an outsourced Ruby on Rails developer for your project, just like with any other third-party provider, you want to find someone who has an extensive experience, easy to collaborate with, and actually does the work that meets your expectations. It may be challenging to detect an expert who truly meets all the requirements and this leaves a lot of entrepreneurs falling into well-known pitfalls associated with hiring the wrong person.
 
