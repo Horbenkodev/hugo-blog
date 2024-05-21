@@ -3,7 +3,7 @@ ceoTitle: Ultimate Guide to Digital Transformation for Your Business
 title: A Guide to Digital Transformation
 breadcrumbs: A Guide to Digital Transformation
 slug: digital-transformation
-draft: true
+draft: false
 publishDate: 2021-03-31T00:00:00.000Z
 image: hero.png
 og_image: hero.png
