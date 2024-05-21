@@ -1,18 +1,23 @@
 ---
-title: Ultimate Guide to Digital Transformation for Your Business
-publishDate: '2021-03-31T00:00:00Z'
-authors: []
-description: Digital transformation is about making a profound change in an organization
-  using technology. Here is a guide to your digital transformation journey.
+ceoTitle: Ultimate Guide to Digital Transformation for Your Business
+title: A Guide to Digital Transformation
+breadcrumbs: A Guide to Digital Transformation
+slug: digital-transformation
+draft: true
+publishDate: 2021-03-31T00:00:00.000Z
 image: hero.png
 og_image: hero.png
+description: Digital transformation is about making a profound change in an
+  organization using technology. Here is a guide to your digital transformation
+  journey.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - business-analysis-team
 categories:
-- business
+  - business
+industries: []
 ---
 Digital transformation is an often misunderstood phrase that is overused in the global business community. It isn't about getting the latest shiny piece of technology. Nor is it about switching to a new software solution or platform for the sake of it.
 
@@ -20,10 +25,7 @@ Digital transformation, as the name suggests, is about making a profound change 
 
 Or it could be a customer-facing change. Customers everywhere, across almost every demographic, prefer digital platforms.
 
-<figure>
- <img src="quote_1.jpeg" alt="Best quotes on digital transformation: Digital used to be about coding and IT; now it’s becoming a people business, said Mary Kate Loftus, the head of multichannel for retail banking and wealth management at HSBC's U.S. unit." style="width:100%">
- <figcaption><center><sub>Source: <a href="https://www.americanbanker.com/news/hsbcs-digital-transformation-its-a-people-business" rel="nofollow" target="_blank">American Banker</a></sub></center></figcaption>
-</figure>
+![Best quotes on digital transformation: Digital used to be about coding and IT; now it’s becoming a people business, said Mary Kate Loftus, the head of multichannel for retail banking and wealth management at HSBC's U.S. unit.](quote_1.jpeg "Source: American Banker")
 
 Investments in the customer journey and experience generate top and bottom line ROIs. Customer retention and revenue rates often improve as a consequence of a digital transformation project.
 
@@ -35,18 +37,13 @@ It isn’t one-size-fits all. What works for one company won’t necessarily wor
 
 Every digital transformation journey is unique.
 
-<center><img src="infographic.jpeg" alt="Infographic: What is digital transformation for dummies" width='100%';"></center>
+![Infographic: What is digital transformation for dummies](infographic.jpeg)
 
 ## Creating technology for people and processes
 
 When projects fail, either because of time and budgetary overruns, the problem is rarely about the technology. People, training and culture play an enormous role in every digital transformation project. Although that might sound surprising, the reason for this is quite simple:
 
 Ultimately, technology is a tool for people to use. Digital transformation is about improving the tools, then making sure your staff or customers can use these new tools more effectively.
-
-<figure>
- <img src="quote_1.jpeg" alt="Best quotes on digital transformation: When digital transformation is done right, it’s like a caterpillar turning into a butterfly, but when done wrong, all you have is a really fast caterpillar, said George Westerman, Research Scientist at the MIT Center for Digital Business." style="width:100%">
- <figcaption><center><sub>Source: <a href="https://executive.mit.edu/blog/the-digital-business-transformation-imperative" rel="nofollow" target="_blank">MIT Sloan Executive Education</a></sub></center></figcaption>
-</figure>
 
 To understand why a new tool is needed, companies first need to analyze customer or workflow journey pain points. Only then they can create a digital transformation strategy and implement a technical solution to solve those pain points effectively.
 
@@ -94,10 +91,7 @@ Quite simply, too many companies that have tried that have failed. Internal IT t
 
 Although an internal IT team might start a project with enthusiasm, what happens when the next urgent task enters the workflow? Depending on the size and configuration of your IT team, internal workloads are often focused on the urgent needs.
 
-<figure>
- <img src="quote_3.jpeg" alt="Best quotes on digital transformation: Companies have too many experts who block innovation. True innovation really comes from perpendicular thinking, said Peter Diamandis, a well-known entrepreneur, physician and founder of more than a dozen space and high-tech companies." style="width:100%">
- <figcaption><center><sub>Source: <a href="https://www.huffpost.com/entry/why-billion-dollar-100-ye_b_2718262" rel="nofollow" target="_blank">HuffPost</a></sub></center></figcaption>
-</figure>
+![Best quotes on digital transformation: Companies have too many experts who block innovation. True innovation really comes from perpendicular thinking, said Peter Diamandis, a well-known entrepreneur, physician and founder of more than a dozen space and high-tech companies.](quote_3.jpeg "Source: HuffPost")
 
 Digital transformation is important, for the long-term success of any company in a competitive market. However, in a fast paced business environment, important tasks can fall victim to urgent ones. When internal IT teams are managing digital transformation, it’s often such a big and challenging project that it is the first at the bottom of any list of tasks, compared to more urgent ones, such as email going down.
 
@@ -116,10 +110,7 @@ Not every provider is equal, of course. Some have a better reputation than other
 
 Digital transformation is transforming sectors across the world. Even those many wouldn't imagine, such as industrial, logistics and shipping. Between big data, new cloud and app-based ways of working, AI and machine learning, whether through wholesale transformation or creeping adoption, new ways are replacing outdated methods and processes.
 
-<figure>
- <img src="quote_4.jpeg" alt="Best quotes on digital transformation: You look at marketing: everything that's happening in marketing is digitized. Everything that's happening in finance is digitized. So pretty much every industry, every function in every industry, has a huge element that's driven by information technology. It's no longer discrete, said Satya Nadella, CEO of Microsoft Corporation." style="width:100%">
- <figcaption><center><sub>Source: <a href="https://qz.com/172668/heres-where-microsofts-next-ceo-satya-nadella-sees-opportunity/" rel="nofollow" target="_blank">Quartz</a></sub></center></figcaption>
-</figure>
+![Best quotes on digital transformation: You look at marketing: everything that's happening in marketing is digitized. Everything that's happening in finance is digitized. So pretty much every industry, every function in every industry, has a huge element that's driven by information technology. It's no longer discrete, said Satya Nadella, CEO of Microsoft Corporation.](quote_4.jpeg "Source: Quartz")
 
 In this next section of our digital transformation guide we look at the impact of digital transformation on the real estate, healthcare and education sectors.
 
