@@ -1,19 +1,46 @@
 ---
-title: 'Passkey Implementation Guide: Third-party and Custom Solutions'
-publishDate: '2024-03-25T00:00:00Z'
-authors:
-- eugene-pasko
-description: Learn everything about passkey implementation for your business. Ditch
-  passwords, boost your software security with our ultimate guide.
+ceoTitle: " Passkey Implementation Guide: Third-party and Custom Solutions"
+title: " How to Implement Passkeys: Guide for Businesses"
+breadcrumbs: Passkey Implementation Guide
+slug: how-to-implement-passkeys
+draft: false
+publishDate: 2024-03-25T00:00:00Z
 image: passkey_implementation.jpg
 og_image: passkey_implementation_socials.jpg
+description: Learn everything about passkey implementation for your business.
+  Ditch passwords, boost your software security with our ultimate guide.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - eugene-pasko
 categories:
-- development
+  - development
+industries: []
+questionary:
+  - answer: "At Anadea, we offer two main options for implementing passkey in your
+      business software: <ul><li><strong>Seamless third-party
+      integration:</strong> Leverage our expertise to integrate established
+      solutions like Passwordless.dev or WebAuthn.js. This approach minimizes
+      development effort and ensures a smooth integration
+      process.</li><li><strong>Custom passkey solution:</strong> For businesses
+      seeking complete control and customization, we offer the implementation of
+      Anadea’s custom passkey solution specifically designed for Django
+      websites. This allows for a tailored experience that fits your unique
+      requirements.</li></ul>"
+    question: How can I implement passkey in my business software?
+  - question: What are the popular passkey solution providers?
+    answer: The passkey landscape is rapidly evolving, with numerous providers
+      emerging each month. Some of the popular passkey solution providers
+      include Passwordless.dev, WebAuthn.js, and Microsoft Authenticator SDKs
+      among others. These providers offer various solutions to implement passkey
+      functionality, catering to different needs and preferences."
+  - question: Who can implement passkey functionality for me?
+    answer: Several options are available for integrating new technologies like
+      passkey. You could utilize your development team if you have the necessary
+      in-house skills and resources. Alternatively, software development
+      companies like Anadea can provide both integration and customization of
+      passkey solutions.
 ---
 Imagine a world where users no longer need to remember countless passwords or worry about phishing scams. That's exactly what passkey promises. Let's dive into how it works, its benefits, and how to <a href="https://anadea.info/services/passkey">implement passkey</a> seamlessly into your software.
 
@@ -103,11 +130,12 @@ Microsoft offers SDKs for Android, iOS, and other platforms to integrate with th
 Acquired by Bitwarden, this framework simplifies integrating passwordless options into applications. It offers open-source libraries and tools for WebAuthn and FIDO2 implementation and provides developer-friendly documentation and tutorials for a smooth integration process.
 
 ![passkey iphone](passkey_iphone.png)
+
 <center><small style="font-size: 14px">Image source: docs.passwordless.dev</small></center>
 
 Although these resources are popular solutions for passkey implementation, they often appear platform-specific. Other than that, third-party services often increase spending on the development due to their own cost—it might be the cost for a month of usage for enterprise solutions, cost-per-user, or a single-time fee.
 
-> **Related read:** <a href="https://anadea.info/blog/passkey-vs-password" target="_blank">Passkey vs Password: Which Is Better?</a>
+{{< advert >}}Related read:** <a href="https://anadea.info/blog/passkey-vs-password" target="_blank">Passkey vs Password: Which Is Better?</a>{{< /advert >}}
 
 ## Anadea’s passkey solution
 
@@ -154,53 +182,3 @@ Working with businesses for over 20 years, we at Anadea understand that integrat
 Excited about the passwordless future? Contact us and let’s approach it together, prioritizing digital convenience and security!
 
 {{< ctabutton href="https://anadea.info/contacts" >}}Implement passkeys{{< /ctabutton >}}
-
-## Frequently Asked Questions
-
-### How can I implement passkey in my business software?
-
-At Anadea, we offer two main options:
-
-- **Seamless third-party integration:** Leverage our expertise to integrate established solutions like Passwordless.dev or WebAuthn.js, minimizing development effort and ensuring a smooth integration.
-- **Custom passkey solution:** For complete control and customization, we offer to implement Anadea’s custom passkey solution for Django websites.
-
-### What are the popular passkey solution providers?
-
-The passkey landscape is evolving, with numerous passkey providers emerging each month. We recommend exploring options like **Passwordless.dev**, **WebAuthn.js**, and **Microsoft Authenticator SDKs** among others.
-
-### Who can implement passkey functionality for me?
-
-Several options are available for integrating new technologies like passkey. You could utilize your development team if you have the necessary in-house skills and resources. Alternatively, software development companies like Anadea can provide both integration and customization of passkey solutions.
-
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-   "@type": "Question",
-   "name": "How can I implement passkey in my business software?",
-   "acceptedAnswer": {
-    "@type": "Answer",
-    "text": "At Anadea, we offer two main options for implementing passkey in your business software: <ul><li><strong>Seamless third-party integration:</strong> Leverage our expertise to integrate established solutions like Passwordless.dev or WebAuthn.js. This approach minimizes development effort and ensures a smooth integration process.</li><li><strong>Custom passkey solution:</strong> For businesses seeking complete control and customization, we offer the implementation of Anadea’s custom passkey solution specifically designed for Django websites. This allows for a tailored experience that fits your unique requirements.</li></ul>"
-   }
-  },
-  {
-   "@type": "Question",
-   "name": "What are the popular passkey solution providers?",
-   "acceptedAnswer": {
-    "@type": "Answer",
-    "text": "The passkey landscape is rapidly evolving, with numerous providers emerging each month. Some of the popular passkey solution providers include Passwordless.dev, WebAuthn.js, and Microsoft Authenticator SDKs among others. These providers offer various solutions to implement passkey functionality, catering to different needs and preferences."
-   }
-  },
-  {
-   "@type": "Question",
-   "name": "Who can implement passkey functionality for me?",
-   "acceptedAnswer": {
-    "@type": "Answer",
-    "text": "For implementing passkey functionality, you have several options. If you possess the necessary in-house skills and resources, your own development team can undertake this project. Alternatively, software development companies like Anadea specialize in integrating and customizing passkey solutions. These companies provide the expertise needed to seamlessly incorporate passkey technology into your existing systems."
-   }
-  }
- ]
-}
-</script>
