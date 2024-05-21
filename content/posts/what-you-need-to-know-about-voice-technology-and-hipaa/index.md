@@ -27,7 +27,7 @@ AI and machine learning have been making waves across industries for years. Algo
 
 Deep learning - a subset of machine learning - can even make inferences based on data it has come across previously. In short, deep learning allows an AI application to come to its own conclusions. Deep learning solutions can even explain their reasoning and decisions, presenting a major upside when it comes to the kind of complex decision-making that happens in healthcare.
 
-{{< advert >}}Related read: [Innovative Trends in Medical Software Development](https://anadea.info/blog/the-future-of-health-innovative-trends-in-medical-software-development-2019){{< advert >}}
+{{< advert >}}Related read: [Innovative Trends in Medical Software Development](https://anadea.info/blog/the-future-of-health-innovative-trends-in-medical-software-development-2019){{< /advert >}}
 
 The use cases run the gamut and prove fascinating in terms of how technology can provide care to people.
 
@@ -37,7 +37,7 @@ All in all, this AI-enabled technology promises to ease time burdens on physicia
 
 That said, there are <a href="https://www.liquidweb.com/blog/what-is-hipaa-compliant-hosting-and-why-does-it-matter/" target="_blank">Health Insurance Portability and Accountability Act</a> (HIPAA) implications that people and organizations need to be aware of, too. Securing server platforms is the most obvious; however, voice technology brings other implications with it. One of the biggest threats is the unintended audience for a call. Obviously, where patient health data is concerned, there are strict HIPAA rules about who can access that information. Controlling access in the era of voice assistants is an important consideration.
 
-{{< advert >}}Related read: [How Much Does It Cost to Develop an App for Healthcare?](https://anadea.info/guides/healthcare-app-development-cost){{< advert >}}
+{{< advert >}}Related read: [How Much Does It Cost to Develop an App for Healthcare?](https://anadea.info/guides/healthcare-app-development-cost){{< /advert >}}
 
 ## Voice technology and HIPAA
 
@@ -51,7 +51,7 @@ It’s a similar situation for doctors who may use this type of technology to br
 
 Scenarios like this require a look at the setting of transmission of sensitive healthcare information and how voice technology may respond to it. Doctors doing rounds are constantly transitioning from patient to patient and could benefit from receiving information about each patient ahead of time. That said, voice technology that just spouts patient info aloud in an elevator is not ideal. Voice technology that can sense whether a doctor is wearing headphones and triggers audio versus a doctor who may be around unauthorized parties, triggering a text-to-phone display instead, would be ideal.
 
-{{< advert >}}Related read: [Digital Healthcare: A New Approach to Care Coordination](https://anadea.info/blog/digital-healthcare-a-new-approach-to-care-coordination){{< advert >}}
+{{< advert >}}Related read: [Digital Healthcare: A New Approach to Care Coordination](https://anadea.info/blog/digital-healthcare-a-new-approach-to-care-coordination){{< /advert >}}
 
 It’s important to look at this type of technology from the patient’s perspective, too.
 
