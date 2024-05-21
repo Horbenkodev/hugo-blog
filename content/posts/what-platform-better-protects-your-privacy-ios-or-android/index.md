@@ -1,20 +1,21 @@
 ---
-title: 'What Platform Better Protects Your Privacy: iOS or Android?'
-publishDate: '2019-03-07T00:00:00Z'
-authors:
-- emily-clark
-description: Mobile users are on edge when it comes to their data privacy, and for
-  good reasons. Last year's headlines exposed major privacy breaches from big-name
-  companies that millions of people trusted with sensitive personal data.
+title: "What Platform Better Protects Your Privacy: iOS or Android?"
+draft: false
+publishDate: 2019-03-07T00:00:00Z
 image: Mobile-privacy.jpg
 og_image: Mobile-privacy.jpg
+description: Mobile users are on edge when it comes to their data privacy, and
+  for good reasons. Last year's headlines exposed major privacy breaches from
+  big-name companies that millions of people trusted with sensitive personal
+  data.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - mobile-development-team
 categories:
-- mobile
+  - mobile
+industries: []
 ---
 Mobile users are on edge when it comes to their data privacy, and for good reasons.
 
@@ -91,7 +92,7 @@ iOS app developers work using Apple's closed-source system. The company doesn't 
 
 Android offers a broader app selection and more freedom to customize, but Apple's limited choices provide its users with a much higher level of security than Android.
 
-***Related read: [What You Need to Know to Put Your App in the App Store or Google Play?](https://anadea.info/blog/how-to-put-your-app-in-the-app-store-or-google-play)***
+{{< advert >}}Related read: [What You Need to Know to Put Your App in the App Store or Google Play?](https://anadea.info/blog/how-to-put-your-app-in-the-app-store-or-google-play){{< advert >}}
 
 ## Apple devices offer stronger privacy protection compared to Android
 
@@ -102,9 +103,3 @@ Apple users choose the safer, more reliable experience that its in-house manufac
 When <a href="https://themanifest.com/app-development/companies" target="_blank">considering mobile app developers</a>, entrepreneurs should weigh the security risks on each platform before building their app.
 
 As hackers become more sophisticated, consumers may turn to Apple products to better protect their privacy.
-
-
-<br />
-
----
-*This is a guest post by **Emily Clark.** Emily is a Content Writer for The Manifest and Visual Objects, a research and reviews platform for B2B marketing and technology services. She focuses on mobile app development research.*
