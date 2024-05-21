@@ -1,21 +1,24 @@
 ---
 title: Top 5 JavaScript Frameworks For Your Projects
-publishDate: '2017-10-06T00:00:00Z'
-authors: []
-description: In the world of front-end development, things are a bit complicated.
-  New frameworks appear all the time, which provides both opportunities and challenges
-  for developers. The situation has become better in the past few years but it's still
-  confusing. Polymer, Aurelia, Sencha, Webix and so on - what's behind all those names?
-  How and when should you use them?
+slug: top-javascript-frameworks
+draft: false
+publishDate: 2017-10-06T00:00:00.000Z
 image: top-5-js-frameworks.jpg
 og_image: Infogr_top-js_frameworks_view.jpg
+description: In the world of front-end development, things are a bit
+  complicated. New frameworks appear all the time, which provides both
+  opportunities and challenges for developers. The situation has become better
+  in the past few years but it's still confusing. Polymer, Aurelia, Sencha,
+  Webix and so on - what's behind all those names? How and when should you use
+  them?
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - web-development-team
 categories:
-- development
+  - development
+industries: []
 ---
 In the world of [front-end development](https://anadea.info/blog/modern-front-end-pros-and-cons), things are a bit complicated. New frameworks appear all the time, which provides both opportunities and challenges for developers. Forget about tea and cookies, learn new stuff if you want to catch up with the changing world! The situation has become better in the past few years but it's still confusing. Polymer, Aurelia, Sencha, Webix and so on - what's behind all those names? How and when should you use them?
 
