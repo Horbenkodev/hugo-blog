@@ -127,17 +127,17 @@ While the specific focus areas of a code audit can vary depending on its objecti
 You probably need one if you are reading this article. But let’s highlight a couple of common scenarios where a code audit would be recommended.
 
 - **The project is at a pivot point or you are thinking through a strategic decision. Here are some questions a code audit can help answer:**
- - Should we buy or invest in this solution?
- - Is it better to rewrite our existing code from scratch or keep maintaining it? What are the costs involved in each option?
- - Should we continue working with our current vendors?
- - Are there any regulatory hurdles we need to address (like HIPAA for healthcare applications or GDPR for applications processing EU citizens' data)?
+  - Should we buy or invest in this solution?
+  - Is it better to rewrite our existing code from scratch or keep maintaining it? What are the costs involved in each option?
+  - Should we continue working with our current vendors?
+  - Are there any regulatory hurdles we need to address (like HIPAA for healthcare applications or GDPR for applications processing EU citizens' data)?
 
 - **The project works on a regular basis without a need for strategic changes but a code audit is still strongly recommended. Here's why:**
- - Your team has been focused on delivering new features quickly and accumulated technical debt. A code audit can help prioritize what needs to be addressed first.
- - Your product is experiencing serious issues.
- - Your product handles sensitive data and you want regular independent verification that it's secure.
- - You are preparing for a significant change in your development team composition. New team members might struggle to understand the code, especially if it lacks clarity or has maintenance issues. A code audit can help with this transition.
- - It's been over a year since your last code audit.
+  - Your team has been focused on delivering new features quickly and accumulated technical debt. A code audit can help prioritize what needs to be addressed first.
+  - Your product is experiencing serious issues.
+  - Your product handles sensitive data and you want regular independent verification that it's secure.
+  - You are preparing for a significant change in your development team composition. New team members might struggle to understand the code, especially if it lacks clarity or has maintenance issues. A code audit can help with this transition.
+  - It's been over a year since your last code audit.
 
 Therefore, it's hard to say what digital product throughout its life doesn’t need a code audit. There are many reasons for making a code audit a part of a project's routine. Whenever you have doubts about whether you need a code audit or want an expert consultation, feel free to contact us—we will answer all your questions.
 
