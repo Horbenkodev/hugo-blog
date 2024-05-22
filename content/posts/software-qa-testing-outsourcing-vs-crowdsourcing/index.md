@@ -1,21 +1,24 @@
 ---
-title: 'Software QA & Testing: Outsourcing vs. Crowdsourcing'
-publishDate: '2017-09-15T00:00:00Z'
-authors: []
-description: Writing code is hard. For some, this may come as a surprise, software
-  quality assurance and testing are not easier. Reporting bugs may not require too
-  much technical skills. But the same cannot be said about evaluating a product from
-  customer's perspective, understanding software product features, developing a test
-  strategy and planning the test cases within strict deadlines.
+title: "Software QA & Testing: Outsourcing vs. Crowdsourcing"
+breadcrumbs: Outsourcing vs. Crowdsourcing QA Service
+draft: false
+publishDate: 2017-09-15T00:00:00Z
 image: outsource-vs-crowdsource.jpg
 og_image: outsource-vs-crowdsource.jpg
+description: Writing code is hard. For some, this may come as a surprise,
+  software quality assurance and testing are not easier. Reporting bugs may not
+  require too much technical skills. But the same cannot be said about
+  evaluating a product from customer's perspective, understanding software
+  product features, developing a test strategy and planning the test cases
+  within strict deadlines.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - qa-team
 categories:
-- qa
+  - qa
+industries: []
 ---
 Writing code is hard. For some, this may come as a surprise, software quality assurance and testing are not easier. Of course, reporting bugs may not require too much technical skills. But the same cannot be said about evaluating a product from customer's perspective, understanding software product features, developing a test strategy, planning the test cases, picking which tools to use, and all of that within strict deadlines when a product was supposed to be ready yesterday and its release is today, especially while dealing with a very demanding customer. That's why the question "What does a quality assurance engineer do?" doesn't boil down to a simple answer.
 
