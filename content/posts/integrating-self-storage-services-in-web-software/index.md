@@ -1,23 +1,24 @@
 ---
 title: Integrating Self-Storage Services in Web Software
-publishDate: '2017-12-04T00:00:00Z'
-authors:
-- vadim-kondratiev
-description: Self-storage facilities are companies that provide storage space (lockers,
-  containers, garages, etc.) by lease. Often, self-storage companies have multiple
-  locations with a few hundred of units in each. It is quite a big business and it
-  requires management software to keep all units under control. There is special software
-  for their needs.
+breadcrumbs: Self-Storage Software Development
+draft: false
+publishDate: 2017-12-04T00:00:00Z
 image: self-storage-management.jpg
 og_image: Self_storage_management_software.jpg
+description: Self-storage facilities are companies that provide storage space
+  (lockers, containers, garages, etc.) by lease. Often, self-storage companies
+  have multiple locations with a few hundred of units in each. It is quite a big
+  business and it requires management software to keep all units under control.
+  There is special software for their needs.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - vadim-kondratiev
 categories:
-- development
-- web
+  - development
+  - web
+industries: []
 ---
 Self-storage companies lease storage space, such as lockers, containers, and garages, and often have multiple locations with hundreds of units. Managing this business requires specialized management software to keep track of all the units.
 
