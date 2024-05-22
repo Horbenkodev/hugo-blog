@@ -4,7 +4,7 @@ title: "Passkey vs Password: Which Is Better?"
 breadcrumbs: Passkey vs Password
 slug: passkey-vs-password
 draft: false
-publishDate: 2024-02-23T00:00:00Z
+publishDate: 2024-02-23T00:00:00.000Z
 image: password_passkey.png
 og_image: password_passkey_socials.png
 description: How to make sure your software is secure enough? Read our blog post
@@ -113,7 +113,7 @@ In the passkey vs password security battle, **a passkey wins**. First of all, it
 
 By their design, **passkeys support 2FA (two-factor authentication)**. Each passkey is tied to the device where it was generated (and users need to confirm their identity on it), which represents an additional protection level. In the case of websites that rely on passwords, a lot of people do not enable 2FA.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Implement passkeys{{< /ctabutton >}}
+{{< advert_with_cta title="Free your users from password struggles!" description="Implement passkeys and enjoy peace of mind" button="Send your request" >}}
 
 ### Will passkeys replace passwords?
 
@@ -127,8 +127,6 @@ When our customers come to us with ideas for their projects and we discuss secur
 - Passkeys are secured against password-based attacks.
 - They ensure rapid authentication.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Go passwordless{{< /ctabutton >}}
-
 ## Conclusion
 
 Today, when cybercriminals already have so many advanced approaches to guessing or stealing passwords, passkeys come out as a more powerful tool for protecting users’ data and online accounts. That’s why it is not surprising at all that the number of websites and apps that use passkeys is increasing.
@@ -136,82 +134,3 @@ Today, when cybercriminals already have so many advanced approaches to guessing 
 If you have any questions regarding the peculiarities of passkeys, the work of this feature, or <a href="https://anadea.info/blog/how-to-implement-passkeys" target="_blank">how to implement passkeys</a> into your existing or new solution, do not hesitate to contact our team. At Anadea, we do our best to stay tuned with all tech trends and pay a lot of attention to data protection and software security.
 
 {{< ctabutton href="https://anadea.info/contacts" >}}Contact us{{< /ctabutton >}}
-
-## Frequently Asked Questions
-
-### Do passkeys have any drawbacks?
-
-The main disadvantage is that a passkey is tied to a device. It means that a user needs to have this device at hand when they want to log into an account from another PC, laptop, tablet, or mobile phone. But, this issue is fixed by using services like iCloud or password managers like Strongbox. They make sure passkeys can be used on all devices of a user, making it easier and avoiding the hassle of being tied to just one device.
-
-### What happens to a passkey if I lose the smartphone where it was generated?
-
-If you lose your smartphone or it is stolen, it doesn’t mean that you won’t be able to get access to your online accounts. You will just need to create a new passkey on a new device.
-
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-   "@type": "Question",
-   "name": "What is a password?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "A password can be defined as secret data (as a rule, it will be a string of characters) that is used to gain access to an app, device, or place. It can be a word, a phrase, or just a random combination of letters, numbers, and special characters."
-    }
-   ]
-  },
-  {
-   "@type": "Question",
-   "name": "What is a passkey?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "Passket is a FIDO (Fast Identity Online) credential that is stored on your device and is used to unlock your online accounts. The principle of its work relies on a private cryptographic key and a public cryptographic key. The service where you have your account stores the public key, while the private key will be kept locally (on your device). When you create your account, your passkey is generated. And then, when you need to sign in, your browser or operating system will help the service to use the right passkey and verify you. In general, for a user, this process looks and feels very similar to the cases when they have saved passwords in the browser."
-    }
-   ]
-  },
-  {
-   "@type": "Question",
-   "name": "Will passkeys replace passwords?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "It is highly sensible to presuppose that in the future, passwords will be fully replaced by passkeys. They have a lot of benefits related to security and data protection directly. And also, they are convenient for users: people do not need to learn anything by heart and worry that if they forget their password, they won’t be able to log in."
-    }
-   ]
-  },
-  {
-   "@type": "Question",
-   "name": "What are the differences between passkeys vs. passwords?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "While passwords are user-created and susceptible to phishing, passkeys are automatically generated and resist phishing attempts, making them the more secure and user-friendly option despite being newer."
-    }
-   ]
-  },
-   {
-   "@type": "Question",
-   "name": "Do passkeys have any drawbacks?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "The main disadvantage is that a passkey is tied to a device. It means that a user needs to have this device at hand when they want to log into an account from another PC, laptop, tablet, or mobile phone. But, this issue is fixed by using services like iCloud or password managers like Strongbox. They make sure passkeys can be used on all devices of a user, making it easier and avoiding the hassle of being tied to just one device."
-    }
-   ]
-  },
-  {
-   "@type": "Question",
-   "name": "What happens to a passkey if I lose the smartphone where it was generated?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "If you lose your smartphone or it is stolen, it doesn’t mean that you won’t be able to get access to your online accounts. You will just need to create a new passkey on a new device."
-    }
-   ]
-  }
- ]
-}
-</script>
