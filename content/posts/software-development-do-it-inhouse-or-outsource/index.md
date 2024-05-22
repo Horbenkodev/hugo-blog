@@ -1,21 +1,25 @@
 ---
-title: In-House or Outsource Custom Software Development? Pros and Cons
-publishDate: '2017-09-08T00:00:00Z'
-authors: []
-description: We often hear that we live in the world of possibilities. However, how
-  often do you hear what these possibilities are? Look at Apple. We love their computers
-  and phones, the quality and innovations they bring. We also know that their products
-  are a bit pricey - the newest iPhone would cost about $1000 or more. $1000 for a
-  device assembled in China!
+ceoTitle: In-House or Outsource Custom Software Development? Pros and Cons
+title: "Software Development: Do It In-House or Outsource?"
+breadcrumbs: In-House VS Outsource
+slug: software-development-do-it-inhouse-or-outsource
+draft: false
+publishDate: 2017-09-08T00:00:00Z
 image: hire-or-outsource1.jpg
 og_image: hire-or-outsource1.jpg
+description: We often hear that we live in the world of possibilities. However,
+  how often do you hear what these possibilities are? Look at Apple. We love
+  their computers and phones, the quality and innovations they bring. We also
+  know that their products are a bit pricey - the newest iPhone would cost about
+  $1000 or more. $1000 for a device assembled in China!
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - marketing-team
 categories:
-- business
+  - business
+industries: []
 ---
 We often hear that we live in the world of possibilities. However, how often do you hear what these possibilities are?
 
@@ -27,7 +31,7 @@ Let's take a closer look at the benefits of outsourcing compared to in-house sof
 
 ## Why you should outsource to <a href="https://anadea.info/services/custom-software-development" target="_blank">custom software development companies</a>
 
-> Reason number one: hire the best
+### Reason number one: hire the best
 
 When I tried to form a band in the small town where I lived, I faced the problem that there were few musicians around. No worthy vocalists, three bass players more interested in drinking and partying than making music and one drummer who was already engaged in five bands. But when I decided to collaborate with YouTube musicians, I got limitless options. I saw talented people with enough skill and drive from all around the world. I could see videos of them playing, I could find guys who enjoy playing the same music as I do and I could have any of them in my project.
 
@@ -37,7 +41,7 @@ Outsourcing offers endless possibilities, enabling you to explore skilled profes
 
 Moreover, by collaborating with outsourcing software development companies that specialize in your target niche, you can gain access to more than just technically adept developers. They can also provide market-specific expertise, potentially saving you a great deal of trouble.
 
-> Reason number two: bang for the buck
+### Reason number two: bang for the buck
 
 Cost-efficiency is one of the main pros of outsourcing. Remember the example in the beginning of the article? $1000 for the device assembled in China, $3000 for the one made in the USA. The same is true about software development services. Actually, if you worry about issues associated with offshoring, you can go with outsourcing partners near you and their rates can be comparatively high.
 
@@ -45,7 +49,7 @@ However, the true cost of hiring an app developer internally far exceeds his bas
 
 Ask yourself, is it still worth to hire in-house developers?
 
-> Reason number three: scale your team at any time and get your product to the market faster
+### Reason number three: scale your team at any time and get your product to the market faster
 
 On different stages of development you may need different number of IT specialists with different skills to be involved in your project. Partnering up with a great software outsourcing company provides you with on-demand access to a large pool of professional developers. You know their hourly and man/day rates for each outsourced specialist and you can add, remove or switch developers in your external team based on what skills you need right now.
 
