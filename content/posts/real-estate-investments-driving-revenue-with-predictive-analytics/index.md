@@ -1,21 +1,22 @@
 ---
-title: 'Real Estate Investments: Driving Revenue with Predictive Analytics'
-publishDate: '2019-05-29T00:00:00Z'
-authors:
-- david-freudenberg
-description: When investing in real estate, especially in rental properties, one should
-  make quick and well-informed decisions, backed by data. The real estate market changes
-  at a rapid pace, and for success, you have to be able to adapt to those changes
-  just as fast.
+title: "Real Estate Investments: Driving Revenue with Predictive Analytics"
+breadcrumbs: ""
+draft: false
+publishDate: 2019-05-29T00:00:00Z
 image: Real-estate-investments.jpg
 og_image: Real-estate-investments.jpg
+description: When investing in real estate, especially in rental properties, one
+  should make quick and well-informed decisions, backed by data. The real estate
+  market changes at a rapid pace, and for success, you have to be able to adapt
+  to those changes just as fast.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- real-estate
+authors:
+  - ai-ml-team
 categories: []
+industries:
+  - real-estate
 ---
 When investing in real estate, especially in rental properties, one should make quick and well-informed decisions, backed by data. The real estate market changes at a rapid pace, and for success, you have to be able to adapt to those changes just as fast.
 
@@ -31,11 +32,7 @@ Every organization, no matter how young or old it is, should use predictive anal
 
 There are always risks associated with any new technology, and predictive analytics comes with the risk of overreliance. Predictive analytics is based on correlations and probabilities, so the data it analyzes will not always be 100% accurate.
 
----
-
-***Related read: [What is the Future of the Real Estate Software Industry?](https://anadea.info/blog/what-is-the-future-of-the-real-estate-software-industry)***
-
----
+{{< advert >}}Related read: [What is the Future of the Real Estate Software Industry?](https://anadea.info/blog/what-is-the-future-of-the-real-estate-software-industry){{< /advert >}}
 
 ## How to use predictive analytics to find the best deal
 
@@ -59,6 +56,7 @@ Anyone who has ever seriously considered the idea of investing their money into 
 Using predictive analysis, you can choose the absolute best location for your investment properties, while not being a massive expert on investing or real estate in the area. Some real estate websites provide you with this data. Mashvisor, a real estate site, gives you a heat map of areas within your chosen city and analyzes the area. Their data helps you select the best neighborhood for your investments into real estate. Heat map analysis is straightforward to understand, as it displays a visual of the data of investment outcomes (not only based on data but also trends and future estimates) - which is better known as predictive analysis.
 
 ![Heatmap](Heatmap.jpg)
+
 <center><sub>Source: <a href="https://www.mashvisor.com/blog/heat-map-analysis-real-estate/" rel="nofollow" target="_blank">Mashvisor</a></sub></center>
 
 Modern technology has made it possible to receive a report of any data one wants in a few seconds. Heat map analysis helps investors find the absolute best neighborhoods, by analyzing real estate metrics such as cash on cash return, property price, rental income, and occupancy rate.
@@ -90,15 +88,12 @@ An investment property calculator, which we have previously named as a rental pr
 This sort of information is vital to know before you make your investment. Predictive analytics helps you narrow in on the most sought after real estate property type and the number of bedrooms within your chosen neighborhood location. Personally, I use real quest express made by CoreLogic which provides quality data that property appraisers use to appraise and predict property values.
 
 ![HomeStandings](HomeStandings.jpg)
+
 <center><sub>Source: <a href="https://express.realquest.com/HomeStandings.aspx" rel="nofollow" target="_blank">HomeStandings</a></sub></center>
 
 However, predictive analytics does not stop at helping you find the most sought after real estate property for you to invest in - it also estimates your future income from the particular rental property you have bought. Whether this is a cap or return rate, it will know. These analytics compare real estate that is already for sale and estimates the investment return they will recoup for their owner and is based on the estimated income, expenses, and occupation rates of the real estate. Using this data, you can make the best decision based on data and information - not on any fortune telling.
 
----
-
-***Related read: [Disrupt Like Zillow: Transforming the Real Estate Industry](https://anadea.info/blog/disrupt-like-zillow-transforming-the-real-estate-industry)***
-
----
+{{< advert >}}Related read: [Disrupt Like Zillow: Transforming the Real Estate Industry](https://anadea.info/blog/disrupt-like-zillow-transforming-the-real-estate-industry){{< /advert >}}
 
 ## Using predictive analysis in real estate investing: benefits
 
@@ -116,11 +111,7 @@ By using predictive analytics, prospective investors can predict which propertie
 
 The goal of the investor is to increase their investment and cash flow so they need to pay attention to the growing popularity of specific demographics. If the most money is to be made in a growing family, then an investor doesn’t have to buy a large family home, but a two or three bedroom apartment for their prospective tenants. Using the analytics, investors can find the most sought after attributes connected to property currently and make the most substantial return on their investment.
 
----
-
-***Related read: [How Big Data Has Transformed the Real Estate Industry](https://anadea.info/blog/how-big-data-has-transformed-the-real-estate-industry)***
-
----
+{{< advert >}}Related read: [How Big Data Has Transformed the Real Estate Industry](https://anadea.info/blog/how-big-data-has-transformed-the-real-estate-industry){{< /advert >}}
 
 ### Tenants targeting
 
@@ -136,15 +127,6 @@ It usually takes about three months to find a rental property to invest in, usin
 
 Agents in the real estate business are essential, especially as they have years worth of knowledge and education regarding tips and tricks in their chosen location of real estate property. Before predictive analytics, it would have been very challenging for an investor to enter into the field without a real estate agent. Using predictive analytics can save you a lot of money and time.
 
----
-
-***Related read: [How to Create a Real Estate Web Platform](https://anadea.info/blog/how-to-create-a-real-estate-web-platform)***
-
----
+{{< advert >}}Related read: [How to Create a Real Estate Web Platform](https://anadea.info/blog/how-to-create-a-real-estate-web-platform){{< /advert >}}
 
 To put it, breaking down the data and analyzing it provides potential real estate investors with a visual, and a detailed picture of the target market location. It also gives these investors an advantage, as they receive current data and estimated trends based on past data to inform their investing decisions.
-
-<br />
-
----
-*This is a guest post by **David Freudenberg.** David Freudenberg is an American businessman and real estate investor who operates in the sunny state of Florida. Predictive Analytics has saved him a ton of time in running CMAs and analyzing neighborhoods to invest in. You may have recognized his company from the popular slogan, “<a href="https://davidbuyshousesflorida.com/" target="_blank">We Buy Houses Florida</a>.”*
