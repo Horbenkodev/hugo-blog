@@ -1,23 +1,24 @@
 ---
 title: Knowledge Management across Agile Project Teams
-publishDate: '2018-02-19T00:00:00Z'
-authors:
-- ehsan-memari
-description: If you happen to own or work for a software enterprise, you possibly
-  have been asked a hundred times if you are agile. Although initially intended to
-  upturn the accessibility of software development teams, in the recent times 'agile'
-  has emerged as the default team-based working model for all enterprises, irrespective
-  of their size, industry and location.
+breadcrumbs: Agile Teams Knowledge Management
+draft: false
+publishDate: 2018-02-19T00:00:00Z
 image: Knowledge_management.jpg
 og_image: Knowledge_management.jpg
+description: If you happen to own or work for a software enterprise, you
+  possibly have been asked a hundred times if you are agile. Although initially
+  intended to upturn the accessibility of software development teams, in the
+  recent times 'agile' has emerged as the default team-based working model for
+  all enterprises, irrespective of their size, industry and location.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - business-analysis-team
 categories:
-- business
-- development
+  - business
+  - development
+industries: []
 ---
 If you happen to own or work for a software enterprise, you possibly have been asked a hundred times if you are agile. Although initially intended to upturn the accessibility of <a href="https://anadea.info/services/custom-software-development" target="_blank">custom software development teams</a>, in the recent times 'agile' has emerged as the default team-based working model for all enterprises, irrespective of their size, industry and location. Nevertheless, agility offers the prospects for a wide-ranging and persistent increase in team productivity and competency.
 
@@ -74,8 +75,3 @@ In such a situation, using a dedicated <a href="https://skyprep.com/boosthq/know
 The digital world is gradually shifting from sluggish "waterfall" practices to agile practices. Agile teams have better understanding of team structure and they comprehend how changing this structure can help benefit the project in the long run. While it seems to be a magical solution for most of the companies, implementing an agile approach without daunting the workforce is no easy feat.
 
 Knowledge management is indispensable for the success of software enterprises. Companies are now handling knowledge in inventive ways to upsurge efficiency. In case of agile software development, cooperation and synchronization rely on the communication, which is essential for success.
-
-<br />
-
----
-*This is a guest post by **Ehsan Memari**. Ehsan is a blogger for <a href="https://skyprep.com/boosthq/" target="_blank">BoostHQ</a>. The leading knowledge sharing platform for organization to share, centralize and discuss internal knowledge. Ehsan is a regular contributor to blog posts related to knowledge sharing, L&D and eLearning.*
