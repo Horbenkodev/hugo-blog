@@ -1,22 +1,24 @@
 ---
-title: 'Online Teaching Platform: Breaking the Barriers of Education'
-publishDate: '2018-10-04T00:00:00Z'
-authors:
-- katie-taylor
-description: Did you know that online training takes 40-60% less time to complete
-  a course than traditional classroom training, and it can increase employee engagement
-  in the workplace by over 18%? While some companies and educational establishments
-  stick to old school, more than 50% of North American establishments have already
-  adopted e-learning in one or the other form.
+title: "Online Teaching Platform: Breaking the Barriers of Education"
+breadcrumbs: Online Teaching Platform Development
+slug: ""
+draft: false
+publishDate: 2018-10-04T00:00:00Z
 image: Online-learning.jpg
 og_image: Online-learning.jpg
+description: Did you know that online training takes 40-60% less time to
+  complete a course than traditional classroom training, and it can increase
+  employee engagement in the workplace by over 18%? While some companies and
+  educational establishments stick to old school, more than 50% of North
+  American establishments have already adopted e-learning in one or the other
+  form.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- elearning
+authors: []
 categories: []
+industries:
+  - elearning
 ---
 Did you know that <a href="https://www.cloudshare.com/blog/virtual-learning-everything-you-need-to-know/" target="_blank">online training takes 40-60% less</a> time to complete a course than traditional classroom training, and it can increase employee engagement in the workplace by over 18%? While some companies and educational establishments stick to old school, more than <a href="https://www.talentlms.com/blog/7-1-elearning-trends-facts-2017/" target="_blank">50% of North American establishments</a> have already adopted e-learning in one or the other form. Anadea is a <a href="https://anadea.info/solutions/e-learning-software-development">eLearning software development company</a> and we can help you to develop your own eLearning App.
 
@@ -45,7 +47,7 @@ Synchronous learning represents live sessions where both parties (learner and tu
 
 On the other hand, asynchronous learning, which is a forte of e-learning, provides a discussion-medium in an asymmetric environment. The learners and tutors log into their individual user accounts and comment on the topics. The tutors provide feedback once they are available. By applying this approach, online training platforms offer a flexibility of submitting the opinions even in a busy life.
 
-> Related article: [How Digital Technology has Changed Modern Education](https://anadea.info/blog/how-digital-technology-has-changed-modern-education)
+{{< advert >}}Related article: [How Digital Technology has Changed Modern Education](https://anadea.info/blog/how-digital-technology-has-changed-modern-education){{< /advert >}}
 
 ### 3. Utilization of teaching aid
 
@@ -59,7 +61,7 @@ Despite much encouragement, hardly a few interactions are made with the students
 
 Progress assessment in conventional learning mainly depends on facial expression and body language of the learners. Whereas, assessment in online learning is purely a figure-based approach, coming through the data recorded by a Learning Management System. The LMS tracks and analyzes the activities like sessions attended, assignments completed, time taken to complete an assignment and scores secured in quizzes, etc. A tutor or a learner can always view his or her graph in real-time and proceed accordingly without waiting for final exam or test.
 
-> Related article: [How to Use the Power of Gamification in e-Learning](https://anadea.info/blog/gamification-in-e-learning)
+{{< advert >}}Related article: [How to Use the Power of Gamification in e-Learning](https://anadea.info/blog/gamification-in-e-learning){{< /advert >}}
 
 ## Breaking the barriers of education with e-learning
 
@@ -67,7 +69,7 @@ Progress assessment in conventional learning mainly depends on facial expression
 
 After going through the comparative advantages, we can now easily point out some crucial barriers that e-learning can break in contrast to the traditional learning. So, let us summarize and point out each of the barriers divided into three major categories: social, administrative and method barriers.
 
-**1. Breaking the social barriers**
+### 1. Breaking the social barriers
  * **Geography is not a constraint anymore**<br />
 Learning has found its home beyond the fortified walls of schools and colleges. Not just that, one does not need to move to a new place to attend the classes anymore. With online virtual classrooms, a tutor in the USA can take classes for the students in the UK.
  * **Building a global community of learners and tutors**<br />
@@ -75,7 +77,7 @@ As online learning breaks the geographical barriers, it also gives a platform to
  * **Encouraging sharing of resources**<br />
 By connecting with each other, learners are encouraged to share their knowledge with each other. They can distribute the learning materials and other corresponding resources among them in a convenient and instant manner.
 
-**2. Breaking the administrative barriers**
+### 2. Breaking the administrative barriers
  * **Synchronous and asynchronous learning**<br />
 Unlike traditional modes, learning is no more dependent on strict timings of schools and colleges. Leaners today are exposed to educational resources for 24x7, and they can attend live classes or pre-corded lectures based on their availability for the same.
  * **Learning beyond the set methods**<br />
@@ -83,7 +85,7 @@ Writing notes and reading giant textbooks is not the only way to gain education.
  * **Real-time tracking of progress**<br />
 Now tutors need not wait for the seasonal exams and unit tests to assess the learning progress. With e-learning tech, they can conduct regular online quizzes and give assignments to assess the progress past completion of each module. It is faster and more effective as compared to traditional pen and paper-based tests and assignments.
 
-**3. Breaking the method barriers**
+### 3. Breaking the method barriers
  * **Create courses in digestible chunks | Micro-learning**<br />
 Digestible chunks mean breaking down the courses into smaller modules that are easier for the brain to grasp. These small modules are accumulated to form a bigger course overall. As a result, the micromodules, which are conceptually related information, are grouped together making a more meaningful and engaging material for the learners.
  * **Set reminders to keep learners on track**<br />
@@ -91,12 +93,6 @@ E-learning offers the options to populate calendar-based courses with assigned d
  * **Go beyond text-based learning | Multimedia**<br />
 A course in general on-boards different learners with dissimilar abilities and grasping strength. A pure text-based learning is not sufficient to teach everyone in the course. To cater to all the kinds of learners, using a variety of content-delivery methods makes sure that learners are engaged and trying to understand things. Online teaching breaks this barrier by including images, graphs, and videos to clarify the concepts.
 
-> Related article: [How Much Does it Cost to Develop an Online Training Platform](https://anadea.info/for-clients/development-time-cost/how-much-does-it-cost-to-develop-an-educational-app)
+{{< advert >}}Related article: [How Much Does it Cost to Develop an Online Training Platform](https://anadea.info/for-clients/development-time-cost/how-much-does-it-cost-to-develop-an-educational-app){{< /advert >}}
 
 Online and traditional learning practices have their own benefits as well as disadvantages. Traditional learning offers a formal enhancement through face-to-face interactions and gives exposure to the school and college life. This article does not aim to prove that online education is superior to classroom learning. In fact, digital learning has become a crucial supplement in classroom learning these days, and even the conventional educational system is improving with it. We just aim at promoting online learning as an alternative where a desired classroom session is not accessible, practical or economical.
-
-
-<br />
-
----
-*This is a guest post by **Katie Taylor.** Katie is a professional blogger, guest writer and Influencer. Currently associated with Pinlearn, an <a href="https://pinlearn.com/" target="_blank">online teaching platform</a>, as a content marketing strategist.*
