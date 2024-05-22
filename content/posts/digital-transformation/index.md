@@ -27,6 +27,8 @@ Or it could be a customer-facing change. Customers everywhere, across almost eve
 
 ![Best quotes on digital transformation: Digital used to be about coding and IT; now it’s becoming a people business, said Mary Kate Loftus, the head of multichannel for retail banking and wealth management at HSBC's U.S. unit.](quote_1.jpeg "Source: American Banker")
 
+<center><small style="font-size: 14px">Source: <a href="https://www.americanbanker.com/news/hsbcs-digital-transformation-its-a-people-business" rel="nofollow" target="_blank">American Banker</a></small></center>
+
 Investments in the customer journey and experience generate top and bottom line ROIs. Customer retention and revenue rates often improve as a consequence of a digital transformation project.
 
 ## What is Digital Transformation?
@@ -93,6 +95,8 @@ Although an internal IT team might start a project with enthusiasm, what happens
 
 ![Best quotes on digital transformation: Companies have too many experts who block innovation. True innovation really comes from perpendicular thinking, said Peter Diamandis, a well-known entrepreneur, physician and founder of more than a dozen space and high-tech companies.](quote_3.jpeg "Source: HuffPost")
 
+<center><small style="font-size: 14px">Source: <a href="https://www.huffpost.com/entry/why-billion-dollar-100-ye_b_2718262" rel="nofollow" target="_blank">HuffPost</a></small></center>
+
 Digital transformation is important, for the long-term success of any company in a competitive market. However, in a fast paced business environment, important tasks can fall victim to urgent ones. When internal IT teams are managing digital transformation, it’s often such a big and challenging project that it is the first at the bottom of any list of tasks, compared to more urgent ones, such as email going down.
 
 Instead, savvy business leaders are entrusting IT partners with a proven expertise in the field of [digital transformation services](https://anadea.info/services) to assess what needs to happen, then implement. Internal stakeholders are appointed at the client-side to manage everything, usually working closely with the business analyst.
@@ -111,6 +115,8 @@ Not every provider is equal, of course. Some have a better reputation than other
 Digital transformation is transforming sectors across the world. Even those many wouldn't imagine, such as industrial, logistics and shipping. Between big data, new cloud and app-based ways of working, AI and machine learning, whether through wholesale transformation or creeping adoption, new ways are replacing outdated methods and processes.
 
 ![Best quotes on digital transformation: You look at marketing: everything that's happening in marketing is digitized. Everything that's happening in finance is digitized. So pretty much every industry, every function in every industry, has a huge element that's driven by information technology. It's no longer discrete, said Satya Nadella, CEO of Microsoft Corporation.](quote_4.jpeg "Source: Quartz")
+
+<center><small style="font-size: 14px">Source: <a href="https://qz.com/172668/heres-where-microsofts-next-ceo-satya-nadella-sees-opportunity/" rel="nofollow" target="_blank">Quartz</a></small></center>
 
 In this next section of our digital transformation guide we look at the impact of digital transformation on the real estate, healthcare and education sectors.
 
