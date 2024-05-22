@@ -1,21 +1,22 @@
 ---
-title: 'Modern App Development: What''s Fresh, What''s Trendy?'
-publishDate: '2016-10-14T00:00:00Z'
-authors: []
-description: Do you know what you are going to do in 10 years' time? How will your
-  music tastes change? What phone will you buy next? What will your future house or
-  children look like? No matter how much data you gather and how closely you analyze
-  it, how many professionals you involve in your research, it is extremely difficult
-  to find out exactly what the future will be like.
+title: "Modern App Development: What's Fresh, What's Trendy?"
+draft: false
+publishDate: 2016-10-14T00:00:00Z
 image: modern-app-development.jpg
 og_image: modern-app-development.jpg
+description: Do you know what you are going to do in 10 years' time? How will
+  your music tastes change? What phone will you buy next? What will your future
+  house or children look like? No matter how much data you gather and how
+  closely you analyze it, how many professionals you involve in your research,
+  it is extremely difficult to find out exactly what the future will be like.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - marketing-team
 categories:
-- business
+  - business
+industries: []
 ---
 Do you know what you are going to do in 10 years' time? How will your music tastes change? What phone will you buy next? What will your future house or children look like? No matter how much data you gather and how closely you analyze it, how many professionals you involve in your research, it is extremely difficult to find out exactly what the future will be like. Who knows what innovation or discovery will be made that will absolutely change the way we perceive life? All we have left is to predict, make guesses and act accordingly.
 
@@ -35,17 +36,17 @@ Such a tight connection of the day-to-day life to technology has seriously influ
 
 Very often new things appear because we want to solve some problems and seek for another way. Here are a few issues that modern app users have to face and would be happy if app developers could offer a solution.
 
-### Issue #1. Space.
+### Issue #1. Space
 
 A serious problem everyone's complaining about (besides short battery life, of course) is the lack of space on their smartphones. This one is closely connected to users' reluctance to download and install an app (especially if it's a one-time use). Here, a few things app development companies can do. One of them is the recently announced by Google App Streaming. A user simply has to tap a link and Google will stream the right parts of the application, so there is no need to install the full version. However, this technology can't be called exactly new as a mobile application company Agawi worked on this technology years ago. It was <a href="https://techcrunch.com/2015/06/18/report-last-year-google-secretly-acquired-agawi-a-specialist-in-streaming-native-mobile-apps/" rel="nofollow" target="_blank">acquired by Google</a> in 2014 and is coming into action only now.
 
 One more solution can be found thanks to ODR (On-Demand Resources). It was released with iOS 9 and allows a user to download a lightweight core of an app on installation. All other parts are further received from the Internet on request. At the moment, ODR is mostly used in games where levels are gradually downloaded as the player progresses, while assets for completed levels are deleted in order to free space. This promising technology is about to spread across all kinds of applications, not only entertaining ones.
 
-### Issue #2. Time.
+### Issue #2. Time
 
 Modern people are always on the go, constantly hurrying somewhere. They suffer from a serious lack of time because of their fast pace of life. No wonder that application development trends change accordingly. In order to save users' time, mobile app developers do not only try to avoid full downloads but attempt to change the nature of notifications. They are no longer simple signposts that tell you to open some application, but are becoming a kind of containers where you can take action. A person no longer needs to open an app to respond to a message, for example. An interactive notification allows users to do it inside itself, which saves a lot of time and battery life as well.
 
-### Issue #3. Isolation.
+### Issue #3. Isolation
 
 Smartphone users currently face a problem of disconnected applications, where the apps on their home screens are like separate rooms with no connection between them. This limits their ability to go beyond the boundaries of individual apps. However, app making companies are working to change this trend by integrating applications with each other.
 
@@ -53,7 +54,7 @@ For instance, Uber has integrated with CityMapper, allowing users to see real-ti
 
 As a result, parent applications and app function bots will reduce the number of icons on our screens and eliminate the need to install multiple apps to view content and take action.
 
-### Issue #4. Mass consumer.
+### Issue #4. Mass consumer
 
 A huge number of smartphone users and the intention to attract as many of them as possible has led to mass produced apps that try to occupy some place in everyone's heart. That's not possible, of course. But with rapid technology development we are now able to apply smart targeting. From now on, getting a message is not as important as where and when it will actually happen. Your application will become much more powerful if it can reach the right person in the right place and at the right time. Integrating with Beacons and relying on geofencing can help you out a lot here.
 
