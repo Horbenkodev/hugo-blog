@@ -31,17 +31,21 @@ With a list of steps wrapped in MetricsCollector, we were able to create a job i
 
 To use MetricsCollector, next should be done:
 
-    bundle exec metrics_collector
+```ruby
+bundle exec metrics_collector
+```
 
 By default, it collects metrics from output of all included gems, generates results in json, csv file formats and besides that, shows results in the console to make it visible in pipeline:
 
-    Cloc total lines: 25000
-    Cloc total files: 600
-    Brakeman errors: 1
-    Brakeman warnings: 2
-    Brakeman ignored warnings: 1
-    Coverage: 82.44
-    Rubycritic score: 66.08
+```ruby
+Cloc total lines: 25000
+Cloc total files: 600
+Brakeman errors: 1
+Brakeman warnings: 2
+Brakeman ignored warnings: 1
+Coverage: 82.44
+Rubycritic score: 66.08
+```
 
 By including MetricsCollector in pipeline as a separate job, we were able to easily check metrics after every minor/major update of the project:
 
@@ -66,11 +70,12 @@ It’s worth mentioning that it can upload metrics only to the first worksheet f
 We’ve used spreadsheet’s official Ruby client so there is not that much of logic for populating worksheet:
 
 
-    # Initialize SpreadSheet service
-    @service = Google::Apis::SheetsV4::SheetsService.new
-    # Send metrics to the next not populated line in worksheet
-    @service.append_spreadsheet_value(@spreadsheet,'1:1', @request_body, value_input_option: 'USER_ENTERED' )
-
+```ruby
+# Initialize SpreadSheet service
+@service = Google::Apis::SheetsV4::SheetsService.new
+# Send metrics to the next not populated line in worksheet
+@service.append_spreadsheet_value(@spreadsheet,'1:1', @request_body, value_input_option: 'USER_ENTERED' )
+```
 
 Since we plan to expand the gem in future, we have encapsulated gem handlers and file generators from business logic, so we won’t have to update old logic and could focus on implementing new sorts of metrics/output options.
 
