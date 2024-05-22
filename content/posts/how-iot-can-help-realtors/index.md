@@ -1,22 +1,25 @@
 ---
-title: 'Secret Life of Talking Houses: How IoT Can Help Realtors'
-publishDate: '2019-09-12T00:00:00Z'
-authors: []
-description: The Internet of Things, also known as Connected Devices, are making houses
-  talk. Homes are advancing into sci-fi imagined futures. What was fiction, such as
-  pre-set and remote control for heating, lighting and even food ordering, is becoming
-  reality.
+title: "Secret Life of Talking Houses: How IoT Can Help Realtors"
+slug: how-iot-can-help-realtors
+draft: false
+publishDate: 2019-09-12T00:00:00Z
 image: iot-in-real-estate.jpg
 og_image: iot-in-real-estate.jpg
+description: The Internet of Things, also known as Connected Devices, are making
+  houses talk. Homes are advancing into sci-fi imagined futures. What was
+  fiction, such as pre-set and remote control for heating, lighting and even
+  food ordering, is becoming reality.
 promote:
   promote: false
 top: false
-draft: true
+authors:
+  - daria-lopukhina
+categories:
+  - trends
 industries:
-- real-estate
-categories: []
+  - real-estate
 ---
-***The Internet of Things, also known as Connected Devices, are making houses talk. With the advent of IoT in real estate, homes are advancing into sci-fi imagined futures. What was fiction, such as pre-set and remote control for heating, lighting and even food ordering, is becoming reality.***
+The Internet of Things, also known as Connected Devices, are making houses talk. With the advent of IoT in real estate, homes are advancing into sci-fi imagined futures. What was fiction, such as pre-set and remote control for heating, lighting and even food ordering, is becoming reality.
 
 Can connected devices help realtors and real estate agents and property owners and developers?
 
@@ -76,9 +79,3 @@ There are many advantages of beacons for real estate. Beacons can be used to giv
 ## The future of IoT in real estate
 
 With more IoT devices finding a home in real estate, we can expect homes to get smarter, easier to run and more energy efficient. Realtors won’t need to work as hard, when they've got IoT support, but they will need to ensure homes are up to the standard that many new buyers expect. IoT-enabled software applications also open up new ways for realtors and property managers to improve the buying experience.
-
-
-<br />
-
----
-*About author: Dariya Lopukhina is a technology enthusiast and writer working for Anadea, where we leverage our 18+ years expertise in [real estate software development services](https://anadea.info/solutions/real-estate-software) to harness innovative technologies like IoT, healthcare and other industries. Found out more about her on <a href="https://www.linkedin.com/in/dariyalopukhina/" rel="nofollow" target="_blank">LinkedIn</a>.*
