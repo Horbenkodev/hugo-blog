@@ -1,7 +1,9 @@
 ---
 title: Our experience with Three.js library
+breadcrumbs: Three.js library
+slug: three-js-library
 draft: false
-publishDate: 2022-08-24T00:00:00Z
+publishDate: 2022-08-24T00:00:00.000Z
 image: sharks.jpg
 og_image: sharks.jpg
 description: Some experiments with Three.js library. 3D loading, creating
