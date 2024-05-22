@@ -2,7 +2,7 @@
 title: MetricsCollector for Ruby on Rails
 slug: metrics-collector
 draft: false
-publishDate: 2022-08-04T00:00:00Z
+publishDate: 2022-08-04T00:00:00.000Z
 image: cacti.jpg
 og_image: cacti.jpg
 description: This article will introduce you the Ruby tool that we have built at
@@ -17,9 +17,9 @@ categories:
   - ruby-on-rails
 industries: []
 ---
-From one point, we've started collecting some metrics from our projects in <a href="https://anadea.info/services/web-development/ruby-on-rails-development" target="_blank">Ruby on Rails</a> so that we could see the dynamic and statistics, because some problems catch your attention only when you can see them right in front of your eyes.
+## Metrics Collector Overview
 
-![Metrics Collector](MetricsCollector.png)
+From one point, we've started collecting some metrics from our projects in <a href="https://anadea.info/services/web-development/ruby-on-rails-development" target="_blank">Ruby on Rails</a> so that we could see the dynamic and statistics, because some problems catch your attention only when you can see them right in front of your eyes.
 
 Above mentioned metrics included __percent of test coverage__ provided by _simplecov_. With it, we could react in case of sharp decline because we were always trying to have at least 80% code to be covered with tests. Second metric we decided to look into were __vulnerabilities, warnings and deprecations from the brakeman__. That’s how we wouldn't miss the gaps in our projects. Furthermore, to follow best practices, score from _rubycritic_ was also included.
 
@@ -31,17 +31,17 @@ With a list of steps wrapped in MetricsCollector, we were able to create a job i
 
 To use MetricsCollector, next should be done:
 
-  bundle exec metrics_collector
+    bundle exec metrics_collector
 
 By default, it collects metrics from output of all included gems, generates results in json, csv file formats and besides that, shows results in the console to make it visible in pipeline:
 
-Cloc total lines: 25000<br />
-Cloc total files: 600<br />
-Brakeman errors: 1<br />
-Brakeman warnings: 2<br />
-Brakeman ignored warnings: 1<br />
-Coverage: 82.44<br />
-Rubycritic score: 66.08
+    Cloc total lines: 25000
+    Cloc total files: 600
+    Brakeman errors: 1
+    Brakeman warnings: 2
+    Brakeman ignored warnings: 1
+    Coverage: 82.44
+    Rubycritic score: 66.08
 
 By including MetricsCollector in pipeline as a separate job, we were able to easily check metrics after every minor/major update of the project:
 
@@ -65,16 +65,18 @@ It’s worth mentioning that it can upload metrics only to the first worksheet f
 
 We’ve used spreadsheet’s official Ruby client so there is not that much of logic for populating worksheet:
 
-```
-  # Initialize SpreadSheet service
-  @service = Google::Apis::SheetsV4::SheetsService.new
-  # Send metrics to the next not populated line in worksheet
-@service.append_spreadsheet_value(@spreadsheet,'1:1', @request_body, value_input_option: 'USER_ENTERED' )
-```
+
+    # Initialize SpreadSheet service
+    @service = Google::Apis::SheetsV4::SheetsService.new
+    # Send metrics to the next not populated line in worksheet
+    @service.append_spreadsheet_value(@spreadsheet,'1:1', @request_body, value_input_option: 'USER_ENTERED' )
+
 
 Since we plan to expand the gem in future, we have encapsulated gem handlers and file generators from business logic, so we won’t have to update old logic and could focus on implementing new sorts of metrics/output options.
 
 ![MetricsCollector_5](MetricsCollector_5.png)
+
+## Summary
 
 As a result, we have automated repetitive actions, saved a lot of time from collecting all metrics manually and made the tool easily expandable.
 
