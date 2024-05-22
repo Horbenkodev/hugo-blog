@@ -1,21 +1,25 @@
 ---
-title: 'Kotlin: How to Make a Java Developer''s Life Easier?'
-publishDate: '2016-12-07T00:00:00Z'
-authors: []
-description: On February 15, 2016 JetBrains company released v1.0 of Kotlin. Let's
-  discuss why Kotlin is good and if there are any drawbacks of using this language,
-  both for developers and for entrepreneurs.
+title: "Kotlin: How to Make a Java Developer's Life Easier?"
+breadcrumbs: Kotlin Overview
+draft: false
+publishDate: 2016-12-07T00:00:00Z
 image: Kotlin-for-java-developers.jpg
-og_image: Kotlin.jpg
+og_image: Kotlin-for-java-developers.jpg
+description: On February 15, 2016 JetBrains company released v1.0 of Kotlin.
+  Let's discuss why Kotlin is good and if there are any drawbacks of using this
+  language, both for developers and for entrepreneurs.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - marketing-team
 categories:
-- development
+  - development
+industries: []
 ---
 On February 15, 2016 JetBrains company released version 1.0 of <a href="https://kotlinlang.org/" target="_blank">Kotlin</a>, a programming language that has been in development for about 5 years. This language works on JVM. We've already talked about what <a href="https://anadea.info/services/web-development/java">Java development</a> is with our developer Alexander Mihalchenko. Today, we met again with Alexander, this time to discuss Kotlin - why Kotlin is good and if there are any drawbacks of using this language, both for developers and for entrepreneurs.
+
+## Interview with Alex
 
 **Hello, Alex.**<br>
 Hi to you too.
