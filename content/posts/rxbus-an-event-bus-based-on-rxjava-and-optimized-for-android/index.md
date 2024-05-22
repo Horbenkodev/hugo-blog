@@ -1,23 +1,23 @@
 ---
 title: RxBus - an Event Bus Based on RxJava and Optimized for Android
-publishDate: '2017-02-13T00:00:00Z'
-authors: []
-description: Event bus is a great solution that allows objects with different lifecycles
-  and located in different layers of hierarchy to communicate. I venture to suggest
-  that if you have an event bus in your Android application, most likely you use libraries
-  like Otto or EventBus. However, Otto from Square was officially deprecated.
+draft: false
+publishDate: 2017-02-13T00:00:00Z
 image: Event-bus.jpg
 og_image: Event-bus.png
+description: Event bus is a great solution that allows objects with different
+  lifecycles and located in different layers of hierarchy to communicate. I
+  venture to suggest that if you have an event bus in your Android application,
+  most likely you use libraries like Otto or EventBus. However, Otto from Square
+  was officially deprecated.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - mobile-development-team
 categories:
-- development
+  - development
+industries: []
 ---
-## What it's all about
-
 Event bus is a great solution that allows objects with different lifecycles and located in different layers of hierarchy to communicate.
 
 I venture to suggest that if you have an event bus in your Android application, most likely you use libraries like <a href="https://github.com/square/otto" rel="nofollow" target="_blank">Otto</a> or <a href="https://github.com/greenrobot/EventBus" rel="nofollow" target="_blank">EventBus</a>.
