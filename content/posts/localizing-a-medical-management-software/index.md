@@ -1,26 +1,30 @@
 ---
-title: Localizing a Medical Management Software
-publishDate: '2019-05-08T00:00:00Z'
-authors:
-- bernadine-racoma
-description: Medical software localization is a delicate task. It's not something
-  that can be delegated to just anyone who knows basic translation or someone fluent
-  in the source and target languages. Mistakes can create inefficiencies or lead to
-  serious consequences. It needs meticulous attention to details and a thoughtfully
-  planned process.
+ceoTitle: ""
+title: Localizing Medical Management Software
+slug: localizing-a-medical-management-software
+draft: false
+publishDate: 2019-05-08T00:00:00Z
 image: Localizing_medical_software.jpg
 og_image: Localizing-medical-software.jpg
+description: Medical software localization is a delicate task. It's not
+  something that can be delegated to just anyone who knows basic translation or
+  someone fluent in the source and target languages. Mistakes can create
+  inefficiencies or lead to serious consequences. It needs meticulous attention
+  to details and a thoughtfully planned process.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- healthcare
+authors:
+  - web-development-team
 categories: []
+industries:
+  - healthcare
 ---
 Medical software localization is a delicate task. It's not something that can be delegated to just anyone who knows basic translation or someone fluent in the source and target languages. Mistakes can create inefficiencies or lead to serious consequences. It needs meticulous attention to details and a thoughtfully planned process.
 
 Medical translators and translation team leaders can pick a few great ideas from the following pointers and reminders.
+
+## How to localize medical management software
 
 ### 1. Plan the project carefully
 
@@ -39,7 +43,7 @@ This may sound like a generic and no-brainer reminder, but it's worth repeating 
   * conversion of the final output to the expected format,
   * submission to client.
 
-***Related read: [How to Develop a Professional Medical App for Doctors](https://anadea.info/blog/how-to-develop-a-professional-medical-app-for-doctors)***
+{{< advert >}}Related read: [How to Develop a Professional Medical App for Doctors](https://anadea.info/blog/how-to-develop-a-professional-medical-app-for-doctors){{< /advert >}}
 
 ### 2. Highlight the parts of the software that should be localized
 
@@ -66,7 +70,7 @@ There should at least be two stages of review or quality control for the localiz
 
 In some cases, software testing may be undertaken by the localization service provider. Not all language service providers can do this, but there are those that go the extra mile as they provide software localization services that include software evaluation to make sure that the changes implemented on the software's code do not create technical issues.
 
-***Related read: [Testing Localization With Cucumber](https://anadea.info/blog/testing-localization-with-cucumber)***
+{{< advert >}}Related read: [Testing Localization With Cucumber](https://anadea.info/blog/testing-localization-with-cucumber){{< /advert >}}
 
 ### 5. Designate an experienced project manager and expert quality assurance (QA) supervisors
 
@@ -75,8 +79,3 @@ As mentioned, medical software localization should not be entrusted to basic tra
 What's important is to have a project manager and QA supervisors who are experienced on the job. They have the primary responsibility of ensuring that the resulting translations are contextually precise and with optimum brevity. They are responsible in making sure that the words used are what medical professionals use most often.
 
 Medical software localization must result in accurate translations, appropriate changes in multimedia features, and a final output that matches a client's expectations. As such, the project should be meticulously planned and undertaken in close coordination with the client as much as possible. It should be led by an experienced project manager and subjected to rigorous quality control.
-
-<br />
-
----
-*This is a guest post by **Bernadine Racoma.** Bernadine is a content writer for Day Translations, a global translation company and a <a href="https://www.daytranslations.com/localization-services/" target="_blank">software localization services</a> provider. She travels extensively and uses her vast corporate and cultural experiences to create interesting and factual blogs.*
