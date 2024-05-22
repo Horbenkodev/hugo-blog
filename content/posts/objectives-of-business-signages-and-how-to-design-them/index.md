@@ -1,21 +1,22 @@
 ---
 title: Objectives of Business Signages and How to Design Them
-publishDate: '2018-04-06T00:00:00Z'
-authors:
-- arlene-jessica
-description: Businesses gain customer popularity because of the quality of the product
-  or service that they provide. However, how do they gain customers in the first place?
-  Well, you can definitely start brainstorming for designs because a signage is what
-  you'll be needing to lure in customers from all over the Internet.
+draft: false
+publishDate: 2018-04-06T00:00:00Z
 image: Braning.jpg
 og_image: Braning.jpg
+description: Businesses gain customer popularity because of the quality of the
+  product or service that they provide. However, how do they gain customers in
+  the first place? Well, you can definitely start brainstorming for designs
+  because a signage is what you'll be needing to lure in customers from all over
+  the Internet.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - ui-ux-design-team
 categories:
-- design
+  - design
+industries: []
 ---
 Businesses gain customer popularity because of the quality of the product or service that they provide. However, how do they gain customers in the first place? Well, you can definitely start brainstorming for designs because a signage is what you'll be needing to lure in customers from all over the Internet.
 
@@ -86,14 +87,14 @@ Here are the fonts that are commonly used for online logos:
 
 ## Bottom Line
 
-#### Pros:
+### Pros
 
 * Inexpensive and long-term advertising
 * Catches customer attention easily
 * Can easily be searched online
 * Can quickly be shared with potential buyers
 
-#### Cons
+### Cons
 
 * Some ads require on-the-spot payment
 * Could be used for other purposes without proper permission
@@ -102,8 +103,3 @@ Here are the fonts that are commonly used for online logos:
 Online signages are effective for companies who sell services or products, whether or not they have a physical store. However, other consumers prefer that a location is present to ensure the safety of their purchases and their sensitive personal information.
 
 To sum it up, business signages are good for business whether they're online or physical. Your company will gain a lot of exposures through an inexpensive form of marketing. Should you need help coming up with ideas for the design, the internet is definitely a place to start.
-
-<br />
-
----
-*This is a guest post by **Arlene Jessica.** Arlene is a small business entreprenuer and writer.*
