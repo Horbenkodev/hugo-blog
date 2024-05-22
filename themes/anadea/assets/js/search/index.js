@@ -1,15 +1,17 @@
 import Fuse from 'fuse.js';
 import { postCardHTML, noResultHTML, resetHTML } from './_templates';
+import { renderPagination } from './paginator';
 
+const PAGINATE = 12;
 const data = fetch('/index.json', { cache: 'force-cache' })
   .then((response) => response.json())
   .then((data) => {
+    window.pagination.totalPages = data.length;
     return data;
   })
   .catch((error) => {
     console.error('Error fetching data:', error);
   });
-
 const queryString = window.location.search;
 const params = new URLSearchParams(queryString);
 const token = params.get('token') || '';
@@ -27,6 +29,7 @@ const fuseOptions = {
 const result = data.then((json) => {
   const fuse = new Fuse(json, fuseOptions);
   const searchPattern = { $or: [{ title: token }, { categories }, { industries }] };
+
   return fuse.search(searchPattern);
 });
 
@@ -41,7 +44,13 @@ document.addEventListener('DOMContentLoaded', () => {
   industryField.value = industries;
 
   result.then((collection) => {
-    const itemList = collection.map(({ item }) => postCardHTML(item)).join('');
+    renderPagination(collection.length, PAGINATE);
+
+    const currentPage = parseInt(params.get('page')) || 1;
+    const startIndex = (currentPage - 1) * PAGINATE;
+    const paginatedItems = collection.slice(startIndex, startIndex + PAGINATE);
+
+    const itemList = paginatedItems.map(({ item }) => postCardHTML(item)).join('');
 
     if (itemList.length > 0) {
       const postFeed = document.createElement('div');

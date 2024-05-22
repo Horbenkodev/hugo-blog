@@ -1,6 +1,5 @@
 {{- with .Paginator }}
   {{- if gt .TotalPages 1 }}
-    {{- $currentPageNumber := .PageNumber }}
 
     <nav aria-label="pagination" class="pagination">
       <ul class="pagination__list">
@@ -44,7 +43,7 @@
         {{- range $k := seq $start $end }}
           {{- if eq $.Paginator.PageNumber $k }}
             <li class="pagination__item active">
-              <a aria-current="page" aria-label="Page {{ $k }}" class="pagination__link" role="button">{{ $k }}</a>
+              <a aria-current="true" aria-label="Page {{ $k }}" class="pagination__link" role="button">{{ $k }}</a>
             </li>
           {{- else }}
             <li class="pagination__item">
@@ -83,7 +82,7 @@
           </li>
         {{- else }}
           <li class="pagination__item disabled">
-            <a aria-disabled="true" aria-label="Next" class="pagination__link pagination__link--next" role="button" tabindex="-1">
+            <a href="" aria-disabled="true" aria-label="Next" class="pagination__link pagination__link--next" role="button" tabindex="-1">
               <span aria-hidden="true">Next&nbsp;></span>
             </a>
           </li>
