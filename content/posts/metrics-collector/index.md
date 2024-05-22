@@ -1,24 +1,25 @@
 ---
 title: MetricsCollector for Ruby on Rails
-publishDate: '2022-08-04T00:00:00Z'
-authors:
-- danyil-baltaksa
-description: This article will introduce you the Ruby tool that we have built at Anadea
-  to automate some repetitive processes.
+slug: metrics-collector
+draft: false
+publishDate: 2022-08-04T00:00:00Z
 image: cacti.jpg
 og_image: cacti.jpg
+description: This article will introduce you the Ruby tool that we have built at
+  Anadea to automate some repetitive processes.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - danyil-baltaksa
 categories:
-- development
-- ruby-on-rails
+  - development
+  - ruby-on-rails
+industries: []
 ---
-![Metrics Collector](MetricsCollector.png)
-
 From one point, we've started collecting some metrics from our projects in <a href="https://anadea.info/services/web-development/ruby-on-rails-development" target="_blank">Ruby on Rails</a> so that we could see the dynamic and statistics, because some problems catch your attention only when you can see them right in front of your eyes.
+
+![Metrics Collector](MetricsCollector.png)
 
 Above mentioned metrics included __percent of test coverage__ provided by _simplecov_. With it, we could react in case of sharp decline because we were always trying to have at least 80% code to be covered with tests. Second metric we decided to look into were __vulnerabilities, warnings and deprecations from the brakeman__. That’s how we wouldn't miss the gaps in our projects. Furthermore, to follow best practices, score from _rubycritic_ was also included.
 
@@ -64,10 +65,12 @@ It’s worth mentioning that it can upload metrics only to the first worksheet f
 
 We’ve used spreadsheet’s official Ruby client so there is not that much of logic for populating worksheet:
 
+```
   # Initialize SpreadSheet service
   @service = Google::Apis::SheetsV4::SheetsService.new
   # Send metrics to the next not populated line in worksheet
-  @service.append_spreadsheet_value(@spreadsheet,'1:1', @request_body, value_input_option: 'USER_ENTERED' )
+@service.append_spreadsheet_value(@spreadsheet,'1:1', @request_body, value_input_option: 'USER_ENTERED' )
+```
 
 Since we plan to expand the gem in future, we have encapsulated gem handlers and file generators from business logic, so we won’t have to update old logic and could focus on implementing new sorts of metrics/output options.
 
