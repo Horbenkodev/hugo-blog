@@ -1,22 +1,26 @@
 ---
-title: 'Sports Apps: Turn Your Phone Into a Personal Coach'
-publishDate: '2017-04-04T00:00:00Z'
-authors: []
-description: 'We live in the decade of applications. Take a look around: apps are
-  everywhere! You have your weather widget, your email client, your messenger, photo
-  app, etc. There are apps for musicians, artists, directors, comic book or movie
-  fans and, of course, apps for sports lovers. Actually, sports apps is one of the
-  fastest growing app categories. Let''s figure out why they have become so popular
-  recently.'
+title: "Sports Apps: Turn Your Phone Into a Personal Coach"
+breadcrumbs: Types of Sports Apps
+slug: ""
+draft: false
+publishDate: 2017-04-04T00:00:00.000Z
 image: sports_apps.jpg
 og_image: sports_apps.jpg
+description: "We live in the decade of applications. Take a look around: apps
+  are everywhere! You have your weather widget, your email client, your
+  messenger, photo app, etc. There are apps for musicians, artists, directors,
+  comic book or movie fans and, of course, apps for sports lovers. Actually,
+  sports apps is one of the fastest growing app categories. Let's figure out why
+  they have become so popular recently."
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - mobile-development-team
 categories:
-- business
+  - business
+industries:
+  - sports
 ---
 Sports enthusiasts, athletes, and coaches alike have all come to rely on sports apps for a variety of reasons. Whether it's tracking fitness goals, staying up-to-date on live game scores, or accessing training regimens, sports apps have revolutionized the way we experience and engage with sports. As a result, the sports apps market has been booming, and is projected to be worth a whopping $26 billion by 2025! To stay ahead of the game, businesses and organizations are turning to <a href="https://anadea.info/solutions/sports-app-development" target="_blank">custom sports app development</a> to create unique and personalized solutions that cater to their specific needs. So, in this article, we'll explore the exciting benefits of custom sports app development, and how it can help companies stand out in the ever-growing sports apps market.
 
@@ -44,7 +48,7 @@ Applications like this use a simple server where all videos are stored. They als
 
 **Team management apps** are somewhat similar to the previous types. A sports team app allows users to find teammates, watch their activity, set up training schedule, choose venues and events to jump in. Such apps also keep story of all games and memorable moments of your team. A nice tool to raise your team spirit! We've recently developed a new [sports team management app](https://anadea.info/projects/online-platform-for-team-sports), check it out in our portfolio. It's awesome, really.
 
-{{< ctabutton href="https://anadea.info/projects#sports" >}}More Sports Projects{{< /ctabutton >}}
+{{< advert >}}Find more sports projects <a href="https://anadea.info/projects#sports">here</a>{{< /advert >}}
 
 All apps with social features look like small pieces of a big pie. I guess, you already know what I'm aimimg at: **social networks for sports**. The idea of creating a sports connection app is not new and there are some existing applications of that kind. However, social networks never get old. You can experiment with the design, features or something else - just make sure you do it better than your predecessors. A sports network app can put together booking and coaching apps, provide interactive map with sport events, shops and places for training and so on.
 
@@ -52,4 +56,4 @@ All apps with social features look like small pieces of a big pie. I guess, you 
 
 That's it for sport applications. As you can see, they continue to get bigger and stronger, just like their users. Wearable devices became tightly associated with sport and they continue to evolve in this direction. Sooner or later they will be able to track all user's activities, including swimming and barbell exercises. Integration of new technologies such as neural networks and virtual reality will also introduce huge improvements and we just can't wait for them!
 
-If you have a great idea and look for sports app developers to bring it to life, feel free to drop us a message. We would be happy to help you out!
+If you have a great idea and look for sports app developers to bring it to life, feel free to [drop us a message](https://anadea.info/contacts). We would be happy to help you out!
