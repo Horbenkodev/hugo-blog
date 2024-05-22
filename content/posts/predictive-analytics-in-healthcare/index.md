@@ -1,46 +1,34 @@
 ---
-title: 'Predictive Analytics in Healthcare: Improving Efficiency'
-publishDate: '2019-09-27T00:00:00Z'
-authors:
-- kimberly-grimms
-description: The healthcare industry is one of the multi-dimensional industries in
-  the world. It caters to many services, including prevention, diagnosis, and treatment
-  of various diseases or impairments in human beings. Health experts and professionals
-  have spent years (decades, even) looking for ways to continuously develop operational
-  efficiency in healthcare.
+ceoTitle: " Predictive Analytics in Healthcare: Improving Efficiency"
+title: " Predictive Analytics in Healthcare: Improving Operational Efficiency
+  with Data-Driven IT Strategy"
+breadcrumbs: "Predictive Analytics in Healthcare: Improving Operational Efficiency"
+slug: predictive-analytics-in-healthcare
+draft: false
+publishDate: 2019-09-27T00:00:00Z
 image: Predictive-analytics-in-healthcare.jpg
 og_image: Predictive-analytics-in-healthcare.jpg
+description: The healthcare industry is one of the multi-dimensional industries
+  in the world. It caters to many services, including prevention, diagnosis, and
+  treatment of various diseases or impairments in human beings. Health experts
+  and professionals have spent years (decades, even) looking for ways to
+  continuously develop operational efficiency in healthcare.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- healthcare
+authors:
+  - ai-ml-team
 categories:
-- machine-learning
+  - machine-learning
+industries:
+  - healthcare
 ---
-Updated on 10 September, 2021.
-
 The healthcare industry is one of the multi-dimensional industries in the world. It caters to many services, including prevention, diagnosis, and treatment of various diseases or impairments in human beings. Health experts and professionals have spent years (decades, even) looking for ways to continuously develop operational efficiency in healthcare.
 
 Like any other industry, healthcare relies heavily on data to come up with the right treatment for their patients, discover a new disease or illness and how to prevent it from spreading. This is because decisions in healthcare are data-driven.
 
 Healthcare is home to a huge amount of data, so it’s no surprise that technology is now used to gather and help professionals analyze information and predict possible outcomes. After all, <a href="https://www.physicianleaders.org/news/predictive-analytics-health-care-opportunity-risk" target="_blank">according to Samuel Greengard</a> of the American Association of Physician Leadership, “Medicine has always revolved around probabilities.”
 
-<h2>Table of contents</h2>
-<ul>
- <li><a href="#method">This method is called predictive analysis</a></li>
- <li><a href="#predictive-analytics-healthcare">What is predictive analytics in healthcare?</a>
- <li><a href="#cases">Predictive analytics in healthcare cases</a></li>
- <li><a href="#help-healthcare">How can predictive analytics help the healthcare industry?</a></li>
- <ul>
-  <li><a href="#healthcare-improvement">Overall healthcare improvement</a></li>
-  <li><a href="#patient-centric-improvements">Patient-centric improvements</a></li>
-  <li><a href="#discoveries">New discoveries</a></li>
-  <li><a href="#service-improvement">Service improvement</a></li>
- </ul>
-
-<a name="method"></a>
 ## This method is called predictive analysis
 
 <a href="https://www.sas.com/en_ph/insights/analytics/predictive-analytics.html" target="_blank">Predictive analysis</a> uses “Big Data”, statistical algorithms and machine learning techniques to identify the likelihood of future outcomes based on historical data.
@@ -54,16 +42,13 @@ This method is used by many industries, like banking, finance, and <a href="http
 
 Predictive analytics is a tool that estimates the likelihood of a future outcome based on patterns in the historical data. Healthcare stakeholders can use such predictions to provide the best possible care for their patients. For example, its applications are the most significant in emergency care, surgery and intensive care, where the outcome of a patient is directly related to the quick reaction and precise decision making of the care provider.
 
-<a name="cases"></a>
 ## Predictive analytics in healthcare cases
 
 Here you can find a few examples of use of predictive analytics at different stages of care for patient:
 
-* Diagnosis: predictive analytics has been used to predict malignant mesothelioma in a patient cohort. Patients diagnosed early can start treatment immediately, improving chances of survival.
-* Prognosis: researchers used predictive analytics on physiological data from patients with congestive heart failure to foresee which patients are at higher risk of readmission after a hospital stay. Using these predictions physicians could implement early interventions.
-* Treatment: clinicians have used predictive analytics to identify the most efficient treatment course for chronic pain patients.
-
-<a name="help-healthcare"></a>
+* **Diagnosis:** predictive analytics has been used to predict malignant mesothelioma in a patient cohort. Patients diagnosed early can start treatment immediately, improving chances of survival.
+* **Prognosis:** researchers used predictive analytics on physiological data from patients with congestive heart failure to foresee which patients are at higher risk of readmission after a hospital stay. Using these predictions physicians could implement early interventions.
+* **Treatment:** clinicians have used predictive analytics to identify the most efficient treatment course for chronic pain patients.
 
 ## How can predictive analytics help the healthcare industry?
 
@@ -71,23 +56,18 @@ Let’s get down to the basics, first. What is healthcare’s Big Data? Big Data
 
 Back in the day, all medical records were done in the traditional way of pen and paper. But with the advancement of technology, these data are now digitized and called “<a href="https://anadea.info/solutions/medical-app-development/emr-ehr-development" target="_blank">Electronic Health Records</a>” or EHR.
 
----
-
-*Related read:* ***[Developing Custom EMR in Practice](https://anadea.info/blog/development-of-custom-emr-in-practice)***
-
----
-
-![Benefits of predictive analytics in healthcare](Benefits-of-predictive-analytics-in-healthcare.jpg)
+{{< advert >}}Related read:* ***[Developing Custom EMR in Practice](https://anadea.info/blog/development-of-custom-emr-in-practice){{< /advert >}}
 
 So how can this data help the healthcare industry through predictive analytics?
 
-<a name="healthcare-improvement"></a>
+![Benefits of predictive analytics in healthcare](Benefits-of-predictive-analytics-in-healthcare.jpg)
+
 ### Overall healthcare improvement
 
 Data gathered from these medical records are used primarily to improve the efficiency in healthcare. The medical field has always revolved around probabilities. Past data on many patients are used collectively to improve the quality, service efficiency, and healthcare costs. At the same time, they help avoid medical errors in the future.
 
 Using the right analytics system, the data gathered can help medical experts and professionals make informed decisions on various factors for their patients’ needs.
-<a name="patient-centric-improvements"></a>
+
 ### Patient-centric improvements
 
 With the digitized medical records of medical patients, it would be easier for doctors and patients to access all the needed data during a medical check-up or hospitalization. This way, the diagnosis and treatment for the patient will become more accurate, considering that the doctor has access to the patient’s complete medical records.
@@ -102,12 +82,8 @@ When everything was still done with pen and paper, medical professionals would a
 
 Data are now read faster, making it easier for <a href="https://www.designrush.com/agency/mobile-app-design-development" target="_blank">top health and fitness app developers</a> to create data-driven healthcare solutions such as new medications and treatments, and avoid preventable deaths. Data can also help in discovering new diseases, to keep them from spreading.
 
----
+{{< advert >}}Related read:* ***[Digital Healthcare: A New Approach to Care Coordination](https://anadea.info/blog/digital-healthcare-a-new-approach-to-care-coordination){{< /advert >}}
 
-*Related read:* ***[Digital Healthcare: A New Approach to Care Coordination](https://anadea.info/blog/digital-healthcare-a-new-approach-to-care-coordination)***
-
----
-<a name="service-improvement"></a>
 ### Service improvement
 
 While predictive analytics helps improve the health and welfare of patients, it can also help healthcare organizations improve their operational management. Through big data and predictive analytics, organizations are provided with timely insights and predictions that can help them prepare for an upcoming event. For example, if the data had read that more nurses would be needed in the emergency room by next month, the organization can do just that.
@@ -124,11 +100,7 @@ Data from predictive analytics should never be used in place of an actual prescr
 
 Data should also not be used to undermine the value of medical professionals. With the rapid growth of data in the medical field, predictive analytics should serve as an assistive tool for physicians, to help them arrive at the best possible outcomes. The challenge for doctors today is to combine traditional patient care with the data captured by the healthcare analytics.
 
----
-
-*Related read:* ***[How New Healthcare Tech is Shaping Proactive Treatment](https://anadea.info/blog/how-the-next-generation-of-healthcare-tech-is-shaping-proactive-treatment)***
-
----
+{{< advert >}}Related read:* ***[How New Healthcare Tech is Shaping Proactive Treatment](https://anadea.info/blog/how-the-next-generation-of-healthcare-tech-is-shaping-proactive-treatment){{< /advert >}}
 
 “Doctors are increasingly finding they need to continually evolve their computing skills as technology systems become more sophisticated and are linked with the ability to read and interpret information such as pathology reports from digital sources,” <a href="https://www2.deloitte.com/us/en/insights/topics/analytics/predictive-analytics-health-care-value-risks.html" target="_blank">a Deloitte study revealed</a>.
 
@@ -137,9 +109,3 @@ Medical organizations today have acquired various predictive analytics software 
 Some people might think that such information isn’t really necessary in a field full of experts and professionals. Predictive analytics, however, play a critical role in the improvement of overall healthcare services and facilities by providing data and information.
 
 Ultimately, these can help professionals come up with data-driven decisions and strategies quicker and more accurately for the benefit of their patients.
-
-
-<br />
-
----
-*This is a guest post by **Kimberly Grimms.** Kimberly a futurist who spends most of her time monitoring social behavior in search of new consumer trends. She uses the information to create viral and useful content as part of the new media strategy. She is interested in technology, market behavior, new media, environment, sustainability, futuristic scenarios, and businesses.*
