@@ -5,7 +5,7 @@ title: " Predictive Analytics in Healthcare: Improving Operational Efficiency
 breadcrumbs: "Predictive Analytics in Healthcare: Improving Operational Efficiency"
 slug: predictive-analytics-in-healthcare
 draft: false
-publishDate: 2019-09-27T00:00:00Z
+publishDate: 2019-09-27T00:00:00.000Z
 image: Predictive-analytics-in-healthcare.jpg
 og_image: Predictive-analytics-in-healthcare.jpg
 description: The healthcare industry is one of the multi-dimensional industries
@@ -37,7 +37,6 @@ This method is used by many industries, like banking, finance, and <a href="http
 
 <a href="https://www.soa.org/globalassets/assets/Files/programs/predictive-analytics/2017-health-care-trend.pdf" target="_blank">According to the Society of Actuaries</a>, around 93 percent of health payers and providers believe that predictive analysis plays an important role in the future of their business.
 
-<a name="predictive-analytics-healthcare"></a>
 ## What is predictive analytics in healthcare?
 
 Predictive analytics is a tool that estimates the likelihood of a future outcome based on patterns in the historical data. Healthcare stakeholders can use such predictions to provide the best possible care for their patients. For example, its applications are the most significant in emergency care, surgery and intensive care, where the outcome of a patient is directly related to the quick reaction and precise decision making of the care provider.
@@ -75,7 +74,7 @@ With the digitized medical records of medical patients, it would be easier for d
 Data analytics can also read other factors beyond healthcare, including a patient’s health habits and behaviors and other factors, like environment and employment which also affect a person’s health.
 
 With this, negative events like readmission to the hospital or emergency room visits can be prevented. Consequently, this would lessen the expenses of patients, in terms of medical treatment and hospitalization.
-<a name="discoveries"></a>
+
 ### New discoveries
 
 When everything was still done with pen and paper, medical professionals would analyze data manually. With today’s technology, in the form of artificial intelligence (AI), these data are initially analyzed for patterns by a system. In turn, experts use these to study new discoveries in the field.
