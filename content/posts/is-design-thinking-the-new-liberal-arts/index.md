@@ -1,20 +1,24 @@
 ---
-title: Is Design Thinking the New Liberal Arts? Most Important Principles
-publishDate: '2018-08-08T00:00:00Z'
-authors: []
-description: In its most basic description, design thinking is a decision-making method
-  that seeks to understand the user, challenge assumptions, and redefine different
-  issues in the effort to think of alternative solutions that might not be easily
-  visible with our initial level of reasoning.
+ceoTitle: Is Design Thinking the New Liberal Arts? Most Important Principles
+title: Is Design Thinking the New Liberal Arts? 4 Most Important Principles
+breadcrumbs: 4 Principles of Design Thinking
+slug: is-design-thinking-the-new-liberal-arts
+draft: false
+publishDate: 2018-08-08T00:00:00Z
 image: design-thinking.jpg
 og_image: design-thinking.jpg
+description: In its most basic description, design thinking is a decision-making
+  method that seeks to understand the user, challenge assumptions, and redefine
+  different issues in the effort to think of alternative solutions that might
+  not be easily visible with our initial level of reasoning.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - business-analysis-team
 categories:
-- design
+  - design
+industries: []
 ---
 Design thinking is more than just a buzzword; it's a powerful problem-solving methodology that has transformed the way businesses, organizations, and individuals approach innovation and creativity. At its core, design thinking is about empathy, collaboration, and experimentation, and it has the potential to revolutionize the way we solve complex challenges in today's fast-paced and rapidly changing world. Whether you're a business leader looking to <a href="https://anadea.info/services/custom-software-development" target="_blank">build custom software for your business</a>, an educator seeking to inspire creativity in your students, or simply someone who wants to learn more about this exciting approach to problem-solving, this article will provide valuable insights and practical tips to help you harness the power of design thinking!
 
@@ -22,11 +26,11 @@ Design thinking is more than just a buzzword; it's a powerful problem-solving me
 
 In its most basic description, design thinking is a decision-making method that seeks to understand the user, challenge assumptions, and redefine different issues in the effort to think of alternative solutions that might not be easily visible with our initial level of reasoning.
 
-## What a cute definition it was, wasn't it? Now let's see a practical example.
+### What a cute definition it was, wasn't it? Now let's see a practical example.
 
 Take a look at the <a href="https://www.fastcompany.com/3060197/how-two-industrial-design-titans-are-helping-brands-simplify-tech" target="_blank">Smart Brush</a> developed by Braun and Oral B. When attempting to design a smart toothbrush, the designers faced an interesting requirement by the target audience: they wanted the brush to play music and track their brushing performance. Before that point, the main issues that toothbrush designers faced were the replacement head and charging options. Now, they had to redefine the whole concept and offer an alternative solution that hasn't been seen before. And that's exactly what they did.
 
-## So how do we relate design thinking with liberal arts? There is some level of analogy, alright!
+### So how do we relate design thinking with liberal arts? There is some level of analogy
 
 <a href="https://www.topuniversities.com/blog/what-liberal-arts-education" target="_blank">Liberal arts education</a> encompasses classical subjects or skills that have been considered to be essential for a free person (hence the term liberal) since ancient times. Today, liberal arts encompass literature, social and physical sciences, mathematics, and philosophy. No matter what type of education you choose, you'll eventually encounter these disciplines, since they are considered to be essential for a person's common knowledge.
 
@@ -97,6 +101,8 @@ Finally, you'll add the finishing touches to the prototype and you'll make the a
 
 Design thinkers wait for the results of their solutions. The testing phase often launches more problems to consider and new solutions to find, so the team goes back to a previous stage of the process, with the intention to find a better solution.
 
+{{< advert >}}Related article: [Emotionally Intelligent Design: Why You Need It in Your Mobile App](https://anadea.info/blog/emotionally-intelligent-design-why-you-need-it-in-your-mobile-app){{< /advert >}}
+
 Maybe your audience gives you hints that you didn't empathize well enough. In that case, you'll go back to the very first stage of development. Maybe they will point out some mistakes in the design, so you'll get back to the proper step of prototype design and testing.
 
 The feedback of your audience shows what you could improve. That's exactly why app development is a continuous process. Each new update should add to the value of the app and make it even more relevant to the needs of your audience.
@@ -106,10 +112,3 @@ The feedback of your audience shows what you could improve. That's exactly why a
 For designers in any industry, the process of design thinking is the foundation of their success. However, the technique is also applicable in various situations in life when we're faced with the need to find solutions. You'll be surprised to see how your analytical thinking and decision making skills will improve once you start implementing this method in practice.
 
 Design thinking is the new liberal arts! We should all get more skilled in it, and we must start practicing ASAP.
-
-> Related article: [Emotionally Intelligent Design: Why You Need It in Your Mobile App](https://anadea.info/blog/emotionally-intelligent-design-why-you-need-it-in-your-mobile-app)
-
-<br />
-
----
-*This is a guest post by **Joe McLean.** Joe is a professional writer working for an <a href="https://assignmentmasters.org/essay-service.html" target="_blank">essay service</a> provider. He helps students improve their academic writing skills. This is his motto: "Academic writing is not pointless; it's something that makes you better at any career."*
