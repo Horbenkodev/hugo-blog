@@ -1,23 +1,23 @@
 ---
-title: 'Sticky Navigation: Is it Worth It?'
-publishDate: '2019-04-04T00:00:00Z'
-authors:
-- aaron-chichioco
-description: Web design trends rise and fall like waves in the sea of time. Beneath
-  this attempt at poesy is an undeniable fact. Sure, some best practices, such as
-  responsive design, seem like they're here to stay, but many will hit the curb in
-  a year or two, if they haven't yet. Sticky navigation has been around for a while,
-  but it's expected to become big this year. Should you incorporate it into your site?
-  It depends.
+title: "Sticky Navigation: Is it Worth It?"
+draft: false
+publishDate: 2019-04-04T00:00:00Z
 image: Web-design.jpg
 og_image: Web-design.jpg
+description: Web design trends rise and fall like waves in the sea of time.
+  Beneath this attempt at poesy is an undeniable fact. Sure, some best
+  practices, such as responsive design, seem like they're here to stay, but many
+  will hit the curb in a year or two, if they haven't yet. Sticky navigation has
+  been around for a while, but it's expected to become big this year. Should you
+  incorporate it into your site? It depends.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - ui-ux-design-team
 categories:
-- ux-ui
+  - design
+industries: []
 ---
 Web design trends rise and fall like waves in the sea of time. Beneath this attempt at poesy is an undeniable fact. Sure, some best practices, such as <a href="https://redstagfulfillment.com/online-store-work-across-all-devices/" target="_blank">responsive design</a>, seem like they're here to stay, but many will hit the curb in a year or two, if they haven't yet. Sticky navigation has been around for a while, but it's expected to become big this year. Should you incorporate it into your site? It depends.
 
@@ -45,28 +45,32 @@ If you do plan to incorporate sticky navigation, you can do so easily if your we
 
 1. In the WordPress CMS dashboard, go to Jupiter and click on Header Builder.
 
-<center><img src="3.png" alt="Header builder" style="width: 50%;"></center>
+![Header builder](3.png)
+
 <center><sub>Image credit: Themes.ArtBees.com</sub></center>
 
 2. Go to Settings by clicking on the cog icon located at the left part of the page.
 
-<center><img src="4.png" alt="Settings" style="width: 50%;"></center>
+![Settings](4.png)
+
 <center><sub>Image credit: Themes.ArtBees.com</sub></center>
 
 3. Enable the Sticky Header option and modify the settings as needed. Take note that Sticky Header Offset determines when the header transforms into a sticky header. Sticky Header Behavior decides how the sticky header behaves.
 
-<center><img src="5.png" alt="Header
- settings" style="width: 50%;"></center>
+![Header settings](5.png)
+
 <center><sub>Image credit: Themes.ArtBees.com</sub></center>
 
 4. Close the Settings tab and proceed to Sticky Header.
 
-<center><img src="6.png" alt="Proceed to Sticky Header" style="width: 50%;"></center>
+![Proceed to Sticky Header](6.png)
+
 <center><sub>Image credit: Themes.ArtBees.com</sub></center>
 
 5. Add the elements that go into your sticky menu.
 
-<center><img src="7.png" alt="Add the elements"></center>
+![Add the elements](7.png)
+
 <center><sub>Image credit: Themes.ArtBees.com</sub></center>
 
 6. Preview your changes by clicking on Preview.
@@ -89,35 +93,40 @@ But what if your site was not built using WordPress? Then you'll have to <a href
 5. For CSS, go to the `<div>` class nicknamed "header." Add elements as shown below.
 6. Assign attributes and values to the body. Don't forget the attribute and value "position: fixed" as it keeps the `<div>` at the top of the window and creates a sticky header.
 
-<center><img src="10.png" alt="Assign attributes and values to the body"></center>
+![Assign attributes and values to the body](10.png)
+
 <center><sub>Image credit: CSSReset.com</sub></center>
 
 7. Apply the following CSS link to the HTML header tag.
 
-<center><img src="11.png" alt="Apply CSS link to the HTML header tag"></center>
+![pply CSS link to the HTML header tag](11.png)
+
 <center><sub>Image credit: CSSReset.com</sub></center>
 
 ## Examples of great sticky navigation
 
 Considering the benefits and disadvantages of sticky navigation, you could say it's not ideal for just any type of brand. Here are three websites that did a good job of incorporating the web design trend and benefited from it.
 
-* **Search Engine Journal**
+### Search Engine Journal
 
-<center><img src="Search-engine-journal.png" alt="Search Engine Journal"></center>
+![Search Engine Journal](Search-engine-journal.png)
+
 <center><sub>Image credit: <a href="https://www.searchenginejournal.com/" rel="nofollow" target="_blank">Search Engine Journal</a></sub></center>
 
 The SEJ homepage feels unique and dynamic because, in part, of its sticky navigation bar. When you arrive at the SEJ homepage, you'll see their top story at the upper left, along with their logo. As you scroll down, this box moves to the right and the logo animates into view. In other pages of the site, the menu is simply sticky without the cool animation.
 
-* **Grain & Mortar**
+### Grain & Mortar
 
-<center><img src="Grain-and-Mortar.png" alt="Grain & Mortar"></center>
+![Grain & Mortar](Grain-and-Mortar.png)
+
 <center><sub>Image credit: <a href="http://grainandmortar.com/" rel="nofollow" target="_blank">Grain & Mortar</a></sub></center>
 
 Their sticky navigation bar offers an interesting twist to a tested formula. When you get to their homepage, you'll see a large image, as well as their logo to the left. The navigation is out of sight and won't appear until you have actually started scrolling down.
 
-* **Novotel Hotels**
+### Novotel Hotels
 
-<center><img src="Novotel-Hotels.png" alt="Novotel Hotels"></center>
+![Novotel Hotels](Novotel-Hotels.png)
+
 <center><sub>Image credit: <a href="https://novotel.accorhotels.com/" rel="nofollow" target="_blank">Novotel Hotels</a></sub></center>
 
 When you scroll down the Novotel website, you'll notice the navigation bar following you. But once you arrive at the booking details bar, this section of the site begins following you as well, along with the sticky navigation menu. This design not only makes booking rooms easier, it may also help Novotel gather more leads.
@@ -125,8 +134,3 @@ When you scroll down the Novotel website, you'll notice the navigation bar follo
 ## Should you succumb to the hype?
 
 There is no doubt that sticky navigation opens new opportunities to be creative about achieving your goals. However, you don't necessarily need it. It may not even be compatible at all for certain brands. If sticky headers will improve your site's performance and engagement and create an enhanced experience or <a href="https://anadea.info/blog/10-tips-to-improve-usability-of-your-app" target="_blank">usability for users</a>, then, by all means, adopt them. But if you're thinking of incorporating them just for aesthetics and nothing more, they may not be worth it.
-
-<br />
-
----
-*This is a guest post by **Aaron Chichioco.** Aaron is the managing editor of Designdoxa. He loves to write about online marketing, eCommerce and web design. He has a vast experience in overseeing daily operations of several online businesses since 2011. You can follow Aaron on <a href="https://twitter.com/Aaron_Chichioco" target="_blank">Twitter</a>.*
