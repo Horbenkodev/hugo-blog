@@ -1,21 +1,23 @@
 ---
 title: Must Have Features to Build a Localized Real Estate App
-publishDate: '2019-06-13T00:00:00Z'
-authors: []
-description: Keep up with changes and news on your local real estate market, do paperwork,
-  schedule meetings with clients, update information about your listings, figure out
-  how to differ from competitors, keep a database of leads... On top of  that, you
-  understand that having an app is a necessity for your local real estate business,
-  and there is simply no time to address the issue. Looks familiar to you?
+draft: false
+publishDate: 2019-06-13T00:00:00Z
 image: How-to-create-real-estate-app.jpg
 og_image: How-to-create-real-estate-app.jpg
+description: Keep up with changes and news on your local real estate market, do
+  paperwork, schedule meetings with clients, update information about your
+  listings, figure out how to differ from competitors, keep a database of
+  leads... On top of  that, you understand that having an app is a necessity for
+  your local real estate business, and there is simply no time to address the
+  issue. Looks familiar to you?
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- real-estate
+authors:
+  - mobile-development-team
 categories: []
+industries:
+  - real-estate
 ---
 Keep up with changes and news on your local real estate market, do paperwork, wade through bureaucratic procedures, plan open houses, schedule meetings with clients or other agents and meet them, answer calls and emails, update information about your listings, figure out how to differ from competitors, keep a database of leads... On top of that, you understand that having an app is a necessity for your local real estate business, and there is simply no time to address the issue. Looks familiar to you?
 
@@ -65,7 +67,7 @@ As for StreetEasy, it allows filtering the right options for a lot of parameters
 
 * **School zones.** New York has about 470 square miles. Imagine this scenario: you have a kid who must be taken to school before work. You buy or rent an apartment near the office, and the school in your area does not fit and you have to take the kid to school in another area. In order to prevent such cases, StreetEasy has a search by school zones.
 
-**How you may benefit**
+#### How you may benefit
 
 If you give home buyers advanced search with as many necessary filters as they need, the likelihood that they find what they want will be much higher. It means they will stay on your website or will continue to use your real estate app further.
 
@@ -75,7 +77,7 @@ Advanced search helps to find the most suitable listings and does everything dif
 
 Rather than entering every time your search parameters, you can save them. This kind of search is needed so that you can quickly access those search parameters that you use more or less regularly. For example, if you are looking for a certain pet-friendly condo with two bedrooms and two bathrooms in Hudson Square, but none of the existing listings currently suit you, you can add a search by parameters to your favorite searches, then periodically view new listings appearing by these search parameters. Moreover, you can save listings you liked. This feature is free and available for registered users.
 
-**How you may benefit**
+#### How you may benefit
 
 Since the feature is available for registered users you will get information about the target audience and will be able to communicate directly with the users. It will help you to better understand your clients, their needs and preferences, as well as to improve your service.
 
@@ -83,7 +85,7 @@ Since the feature is available for registered users you will get information abo
 
 If you visit NYC you will definitely see <a href="https://streeteasy.com/blog/streeteasy-debuts-2019-ad-campaign/" target="_blank">StreetEasy’s advertising</a> in the subway, taxi tops and buses. The advertising shows a deep understanding of how people are looking for housing in New York City. These ad campaigns are always witty and can be called masterpieces. And all because StreetEasy is laced with analytics tools up and down and knows everything about the target audience: what time of the day users visit the web service, what search queries they use, what apartments interest them most, and so on and so forth.
 
-**How you may benefit**
+#### How you may benefit
 
 Understanding the target audience allows you not only to increase the effectiveness of advertising campaigns. Adding Google Analytics and Google Tag Manager to your site enables you to understand how users behave when they come from a certain advertising channel, what interests them most, what prevents them from using your service. Based on the data obtained, you can carry out AB testing, improve user experience, reduce advertising budgets while maintaining efficiency, and so much more.
 
@@ -95,7 +97,7 @@ If you have ever been interested in mortgage terms, did you have enough strength
 
 * **Mortgage rates.** Mortgage rates may vary significantly from different banks. With the help of StreetEasy mortgage rates, visitors can find out which banks within the certain area make home loans for acquiring the property of interest, compare their offers on monthly payments, lender fees and annual percentage rate.
 
-**How you may benefit**
+#### How you may benefit
 
 By solving the real problems of real estate property buyers you attract their interest and keep them using your app to continue the process of buying a property.
 
@@ -103,7 +105,7 @@ By solving the real problems of real estate property buyers you attract their in
 
 Real estate market is fast moving and very competitive. Brokers work is not stress-free, brokers need all the help they can get. StreetEasy is aware of it and provides agents with valuable tools to manage listings, to generate reports on listing performance, to plan open houses, to automate postings on social networks, and many others. Here you also may sign up for daily or weekly tailored emails with the newest real estate information and find ideas on generating more leads.
 
-**How you may benefit**
+#### How you may benefit
 
 It is important to remember that your service is a working tool for real estate professionals. Your real estate app may become a really nice timesaver for agents. By helping them to generate more leads and sell more you will also grow your real estate business.
 
@@ -113,7 +115,7 @@ The algorithm for finding housing in New York City is something like the followi
 
 StreetEasy is a friend and advisor for every visitor. It will guide you through every step of finding the home you dream of. With yelp, it will recommend a restaurant near the house that you liked. If you are moving to NYC for the first time it can give you everything you need from tips on finding a roommate to types of documents you need. It will help you to decide whether you should rent or buy. If you are an agent you can find real estate market reports and information on new developments in the city. On StreetEasy forums you may discuss topics of interest to you.
 
-**How you may benefit**
+#### How you may benefit
 
 Any business must communicate with its customers. Business profit depends on this. Guides, tips, forums help to efficiently build interaction with the target audience of the real estate app as well as gain their loyalty. Such an approach also will help you to build a community around your brand as StreetEasy did.
 
@@ -122,8 +124,3 @@ Any business must communicate with its customers. Business profit depends on thi
 Streeteasy is such a Swiss Army knife kind of a website with a set of functions for sellers, buyers, renters and agents. The process of developing an app like StreetEasy is long and continuing. It is necessary to take into account all aspects of your local real estate market, the needs of your target audience and your business goals.
 
 The success of your app will also depend on the right choice of real estate app developers who will understand your business needs, who will help you to focus on being a realtor, who will provide quality work at each stage of app development, who will be your allies in building a great app for your local real estate firm. We will be happy to share our experience in [building real estate app solutions](https://anadea.info/solutions/real-estate-software) with you.
-
-<br />
-
----
-*About author: Olga Veretskaya is a blogger and writer from Anadea. Olga writes articles on the topics related to digital technology for business.*
