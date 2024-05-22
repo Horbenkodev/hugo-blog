@@ -1,20 +1,23 @@
 ---
-title: 'Interactive Storytelling: The Next Big Thing in Travel Apps'
-publishDate: '2018-10-10T00:00:00Z'
-authors: []
-description: Earlier this year, Instagram, the popular photo-sharing app exceeded
-  1 billion users. It is estimated that the Facebook-owned social platform now generates
-  $5.5 billion in advertising revenue, up 70 percent on 2017 figures. Travel - alongside
-  food, drink and fitness - is one of the most popular categories of content on Instagram.
+title: "Interactive Storytelling: The Next Big Thing in Travel Apps"
+breadcrumbs: " Interactive Storytelling in Travel Apps"
+draft: false
+publishDate: 2018-10-10T00:00:00Z
 image: travel-storytelling.jpg
 og_image: travel-storytelling.jpg
+description: Earlier this year, Instagram, the popular photo-sharing app
+  exceeded 1 billion users. It is estimated that the Facebook-owned social
+  platform now generates $5.5 billion in advertising revenue, up 70 percent on
+  2017 figures. Travel - alongside food, drink and fitness - is one of the most
+  popular categories of content on Instagram.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- travel
+authors:
+  - mobile-development-team
 categories: []
+industries:
+  - travel
 ---
 As of the end of 2022, Instagram, the widely used photo-sharing app, has surpassed 2.5 billion active users. It is projected that the social media platform, which is owned by Facebook, now generates over $20 billion in advertising revenue, marking a staggering 264% increase from the $5.5 billion reported in 2017.
 
@@ -36,7 +39,7 @@ More often than not, before booking a trip, people want to see videos, or watch 
 
 Digital storytelling is the way forward. Customers generate an enormous amount of content themselves. Travel brands can benefit from this. At the same time, marketing teams and travel agents can create and use content to show off what your business offers guests.
 
-> Related article: [How to Build a Travel App That Wins Customer Loyalty](https://anadea.info/blog/how-to-build-a-travel-app-that-wins-customer-loyalty)
+{{< advert >}}Related article: [How to Build a Travel App That Wins Customer Loyalty](https://anadea.info/blog/how-to-build-a-travel-app-that-wins-customer-loyalty){{< /advert >}}
 
 ## How do we integrate interactive storytelling?
 
@@ -52,7 +55,7 @@ And finally, by incorporating __elements of narrative__, a travel app can transp
 
 With the right storytelling techniques, a travel app can create a truly unforgettable experience. It can help you connect with the destination on a deeper level, giving you a sense of the culture, history, and people that make it unique.
 
-> Related article: [The Hottest Trends in the Travel App Development](https://anadea.info/blog/hottest-trends-in-the-travel-app-development)
+{{< advert >}}Related article: [The Hottest Trends in the Travel App Development](https://anadea.info/blog/hottest-trends-in-the-travel-app-development){{< /advert >}}
 
 ## Closing word
 
