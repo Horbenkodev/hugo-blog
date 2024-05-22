@@ -4,7 +4,7 @@ title: "Sports Betting App Development: Practical Tips for Businesses"
 breadcrumbs: Betting Sports Apps
 slug: sports-betting-app-development
 draft: false
-publishDate: 2023-06-27T00:00:00Z
+publishDate: 2023-06-27T00:00:00.000Z
 image: betting.jpg
 og_image: betting_socials.jpg
 description: With the growing interest in betting, the demand for sports betting
@@ -93,7 +93,7 @@ In **the United States**, the situation is also quite interesting. If you are go
 
 ![](image4.png)
 
-<center><small style="font-size: 14px"><a href="https://www.americangaming.org/research/state-gaming-map/">Source</a></small</center>
+<center><small style="font-size: 14px"><a href="https://www.americangaming.org/research/state-gaming-map/">Source</a></small></center>
 
 In **Australia**, sports betting is legal. But states there also have different licensing laws.
 
