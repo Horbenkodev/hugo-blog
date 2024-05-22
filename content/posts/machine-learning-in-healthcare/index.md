@@ -1,24 +1,27 @@
 ---
-title: 'Machine Learning in Healthcare: Adding Value with Data Analytics'
-publishDate: '2020-02-12T00:00:00Z'
-authors: []
-description: According to McKinsey, the U.S. healthcare system generates over 1 trillion
-  gigabytes of data every year. An incredible volume, even in a world that produces
-  more data annually than we have managed in the course of Human history.
+ceoTitle: "Machine Learning in Healthcare: Adding Value with Data Analytics"
+title: " How Machine Learning and Big Data Add Value to Healthcare"
+breadcrumbs: How Machine Learning and Big Data Add Value to Healthcare
+slug: machine-learning-in-healthcare
+draft: false
+publishDate: 2020-02-12T00:00:00Z
 image: Machine-learning-in-healthcare.jpg
 og_image: Machine-learning-in-healthcare.jpg
+description: According to McKinsey, the U.S. healthcare system generates over 1
+  trillion gigabytes of data every year. An incredible volume, even in a world
+  that produces more data annually than we have managed in the course of Human
+  history.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- healthcare
+authors:
+  - ai-ml-team
 categories:
-- machine-learning
+  - machine-learning
+industries:
+  - healthcare
 ---
-Updated 10 September,2021
-
-***According to McKinsey, the U.S. healthcare system generates over 1 trillion gigabytes of data every year. An incredible volume, even in a world that produces more data annually than we have managed in the course of Human history.***
+According to McKinsey, the U.S. healthcare system generates over 1 trillion gigabytes of data every year. An incredible volume, even in a world that produces more data annually than we have managed in the course of Human history.
 
 Big data in healthcare is multifaceted, noisy, and dynamic. Almost every interaction, such as a doctor ordering medicine on behalf of a patient, or a receptionist booking an appointment, or an insurance company receiving updates from patients and providers following the completion of treatment, generates data. Vast quantities of it.
 
@@ -30,39 +33,24 @@ This graph provides an overview of the major sources of big data in healthcare:
 
 Dr. Eric Schadt, the founding director of the Icahn Institute for Genomics and Multiscale Biology at New York’s Mount Sinai Health System, said in an <a href="https://www.mckinsey.com/industries/life-sciences/our-insights/the-role-of-big-data-in-medicine" target="_blank">interview with McKinsey Sastry Chilukuri</a>:
 
-> ***“The role of big data in medicine is one where we can build better health profiles and better predictive models around individual patients so that we can better diagnose and treat disease.”***
+> The role of big data in medicine is one where we can build better health profiles and better predictive models around individual patients so that we can better diagnose and treat disease.
 
-<h2>Table of contents</h2>
-<ol>
- <li><a href="#machine-learning">Can machine learning unlock the potential of big data?</a>
- <li><a href="#machine-learning-in-healthcare"> How machine learning is creating new value in healthcare?</a>
- <ul>
-  <li><a href="#disease-diagnosis">Supporting disease diagnosis</a></li>
-  <li><a href="#reducing-burdens">Reducing administrative burdens on physicians</a></li>
-  <li><a href="#optimizing-risk">Optimizing risk in health insurance</a></li>
- </ul>
- <li><a href="#ML-in-2021">Machine Learning applications in 2021</a>
- <li><a href="#conclusion">Bridging gaps</a>
- </li>
-</ol>
-
- <a name="machine-learning"></a>
 ## Can machine learning unlock the potential of big data?
 
 <a href="https://anadea.info/solutions/machine-learning-software-development" target="_blank">Machine learning solutions</a> can help in unlocking the transformative potential of big data, although probably not as quickly as many would hope.
 
 <a href="https://www.gartner.com/smarterwithgartner/top-trends-on-the-gartner-hype-cycle-for-artificial-intelligence-2019" target="_blank">Gartner</a> suggests excitement around the potential of AI and machine learning (ML) has reached “peak hype.”
 
-<center><img src="Hype-cycle-for-ML-2019.jpg" alt="Artificial intelligence trends"></center>
+![Artificial intelligence trends](Hype-cycle-for-ML-2019.jpg)
+
 <center><sub>Source: <a href="https://www.gartner.com/smarterwithgartner/top-trends-on-the-gartner-hype-cycle-for-artificial-intelligence-2019" rel="nofollow" target="_blank">Gartner</a></sub></center>
 
 That doesn't mean it’s all hype. Far from it. The potential of big data and machine learning is being proven across dozens of sectors. It simply means those investing in machine learning and big data projects need to be aware that it can, often depending on the state of your data and what you hope to do with it, take longer to realize than the hype suggests at times.
 
 As <a href="https://www.mckinsey.com/industries/life-sciences/our-insights/machine-learning-and-therapeutics-2-0-avoiding-hype-realizing-potential" target="_blank">McKinsey points out</a>, early successes applying machine learning in other industries may not readily translate when attempting to scale machine learning in healthcare. The article goes onto say that “Health—specifically, the understanding of diseases and treatments—is fundamentally different from other areas where machine learning has been used.”
 
-<a name="machine-learning-in-healthcare"></a>
 ## How machine learning is creating new value in healthcare?
-<a name="disease-diagnosis"></a>
+
 ### 1. Supporting disease diagnosis
 
 Tired, overworked doctors make mistakes.
@@ -75,7 +63,6 @@ Too often, data scientists spend considerably more time cleaning data up before 
 
 For example, in an <a href="https://www.spiegel.de/international/world/playing-doctor-with-watson-medical-applications-expose-current-limits-of-ai-a-1221543.html" target="_blank">experiment held at university hospitals in Germany</a>, clinical-practice guidelines were omitted. As a result, a machine learning algorithm suggested that respiratory infections caused most chest pains, completely overlooking cardiac causes. This is of course not correct, and it shows that the inputs in any big data or machine learning project need to be of sufficiently strong quality to produce the outcomes healthcare companies need.
 
-<a name="reducing-burdens"></a>
 ### 2. Reducing administrative burdens on physicians
 
 For every hour a physician spends with a patient, they spend another hour doing admin and paperwork. This admin time contributes to the 80% of data in the healthcare system that is unstructured, containing an enormous amount of potential value.
@@ -83,12 +70,11 @@ For every hour a physician spends with a patient, they spend another hour doing 
 As doctors start using more ML-powered transcription services, note summary apps, auto-documentation and other systems that integrate with EHRs, it will save them valuable time they can spend with patients. Not only would this increase the number of patients that doctors can see, it will also increase billable time.
 
 Another benefit is when data is input in a more usable format, it will prove more useful for big data and machine learning projects, making it easier for healthcare providers to extract value.
-<a name="optimizing-risk"></a>
+
 ### 3. Optimizing risk in health insurance
 
 Machine learning algorithms are more effective at assessing and adjusting for risk and other factors. When the data inputs are organized the right way, machine learning is being used in healthcare and health insurance to more effectively assess and plan for patient risk and the possibility that a patient will need ongoing treatments.
 
-<a name="ML-in-2021"></a>
 ## Machine Learning applications in 2021
 
 * Medical imaging. Object detection and image recognition are used in Computed tomography and Magnetic resonance for disease detection and prediction. Deep learning models can generate practical interpretations such as tissue shape, size, and volume. Those models can be used for the early detection of Alzheimer’s and diabetic nephropathy.
@@ -97,13 +83,6 @@ Machine learning algorithms are more effective at assessing and adjusting for ri
 
 * Patient healthcare and data analysis. Deep learning models can analyze structured and unstructured data that includes everything from laboratory tests to medications at faster speed and with better accuracy. Furthermore, smartphones and wearable devices reveal data about behavior and lifestyle. These devices can transform data with the help of mobile apps to monitor risk factors about deep learning models.
 
-<a name="conclusion"></a>
 ## Bridging gaps
 
 With the right technology and applications, healthcare providers can make enormous gains from the big data they can access and use. Projects need to start with the right level of appreciation and understanding for how to unlock the value contained within data sources, and how to prepare data for machine learning projects.
-
-
-<br />
-
----
-*About author: Dariya Lopukhina is an online marketer, tech enthusiast and writer. She is a part of the Anadea team where we help entrepreneurs, startups and companies digitally transform and grow. Connect with her on <a href="https://twitter.com/DariyaLopukhina" rel="nofollow" target="_blank">Twitter</a> and <a href="https://www.linkedin.com/in/dariyalopukhina/" rel="nofollow" target="_blank">LinkedIn</a>.*
