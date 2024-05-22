@@ -1,31 +1,37 @@
 ---
-title: Inspired by the Good Future. Anadea at Valencia Digital Summit 2022
-publishDate: '2022-10-28T00:00:00Z'
-authors: []
-description: The perfect place to learn about tech trends and meet founders in person.
-  See how these days of Valencia Digital Summit'22 went for us - there's a lot to
-  tell.
+ceoTitle: Inspired by the Good Future. Anadea at Valencia Digital Summit 2022
+title: Valencia Digital Summit 2022 from Anadea's Perspective
+breadcrumbs: VDS 2022
+slug: valencia-digital-summit-2022
+draft: false
+publishDate: 2022-10-28T00:00:00Z
 image: valencia-museum.jpg
 og_image: vds2022-socials.jpg
+description: The perfect place to learn about tech trends and meet founders in
+  person. See how these days of Valencia Digital Summit'22 went for us - there's
+  a lot to tell.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - marketing-team
 categories:
-- news
+  - news
+industries: []
 ---
 We’re way too far from Silicon Valley, the first place that comes to mind when IT and innovations are brought up. Nor are we in Poland that’s become Europe’s cradle of IT talents in the past years. But we’re somewhere just as big, that’s for sure. So where are we?
 
 ![](valencia-museum.jpg)
-<center><i><font size="-1">City of Art and Sciences, Valencia, Spain</font></i></center>
+
+<center><small style="font-size: 14px">City of Art and Sciences, Valencia, Spain</small></center>
 
 On October 24–26, the Valencian City of Art and Sciences held the 5th Valencia Digital Summit bringing together hundreds of speakers, investors and startup founders in front of 10,000 people. The major sponsors that made the event possible are Startup Valencia non-profit organization and the Distrito Digital initiative to house technological companies and talent.
 
 Our Alicante-based business development team couldn’t but visit.
 
 ![](sales.jpg)
-<center><i><font size="-1">Alexandra Lichko, Iryna Lysenko</font></i></center>
+
+<center><small style="font-size: 14px">Alexandra Lichko, Iryna Lysenko</small></center>
 
 Our goal was to learn what’s new in the tech world from the trendsetters. As exciting as it sounds, in practice it was quite a challenge to choose the speakers to attend. Given what a challenge it is to scroll the page listing all speakers to the bottom on the event’s website (try it!), imagine what it was like not knowing where to look first :) All this inside the Valencia City of Art and Sciences, an incredible place in itself.
 
