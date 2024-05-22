@@ -1,19 +1,23 @@
 ---
-title: 'Software Development Company Portfolio: How to Assess Case Studies and What
-  to Look At?'
-publishDate: '2022-08-29T00:00:00Z'
-authors: []
-description: A software company portfolio may say a lot more than any advertisement
-  or laudatory review. You only need to learn how to analyze it.
+ceoTitle: "Software Development Company Portfolio: How to Assess Case Studies
+  and What to Look At?"
+title: How to Assess a Software Company Portfolio? [Checklist]
+breadcrumbs: Software Company Portfolio
+slug: software-development-company-portfolio
+draft: false
+publishDate: 2022-08-29T00:00:00.000Z
 image: red_berries.jpg
 og_image: red_berries.jpg
+description: A software company portfolio may say a lot more than any
+  advertisement or laudatory review. You only need to learn how to analyze it.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - marketing-team
 categories:
-- business
+  - business
+industries: []
 ---
 Assessment of a <a href="https://anadea.info/projects" target="_blank">software company portfolio</a> goes hand in hand with the process of choosing an outsourcing partner, doesn’t it? In most cases, yes. But there are a few more cases of how you can use it:
 
@@ -71,12 +75,9 @@ A proper client review will tell you a lot about the team’s strong sides. It�
 
 Just take a look at the customer’s review that is really insightful and helpful left by __Matthew Stibbe__, CEO of <a href="https://anadea.info/projects/turbine-hq" target="_blank">Turbine</a> which was developed by Anadea.
 
-<center>
-<picture>
- <source media="(max-width: 600px)" srcset="matthew_mobile.png">
- <img src="matthew_web.png" alt="review by Matthew Stibbe" loading="lazy">
-</picture><br />
-<font size="-1">Source: <a href="https://bmmagazine.co.uk/business/secrets-on-how-to-make-your-saas-flourish/" target="_blank" rel="nofollow">BusinessMatters</a> magazine</font>
+![Review by Matthew Stibbe](matthew_web.png)
+
+<center><small style="font-size: 14px">Source: <a href="https://bmmagazine.co.uk/business/secrets-on-how-to-make-your-saas-flourish/" target="_blank" rel="nofollow">BusinessMatters</a> magazine</small>
 </center>
 
 It’s pretty different from usual accolades, isn’t it?
