@@ -1,21 +1,23 @@
 ---
-title: 'Retail Business Goes Mobile: How to Create a Good Retail App?'
-publishDate: '2018-03-01T00:00:00Z'
-authors: []
-description: It's mind-blowing! A couple of years ago they said that the number of
-  smartphones exceeded the number of toothbrushes - fact or fiction, who knows, and
-  now… we've already got a mobile app for electric toothbrushes. Why do you think
-  that apps are being created left, right and center? Because everyone and their mom
-  seem to be smartphone holics.
+title: "Retail Business Goes Mobile: How to Create a Good Retail App?"
+breadcrumbs: Retail Mobile App Development
+draft: false
+publishDate: 2018-03-01T00:00:00Z
 image: retail-app.jpg
 og_image: retail-app.jpg
+description: It's mind-blowing! A couple of years ago they said that the number
+  of smartphones exceeded the number of toothbrushes - fact or fiction, who
+  knows, and now… we've already got a mobile app for electric toothbrushes. Why
+  do you think that apps are being created left, right and center? Because
+  everyone and their mom seem to be smartphone holics.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - mobile-development-team
 categories:
-- retail
+  - retail
+industries: []
 ---
 It's mind-blowing! A couple of years ago they said that the number of smartphones exceeded the number of toothbrushes - fact or fiction, who knows, and now… we've already got a <a href="https://itunes.apple.com/lu/app/oral-b-app/id698092608?mt=8" rel="nofollow" target="_blank">mobile app for electric toothbrushes</a>. Why do you think that apps are being created left, right and center? Because everyone and their mom seems to be smartphone holics. We all love facts and digits. So, here are some statistics on <a href="https://techcrunch.com/2018/01/17/global-app-downloads-topped-175-billion-in-2017-revenue-surpassed-86-billion/" rel="nofollow" target="_blank">app downloads, revenue</a>, <a href="https://techcrunch.com/2018/01/16/time-spent-in-apps-grew-just-6-last-year-down-from-11-in-2017/" rel="nofollow" target="_blank">time spent in apps</a> and some pieces of data on why mobile apps are useful for retail business.
 
@@ -81,11 +83,11 @@ Having clear answers to these questions is important it it will help a software 
 
 ### What features do best retail apps include?
 
-**A retail app is a mobile application that facilitates and enriches the in-store shopping experience, improves the purchase process, provides new innovative ways to make purchase and interact with your brand for your customers.**
+A retail app is a mobile application that facilitates and enriches the in-store shopping experience, improves the purchase process, provides new innovative ways to make purchase and interact with your brand for your customers.
 
 Domino, an omnichannel 57-year-old pizza company, puts strong emphasis on innovation and removing friction from the customer experience. Nowadays, over 60% of their orders are received digitally with more than half of those orders placed through mobile. And the gem in their armory for providing friction-free purchase experience is <a href="https://www.dominos.com.au/inside-dominos/technology/zeroclick" rel="nofollow" target="_blank">Zero Click app</a> with a zero-click ordering feature! The customer simply opens the app, waits for 10 seconds and the order is automatically placed. That's it!
 
-> Embracing innovation in order to make a purchase so amazingly easy and fast is something that most people want today and something that can turn them into your loyal customers.
+{{< advert >}}Embracing innovation in order to make a purchase so amazingly easy and fast is something that most people want today and something that can turn them into your loyal customers.{{< /advert >}}
 
 However, it often happens that retail businesses want to squeeze out the maximum from their mobile apps and add too many features from the start. The app becomes heavy and complex - consumers may not want to "clog" their phones with such an app and may get lost in all available options. If you still "want them all!" this would be reasonable to start from [building an MVP](https://anadea.info/guides/what-is-mvp) - a light version with a simple and understandable flow, and then gradually add new features.
 
@@ -116,8 +118,8 @@ The key factors that define the cost of building your retail app are:
 
 In any case, it is not possible to give an estimate for creating an hypothetical retail app. Every project has its specifics and requires an individual approach. The more details you provide to the developers the more realistic estimate you will get.
 
-> [Contact us](https://anadea.info/contacts) for a precise quote and consultation!
+[Contact us](https://anadea.info/contacts) for a precise quote and consultation!
 
 Hopefully this information will help you make the first steps towards realizing the full potential of your business with your brand new retail app.
 
-> We are recognized as a top <a href="https://www.designrush.com/agency/ecommerce" target="_blank">E-Commerce Design & Development Company</a> on DesignRush.
+{{< advert >}}We are recognized as a top <a href="https://www.designrush.com/agency/ecommerce" target="_blank">E-Commerce Design & Development Company</a> on DesignRush.{{< /advert >}}
