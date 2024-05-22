@@ -1,22 +1,23 @@
 ---
-title: 'React Native: The Journey of a Beginner '
-publishDate: '2018-03-12T00:00:00Z'
-authors:
-- anastasiya-bakuta
-description: React Native is, perhaps, the most interesting and fast-evolving platform.
-  Today you can create a new project based on its latest version, and in just a few
-  months it will get outdated for a few releases. And if a year ago React Native was
-  quite a raw product, now there are lots of plugins for dealing with native components
-  as well as common React components.
+title: "React Native: The Journey of a Beginner "
+breadcrumbs: " React Native Beginner Experience"
+draft: false
+publishDate: 2018-03-12T00:00:00Z
 image: React-native-app.jpg
 og_image: React-native-app.jpg
+description: React Native is, perhaps, the most interesting and fast-evolving
+  platform. Today you can create a new project based on its latest version, and
+  in just a few months it will get outdated for a few releases. And if a year
+  ago React Native was quite a raw product, now there are lots of plugins for
+  dealing with native components as well as common React components.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - anastasiya-bakuta
 categories:
-- development
+  - development
+industries: []
 ---
 <p align="right"><sub>"If you sit by the riverbank for a long time,<br>
 you will see the dead body of the framework,<br>
@@ -105,11 +106,11 @@ As you have probably noticed in the above example, we use the <a href="https://r
 
 Android (the Facebook app, for example):
 
-<center><img src="top_android.jpg" alt="Android top header height" style="width: 50%;"/></center>
+![Android top header height](top_android.jpg)
 
 iPhone (the Facebook app, for example):
 
-<center><img src="top_ios.jpg" alt="iOS top header height" style="width: 50%;"/></center>
+![iOS top header height](top_ios.jpg)
 
 The point is that, when calculating the screen height, we take the actual height of the device screen, however the real area available for the Android app is reduced by the height of the header at 20px (see the topmost bar in the picture). While in iOS the "header" overlays the application and does not take up additional space.
 
@@ -138,6 +139,8 @@ yo rn-toolbox:assets --icon <path to your icon>
 Since the code is executed by JavaScript, there can be any set of libraries of the developer's choice.
 
 I could finish my article here by adding a few pretentious phrases like "everything works out of the box," "a large community," "a huge number of plugins." However, the reality is that the first impression can be deceiving and it is necessary to go a long way in [iOS app development](https://anadea.info/services/mobile-development/ios-development) and [Android app development](https://anadea.info/services/mobile-development/android-development) before getting a viable application that solves a real customer's problem.
+
+{{< advert >}}Related read: [Immersion in React Native: Navigation, Offline Mode, Push Notifications](https://anadea.info/blog/immersion-into-react-native){{< /advert >}}
 
 ## Pitfalls:
 
@@ -199,6 +202,3 @@ Having mastered the basics, you can start designing your first application, aski
 * What platform(s) should the application be built for?
 * How can we ensure the security of the application and the user's data?
 * What are the potential risks and challenges in developing and launching the application?
-* ...
-
-> Read next: [Immersion in React Native: Navigation, Offline Mode, Push Notifications](https://anadea.info/blog/immersion-into-react-native)
