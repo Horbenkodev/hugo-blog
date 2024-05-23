@@ -4,7 +4,7 @@ title: How to Optimize Your Emails for Most Popular Email Clients
 breadcrumbs: Email Optimization
 slug: how-to-optimize-emails-for-popular-email-clients
 draft: false
-publishDate: 2017-11-03T00:00:00Z
+publishDate: 2017-11-03T00:00:00.000Z
 image: responsive_email_layout.jpg
 og_image: responsive_email_layout.jpg
 description: We see tons of emails every day. New arrivings, news feeds,
@@ -90,7 +90,7 @@ It is better to specify all the basic styles inline (use the desktop version of 
 
 For example:
 
-```
+```css
 <style media="only screen and (max-width: 600px)" type="text/css">
   @media only screen and (max-width: 600px) {
      td[class="mobile_width"] {
@@ -105,7 +105,7 @@ For example:
 
 If you don't want strange indentations or table borders to appear in unexpected places, don't forget to specify for the table:
 
-```
+```css
 cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse;"
 ```
 
@@ -113,7 +113,7 @@ Use `<center></center>` to align table contents to the center. To align the cont
 
 You often need to indent the edges of the container. Forget about padding and margin. Empty lines and cells will help, but there is a small nuance. If you want to be sure that the cell will be the exact width you set and it will not collapse, do not leave it blank and specify a font size and line height:
 
-```
+```css
    <td style="font-size: 1px; line-height: 1px">&nbsp;</td>
 ```
 
