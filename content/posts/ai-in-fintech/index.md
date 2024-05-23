@@ -17,7 +17,7 @@ authors:
 categories:
   - business
 industries:
-  - fintechn
+  - fintech
 questionary:
   - question: How can AI be used in fintech?
     answer: There is a wide range of possible AI use cases in the fintech market. AI

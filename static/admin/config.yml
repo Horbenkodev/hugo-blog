@@ -133,8 +133,8 @@ collections:
     editor:
       preview: false
     fields:
-      - {label: "Name", name: "name", widget: "string"}
-    sortable_fields: ["name"]
+      - {label: "Title", name: "title", widget: "string"}
+    sortable_fields: ["title"]
 
   - label: "Industries"
     label_singular: "Industry"
@@ -147,7 +147,7 @@ collections:
     editor:
       preview: false
     fields:
-      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
       - label: Sale
         name: sale
         widget: relation
@@ -157,7 +157,7 @@ collections:
         search_fields: ["name"]
         display_fields: ["name"]
         value_field: "name"
-    sortable_fields: ["name"]
+    sortable_fields: ["title"]
 
   - name: "site_settings"
     label: "Site Settings"
