@@ -1,22 +1,22 @@
 ---
 title: How to Use Recompose to Streamline React Development
-publishDate: '2019-04-16T00:00:00Z'
-authors:
-- andrey-bakuta
-description: It's pretty exciting to observe how DRY coding tools in React were changing
-  over time. And we must give credit to the developers - at no stage in the development
-  of this library were any recommendations to use inheritance to solve such problems.
-  In the early versions of React and React.createClass, there were mixins that were
-  simple JavaScript objects.
+draft: false
+publishDate: 2019-04-16T00:00:00Z
 image: React-recompose.jpg
 og_image: React-recompose.jpg
+description: It's pretty exciting to observe how DRY coding tools in React were
+  changing over time. And we must give credit to the developers - at no stage in
+  the development of this library were any recommendations to use inheritance to
+  solve such problems. In the early versions of React and React.createClass,
+  there were mixins that were simple JavaScript objects.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - andrey-bakuta
 categories:
-- development
+  - development
+industries: []
 ---
 ## Composition as a way to create reusable code
 
@@ -32,7 +32,7 @@ For people familiar with OOP, composition is the ability to store a reference to
 
 The point is that in spite of the fact that React components are defined as JavaScript classes, in essence, they are more like functions. For functions, a native composition tool is a decorator (a higher-order function that takes a function and returns a function). In the case of React, this is a function that takes a component and returns a component, a.k.a. Higher Order Component (HOC).
 
-```
+```react
 const withAuthorizedUser = Komponent => (
   props => {
    const user = getUser()
@@ -49,13 +49,13 @@ export default withAuthorizedUser(Dashboard)
 
 Returning to the idea of multiple inheritance and mixins, it is curious to see how the composition of several HOCs looks like.
 
-```
+```react
 export default withAuthorizedUser(withRouter(withGlobalConfig(connect(Dashboard))))
 ```
 
 With Recompose (React HoC utility), the code above can be rewritten.
 
-```
+```react
 import { compose } from ‘recompose'
 const enhance = compose(
  withAuthorizedUser,
@@ -73,6 +73,7 @@ Let's take a deeper look into how to use React Recompose.
 <a href="https://github.com/acdlite/recompose" target="_blank">Recompose</a> lends itself as a lodash for React, so besides the possibility to create a composition of self-written HOCs, it also offers a wealth of its own ones to fit every taste.
 
 We somehow naturally developed the following style of defining React components:
+
 * first of all, we try to define a functional component;
 * if it fails, we consider the possibility of inheritance from `PureComponent`;
 * if this option doesn't work as well, then we define a class inherited from `Component`. That is, functions have higher priority than classes.
@@ -81,7 +82,7 @@ Recompose HOCs provide the ability to make pretty much every component functiona
 
 A typical example of using Recompose:
 
-```
+```react
 const enhance = compose(
  inject(‘rootStore'),
  withProps(({ rootStore }) => ({ uiState: rootStore.uiStateStore })),
@@ -111,7 +112,7 @@ In the example above, we defined two handlers to activate and deactivate the sea
 
 In the case of a class, you can accomplish such grouping only syntactically, by placing the definitions for the methods associated with one entity, next to each other. Below is an example where all functions for working with DOM and ref are moved to a separate section.
 
-```
+```react
 withHandlers(() => {
  let anchorRef
  return {
@@ -131,6 +132,4 @@ However, if the entire behavior of the component is already implemented through 
 
 Although <a href="https://reactjs.org/docs/render-props.html" target="_blank">other patterns</a> for describing the logic of general behavior are gaining popularity, Recompose remains a great tool that can impact not only your coding style, but perhaps also your way of thinking.
 
-<br />
-
-*We hope you enjoyed our React / Recompose tutorial. Keep reading our blog for more [development tips](https://anadea.info/blog/category/development) and advice!*
+We hope you enjoyed our React / Recompose tutorial. Keep reading our blog for more [development tips](https://anadea.info/blog/category/development) and advice!
