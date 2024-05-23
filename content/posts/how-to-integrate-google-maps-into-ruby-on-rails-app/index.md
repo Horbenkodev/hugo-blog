@@ -1,7 +1,7 @@
 ---
 title: How to Integrate Google Maps into Ruby on Rails App
 draft: false
-publishDate: 2016-08-10T00:00:00Z
+publishDate: 2016-08-10T00:00:00.000Z
 image: Google_maps.jpg
 og_image: Google_maps.jpg
 description: The first and the most important thing you need to know about
@@ -75,13 +75,13 @@ where as a `center` parameter you can pass a street address or a pair of coordin
 
 Then from the view it can be accessed by calling:
 
-```
+```ruby
 image_tag google_map(center: location.address)
 ```
 
 or
 
-```
+```ruby
 image_tag google_map(center: [ location.latitude, location.longitude ].join(','))
 ```
 
@@ -95,7 +95,7 @@ Google Maps Embed API is quite similar to the static API.
 
 With a single HTTP request you can easily add an interactive map to your app. It can be embedded by adding an iframe and specifying the Google Maps Embed API URL as the `src` attribute:
 
-```
+```ruby
 <iframe width="300" height="300" frameborder="0" style="border:0"
  src="https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=ADDRESS_OR_COORDINATES"
  allowfullscreen>
@@ -114,7 +114,7 @@ It is still easy!
 
 The first thing you have to do is to append Google Maps Scripts with the `<script>` tag:
 
-```
+```ruby
 <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY async defer></script>
 ```
 
@@ -126,7 +126,7 @@ An example: let's assume that there are several tabs in our app and each tab con
 
 Below you can find a CoffeeScript code for implementation of the required functionality.
 
-```
+```ruby
 class GoogleMap
  # defaults
  zoom =
@@ -195,7 +195,7 @@ app.google.classes.GoogleMap = GoogleMap
 
 This class then can be used in the code as follows:
 
-```
+```ruby
 $ ->
  { GoogleMap } = app.google.classes
 
