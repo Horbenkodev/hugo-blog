@@ -2,7 +2,7 @@
 title: The Ruby on Rails Development Company You Want to Work With
 breadcrumbs: Top Ruby on Rails Development Company
 draft: false
-publishDate: 2017-04-14T00:00:00Z
+publishDate: 2017-04-14T00:00:00.000Z
 image: RoR_developer.jpg
 og_image: RoR_developer.jpg
 description: When you're looking for an outsourced Ruby on Rails developer for
@@ -13,7 +13,8 @@ description: When you're looking for an outsourced Ruby on Rails developer for
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - marketing-team
 categories:
   - business
   - ruby-on-rails
