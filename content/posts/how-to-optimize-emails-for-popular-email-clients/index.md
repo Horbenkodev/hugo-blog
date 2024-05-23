@@ -1,21 +1,25 @@
 ---
-title: How to Optimize Your Emails for Most Popular Email Clients [2023 Update]
-publishDate: '2017-11-03T00:00:00Z'
-authors: []
-description: We see tons of emails every day. New arrivings, news feeds, discounts,
-  advertising and a lot of stuff that we usually skip. In fact, these letters are
-  pretty hard to make. Apart from custom design and good writing, developers have
-  to create an email layout. That is the trickiest part because email can be viewed
-  from way too many devices, OS and browsers.
+ceoTitle: How to Optimize Your Emails for Most Popular Email Clients
+title: How to Optimize Your Emails for Most Popular Email Clients
+breadcrumbs: Email Optimization
+slug: how-to-optimize-emails-for-popular-email-clients
+draft: false
+publishDate: 2017-11-03T00:00:00Z
 image: responsive_email_layout.jpg
 og_image: responsive_email_layout.jpg
+description: We see tons of emails every day. New arrivings, news feeds,
+  discounts, advertising and a lot of stuff that we usually skip. In fact, these
+  letters are pretty hard to make. Apart from custom design and good writing,
+  developers have to create an email layout. That is the trickiest part because
+  email can be viewed from way too many devices, OS and browsers.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - marketing-team
 categories:
-- development
+  - business
+industries: []
 ---
 We see tons of different emails every day. New arrivings, news feeds, discounts, some advertising and a lot of stuff that we usually skip or delete immediately. In fact, these letters are pretty hard to make. Apart from custom design and good writing, developers have to create an email layout. That is the trickiest part because email can be viewed from way too many devices, OS and browsers. Developers have to keep this in mind and adapt layouts to everything.
 
@@ -84,7 +88,7 @@ You still have to use **`!important`**, however use it wisely and when it is rea
 
 It is better to specify all the basic styles inline (use the desktop version of the letter > 600px) and override mobile styles as media queries. Take that as a rule. Also, don't forget about the attributes of the tags. Notice the selectors in the media queries.
 
-**For example:**
+For example:
 
 ```
 <style media="only screen and (max-width: 600px)" type="text/css">
