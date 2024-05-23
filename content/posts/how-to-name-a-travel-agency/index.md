@@ -1,19 +1,21 @@
 ---
 title: How to Name a Travel Agency?
-publishDate: '2017-02-28T00:00:00Z'
-authors: []
-description: The onset of the digital era took tour and travel industry to a new level.
-  The original, bright, meaningful and memorable name is as necessary as air for tourism-related
-  business nowadays.
+breadcrumbs: How to Name a Travel Agency
+slug: ""
+draft: false
+publishDate: 2017-02-28T00:00:00Z
 image: travel-business-name.jpg
 og_image: travel-business-name.jpg
+description: The onset of the digital era took tour and travel industry to a new
+  level. The original, bright, meaningful and memorable name is as necessary as
+  air for tourism-related business nowadays.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- business
+  - business
+industries: []
 ---
 The onset of the digital era took tour and travel industry to a new level. Along with maps, tour guides, handbooks and various online platforms where you can order a taxi, book a hotel or find a storage for your luggage, travel agencies have moved to the web too. All of them now have websites and mobile apps. It became easy for tourists to find a suitable service provider but the travel market players are at risk to get lost in the terabytes of information that swamps consumers in the Internet.
 
@@ -51,7 +53,7 @@ You can hire a naming agency to ease your life. The naming experts will make a r
 
 Since ancient times, bright things like emeralds, diamonds, corals and pearls magnetized people. Grey stones, on the contrary, are uninviting. The same is true for business names in general and names for travel agency business in particular. A vivid and engaging name provokes people's interest in what hides behind it. A good example is [eBookingServices](https://anadea.info/projects/ebookingservices) that recently changed its name to Tripaneer. As a result it got an ingenious and bright name that comes up on the first page in Google.
 
-> Read also: <a href="https://anadea.info/blog/travel-agency-software" target="_blank">How to Build Software for Travel Booking and Accounting?</a>
+{{< advert >}}Read also: <a href="https://anadea.info/blog/travel-agency-software" target="_blank">How to Build Software for Travel Booking and Accounting?</a>{{< /advert >}}
 
 ### Easy to remember
 
@@ -65,4 +67,4 @@ The success of any business is determined by the sum of accurately selected comp
 
 In travel industry, it's extremely important because every new name for tourists is a kind of guidebook. Travelers know that a special place should have a special name. They go to the Eiffel Tower, Big Ben, Niagara Falls and they are less interested in travel names like "5th avenue" or "Johnson street." They choose a travel agency and tourism service providers in a pretty similar way.
 
-**Need help with building your travel agency website or mobile app? We have a wide expertise in [travel app development](https://anadea.info/solutions/travel-app-development), contact us today to discuss your project!**
+{{< advert >}}Need help with building your travel agency website or mobile app? We have wide expertise in [travel app development](https://anadea.info/solutions/travel-app-development). Contact us today to discuss your project!{{< /advert >}}
