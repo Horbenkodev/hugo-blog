@@ -1,21 +1,21 @@
 ---
 title: How to Use Micro-Moments in Your Website Design
-publishDate: '2019-07-03T00:00:00Z'
-authors:
-- james-scott
-description: What are micro moments? To put it simply, a micro-moment, as Google defines
-  it, occurs when people turn to their devices in order to act on a need they have.
-  These needs can include wanting to learn, do, buy or watch something.
+draft: false
+publishDate: 2019-07-03T00:00:00Z
 image: How-to-make-use-of-micro-moments-in-web-design.jpg
 og_image: What_are_micro_moments.jpg
+description: What are micro moments? To put it simply, a micro-moment, as Google
+  defines it, occurs when people turn to their devices in order to act on a need
+  they have. These needs can include wanting to learn, do, buy or watch
+  something.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - ui-ux-design-team
 categories:
-- ux-ui
-- web
+  - design
+industries: []
 ---
 What are micro moments? To put it simply, a micro-moment, <a href="https://www.thinkwithgoogle.com/marketing-strategies/micro-moments/" target="_blank">as Google defines it</a>, occurs when people turn to their devices in order to act on a need they have. These needs can include wanting to learn, do, buy or watch something.
 
@@ -24,7 +24,6 @@ Micro-moments have become a big marketing trend precisely because smart devices,
 ## Start by categorizing micro-moments
 
 Micro-moments have been sorted out into four main categories, based on the overall consumer needs:
-
 
 ![what are micro moments in marketing and web design](What-are-micro-moments-in-marketing.jpg)
 
@@ -35,11 +34,7 @@ Micro-moments have been sorted out into four main categories, based on the overa
 
 In order to take advantage of micro-moments and build more effective, persuasive UX, you need to understand that they are not brand-related, but rather consumer-related.
 
----
-
-*Related read:* ***[Emotionally Intelligent Design: Why You Need It in Your App](https://anadea.info/blog/emotionally-intelligent-design-why-you-need-it-in-your-mobile-app)***
-
----
+{{< advert >}}Related read: [Emotionally Intelligent Design: Why You Need It in Your App](https://anadea.info/blog/emotionally-intelligent-design-why-you-need-it-in-your-mobile-app){{< /advert >}}
 
 ## Understand the needs of your visitors
 
@@ -57,7 +52,11 @@ One way to identify the micro-moments that your website should focus on is to ha
 
 ## Design based on those specific needs
 
-Once you have identified the most common reasons people reach your website, it’s time to design based on them. *“People need immediate answers when they look for something online, so in order to make sure they keep coming back to your website, you need to satisfy those needs in the fastest and easiest way possible,”* explains Mark Reed, web designer at <a href="https://www.topwritersreview.com/top-10-essay-writing-services/" target="_blank">Top Writers Review</a>.
+Once you have identified the most common reasons people reach your website, it’s time to design based on them. 
+
+> People need immediate answers when they look for something online, so in order to make sure they keep coming back to your website, you need to satisfy those needs in the fastest and easiest way possible
+
+explains Mark Reed, web designer at <a href="https://www.topwritersreview.com/top-10-essay-writing-services/" target="_blank">Top Writers Review</a>.
 
 If a visitor has reached your website in order to learn something, you need to focus on feeding them that information right away. Whether you have a very good topics page on your blog, which categorizes your content, a detailed FAQ section, or a search bar, make sure you have those featured on the landing page. Make sure these sections are easy to spot and use.
 
@@ -67,11 +66,7 @@ To handle the need to do something or go somewhere, make sure your opening hours
 
 When customers want to purchase something, they will be looking for products straight away. Feature your best products on the home page or use content personalization to show items the customer might be interested in based on their previous interactions. Split your products into categories and make sure you have optimized the search features well enough for them to easily find what they are looking for.
 
----
-
-*Related read:* ***[Retail Business Goes Mobile: How to Create a Good Retail App?](https://anadea.info/blog/retail-business-goes-mobile-how-to-create-a-good-retail-app)***
-
----
+{{< advert >}}Related read: [Retail Business Goes Mobile: How to Create a Good Retail App?](https://anadea.info/blog/retail-business-goes-mobile-how-to-create-a-good-retail-app){{< /advert >}}
 
 ## Focus on personalization
 
@@ -83,18 +78,8 @@ Keep in mind that most people use tablets or mobile devices to access web pages,
 
 When choosing headlines or titles for your articles, make sure to keep them short, but interesting. You want to attract viewers’ attention and you won’t be able to do so with long lines of text. You can also make use of images and infographics, but make sure they have been optimized well enough to look good on both small and large screens.
 
----
-
-*Related read:* ***[How to Build a Travel App That Wins Customer Loyalty](https://anadea.info/blog/how-to-build-a-travel-app-that-wins-customer-loyalty)***
-
----
+{{< advert >}}Related read: [How to Build a Travel App That Wins Customer Loyalty](https://anadea.info/blog/how-to-build-a-travel-app-that-wins-customer-loyalty){{< /advert >}}
 
 ## Take advantage of micro-moments
 
 Micro-moments marketing is a way to turn the experience users have on your website towards a more consumer-focused one and improve your visitors’ number, as well as conversion rates. In today’s fast-paced world, this should be an indispensable marketing strategy, in order to satisfy the customers’ need for fast-delivered information.
-
-
-<br />
-
----
-*This is a guest post by **<a href="https://twitter.com/JamesScottEsp" target="_blank">James Scott</a>.** James is an independent blogger and professional marketer. He is passionate about professional and agile team management. Even the smallest member of the team can change everything, so a wise manager should do their best to deliver the best working experience for everyone.*
