@@ -1,22 +1,25 @@
 ---
 title: How to Leverage the Project Management Triangle
-publishDate: '2018-06-18T00:00:00Z'
-authors: []
-description: Being the project manager at a software development company, I often
-  deal with the requests like "I want to do this app for a fixed price, can you do
-  it?" or "Could you tell me a precise cost of my project?". Moreover, clients asking
-  these questions may have just a brief idea of what they want to implement and they
-  may not be sure about all the details, however, they need the answer.
+breadcrumbs: Project Management Triangle
+draft: false
+publishDate: 2018-06-18T00:00:00Z
 image: Project-management.png
 og_image: Project-management.png
+description: Being the project manager at a software development company, I
+  often deal with the requests like "I want to do this app for a fixed price,
+  can you do it?" or "Could you tell me a precise cost of my project?".
+  Moreover, clients asking these questions may have just a brief idea of what
+  they want to implement and they may not be sure about all the details,
+  however, they need the answer.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - business-analysis-team
 categories:
-- business
-- development
+  - business
+  - development
+industries: []
 ---
 Being the project manager at a [custom software development company](https://anadea.info/services/custom-software-development), I often have to deal with the requests like "I want to do this app for a fixed price, can you do it?" or "Could you tell me a precise cost of my project?". Moreover, clients asking these questions may have just a brief idea of what they want to implement and they may not be sure about all the details of their project, however, they need the answer.
 
@@ -24,7 +27,7 @@ The only way to handle such situations is to introduce a clear process which let
 
 ![Project management triangle](Project-triangle.png)
 
-<p align="center"><i>"In order to manage you have to measure it"</i></p>
+> In order to manage, you have to measure it
 
 In this article, we will show you how to properly manage all three project constraints and [maintain transparency](https://anadea.info/blog/transparency-as-a-clue-to-successful-partnership) throughout the software development lifecycle.
 
@@ -52,13 +55,13 @@ Based on outcomes of these two steps, project manager creates a Work breakdown s
 
 Estimation of every feature includes the following activities:
 
-**1. Development of the feature**<br />
+### 1. Development of the feature
 At this stage, a developer writes code based on specification document and design.
 
-**2. Feature testing**<br />
+### 2. Feature testing
 [QA testing services](https://anadea.info/services/quality-assurance) ensure that the feature meets specified requirements and do not cause any negative impact on other parts of the system. If any issues are detected, quality engineer documents the issue (called 'bug') and addresses it to the development camp.
 
-**3. Bugfixing**<br />
+### 3. Bugfixing
 Based on QA specialist's recommendations, developer fixes bugs or implements improvements initiated by QA.
 
 In order to track progress on the development phase, project manager compares planned estimate with actual one so that there is a clear understanding if the project is on schedule or not.
