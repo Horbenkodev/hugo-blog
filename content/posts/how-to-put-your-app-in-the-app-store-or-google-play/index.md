@@ -1,19 +1,23 @@
 ---
-title: How to Publish an App in the App Store or Play Market?
-publishDate: '2016-10-31T00:00:00Z'
-authors: []
-description: 'Let''s imagine that your dream has come true: your app has been created,
-  the development process is left behind. What''s next? The time has come to introduce
-  your application to the world.'
+ceoTitle: How to Publish an App in the App Store or Play Market?
+title: What You Need to Know to Put Your App in the App Store or Google Play
+breadcrumbs: Publish Your App in App Store or Google Play
+slug: how-to-put-your-app-in-the-app-store-or-google-play
+draft: false
+publishDate: 2016-10-31T00:00:00Z
 image: submitting-app-to-app-store.jpg
 og_image: submitting-app-to-app-store.jpg
+description: "Let's imagine that your dream has come true: your app has been
+  created, the development process is left behind. What's next? The time has
+  come to introduce your application to the world."
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - mobile-development-team
 categories:
-- development
+  - development
+industries: []
 ---
 Let's imagine for a moment that your dream has come true: your app has been created, the development process is left behind as well as sleepless nights, everyday work, gallons of coffee and piles of cigarettes. The app that until recently used to live only in your imagination is now in your hands. You see how it is working and living, you are satisfied with the long way you have done. What's next? The time has come to introduce your creation to the world and this article will tell you how to submit app to app store.
 
