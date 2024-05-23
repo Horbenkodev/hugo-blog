@@ -4,7 +4,7 @@ title: Mental Health App Development - Cost & Features
 breadcrumbs: Mental Health App Development
 slug: custom-app-for-mental-health
 draft: false
-publishDate: 2022-03-14T00:00:00Z
+publishDate: 2022-03-14T00:00:00.000Z
 image: pexels-photo-668353.jpeg
 og_image: pexels-photo-668353.jpeg
 description: If your mental health startup is determined to make a difference in
@@ -213,4 +213,4 @@ Most commonly, ads in a mobile application are represented as banners in the sid
 ## Conclusion
 Good mental health is absolutely fundamental to overall health and well-being. COVID-19 has interrupted essential mental health services around the world, but it’s never been a better time to invest more in life-saving mental health applications. If you overcome the concerns about the lack of privacy, misuse of personal data, and providing inappropriate advice, then your app will rightfully enjoy great success.
 
-{{< ctabutton >}}Request app development quote{{< /ctabutton >}}
+{{< ctabutton href='https://anadea.info/contacts' >}}Request app development quote{{< /ctabutton >}}
