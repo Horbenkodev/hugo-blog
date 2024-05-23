@@ -1,21 +1,24 @@
 ---
 title: How to Pre-populate Android Room Database on First App Launch
-publishDate: '2018-12-12T00:00:00Z'
-authors: []
-description: Sometimes we need an application to be prefilled with some data on its
-  first launch. Usually, we would make a REST query and receive the data from backend,
-  but our application is standalone so that the only data source we have is our apk
-  file. In this article I will describe a recipe how to prepopulate Room database
-  with a small data set and how to do it with a few simple steps.
+breadcrumbs: Android Room Database Pre-Population
+draft: false
+publishDate: 2018-12-12T00:00:00Z
 image: coding.jpg
 og_image: coding.jpg
+description: Sometimes we need an application to be prefilled with some data on
+  its first launch. Usually, we would make a REST query and receive the data
+  from backend, but our application is standalone so that the only data source
+  we have is our apk file. In this article I will describe a recipe how to
+  prepopulate Room database with a small data set and how to do it with a few
+  simple steps.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - mobile-development-team
 categories:
-- development
+  - development
+industries: []
 ---
 Sometimes we need an application to be prefilled with some data on its first launch. Usually, we would make a REST query and receive the data from backend, but our application is standalone so that the only data source we have is our apk file.
 
