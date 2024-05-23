@@ -33,12 +33,8 @@
 
     {{ partial "shared/filters.html" . }}
 
-    {{ $feed := where .Site.RegularPages ".Params.promote.promote" "eq" false }}
-    {{ $feed = where $feed ".Params.top" "eq" false }}
-    {{ $paginator := .Paginate $feed }}
-
     <div class="postFeed">
-      {{ with $paginator }}
+      {{ with .Paginator }}
         {{ range .Pages }}
           {{ partial "shared/post_card.html" . }}
         {{ end }}

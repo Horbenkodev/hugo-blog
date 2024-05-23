@@ -1,3 +1,12 @@
+{{ $paginator := dict }}
+{{ if .IsHome }}
+  {{ $feed := where .Site.RegularPages ".Params.promote.promote" "eq" false }}
+  {{ $feed = where $feed ".Params.top" "eq" false }}
+  {{ $paginator = .Paginate $feed }}
+{{ else if not .IsPage }}
+  {{ $paginator = .Paginate .Pages }}
+{{ end }}
+
 <!doctype html>
 <html
   lang="{{ or site.Language.LanguageCode site.Language.Lang }}"
@@ -7,6 +16,7 @@
     {{ partial "head.html" . }}
     {{ block "page-js" . }}{{ end }}
     {{ block "page-css" . }}{{ end }}
+    {{ partial "shared/pagination_seo.html" $paginator }}
   </head>
   <body class="mainText">
     {{ with $.Site.Params.gtm }}
