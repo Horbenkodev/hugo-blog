@@ -1,34 +1,32 @@
 ---
-title: How to Get Seed Funding for Your Health IT Startup
-publishDate: '2019-01-31T00:00:00Z'
-authors:
-- sophia-lawrence
-description: Healthcare is an evergreen industry worldwide. As advances in medical
-  sciences and pharmaceuticals continue, there will be no dearth of innovative ideas
-  to launch healthcare based startups. In all probability, most health startups will
-  be IT-based. Primarily because IT now touches almost every sphere of our lives.
+ceoTitle: ""
+title: "Health IT Startup Funding: Here’s How to Attract the Investment"
+breadcrumbs: Health IT Startup Funding
+slug: health-it-startup-funding-how-to-attract-the-investment
+draft: false
+publishDate: 2019-01-31T00:00:00Z
 image: Seed-funding.jpg
 og_image: Seed-funding.jpg
+description: Healthcare is an evergreen industry worldwide. As advances in
+  medical sciences and pharmaceuticals continue, there will be no dearth of
+  innovative ideas to launch healthcare based startups. In all probability, most
+  health startups will be IT-based. Primarily because IT now touches almost
+  every sphere of our lives.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- healthcare
+authors:
+  - marketing-team
 categories:
-- business
+  - business
+industries:
+  - healthcare
 ---
-Updated 7 September, 2021
-
 Healthcare is an evergreen industry worldwide. As advances in medical sciences and pharmaceuticals continue, there will be no dearth of innovative ideas to launch healthcare based startups. In all probability, most health startups will be IT-based. Primarily because IT now touches almost every sphere of our lives.
 
 Consequently, there are lots of healthсare app startups coming up with most of them faring relatively well. However, funding them can prove cumbersome. Luckily, here are some excellent ways how to get seed funding for a startup in health IT startup that you may consider.
 
----
-
-***Related read: [How Much Does It Cost to Develop an App for Healthcare?](https://anadea.info/blog/how-much-does-it-cost-to-develop-an-app-for-healthcare)***
-
----
+{{< advert >}}Related read: [How Much Does It Cost to Develop an App for Healthcare?](https://anadea.info/blog/how-much-does-it-cost-to-develop-an-app-for-healthcare){{< /advert >}}
 
 ## Seed funding for health IT startup
 
@@ -70,18 +68,8 @@ Global pharmaceutical giants including Novartis, GlaxoSmithKline and Pfizer, amo
 
 It is now possible to <a href="https://www.cbinsights.com/research/pharma-drug-startups-most-active-investors/" target="_blank">approach any of these companies</a> to get seed funding for your health IT startup. Understandably, they would be more inclined to offer funding since your success would directly benefit their operations too. Pharmaceutical companies are looking for excellent healthcare startup ideas to fund. And they are willing to do so if you have the right stuff to attract them.
 
----
-
-***Related read: [The Future of Health: Innovative Trends in Medical Software Development 2019](https://anadea.info/blog/the-future-of-health-innovative-trends-in-medical-software-development-2019)***
-
----
+{{< advert >}}Related read: [The Future of Health: Innovative Trends in Medical Software Development 2019](https://anadea.info/blog/the-future-of-health-innovative-trends-in-medical-software-development-2019){{< /advert >}}
 
 ## In conclusion
 
 Other than these, you can also approach local venture capitalists, investors or draw on your savings. If your health IT startup will not require much funding, it is better to borrow money from relatives and friends. Some IT giants may also envisage interest in your health IT startup. However, IT companies are already saddled with too many proposals in their areas of operation. Unless your health IT startup idea is something unique and innovative, the chances are that IT companies might overlook your proposals and business plans. Regardless, you may consider any of these options for seed funding your health IT startup.
-
-
-<br />
-
----
-*This is a guest post by **Sophia Lawrence.***
