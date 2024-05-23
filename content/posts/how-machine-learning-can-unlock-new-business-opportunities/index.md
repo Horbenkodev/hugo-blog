@@ -1,22 +1,25 @@
 ---
+ceoTitle: ""
 title: How to Unlock New Business Value with Machine Learning
-publishDate: '2019-12-20T00:00:00Z'
-authors: []
-description: Machine learning (ML), business intelligence (BI) and artificial intelligence
-  (AI); we have got beyond these being mere buzzwords. A whole industry has grown
-  up around them, worth billions.
+slug: how-machine-learning-can-unlock-new-business-opportunities
+draft: false
+publishDate: 2019-12-20T00:00:00Z
 image: Machine-learning-business-value.jpg
 og_image: Machine-learning-business-value.jpg
+description: Machine learning (ML), business intelligence (BI) and artificial
+  intelligence (AI); we have got beyond these being mere buzzwords. A whole
+  industry has grown up around them, worth billions.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - daria-lopukhina
 categories:
-- business
-- machine-learning
+  - business
+  - machine-learning
+industries: []
 ---
-***Machine learning (ML), business intelligence (BI) and artificial intelligence (AI); we have got beyond these being mere buzzwords. A whole industry has grown up around them, worth billions. And the number of success stories are growing across a diverse range of sectors. This technology is proven.***
+Machine learning (ML), business intelligence (BI) and artificial intelligence (AI); we have got beyond these being mere buzzwords. A whole industry has grown up around them, worth billions. And the number of success stories are growing across a diverse range of sectors. This technology is proven.
 
 But at the same time, businesses can still be forgiven for not understanding what and how they can benefit from machine learning. And wondering if that is connected to other words and phrases that are kicked around?
 
@@ -61,9 +64,3 @@ In the short-term, start with something simple that has an off-the-shelf solutio
 Medium-term: bring a technology partner on-board to analyze the datasets and databases you have. From these, gain an understanding of the questions that need asking and therefore algorithms that need creating to deep dive into the data and come up with the answers. As a result of this work, you should have a clearer idea how ML can make a real difference within your business, at scale.
 
 In the long-term, either look at extending or expanding a pilot project, or identify other areas where solutions are needed and ML can demonstrate enhanced value. Every mid to large business is sitting on vast quantities of data. It used to be a byproduct of operations. Now data is an opportunity and growth area itself, and with the right team and tools, you can unlock this value and drive forward future growth.
-
-
-<br />
-
----
-*About author: Dariya Lopukhina is an online marketer, tech enthusiast and writer. She is a part of the Anadea team where we help entrepreneurs, startups and companies digitally transform and grow. Connect with her on <a href="https://twitter.com/DariyaLopukhina" rel="nofollow" target="_blank">Twitter</a> and <a href="https://www.linkedin.com/in/dariyalopukhina/" rel="nofollow" target="_blank">LinkedIn</a>.*
