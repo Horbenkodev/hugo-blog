@@ -1,20 +1,21 @@
 ---
 title: How to Integrate Google Maps into Ruby on Rails App
-publishDate: '2016-08-10T00:00:00Z'
-authors: []
-description: The first and the most important thing you need to know about Google
-  Maps service – it is awesome! It's an extremely fast, reliable, highly customizable
-  freemium tool.
+draft: false
+publishDate: 2016-08-10T00:00:00Z
 image: Google_maps.jpg
 og_image: Google_maps.jpg
+description: The first and the most important thing you need to know about
+  Google Maps service – it is awesome! It's an extremely fast, reliable, highly
+  customizable freemium tool.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - web-development-team
 categories:
-- development
-- ruby-on-rails
+  - development
+  - ruby-on-rails
+industries: []
 ---
 Google Maps service is an incredible tool that offers fast, reliable, and highly customizable features. It is also freemium, making it an ideal option for startups, with a daily limit of 2500 requests that should be more than enough for most. When I began my web development career, I was tasked with integrating an interactive map into an application. Like many others, I often forgot that "there is nothing new under the sun." Thus, I spent some time exploring guides instead of looking for pre-built solutions.
 
@@ -50,15 +51,15 @@ Static API is quite simple – an HTTP query to Google Maps API returns a solid 
 
 In the following example you can see a place familiar to most of our employees - the office of Anadea in Dnipro:
 
-<center><img src="Anadea-Dnepr.png" alt="Office of Anadea in Dnipro" style="width: 70%;"></center>
+![Office of Anadea in Dnipro](Anadea-Dnepr.png)
 
 Here is the same place, but with a deeper zoom:
 
-<center><img src="Anadea-Dnepr-closer.png" alt="Office of Anadea in Dnipro" style="width: 70%;"></center>
+![Office of Anadea in Dnipro](Anadea-Dnepr-closer.png)
 
 And once again, the same place, but this time as a panoramic view (made by a related Google Maps service called Street View):
 
-<center><img src="Anadea-Dnepr-streetview.jpg" alt="Office of Anadea in Dnipro" style="width: 70%;"></center>
+![Office of Anadea in Dnipro](Anadea-Dnepr-streetview.jpg)
 
 The list of available parameters can be found [here](https://developers.google.com/maps/documentation/maps-static/overview).
 
