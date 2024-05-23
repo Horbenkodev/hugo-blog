@@ -1,22 +1,27 @@
 ---
-title: IT Duel 2017 Implementation - DigitalOcean and Dokku Setup
-publishDate: '2018-02-09T00:00:00Z'
-authors: []
-description: In the first article of the series, we recalled the rules of the game
-  and the technical characteristics of the game engine. Now, let's describe how to
-  use DigitalOcean and Dokku to allow players to write a bot in multiple languages,
-  while having guaranteed equal resources in runtime and a pleasant deploy procedure.
+ceoTitle: IT Duel 2017 Implementation - DigitalOcean and Dokku Setup
+title: 'IT Duel 2017: "Battle of the Bots - Hexagon" Creation of the Game -
+  DigitalOcean Droplets and Dokku Setup'
+breadcrumbs: IT Duel 2017 - DigitalOcean Droplets and Dokku Setup
+slug: it-duel-2017-implementation-part2-digital-ocean-droplets-and-dokku-setup
+draft: false
+publishDate: 2018-02-09T00:00:00Z
 image: digital-ocean-dokku.jpeg
 og_image: digital-ocean-dokku.jpeg
+description: In the first article of the series, we recalled the rules of the
+  game and the technical characteristics of the game engine. Now, let's describe
+  how to use DigitalOcean and Dokku to allow players to write a bot in multiple
+  languages, while having guaranteed equal resources in runtime and a pleasant
+  deploy procedure.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- news
-- development
-- ruby-on-rails
+  - news
+  - development
+  - ruby-on-rails
+industries: []
 ---
 In the first article of the series, we recalled the rules of the game and the technical characteristics of the game engine. Now, let's describe how to use DigitalOcean and Dokku to allow players to write a bot in multiple languages, while having guaranteed equal resources in runtime and a pleasant deploy procedure.
 
