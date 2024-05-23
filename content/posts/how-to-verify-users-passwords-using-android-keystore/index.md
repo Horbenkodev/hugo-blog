@@ -1,29 +1,28 @@
 ---
 title: How to Verify Users' Passwords Using the Android KeyStore
-publishDate: '2019-01-08T00:00:00Z'
-authors: []
-description: Everybody knows that security is a very important issue for users and
-  therefore developers should take a proper care of it. There are many posts about
-  Android security in the Internet - some them explain difference between cryptography
-  algorithms, others are dedicated to basics of Android security. In this post I will
-  spotlight a single use case Android developers may face in their work.
+draft: false
+publishDate: 2019-01-08T00:00:00Z
 image: Security-android.jpg
 og_image: Security-android.jpg
+description: Everybody knows that security is a very important issue for users
+  and therefore developers should take a proper care of it. There are many posts
+  about Android security in the Internet - some them explain difference between
+  cryptography algorithms, others are dedicated to basics of Android security.
+  In this post I will spotlight a single use case Android developers may face in
+  their work.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- development
+  - development
+industries: []
 ---
 Everybody knows that security is a very important issue for users and therefore developers should take a proper care of it. There are many posts about Android security in the Internet - some of them explain difference between cryptography algorithms, whilst others are dedicated to basics of Android security. In this post I will spotlight a single use case Android developers may face in their work.
 
 Let's assume that we develop an application and we need to identify users - I am talking about a regular login screen. We are developing a standalone application and so we cannot rely on backend user validation capability as we usually do. Of course, we need a secure authorization flow.
 
-<center><img src="Knock_Knock.jpg" alt="Knock Knock" style="width: 30%;"></center>
-
-<center><sub>Image source: <a href="https://en.wikipedia.org/wiki/Knock_Knock_(play)" rel="nofollow" target="_blank">Knock Knock</a></sub></center>
+![Knock Knock](Knock_Knock.jpg)
 
 Saving users' passwords is a bad practice and none of developers want to be responsible for compromising users' credentials. The point is that many users are likely to use the same password for many services. As a result, a compromised password in our application may be a key to many other services.
 
@@ -37,7 +36,7 @@ What we are going to do:
 2. Sign user password with Digital Signature. The Signature procedure will be initiated with the key from step 1.
 3. Verify another user password with the Signature from step 2.
 
-### Stop talking and let's start coding!
+## Stop talking and let's start coding!
 
 First, we need to create a key pair with RSA specific parameters. To do this, we should start from creating parameters for RSA key, however we should do it a bit differently for Android M and above.
 
@@ -79,7 +78,7 @@ Again, we use Signature class facility to verify if provided input string and or
 
 To wrap up, we have a secure way of data verification without persisting any sensitive information at all. Also, generated certificate is not kept by our application but by the Android KeyStore so it is senseless to hack the application to find a signing certificate.
 
-#### References
+## References
 
 In the post I used just a few chunks of code to express the whole idea, but you can dive into details of the whole class on GitHab: <a href="https://github.com/sanya5791/KeystoreSamples/blob/master/app/src/main/java/com/akhutornoy/tastekeystore/security/DataSignatureVerifier.kt" target="_blank">KeystoreSamples</a>.
 
