@@ -24,8 +24,7 @@
     {{ partial "shared/filters.html" . }}
 
     <div class="postFeed">
-      {{ $paginator := .Paginate .Pages }}
-      {{ with $paginator }}
+      {{ with .Paginator }}
         {{ range .Pages }}
           {{ partial "shared/post_card.html" . }}
         {{ end }}
