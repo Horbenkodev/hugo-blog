@@ -1,21 +1,28 @@
 ---
-title: IT Duel 2017 Implementation - The Game Engine
-publishDate: '2018-03-07T00:00:00Z'
-authors: []
-description: In the previous articles of the series we decided on the required playground
-  functionality and prepared a [runtime infrastructure for game bots and sandboxes](https://anadea.info/blog/it-duel-2017-implementation-part2-digital-ocean-droplets-and-dokku-setup).
-  It's time to actually program the game engine.
+ceoTitle: IT Duel 2017 Implementation - The Game Engine
+title: 'IT Duel 2017: "Battle of the Bots - Hexagon" Creation of the Game - The
+  Game Engine'
+breadcrumbs: IT Duel 2017 - The Game Engine
+slug: it-duel-2017-implementation-part3-the-engine
+draft: false
+publishDate: 2018-03-07T00:00:00Z
 image: game-engine.jpg
 og_image: game-engine.jpg
+description: In the previous articles of the series we decided on the required
+  playground functionality and prepared a [runtime infrastructure for game bots
+  and
+  sandboxes](https://anadea.info/blog/it-duel-2017-implementation-part2-digital-ocean-droplets-and-dokku-setup).
+  It's time to actually program the game engine.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - web-development-team
 categories:
-- news
-- development
-- ruby-on-rails
+  - news
+  - development
+  - ruby-on-rails
+industries: []
 ---
 In the previous articles of the series we decided on the required playground functionality and prepared a [runtime infrastructure for game bots and sandboxes](https://anadea.info/blog/it-duel-2017-implementation-part2-digital-ocean-droplets-and-dokku-setup). It's time to actually program the game engine. As the main tools we will use [RoR](https://anadea.info/services/web-development/ruby-on-rails-development) and Sidekiq on the backend, ReactJS and WebSocket on the frontend.
 
