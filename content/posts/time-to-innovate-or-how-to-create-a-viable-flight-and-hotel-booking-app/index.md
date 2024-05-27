@@ -1,21 +1,27 @@
 ---
-title: How to Create a Viable Flight or Hotel Booking App
-publishDate: '2017-05-19T00:00:00Z'
-authors: []
-description: 'How do the flight search and hotel booking industry should work in the
-  age when Elon Musk says he''s going to develop a neural interface for telepath-like
-  thoughts exchange? I''ll describe it in two words: fast and easy. Oh, wait, that''s
-  three words… Nevermind, queues at the air ticket offices and blind looking for a
-  place to stay at night have turned into scary stories for kids.'
+ceoTitle: How to Create a Viable Flight or Hotel Booking App
+title: Time to Innovate or How to Create a Viable Flight and Hotel Booking App
+breadcrumbs: Flight and Hotel Booking App Development
+slug: time-to-innovate-or-how-to-create-a-viable-flight-and-hotel-booking-app
+draft: false
+publishDate: 2017-05-19T00:00:00Z
 image: flight_booking_app.jpg
 og_image: flight_booking_app.jpg
+description: "How do the flight search and hotel booking industry should work in
+  the age when Elon Musk says he's going to develop a neural interface for
+  telepath-like thoughts exchange? I'll describe it in two words: fast and easy.
+  Oh, wait, that's three words… Nevermind, queues at the air ticket offices and
+  blind looking for a place to stay at night have turned into scary stories for
+  kids."
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - mobile-development-team
 categories:
-- business
+  - business
+industries:
+  - travel
 ---
 How do you think the flight search and hotel booking industry should work in the age when Elon Musk says he's going to develop a neural interface for telepath-like thoughts exchange? I'll describe it in two words: fast and easy. Oh, wait, that's three words…
 
