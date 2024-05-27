@@ -1,41 +1,28 @@
 ---
-title: How to Create a Successful Business Plan for Your SaaS Business
-publishDate: '2022-05-25T00:00:00Z'
-authors: []
-description: Just like any other undertaking, your Software-as-a-Service startup needs
-  to be planned before engineers start working. See the guide to writing a SaaS business
-  plan.
+ceoTitle: How to Create a Successful Business Plan for Your SaaS Business
+title: How to Write a Business Plan for a SaaS Company
+breadcrumbs: SaaS Business Plan Guide
+slug: saas-business-plan-guide
+draft: false
+publishDate: 2022-05-25T00:00:00Z
 image: cloud-based-saas.jpg
 og_image: cloud-based-saas.jpg
+description: Just like any other undertaking, your Software-as-a-Service startup
+  needs to be planned before engineers start working. See the guide to writing a
+  SaaS business plan.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - marketing-team
 categories:
-- business
+  - business
+industries: []
 ---
 If you are on this page, perhaps you are already well aware of the benefits of composing a business plan when starting a venture. It allows you to stand firmly on the ground at every stage of business development and present your idea to investors correctly.
 
 What could possibly bring you here is the question of __how a business plan for SaaS is any different from a regular business plan__ and what to pay attention to when working out a SaaS <a href="https://anadea.info/services/business-analysis" target="_blank">business strategy</a>. Let’s figure it out.
 
-<h2>Table of Contents</h2>
-
-<ol>
-<li><a href="#saas-business-model">What Is a SaaS Business Model</a>
-  <ul>
-    <li><a href="#saas-vs-legacy">SaaS VS Legacy Systems</a></li>
-    <li><a href="#first-steps">Making First Steps Toward Your SaaS Business Plan</a></li>
-  </ul></li>
-<li><a href="#traditional-vs-lean">SaaS Startup Business Plan: Traditional VS Lean</a>
-  <ul>
-    <li><a href="#traditional">Composing a Traditional Business Plan for SaaS</a></li>
-    <li><a href="#lean">Composing a Lean Plan for SaaS</a></li>
-  </ul></li>
-<li><a href="#fin">As a General Conclusion</a></li>
-</ol>
-
-<a name="saas-business-model"></a>
 ## What Is a SaaS Business Model?
 __SaaS or Software-as-a-Service is a type of software maintained in the cloud, and to access and use it, B2B and B2C customers have to pay for a subscription.__ Subscription is the main source of revenue for the Software-as-a-Service business model which assures a high ROI for startups of this kind.
 
@@ -43,7 +30,6 @@ __SaaS or Software-as-a-Service is a type of software maintained in the cloud, a
 
 The most common SaaS examples are Salesforce, Slack, AWS, HubSpot, Mailchimp, Dropbox, and a lot more – their names are all around. SaaS end-user spending is set to reach <a href="https://www.statista.com/statistics/505243/worldwide-software-as-a-service-revenue/" rel="nofollow" target="_blank">$208.1 billion</a> by 2023 – the growth is impressive considering the past year’s number, $152.18 billion.
 
-<a name="saas-vs-legacy"></a>
 ### SaaS VS Legacy Systems
 More and more commonly, companies are looking to SaaS-ify their legacy software. It would not be so if SaaS sustained no value and benefits legacy systems have not.
 
@@ -55,7 +41,6 @@ However, it would be unfair to ignore the fact that on-premise systems have thei
 
 The recommended measures for security protection are SaaS Security Posture Management (SSPM) tools that identify integrity issues, excessive user permissions, and other cloud-related risks. What we mean is that __appropriate steps toward security protection can lift a lot of concerns of a business thinking about SaaS-ification.__
 
-<a name="first-steps"></a>
 ### Making First Steps Toward Your SaaS Business Plan
 The answer to what your SaaS business will be like has to be clear before starting a SaaS company business plan, not the other way around. With a clear SaaS concept in mind, start thinking of how the business plan will manage to break down the following:
 
@@ -64,13 +49,11 @@ The answer to what your SaaS business will be like has to be clear before starti
 * How will your product help businesses make more profit?
 * Why customers should choose your proposition over similar ones?
 
-> See also: <a href="/projects/turbine-hq" target="_blank">SaaS business case by Anadea</a>
+{{< advert >}}See also: <a href="/projects/turbine-hq" target="_blank">SaaS business case by Anadea</a>{{< /advert >}}
 
-<a name="traditional-vs-lean"></a>
 ## SaaS Startup Business Plan: Traditional VS Lean
 Time to pass from reasoning to action and translate everything you have been thinking over into a well-rounded plan. There can be two approaches to it. Below, we will review each.
 
-<a name="traditional"></a>
 ### Composing a Traditional Business Plan for SaaS
 How many pages should a business plan be? A traditional, practically academic approach to composing a business plan suggests it should have __30–50 pages__ of plain text, graphs, and argumentation. The proposed structure for a traditional SaaS business plan is:
 
@@ -79,7 +62,7 @@ How many pages should a business plan be? A traditional, practically academic ap
 #### 1. Executive Summary
 Essentially, this is the elevator pitch about your SaaS key perks and ability to fulfill its purpose. At this stage, your task is to capture the reader’s attention, and for that, it is necessary to know who your reader is.
 
-> Related read: <a href="https://anadea.info/guides/user-persona-for-startups" target="_blank">What Is the User Persona and How to Define It</a>
+{{< advert >}}Related read: <a href="https://anadea.info/guides/user-persona-for-startups" target="_blank">What Is the User Persona and How to Define It</a>{{< /advert >}}
 
 Include supporting data from research on your topic and be concise. Ironically enough, the introduction in its core, the ideal executive summary can be read as the conclusion with your business’s audience, relevance, and funding clearly outlined. This is why entrepreneurs are frequently suggested to compose the executive summary __after__ the plan is finalized.
 
@@ -127,7 +110,6 @@ For the 10x principle to work, make sure the profit given by your SaaS is at lea
 
 And still, given all this, it is difficult to be 100% precise when estimating financial projections. In fact, when it comes to planning a SaaS business launch, in a niche so rapidly growing and changing, the __lean plan__ might work just as well as the classical approach to writing a business plan. This does not change the significance of traditional business planning – on the contrary, both approaches are provided for you to choose from without us pushing you to take sides.
 
-<a name="lean"></a>
 ### Composing a Lean Plan for SaaS
 Contrary to the elaborated business plan described above, the lean plan is all about being concise and compact about wording. Forget the 30–50 page volume. The ideal lean plan can fit on one page.
 
@@ -139,7 +121,8 @@ When writing a lean business plan, your goals (apart from trying to use little s
 See the lean business plan for the SaaS template. Step by step, let’s figure out what should be specified in each section using the example of __invoicing SaaS.__
 
 ![lean business plan template](lean_business_plan_template.png)
-<center><p style="font-size:14px; font-style:italic">SaaS startup business plan template</p></center>
+
+<center><sub>SaaS startup business plan template<sub></center>
 
 __Identity.__ This is what defines you as a business and sets your value for customers. Mind the ‘less we, more you’ principle. ‘Seamless integrations, automated proration & recovery of lost revenue’ sounds more selling than just ‘We are a great invoicing tool.’
 
@@ -165,16 +148,9 @@ __Team and key roles.__ List those who will help you launch and develop your Saa
 
 __Partners and resources.__ If there is another business that will help you launch, indicate it in this section. Your competitive advantages such as support from, say, other financial businesses, if we are still speaking about invoicing SaaS, are worth listing here too.
 
-<a name="fin"></a>
 ## TL;DR
-*<p style="font-size:14px">too long; didn't read</p>*
-<br />
+<sub>too long; didn't read</sub>
 
-<style>
-table {
- width: 100%;
-}
-</style>
 <table>
   <tr>
     <td><center><b>Traditional plan</b></center></td>
@@ -199,3 +175,5 @@ table {
 Every successful SaaS has grown from an idea and then a business plan. No matter how many business plans templates you see online, they do not have to be followed strictly – all ideas can be customized to give a good showing for your project.
 
 Good luck with your undertaking! We’ll be happy to see you again when your plan is ready and build a great SaaS together.
+
+{{< ctabutton href='https://anadea.info/contacts' >}}Get in touch{{< /ctabutton >}}
