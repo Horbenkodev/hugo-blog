@@ -125,7 +125,7 @@ Below you can find some ideas that will help you to make your app more attractiv
 
 - **Bonuses and promotions**. To attract new users and retain the existing ones, you can introduce deposit bonuses, loyalty programs, and free bets.
 
-{{< advert_with_cta title="Your betting app awaits!" description="Request a free quote from software developers" button="Send your request" >}}
+{{< advert_with_cta title="Your betting app awaits!" description="Request a free quote from app developers" button="Send your request" >}}
 
 ## Sports betting app development process
 
