@@ -1,21 +1,24 @@
 ---
-title: How eLearning Help Students With Anxiety
-publishDate: '2019-04-23T00:00:00Z'
-authors:
-- tiffany-harper
-description: Anxiety is a very broad term that can be defined in many different ways.
-  According to the definition at WebMD.com, anxiety disorders are a group of mental
-  illnesses, which cause overwhelming and constant fear and worry. All anxiety disorders
-  can and will interfere with the learning process.
+ceoTitle: How eLearning Helps Students With Anxiety
+title: 10 Ways to Help Anxious Students with eLearning
+breadcrumbs: 10 Ways to Help Anxious Students with eLearning
+slug: 10-ways-to-help-anxious-students-with-elearning
+draft: false
+publishDate: 2019-04-23T00:00:00Z
 image: anxious-student.jpg
 og_image: anxious-student.jpg
+description: Anxiety is a very broad term that can be defined in many different
+  ways. According to the definition at WebMD.com, anxiety disorders are a group
+  of mental illnesses, which cause overwhelming and constant fear and worry. All
+  anxiety disorders can and will interfere with the learning process.
 promote:
   promote: false
 top: false
-draft: true
+authors: []
+categories:
+  - trends
 industries:
-- elearning
-categories: []
+  - elearning
 ---
 Anxiety is a very broad term that can be defined in many different ways. According to the <a href="https://www.webmd.com/anxiety-panic/guide/anxiety-disorders" target="_blank">definition at WebMD.com</a>, anxiety disorders are a group of mental illnesses, which cause overwhelming and constant fear and worry.
 
@@ -25,7 +28,7 @@ All anxiety disorders can and will interfere with the learning process.
 
 Daniel Stevens, psychologist and author, explains why that is the case:
 
-> *"Our emotional state greatly affects our learning ability. Everyone feels a bit anxious before an upcoming exam. It's normal, but we're not talking about that when referring to actual anxiety. These disorders practically make learning impossible. Someone with social anxiety disorder finds it impossible to present a project in front of an audience. A person with generalized anxiety disorder will go through so much stress during the studying process that they may get completely blocked during an exam. It's something that teachers should address."*
+> Our emotional state greatly affects our learning ability. Everyone feels a bit anxious before an upcoming exam. It's normal, but we're not talking about that when referring to actual anxiety. These disorders practically make learning impossible. Someone with social anxiety disorder finds it impossible to present a project in front of an audience. A person with generalized anxiety disorder will go through so much stress during the studying process that they may get completely blocked during an exam. It's something that teachers should address.
 
 How is learning anxiety related to corporate learning, though?
 
@@ -44,7 +47,7 @@ We're talking about people who may be excellent employees in a more relaxed sett
 
 Roberta Valverde, eLearning developer emphasizes the need for course developers to make it easier for anxious learners to succeed in their programs:
 
-> *"Some anxiety disorders, such as panic and social anxiety, increase as people grow older. When we put these people under the stress of learning and showing results, their adrenaline levels rise. They experience physical symptoms that interfere with the way they process information. By making online learning programs more accessible, we'll help them overcome these issues."*
+> Some anxiety disorders, such as panic and social anxiety, increase as people grow older. When we put these people under the stress of learning and showing results, their adrenaline levels rise. They experience physical symptoms that interfere with the way they process information. By making online learning programs more accessible, we'll help them overcome these issues.
 
 How exactly can we make eLearning more accessible to anxious students?
 
@@ -142,9 +145,4 @@ Anxiety is a big deal. For the one experiencing it, it's a major issue in their 
 
 Take the above-listed tips into consideration. They help you make eLearning more effective not just for anxious students, but for everyone else, too.
 
-> **Related read: [What is the Cost of Developing an eLearning platform](https://anadea.info/for-clients/development-time-cost/how-much-does-it-cost-to-develop-an-educational-app)**
-
-<br />
-
----
-*This is a guest post by **Tiffany Harper.** Tiffany is an experienced writer from New York (USA) and an extremely active woman. She began her career as a journalist, and now she works as a subject matter specialist with <a href="https://www.bestessays.com/" target="_blank">Bestessays.com</a>, mostly in business and eLearning technologies. Please do not hesitate to contact her on <a href="https://twitter.com/harper_tiffany" target="_blank">Twitter</a>.*
+{{< advert >}}Related read: [What is the Cost of Developing an eLearning platform](https://anadea.info/for-clients/development-time-cost/how-much-does-it-cost-to-develop-an-educational-app){{< /advert >}}
