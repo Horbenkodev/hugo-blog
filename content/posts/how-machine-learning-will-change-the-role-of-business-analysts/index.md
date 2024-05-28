@@ -1,23 +1,24 @@
 ---
 title: How Machine Learning Will Change the Role of Business Analysts
-publishDate: '2018-12-27T00:00:00Z'
-authors:
-- nadine-rochester
-description: Machine learning (ML) is a technology that is related to artificial intelligence
-  (AI), based around the idea that systems can learn from data and either improve
-  performance or become more accurate. It is linked to the concept of automation,
-  because machine learning enables systems to make decisions with little or no need
-  for intervention from humans.
+breadcrumbs: " ML Transforms Business Analysis"
+draft: false
+publishDate: 2018-12-27T00:00:00Z
 image: artificial-intelligence.jpg
 og_image: artificial-intelligence.jpg
+description: Machine learning (ML) is a technology that is related to artificial
+  intelligence (AI), based around the idea that systems can learn from data and
+  either improve performance or become more accurate. It is linked to the
+  concept of automation, because machine learning enables systems to make
+  decisions with little or no need for intervention from humans.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - ai-ml-team
 categories:
-- business
-- machine-learning
+  - business
+  - machine-learning
+industries: []
 ---
 Machine learning (ML) is a technology that is related to artificial intelligence (AI), based around the idea that systems can learn from data and either improve performance or become more accurate. It is linked to the concept of automation, because [machine learning development](https://anadea.info/services/machine-learning-software-development) enables systems to make decisions with little or no need for intervention from humans.
 
@@ -33,7 +34,7 @@ For instance, platforms like <a href="https://www.datarobot.com/" target="_blank
 
 Moreover, business analysts can use this technology to evaluate different models and thoroughly scrutinize the methodology. This allows them to compare the accuracy of each model and make informed decisions.
 
-> Related read: [Artificial Intelligence: a Pandora's Box or the Holy Grail?](https://anadea.info/blog/artificial-intelligence-pandoras-box-or-the-holy-grail)
+{{< advert >}}Related read: [Artificial Intelligence: a Pandora's Box or the Holy Grail?](https://anadea.info/blog/artificial-intelligence-pandoras-box-or-the-holy-grail){{< /advert >}}
 
 ## More human innovation
 
@@ -43,7 +44,7 @@ For example, machine learning will allow business analysts to delegate many of t
 
 *"The availability of low-cost hardware and advanced software – coupled with revolutionary technologies like Big Data, Cloud, and IoT – has the potential to develop the new world of business analysis,"* explains Paramita Ghosh, in an article <a href="http://www.dataversity.net/business-analyst-world-artificial-intelligence-machine-learning/" target="_blank">written for DataVersity.net</a>. *"Nitty-gritty routine work will be handled by machines and the innovative analytics strategies will be architected by humans."*
 
-> Related read: [Digital Transformation: The Business Analyst's Role and Value](https://anadea.info/guides/business-analyst-role)
+{{< advert >}}Related read: [Digital Transformation: The Business Analyst's Role and Value](https://anadea.info/guides/business-analyst-role){{< /advert >}}
 
 ## Changing job market
 
@@ -51,16 +52,14 @@ While predictions that AI and machine learning will make human business analysts
 
 In the past, some of the challenges that have prevented outsourcing business analyst roles to other countries have included language barriers and time zones. Yet, machine learning can help in both instances, assisting with language translation, processing and understanding, and providing automation at all times of the day. This, combined with the availability of <a href="https://www.strategyex.co.uk/explore-our-courses/available-modalities/project-management-etraining-and-online-courses" target="_blank">online project management courses</a> and business analyst courses, makes outsourcing much more viable.
 
-*"You can see it as a challenge and the fact that you will be vying for a job not only from people in your city but from around the world,"* says Kupe Kupersmith, <a href="https://www.batimes.com/articles/your-next-business-analyst-will-be-a-robot/" target="_blank">writing for the BA Times</a>. *"Or, you can look at it as an opportunity. No matter where you are, you can apply for jobs around the world."*
+> You can see it as a challenge and the fact that you will be vying for a job not only from people in your city but from around the world, 
+
+says Kupe Kupersmith, <a href="https://www.batimes.com/articles/your-next-business-analyst-will-be-a-robot/" target="_blank">writing for the BA Times</a>. 
+
+> Or, you can look at it as an opportunity. No matter where you are, you can apply for jobs around the world.
 
 ## The final word
 
 Machine learning and artificial intelligence are two of the most important emerging technologies and are going to disrupt a huge number of industries and job roles in the near future. One of these roles is that of business analyst, and the emerging technology has the potential to enable AI-driven analysis and increased automation associated with more mundane tasks, freeing business analysts up to focus on more complex, innovative and valuable work.
 
 Moreover, machine learning capabilities, coupled with the availability of high-quality online project management courses, will likely increase the viability of outsourcing business analyst roles to other countries, expanding the job market for businesses and business analysts alike, and allowing more of the work to be performed remotely.
-
-
-<br />
-
----
-*This is a guest post by **Nadine Rochester.** Nadine is a technical marketing director at Strategy Execution, a leading <a href="https://www.strategyex.co.uk/explore-our-courses/project-management-training" target="_blank">project management training courses</a> provider with over 20 years' experience in the global B2B sector, hands on, creative marketer, Nadine demonstrates a passion for cutting-edge technology and a proven ability to effectively translate client priorities. Nadine is passionate about Project Management, managing and contributing to the company PM blog servicing 40,000 monthly users.*
