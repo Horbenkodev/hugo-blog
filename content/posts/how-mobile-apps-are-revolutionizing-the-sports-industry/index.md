@@ -1,20 +1,23 @@
 ---
 title: How Mobile Apps Are Revolutionizing the Sports Industry
-publishDate: '2018-08-02T00:00:00Z'
-authors: []
-description: Whether they're playing or watching, digital technology is overhauling
-  how people enjoy – and interact – with their games. We examine the trends that are
-  shaping how the sports industry is using mobile applications to engage with their
-  audience.
+breadcrumbs: Revolution in Sports Mobile Apps
+draft: false
+publishDate: 2018-08-02T00:00:00Z
 image: sports_app.jpg
 og_image: sports_app.jpg
+description: Whether they're playing or watching, digital technology is
+  overhauling how people enjoy – and interact – with their games. We examine the
+  trends that are shaping how the sports industry is using mobile applications
+  to engage with their audience.
 promote:
   promote: false
 top: false
-draft: true
+authors:
+  - mobile-development-team
+categories:
+  - trends
 industries:
-- sports
-categories: []
+  - sports
 ---
 Whether they're playing or watching, digital technology is overhauling how people enjoy – and interact – with their games. We examine the trends that are shaping how the sports industry is using mobile applications to engage with their audience.
 
@@ -56,10 +59,6 @@ The benefits of tailored content aren't only for the user. Mobile apps such as <
 
 There's no hard and fast rule for what an app should do, other than provide benefits to the people using it. Maybe it's an idea people haven't seen before, <a href="https://www.gsb.stanford.edu/insights/five-key-trends-are-driving-business-sports" target="_blank">such as</a> NASCAR's "digital cockpit" for in-race interactions between drivers and fans, or it might be a simple chat service to keep team members up to date with each other, but mobile apps are bringing the physicality of the sports industry into the digital age.
 
-
-<br />
-
-
 Looking for a cool sports app developing company to bring your innovation ideas to life? Ping us and let's discuss your project!
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Get a Sports app quote{{< /ctabutton >}}
+{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Request a sports app quote{{< /ctabutton >}}
