@@ -1,19 +1,62 @@
 ---
-title: How to Create a Real Estate Website? 3 Types of Real Estate Platforms
-publishDate: '2023-01-16T00:00:00Z'
-authors: []
-description: Learn the tips and tricks of real website estate development so your
-  project meets all of your expectations.
+ceoTitle: How to Create a Real Estate Website? 3 Types of Real Estate Platforms
+title: Website Development for Real Estate Business. What You Should Know
+breadcrumbs: Real Estate Website Development
+slug: how-to-create-a-real-estate-web-platform
+draft: false
+publishDate: 2023-01-16T00:00:00Z
 image: real_estate_website.png
 og_image: real_estate_website_socials.png
+description: Learn the tips and tricks of real website estate development so
+  your project meets all of your expectations.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- real-estate
+authors:
+  - web-development-team
 categories:
-- web
+  - business
+industries:
+  - real-estate
+questionary:
+  - question: What are the types of real estate websites?
+    answer: The most popular types of real estate websites are listings
+      (marketplaces), investment platforms, and home-selling platforms for
+      non-professional sellers (regular homeowners). Also, professionals
+      offering services in the real estate field can create a website to grow
+      their business; these professionals are, but not limited to, real estate
+      appraisers, interior designers, constructors, real estate attorneys, etc.
+  - question: How accurate are real estate websites estimates?
+    answer: Soon enough we will be dealing with robots more than we do with humans,
+      and still, many people are concerned about the accuracy of online real
+      estate estimates, which is perfectly understandable. But we live in a
+      world of data and this data is constantly put to work. Reliable appraisal
+      tools are based on constantly updated datasets and consider even the minor
+      factors that can affect the result. For example, Zestimate by Zillow
+      generates estimated home values based on 7.5 million statistical and
+      machine learning models that analyze hundreds of data points on
+      properties. Besides, the standards for the accuracy of machine learning
+      estimation models are this high that even 90% accurate evaluations are not
+      the limit.
+  - answer: The monetization model for real estate websites is usually a combination
+      of these methods:</p>     <ul>         <li>             <strong>Bumping up
+      offers</strong>, or the opportunity for users to have their announcement
+      on top of others for a fixed amount of
+      time;         </li>         <li>             <strong>Selling ads
+      space</strong>, i.e. banner
+      spots;         </li>         <li>             <strong>Selling premium
+      content</strong>, such as articles, tips, or webinars related to the real
+      estate business;         </li>         <li>             <strong>Premium
+      plans</strong>, which offer users access to premium features like advanced
+      stats or priority
+      publication;         </li>         <li>             <strong>Commissions</strong>—the
+      commission for using as a secure platform for payments, in case the
+      website suggests payments processing. However, most websites for long-term
+      rent or home buying do not imply paying on the website. They will more
+      likely redirect to the agent’s website instead, so we do not recommend you
+      rely heavily on this model. On the contrary, short-term rental websites
+      allow payment processing very often.         </li>     </ul>
+    question: How do real estate websites make money?
 ---
 How many deals are closed on real estate websites every day, be it renting, buying, or selling? It’s impossible to calculate it even close to approximately since there are thousands and thousands of real estate websites with millions of visitors a day.
 
@@ -32,15 +75,9 @@ Here and further in the article, we break real estate platforms into the followi
 
 * __For-sale-by-owner (FSBO) websites__ and various tools for homeowners (calculators, reports, etc.) allowing them to sell the property without agents involved—FSBO.com, ForSaleByOwner.com, Homecoin.com.
 
-<center>
-<picture>
- <source media="(max-width: 700px)" srcset="Table_image_vertical.png">
- <img src="Table_image.png" loading="lazy">
-</picture>
-</center>
+![](Table_image.png)
 
 Yes, the industry is not limited to these three. Such service providers as real estate appraisers, real estate attorneys, industry-specific accountants, money lenders, constructors, etc. can have a website too. However, websites for these professionals usually fall under the category of web development in general as they are not complex technology-wise and do not require particular industry knowledge from software engineers. In contrast, real estate marketplaces and FSBO platforms take longer to develop and more things have to be considered when building them.
-
 
 ## Real estate marketplaces
 A real estate marketplace is the most widespread type of a real estate website platform and the easiest one to describe. If one is looking to buy or rent a home or an apartment, odds are 1000 of 100 they will come across a real estate marketplace on the first page of Google results.
@@ -51,7 +88,7 @@ The key feature of a real estate marketplace is connecting it to an MLS. If you 
 
 MLS stands for __multiple listing services__. Basically, a multiple listing service is a huge database of properties that can be downloaded by authorized real estate agents. The agents can share part of those listings on their website according to policies known as Internet Data Exchange. This is why listings are sometimes referred to as IDX listings.
 
-Usually, browsing the listing is made possible via an API. To be a valid MLS, it should implement Real Estate Transaction Standard (RETS).
+Usually, browsing the listing is made possible via an API. To be a valid MLS, it should implement a Real Estate Transaction Standard (RETS).
 
 One should differentiate listings from buildings. Buildings may contain many listings (or no listings at all). There are separate services that store spatial data for buildings. An example of such a service is <a href="https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page" target="_blank" rel="nofollow">Pluto</a>.
 
@@ -72,7 +109,7 @@ A property listing that includes all necessary information about available prope
 #### Cost calculation
 Cost calculator can help buyers to identify the cost of property in real time, which is important since it fluctuates on a regular basis. It is important that the calculator also takes taxes, interest on the loan, first payment details, etc. into account.
 
-> __Anadea has built a predictive analytics model for the real estate industry that makes predictions of the percent of sale probability and number of potential buyers with >90% accuracy. <a href="https://anadea.info/contacts" target="_blank">Contact us</a> to learn more.__
+{{< advert >}}Anadea has built a predictive analytics model for the real estate industry that makes predictions of the percent of sale probability and number of potential buyers with >90% accuracy. <a href="https://anadea.info/contacts" target="_blank">Contact us</a> to learn more.{{< /advert >}}
 
 #### Filters and search
 Enable various filters so that users can find what they need without wading through irrelevant propositions.
@@ -124,6 +161,8 @@ Be aware that not all buildings are geocoded. Sometimes you will need another pa
 
 #### 8. You may also need information about deals not open to the public
 This feature is not too common to commercial real estate platforms, but if this is one of your key features, you will need another third-party service like <a href="https://a836-acris.nyc.gov/CP/" target="_blank" rel="nofollow">Acris</a> to be integrated.
+
+{{< advert_with_cta title="Your real estate platform awaits!" description="Request a free quote from web developers" button="Send your request" >}}
 
 ### Cost of MLS integration
 Speaking of an MLS integration, it may look like a simple feature. However, it requires many aspects to be taken care of if you want your project to do something valuable rather than just be online.
@@ -215,22 +254,14 @@ Eventually, the cost of website development for real estate will depend on the p
 ### StreetEasy, NY’s leading real estate marketplace
 StreetEasy began as a website that displayed the housing market in New York City. The project eventually developed into the real estate marketplace, which offers in-depth knowledge of NYC areas and a fantastic user experience that lessens the stress associated with apartment seeking. Acquisition by Zillow and 6.7 million monthly visitors are just a tiny bit of facts about this amazing platform. Learn them all from our <a href="https://anadea.info/projects/streeteasy" target="_blank">case study</a>.
 
-<center>
-<picture>
- <source media="(max-width: 700px)" srcset="se_mobile.png">
- <img src="se_desk.png" loading="lazy">
-</picture>
-</center>
+![](se_desk.png)
 
 ### ListingDoor, an FSBO we all deserve
 ListingDoor is a solution for the US real estate market. This project was requested by Lappin Properties, a prosperous Houston business that has developed a system that enables consumers to sell their properties without the assistance of a broker. ListingDoor is integrated with 500+ local MLS across the USA and has been spotlighted by Forbes as “Uber for Real Estate Sales.” Find out more about ListingDoor from our <a href="https://anadea.info/projects/listingdoor" target="_blank">portfolio</a>.
 
-<center>
-<picture>
- <source media="(max-width: 700px)" srcset="ld_mobile.png">
- <img src="ld_desk.png" loading="lazy">
-</picture>
-</center>
+![](ld_desk.png)
+
+{{< ctabutton href='https://anadea.info/contacts' >}}Request estimate{{< /ctabutton >}}
 
 ## Frequently Asked Questions
 ### What are the types of real estate websites?
