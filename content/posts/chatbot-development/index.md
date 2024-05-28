@@ -1,18 +1,37 @@
 ---
-title: How to Build a Chatbot for Your Business
-publishDate: '2023-08-30T00:00:00Z'
-authors: []
-description: If you want to have a tool that will help you automate the process of
-  communication with your customers it’s time to learn more about chatbot development.
+ceoTitle: How to Build a Chatbot for Your Business
+title: "Chatbot Development: How to Build a Great One"
+breadcrumbs: How to Create a Chatbot
+slug: chatbot-development
+draft: false
+publishDate: 2023-08-30T00:00:00Z
 image: chatbot.png
 og_image: chatbot_socials.png
+description: If you want to have a tool that will help you automate the process
+  of communication with your customers it’s time to learn more about chatbot
+  development.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - ai-ml-team
 categories:
-- business
+  - business
+industries: []
+questionary:
+  - question: What is chatbot development?
+    answer: It is a process of building a software application that will be able to
+      simulate and process human conversation. Modern solutions are usually
+      powered by AI and can understand natural language in a written and/or oral
+      form. They are usually launched by companies with a view to enhancing
+      their customer support services.
+  - question: How much does it cost to develop a chatbot?
+    answer: Project costs can vary based on multiple factors, including the desired
+      complexity of the solution, the tech stack, and the rates of the team that
+      you want to hire. The prices for the simplest solutions that are not
+      powered by AI and ML start at $10K but more advanced projects are more
+      expensive. To find out the exact cost, you can contact our team and ask
+      for estimates.
 ---
 After the introduction of **ChatGPT** by OpenAI in November 2022, it may seem that absolutely anyone is talking about artificial intelligence today. But while some people are expressing their concerns about the risks of losing jobs because of AI, others are looking for ways to use the capacities of AI in their own interests. AI and ML are technologies that have enormous potential to change the world, including the business landscape. We strongly believe that modern companies shouldn't lose their chance to lead the market competition by using the new opportunities that advanced solutions can offer.
 
@@ -112,7 +131,7 @@ We can offer you to consider the following ML frameworks for your projects:
 
 Today there are really a lot of options. But none of them is perfect. All of them have their pros and cons. That's why if you feel that you need the help of professionals in order to make the right choice, do not hesitate to find a tech partner that will be able to offer you consulting and development services. For example, at Anadea, we will be happy to support you at any step of your project realization and you can turn to us even with the most challenging tasks. Given our exclusive expertise in AI software development, we are sure that we will be able to help you.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Make my chatbot{{< /ctabutton >}}
+{{< advert_with_cta title="Your custom AI chatbot awaits!" description="Request a free quote from AI developers" button="Send your request" >}}
 
 ## How to create a chatbot that will ensure an excellent user experience?
 
@@ -199,22 +218,17 @@ If you still haven't made up your mind about the necessity to build a chatbot fo
 
 With the growing adoption of modern technologies, people are more eager to interact with the bank's chatbot. In 2022, clients spent over 3 million hours communicating with Erica which indicates 31% growth year-over-year. The number of monthly engagements with Erica is 56 million.
 
-
 **Aditya Bhasin**, Chief Technology & Information Officer, in his statement made in October 2022 explained:
 
-> Bank of America has invested $3 billion or more on new technology initiatives each year for over a decade, including significant investments in AI that allow us to deliver a seamless user experience and industry-leading personalization for our clients banking online or on their mobile devices.
+{{< advert >}}Bank of America has invested $3 billion or more on new technology initiatives each year for over a decade, including significant investments in AI that allow us to deliver a seamless user experience and industry-leading personalization for our clients banking online or on their mobile devices.{{< /advert >}}
 
-<center>
 ![Virtual financial assistant app screen](erica.png)
-</center>
 
 It's interesting to mention that companies from absolutely different industries have already implemented various chatbots. The results demonstrated by these companies are excellent proof that chatbot development can be a good idea for every business.
 
 **Amtrak**, the public transportation company, implemented the first version of their chatbot **Julie** more than 10 years ago. But later, they launched the **"Ask Julie"** service relying an on advanced AI chat platform. And what were the results, except for 800% ROI? Just in one year, the company managed to reduce customer service expenses by $1,000,000, the number of bookings jumped by 25%, and the chatbot was able to bring in 30% more revenue than any other means for making bookings.
 
-<center>
 ![Chatbot Julie app screen](ask_julie.png)
-</center>
 
 In Q3-Q4 2023, it became known that a well-known food delivery giant **Uber Eats** is going to launch an [AI-powered chatbot](https://www.bloomberg.com/news/articles/2023-08-28/does-uber-eats-have-an-ai-chatbot-code-inside-the-app-suggests-it-s-on-the-way?sref=gni836kR) to enhance their customer services and increase profits. Though the details haven't been revealed, the new chatbot is expected to provide recommendations to users and help them to place orders faster. The company's competitor, **DoorDash**, is also said to be developing a similar solution. Such a trend is a clear indicator that AI-powered solutions will soon become an industry standard for food delivery platforms.
 
@@ -252,43 +266,4 @@ So, has our article inspired you to build a chatbot for your business? If you ar
 
 An AI-powered chatbot can become a powerful business tool and with the right approach to its development and implementation, you will be able to gain a row of competitive advantages on the market. Do not hesitate to contact us to learn more and get project estimates for free!
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Get a free quote{{< /ctabutton >}}
-
-## Frequently Asked Questions
-
-### What is chatbot development?
-
-It is a process of building a software application that will be able to simulate and process human conversation. Modern solutions are usually powered by AI and can understand natural language in a written and/or oral form. They are usually launched by companies with a view to enhancing their customer support services.
-
-### How much does it cost to develop a chatbot?
-
-Project costs can vary based on multiple factors, including the desired complexity of the solution, the tech stack, and the rates of the team that you want to hire. The prices for the simplest solutions that are not powered by AI and ML can start at $5K-$10K but more advanced projects are more expensive. Their costs can reach $150K+. To find out the exact cost, you can contact our team and ask for estimates.
-
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
-  {
-   "@type": "Question",
-   "name": "What is chatbot development?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "It is a process of building a software application that will be able to simulate and process human conversation. Modern solutions are usually powered by AI and can understand natural language in a written and/or oral form. They are usually launched by companies with a view to enhancing their customer support services."
-    }
-   ]
-  },
-  {
-   "@type": "Question",
-   "name": "How much does it cost to develop a chatbot?",
-   "acceptedAnswer": [
-    {
-     "@type": "Answer",
-     "text": "Project costs can vary based on multiple factors, including the desired complexity of the solution, the tech stack, and the rates of the team that you want to hire. The prices for the simplest solutions that are not powered by AI and ML can start at $5K-$10K but more advanced projects are more expensive. Their costs can reach $150K+. To find out the exact cost, you can contact our team and ask for estimates."
-    }
-   ]
-  }
- ]
-}
-</script>
+{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}
