@@ -28,13 +28,7 @@ function initForm() {
       return;
     }
 
-    if (token || (categories && industries)) {
-      window.location = `/search/?${data.toString()}`;
-      return;
-    }
-
-    const path = categories ? `/categories/${categories}` : `/industries/${industries}`;
-    window.location = path;
+    window.location = `/search/?${data.toString()}`;
   });
 }
 
