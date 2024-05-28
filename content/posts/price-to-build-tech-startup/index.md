@@ -1,18 +1,22 @@
 ---
-title: How Much Money Do I Need to Build a Tech Startup?
-publishDate: '2022-06-27T00:00:00Z'
-authors: []
-description: A Business Analyst breaks down the cost of building an app startup, team
-  composition, and shares ways to reduce development cost.
+ceoTitle: How Much Money Do I Need to Build a Tech Startup?
+title: What Is the Cost to Build a Tech Startup?
+breadcrumbs: App Startup Cost
+slug: price-to-build-tech-startup
+draft: false
+publishDate: 2022-06-27T00:00:00Z
 image: blue-bird.jpg
 og_image: blue-bird.jpg
+description: A Business Analyst breaks down the cost of building an app startup,
+  team composition, and shares ways to reduce development cost.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - business-analysis-team
 categories:
-- business
+  - business
+industries: []
 ---
 Hey!
 
