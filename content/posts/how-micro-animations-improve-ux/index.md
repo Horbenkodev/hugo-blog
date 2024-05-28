@@ -1,22 +1,25 @@
 ---
 title: How Micro Animations Improve UX
-publishDate: '2018-11-06T00:00:00Z'
-authors:
-- pete-trbovich
-description: These days engagement is the name of the game when it comes to websites
-  and apps. Brands know that competition in the marketplace is fierce, attention spans
-  are short, and customer loyalty can be fickle. Therefore, websites and apps need
-  to focus on user experience - making a site or app genuinely engaging - interesting
-  or genuinely fun to use, fast loading and intuitive.
+breadcrumbs: Micro Animations for UX
+slug: ""
+draft: false
+publishDate: 2018-11-06T00:00:00Z
 image: ux_design-750.jpg
 og_image: ux_design.jpg
+description: These days engagement is the name of the game when it comes to
+  websites and apps. Brands know that competition in the marketplace is fierce,
+  attention spans are short, and customer loyalty can be fickle. Therefore,
+  websites and apps need to focus on user experience - making a site or app
+  genuinely engaging - interesting or genuinely fun to use, fast loading and
+  intuitive.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - ui-ux-design-team
 categories:
-- ux-ui
+  - design
+industries: []
 ---
 These days engagement is the name of the game when it comes to websites and apps. Brands know that competition in the marketplace is fierce, attention spans are short, and customer loyalty can be fickle. Therefore, websites and apps need to focus on user experience - making a site or app genuinely engaging - interesting or genuinely fun to use, fast loading and intuitive.
 
@@ -103,9 +106,3 @@ This example from <a href="https://s3.amazonaws.com/hostgator-coupon-code/index.
 ## Conclusion
 
 Micro-animations have the potential to turn any app or website that utilizes them well into a well-crafted, enjoyable, perhaps even memorable experience for the user. A good site should be designed with usability and functionality in mind from layout to navigation, and animation should be used to fill in the gaps. Designed and used well, they will serve to enhance user experience, and in turn, positive sentiment toward your brand.
-
-
-<br />
-
----
-*This is a guest post by **Pete Trbovich.** Pete has a passion for all things web development and design. A self-avowed tech geek, he has spent the last 18 years as a freelance writer for blogs, websites and social media, covering a wide spectrum of topics from politics to horror films.*
