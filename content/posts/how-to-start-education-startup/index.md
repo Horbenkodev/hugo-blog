@@ -1,37 +1,23 @@
 ---
-title: How to Build an Online Education Startup in 2022?
-publishDate: '2021-04-23T00:00:00Z'
-authors: []
-description: Here you can find the guide on how to start your educational startup
-  step by step - a plan from idea to a complete EdTech project.
+title: How to Build an Online Education Startup
+breadcrumbs: How to Start Education Startup
+slug: how-to-start-education-startup
+draft: false
+publishDate: 2021-04-23T00:00:00Z
 image: edtech-startup.jpg
 og_image: edtech-startup.jpg
+description: Here you can find the guide on how to start your educational
+  startup step by step - a plan from idea to a complete EdTech project.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- elearning
+authors:
+  - business-analysis-team
 categories: []
+industries:
+  - elearning
 ---
-_Updated on August 11, 2022._
-
-<h2>Table of contents</h2>
-<ul>
- <li><a href="#why-edtech-startup">Why start edtech startup now</a></li>
- <li><a href="#set-direction">Step 1: Set yourself a direction where to move with the idea</a></li>
- <li><a href="#market-research">Step 2: Do market research</a></li>
- <li><a href="#product-concept">Step 3: Specify a product concept</a></li>
- <li><a href="#killer-feature">Step 4: Find a killer feature for your app</a></li>
- <li><a href="#monetization">Step 5: Think about monetization</a></li>
- <li><a href="#funding">Step 6: Get education startup funding</a></li>
- <li><a href="#elearning-developer">Step 7: Find an e-Learning development company</a></li>
- <li><a href="#metrics">Step 8: Set up measurable metrics</a></li>
- <li><a href="#fin">Conclusions</a></li>
-</ul>
-
-<a name="why-edtech-startup"></a>
-## Why start edtech startup now
+## Why start edtech startup now?
 
 If you are searching for the answer to 'how to start an ed tech startup', most probably you have the feeling that there was no better time for this than now. Educational institutions - private and public - are actively introducing distance learning, the number of online schools is growing, people care for self-education for building their career and promotion.
 
@@ -41,48 +27,39 @@ To prove it with figures, in 2019, the market size of e-learning surpassed USD 2
 
 Even if you have no plans to go globally and you just have an idea for your local market, there are millions of great opportunities to find your niche and succeed. Let’s learn how to do it step by step.
 
-<a name="set-direction"></a>
 ## Step 1: Set yourself a direction where to move with the idea
 
 Let’s start with who you are and what you want, as all the other steps depend on this. Answer in writing a scope of questions to set yourself a direction.
 
-__What problem is your edtech business/solution solving?__<br />
+__What problem is your edtech business/solution solving?__
+
 Describe why your solution will be helpful.
 
-__What will you have that the competitors don’t?__<br />
+__What will you have that the competitors don’t?__
+
 Define what’s the main reason why people should use it.
 
-__Who will use it?__<br />
+__Who will use it?__
+
 Define the profile of the user your app targets. They call it ‘user persona’. To start understanding your users first you need to describe them in bulk. How to do it? One of the ways is to search for real people on social media and study their profiles, writing out what they’ve got in common. Pay attention to such characteristics as country, language, gender, age, background, education level, interests and hobbies, family composition, social background, knowledge area, or maybe even a specific education institution they belong to. Try to make it as detailed as you can.
 
-__How to make it profitable?__<br />
+__How to make it profitable?__
+
 What will make users interested in the app? What exactly do they pay for? What’s your killer feature?
 
-__What kind of solution do you need - web or mobile?__<br />
+__What kind of solution do you need - web or mobile?__
+
 And here you are at the crossroad of deciding whether to start with a web application or a mobile application. If your goals are to deliver content and establish a broad presence that can be easily maintained, shared between users, and found on search engines, then a mobile-friendly responsive website is a fine choice.
 
 If your goal is to provide a user experience that needs access to a user's phone storage and native functions (GPS, camera, push notifications, offline access, etc.) you’d better opt for a mobile app.
 All these technical aspects may be complicated for perception and to decide for sure it can be helpful to consult with an <a href="https://anadea.info/free-project-estimate" target="_blank">elearning app development company</a>.
 
-<a name="market-research"></a>
 ## Step 2: Do market research
 
 The first step of starting an elearning business is to find the niche in your market, investigate what’s popular in it and what it lacks.
 
 One of the ways is to do competitive research. Look at the competitors in your region and analyze their apps: what they’ve got in common, what distinguishes them from each other, how they implement their ideas, what’s their hook for users (a unique thing you give), what’s the monetization models.
 
-<style>
-table {
- width: 100%;
- border: 1px solid #ddd;
-}
-td {
- text-align: left;
- padding: 16px;
- border: 1px solid #ddd;
-}
-
-</style>
 <table><tr><td width="25%"><br></td><td width="25%"><center>Competitor 1</center>
 </td><td width="25%"><center>Competitor 2</center>
 </td><td width="25%"><center>You</center>
@@ -101,7 +78,7 @@ Where to find edtech companies for analysis? If your choice is to build a web so
 ![Top Education Apps](tool.png)
 
 After you filled the comparative table and saw the picture, you can move further to the product concept creation.
-<a name="product-concept"></a>
+
 ## Step 3: Specify a product concept
 
 The main idea of building a product concept is to create a structured answer to the question: 'what solution do I want exactly' and send it to app developers who will help you with the tech part of building your app.
@@ -113,9 +90,8 @@ The product concept __must contain the core idea of your app__ without which it 
 3. How users are going to utilize the application (do they need a permanent Internet connection, camera, GPS, etc.);
 4. Specify the ways you are going to monetize your product.
 
-> Related article: <a href="https://anadea.info/guides/what-is-mvp" target="_blank">What Is MVP and How to Build an App MVP</a>
+{{< advert >}}Related article: <a href="https://anadea.info/guides/what-is-mvp" target="_blank">What Is MVP and How to Build an App MVP</a>{{< /advert >}}
 
-<a name="killer-feature"></a>
 ## Step 4: Find a killer feature for your app
 Building a successful education app is always about providing value to users. It’s obvious that the main purpose of education is giving the opportunity to learn something new, build new skills, or master existing ones. But __what’s the real goal of the audience__? Why do they put so much effort into it? Do they want to study a new language to get a promotion? Do they want to go to another country? Maybe they want to pass an exam to go to university? Or change a career path? What goals do they set for themselves? As soon as you formulate the real goal of their study, think of a way they will try to reach it.
 
@@ -123,12 +99,12 @@ It’s great when you know what is lacking to achieve the goal or you can judge 
 
 But in the case if there’s no such previous experience you can rely on, it’s a great idea to search in forums where people give each other advice about materials, underwater rocks and difficulties they faced, how they overcame them, provide tips on learning, and share materials. Pay special attention to those questions that are frequent but remain unanswered. This may be your killer feature idea.
 
-<a name="monetization"></a>
 ## Step 5: Think about monetization
 
 Here’s the list of the most common of them depending on the solution type.
 
-__For apps__<br />
+__For apps__
+
 * Purchase app from the app store - users pay for a download;
 * In-app advertising - earn revenue for showing third-party ads within their mobile applications;
 * Freemium - open extra features for those who want them;
@@ -137,7 +113,8 @@ __For apps__<br />
 * Data licensing - sell users behavior aggregated non-personalized data;
 * Sponsorships - find sponsors and gain revenue from advertising them in your app.
 
-__For online learning platforms, course marketplaces, SaaS, etc.__<br />
+__For online learning platforms, course marketplaces, SaaS, etc.__
+
 * Subscriptions
 * Payment per a course
 * Freemium
@@ -146,7 +123,6 @@ __For online learning platforms, course marketplaces, SaaS, etc.__<br />
 
 Mind that you can combine them and test what works better.
 
-<a name="funding"></a>
 ## Step 6: Get education startup funding
 
 Some startuppers have their own project start budget, others have it only partially or lack some amounts. There can be different ways to bring your project to life, from a bank loan to getting an additional job to support your startup activities. By the way, about half of startup founders have a full-time job or a part-time job and combine both. Many of them even study. For instance, Pascal Klein, a customer of Anadea and a founder of <a href="https://anadea.info/projects/ham-nat-coach" target="_blank">Ham-Nat Coach</a> continued to study at the medical university and dedicated time to his startup, working for 10-12 hours a day!
@@ -162,22 +138,28 @@ These are 5 great possibilities to find the money for your beginning:
 * Bootstrapping
 * Accelerators and incubators
 
-__Government grants and entrepreneur suppose programs__<br />
+__Government grants and entrepreneur suppose programs__
+
 This is a real chance to get funding for your startup, especially in countries that actively develop the IT sector. For instance, Israel is well known for its intensive support of entrepreneurs.
 
-__Corporate spin-offs__<br />
+__Corporate spin-offs__
+
 In case you are working at a company that practices spin-offs and welcomes initiative, you can try to lead a new beginning. It’s a good option, especially since the parent company provides you not only with funds but also with human resources.
 
-__Accelerators and incubators__<br />
+__Accelerators and incubators__
+
 These kinds of institutions aim at early-stage startups with an MVP at their hands. They help to speed up the growth, establish processes and a business model, and sometimes connect founders with venture funds.
 
-__Crowdfunding__<br />
+__Crowdfunding__
+
 Take your chances on platforms like <a href="https://www.indiegogo.com/" target="_blank" rel="nofollow">Indiegogo</a>, <a href="https://www.kickstarter.com/" target="_blank" rel="nofollow">Kickstarter</a>, and <a href="https://www.seedinvest.com/" target="_blank" rel="nofollow">SeedInvest Technology</a>. It’s not rare when a startup with an elegant and thought-through pitch attracts attention and gets funding, especially when the sum you ask is not astronomical.
 
-__Bootstrapping__<br />
+__Bootstrapping__
+
 It’s a situation when you rely on your personal finances while building the company. Still, many bootstrappers turn to business bank loans or any other way to get funding.
 
-__Angel investors and venture funds__<br />
+__Angel investors and venture funds__
+
 In case you need fundraising for your education startup, you can consider the option of finding an e learning business angel or venture fund online through investment platforms like:
 
 * AngelList
@@ -191,7 +173,6 @@ In case you need fundraising for your education startup, you can consider the op
 
 ![e-learning start-up funding](investment_platforms_2.png)
 
-<a name="elearning-developer"></a>
 ## Step 7: Find an <a href="https://anadea.info/solutions/e-learning-software-development" target="_blank">e-Learning development company</a>
 
 Finding a development company for your startup is not a big deal today, as there are lots of them in the market - just open a listing like <a href="https://www.goodfirms.co/app-development/education" rel="nofollow" target="_blank">GoodFirms</a>, for example. The main part is to make the right choice. Find the good tips and points to check:
@@ -217,7 +198,6 @@ The Discovery Phase runs before development and its deliverables are:
 
 Requirements that won't be elaborated and finalized will be worked on after development is started. In other words, the discovery phase will continue, while the team is building a solution. Backlog is ongoingly prepared for further development.
 
-<a name="metrics"></a>
 ## Step 8: Set up measurable metrics
 
 There are a number of universal metrics to start measuring. Understanding them, gathering and measuring will provide you an opportunity to make competent decisions and navigate in the sea of suspense. They are:
@@ -236,7 +216,6 @@ There are a number of universal metrics to start measuring. Understanding them, 
 
 You can use Google Analytics to gather metrics that are related to users. Others should be gathered and calculated, especially those connected to finances.
 
-<a name="fin"></a>
 ## Conclusions
 
 After the successful launch, a startup needs to struggle for success really hard. What you’ll need further are activities to develop your product, business, and service.
