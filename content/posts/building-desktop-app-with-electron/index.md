@@ -1,22 +1,27 @@
 ---
-title: How to Build a Desktop App with Electron?
-publishDate: '2016-10-05T00:00:00Z'
-authors: []
-description: 'Electron: if you can build a website, you can build a desktop appCurrently,
-  in the Web we can do almost everything using HTML/CSS/JS. There is a lot of libraries,
-  frameworks, debug tools, test frameworks, articles and training resources. Also,
-  do not forget about StackOverflow, where you can find the answers to questions almost
-  instantly and some of them with real examples. Even for browser, there are many
-  extensions that follow, measure, debug, show us each part of the site.'
+ceoTitle: How to Build a Desktop App with Electron?
+title: Building Desktop App with Electron
+breadcrumbs: Building Desktop App with Electron
+slug: building-desktop-app-with-electron
+draft: false
+publishDate: 2016-10-05T00:00:00Z
 image: building-desktop-app-with-electron.jpg
 og_image: Chapter_1._Preview_of_instalation.png
+description: "Electron: if you can build a website, you can build a desktop
+  appCurrently, in the Web we can do almost everything using HTML/CSS/JS. There
+  is a lot of libraries, frameworks, debug tools, test frameworks, articles and
+  training resources. Also, do not forget about StackOverflow, where you can
+  find the answers to questions almost instantly and some of them with real
+  examples. Even for browser, there are many extensions that follow, measure,
+  debug, show us each part of the site."
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - web-development-team
 categories:
-- development
+  - development
+industries: []
 ---
 ### Electron: if you can build a website, you can build a desktop app
 
@@ -38,15 +43,9 @@ In this article I will explain:
 
 For the final version of the project, I used the following technologies: *Electron*, *Electron Builder*, *React*, *Redux*, *Redux DevTools*, *Webpack*, *Rails-API*, and desktop features (*Notification* and *Update Tray*).
 
-Our electron app tutorial is organized into sections and provides videos of what was done.
-
 ## Chapter 1: Structure of the app
 
-Here is a brief outline of how our application should look like:
-
-<iframe width="auto" height="315" src="https://www.youtube.com/embed/prp2oVdH6bw" frameborder="0" allowfullscreen style="min-width: 300px"></iframe>
-
-Let's begin! First of all, make sure that you have already installed <a href="https://anadea.info/services/web-development/node-js-development">*NodeJs*</a> and *NPM*. In this example we will not use boilerplates for our app. Important notice: we will develop this electron desktop app only for Mac (setting up the app for *Linux* and *Windows* doesn't differ much but there are some tricky points).
+First of all, make sure that you have already installed <a href="https://anadea.info/services/web-development/node-js-development">*NodeJs*</a> and *NPM*. In this example we will not use boilerplates for our app. Important notice: we will develop this electron desktop app only for Mac (setting up the app for *Linux* and *Windows* doesn't differ much but there are some tricky points).
 
 ### Structure of the project:
 
@@ -64,11 +63,11 @@ Let's begin! First of all, make sure that you have already installed <a href="ht
 
 To begin, we need to update our `package.json` file:
 
-```
+```js
 package.json
 ```
 
-```
+```js
 {
  "name": "TimeTracker",
  "version": "0.0.1",
@@ -89,14 +88,14 @@ package.json
 
 And install two additional packages:
 
-```
+```js
 npm install electron --save-dev
 npm install electron-positioner --save-dev // Helps positioning your app windows.
 ```
 
 Now we should run the next command to start our app:
 
-```
+```js
 npm run electron
 ```
 
@@ -114,11 +113,11 @@ TODO:
 
 Let's create file: `index.js` (entry point to our application).
 
-```
+```js
 electron-app/js/index.js
 ```
 
-```
+```js
 const electron = require('electron');
 const {app, ipcMain} = electron;
 
@@ -147,11 +146,11 @@ ipcMain.on('quit-app', function() {
 });
 ```
 
-```
+```js
 electron-app/windows/TrayWindow.js
 ```
 
-```
+```js
 const path = require('path');
 const { BrowserWindow } = require('electron');
 
@@ -185,11 +184,11 @@ module.exports = TrayWindow;
 
 HTML file that we use to render TrayWindow:
 
-```
+```js
 electron-app/pages/tray_page.html
 ```
 
-```
+```js
 <!DOCTYPE html>
 <html>
  <head>
@@ -217,15 +216,15 @@ electron-app/pages/tray_page.html
 
 Add an icon of the app into `icons` folder. This icon will appear in the Tray.
 
-```
+```js
 electron-app/icons/icon-22.png
 ```
 
-```
+```js
 electron-app/js/TrayIcon.js
 ```
 
-```
+```js
 const path = require('path');
 const { BrowserWindow, Tray } = require('electron');
 // Electron-positioner - npm package for positioning of the Tray Window. Our Tray Window should appear under the Tray icon.
@@ -260,11 +259,9 @@ module.exports = TrayIcon;
 
 Now we can launch our app:
 
-```
+```js
 npm run electron
 ```
-
-<iframe width="auto" height="315" src="https://www.youtube.com/embed/Gjcx40WLh3w" frameborder="0" allowfullscreen></iframe>
 
 ## Chapter 3: Dynamic tray
 
@@ -275,11 +272,11 @@ Let's add random words into the tray bar on button click.
 
 We should add one more listener to HTML file:
 
-```
+```js
 electron-app/pages/tray_page.html
 ```
 
-```
+```html
 <!DOCTYPE html>
  ...
  <body style='-webkit-app-region: no-drag'>
@@ -307,11 +304,11 @@ electron-app/pages/tray_page.html
 
 Add additional Event:
 
-```
+```js
 electron-app/js/index.js
 ```
 
-```
+```js
 ipcMain.on('update-title-tray-window-event', function(event, title) {
  trayIcon.updateTitle(title);
 });
@@ -319,11 +316,11 @@ ipcMain.on('update-title-tray-window-event', function(event, title) {
 
 Now we should add `updateTitle` function that will update our tray bar:
 
-```
+```js
 electron-app/js/TrayIcon.js
 ```
 
-```
+```js
 class TrayIcon {
  constructor(trayWindow) {
   ...
@@ -336,8 +333,6 @@ class TrayIcon {
 
 module.exports = TrayIcon;
 ```
-
-<iframe width="auto" height="315" src="https://www.youtube.com/embed/dkKFtIH4QG0" frameborder="0" allowfullscreen></iframe>
 
 ## Chapter 4: Mac notification
 
@@ -352,21 +347,21 @@ TODO:
 
 Let's add one more button:
 
-```
+```js
 electron-app/pages/tray_page.html
 ```
 
-```
+```js
 <button id='notify'>Notify!</button>
 ```
 
 And JS for it:
 
-```
+```js
 electron-app/pages/tray_page.html
 ```
 
-```
+```js
 document.getElementById("notify").addEventListener("click", function (e) {
  // Electron conveniently allows developers to send notifications with the HTML5 Notification API, using the currently running operating system’s native notification APIs to display it.
 
@@ -383,21 +378,17 @@ document.getElementById("notify").addEventListener("click", function (e) {
 
 Add Event handler to the Main Process:
 
-```
+```js
 electron-app/js/index.js
 ```
 
-```
+```js
 ipcMain.on('show-about-window-event', function() {
  tray.window.show();
 });
 ```
 
-As a result, we will get the next behavior:
-
-<iframe width="auto" height="315" src="https://www.youtube.com/embed/9sKA0k3zAT0" frameborder="0" allowfullscreen></iframe>
-
-As we can see in the video - app has icon of the Electron. But after we create the real app the correct icon will be loaded as needed.
+Now the app has the icon of the Electron. But after we create the real app the correct icon will be loaded as needed.
 
 ## Chapter 5: Second window (page)
 
@@ -408,11 +399,11 @@ TODO:
 
 To create a new page, we need to add the same initialization as we have for About Window to the Main Process (`index.js`).
 
-```
+```js
 electron-app/js/index.js
 ```
 
-```
+```js
 ...
 const AboutWindow = require('../windows/AboutWindow');
 const TrayWindow = require('../windows/TrayWindow');
@@ -446,11 +437,11 @@ ipcMain.on('show-about-window-event', function() {
 
 Let's create BrowserWindow. Initialization is the same as we already did for the Tray Window except a few small details:
 
-```
+```js
 electron-app/windows/AboutWindow.js
 ```
 
-```
+```js
 const path = require('path');
 const { BrowserWindow } = require('electron');
 // We will use the next module for apropriate positioning. We should display About page in the center of the screen.
@@ -490,11 +481,11 @@ module.exports = AboutWindow;
 
 Let's create HTML page for the About page:
 
-```
+```js
 electron-app/pages/about_page.html
 ```
 
-```
+```html
 <!DOCTYPE html>
 <html>
  <head>
@@ -508,7 +499,7 @@ electron-app/pages/about_page.html
 
 It remains to add a button for opening About Window to the Tray Window:
 
-```
+```html
 <!DOCTYPE html>
 <html>
  <head>
@@ -532,8 +523,6 @@ It remains to add a button for opening About Window to the Tray Window:
 
 Let's launch: `npm run electron`.
 
-<iframe width="auto" height="315" src="https://www.youtube.com/embed/g92PdBEgwkk" frameborder="0" allowfullscreen></iframe>
-
 ## Chapter 6: External link
 
 TODO:
@@ -541,17 +530,17 @@ TODO:
 
 Let's add an ability to open external link in a default browser. All we need to do is to add one module:
 
-```
+```js
 require('electron').shell
 ```
 
 Also we should add a click handler. So, when user clicks on the link we take `href` of this element (in this particular case - `<a>` tag) and launch `shell.openExternal`.
 
-```
+```js
 electron-app/pages/about_page.html
 ```
 
-```
+```html
 <!DOCTYPE html>
 <html>
  <head>
@@ -577,8 +566,6 @@ electron-app/pages/about_page.html
 
 That's all! We can launch `npm run electron` and check the result.
 
-<iframe width="auto" height="315" src="https://www.youtube.com/embed/fQVQvp_3H9Q" frameborder="0" allowfullscreen></iframe>
-
 ## Chapter 7: Custom windows action buttons
 
 TODO:
@@ -586,11 +573,11 @@ TODO:
 
 Of course, you can simply use the standard buttons (behaviour) by adding the following line of code:
 
-```
+```js
 electron-app/windows/AboutWindow.js
 ```
 
-```
+```js
 ...
 this.window = new BrowserWindow({
  ...
@@ -602,8 +589,6 @@ this.window = new BrowserWindow({
 
 As a result, we will receive the next outcome:
 
-<iframe width="auto" height="315" src="https://www.youtube.com/embed/0eQPDLPDa7k" frameborder="0" allowfullscreen></iframe>
-
 However, this functionality does not suit us because it has a few drawbacks:
 1. These keys are not very easy to customize.
 2. We can't change design of these buttons.
@@ -614,11 +599,11 @@ Let's remove this line of code `frame: true` and do a custom implementation of t
 
 We should add three new buttons and add three new events to them. Besides, let's add a `draggable` zone to emulate a default header.
 
-```
+```js
 electron-app/pages/about_page.html
 ```
 
-```
+```html
 <!DOCTYPE html>
 <html>
  <head>
@@ -675,10 +660,6 @@ electron-app/pages/about_page.html
 </html>
 ```
 
-We will get the next result:
-
-<iframe width="auto" height="315" src="https://www.youtube.com/embed/a3cuj9R5bW4" frameborder="0" allowfullscreen></iframe>
-
 ## Chapter 8: Navigation/Menu bar
 
 TODO:
@@ -692,11 +673,11 @@ We will create our Menu only for the specific page (Main Page). We do not want t
 
 Let's create Main page (in the same way as About/Tray page):
 
-```
+```js
 electron-app/js/index.js
 ```
 
-```
+```js
  ...
  const MainWindow = require('../windows/MainWindow');
  const menuTemplate = require('./menuTemplate');
@@ -727,11 +708,11 @@ electron-app/js/index.js
  });
 ```
 
-```
+```js
 electron-app/js/menuTemplate.js
 ```
 
-```
+```js
 const electron = require('electron');
 
 const {app, shell, ipcMain} = electron;
@@ -799,7 +780,7 @@ module.exports = menuTemplate
 
 Let's add buttons for showing our Main page to the Tray Window:
 
-```
+```html
 <!DOCTYPE html>
 <html>
  <head>
@@ -822,11 +803,11 @@ Let's add buttons for showing our Main page to the Tray Window:
 
 MainWindow doesn't contain anything new:
 
-```
+```js
 electron-app/windows/MainWindow.js
 ```
 
-```
+```js
 const path = require('path');
 const { BrowserWindow } = require('electron');
 
@@ -851,11 +832,11 @@ class MainWindow {
 module.exports = MainWindow;
 ```
 
-```
+```js
 electron-app/pages/main_page.html
 ```
 
-```
+```html
 <!DOCTYPE html>
 <html>
  <head>
@@ -869,9 +850,7 @@ electron-app/pages/main_page.html
 
 Let's run `npm run electron` and we will see the next result:
 
-> Do not worry about icon (inside the dock bar) and name of the app (inside Menu). When we build our app as a packaged version they will be changed.
-
-<iframe width="auto" height="315" src="https://www.youtube.com/embed/11LOamQooR4" frameborder="0" allowfullscreen></iframe>
+{{< advert >}}Do not worry about icon (inside the dock bar) and name of the app (inside Menu). When we build our app as a packaged version they will be changed.{{< /advert >}}
 
 ## Chapter 9: Debug
 
@@ -886,11 +865,11 @@ First of all, I will show you how to open `Devtools` on any page.
 
 Let's add a key-binding to our app to open devtools (F12). We will put this key-binding into our Menu. Do not worry, Menu will work even if you hide it (or hide dock).
 
-```
+```js
 electron-app/js/menuTemplate.js
 ```
 
-```
+```js
  ...
  {
   label: 'View',
@@ -926,11 +905,11 @@ However, what should we do when we want to use `React` or `Redux`? How can we ad
 
 This npm package will help us.
 
-```
+```js
 package.json
 ```
 
-```
+```js
 {
  "devDependencies": {
    "electron-devtools-installer": "^2.0.1",
@@ -942,11 +921,11 @@ Then, we should update MainProcess file:
 
 > "isDev" - was set in `pacakage.json`: `'electron': 'NODE_ENV=development electron ./electron-app/js/index.js'`
 
-```
+```js
 electron-app/js/index.js
 ```
 
-```
+```js
 const isDev = (process.env.NODE_ENV === 'development');
 
 let installExtension = null;
@@ -973,9 +952,7 @@ const installExtentions = function () {
 
 Also, do not forget to specify `resizable: true` option.
 
-Let's launch: `npm run electron`:
-
-<iframe width="auto" height="315" src="https://www.youtube.com/embed/Tq45ALDcv9U" frameborder="0" allowfullscreen></iframe>
+Then let's launch: `npm run electron`.
 
 ## Chapter 10: Package. Creation of DMG.
 
@@ -984,11 +961,11 @@ TODO:
 
 Now we have to turn our code (files) into a `DMG` package so that everyone could download our app.
 
-```
+```js
 package.json
 ```
 
-```
+```js
 {
  "name": "TimeTracker",
  "version": "0.0.1",
@@ -1049,11 +1026,11 @@ Let's go over several lines of code from this file:
 
 Let's specify libs which are necessary for our app:
 
-```
+```js
 app/package.json
 ```
 
-```
+```js
 {
  "name": "TimeTracker",
  "version": "0.0.1",
@@ -1072,7 +1049,7 @@ Here is the most interesting line of code from this file:
 2. `npm install` - launching this command will produce two folders `node_modules` in `root/` and `app/` directories.
 3. Into `build/` directory, you should put two icons `icon.icns` and `background.png` for Mac. These files will be used by `electron-packager` to create custom `dmg` package:
 
-```
+```js
 background.png ( 512/320 )
 icon.icns ( 256/256 )
 ```
@@ -1081,11 +1058,7 @@ Run the next command: `npm run publish:dist`.
 
 After executing it, `/dist` directory will appear in our root folder. In this directory you will find `.dmg` file for installing the app (there you will also find our totally working app).
 
-<iframe width="auto" height="315" src="https://www.youtube.com/embed/3j1tglx1n5w" frameborder="0" allowfullscreen></iframe>
-
-As we have specified `asar: false` we can see all our source files inside the app:
-
-<iframe width="auto" height="315" src="https://www.youtube.com/embed/RbzScZoYdVQ" frameborder="0" allowfullscreen></iframe>
+As we have specified `asar: false` we can see all our source files inside the app.
 
 ## Chapter 11: Add React/Redux
 
@@ -1106,11 +1079,11 @@ Key points:
 
 Here are the updated commands to launch and build:
 
-```
+```js
 package.json
 ```
 
-```
+```js
  ...
  "scripts": {
   "clean": "rm -rf app/electron-app/ && rm -rf app/browser-app/ && rm -rf dist/",
@@ -1125,11 +1098,11 @@ package.json
  ...
 ```
 
-```
+```js
 electron-app/pages/about_page.html
 ```
 
-```
+```html
 <!DOCTYPE html>
 <html>
  <head>
@@ -1159,16 +1132,7 @@ electron-app/pages/about_page.html
 </html>
 ```
 
-## Chapter 12: Final video of the app
-
-TODO:
-1. Final cut.
-
-Here is the final version of our app:
-
-<iframe width="auto" height="315" src="https://www.youtube.com/embed/yzYKyij_VfA" frameborder="0" allowfullscreen></iframe>
-
-## Chapter 13: Links
+## Chapter 12: Links
 
 Github links:
 
