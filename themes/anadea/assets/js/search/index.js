@@ -6,7 +6,6 @@ const PAGINATE = 12;
 const data = fetch('/index.json', { cache: 'force-cache' })
   .then((response) => response.json())
   .then((data) => {
-    window.pagination.totalPages = data.length;
     return data;
   })
   .catch((error) => {

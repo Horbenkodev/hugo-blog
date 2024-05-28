@@ -40,12 +40,11 @@ export function renderPagination(items, paginate) {
       if (SLOTS < currentPage) {
         pagination.insertAdjacentHTML('afterbegin', placeholder());
       }
+
       if (currentPage > 2) {
         pagination.insertAdjacentHTML('afterbegin', button({ label: 'First Page', page: 1, url: buildURL(1) }));
       }
-    }
 
-    if (totalPages > 5) {
       if (currentPage < totalPages - 1) {
         if (totalPages - SLOTS >= currentPage) {
           pagination.insertAdjacentHTML('beforeend', placeholder());
