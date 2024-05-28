@@ -1,25 +1,26 @@
 ---
 title: How Progressive Web Applications are Changing the Mobile Industry
-publishDate: '2019-02-13T00:00:00Z'
-authors: []
-description: Global web giants Google, Apple and Microsoft work towards the expansion
-  of progressive web apps. Gartner predicts that 50% of all native apps will be replaced
-  by PWAs. It is, of course, too early to talk about the full replacement of mobile
-  applications with progressive ones, however, PWAs already enable businesses to gain
-  success within the mobile area.
+draft: false
+publishDate: 2019-02-13T00:00:00Z
 image: progressive-web-apps.jpg
 og_image: progressive-web-apps.jpg
+description: Global web giants Google, Apple and Microsoft work towards the
+  expansion of progressive web apps. Gartner predicts that 50% of all native
+  apps will be replaced by PWAs. It is, of course, too early to talk about the
+  full replacement of mobile applications with progressive ones, however, PWAs
+  already enable businesses to gain success within the mobile area.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - web-development-team
 categories:
-- web
+  - trends
+industries: []
 ---
 Global web giants Google, Apple and Microsoft work towards the expansion of progressive web apps. <a href="https://www.gartner.com/en/documents/3645344" target="_blank">Gartner predicts</a> that 50% of all native apps will be replaced by PWAs. It is, of course, too early to talk about the full replacement of mobile applications with progressive ones, however, PWAs already enable businesses to gain success within the mobile area. Let's sort out what a progressive web application (PWA) is and how it transforms the mobile landscape.
 
-<center><img src="pwa.jpg" alt="Progressive web apps features" style="width: 50%;"></center>
+![Progressive web apps features](pwa.jpg)
 
 ## A brief description: What is a Progressive Web App?
 
@@ -33,33 +34,19 @@ This is what "Add to Home Screen" means. Consequently, we should take a PWA app 
 
 Let's treat a PWA as a web page saved on your device. It works inside the browser and can use only API of the browser. There are also mobile app features that you can imply into progressive web app development. Here is what PWAs can do:
 
-* **Add home screen icons**
+* **Add home screen icons**. Look at colorful squares at your smartphone main screen and you will see icons of native apps. Adding an icon to the home screen creates experience focused totally on the app. With google progressive web apps users open your website without the browser URL panel or any other navigation tool. They just need to tap the icon on the home screen. PWAs provide quick access to your website.
 
- Look at colorful squares at your smartphone main screen and you will see icons of native apps. Adding an icon to the home screen creates experience focused totally on the app. With google progressive web apps users open your website without the browser URL panel or any other navigation tool. They just need to tap the icon on the home screen. PWAs provide quick access to your website.
+* **Improve engagement**. Mobile apps have a common approach to navigation like the header panel with the title of the section, the return button in the upper left corner, the contextual actions in the upper right corner. Such app-like navigation helps users to solve their tasks easier.
 
-* **Improve engagement**
+* **Work for any user**. Thanks to the progressive enhancement of PWAs users can visit your website regardless of browser and device they choose.
 
- Mobile apps have a common approach to navigation like the header panel with the title of the section, the return button in the upper left corner, the contextual actions in the upper right corner. Such app-like navigation helps users to solve their tasks easier.
+* **Send web push notifications**. In 2015 Google Chrome introduced push notifications via a browser on both mobile and desktop. This technology provides profit-making opportunities for business as it works in real-time, sends your users notifications without the need for personal email, contact details even when they are not on your website. The notifications may inform on personalized or seasonal discounts, or report when the product is in the stock.
 
-* **Work for any user**
+* **Work offline**. PWAs can work offline thanks to a technology called Service Workers. It is used for instantly displaying online content in places with a poor Internet connection or even when there is no connection.
 
- Thanks to the progressive enhancement of PWAs users can visit your website regardless of browser and device they choose.
+* **Integrate with the device**. Progressive mobile app for Android appears in the system settings, in task switcher and on the home screen. Even push notifications look like they belong to a native application.
 
-* **Send web push notifications**
-
- In 2015 Google Chrome introduced push notifications via a browser on both mobile and desktop. This technology provides profit-making opportunities for business as it works in real-time, sends your users notifications without the need for personal email, contact details even when they are not on your website. The notifications may inform on personalized or seasonal discounts, or report when the product is in the stock.
-
-* **Work offline**
-
- PWAs can work offline thanks to a technology called Service Workers. It is used for instantly displaying online content in places with a poor Internet connection or even when there is no connection.
-
-* **Integrate with the device**
-
- Progressive mobile app for Android appears in the system settings, in task switcher and on the home screen. Even push notifications look like they belong to a native application.
-
-* **Improve your SEO ranking**
-
- Mobile PWA is indexed by search engines, moreover, Google raises PWA higher in search results. All progressive mobile apps work on the HTTPS protocol that prevents data interception, respectively, Google responds positively to this and rewards the site with a more favorable ranking.
+* **Improve your SEO ranking**. Mobile PWA is indexed by search engines, moreover, Google raises PWA higher in search results. All progressive mobile apps work on the HTTPS protocol that prevents data interception, respectively, Google responds positively to this and rewards the site with a more favorable ranking.
 
 ## Advantages of PWAs or what is so progressive about them
 
@@ -109,31 +96,31 @@ At present, PWA does not support all hardware components supported by traditiona
 
 Businesses have three options to reach their mobile audience - to create a native mobile app, to build a progressive web app and to create a hybrid. We included all three in comparison. [What is a hybrid app](https://anadea.info/blog/why-native-apps-are-better-than-hybrids) we discussed in one of our previous articles. Briefly, it is an app developed using technologies that allow you to get access to native API with a certain amount of common code for different platforms. Let's look at the differences between PWA, native and hybrids.
 
-#### Cost of development
+### Cost of development
 
 * **PWA:** Progressive web app development cost is the lowest thanks to a single code base and a single set of tools
 * **Native:** The highest as mobile native apps are developed for multiple platforms which requires certain skills
 * **Hybrid:** Similar to PWA, however, if there is no adaptation based on the framework it can turn out to be a bit higher than native app development
 
-#### Performance
+### Performance
 
 * **PWA:** It depends on the browser of the user
 * **Native:** The performance is high as native apps have direct access to the functionality of the platform for which they are designed
 * **Hybrid:** Hybrid apps have access to hardware API interfaces, however, their performance is lower than the performance of native apps
 
-#### Development time
+### Development time
 
 * **PWA:** Rapid development
 * **Native:** Needs more time since a native app is developed for numerous varieties of iPhones and Android devices
 * **Hybrid:** More rapid development compared to native app
 
-#### Distribution
+### Distribution
 
 * **PWA:** URL, and with Chrome 72 support for Trusted Web Activity - App Stores
 * **Native:** App Stores
 * **Hybrid:** App Stores
 
-#### Monetization
+### Monetization
 
 * **PWA:** There are a few ways of monetization
 * **Native:** Wide monetization opportunities
