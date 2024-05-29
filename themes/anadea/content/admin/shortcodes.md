@@ -24,7 +24,13 @@ With custom link
 {{< advert_with_cta title="Title" description="Description" button="Button text" >}}
 
 ```go
-{{</* ctabutton href='#' */>}}Text{{</* /ctabutton */>}}
+{{</* ctabutton */>}}Text{{</* /ctabutton */>}}
 ```
 
-{{< ctabutton href='#' >}}Text{{< /ctabutton >}}
+With custom link
+
+```go
+{{</* ctabutton href="https://example.com" */>}}Text{{</* /ctabutton */>}}
+```
+
+{{< ctabutton >}}Text{{< /ctabutton >}}
