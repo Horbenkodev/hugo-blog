@@ -1,31 +1,32 @@
 ---
-title: 'Advantages of React JS: Open-source JavaScript Library'
-publishDate: '2020-08-05T00:00:00Z'
-authors:
-- andrey-kutejko
-description: 'Due to the growing popularity of reactive approaches to software development,
-  programmers are now turning with more and more interest to React JS - open-source
-  JavaScript library that solves problem of fast visualization of a big dataflow and
-  simplifies creation of interactive user interfaces.When it is needed to display
-  dynamic content, template engines are used. They work pretty simple: to the existing
-  template a specific set of data is applied and some of dataset representation is
-  obtained. If data is changed, it has to be displayed in a representation. A programmer
-  needs to write the code which alters representation and synchronizes data changes
-  in one. But, if we already have a template, why don’t we use it? The idea to use
-  template not just at initial rendering but after every data change is fundamental
-  in React JS.However, for displaying data changes, programmers have to manipulate
-  DOM tree and write code which displays all updates in different specific cases.
-  React JS library is aimed at solving this problem.'
+title: "Advantages of React JS: Open-source JavaScript Library"
+slug: advantages-of-react-js
+draft: false
+publishDate: 2020-08-05T00:00:00.000Z
 image: advantages-react-header-img.jpg
 og_image: advantages-react-blog-img.jpg
+description: "Due to the growing popularity of reactive approaches to software
+  development, programmers are now turning with more and more interest to React
+  JS - open-source JavaScript library that solves problem of fast visualization
+  of a big dataflow and simplifies creation of interactive user interfaces.When
+  it is needed to display dynamic content, template engines are used. They work
+  pretty simple: to the existing template a specific set of data is applied and
+  some of dataset representation is obtained. If data is changed, it has to be
+  displayed in a representation. A programmer needs to write the code which
+  alters representation and synchronizes data changes in one. But, if we already
+  have a template, why don’t we use it? The idea to use template not just at
+  initial rendering but after every data change is fundamental in React
+  JS.However, for displaying data changes, programmers have to manipulate DOM
+  tree and write code which displays all updates in different specific cases.
+  React JS library is aimed at solving this problem."
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - andrey-kutejko
 categories:
-- development
-- front-end
+  - development
+industries: []
 ---
 Due to the growing popularity of reactive approaches to software development, programmers are now turning with more and more interest to React JS - open-source JavaScript library that solves problem of fast visualization of a big dataflow and simplifies creation of interactive user interfaces.
 When it is needed to display dynamic content, template engines are used. They work pretty simple: to the existing template a specific set of data is applied and some of dataset representation is obtained. If data is changed, it has to be displayed in a representation. A programmer needs to write the code which alters representation and synchronizes data changes in one. But, if we already have a template, why don’t use it? The idea to use a template not just at initial rendering but after every data change is fundamental in React JS.
@@ -33,7 +34,7 @@ However, for displaying data changes, programmers have to manipulate the DOM tre
 ## React JS: getting started
 Let’s take a look at the example of the simplest app written in JavaScript:
 
-```
+```html
 <!DOCTYPE html>
 <div id="app"></div>
 <script>
@@ -50,7 +51,7 @@ Let’s take a look at the example of the simplest app written in JavaScript:
 There is a page which includes one element **`div`**, and with the help of usual DOM API, element `a` is created, with attribute **`href`** and some link (https://anadea.info/), with the text «Click me» to display link. Such construction is inserted into the document by **`appendChild`**. Consequently, we get a page with the link to our site.
 We do the same when we use React – construct elements using syntax: create a unit as **"a"** with an appropriate set of attributes and definitions that is inside the element.
 
-```
+```js
 ReactDOM.render(
  React.createElement('a', {href: 'https://anadea.info/'}, 'Click me'),
  document.getElementById('app')
@@ -62,7 +63,7 @@ A basic function that creates all elements is a **`React.createElement`**. There
 ## JSX
 In addition to React, there are transpilers (JSXTransform, Babel) that provide syntax constructions for a more concise code. This language is called **JSX**. A render looks like this:
 
-```
+```js
 const App = (items, onDeleteItem, onAddClicked) =>
  <div>
   <List onDeleteItem={onDeleteItem}>
@@ -75,7 +76,7 @@ const App = (items, onDeleteItem, onAddClicked) =>
 The code of our components can run out of browser, because it’s not connected to DOM directly. It can be used for a server-side as a template engine, which makes writing isomorphic apps possible (apps which can run both on the server and the client). It means that we can use all the beauty of NodeJS speed while writing tests. If the components don’t have State, then they reduce to simple functions. In other words, we pass on sample qualities to the element when we create it, run render and get DOM – this is one of the simplest forms of tests. Transformation of data to virtual DOM always goes one way. That’s why tests are very simple even for the most difficult components.
 ## Creating components
 One of the main features of React is the possibility to create own components from others easily. At the same time, it can be used as standard components created earlier. For instance, the component that contains a picture, a tag **"a"** and a text looks as following:
-```
+```html
 const Link = () =>
  <a href='https://anadea.info/' title='Click me!'>
   <img src='/assets/logo.png' alt='logo'/>
@@ -85,7 +86,7 @@ const Link = () =>
 In React we have a possibility to combine simple or complex elements. It looks like getting bigger partials from the small ones and then combining them into the entire application.
 We can create custom elements that adapt to our needs. Every element attains a dictionary of properties at the creation. It is available in the form of group code as props. For example, this is how the element **`Link`** gets the properties **`url`**, **`imageUrl`**, and **`title`**:
 
-```
+```js
 const Link = ({url, imageUrl, title, children}) =>
  <a href={url} title={title}>
   <img src={imageUrl}/>
@@ -93,7 +94,7 @@ const Link = ({url, imageUrl, title, children}) =>
  </a>
 ```
 Inserted elements are available as **`children`**. In the example above this property contains two definitions: text "Click" and element **`strong`** with text "me!".
-```
+```js
 const App = () =>
  <div>
   <Link url=`https://anadea.info/` imageUrl='/assets/logo.png' title='Click' >
@@ -103,7 +104,7 @@ const App = () =>
 ```
 ## Component's lifecycle
 The lifecycle of a component consists of three phases: mounting into a DOM tree, updating and unmounting.
-```
+```js
 useEffect(
  () => {
   // executed on mount and updated watched values
@@ -127,7 +128,7 @@ Each component displays its properties and state in a VirtualDOM structure. Reac
 
 Let’s look at a simple example how to use React:
 
-```
+```js
 const App = () => {
  const [tasks, setTasks] = useState([])
  const [task, setTask] = useState('')
