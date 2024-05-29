@@ -50,3 +50,13 @@
 {{ partialCached "head_resources/application_css.html" . }}
 {{ partialCached "head_resources/application_js.html" . }}
 {{ partialCached "head_resources/gtm.html" . }}
+
+<script type="text/javascript">
+  partytown = {
+    forward: ['dataLayer.push']
+  };
+</script>
+<script type="text/javascript">
+  {{ $partytownJs := resources.Get "js/partytown.js" | js.Build | minify }}
+  {{- $partytownJs.Content | safeJS }}
+</script>
