@@ -1,23 +1,26 @@
 ---
-title: 'A Guide to Z-Index: Challenges and Solutions'
-publishDate: '2019-05-22T00:00:00Z'
-authors:
-- anastasiya-bakuta
-description: Z-index is a CSS property of an element that determines its position
-  relative to other elements on the Z-axis. It applies only to elements with `absolute`,
-  `fixed`, `sticky` or `relative` position (respectively, if the position property
-  is not set to one of these values, adding z-index doesn’t affect the position of
-  an element).
+ceoTitle: "A Guide to Z-Index: Challenges and Solutions"
+title: Terms of Use Modal Z-Index
+breadcrumbs: Terms of Use Modal Z-Index
+slug: a-guide-to-z-index
+draft: false
+publishDate: 2019-05-22T00:00:00.000Z
 image: z-index-tutorial.jpg
 og_image: z-index-tutorial.jpg
+description: Z-index is a CSS property of an element that determines its
+  position relative to other elements on the Z-axis. It applies only to elements
+  with `absolute`, `fixed`, `sticky` or `relative` position (respectively, if
+  the position property is not set to one of these values, adding z-index
+  doesn’t affect the position of an element).
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - anastasiya-bakuta
 categories:
-- development
-- design
+  - development
+  - design
+industries: []
 ---
 ## What is z-index?
 
@@ -33,11 +36,11 @@ Let’s start with the modal window. Choose a couple of libraries for modals, ra
 
 1. The <a href="https://www.npmjs.com/package/react-responsive-modal" target="_blank">react-responsive-modal</a> library provides one z-index: 1000 for the overlapping layer, the rest is "self" positioned inside:
 
-<center><img src="react-responsive-modal-popup.jpg" alt="z-indes in React-responsive-modal library" style="width: 70%;"></center>
+![z-indes in React-responsive-modal library](react-responsive-modal-popup.jpg)
 
 2. The <a href="https://jquerymodal.com/" target="_blank">jQuery Modal</a> plugin sets the z-index: 1 for the background and z-index: 2 for the modal window:
 
-<center><img src="jQuery-Modal-popup.jpg" alt="z-indexes in jQuery Modal" style="width: 90%;"></center>
+![z-indexes in jQuery Modal](jQuery-Modal-popup.jpg)
 
 As you can see from the example, there is no unified approach to determining z-indexes for modal windows. There is no single universal way to say that 1000 is the only true value for the Z-axis. Since 1 and 2 are definitely bad options, as we can have a slider on the page, animation, placeholder, which can also have a value of 1, 2 and even 3. And they will overlap modal windows.
 
@@ -54,7 +57,7 @@ z-index: <br />
 1082 - top navigation <br />
 1083 - download progress bar
 
-<center><img src="lightSlider-z-index.jpg" alt="z-indexes in lightSlider" style="width: 90%;"></center>
+![z-indexes in lightSlider](lightSlider-z-index.jpg)
 
 It looks a bit weird. Some values increase by tens, and some - by single digits. Yet the most important thing is that it starts at 1050. This means that it overlaps our modal window with z-index: 1000. Excellent!
 
@@ -66,10 +69,9 @@ Okay, now let’s add flash messages to the project. At this point you are start
 
 ![how to use z index](how-to-use-z-index.jpg)
 
-You still think you can control something when you have [Sass](https://sass-lang.com/){: target: '_blank', rel: 'nofollow' :}
-. You define a variable for the common overlapping layer and the indoor unit in the file with modals:
+You still think you can control something when you have [Sass](https://sass-lang.com/). You define a variable for the common overlapping layer and the indoor unit in the file with modals:
 
-```
+```css
 $modal-overlay: 1000;
 $modal-under-overlay: $modal-overlay - 1;
 $modal-content: $modal-overlay + 1;
@@ -83,14 +85,13 @@ As for me, it’s not the mythical nature of this number that scares me, as I kn
 
 ## My tiny silver bullet
 
-
 ![How to make z index work](how-to-make-z-index-work.jpg)
 
 I've found a solution for z-index handling which I use myself: to abstract all the z-indexes in a separate file as variables. It is similar to how you store basic colors, typographics, sizes. Why not do the same for z-indexes?
 
 In total, my "_z-index.scss" file in one of the projects looks like this:
 
-```
+```css
 $ zIndexSubzero: -1;
 $ zIndexZero: 0;
 $ zIndexMin: 1;
