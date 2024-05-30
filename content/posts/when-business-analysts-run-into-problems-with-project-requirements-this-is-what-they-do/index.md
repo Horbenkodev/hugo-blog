@@ -1,22 +1,27 @@
 ---
-title: 'Business Analysts: How to Avoid Problems with Project Requirements'
-publishDate: '2019-05-30T00:00:00Z'
-authors:
-- nick-karlsson
-description: One of the main reasons for project failure is poor requirements management.
-  In this article, we will give insights on what are project requirements, types of
-  requirements and how to gather requirements to ensure project success. We will also
-  give you the answer to what business analysts do to effectively handle project requirements.
-  Let’s start with the basics.
+ceoTitle: "Business Analysts: How to Avoid Problems with Project Requirements"
+title: When Business Analysts Run Into Problems with Project Requirements, This
+  Is What They Do
+breadcrumbs: When Business Analysts Run Into Problems with Project Requirements,
+  This Is What They Do
+slug: when-business-analysts-run-into-problems-with-project-requirements-this-is-what-they-do
+draft: false
+publishDate: 2019-05-30T00:00:00.000Z
 image: How-business-analysts-solve-problems-with-project-requirements.jpg
 og_image: How-business-analysts-solve-problems-with-project-requirements.jpg
+description: One of the main reasons for project failure is poor requirements
+  management. In this article, we will give insights on what are project
+  requirements, types of requirements and how to gather requirements to ensure
+  project success. We will also give you the answer to what business analysts do
+  to effectively handle project requirements. Let’s start with the basics.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - business-analysis-team
 categories:
-- business-analysis
+  - business-analysis
+industries: []
 ---
 One of the main reasons for project failure is poor requirements management. In this article, we will give insights on what are project requirements, types of requirements and how to gather requirements to ensure project success. We will also give you the answer to what [business analysts](https://anadea.info/guides/business-analyst-role) do to effectively handle project requirements. Let’s start with the basics.
 
@@ -34,11 +39,7 @@ The most common situation in which you can witness the challenge of project requ
 
 You may want your kitchen looking a certain way or your staircase located at a certain place but you may be speaking a different language to your construction team. They may understand something else and in the end, you may feel disappointed that even after investing so much time and money why your kitchen doesn’t look like the one you imagined.
 
----
-
-***Related read: [How to Leverage the Project Management Triangle](https://anadea.info/blog/how-to-leverage-the-project-management-triangle)***
-
----
+{{< advert >}}Related read: [How to Leverage the Project Management Triangle](https://anadea.info/blog/how-to-leverage-the-project-management-triangle){{< /advert >}}
 
 ## Types of project requirements
 
@@ -91,11 +92,7 @@ At times requirements are prioritized during the analysis process. The requireme
 
 Especially in agile projects, we can rank and order the user stories in the product backlog.
 
----
-
-***Related read: [Analyzing Customer’s Requirements](https://anadea.info/guides/user-persona-for-startups)***
-
----
+{{< advert >}}Related read: [Analyzing Customer’s Requirements](https://anadea.info/guides/user-persona-for-startups){{< /advert >}}
 
 ### 3. Requirements documentation
 
@@ -119,11 +116,7 @@ Now we come to the most important question: what professionals do differently to
 
 It’s important that all the project stakeholders are on the same page with respect to project requirements for which communication is the key. Transparent communication leaves no room for any conflicts in the interest of the stakeholders. When all the stakeholders have a single view of all the project requirements, the business analysts can elicit requirements effectively.
 
----
-
-***Related read: [Transparency as a Key to Successful Partnership](https://anadea.info/blog/transparency-as-a-clue-to-successful-partnership)***
-
----
+{{< advert >}}Related read: [Transparency as a Key to Successful Partnership](https://anadea.info/blog/transparency-as-a-clue-to-successful-partnership){{< /advert >}}
 
 ### Collaboration platform
 
@@ -153,8 +146,3 @@ As a professional instrument of business analysts, a requirements management too
 ## Summary
 
 Project requirements can make or break your software. Poorly handled project requirements could lead to scope creeps and lead to loss of time and money. BAs rely on their expertise and technological solutions, such as a requirements management tool, to ensure project requirements are handled in the right way for project success.
-
-<br />
-
----
-*This is a guest post by **Nick Karlsson.** Nick Karlsson has 10 years of experience in the IT industry as a BA. He is established as blogger writing on topics such as agile, DevOPs, <a href="https://reqtest.com/testing-blog/test-management-tools/" target="_blank">software test management</a>, project management, requirements management, etc.*
