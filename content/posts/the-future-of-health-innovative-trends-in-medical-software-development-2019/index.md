@@ -1,19 +1,23 @@
 ---
-title: Healthcare IT Trends that Innovate the Industry
-publishDate: '2022-09-27T00:00:00Z'
-authors: []
-description: How do latest technologies shape healthcare industry and medical software
-  development and what are the upcoming health technology trends?
+ceoTitle: Healthcare IT Trends that Innovate the Industry
+title: "The Future of Health Technology: Innovative Healthcare Trends"
+breadcrumbs: Healthcare Trends 2023
+slug: the-future-of-health-innovative-trends-in-medical-software-development-2019
+draft: false
+publishDate: 2022-09-27T00:00:00.000Z
 image: trends_header.jpg
 og_image: trends.jpg
+description: How do latest technologies shape healthcare industry and medical
+  software development and what are the upcoming health technology trends?
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- healthcare
+authors:
+  - marketing-team
 categories:
-- trends
+  - trends
+industries:
+  - healthcare
 ---
 Medicine is an area where technology is always welcome. The transformation of healthcare with the help of digital technologies is happening all over the world. How do modern technologies shape the direction of <a href="https://anadea.info/solutions/medical-app-development" target="_blank">custom healthcare software development services</a> and what prospects are drawn in the future? Let's find out.
 
@@ -77,11 +81,7 @@ When it comes to trends in healthcare industry, it becomes noticeable that healt
 <br><br>Or to put it another way - having arrived in another country in the case of medical problems you become a mystery to doctors. If a foreigner requires an operation, the surgeon has no idea what problems the patient has experienced before. Maybe he or she has contraindications for anesthesia. All the information he needs to receive from the words of a patient who may forget something important or simply be unconscious.
 <br><br>If we transfer the information to the blockchain, the patient themself can provide access to his or her data to physicians or research organizations.
 
-> __Example:__ <a href="https://anadea.info/projects/vivum-health" target="_blank">Vivum Health</a> developed a system that facilitates access to all vital patient data and leads to better medical outcomes.
-<picture>
- <source srcset="https://anadea.info/assets/new_anadea/projects/vivum_health/1-e580e5e5468aaabbf4f22b49ee687ba0dd626048e00b880804fffe72c306707e.webp">
- <img src="https://anadea.info/assets/new_anadea/projects/vivum_health/1-e580e5e5468aaabbf4f22b49ee687ba0dd626048e00b880804fffe72c306707e.webp" loading="lazy">
-</picture>
+{{< advert >}}__Example:__ <a href="https://anadea.info/projects/vivum-health" target="_blank">Vivum Health</a> developed a system that facilitates access to all vital patient data and leads to better medical outcomes.{{< /advert >}}
 
 * __Medical insurance.__ Thanks to the impossibility to hack the system and delete data, medical insurance companies can trust medical records and define insurance risks more precisely. Blockchain also makes it easy to control modifications to insurance contracts. Blockchain-based solutions can link together all the disparate data sets which make the use of information more effective as it provides immediate access to all information created during the review and settlement of claims, as well as track all changes. China's <a href="https://www.the-digital-insurer.com/dia/zhong-blockchain-initiative/" target="_blank" rel="nofollow">ZhongAn</a> already uses the blockchain for storing insurance policies.
 
@@ -124,4 +124,4 @@ It's truly remarkable how modern advancements in science and technology have mad
 
 The progress in medical software development has been impressive and innovative, and who knows what incredible possibilities may emerge in the next 20 years? Perhaps we'll even be able to program a Bishop-like figure, as in the "Aliens" movie. It's worth noting that just over a century ago, the idea of exchanging instant messages across the globe with millions of gigabytes of information would have seemed far-fetched to most people.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Hire Healthcare software developers{{< /ctabutton >}}
+{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Hire healthcare software developers{{< /ctabutton >}}
