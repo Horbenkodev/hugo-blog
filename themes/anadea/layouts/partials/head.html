@@ -53,9 +53,18 @@
 
 <script type="text/javascript">
   partytown = {
-    forward: ['dataLayer.push']
+    forward: ['dataLayer.push'],
+    resolveUrl: function (url, location, type) {
+      if (type === 'script') {
+        var proxyUrl = new URL('https://poetic-phoenix-65d18e.netlify.app/');
+        proxyUrl.searchParams.append('url', url.href);
+        return proxyUrl;
+      }
+      return url;
+    }
   };
 </script>
+
 <script type="text/javascript">
   {{ $partytownJs := resources.Get "js/partytown.js" | js.Build | minify }}
   {{- $partytownJs.Content | safeJS }}

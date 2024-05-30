@@ -41,9 +41,7 @@
 [context.next.environment]
   HUGO_ENABLEGITINFO = "true"
 
-[[redirects]]
-  from = "https://poetic-phoenix-65d18e.netlify.app"
-  to = "https://www.google-analytics.com/analytics.js"
-  status = 200
-  force = true
-  headers = {Access-Control-Allow-Origin = "**"}
+[[headers]]
+  for = "*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"
