@@ -1,23 +1,29 @@
 ---
+ceoTitle: How Gamification in the Workplace Impacts Employee Productivity
 title: How Gamification in the Workplace Impacts Employee Productivity
-publishDate: '2018-01-25T00:00:00Z'
-authors: []
-description: "> Happy employees are more productive. Staff who enjoy their work perform
-  better, work harder and stay with a company longer.Gamification is one-way employers
-  are making work for staff more enjoyable. Tapping into our need for instant rewards,
-  gratification and feedback, gamification tools are an effective way to engage employees,
-  improve productivity and reduce staff turnover."
+breadcrumbs: Employee Productivity App Development
+slug: how-gamification-in-the-workplace-impacts-employee-productivity
+draft: false
+publishDate: 2018-01-25T00:00:00.000Z
 image: gamification_workplace.jpg
-og_image: Workplace-gamification-infographic.jpg
+og_image: gamification_workplace.jpg
+description: Happy employees are more productive. Staff who enjoy their work
+  perform better, work harder and stay with a company longer. Gamification is
+  one-way employers are making work for staff more enjoyable. Tapping into our
+  need for instant rewards, gratification and feedback, gamification tools are
+  an effective way to engage employees, improve productivity and reduce staff
+  turnover.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - marketing-team
 categories:
-- business
+  - business
+industries:
+  - enterprise
 ---
-> Happy employees are more productive. Staff who enjoy their work perform better, work harder and stay with a company longer.
+Happy employees are more productive. Staff who enjoy their work perform better, work harder and stay with a company longer.
 
 Gamification is one-way employers are making work for staff more enjoyable. Tapping into our need for instant rewards, gratification and feedback, gamification tools are an effective way to engage employees, improve productivity and reduce staff turnover.
 
@@ -34,7 +40,7 @@ Every employer wants happy, engaged employees. Customers are treated better, and
 
 When staff aren't engaged, when they don't care for what they do, productivity suffers. There can be numerous reasons for this. Workplace games is not going to be a miracle cure for low morale or productivity. The issue could be cultural. Companies can have negative cultures and practices that prevent employees from working at their best. Other times, poorly performing managers have a negative impact on productivity. Sometimes, an employee isn't a good fit for the work, culture or team. An employee engagement app can't solve all of these problems. Nevertheless, using gamification psychology can and does have a positive impact on everyday workplace challenges when designed and implemented successfully.
 
-> When gamification projects fail, it's often the result of poor planning or execution.
+{{< advert >}}When gamification projects fail, it's often the result of poor planning or execution.{{< /advert >}}
 
 Employees with low levels of motivation for the work they do will see any attempt to gamify the experience as just another set of work-related tasks to perform. Most won't bother, or only pay lip service to the new program. Or they could see them as a great way to waste time, having the opposite of the intended impact. Whereas, more dedicated employees - especially those with a competitive streak - might be tempted to sabotage colleagues or find ways to cheat.
 
@@ -56,7 +62,7 @@ and respected godfather of the gamification industry, had a solution. Creating a
 
 For LiveOps, it was a huge success, as <a href="https://www.fastcompany.com/3063932/the-right-and-wrong-way-to-gamify-work" rel="nofollow" target="_blank">Fast Company reports</a>:
 
-> "Within a week of launching the program, 80% of LiveOps agents opted in and three-quarters of them return on a bi-weekly basis. Participating agents outperformed peers by 23% in average call-handle time and boosted customer satisfaction by 9%."
+> Within a week of launching the program, 80% of LiveOps agents opted in and three-quarters of them return on a bi-weekly basis. Participating agents outperformed peers by 23% in average call-handle time and boosted customer satisfaction by 9%.
 
 ### Key considerations in employee productivity app development
 
