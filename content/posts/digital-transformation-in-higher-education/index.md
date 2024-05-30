@@ -1,59 +1,43 @@
 ---
+ceoTitle: Digital Transformation in Education
 title: Digital Transformation in Education
-publishDate: '2019-07-02T00:00:00Z'
-authors: []
-description: Higher education and the nature of universities is changing and will
-  continue to change for the next decade. Twenty years ago, 'digital' was not a major
-  concern for universities. Although the World Wide Web started as an academic endeavor,
-  universities were slow to catchup with a global digital transformation.
+breadcrumbs: Digital Transformation in Education
+slug: digital-transformation-in-higher-education
+draft: false
+publishDate: 2019-07-02T00:00:00.000Z
 image: higher-education-technology.jpg
 og_image: higher-education-technology.jpg
+description: Higher education and the nature of universities is changing and
+  will continue to change for the next decade. Twenty years ago, 'digital' was
+  not a major concern for universities. Although the World Wide Web started as
+  an academic endeavor, universities were slow to catchup with a global digital
+  transformation.
 promote:
   promote: false
 top: false
-draft: true
+authors:
+  - business-analysis-team
+categories:
+  - trends
 industries:
-- elearning
-categories: []
+  - elearning
 ---
-Updated on 12 August, 2021
-
-<h2>Table of contents</h2>
-<ul>
- <li><a href="#digital-transformation">Digital transformation in education</a></li>
- <li><a href="#education-sector">Digital transformation in education sector: Challenges </a>
-  <ol>
-   <li><a href="#schools">Schools</a></li>
-   <li><a href="#higher-education">Higher education</a></li>
-  </ol>
- </li>
-  <li><a href="#competition">Can universities compete with cheaper eLearning providers? </a></li>
- <li><a href="#summary">Conclusion</a>
-</ul>
-
-
-<a name="digital-transformation"></a>
-## Digitalisation in Education
-***Education and the nature of educational institutions is changing and will continue to change for the next decade. Twenty years ago, digital transformation in education sector was not a major concern for educational institutions. Although the World Wide Web started as an academic endeavor, universities were slow to catchup with a <a href="https://anadea.info/blog/digital-transformation" target="_blank">global digital transformation</a>.***
+Education and the nature of educational institutions is changing and will continue to change for the next decade. Twenty years ago, digital transformation in education sector was not a major concern for educational institutions. Although the World Wide Web started as an academic endeavor, universities were slow to catchup with a <a href="https://anadea.info/blog/digital-transformation" target="_blank">global digital transformation</a>.
 
 'Digital' no longer means a university or school IT department. It no longer means rooms full of computers and printers, or keeping the WiFi running. Digital transformation for education now needs to play a role in every department and function.
 
 For example, universities are now competing globally for students, academics, funding and business opportunities. Physical universities are also competing against online competitors. In theory, traditional academic institutions are competing in some way against everything from Wikipedia and YouTube to massive open online courses (MOOCs), Open Educational Resources (OERs), podcasts, videos, blogs, and webinars.
 
-<a name="education-sector"></a>
 ## Digital transformation in education sector: Challenges
 
 ![Higher education industry challenges](higher-education-industry.jpg)
 
-<a name="schools"></a>
 ### Schools
-
 
 Schools experience challenges with digital transformation because 70% of employees from the public sector believe that their digital skills are worse than in the private sector. Fear of failure and hesitation to learn new skills are major barriers. Added to that, the need to learn new IT systems and interfaces may require additional training both for students and teachers, which may be overwhelming for everyone involved.
 For smooth digital transformation, educational institutions should possess enough qualified employees. However, there exists a significant skill gap: employers fail to fill in 43% of STEM positions in the UK due to the skill gap. The World Economic Forum estimates that by 2022 around 54% of employees will need significant reskilling. The solution is to upskill your employees, so they could evolve into different roles in your institution.
 Also, remote learning depends on student’s connection speed and availability of internet connection, which may put some of them at disadvantage. This is highly undesirable, as students of disadvantaged backgrounds are under high risk. Another potential challenge of digital transformation is that students may misuse educational technology, being distracted by other apps on their devices.
 
-<a name="higher-education"></a>
 ### Higher education
 
 Digital transformation for higher education has its own challenges.Despite the amount of free knowledge and content online, universities do have several advantages. According to a <a href="https://www.pwc.co.uk/assets/pdf/the-2018-digital-university-staying-relevant-in-the-digital-age.pdf" target="_blank">PwC report</a>, students see universities as a way to secure employment, rather than a platform for solely learning and self-development. Employability and student experience are more crucial than they have ever been.
@@ -66,7 +50,6 @@ For universities to survive in the digital age, they need to adopt the same appr
 
 Another challenge, one that is harder to overcome, is the cost of higher education. In the U.S., annual tuition for an out of state student at a public college is around $25,000 per year. At private, non-profit four-year institutions, the price is around $33,000 - and that isn't including textbooks and cost of living.
 
-<a name="competition"></a>
 ## Can universities compete with cheaper eLearning providers?
 
 ![Benefits of technology in higher education](benefits-of-technology-in-higher-education.jpg)
@@ -79,13 +62,6 @@ However, for those wanting complete accredited qualifications, eLearning is ofte
 
 What universities need to do is use digital technology to add more value before, during and after the three or four years and undergraduate spends at an institution. Ideas such as a 'digital campus', whereby digital apps augment and support service provisions. Making it easier for tutors and professors to be more effective. Improving the student experience. Making a campus safer for everyone, providing more information to guests and business partners.
 
-<a name="summary"></a>
 ## Conclusion
 
 Universities and schools hold great potential, which can be unlocked with the use of digital transformation and smart digital strategy. Once they leverage the potential of digital platforms and custom-built applications to engage students in the learning process, they will be able to compete effectively against online learning options.
-
-
-<br />
-
----
-*About author: Dariya Lopukhina is an online marketer, tech enthusiast and writer. She is a part of the Anadea team where we help entrepreneurs, startups and companies digitally transform and grow. Connect with her on <a href="https://twitter.com/DariyaLopukhina" rel="nofollow" target="_blank">Twitter</a> and <a href="https://www.linkedin.com/in/dariyalopukhina/" rel="nofollow" target="_blank">LinkedIn</a>.*
