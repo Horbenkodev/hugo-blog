@@ -1,21 +1,26 @@
 ---
-title: 'Health IT Startup Funding: Here’s How to Attract the Investment'
-publishDate: '2020-08-20T00:00:00Z'
-authors: []
-description: We have reached a new era in the digital world. The way healthcare organizations
-  are delivering patient care is shifting in the rise of a worldwide pandemic. Tele-health,
-  machine learning, and virtual care are emerging forces. To remain competitive, healthcare
-  providers must change the ways they operate.
+ceoTitle: "Health IT Startup Funding: Here’s How to Attract the Investment"
+title: "Health IT Startup Funding: Here’s How to Attract the Investment"
+breadcrumbs: Health IT Startup Funding
+slug: health-it-startup-funding-how-to-attract-the-investment
+draft: false
+publishDate: 2020-08-20T00:00:00.000Z
 image: health-IT-startup-funding-how-to-attract-the-investment.jpg
 og_image: health-IT-startup-funding-how-to-attract-the-investment.jpg
+description: We have reached a new era in the digital world. The way healthcare
+  organizations are delivering patient care is shifting in the rise of a
+  worldwide pandemic. Tele-health, machine learning, and virtual care are
+  emerging forces. To remain competitive, healthcare providers must change the
+  ways they operate.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- healthcare
+authors:
+  - business-analysis-team
 categories:
-- business
+  - business
+industries:
+  - healthcare
 ---
 We have reached a new era in the digital world. The way healthcare organizations are delivering patient care is shifting in the rise of a worldwide pandemic. Telehealth, machine learning, virtual care and <a href="https://anadea.info/solutions/medical-app-development" rel="dofollow" target="_blank">custom healthcare software development</a> are emerging forces. To remain competitive, healthcare providers must change the ways they operate.
 
@@ -23,17 +28,11 @@ Consequently, healthcare providers and those responsible for paying for treatmen
 
 Health IT startups should seize the opportunity. However, the challenge always comes to funding a healthcare startup. Luckily, here are some excellent ways to get funding for your health IT startup for you to consider, which we cover in this article.
 
----
-
-*Related read:* ***[How Much Does It Cost to Develop an App for Healthcare?](https://anadea.info/guides/healthcare-app-development-cost)***
-
----
+{{< advert >}}Related read: [How Much Does It Cost to Develop an App for Healthcare?](https://anadea.info/guides/healthcare-app-development-cost){{< /advert >}}
 
 ## Do Your Homework
 
 Start with the research. Your first step in finding seed funding for your health IT startup is ensuring the true value of your idea. Remember that your idea needs to be unique and solve the real problem. Copycat ideas almost always fail to attract funding. Same way, products that invent a problem rather than solve it never raise sufficient funding from experienced investors.
-
-<center><img src="make-a-problem-no-problem.png" alt="Make a problem no problem" /></center>
 
 ## Prove Your Worth
 
@@ -77,11 +76,7 @@ However, it’s no secret that a lot of venture capitalists from China are inves
 
 It’s essential to make yourself familiar with the investment regulations in your country. Some legislations may actually place a ban on the Chinese investment. While a Chinese venture capital firm may agree to seed your health IT startup, local legislation can put a halt on all your hard work.
 
----
-
-*Related read:* ***[Healthcare and Medical Mobile App Revenue Models to Achieve Best Results](https://anadea.info/blog/healthcare-and-medical-mobile-app-revenue-models-to-achieve-best-results)***
-
----
+{{< advert >}}Related read: [Healthcare and Medical Mobile App Revenue Models to Achieve Best Results](https://anadea.info/blog/healthcare-and-medical-mobile-app-revenue-models-to-achieve-best-results){{< /advert >}}
 
 ## Reach out to the Big Pharma
 
