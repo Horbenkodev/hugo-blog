@@ -1,20 +1,26 @@
 ---
+ceoTitle: " All You Need to Know About Public & Private Blockchains"
 title: All You Need to Know About Public & Private Blockchains
-publishDate: '2018-07-10T00:00:00Z'
-authors: []
-description: No matter who you are or what industry you work in, you've probably heard
-  way more than you ever wanted to know about blockchain, cryptocurrencies and other
-  related things. However, despite being on everyone's lips, this technology still
-  remains far from broad adoption and full understanding of its potential.
+breadcrumbs: Public VS Private Blockchains
+slug: public-and-private-blockchains
+draft: false
+publishDate: 2018-07-10T00:00:00.000Z
 image: blockchain.jpg
 og_image: blockchain.jpg
+description: No matter who you are or what industry you work in, you've probably
+  heard way more than you ever wanted to know about blockchain, cryptocurrencies
+  and other related things. However, despite being on everyone's lips, this
+  technology still remains far from broad adoption and full understanding of its
+  potential.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - web-development-team
 categories:
-- development
+  - development
+industries:
+  - fintech
 ---
 No matter who you are or what industry you work in, you've probably heard way more than you ever wanted to know about blockchain, cryptocurrencies and other related things. However, despite being on everyone's lips, this technology still remains far from broad adoption and full understanding of its potential.
 
@@ -210,16 +216,9 @@ Anyway, despite these difficulties, pros, provided by blockchain, overweight con
 
 Though many treat blockchain as the next silver bullet, capable of solving any business task, the reality is a bit different. If your existing (centralized) solution works well in terms of speed, trust, maintainability and security, you should think twice if you need blockchain couterpart. However, if your existing solution is ineffective in some way (I'll put trust on the first position, speed and immutability on the second) you can think about blockchain. Several bank consortiums (especially in Japan) boasted of increased transaction speed in clearing transactions after adoption of blockchain solutions. As speed increased from couple of days to a matter of seconds.
 
-Personally I believe that blockchain is the next revolution which happens right now, we just should make wise decisions when switching to it.
+We believe that blockchain is the next revolution which happens right now, we just should make wise decisions when switching to it.
 
 Good links to investigate:
 
 * <a href="https://blockchainhub.net/blockchains-and-distributed-ledger-technologies-in-general/" target="_blank">Blockchains & Distributed Ledger Technologies</a>
 * <a href="https://ambisafe.com/blog/public-vs-private-blockchain/" rel="nofollow" target="_blank">Public Vs. Private Blockchain</a>
-
-
-<br />
-
----
-*About author: Dmitriy Selin is an experienced software engineer, blockchain enthusiast and winner of All-Ukrainian Blockchain Hackathon in the NEM nomination.*
-
