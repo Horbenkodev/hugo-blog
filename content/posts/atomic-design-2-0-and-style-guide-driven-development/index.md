@@ -1,21 +1,24 @@
 ---
-title: Atomic design 2.0 and style guide driven development
-publishDate: '2020-06-23T00:00:00Z'
-authors:
-- anastasiya-bakuta
-description: 'Design involves the entire process of creating components: starting
-  from design, going through layout to complete isolation of components in the frontend.
-  Modern JS libraries and frameworks enthusiastically accepted these ideas: react,
-  angular, styled-components, bootstrap.'
+ceoTitle: " Atomic Design 2.0 and Style Guide Driven Development"
+title: " Atomic Design 2.0 and Style Guide Driven Development"
+breadcrumbs: " Atomic Design 2.0 and Style Guide Driven Development"
+slug: atomic-design-2-0-and-style-guide-driven-development
+draft: false
+publishDate: 2020-06-23T00:00:00.000Z
 image: atomic-design-2-0-and-style-guide-driven-development.jpg
 og_image: atomic-design-2-0-and-style-guide-driven-development-1.jpg
+description: "Design involves the entire process of creating components:
+  starting from design, going through layout to complete isolation of components
+  in the frontend. Modern JS libraries and frameworks enthusiastically accepted
+  these ideas: react, angular, styled-components, bootstrap."
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - anastasiya-bakuta
 categories:
-- ux-ui
+  - development
+industries: []
 ---
 ## What is atomic design?
 
