@@ -1,21 +1,25 @@
 ---
+ceoTitle: " A Timely Introduction to Intelligent Process Automation"
 title: A Timely Introduction to Intelligent Process Automation
-publishDate: '2020-07-14T00:00:00Z'
-authors:
-- olga-veretskaya
-description: Intelligent process automation, and other ways of automating previously
-  manual ways of working, has never been more timely or relevant.
+breadcrumbs: " A Timely Introduction to Intelligent Process Automation"
+slug: a-timely-introduction-to-intelligent-process-automation
+draft: false
+publishDate: 2020-07-14T00:00:00.000Z
 image: a-timely-Introduction-to-intelligent-process-automation.jpg
 og_image: a-timely-Introduction-to-intelligent-process-automation.jpg
+description: Intelligent process automation, and other ways of automating
+  previously manual ways of working, has never been more timely or relevant.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - olga-veretskaya
 categories:
-- business
+  - business
+industries:
+  - enterprise
 ---
-***Intelligent process automation, and other ways of automating previously manual ways of working, has never been more timely or relevant.***
+Intelligent process automation, and other ways of automating previously manual ways of working, has never been more timely or relevant.
 
 Automating manual processes intelligently started to gain traction following the previous global recession (the financial crisis of 2007-08). Now we are entering a new one. Potentially a new recession, and certainly a Coronavirus (COVID-19) related crisis that is set to last for many months, if not years.
 
@@ -32,13 +36,9 @@ Although productivity is likely to return to some sort of normal in time, this c
 
 * How can we do more added-value work if we automate more mundane tasks?
 
-Intelligent process automation could solve a wide range of problems, across dozens of sectors. Firstly, we should quickly go over: ***What is Intelligent Process Automation?***
+Intelligent process automation could solve a wide range of problems, across dozens of sectors. Firstly, we should quickly go over: **What is Intelligent Process Automation?**
 
----
-
-*Intelligent Process Automation (IPA) is the automation of processes using the most appropriate technologies, such as AI (artificial intelligence), ML (machine learning), [computer vision](https://anadea.info/blog/5-ways-computer-vision-is-revolutionizing-healthcare), neural networks, and cognitive automation.*
-
----
+{{< advert >}}Intelligent Process Automation (IPA) is the automation of processes using the most appropriate technologies, such as AI (artificial intelligence), ML (machine learning), [computer vision](https://anadea.info/blog/5-ways-computer-vision-is-revolutionizing-healthcare), neural networks, and cognitive automation.{{< /advert >}}
 
 IPA projects often result in a system, or interconnected range of systems that streamline manual processes, taking the strain off human team members so they can work more efficiently on tasks and projects that require insight, imagination, and creativity. IPA can be implemented in knowledge-economy companies and those in the manufacturing sectors and supply chains.
 
@@ -69,9 +69,9 @@ Over time, as automatic and intelligent systems learn those tasks, they will get
 
 Intelligent Process Automation is a combination of the following technologies - although what this looks like within individual organisation depends on what systems are already operating and what needs changing.
 
-* ***Robotic process automation (RPA):*** Software automation that gradually replaces humans doing manual (e.g. admin tasks), with machines and machine learning. In one insurance company, RPA automated the management of 2,500 high-risk accounts, freeing up 81% of financial advisors to proactively manage more profitable accounts and generate new business.
-* ***Machine learning (ML) and advanced analytics.*** Algorithms are always going to play a key role in the design of smart systems. Whether algorithms are encountering and learning from structured or unstructured data, they are getting a chance to understand more clearly and [improve outputs](https://anadea.info/blog/business-benefits-of-using-machine-learning).
-* ***Natural language generation (NLG):*** Something we have seen extensive advances within is the creation of seamless and language-driven interactions between humans and machines. As this progresses it’s going to make a huge difference to the automation of tasks. NLG already plays a role in AI-powered bots, voice search and other voice-based assistants. NLG is already used in the production of financial reports for large companies, even the crafting of certain types of media articles.
+* **Robotic process automation (RPA):** Software automation that gradually replaces humans doing manual (e.g. admin tasks), with machines and machine learning. In one insurance company, RPA automated the management of 2,500 high-risk accounts, freeing up 81% of financial advisors to proactively manage more profitable accounts and generate new business.
+* **Machine learning (ML) and advanced analytics.** Algorithms are always going to play a key role in the design of smart systems. Whether algorithms are encountering and learning from structured or unstructured data, they are getting a chance to understand more clearly and [improve outputs](https://anadea.info/blog/business-benefits-of-using-machine-learning).
+* **Natural language generation (NLG):** Something we have seen extensive advances within is the creation of seamless and language-driven interactions between humans and machines. As this progresses it’s going to make a huge difference to the automation of tasks. NLG already plays a role in AI-powered bots, voice search and other voice-based assistants. NLG is already used in the production of financial reports for large companies, even the crafting of certain types of media articles.
 
 When companies first look at IPA, leaders can be forgiven for thinking this is going to take a large amount of investment. It doesn’t, or shouldn’t, because many of the systems needed to bring this sort of thing together already exist. Often, a starting point are changes to the presentation layer of information systems.
 
