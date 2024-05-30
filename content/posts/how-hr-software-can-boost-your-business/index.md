@@ -1,21 +1,26 @@
 ---
+ceoTitle: How HR Software Can Boost Your Business
 title: How HR Software Can Boost Your Business
-publishDate: '2018-07-19T00:00:00Z'
-authors: []
-description: A growing business is an indicator of its success, but more people on
-  the payroll can become a headache for HR personnel. Many tasks have to be duplicated
-  for every employee, often with minute alterations which can in turn affect other
-  aspects. Sifting through employee files is a major time-waster; cross-referencing
-  across multiple pieces of software is unwieldy and awkward.
+breadcrumbs: Custom HR Software Development
+slug: how-hr-software-can-boost-your-business
+draft: false
+publishDate: 2018-07-19T00:00:00.000Z
 image: hr-software.jpg
 og_image: HR-software-preview.png
+description: A growing business is an indicator of its success, but more people
+  on the payroll can become a headache for HR personnel. Many tasks have to be
+  duplicated for every employee, often with minute alterations which can in turn
+  affect other aspects. Sifting through employee files is a major time-waster;
+  cross-referencing across multiple pieces of software is unwieldy and awkward.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - web-development-team
 categories:
-- business
+  - business
+industries:
+  - enterprise
 ---
 A growing business is an indicator of its success, but more people on the payroll can become a headache for HR personnel.
 
@@ -70,9 +75,3 @@ Human error is an inevitable part of life, and it can lead to costly mistakes in
 The HR team is often bogged down with paperwork, meaning that there is less time for them to work on the real issues presenting themselves, such as employee issues or hiring new staff. By integrating a software that is designed specifically to perform the more mundane aspects of the role, real employees can perform their roles as they should.
 
 These are just few benefits of HR software. There are many more that both your HR staff and employees will undoubtedly appreciate.
-
-
-<br />
-
-
-Need super HR software for your company? Our sofware experts are here to help you create the IT solution your human-resources department needs to keep your business running efficiently – and exactly how you want it. [Speak to us](https://anadea.info/contacts) for any questions related to HR software development and associated services (integration, maintenance and consultancy).
