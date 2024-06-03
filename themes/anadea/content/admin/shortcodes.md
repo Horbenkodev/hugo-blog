@@ -34,3 +34,9 @@ With custom link
 ```
 
 {{< ctabutton >}}Text{{< /ctabutton >}}
+
+```go
+{{</* sub */>}}Text{{</* /sub */>}}
+```
+
+{{< sub >}}Text{{< /sub >}}

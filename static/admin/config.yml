@@ -73,8 +73,8 @@ collections:
         name: "questionary"
         widget: "list"
         fields:
-          - {label: Question, name: question, widget: string, required: false}
-          - {label: Answer, name: answer, widget: string, required: false}
+          - {label: Question, name: question, widget: text, required: false}
+          - {label: Answer, name: answer, widget: text, required: false}
     sortable_fields: ["title", "publishDate", "top", "promote.promote", "draft"]
 
   - label: "Authors"
