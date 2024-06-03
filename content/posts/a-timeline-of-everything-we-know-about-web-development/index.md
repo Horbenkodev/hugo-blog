@@ -1,23 +1,26 @@
 ---
-title: A Timeline of Everything We Know About Web Development
-publishDate: '2018-05-29T00:00:00Z'
-authors:
-- benjamin-shepardson
-description: Web development is a long and storied process. From the Internet's humblest
-  of beginnings in the 1960s as a US Department of Defense project to its existence
-  today as the ultimate communications tool, web developers have been there every
-  step of the way, innovating and thinking up new and interesting ways to apply technology
-  to our lives.
+ceoTitle: A Timeline of Everything We Know About Web Development
+title: A Timeline of Everything We Know About Web Development (So You Can
+  Understand the News)
+breadcrumbs: History of Web Development
+slug: a-timeline-of-everything-we-know-about-web-development
+draft: false
+publishDate: 2018-05-29T00:00:00Z
 image: web-dev-timeline.jpg
 og_image: web-dev-timeline.jpg
+description: Web development is a long and storied process. From the Internet's
+  humblest of beginnings in the 1960s as a US Department of Defense project to
+  its existence today as the ultimate communications tool, web developers have
+  been there every step of the way, innovating and thinking up new and
+  interesting ways to apply technology to our lives.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - web-development-team
 categories:
-- web
-- development
+  - development
+industries: []
 ---
 Web development is a long and storied process. From the Internet's humblest of beginnings in the 1960s as a US Department of Defense project to its existence today as the ultimate communications tool, web developers have been there every step of the way, innovating and thinking up new and interesting ways to apply technology to our lives.
 
@@ -67,8 +70,3 @@ In years 2016-2020, mobile-first design became a big deal. With more people acce
 
 ## 2020-our days
 These days, trends of the previous five years remain relevant and are reaching their peak. So, with the increasing popularity of voice assistants like Siri, Alexa, and Google Assistant, voice search optimization is becoming a critical aspect of web development. Websites will need to be optimized for voice search to provide relevant results to the users. Then we have Motion UI, a design trend that is becoming increasingly popular. It involves the use of animations and other visual effects to create a more engaging and interactive user experience. And the one that is booming right now is AI and everything it entails; smart recommendation systems, chatbots, and voice assistants are not a feature anymore but a standard in web development.
-
-<br />
-
----
-*This is a guest post by **Benjamin Shepardson.** Benjamin is the founder of <a href="https://nostop.net/" target="_blank">NoStop Blogging Service</a>. As the company's leader, Ben brings to the table an innate ability to help small businesses compete with larger competitors through content strategies and SEO.*

@@ -1,23 +1,25 @@
 ---
-title: 'How Machine Learning and Computer Vision are Improving Real Estate Valuations '
-publishDate: '2020-04-30T00:00:00Z'
-authors: []
-description: Accurate valuations are a selling point and USP for sellers. With a wide
-  range of computer vision, AI and ML-based solutions on the market, there are ways
-  to produce more accurate valuations without hiring an internal team of developers
-  and data scientists.
+title: "How Machine Learning and Computer Vision are Improving Real Estate
+  Valuations "
+draft: false
+publishDate: 2020-04-30T00:00:00Z
 image: machine-learning-for-real-estate-valuation.jpg
 og_image: machine-learning-for-real-estate-valuation.jpg
+description: Accurate valuations are a selling point and USP for sellers. With a
+  wide range of computer vision, AI and ML-based solutions on the market, there
+  are ways to produce more accurate valuations without hiring an internal team
+  of developers and data scientists.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- real-estate
+authors:
+  - ai-ml-team
 categories:
-- machine-learning
+  - machine-learning
+industries:
+  - real-estate
 ---
-***Right now and for the foreseeable future, real estate is likely to go through something of a slump. As the world economy slows to a crawl and potentially dips into a recession, as a consequence of Coronavirus (COVID-19), real estate won’t be moving at the same pace.***
+Right now and for the foreseeable future, real estate is likely to go through something of a slump. As the world economy slows to a crawl and potentially dips into a recession, as a consequence of Coronavirus (COVID-19), real estate won’t be moving at the same pace.
 
 However, real estate has weathered many a storm in the past. Many recessions have come and gone, with the sector recovering every single time. People are going to be busy moving home, and buying and selling once this is over (and in some cases, during this global pandemic).
 
@@ -54,6 +56,6 @@ Of course you would. Accurate valuations reward effort and investments made over
 
 Accurate valuations are a selling point and USP for sellers. Knowing that one real estate company is known for getting a true and worthwhile price is something that would attract sellers with more valuable properties. Not only is that good for business and brand reputation, but commission rates are going to be higher, thereby generating more revenue for doing the same work.
 
-Don’t worry if you aren't equipped with the tech capabilities of Zillow. Working with <a href="/solutions/real-estate-software">the right technology partner</a>, neural networks and ML applications can be custom developed to give you a real competitive advantage.
+Don’t worry if you aren't equipped with the tech capabilities of Zillow. Working with <a href="/solutions/real-estate-software">the right tech partner</a>, neural networks and ML applications can be custom developed to give you a real competitive advantage.
 
 With a wide range of computer vision, AI and ML-based solutions on the market, there are ways to produce more accurate valuations without hiring an internal team of developers and data scientists. We can create a customized solution that uses image analysis (computer vision) to determine the valuation of properties more accurately than are currently possible.

@@ -1,22 +1,22 @@
 ---
 title: Big Data - The Perfect Aid for Mobile App Development
-publishDate: '2018-05-15T00:00:00Z'
-authors:
-- vivek-kumar
-description: Smartphones and smart-devices have simplified our daily tasks manifolds.
-  They have become an indispensable part of our lives. Today, we just cannot imagine
-  a single day without these devices. We no longer need to head out for purchasing
-  things or for searching a conveyance, we have apps that can help us with most of
-  the imaginable things.
+draft: false
+publishDate: 2018-05-15T00:00:00.000Z
 image: big-data.jpg
 og_image: big-data.jpg
+description: Smartphones and smart-devices have simplified our daily tasks
+  manifolds. They have become an indispensable part of our lives. Today, we just
+  cannot imagine a single day without these devices. We no longer need to head
+  out for purchasing things or for searching a conveyance, we have apps that can
+  help us with most of the imaginable things.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - ai-ml-team
 categories:
-- development
+  - development
+industries: []
 ---
 Smartphones and smart-devices have simplified our daily tasks manifolds. They have become an indispensable part of our lives. Today, we just cannot imagine a single day without these devices. We no longer need to head out for purchasing things or for searching a conveyance, we have apps that can help us with most of the imaginable things. We can book our favorite movies or meals at our favorite restaurants with just a few taps on our mobiles.
 
@@ -24,8 +24,11 @@ Today, the number of smartphone users around the world is nearly <a href="http:/
 
 If you are new to the concept of Big Data, there are numerous <a href="https://www.upgrad.com/big-data/" target="_blank">Big Data courses</a> to increase your knowledge on the subject!
 
-<center><img src="Data-analytics.jpg" alt="Data analytics" style="width: 80%;"/></center>
-<p align="right"><sub><sup><a href="https://dzone.com/articles/how-can-data-analytics-be-used-to-enhance-app-deve" rel="nofollow" target="_blank">Image source</a></sup></sub></p>
+<center>
+
+![Data analytics](Data-analytics.jpg)
+
+<sub><a href="https://dzone.com/articles/how-can-data-analytics-be-used-to-enhance-app-deve" rel="nofollow" target="_blank">Image source</a></sub></center>
 
 The fundamental question that arises is: **How do you leverage and use such vast amount of data to develop good mobile apps providing value-added services?**
 
@@ -33,8 +36,11 @@ The answer is Big Data. It is clearly visible that the increased engagement and 
 
 ## How can Big Data enhance mobile app development and marketing?
 
-<center><img src="big-data-facts.png" alt="Big Data facts" style="width: 80%;"/></center>
-<p align="right"><sub><sup><a href="https://dzone.com/articles/how-can-data-analytics-be-used-to-enhance-app-deve" rel="nofollow" target="_blank">Image source</a></sup></sub></p>
+<center>
+
+![Big Data facts](big-data-facts.png)
+
+<sub><a href="https://dzone.com/articles/how-can-data-analytics-be-used-to-enhance-app-deve" rel="nofollow" target="_blank">Image source</a></sub></center>
 
 Due to the ever-increasing number of mobile users, the mobile app market is expected to reach <a href="https://insidebigdata.com/2017/12/19/impact-big-data-mobile-app-development-businesses/" rel="nofollow" target="_blank">$189 billion</a> by 2020. Hence, a significant share of the future of digital technology depends on developing certified and stable mobile apps. Here's how Big Data can help transform mobile applications for the better!
 
@@ -57,8 +63,3 @@ For app developers seeking to target the global audience, Big Data is an excelle
 <a href="http://www.ingrammicroadvisor.com/data-center/6-big-data-use-cases-in-retail" rel="nofollow" target="_blank">Target</a> has set a great example of using Big Data analytics to boost the sales of its pregnant women's product range.
 
 Since mobile applications are essentially B2B players, they need to present a more refined, structured, and target specific utility case in front of their potential customers. Big Data analytics is an excellent tool to customize and curate mobile apps according to the consumer segment they cater to. Thus, the future of mobile applications is inevitably correlated to Big Data.
-
-<br />
-
----
-*This is a guest post by **Vivek Kumar.** Vivek is the President of Consumer Revenue at <a href="https://www.upgrad.com/" target="_blank">UpGrad</a>, an online education platform providing industry oriented programs in collaboration with world-class faculty co-founded by Mr.Ronnie Screwvala and 3 IIT Delhi Alumni. He holds an MBA from IIM-Ahmedabad with experience in diversified industries like Consumer goods, Media, Technology Products and Education Services.*

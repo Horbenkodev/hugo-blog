@@ -1,22 +1,23 @@
 ---
 title: How Mobile Apps Are Revolutionizing The Manufacturing Industry
-publishDate: '2018-09-10T00:00:00Z'
-authors:
-- russ-davidson
-description: Technology takes over all industries in due time, whether it is advancements
-  in hardware, artificial intelligence, or mobile technology. In business, mobile
-  apps have helped revolutionize payments, e-commerce, order management, and more.
-  It's easy to see why some industries may have paved the way for the use of mobile
-  apps while the rest catch up.
+breadcrumbs: Mobile App Development for Manufacturing
+draft: false
+publishDate: 2018-09-10T00:00:00Z
 image: Mobile-apps-for-manufacturing.jpg
 og_image: Mobile-apps-for-manufacturing.jpg
+description: Technology takes over all industries in due time, whether it is
+  advancements in hardware, artificial intelligence, or mobile technology. In
+  business, mobile apps have helped revolutionize payments, e-commerce, order
+  management, and more. It's easy to see why some industries may have paved the
+  way for the use of mobile apps while the rest catch up.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - mobile-development-team
 categories:
-- business
+  - business
+industries: []
 ---
 Technology takes over all industries in due time, whether it is advancements in hardware, <a href="https://anadea.info/blog/artificial-intelligence-pandoras-box-or-the-holy-grail" target="_blank">artificial intelligence</a>, or mobile technology.
 
@@ -59,9 +60,3 @@ The goal of having all that information at your fingertips? Faster decision maki
 ## Progressing forward in manufacturing
 
 Mobile apps will continue to be improved upon and added as available options to either operate your existing SaaS solution or to run an independent program you've fallen in love with. The answer won't be as easy as dropping your existing legacy system/methods in favor of mobile technology. In fact, the most scalable way to incorporate mobile technology will be a few tasks at a time. The technology is only improving, and it will not be waiting for you.
-
-
-<br />
-
----
-*This is a guest post by **Russ Davidson.** Russ is a Digital Marketing Specialist at <a href="https://softwareconnect.com/manufacturing/" target="_blank">Software Connect</a>, a company that provides free software and application recommendations based in Milwaukee, WI. Since 1996, we've helped thousands of companies find the best solution for their needs by understanding software requirements and pointing them in the right direction.*

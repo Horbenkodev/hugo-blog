@@ -1,23 +1,27 @@
 ---
-title: 5 UX Mistakes to Avoid When Designing Your First Telemedicine App
-publishDate: '2018-02-28T00:00:00Z'
-authors:
-- zyana-morris
-description: Developing a mobile application is a complicated task, especially when
-  you are designing a telemedicine app that will facilitate online health visits.
-  As a developer, you need to fit in the unique user interface with excellent app
-  functionality to ensure smooth interaction between the patient and the doctor through
-  video chat.
+ceoTitle: 5 UX Mistakes to Avoid When Designing Your First Telemedicine App
+title: What Mistakes Are Made When Developing the Design of a Telemedicine
+  Application?
+breadcrumbs: Telemedicine App UX Mistakes
+slug: 5-ux-mistakes-to-avoid-when-designing-your-first-telemedicine-app
+draft: false
+publishDate: 2018-02-28T00:00:00.000Z
 image: Mobile-app_ux.jpg
 og_image: Mobile-app_ux.jpg
+description: Developing a mobile application is a complicated task, especially
+  when you are designing a telemedicine app that will facilitate online health
+  visits. As a developer, you need to fit in the unique user interface with
+  excellent app functionality to ensure smooth interaction between the patient
+  and the doctor through video chat.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- healthcare
+authors:
+  - ui-ux-design-team
 categories:
-- ux-ui
+  - design
+industries:
+  - healthcare
 ---
 Developing a mobile application is a complicated task, especially when you are designing a <a href="https://anadea.info/blog/telehealth-solutions-paving-new-ways-for-medical-communication" target="_blank">telemedicine app</a> that will facilitate online health visits. As a developer, you need to fit in the unique user interface with excellent app functionality to ensure smooth interaction between the patient and the doctor through video chat.
 
@@ -55,11 +59,7 @@ The key is to balance the features well. The more features you add to a telemedi
 
 Do not add worthless features that compromise the overall performance of the application. With a telemedicine app, be very specific with your approach. You don't want to further irritate the distressed patient!
 
----
-
-***Related read: [How Much Does It Cost to Develop an App for Healthcare?](https://anadea.info/guides/healthcare-app-development-cost)***
-
----
+{{< advert >}}Related read: [How Much Does It Cost to Develop an App for Healthcare?](https://anadea.info/guides/healthcare-app-development-cost){{< /advert >}}
 
 ### 3. Poor design elements
 
@@ -84,9 +84,3 @@ Provide the user with the essential guidelines and at the same time do not overw
 ## Final word
 
 With most healthcare practitioners <a href="https://www.mendfamily.com/part-2-start-new-add-telemedicine-current-practice-pros-cons/" target="_blank">looking to incorporate telemedicine into their practice</a>, you can think about designing your first telehealth app. In addition to avoiding these mistakes, app developers should also put an effort in maintaining great UX. It's an ongoing task that demands consistent improvements. To make your first telemedicine app a success, make sure you pay particular attention to UX as well as the UI. Remember, excellent User Experience can turn things around even for a regular, mediocre-looking app.
-
-
-<br />
-
----
-*This is a guest post by **Zyana Morris.** Zyana is a passionate health and lifestyle blogger who loves to write about prevailing trends. She is a featured author at various authoritative blogs in the health and fitness industry. You can follow her on <a href="https://twitter.com/zyanamorris" target="_blank">Twitter</a> and <a href="https://www.facebook.com/ZyanaMorris" target="_blank">Facebook</a>.*

@@ -1,20 +1,25 @@
 ---
-title: 5 Cool User Interface Ideas for Your Mobile App
-publishDate: '2018-09-28T00:00:00Z'
-authors: []
-description: Design of user interfaces is something similar to a mixture of art and
-  science. However, it has never been an act of pure creativity. So if you are inspired
-  by the quote "Good artists copy, great - steal", be careful, do not cut yourself
-  with shards of broken illusions. Because Pablo Picasso didn't say that, guys.
+ceoTitle: " 5 Cool User Interface Ideas for Your Mobile App"
+title: " 5 Cool UI Ideas for Your Mobile App"
+breadcrumbs: " Mobile App UI Design Ideas"
+slug: 5-cool-ui-ideas-for-your-mobile-app
+draft: false
+publishDate: 2018-09-28T00:00:00.000Z
 image: user-interface.png
 og_image: user-interface.png
+description: Design of user interfaces is something similar to a mixture of art
+  and science. However, it has never been an act of pure creativity. So if you
+  are inspired by the quote "Good artists copy, great - steal", be careful, do
+  not cut yourself with shards of broken illusions. Because Pablo Picasso didn't
+  say that, guys.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - ui-ux-design-team
 categories:
-- ux-ui
+  - design
+industries: []
 ---
 Design of user interfaces is something similar to a mixture of art and science. However, it has never been an act of pure creativity. So if you are inspired by the quote "Good artists copy, great - steal", be careful, do not cut yourself with shards of broken illusions. Because Pablo Picasso didn't say that, guys. It is the same dubious creature of the Internet as the fake quotes of Abraham Lincoln circulating online.
 
@@ -92,4 +97,4 @@ Here is another bright example of emotional interface design. When logging in yo
 
 Of course, app UI design is not created for the sake of a beautiful picture. It has its goals. As well as a conductor leads the orchestra with the baton, a skilful mobile app UI designer directs attention of users by shifting focus to necessary UI elements and making them do target actions. Whatever idea of your app may be, we have professionals that can build the design that achieves its desired goals.
 
-> For those who have handled reading the article we have a nice bonus - more mobile UI ideas on <a href="https://dribbble.com/Anadea" target="_blank">our Dribbble account</a>.
+{{< advert >}}For those who have handled reading the article we have a nice bonus - more mobile UI ideas on <a href="https://dribbble.com/anadea-info/" target="_blank">our Dribbble account</a>.{{< /advert >}}

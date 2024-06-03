@@ -1,30 +1,39 @@
 ---
-title: Best Custom Education Software Development Company in East Europe
-publishDate: '2019-06-18T00:00:00Z'
-authors: []
-description: We are excited to announce that Corporate Vision Magazine recognized
-  Anadea as Best Custom Education Software Development Company in Eastern Europe.
+ceoTitle: Best Custom Education Software Development Company in East Europe
+title: Anadea Wins Private Education & Development Award 2019 by CV Magazine
+breadcrumbs: Anadea Wins Private Education & Development Award 2019 by CV Magazine
+slug: best-custom-education-software-development-company-eastern-europe
+draft: false
+publishDate: 2019-06-18T00:00:00.000Z
 image: Best-Custom-Education-Software-Development-Company.jpg
 og_image: Best-Custom-Education-Software-Development-Company.jpg
+description: We are excited to announce that Corporate Vision Magazine
+  recognized Anadea as Best Custom Education Software Development Company in
+  Eastern Europe.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - marketing-team
 categories:
-- news
+  - news
+industries: []
 ---
-***Anadea has been awarded Best Custom Education Software Development Company - Eastern Europe, 2019.***
+Anadea has been awarded Best Custom Education Software Development Company - Eastern Europe, 2019.
 
 We are excited to announce that Anadea has been named a winner of the 2019 Private Education & Development Awards from Corporate Vision Magazine. Our company has been recognized as Best Custom Education Software Development Company - Eastern Europe.
 
 The pace of technology-driven innovation in all sectors of our society is advancing rapidly. It is time for schools, universities and other education providers to embrace the digital change that can propel learning at all grade levels and prepare learners to meet the requirements of the new world. CV Magazine’s Private Education & Development Award aims to acknowledge companies that put their efforts into augmenting the education sector both quantitatively and qualitatively.
 
-<center><img src="Private-Education-and-Development-Award.jpg" alt="Private Education and Development Award 2019"></center>
-<center><sub>Image credit: CV magazine</sub></center>
+<center>
+
+![Private Education and Development Award 2019](Private-Education-and-Development-Award.jpg)
+
+<sub>Image credit: CV magazine</sub></center>
 
 Awards Coordinator Edward Faulkner noted:
-> “From early learning, to adult education, all who make quantitative and qualitative contributions to this vital sector are recognised through this awards programme. I am proud to offer all of my winners my congratulations and best wishes for the future.”
+
+> From early learning, to adult education, all who make quantitative and qualitative contributions to this vital sector are recognised through this awards programme. I am proud to offer all of my winners my congratulations and best wishes for the future.
 
 Being a winner of the Best Custom Education Software Development Company - Eastern Europe award from Corporate Vision Magazine is an evidence of having achieved some really impressive results in the EdTech space. This award proves that Anadea follows the right way to meet the needs of our clients and delivers software solutions that help them address the challenges facing the education sector. We are honored that our dedication and effort have been recognized by Corporate Vision's expert team!
 

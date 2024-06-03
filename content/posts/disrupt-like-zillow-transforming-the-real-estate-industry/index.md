@@ -1,21 +1,27 @@
 ---
-title: 'Disrupt Like Zillow: Transforming the Real Estate Industry'
-publishDate: '2019-04-03T00:00:00Z'
-authors: []
-description: Zillow is a serious player in the U.S. real estate market. Founded in
-  2006, Zillow now contains a database of 110 million homes and apartments across
-  the U.S., with buyers, sellers and renters using the platform to move house.
-image: Real-estate-startup.jpg
+ceoTitle: "Disrupt Like Zillow: Transforming the Real Estate Industry"
+title: "Disrupt Like Zillow: Transforming the Real Estate Industry"
+breadcrumbs: "Disrupt Like Zillow: Transforming the Real Estate Industry"
+slug: disrupt-like-zillow-transforming-the-real-estate-industry
+draft: false
+publishDate: 2019-04-03T00:00:00.000Z
+image: create-real-estate-app.jpg
 og_image: create-real-estate-app.jpg
+description: Zillow is a serious player in the U.S. real estate market. Founded
+  in 2006, Zillow now contains a database of 110 million homes and apartments
+  across the U.S., with buyers, sellers and renters using the platform to move
+  house.
 promote:
   promote: false
 top: false
-draft: true
+authors:
+  - web-development-team
+categories:
+  - business
 industries:
-- real-estate
-categories: []
+  - real-estate
 ---
-***Zillow is a serious player in the U.S. real estate market. Founded in 2006, Zillow now contains a database of 110 million homes and apartments across the U.S., with buyers, sellers and renters using the platform to move house.***
+Zillow is a serious player in the U.S. real estate market. Founded in 2006, Zillow now contains a database of 110 million homes and apartments across the U.S., with buyers, sellers and renters using the platform to move house.
 
 Beyond the core platform, Zillow owns several prominent consumer and business <a href="https://www.zillowgroup.com/about-zillow-group/" rel="nofollow" target="_blank">real estate brands</a>, including Trulia, Mortech and Bridge Interactive. With over $1.1 billion in revenues, and nearly 200 million unique users, as well as <a href="https://www.wallstreetzen.com/stocks/us/nasdaq/zg/statistics#link-1-2-0" rel="nofollow" target="_blank">a record of 9.63 billion visits</a>, were made to Zillow's apps, websites, and services, it is safe to say that Zillow plays an important role in the U.S. real estate market.
 
@@ -57,29 +63,15 @@ Undoubtedly, Zillow is one of the most innovative companies in the real estate s
 
 Whatever the <a href="https://anadea.info/blog/what-is-the-future-of-the-real-estate-software-industry" target="_blank">future of real estate technology</a> holds, there are some important takeaways from Zillow's story that property tech startups should consider:
 
-* **Identify and exploit blind spots in the market.** <br />
-There is always a space for reimagining existing approaches and improving existing systems. <a href="https://www.businessinsider.com/zillow-ceo-spencer-rascoff-success-how-i-did-it-2017-10" target="_blank">One of the first breakthroughs</a> of Zillow's founders was shifting the focus from answering the question "What's for sale?" (beaten on every real estate site by the time) to another one "What's my house worth?".
+* **Identify and exploit blind spots in the market.** There is always a space for reimagining existing approaches and improving existing systems. <a href="https://www.businessinsider.com/zillow-ceo-spencer-rascoff-success-how-i-did-it-2017-10" target="_blank">One of the first breakthroughs</a> of Zillow's founders was shifting the focus from answering the question "What's for sale?" (beaten on every real estate site by the time) to another one "What's my house worth?". They decided to shed light on what's happening with the homes that are not for sale at the moment, which was a terra incognita of the housing market. This is how Zestimate was initiated and they got about a million of visitors right on the first day of launch!
 
- They decided to shed a light on what's happening with the homes that are not for sale at the moment, which was a terra incognita of the housing market. This is how Zestimate was initiated and they got about a million of visitors right on the first day of launch!
-
-* **Brace yourself, success doesn't come easy!** <br />
-The road to recognition and profitability is not a straight line, there are sharp turns, rocks and bends. Sometimes you need to re-rank your priorities and re-focus your efforts. The housing crisis of 2008 hit Zillow hard but it <a href="https://www.realtymogul.com/knowledge-center/article/realtymogulcom-speaker-series-lessons-learned-spencer-rascoff-ceo-zillow" target="_blank">was also a blessing in disguise</a>.
-
- Hard times make your company stronger as going through difficulties bounds your team together and forces you to take hard but right decisions that otherwise wouldn't have been considered.
+* **Brace yourself, success doesn't come easy!** The road to recognition and profitability is not a straight line, there are sharp turns, rocks and bends. Sometimes you need to re-rank your priorities and re-focus your efforts. The housing crisis of 2008 hit Zillow hard but it <a href="https://www.realtymogul.com/knowledge-center/article/realtymogulcom-speaker-series-lessons-learned-spencer-rascoff-ceo-zillow" target="_blank">was also a blessing in disguise</a>. Hard times make your company stronger as going through difficulties bounds your team together and forces you to take hard but right decisions that otherwise wouldn't have been considered.
 
 * **Democratization of data is the way forward.** <br />
-Information is an incredibly powerful tool for engaging clients - be it home buyers, real estate agents or commercial real estate investors - everyone wants easy and open access to real estate data. Zillow was and still is a pioneer of data transparency in the real estate industry. They founded the business on <a href="https://www.zillow.com/public-engagement/open-data/" rel="nofollow" target="_blank">making real estate information accessible</a> to everyone and won consumers' loyalty by empowering people with information that only real estate professionals could previously access.
-
- However, Zillow didn't solely help to eliminate informational asymmetry between real estate consumers and realtors. This information was also used in important academic studies which in their turn had an impact on urban planning and other housing-related issues.
-
+Information is an incredibly powerful tool for engaging clients - be it home buyers, real estate agents or commercial real estate investors - everyone wants easy and open access to real estate data. Zillow was and still is a pioneer of data transparency in the real estate industry. They founded the business on <a href="https://www.zillow.com/public-engagement/open-data/" rel="nofollow" target="_blank">making real estate information accessible</a> to everyone and won consumers' loyalty by empowering people with information that only real estate professionals could previously access. However, Zillow didn't solely help to eliminate informational asymmetry between real estate consumers and realtors. This information was also used in important academic studies which in their turn had an impact on urban planning and other housing-related issues.
 
 ## Conclusion
 
 While there is no magic recipe for startup success, there is a great deal to learn from a legendary real estate tech hub which has forever changed the way properties are discovered, purchased, and rented. As they say, long way starts with the first step, and similar to Zillow, today's PropTech startups will alter the real estate landscape of tomorrow.
 
 The property industry keeps growing and presents an incredible variety of opportunities for tech entrepreneurs. If you want to disrupt the housing marketplace like Zillow, with a proper strategy and a great team, you can succeed on this challenging journey. Good luck!
-
-<br />
-
----
-*About author: Dariya Lopukhina is already over 6 years a part of the Anadea team where we leverage our strong domain expertise to help property businesses digitally transform and grow through efficient [real estate marketplaces development](https://anadea.info/solutions/real-estate-software) and other software solutions for the property sector. Connect with her on <a href="https://twitter.com/DariyaLopukhina" rel="nofollow" target="_blank">Twitter</a> and <a href="https://www.linkedin.com/in/dariyalopukhina/" rel="nofollow" target="_blank">LinkedIn</a>.*

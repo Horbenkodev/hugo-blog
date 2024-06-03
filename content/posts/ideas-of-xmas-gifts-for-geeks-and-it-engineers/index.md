@@ -1,20 +1,25 @@
 ---
+ceoTitle: Cool Ideas of Xmas Gifts for Geeks and IT Engineers
 title: Cool Ideas of Xmas Gifts for Geeks and IT Engineers
-publishDate: '2017-12-18T00:00:00Z'
-authors: []
-description: Christmas is a favorite holiday for both children and adults. The pre-holiday
-  fuss is always accompanied by the search for gifts. People want to choose something
-  original and at the same time useful and pleasant. It's easy to please a little
-  boy with a toy and that is another story to make an adult happier with a gift, especially
-  when he interests in the stuff you don't know much about.
+breadcrumbs: Gifts for Programmers
+slug: ideas-of-xmas-gifts-for-geeks-and-it-engineers
+draft: false
+publishDate: 2017-12-18T00:00:00.000Z
 image: gifts-for-engineers.jpg
 og_image: gifts-for-engineers.jpg
+description: Christmas is a favorite holiday for both children and adults. The
+  pre-holiday fuss is always accompanied by the search for gifts. People want to
+  choose something original and at the same time useful and pleasant. It's easy
+  to please a little boy with a toy and that is another story to make an adult
+  happier with a gift, especially when he interests in the stuff you don't know
+  much about.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - marketing-team
 categories: []
+industries: []
 ---
 Christmas is a favorite holiday for both children and adults. The pre-holiday fuss is always accompanied by the search for suitable gifts for relatives, friends and colleagues. People always want to choose something original and at the same time useful and pleasant. It's easy enough to please a little boy with a toy car or Lego building blocks. And that is another story to make an adult happier with a gift, especially when he or she interests in the stuff you don't know much about.
 

@@ -1,21 +1,22 @@
 ---
 title: How Technology Changed the Way We Celebrate the Holidays
-publishDate: '2018-12-20T00:00:00Z'
-authors:
-- nick-andrew-rojas
-description: Over the years, technology has drastically changed the way we have lived
-  our lives. There is no denying that the modern world is exorbitantly different from
-  the world just 100 years ago. We are currently living in an era that is overwhelmed
-  with technology to make daily living easier, and holidays are not an exception.
+draft: false
+publishDate: 2018-12-20T00:00:00Z
 image: holiday-gift.jpg
 og_image: holiday-gift.jpg
+description: Over the years, technology has drastically changed the way we have
+  lived our lives. There is no denying that the modern world is exorbitantly
+  different from the world just 100 years ago. We are currently living in an era
+  that is overwhelmed with technology to make daily living easier, and holidays
+  are not an exception.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - marketing-team
 categories:
-- business
+  - trends
+industries: []
 ---
 Over the years, technology has drastically changed the way we have lived our lives. There is no denying that the modern world is exorbitantly different from the world just 100 years ago. We are currently living in an era that is overwhelmed with technology to make daily living easier, and holidays are not an exception.
 
@@ -29,11 +30,11 @@ Holiday shopping plays a big role during holiday celebrations. Generally, one of
 
 Due to the Internet, all of your holiday shopping needs and discounts can be found online in the comfort of your home. No longer do you need to go to a physical location to purchase gifts to give out for the holidays. Instead, gifts can be purchased straight from the store online and even be sent to the chosen recipient. You can shop from your house, in a car, and even in a park if you desired to. Everyone is free to make purchases through their internet connected devices, no matter the location.
 
+{{< advert >}}Related article: [Cool Ideas of Xmas Gifts for Geeks and IT Engineers](https://anadea.info/blog/ideas-of-xmas-gifts-for-geeks-and-it-engineers){{< /advert >}}
+
 Additionally, online shopping has changed the delivery process of gifts. Rather than sending physical items to loved ones, services can be virtually sent over the Internet. An <a href="https://www.pgatoursuperstore.com/home" target="_blank">eGift card</a> from a favorite store, a music subscription, and more. These options are perfect for last minute gift ideas, busy commuters, or even distant relatives.
 
 ![Gift](gift.jpg)
-
-> Related article: [Cool Ideas of Xmas Gifts for Geeks and IT Engineers](https://anadea.info/blog/ideas-of-xmas-gifts-for-geeks-and-it-engineers)
 
 ## Video messaging
 
@@ -48,9 +49,3 @@ With technology, there has been a decrease of physical holiday cards and letters
 In 2016 alone, more than <a href="https://brandongaille.com/35-astonishing-greeting-card-industry-trends/" target="_blank">500 million e-cards</a> were sent out. An electronic card (e-card) is a greeting, postcard, special occasion, or invitation that is customized within a website and is sent through the Internet. Easily find already made cards online, create a short vector animation, or make your own card through a website. Rather than hours, sending and creating an e-card can be done within minutes. Easily send an entire office an invite to a party, give your family holiday cards with life updates, or give a postcard from a destination holiday.
 
 Whether you are shopping online this holiday season or sending seasons greetings through email, the spirit of the holidays has not changed. Technology has not altered the "why" of the holiday seasons, just the "how". Spend more time with the people you love without the previous hassles.
-
-
-<br />
-
----
-*This is a guest post by **Nick Andrew Rojas.** Nick is a self-taught serial entrepreneur who has worked with various startups as a business consultant. He's also a journalist focusing on technology, marketing, and social media. He loves meeting new people online and being challenged with new projects. He loves to connect, so reach out on Twitter! <a href="https://twitter.com/NickARojas" target="_blank">@nickarojas</a>.*

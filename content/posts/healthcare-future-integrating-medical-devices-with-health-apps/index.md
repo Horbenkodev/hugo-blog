@@ -1,23 +1,29 @@
 ---
-title: 'Healthcare Future: Integrating Medical Devices with Health Apps'
-publishDate: '2018-03-16T00:00:00Z'
-authors: []
-description: Millions of people download and use health apps. Whether you are tracking
-  steps and exercise using a Fitbit, or counting calories with MyFitnessPal, health
-  apps are increasingly popular amongst every age group. According to an IQVIA Institute
-  for Human Data Science study, there are over 320,000 health-related apps on the
-  Apple App Store and Google Play Store (Android).
+ceoTitle: "Healthcare Future: Integrating Medical Devices with Health Apps"
+title: "Healthcare Future: Integrating Medical Devices with Health Apps"
+breadcrumbs: Integrating Medical Devices with Health Apps
+slug: healthcare-future-integrating-medical-devices-with-health-apps
+draft: false
+publishDate: 2018-03-16T00:00:00.000Z
 image: health-app.jpg
 og_image: health-app.jpg
+description: Millions of people download and use health apps. Whether you are
+  tracking steps and exercise using a Fitbit, or counting calories with
+  MyFitnessPal, health apps are increasingly popular amongst every age group.
+  According to an IQVIA Institute for Human Data Science study, there are over
+  320,000 health-related apps on the Apple App Store and Google Play Store
+  (Android).
 promote:
   promote: false
 top: false
-draft: true
+authors:
+  - mobile-development-team
+categories:
+  - trends
 industries:
-- healthcare
-categories: []
+  - healthcare
 ---
-> Millions of people download and use health apps. Whether you are tracking steps and exercise using a Fitbit, or counting calories with MyFitnessPal, health apps along with <a href="https://anadea.info/solutions/medical-app-development" target="_blank">medical software development services</a> are increasingly popular.
+Millions of people download and use health apps. Whether you are tracking steps and exercise using a Fitbit, or counting calories with MyFitnessPal, health apps along with <a href="https://anadea.info/solutions/medical-app-development" target="_blank">medical software development services</a> are increasingly popular.
 
 According to an <a href="http://www.pmlive.com/blogs/digital_intelligence/archive/2018/january/sharp_rise_in_mobile_health_app_numbers_1215229" rel="nofollow" target="_blank">IQVIA Institute for Human Data Science study</a>, there are over 320,000 health-related apps on the Apple App Store and Google Play Store (Android). Although standing out in this crowded marketplace is more challenging, 41 of these apps have over 10 million downloads each.
 
@@ -35,7 +41,7 @@ Now doctors and medical professionals can also get lifestyle factors, recorded i
 
 More knowledge gives doctors, pharma companies and medical professionals the information they need to make better healthcare choices, thereby improving outcomes. Of course, not every health app has a positive impact.
 
-> Related read: [How Much Does It Cost to Develop an App for Healthcare?](https://anadea.info/guides/healthcare-app-development-cost)
+{{< advert >}}Related read: [How Much Does It Cost to Develop an App for Healthcare?](https://anadea.info/guides/healthcare-app-development-cost){{< /advert >}}
 
 ## Why some healthcare apps don't have positive impacts
 
@@ -57,7 +63,7 @@ The medical device app that comes with Breather, when a patient needs/wants extr
 
 Without mHealth apps like this, doctors are reliant on patient memories, which is far from ideal when many either forget to take medicines, or forget that they have, or if they're asked to do something they don't want - even for the sake of their health - lie about following treatment plans or cutting back on bad habits (smoking, eating too much, drinking, drugs, etc).
 
-> Related case study by Anadea: [App for a Smart Medical Device](https://anadea.info/projects/app-for-medical-device)
+{{< advert >}}Related case study by Anadea: [App for a Smart Medical Device](https://anadea.info/projects/app-for-medical-device){{< /advert >}}
 
 ## Wrapping up
 
@@ -65,10 +71,4 @@ The fast progress of patient remote monitoring devices, healthcare management an
 
 Mobile health apps fill that much-needed gap between what medical professionals know is best for a patient and a patient actually carrying out what they need to improve and look after their health. This is a trend we expect to accelerate and continue long into the future, to the point whereby it will be odd that people don't use medical apps to proactively track and monitor health.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Request a Medical app quote{{< /ctabutton >}}
-
-
-<br />
-
----
-*About author: Dariya Lopukhina is an online marketer, tech enthusiast and writer. She is a part of the Anadea team where we help entrepreneurs, startups and companies digitally transform and grow. Connect with her on <a href="https://twitter.com/DariyaLopukhina" rel="nofollow" target="_blank">Twitter</a> and <a href="https://www.linkedin.com/in/dariyalopukhina/" rel="nofollow" target="_blank">LinkedIn</a>.*
+{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Request a medical app quote{{< /ctabutton >}}

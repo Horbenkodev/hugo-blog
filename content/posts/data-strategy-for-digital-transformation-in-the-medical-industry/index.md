@@ -1,22 +1,28 @@
 ---
+ceoTitle: Data Strategy for Digital Transformation in the Medical Industry
 title: Data Strategy for Digital Transformation in the Medical Industry
-publishDate: '2018-12-05T00:00:00Z'
-authors:
-- nick-andrew-rojas
-description: As technology blurs the line between digital and physical medical care,
-  private practices and doctors must start using technology to promote the intimate
-  connection necessary in doctor-patient relationships. In 2017, more than 95% of
-  non-federal acute care hospitals used information technology for health care. Technology
-  in medicine is widespread and growing, redefining how we think about healthcare.
+breadcrumbs: Healthcare Digital Transformation
+slug: data-strategy-for-digital-transformation-in-the-medical-industry
+draft: false
+publishDate: 2018-12-05T00:00:00.000Z
 image: Digital-medicine.jpg
 og_image: Digital-medicine.jpg
+description: As technology blurs the line between digital and physical medical
+  care, private practices and doctors must start using technology to promote the
+  intimate connection necessary in doctor-patient relationships. In 2017, more
+  than 95% of non-federal acute care hospitals used information technology for
+  health care. Technology in medicine is widespread and growing, redefining how
+  we think about healthcare.
 promote:
   promote: false
 top: false
-draft: true
+authors:
+  - business-analysis-team
+categories:
+  - trends
+  - business
 industries:
-- healthcare
-categories: []
+  - healthcare
 ---
 As technology blurs the line between digital and physical medical care, private practices and doctors must start using technology to promote the intimate connection necessary in doctor-patient relationships. More than 95% of non-federal acute care hospitals used information technology for health care today. Technology in medicine is widespread and growing, redefining how we think about healthcare.
 
@@ -32,7 +38,7 @@ Another type of telehealth is remote care with one's existing doctor. For instan
 
 Telehealth has been praised for increasing the overall accessibility of the overall populace to healthcare as well as decreasing ER visits.
 
-> Related read: [Telehealth Solutions: Paving New Ways for Medical Communication](https://anadea.info/blog/telehealth-solutions-paving-new-ways-for-medical-communication)
+{{< advert >}}Related read: [Telehealth Solutions: Paving New Ways for Medical Communication](https://anadea.info/blog/telehealth-solutions-paving-new-ways-for-medical-communication){{< /advert >}}
 
 ### Information technology
 
@@ -43,7 +49,7 @@ Wearable medical devices have become increasingly popular in recent years, and f
 
 In addition to personal use, wearable medical devices are also being used in clinical settings to monitor patients remotely. This can be particularly helpful for patients with chronic conditions, as it allows doctors to monitor their health status and adjust their treatment plans as necessary.
 
-> Related read: [Healthcare Future: Integrating Medical Devices with Health Apps](https://anadea.info/blog/healthcare-future-integrating-medical-devices-with-health-apps)
+{{< advert >}}Related read: [Healthcare Future: Integrating Medical Devices with Health Apps](https://anadea.info/blog/healthcare-future-integrating-medical-devices-with-health-apps){{< /advert >}}
 
 ### Marketing
 
@@ -55,7 +61,7 @@ Through social media, patients can learn about healthy habits, get advice on how
 
 Innovation is ever increasing! It's important to consider the benefits of investing in research and development. The future and implications of <a href="https://www.forbes.com/sites/danielnewman/2018/04/20/why-digital-transformation-in-healthcare-needs-to-prioritize-user-experience/#1bc18e04bb8a" target="_blank">ideas like healthcare robotics and machine learning</a> are still in their infancy but quickly growing with a lot of potential for decreasing the cost and increasing the quality of healthcare while influencing the doctor-patient relationship.
 
-> Related read: [How Much Does It Cost to Develop an App for Healthcare?](https://anadea.info/blog/how-much-does-it-cost-to-develop-an-app-for-healthcare)
+{{< advert >}}Related read: [How Much Does It Cost to Develop an App for Healthcare?](https://anadea.info/blog/how-much-does-it-cost-to-develop-an-app-for-healthcare){{< /advert >}}
 
 ### Big data
 
@@ -68,9 +74,3 @@ A quality, competitive strategy would feature using some or all of these venues 
 The new innovations in digital medical technology have created several problems that need to be addressed. The security of sensitive medical information is now more important than ever as the world becomes increasingly interconnected. Safe data strategies should be in place to ensure data security while remaining HIPAA compliant.
 
 These strategies should encompass both physical and virtual security measures. For instance, healthcare providers must store devices used to record EHR under a physical lock and key to prevent unauthorized access. On the other hand, virtual security measures are just as crucial. The use of healthcare cloud computing has increased significantly in recent years, making the security of information stored in the cloud a top priority. Measures such as a multi-factor authentication process, audit controls, and data backup are essential. Another important strategy is to implement software that tracks all access and changes to existing data to detect and prevent any unauthorized activity.
-
-
-<br />
-
----
-*This is a guest post by **Nick Andrew Rojas.** Nick is a self-taught serial entrepreneur who has worked with various startups as a business consultant. He's also a journalist focusing on technology, marketing, and social media. He loves meeting new people online and being challenged with new projects. He loves to connect, so reach out on Twitter! <a href="https://twitter.com/NickARojas" target="_blank">@nickarojas</a>.*

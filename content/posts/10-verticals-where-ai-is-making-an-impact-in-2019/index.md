@@ -1,21 +1,26 @@
 ---
-title: 10 Verticals Where AI Is Making an Impact
-publishDate: '2018-11-29T00:00:00Z'
-authors: []
-description: Once just a sci-fi concept from the movies, AI is now a reality that
-  is completely changing the world. Constant advances in technology made it possible
-  for AI to creep its way into our lives and it's clear that it is definitely here
-  to stay.
+ceoTitle: 10 Verticals Where AI Is Making an Impact
+title: Industry Verticals Where AI Is Making an Impact
+breadcrumbs: AI Use Cases in Business
+slug: 10-verticals-where-ai-is-making-an-impact-in-2019
+draft: false
+publishDate: 2018-11-29T00:00:00.000Z
 image: ai-business.jpg
 og_image: ai-business.jpg
+description: Once just a sci-fi concept from the movies, AI is now a reality
+  that is completely changing the world. Constant advances in technology made it
+  possible for AI to creep its way into our lives and it's clear that it is
+  definitely here to stay.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - ai-ml-team
 categories:
-- business
-- machine-learning
+  - business
+  - machine-learning
+  - trends
+industries: []
 ---
 Once just a sci-fi concept from the movies, AI is now a reality that is completely changing the world. Constant advances in technology made it possible for AI to creep its way into our lives and it's clear that it is definitely here to stay.
 
@@ -31,7 +36,7 @@ For instance, you're browsing through a particular website's products in search 
 
 Chatbots play a huge role here as well, as they can serve as virtual assistants helping people find what they need. They can provide product suggestions to e-commerce website visitors and even process orders and payments, creating seamless online shopping experiences.
 
-> Related article: [What is a Chatbot and How to Use It for Your Business](https://anadea.info/blog/what-is-a-chatbot-and-how-to-use-it-for-business)
+{{< advert >}}Related article: [What is a Chatbot and How to Use It for Your Business](https://anadea.info/blog/what-is-a-chatbot-and-how-to-use-it-for-business){{< /advert >}}
 
 ## Customer service
 
@@ -55,13 +60,15 @@ AI is also helping airlines attract new customers by analyzing their online beha
 
 According to a last year's <a href="https://skift.com/2017/09/07/artificial-intelligence-is-becoming-a-priority-for-airline-it-chiefs/" target="_blank">survey by senior IT executives at SITA</a>, 52% of airlines plan on integrating AI, while 68% of airlines say that they intend to adopt AI-powered chatbots in the next three years. This is much greater than the percentage of airlines that are currently using AI chatbots, which is 14%, according to the survey. The survey also showed that 80% of airlines plan to invest in prediction and warning systems that rely on AI.
 
+{{< advert_with_cta title="Interested in AI implementation?" description="Contact us and get a consultation from top AI experts" button="Book a consultation" >}}
+
 ## Healthcare
 
 <a href="https://hbr.org/2018/05/10-promising-ai-applications-in-health-care" target="_blank">AI has very promising applications in healthcare</a>. People can use AI-powered apps to schedule consultations, get instant answers to FAQs and even get immediate help when needed. They are increasingly using medical chatbots to get personalized treatments, as they can simply enter their symptoms and medical history and receive instant advice regarding proper steps they need to take.
 
 Healthcare professionals can use AI technology to automate data entry and other menial tasks, which not only eliminates the risk of human error, but also saves plenty of time that they can focus on providing their patients with the best possible care. AI and machine learning also greatly help with medical research and drug discovery, as well as medical imaging and robotic surgery.
 
-> Related article [Innovative Trends in Medical Software Development](https://anadea.info/blog/the-future-of-health-innovative-trends-in-medical-software-development-2019)
+{{< advert >}}Related article [Innovative Trends in Medical Software Development](https://anadea.info/blog/the-future-of-health-innovative-trends-in-medical-software-development-2019){{< /advert >}}
 
 ## Education
 
@@ -77,7 +84,7 @@ HR managers have a lot of tasks on their plate concerning monitoring, analyzing 
 
 One of the main applications of AI in HR has to do with <a href="https://www.hrtechnologist.com/articles/recruitment-onboarding/3-ways-ai-will-transform-recruitment/" target="_blank">transforming the recruitment process</a>. AI-driven software can quickly go through a number of job applications, thoroughly analyzing them and finding the best candidates, at the same time completely eliminating any kind of bias.
 
->Related article: [How HR Software Can Boost Your Business](https://anadea.info/blog/how-hr-software-can-boost-your-business)
+{{< advert >}}Related article: [How HR Software Can Boost Your Business](https://anadea.info/blog/how-hr-software-can-boost-your-business){{< /advert >}}
 
 ## IT Security
 
@@ -102,9 +109,3 @@ Although some driverless cars are already on the streets, they have a long way t
 By having real-time access to traffic cameras, weather forecasts and information about construction sites, for instance, AI-powered systems can help drivers avoid traffic congestion and roads in bad conditions.
 
 <a href="https://www.businessinsider.com/ai-101-how-learning-computers-are-becoming-smarter-2018-5" target="_blank">Learning computers are becoming smarter</a> with each coming day and they present a whole world of amazing opportunities for businesses in every single industry. AI really is the future and that future is finally here, so every business should embrace it as soon as possible. The sooner they do it, the sooner they can delight their customers and set their organizations on the path to consistent growth.
-
-
-<br />
-
----
-*This is a guest post by **Anya Skrba.** Anya is a part of the Content Team at <a href="https://www.designcontest.com/" target="_blank">DesignContest</a>, a website with a community that's shaped by the joint efforts of talented designers and contest holders. It is created to connect people who are looking for any kind of web design services with professional designers.*

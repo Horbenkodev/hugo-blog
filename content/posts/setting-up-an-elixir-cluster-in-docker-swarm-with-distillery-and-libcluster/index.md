@@ -1,20 +1,23 @@
 ---
-title: Building Elixir Cluster with Docker Swarm, Distillery, Libcluster
-publishDate: '2019-07-05T00:00:00Z'
-authors:
-- alexey-olefirenko
-description: In this tutorial we'll explore the creation of an Elixir app cluster
-  that is run in Docker Swarm and does properly maintain node connectability as the
-  swarm scales up and down.
+ceoTitle: Building Elixir Cluster with Docker Swarm, Distillery, Libcluster
+title: Setting up an Elixir Cluster in Docker Swarm with Distillery and Libcluster
+breadcrumbs: Setting up an Elixir Cluster in Docker Swarm with Distillery and Libcluster
+slug: setting-up-an-elixir-cluster-in-docker-swarm-with-distillery-and-libcluster
+draft: false
+publishDate: 2019-07-05T00:00:00.000Z
 image: Docker-swarm-tutorial.jpg
 og_image: Docker-swarm-tutorial.jpg
+description: In this tutorial we'll explore the creation of an Elixir app
+  cluster that is run in Docker Swarm and does properly maintain node
+  connectability as the swarm scales up and down.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - alexey-olefirenko
 categories:
-- development
+  - development
+industries: []
 ---
 In this tutorial we'll explore the creation of an Elixir app cluster that is run in Docker Swarm and does properly maintain node connectability as the swarm scales up and down.
 
@@ -88,7 +91,7 @@ In order to fill the vm.args file with a real hostname of the container it is ne
 
 Create a directory hooks/pre_configure.d directory in rel/ and add the following file named generate_vm_args.sh there:
 
-```
+```bash
 #!/usr/bin/env bash
 # hooks/pre_configure.d/generate_vm_args.sh
 export CONTAINER_IP=$(hostname -i)
@@ -103,7 +106,7 @@ And finally add it to Distillery hooks by inserting `set pre_configure_hooks: "r
 
 The name section may look as the following:
 
-```
+```bash
 ## Name of the node
 -name <%= release_name %>@${CONTAINER_IP}
 ```
@@ -121,7 +124,7 @@ Both of these commands should be run from the application's folder.
 
 After the mentioned steps if you run `docker ps`, you should see two containers with the app running, for example:
 
-```
+```bash
 CONTAINER ID    IMAGE         COMMAND         CREATED       STATUS       PORTS        NAMES
 f68ad9962299    cluster_demo:latest  "/bin/sh -c 'trap 'e..."  36 seconds ago   Up 34 seconds              t_cluster_demo.2.fnh0516pjga46sgspj8zq49vz
 13d6700bedcc    cluster_demo:latest  "/bin/sh -c 'trap 'e..."  36 seconds ago   Up 34 seconds              t_cluster_demo.1.p9eajxecwrlj7dzx94fkp2wab
@@ -135,7 +138,7 @@ The command for connecting to the first container's remote console would be `doc
 
 This command should give a standard iex console output like the following:
 
-```
+```bash
 Erlang/OTP 21 [erts-10.3.5.3] [source] [64-bit] [smp:2:2] [ds:2:2:10] [async-threads:1] [hipe]
 Interactive Elixir (1.8.2) - press Ctrl+C to exit (type h() ENTER for help)
 iex(cluster_demo@10.0.0.4)1>
@@ -145,28 +148,28 @@ Elixir has a set of functions related to multi-node operations, stored in <a hre
 
 If "Node.list" is called in the remote console, it will return an empty list as the Erlang node in the first container does not "know" of the one in the second container.
 
-```
+```bash
 iex(cluster_demo@10.0.0.4)1> Node.list
 []
 ```
 
 In order to connect to the second container the following command can be used: `Node.connect(:"cluster_demo@10.0.0.3")`
 
-```
+```bash
 iex(cluster_demo@10.0.0.4)2> Node.connect(:"cluster_demo@10.0.0.3")
 true
 ```
 
 True return value means that connection succeeded. If "Node.list" is run again, it will have the second node in results now:
 
-```
+```bash
 iex(cluster_demo@10.0.0.4)3> Node.list
 [:"cluster_demo@10.0.0.3"]
 ```
 
 Both nodes do know of the connection now, so running a remote console (`docker exec -it 13d6700bedcc bin/cluster_demo remote_console`) on the second node should list the first one now:
 
-```
+```bash
 Erlang/OTP 21 [erts-10.3.5.3] [source] [64-bit] [smp:2:2] [ds:2:2:10] [async-threads:1] [hipe]
 Interactive Elixir (1.8.2) - press Ctrl+C to exit (type h() ENTER for help)
 iex(cluster_demo@10.0.0.3)1> Node.list
@@ -186,7 +189,7 @@ It is <a href="https://github.com/bitwalker/libcluster" target="_blank">Libclust
 
 So, in order for autodiscovery to work, it is necessary to add libcluster to application's deps and supervision tree. Here is the line for the supervision tree:
 
-```
+```bash
 {Cluster.Supervisor, [swarm_dns_poll: [
       strategy: Cluster.Strategy.DNSPoll,
       config: [
@@ -202,7 +205,7 @@ If you did not shut down the cluster earlier, updating the stack can be still do
 
 After the update, output of `docker ps` looks as the following:
 
-```
+```bash
 CONTAINER ID    IMAGE         COMMAND         CREATED       STATUS       PORTS        NAMES
 ff37e0987e09    cluster_demo:latest  "/bin/sh -c 'trap 'e..."  38 seconds ago   Up 25 seconds              t_cluster_demo.2.xxebkzq9wfxq3qua1o0ucaxxk
 94f81a7b4b25    cluster_demo:latest  "/bin/sh -c 'trap 'e..."  53 seconds ago   Up 40 seconds              t_cluster_demo.1.z5rpo4hii5220kgzgmha6c1uq
@@ -210,7 +213,7 @@ ff37e0987e09    cluster_demo:latest  "/bin/sh -c 'trap 'e..."  38 seconds ago   
 
 In order to see if the nodes have already discovered each other, it is possible to use the same commands as before, just using the new container IDs for the queries:
 
-```
+```bash
 docker exec -it ff37e0987e09 bin/cluster_demo remote_console
 Erlang/OTP 21 [erts-10.3.5.3] [source] [64-bit] [smp:2:2] [ds:2:2:10] [async-threads:1] [hipe]
 Interactive Elixir (1.8.2) - press Ctrl+C to exit (type h() ENTER for help)
@@ -224,7 +227,7 @@ It will be also useful to check how cluster works in the case of dynamic change 
 
 After execution of this command, the `docker ps` output looks like the following:
 
-```
+```bash
 CONTAINER ID    IMAGE         COMMAND         CREATED       STATUS       PORTS        NAMES
 e5023450a421    cluster_demo:latest  "/bin/sh -c 'trap 'e..."  9 seconds ago    Up 7 seconds              t_cluster_demo.3.5m6bx8n0ahcx64iuaeizgaqne
 3b3e1a935872    cluster_demo:latest  "/bin/sh -c 'trap 'e..."  9 seconds ago    Up 7 seconds              t_cluster_demo.4.ohlnxc1btzi8su3rxhvar7eel
@@ -235,7 +238,7 @@ ff37e0987e09    cluster_demo:latest  "/bin/sh -c 'trap 'e..."  7 minutes ago    
 
 On using the same command `docker exec -it ff37e0987e09 bin/cluster_demo remote_console` and calling Node.list in the console a new set of nodes will be shown:
 
-```
+```bash
 Erlang/OTP 21 [erts-10.3.5.3] [source] [64-bit] [smp:2:2] [ds:2:2:10] [async-threads:1] [hipe]
 Interactive Elixir (1.8.2) - press Ctrl+C to exit (type h() ENTER for help)
 iex(cluster_demo@10.0.0.17)1> Node.list
@@ -245,7 +248,7 @@ iex(cluster_demo@10.0.0.17)1> Node.list
 
 Scaling down the cluster will update the node list as well. Running a `docker service scale t_cluster_demo=3` command and `docker ps` afterwards gives the following container list:
 
-```
+```bash
 CONTAINER ID    IMAGE         COMMAND         CREATED       STATUS       PORTS        NAMES
 e5023450a421    cluster_demo:latest  "/bin/sh -c 'trap 'e..."  3 minutes ago    Up 3 minutes              t_cluster_demo.3.5m6bx8n0ahcx64iuaeizgaqne
 ff37e0987e09    cluster_demo:latest  "/bin/sh -c 'trap 'e..."  10 minutes ago   Up 9 minutes              t_cluster_demo.2.xxebkzq9wfxq3qua1o0ucaxxk
@@ -254,7 +257,7 @@ ff37e0987e09    cluster_demo:latest  "/bin/sh -c 'trap 'e..."  10 minutes ago   
 
 Using the same command (`docker exec -it ff37e0987e09 bin/cluster_demo remote_console`) to connect to that one container that survived all the scales and running Node.list there gives the following output:
 
-```
+```bash
 Erlang/OTP 21 [erts-10.3.5.3] [source] [64-bit] [smp:2:2] [ds:2:2:10] [async-threads:1] [hipe]
 Interactive Elixir (1.8.2) - press Ctrl+C to exit (type h() ENTER for help)
 iex(cluster_demo@10.0.0.17)1> Node.list

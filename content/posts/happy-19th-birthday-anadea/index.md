@@ -1,22 +1,26 @@
 ---
+ceoTitle: Happy 19th Birthday, Anadea!
 title: Happy 19th Birthday, Anadea!
-publishDate: '2019-12-17T00:00:00Z'
-authors: []
-description: Today is a special day for Anadea. Our company turned 19! The entire
-  Anadea team is excited to have reached this milestone!
+breadcrumbs: Happy 19th Birthday, Anadea!
+slug: happy-19th-birthday-anadea
+draft: false
+publishDate: 2019-12-17T00:00:00.000Z
 image: Anadea-happy-birthday.jpg
 og_image: Dnepr-3.jpg
+description: Today is a special day for Anadea. Our company turned 19! The
+  entire Anadea team is excited to have reached this milestone!
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - marketing-team
 categories:
-- news
+  - news
+industries: []
 ---
-> Celebrating 19 years of excellence
+## Celebrating 19 years of excellence
 
-***Today is a special day for Anadea. Our company turned 19! The entire Anadea team is excited to have reached this milestone!***
+Today is a special day for Anadea. Our company turned 19! The entire Anadea team is excited to have reached this milestone!
 
 We celebrated this event together with our dear colleagues. And, of course, fun celebrations with lots of surprises, anniversary quiz and other interesting stuff.
 

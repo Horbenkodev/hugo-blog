@@ -1,26 +1,27 @@
 ---
-title: 'Business Intelligence: Why You Need It in Software Projects?'
-publishDate: '2020-01-29T00:00:00Z'
-authors: []
-description: When new software is developed, whether a simple app or something more
-  involved, it should always be a data-driven process. Business intelligence, or BI,
-  is the process whereby internal teams and stakeholders work with analysts to determine
-  the most effective ways to solve problems.
+title: "Business Intelligence: Why You Need It in Software Projects?"
+draft: false
+publishDate: 2020-01-29T00:00:00.000Z
 image: Business-intelligence.jpg
 og_image: Business-intelligence.jpg
+description: When new software is developed, whether a simple app or something
+  more involved, it should always be a data-driven process. Business
+  intelligence, or BI, is the process whereby internal teams and stakeholders
+  work with analysts to determine the most effective ways to solve problems.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - daria-lopukhina
 categories:
-- business
+  - business
+industries: []
 ---
-***When new software is developed, whether a simple app or something more involved, it should always be a data-driven process. Business intelligence, or BI, is the process whereby internal teams and stakeholders work with analysts to determine the most effective ways to solve problems.***
+When new software is developed, whether a simple app or something more involved, it should always be a data-driven process. Business intelligence, or BI, is the process whereby internal teams and stakeholders work with analysts to determine the most effective ways to solve problems.
 
 This sounds like a sensible approach, and ultimately whether a company is going through a <a href="https://anadea.info/blog/digital-transformation" target="_blank">digital transformation</a> or simply needs new software, the role of analysts and intelligence is about solving problems.
 
-> Digital transformation powered by business intelligence has a tremendous potential for making faster, better-informed decisions and accelerating business growth.
+{{< advert >}}Digital transformation powered by business intelligence has tremendous potential for making faster, better-informed decisions and accelerating business growth.{{< /advert >}}
 
 However, too many businesses have struggled with digital transformation projects. Whether or not they've worked with an analyst. Or companies have worked with IT consultants. Clients either have negative experiences, or see a consultant that sets a crazy rate, then ultimately achieves nothing except writing lots of reports that have no positive long-term impact.
 
@@ -28,8 +29,7 @@ However, too many businesses have struggled with digital transformation projects
 
 ![Importance of business intelligence](Importance-of-business-intelligence.jpg)
 
-> **What is the purpose of business intelligence in a business?** <br>
-The purpose of business intelligence is to help business owners, managers and exacutives find <a href="https://anadea.info/services/business-analysis" target="_blank">the right solutions to business problems</a> through collecting relevant data and transforming it into meaningful, actionable insight.
+What is the purpose of business intelligence in a business? The purpose of business intelligence is to help business owners, managers and exacutives find <a href="https://anadea.info/services/business-analysis" target="_blank">the right solutions to business problems</a> through collecting relevant data and transforming it into meaningful, actionable insight.
 
 In our experience, and this an experience common across the sector, business don't always know what they need.
 
@@ -88,9 +88,3 @@ In practice, going that route depends on every companies processes, systems, and
 * What efficiencies could be made that could improve workloads and the customer experience?
 
 When developing new systems, data is just as useful as user feedback. A combination of both is needed to map out the most effective solution. Analytics and feedback loops should be put in place to collect the data and user-experiences, and with this information, a project spec, goals, and a roadmap can be created. Once that is done, it should be clear the valuable role business intelligence can play in software development projects.
-
-
-<br />
-
----
-*About author: Dariya Lopukhina is an online marketer, tech enthusiast and writer. She is a part of the Anadea team where we help entrepreneurs, startups and companies digitally transform and grow. Connect with her on <a href="https://twitter.com/DariyaLopukhina" rel="nofollow" target="_blank">Twitter</a> and <a href="https://www.linkedin.com/in/dariyalopukhina/" rel="nofollow" target="_blank">LinkedIn</a>.*
