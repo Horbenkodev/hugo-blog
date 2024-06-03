@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 function handleCustomSnippet() {
   CMS.registerEditorComponent({
     id: 'ctabutton',
@@ -114,20 +115,18 @@ function handleCustomSnippet() {
     id: 'sub',
     label: 'Sub',
     fields: [{ name: 'content', label: 'Content', widget: 'text' }],
-    pattern: /{{< sub >}}([a-zA-Z0-9-_ .,/:()!"']+){{< \/sub >}}/,
+    pattern: /{{< sub >}}(.+){{< \/sub >}}/,
     fromBlock: function (match) {
       return {
-        content: match[1] ? match[1] : '',
+        content: match[1],
       };
     },
     toBlock: function (obj) {
       return `{{< sub >}}${obj.content}{{< /sub >}}`;
     },
     toPreview: function (obj) {
-      return `<section class="sub">
-                <sub class="sub__content">
-                  ${obj.content}
-                </sub>
+      return `<p class="sub">
+                ${obj.content}
               </section>`;
     },
   });

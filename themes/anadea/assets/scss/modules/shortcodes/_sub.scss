@@ -7,12 +7,9 @@
 }
 
 .sub {
+  font-size: smaller;
+  color: var(--main-text);
   text-align: center;
-
-  &__content {
-    font-size: 14px;
-    color: var(--main-text);
-  }
 }
 
 @media (prefers-color-scheme: dark) {
