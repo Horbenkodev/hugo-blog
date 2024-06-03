@@ -7,8 +7,8 @@
   {{- with $title -}}
     <h2 class="advertWithCTA__title">{{ $title }}</h2>
   {{- end -}}
-  <p class="advertWithCTA__description">
+  <div class="advertWithCTA__description">
     {{ $description | markdownify }}
-  </p>
+  </div>
   <a href="{{ $url }}" class="advertWithCTA__button">{{ $button }}</a>
 </section>

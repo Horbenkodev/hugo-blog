@@ -5,13 +5,13 @@ function handleCustomSnippet() {
     label: 'CTAbutton',
     fields: [
       { name: 'content', label: 'Content', widget: 'text' },
-      { name: 'href', label: 'href', widget: 'text' },
+      { name: 'href', label: 'href', widget: 'string' },
     ],
-    pattern: /{{< ctabutton href="([a-zA-Z0-9-_ :/.]+)" >}}([a-zA-Z0-9-_ .,/:()!"']+){{< \/ctabutton >}}/,
+    pattern: /{{< ctabutton href="([a-zA-Z0-9-_ :/.]+)" >}}([a-zA-Z0-9-_ .,!]+){{< \/ctabutton >}}/,
     fromBlock: function (match) {
       return {
-        href: match[1] ? match[1] : '',
-        content: match[2] ? match[2] : '',
+        href: match[1],
+        content: match[2],
       };
     },
     toBlock: function (obj) {
@@ -29,12 +29,11 @@ function handleCustomSnippet() {
     id: 'Advert',
     label: 'Advert',
     fields: [{ name: 'content', label: 'Content', widget: 'text' }],
-    pattern: /{{< advert >}}([a-zA-Z0-9-_ .,/:()!"']+){{< \/advert >}}/,
+    pattern: /{{< advert >}}(.+){{< \/advert >}}/,
 
     fromBlock: function (match) {
       return {
-        href: match[1] ? match[1] : '',
-        content: match[2] ? match[2] : '',
+        content: match[1],
       };
     },
     toBlock: function (obj) {
@@ -42,9 +41,9 @@ function handleCustomSnippet() {
     },
     toPreview: function (obj) {
       return `<section class="advert">
-                <p class="advert__description">
+                <div class="advert__description">
                   ${obj.content}
-                </p>
+                </div>
               </section>`;
     },
   });
@@ -53,40 +52,42 @@ function handleCustomSnippet() {
     id: 'AdvertWithCTA',
     label: 'AdvertWithCTA',
     fields: [
-      { name: 'title', label: 'Title', widget: 'text' },
+      { name: 'title', label: 'Title', widget: 'string' },
       { name: 'content', label: 'Content', widget: 'text' },
-      { name: 'href', label: 'Href', widget: 'text' },
-      { name: 'button', label: 'Button', widget: 'text' },
+      { name: 'href', label: 'Href', widget: 'string' },
+      { name: 'button', label: 'Button', widget: 'string' },
     ],
     pattern:
-      /{{< advert_with_cta title="([a-zA-Z0-9-_ .,/:()!\"']+)" description="([a-zA-Z0-9-_ .,/:()!\"']+)" button="([a-zA-Z0-9-_ .,/:()!\"']+)" >}}/,
-
+      /{{< advert_with_cta title="([a-zA-Z0-9-_ .,/:()!"'“”]+)" description="(.+)" button="([a-zA-Z0-9-_ !]+)" url="([a-zA-Z:/?.-_ ]+)" >}}/,
     fromBlock: function (match) {
       return {
-        title: match[1] ? match[1] : '',
-        content: match[2] ? match[2] : '',
-        href: match[3] ? match[3] : '',
-        button: match[4] ? match[4] : '',
+        title: match[1],
+        content: match[2],
+        button: match[3],
+        href: match[4],
       };
     },
     toBlock: function (obj) {
-      const href = obj.href ? obj.href : 'https://anadea.info/contacts';
-      const button = obj.button ? obj.button : 'Get in touch';
-      return `{{< advert_with_cta title="${obj.title}" description="${obj.content}" button="${button}" url="${href}" >}}`;
+      const href = obj.href || 'https://anadea.info/contacts';
+      const button = obj.button || 'Get in touch';
+      const title = obj.title?.replaceAll(/("\b)(?<content>.+)("\B)/g, `“$<content>”`);
+      return `{{< advert_with_cta title="${title}" description="${obj.content?.replaceAll(`"`, `'`)}" button="${button}" url="${href}" >}}`;
     },
     toPreview: function (obj) {
-      const title = obj.title ? `<h2 class="advertWithCTA__title">${obj.title}</h2>` : '';
-      const href = obj.href ? obj.href : 'https://anadea.info/contacts';
-      const button = obj.button ? obj.button : 'Get in touch';
+      const titleContent = obj.title?.replaceAll(/("\b)(?<content>.+)("\B)/g, `“$<content>”`);
+      const title = obj.title ? `<h2 class="advertWithCTA__title">${titleContent}</h2>` : '';
+      const href = obj.href || 'https://anadea.info/contacts';
+      const button = obj.button || 'Get in touch';
       return `<section class="advertWithCTA">
                 ${title}
-                <p class="advertWithCTA__description">
+                <div class="advertWithCTA__description">
                   ${obj.content}
-                </p>
+                </div>
                 <a href="${href}" class="advertWithCTA__button">${button}</a>
-                </section>`;
+              </section>`;
     },
   });
+
   CMS.registerEditorComponent({
     id: 'youtube',
     label: 'Youtube',
@@ -97,7 +98,7 @@ function handleCustomSnippet() {
         widget: 'string',
       },
     ],
-    pattern: /{{< youtube\s+(?<id>[A-Za-z0-9\-]+)\s+>}}/,
+    pattern: /{{< youtube\s+(?<id>[A-Za-z0-9-]+)\s+>}}/,
     fromBlock: function (match) {
       return {
         id: match[1],
@@ -125,9 +126,9 @@ function handleCustomSnippet() {
       return `{{< sub >}}${obj.content}{{< /sub >}}`;
     },
     toPreview: function (obj) {
-      return `<p class="sub">
+      return `<div class="sub">
                 ${obj.content}
-              </section>`;
+              </div>`;
     },
   });
 }
