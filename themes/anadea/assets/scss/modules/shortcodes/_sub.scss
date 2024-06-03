@@ -1,0 +1,33 @@
+@mixin light {
+  --main-text: var(--mine-shaft);
+}
+
+@mixin dark {
+  --main-text: var(--alto);
+}
+
+.sub {
+  font-size: smaller;
+  color: var(--main-text);
+  text-align: center;
+}
+
+@media (prefers-color-scheme: dark) {
+  .sub {
+    @include dark;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .sub {
+    @include light;
+  }
+}
+
+[data-theme='dark'] .sub {
+  @include dark;
+}
+
+[data-theme='light'] .sub {
+  @include light;
+}
