@@ -16,7 +16,8 @@ promote:
 top: false
 authors:
   - ai-ml-team
-categories: []
+categories:
+  - ai-ml
 industries:
   - elearning
 ---
