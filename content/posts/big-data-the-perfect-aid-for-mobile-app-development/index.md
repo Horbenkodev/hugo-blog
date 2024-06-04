@@ -1,10 +1,12 @@
 ---
 title: Big Data - The Perfect Aid for Mobile App Development
+breadcrumbs: Big Data in Mobile App Development
+slug: big-data-the-perfect-aid-for-mobile-app-development
 draft: false
 publishDate: 2018-05-15T00:00:00.000Z
 image: big-data.jpg
 og_image: big-data.jpg
-description: Smartphones and smart-devices have simplified our daily tasks
+description: Smartphones and smart devices have simplified our daily tasks
   manifolds. They have become an indispensable part of our lives. Today, we just
   cannot imagine a single day without these devices. We no longer need to head
   out for purchasing things or for searching a conveyance, we have apps that can
@@ -16,6 +18,7 @@ authors:
   - ai-ml-team
 categories:
   - development
+  - ai-ml
 industries: []
 ---
 Smartphones and smart-devices have simplified our daily tasks manifolds. They have become an indispensable part of our lives. Today, we just cannot imagine a single day without these devices. We no longer need to head out for purchasing things or for searching a conveyance, we have apps that can help us with most of the imaginable things. We can book our favorite movies or meals at our favorite restaurants with just a few taps on our mobiles.
