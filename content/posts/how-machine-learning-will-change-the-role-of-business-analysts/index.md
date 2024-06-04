@@ -2,7 +2,7 @@
 title: How Machine Learning Will Change the Role of Business Analysts
 breadcrumbs: " ML Transforms Business Analysis"
 draft: false
-publishDate: 2018-12-27T00:00:00Z
+publishDate: 2018-12-27T00:00:00.000Z
 image: artificial-intelligence.jpg
 og_image: artificial-intelligence.jpg
 description: Machine learning (ML) is a technology that is related to artificial
@@ -17,7 +17,7 @@ authors:
   - ai-ml-team
 categories:
   - business
-  - machine-learning
+  - ai-ml
 industries: []
 ---
 Machine learning (ML) is a technology that is related to artificial intelligence (AI), based around the idea that systems can learn from data and either improve performance or become more accurate. It is linked to the concept of automation, because [machine learning development](https://anadea.info/services/machine-learning-software-development) enables systems to make decisions with little or no need for intervention from humans.
