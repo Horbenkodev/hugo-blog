@@ -17,7 +17,7 @@ top: false
 authors:
   - ai-ml-team
 categories:
-  - machine-learning
+  - ai-ml
 industries: []
 ---
 Businesses everywhere are facing serious challenges, and adapting to a new economic reality. Around the world, the impact of Coronavirus (Covid-19) will be felt for years to come. Growth is slowing, and in some cases, countries are entering recession.
