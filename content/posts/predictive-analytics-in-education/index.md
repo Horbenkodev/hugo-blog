@@ -4,7 +4,7 @@ title: The Use of Predictive Analytics in Education
 breadcrumbs: The Use of Predictive Analytics in Education
 slug: predictive-analytics-in-education
 draft: false
-publishDate: 2021-08-10T00:00:00Z
+publishDate: 2021-08-10T00:00:00.000Z
 image: Predictive-analytics-in-education.jpg
 og_image: Predictive-analytics-in-education.jpg
 description: Education is a huge sector, and one that is only going to grow
@@ -15,7 +15,7 @@ top: false
 authors:
   - ai-ml-team
 categories:
-  - machine-learning
+  - ai-ml
 industries:
   - elearning
 ---
