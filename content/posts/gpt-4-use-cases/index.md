@@ -18,6 +18,7 @@ authors:
 categories:
   - business
   - trends
+  - ai-ml
 industries: []
 questionary:
   - question: What is GPT-4?
