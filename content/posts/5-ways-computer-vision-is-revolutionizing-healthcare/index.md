@@ -16,7 +16,7 @@ top: false
 authors:
   - ai-ml-team
 categories:
-  - machine-learning
+  - ai-ml
 industries:
   - healthcare
 ---
