@@ -102,6 +102,8 @@ Learners can test their current language level, in order to be assigned to the c
 <td>
 <p><b>Student</b></p>
 </td>
+<td>
+<p></p> </td>
 </tr>
 <tr>
 <td>
@@ -164,6 +166,8 @@ Learners can test their current language level, in order to be assigned to the c
 <td>
 <p><b>Admin</b></p>
 </td>
+<td>
+<p></p> </td>
 </tr>
 <tr>
 <td>
