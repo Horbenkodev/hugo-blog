@@ -4,7 +4,7 @@ title: " How Machine Learning and Big Data Add Value to Healthcare"
 breadcrumbs: How Machine Learning and Big Data Add Value to Healthcare
 slug: machine-learning-in-healthcare
 draft: false
-publishDate: 2020-02-12T00:00:00Z
+publishDate: 2020-02-12T00:00:00.000Z
 image: Machine-learning-in-healthcare.jpg
 og_image: Machine-learning-in-healthcare.jpg
 description: According to McKinsey, the U.S. healthcare system generates over 1
@@ -17,7 +17,7 @@ top: false
 authors:
   - ai-ml-team
 categories:
-  - machine-learning
+  - ai-ml
 industries:
   - healthcare
 ---
