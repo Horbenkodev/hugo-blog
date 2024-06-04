@@ -14,6 +14,7 @@ authors:
   - ai-ml-team
 categories:
   - business
+  - ai-ml
 industries:
   - oil-and-gas
 questionary:
