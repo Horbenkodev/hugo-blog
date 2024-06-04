@@ -17,6 +17,7 @@ authors:
   - web-development-team
 categories:
   - business
+  - ai-ml
 industries: []
 questionary:
   - question: How much does it cost to make a video chat app?
