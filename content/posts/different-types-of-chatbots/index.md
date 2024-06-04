@@ -4,7 +4,7 @@ title: "Types of Chatbots: Which One Will Be the Best for Your Business?"
 breadcrumbs: Different Types of Chatbots
 slug: different-types-of-chatbots
 draft: false
-publishDate: 2023-10-23T00:00:00Z
+publishDate: 2023-10-23T00:00:00.000Z
 image: chatbot_types.png
 og_image: chatbot_types_social.png
 description: If you are thinking about launching a chatbot for your business,
@@ -17,6 +17,8 @@ authors:
   - ai-ml-team
 categories:
   - business
+  - ai-ml
+  - app-ideas
 industries: []
 questionary:
   - question: What are the different types of chatbots?
