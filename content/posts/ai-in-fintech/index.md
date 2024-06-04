@@ -16,6 +16,7 @@ authors:
   - ai-ml-team
 categories:
   - business
+  - ai-ml
 industries:
   - fintech
 questionary:
