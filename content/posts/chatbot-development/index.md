@@ -4,7 +4,7 @@ title: "Chatbot Development: How to Build a Great One"
 breadcrumbs: How to Create a Chatbot
 slug: chatbot-development
 draft: false
-publishDate: 2023-08-30T00:00:00Z
+publishDate: 2023-08-30T00:00:00.000Z
 image: chatbot.png
 og_image: chatbot_socials.png
 description: If you want to have a tool that will help you automate the process
@@ -17,6 +17,8 @@ authors:
   - ai-ml-team
 categories:
   - business
+  - ai-ml
+  - app-ideas
 industries: []
 questionary:
   - question: What is chatbot development?
