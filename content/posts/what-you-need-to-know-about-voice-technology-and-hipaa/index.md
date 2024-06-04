@@ -1,7 +1,7 @@
 ---
 title: What You Need to Know About Voice Technology and HIPAA
 draft: false
-publishDate: 2019-12-18T00:00:00Z
+publishDate: 2019-12-18T00:00:00.000Z
 image: Voice-technology-and-HIPAA.jpg
 og_image: Voice-technology-and-HIPAA.jpg
 description: Voice technology has gained significant momentum over the past
@@ -13,7 +13,8 @@ top: false
 authors:
   - ai-ml-team
 categories:
-  - machine-learning
+  - ai-ml
+  - business
 industries:
   - healthcare
 ---
