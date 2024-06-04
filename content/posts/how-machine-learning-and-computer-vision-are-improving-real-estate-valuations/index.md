@@ -2,7 +2,7 @@
 title: "How Machine Learning and Computer Vision are Improving Real Estate
   Valuations "
 draft: false
-publishDate: 2020-04-30T00:00:00Z
+publishDate: 2020-04-30T00:00:00.000Z
 image: machine-learning-for-real-estate-valuation.jpg
 og_image: machine-learning-for-real-estate-valuation.jpg
 description: Accurate valuations are a selling point and USP for sellers. With a
@@ -15,7 +15,7 @@ top: false
 authors:
   - ai-ml-team
 categories:
-  - machine-learning
+  - ai-ml
 industries:
   - real-estate
 ---
