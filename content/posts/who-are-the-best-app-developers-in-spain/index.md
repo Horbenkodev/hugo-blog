@@ -66,7 +66,7 @@ Clutch is not the only one service that conducts IT services market researches a
 
 One of our [clients](https://anadea.info/projects/viventor), a Spanish-Latvian startup that hired our developers to build Android and iOS apps for their financial investment platform, gave us the following feedback:
 
-{{< advert >}}Many thanks to the whole team for the successful release of the new version of our application! Despite the seemingly small amount of innovation compared to the first version, still, the amount of work was extensive. I was pleased with the successful and high-quality communication with our backend team and how the disputed issues were resolved. Special thanks for solving issues outside of working hours! The development of mobile applications for us was a novelty and we gained invaluable experience. Thank you again and good luck in future projects!{{< /advert >}}
+> Many thanks to the whole team for the successful release of the new version of our application! Despite the seemingly small amount of innovation compared to the first version, still, the amount of work was extensive. I was pleased with the successful and high-quality communication with our backend team and how the disputed issues were resolved. Special thanks for solving issues outside of working hours! The development of mobile applications for us was a novelty and we gained invaluable experience. Thank you again and good luck in future projects!
 
 You can find more reviews from our clients in our [profile on Clutch](https://clutch.co/profile/anadea).
 
