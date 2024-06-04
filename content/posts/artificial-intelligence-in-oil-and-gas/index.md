@@ -1,5 +1,8 @@
 ---
-title: "AI in Oil and Gas Industry: Benefits and Use Cases"
+ceoTitle: "AI in Oil and Gas Industry: Benefits and Use Cases"
+title: "AI in Oil and Gas Industry: Excellent Duo and Impressive Results"
+breadcrumbs: AI in the Oil and Gas Industry
+slug: artificial-intelligence-in-oil-and-gas
 draft: false
 publishDate: 2023-10-05T00:00:00.000Z
 image: ai_oil_gas.png
