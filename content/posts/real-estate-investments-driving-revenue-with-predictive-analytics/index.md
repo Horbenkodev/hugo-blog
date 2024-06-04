@@ -2,7 +2,7 @@
 title: "Real Estate Investments: Driving Revenue with Predictive Analytics"
 breadcrumbs: ""
 draft: false
-publishDate: 2019-05-29T00:00:00Z
+publishDate: 2019-05-29T00:00:00.000Z
 image: Real-estate-investments.jpg
 og_image: Real-estate-investments.jpg
 description: When investing in real estate, especially in rental properties, one
@@ -14,7 +14,8 @@ promote:
 top: false
 authors:
   - ai-ml-team
-categories: []
+categories:
+  - ai-ml
 industries:
   - real-estate
 ---
