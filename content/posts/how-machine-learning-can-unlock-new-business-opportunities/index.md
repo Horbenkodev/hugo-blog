@@ -3,7 +3,7 @@ ceoTitle: ""
 title: How to Unlock New Business Value with Machine Learning
 slug: how-machine-learning-can-unlock-new-business-opportunities
 draft: false
-publishDate: 2019-12-20T00:00:00Z
+publishDate: 2019-12-20T00:00:00.000Z
 image: Machine-learning-business-value.jpg
 og_image: Machine-learning-business-value.jpg
 description: Machine learning (ML), business intelligence (BI) and artificial
@@ -16,7 +16,7 @@ authors:
   - daria-lopukhina
 categories:
   - business
-  - machine-learning
+  - ai-ml
 industries: []
 ---
 Machine learning (ML), business intelligence (BI) and artificial intelligence (AI); we have got beyond these being mere buzzwords. A whole industry has grown up around them, worth billions. And the number of success stories are growing across a diverse range of sectors. This technology is proven.
