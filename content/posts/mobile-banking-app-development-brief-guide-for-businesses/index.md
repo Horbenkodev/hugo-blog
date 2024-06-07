@@ -1,6 +1,6 @@
 ---
 ceoTitle: "How to Build a Mobile Banking App: Key Tips"
-title: "Mobile Banking App Development: Brief Guide for Businesses"
+title: "Mobile Banking App Development: Guide for Businesses"
 breadcrumbs: Mobile Banking App Development
 slug: mobile-banking-app-development
 draft: false
