@@ -4,7 +4,7 @@ title: "How to Start a SaaS Business: Strategies to Succeed"
 breadcrumbs: How to Start a SaaS Business
 slug: start-a-saas-business
 draft: false
-publishDate: 2023-07-20T00:00:00Z
+publishDate: 2023-07-20T00:00:00.000Z
 image: saas_business.png
 og_image: saas_business_socials.png
 description: Starting a SaaS company can become a very promising idea these
@@ -13,7 +13,8 @@ description: Starting a SaaS company can become a very promising idea these
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - web-development-team
 categories:
   - business
 industries: []
