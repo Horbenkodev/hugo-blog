@@ -117,4 +117,4 @@ The rest are nice to have — even great to have, actually. But from the busines
 
 Still, much depends on the app type. Depending on whether it is the app for self-education, like Duolingo or LinkedIn Learning, or the app for K-12 online classes, the sets of essential features will be nothing alike. Apps for kids’ education have to be gamified while platforms for remote classes must allow screen sharing. Benefits of educational apps are only achievable if the apps deliver what they are expected to.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Let's discuss your project!{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Let's discuss your project!{{< /ctabutton >}}

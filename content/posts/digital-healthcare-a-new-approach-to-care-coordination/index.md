@@ -110,4 +110,4 @@ These are a few of the ways that digital technology can transform healthcare. We
 
 If you are looking to bring your innovative ideas to life, drop us a line. Together, we’ll find a way to improve people’s lives with technology.
 
-{{< ctabutton href='https://anadea.info/contacts' >}}Get in touch{{< /ctabutton >}}
+{{< ctabutton url='https://anadea.info/contacts' >}}Get in touch{{< /ctabutton >}}

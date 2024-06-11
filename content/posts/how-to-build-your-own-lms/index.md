@@ -161,7 +161,7 @@ In our work, we calculate the cost of development by multiplying the hourly rate
 
 Still, don’t aim at cutting costs by all means. You simply can’t avoid such categories of spending as hosting where your web app will be placed, quality assurance which is essential for all software projects, especially big ones, and so on. 'Cheap' is not the word for software development. But it surely can be cost-efficient if approached with diligence.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Request an LMS development quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Request an LMS development quote{{< /ctabutton >}}
 
 <script type="application/ld+json">
 {

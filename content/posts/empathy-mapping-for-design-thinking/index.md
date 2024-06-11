@@ -275,4 +275,4 @@ business domains and will be happy to support you at any step of the
 realization of your project. Share your idea with us to get project
 estimates.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}

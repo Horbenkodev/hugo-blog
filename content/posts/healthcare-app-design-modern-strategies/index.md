@@ -66,7 +66,7 @@ When it comes to building modern [healthcare SaaS products](https://anadea.info/
 * **Keeping things simple**. Quite often medical apps are quite complicated solutions. And the task for UI/UX designers is to make interaction with them as straightforward and convenient as possible. We often recommend involving end users (doctors and/or potential patients) in usability testing. This step always helps make your app fully functional and, at the same time, easy to use.
 * **Providing highly accurate and reliable data**. Content is an important part of the medical app UI design. And you should be very careful with the information that you offer to users. That’s why we highly recommend you devote enough time to fact-checking and data updating in order to minimize the risk of errors.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Hire professional designers{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Hire professional designers{{< /ctabutton >}}
 
 ## How to design a healthcare app
 
@@ -115,7 +115,7 @@ But despite the wide range of features available, the interface doesn’t look c
 
 ![medisafe_app](/uploads/image_attachment/image/3670/medisafe_app.jpg)
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Work with UI/UX designers{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Work with UI/UX designers{{< /ctabutton >}}
 
 ## Healthcare app design best practices
 
@@ -144,4 +144,4 @@ While a lot of businesses mainly focus on the functionality of their app, the vi
 
 If you are looking for professionals who can provide you with high-quality medical app UI design services, at Anadea, we are always at your disposal. Share your requirements with us and we will provide you with a free estimate.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Request a design quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Request a design quote{{< /ctabutton >}}

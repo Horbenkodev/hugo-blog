@@ -123,7 +123,7 @@ Just a few more things to highlight at the end.
 
 * Don’t hesitate to reach out if any questions remain. A company with 20+ years of experience in education software development, we are excited to help you with improving your app to make learning easier for everybody.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Request an eLearning app quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Request an eLearning app quote{{< /ctabutton >}}
 
 <script type="application/ld+json">
 {

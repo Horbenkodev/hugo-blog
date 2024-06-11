@@ -122,7 +122,7 @@ ML algorithms can be also used in risk management and assessment which will be e
 
 This use case is greatly related to all the above-mentioned ones. It is based on the capabilities of AI to process vast amounts of data, detect patterns, summarize and visualize information, and make accurate predictions. All these functions are of crucial importance in decision-making and strategic planning. Thanks to Artificial Intelligence oil and gas companies can optimize the processes of working with data and get valuable insights practically in real-time.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Talk to AI experts{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Talk to AI experts{{< /ctabutton >}}
 
 ## AI for oil and gas: Real-life cases
 
@@ -183,4 +183,4 @@ At Anadea, we have rich expertise in creating AI-powered software and are contin
 
 If you want to learn more about our services and terms of cooperation with our team, just share your requirements with us and get estimates for free.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}

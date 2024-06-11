@@ -1,5 +1,9 @@
 {{ $href := or (.Get "href") "https://anadea.info/contacts" }}
 
 <div class="center">
-  <a href="{{ $href }}" target="_blank" rel="noopener" class="ctaButton">{{ .Inner | safeHTML }}</a>
+  <a href="{{ $href }}"
+  {{ if strings.HasPrefix $href "http" }}
+    target="_blank" rel="noopener"
+  {{ end }}
+  class="ctaButton">{{ .Inner | safeHTML }}</a>
 </div>

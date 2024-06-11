@@ -44,7 +44,7 @@ $text-color: var(--white);
 
 a.advertWithCTA {
   &__button {
-    padding: 10px 30px;
+    padding: 7px 30px;
     margin-top: 24px;
     font-size: 18px;
     font-weight: 700;
@@ -53,7 +53,7 @@ a.advertWithCTA {
     text-align: center;
     text-decoration: none;
     background-color: $text-color;
-    border-radius: 5px;
+    border-radius: 8px;
 
     &:hover {
       color: $background-color;

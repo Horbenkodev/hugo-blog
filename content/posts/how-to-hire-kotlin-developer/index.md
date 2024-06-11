@@ -157,7 +157,7 @@ Without any doubt, when you need to hire Kotlin programmer, you should consider 
 
 ![In-house hiring vs Freelancers vs Outsourcing for Custom Software Development](In-House_Hiring__vs_Freelancers_vs_Outsourcing_for_Software_Development.png)
 
-{{< ctabutton href="<https://anadea.info/free-project-estimate>" >}}Hire Kotlin developers{{< /ctabutton >}}
+{{< ctabutton url="<https://anadea.info/free-project-estimate>" >}}Hire Kotlin developers{{< /ctabutton >}}
 
 ## Rates of Kotlin developers
 
@@ -220,4 +220,4 @@ We strongly believe that when you plan to hire Kotlin developers, the first and 
 
 If you need the help of an IT outsourcing partner, our team is always at your disposal. We will deeply analyze your requirements, and help to hire Kotlin app developer (or developers) whose skills will fully correspond to your expectations. Contact us to learn more!
 
-{{< ctabutton href="<https://anadea.info/free-project-estimate>" >}}Request a free quote{{< /ctabutton >}}
+{{< ctabutton url="<https://anadea.info/free-project-estimate>" >}}Request a free quote{{< /ctabutton >}}

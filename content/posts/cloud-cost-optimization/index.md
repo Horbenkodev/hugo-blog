@@ -115,7 +115,7 @@ We won't exaggerate the role and significance of cloud cost optimization if we s
 
 That's why we can make a conclusion that cloud infrastructure cost optimization is an approach that requires deep research and analysis of the state of the company's software solutions, as well as its ongoing business needs and requirements.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Get a consultation{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Get a consultation{{< /ctabutton >}}
 
 ## How to optimize cloud costs: Our workflow
 
@@ -159,7 +159,7 @@ As we've mentioned above you should start your cloud cost optimization efforts w
 
 ![Cloud cost optimization process](Cloud_Cost__Optimization_Workflow.png)
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Start with us{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Start with us{{< /ctabutton >}}
 
 ## Cloud cost optimization best practices
 
@@ -189,4 +189,4 @@ While cloud technologies can help businesses to save their expenses on software 
 
 If you have any issues or doubts related to your cloud infrastructure and the amounts that you pay to your cloud provider, please, do not hesitate to contact our team. At Anadea, we have rich experience in working with different types of cloud solutions and we know how to adjust them in order to make them relevant to the ongoing business conditions and the needs of your organizations. Thanks to the deep theoretical knowledge and rich practical skills, our DevOps engineers and developers will be able to cope with tasks of any complexity. Just contact us to get more detailed information about our services.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Get in touch{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Get in touch{{< /ctabutton >}}

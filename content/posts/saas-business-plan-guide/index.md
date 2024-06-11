@@ -176,4 +176,4 @@ Every successful SaaS has grown from an idea and then a business plan. No matter
 
 Good luck with your undertaking! We’ll be happy to see you again when your plan is ready and build a great SaaS together.
 
-{{< ctabutton href='https://anadea.info/contacts' >}}Get in touch{{< /ctabutton >}}
+{{< ctabutton url='https://anadea.info/contacts' >}}Get in touch{{< /ctabutton >}}

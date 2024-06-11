@@ -268,4 +268,4 @@ So, has our article inspired you to build a chatbot for your business? If you ar
 
 An AI-powered chatbot can become a powerful business tool and with the right approach to its development and implementation, you will be able to gain a row of competitive advantages on the market. Do not hesitate to contact us to learn more and get project estimates for free!
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}

@@ -90,7 +90,7 @@ The popularity of such apps becomes absolutely clear after consideration of the 
 
 In other words, in spite of the fact that when businesses use the services of a grocery delivery app development company or develop their software solution in-house they need to allocate a budget for such projects, such investments will definitely pay off. Grocery delivery software solutions open new opportunities for businesses and consumers and can fully reshape their traditional way of interacting with each other.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Create your app{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Create your app{{< /ctabutton >}}
 
 ## Types of grocery delivery apps
 
@@ -227,4 +227,4 @@ Nevertheless, given the continuously growing competition in this segment, you ne
 
 At Anadea, we are always open to new projects. With our skills, knowledge, and expertise, you can be sure that you will get a solution that will go far beyond your expectations. Do not hesitate to [contact us](https://anadea.info/contacts), share your ideas, and get a project estimate!
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}

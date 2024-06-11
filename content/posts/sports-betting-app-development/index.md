@@ -182,4 +182,4 @@ With the increasing popularity of sports gambling, it is a very natural thing th
 
 At Anadea, we have a good understanding of the peculiarities of software for betting business and are always ready to apply our knowledge to practical tasks. We are not afraid of challenges and can easily cope even with the most difficult projects. Have an idea for a betting application? Contact us to get free estimates!
 
-{{< ctabutton href="https://anadea.info/free-project-estimation" >}}Get in touch{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimation" >}}Get in touch{{< /ctabutton >}}

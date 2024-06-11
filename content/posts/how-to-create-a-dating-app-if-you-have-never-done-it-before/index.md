@@ -138,7 +138,7 @@ We can offer a couple of different types of algorithms that you can use for buil
 
 - **AI-powered method.** The hype around artificial intelligence is extremely high these days. And you definitely shouldn't miss the opportunity to power your software product with advanced <a href="https://anadea.info/services/machine-learning-software-development" target="_blank">AI and ML features</a>. Thanks to implementing them, you will be able to offer users personalized suggestions and recommendations.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Create your own app{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Create your own app{{< /ctabutton >}}
 
 ## Basic features of a dating app
 
@@ -233,4 +233,4 @@ Let's summarize what steps can be included in your project when you want to laun
 
 Today the online dating app industry is an actively growing one. Despite the fact that there is already a big number of players on the market, there is still enough space for newcomers, especially if their ideas are fresh and unique. If you want to learn more about how to make a dating app and are looking for a reliable team that will support you in building such a solution, at Anadea, we are always ready to help you. Our developers have the required expertise and knowledge to deliver even the most complex software products that will be fully tailored to your needs.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Contact us{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Contact us{{< /ctabutton >}}

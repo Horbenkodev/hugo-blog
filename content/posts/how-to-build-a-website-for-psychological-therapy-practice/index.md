@@ -142,4 +142,4 @@ You can make one more step ahead of the competition and process payments for the
 ## Final thoughts
 Do you feel overwhelmed by tech-related components of psychological therapy practice website building? If you do, then it might be better to outsource website design to a team of professionals. We are developers that specialize in building websites for private psychologists. Feel free to contact us and get your project estimate.
 
-{{< ctabutton href='https://anadea.info/contacts' >}}Get in touch{{< /ctabutton >}}
+{{< ctabutton url='https://anadea.info/contacts' >}}Get in touch{{< /ctabutton >}}

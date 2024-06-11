@@ -66,7 +66,7 @@ Let's consider the key perks of using a gym software system.
 
 In general, the implementation of such software is mainly aimed at making customers and employees happier by optimizing processing and offering the best quality of services.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Discuss your idea{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Discuss your idea{{< /ctabutton >}}
 
 ## Key features of a gym management system
 
@@ -106,7 +106,7 @@ Very often gyms communicate with members via emails and text messages. However, 
 
 As we've already mentioned, automatically generated reports and analytics have a significant value for businesses. That's why, it is highly recommended to enrich your platform with such features that will provide you with insights into your gym's business performance.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Request for proposal{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Request for proposal{{< /ctabutton >}}
 
 ## AI-powered fitness studio management
 
@@ -146,7 +146,7 @@ Automation of gym tasks through AI-powered systems can help admins get rid of ro
 
 The quality of customer support services is one of the main parameters that many people take into account when they communicate with different companies, However, it is quite difficult to make sure that agents will be able to process all inquiries practically immediately in a 24/7 regime. But you can rely on AI in this task. An <a href="https://anadea.info/blog/different-types-of-chatbots" target="_blank">AI chatbot</a> on your gym management website or app can be available at any time of the day and can easily handle the majority of standard questions that can be asked about classes, memberships, and onboarding. In those cases, when an issue can't be solved without the participation of a human, a chatbot will re-direct the question to a manager.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Hire AI experts{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Hire AI experts{{< /ctabutton >}}
 
 ## Process of building a gym management system
 
@@ -194,7 +194,7 @@ Typically, investments in the development start at **$30,000**. But you should b
 
 If you choose Anadea as your software development partner, we will help you find the best approaches to cost optimization without sacrificing the quality of your solution.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get estimate{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get estimate{{< /ctabutton >}}
 
 ## Conclusion
 
@@ -202,4 +202,4 @@ The demand for fitness studio management software is growing as these solutions 
 
 If you want to know more about our services and expertise in building advanced solutions for the sports industry, do not hesitate to contact us - our inbox is always open!
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Reach out{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Reach out{{< /ctabutton >}}

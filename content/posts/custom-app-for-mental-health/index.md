@@ -213,4 +213,4 @@ Most commonly, ads in a mobile application are represented as banners in the sid
 ## Conclusion
 Good mental health is absolutely fundamental to overall health and well-being. COVID-19 has interrupted essential mental health services around the world, but it’s never been a better time to invest more in life-saving mental health applications. If you overcome the concerns about the lack of privacy, misuse of personal data, and providing inappropriate advice, then your app will rightfully enjoy great success.
 
-{{< ctabutton href='https://anadea.info/contacts' >}}Request app development quote{{< /ctabutton >}}
+{{< ctabutton url='https://anadea.info/contacts' >}}Request app development quote{{< /ctabutton >}}

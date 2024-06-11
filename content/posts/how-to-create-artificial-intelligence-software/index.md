@@ -195,7 +195,7 @@ When implementing AI systems, we recommend you stick to the following recommenda
 4. **Track AI supply chain.** Monitor the supply chain to ensure the integrity of third-party data sources and training data used in AI systems. Thus, you can reduce the risk of tampering.
 5. **Ensure compliance with relevant laws.** Review state laws regarding the use of AI tools to avoid non-compliance issues and penalties. For example, if your company operates in the USA, you are obliged to follow President Biden’s [Blueprint for an AI Bill of Rights](https://www.whitehouse.gov/ostp/ai-bill-of-rights/) and [Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/).
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Hire AI developers{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Hire AI developers{{< /ctabutton >}}
 
 ## Challenges of building AI apps
 
@@ -229,4 +229,4 @@ We can help you create an efficient, resource-saving, and customer-centric AI so
 
 Ready to revolutionize your business? Contact us to get professional help on how to make an AI program tailored to your needs and turn your vision into reality!
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}

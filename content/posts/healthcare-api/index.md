@@ -292,4 +292,4 @@ The use of healthcare APIs for building your applications and systems can not on
 
 If you are interested in launching a healthcare application and are looking for a professional software development team, we will be happy to provide you with our help. At Anadea, we have rich expertise in building feature-rich [solutions for the healthcare industry](https://anadea.info/projects#healthcare) and are always open to new projects. Just contact us, share your ideas, and our experts will help you to find the best approach to transforming them into an advanced software product.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Get a free quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Get a free quote{{< /ctabutton >}}
