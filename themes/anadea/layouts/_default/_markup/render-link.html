@@ -7,5 +7,6 @@
     target="_blank" rel="noopener"
   {{ end }}
 >
-  {{ .Text | safeHTML }}
+  {{- .Text | safeHTML -}}
 </a>
+{{- /* This comment removes trailing newlines. */ -}}

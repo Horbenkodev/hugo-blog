@@ -58,7 +58,7 @@ Creating an AI solution offers numerous advantages for businesses such as:
 
 AI-powered chatbots and assistants can interact with customers in real time, answer their questions, provide necessary information about products or services, and facilitate transactions. By offering 24/7 support and individual assistance, chatbots can drive **more** **sales conversions and increase revenue.**
 
-Considering all the benefits above, it’s no wonder that companies are actively creating AI software nowadays. The facts speak louder than words - according to [Forbes](https://www.forbes.com/sites/qai/2023/01/06/applications-of-artificial-intelligence/?sh=3940b6413be4), the AI market size is expected to reach **$**22.6 billion by 2025. In the long run, the AI market is predicted to show an **annual growth rate of 28.46%** (CAGR 2024-2030), resulting in a market volume of US$826.70 billion by 2030.
+Considering all the benefits above, it’s no wonder that companies are actively creating AI software nowadays. The facts speak louder than words - according to [Forbes](https://www.forbes.com/sites/qai/2023/01/06/applications-of-artificial-intelligence/?sh=3940b6413be4), the AI market size is expected to reach **$22.6** billion by 2025. In the long run, the AI market is predicted to show an **annual growth rate of 28.46%** (CAGR 2024-2030), resulting in a market volume of US$826.70 billion by 2030.
 
 ![ai_market_size.png](/uploads/image_attachment/image/3676/ai_market_size.png)
 
