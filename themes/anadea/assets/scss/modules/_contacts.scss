@@ -33,7 +33,7 @@ $input-color: #706e6e;
   }
 
   &__formBlock {
-    padding: 8px;
+    padding: clamped(8px, 40px);
     background-color: $form-background;
     border-radius: 16px;
   }
@@ -45,16 +45,21 @@ $input-color: #706e6e;
   }
 
   &__item {
+    display: flex;
     padding: 16px 12px;
     color: $input-color;
     resize: none;
     background: $text-color;
     border: none;
     border-radius: 8px;
+  }
 
-    &::placeholder {
-      color: $input-color;
-    }
+  &__input {
+    flex: 1;
+    margin-left: 12px;
+    color: $input-color;
+    border: none;
+    outline: none;
   }
 
   &__textarea {
@@ -67,8 +72,9 @@ $input-color: #706e6e;
   }
 
   &__label {
+    width: fit-content;
+    margin-left: auto;
     color: $attach-color;
-    text-align: end;
     cursor: pointer;
 
     &--attach {
@@ -156,7 +162,6 @@ $input-color: #706e6e;
 
     &__formBlock {
       width: 50%;
-      padding: 24px;
       background: black;
       border-radius: 16px;
     }
