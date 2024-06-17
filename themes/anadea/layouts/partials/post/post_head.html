@@ -13,7 +13,17 @@
     <time class="postHead__dateInfo" datetime="{{ .PublishDate }}">Published on {{ .PublishDate | time.Format ":date_long" }}</time>
     <time class="postHead__dateInfo" datetime="{{ $lastMod }}">Last updated on {{ $lastMod | time.Format ":date_long" }}</time>
 
-    <img class="postHead__image" src="{{ .Params.image }}" alt="{{ .Title }}" />
+    
+    {{ $params := dict
+      "class" "postHead__image"
+      "width" 962
+      "height" 550
+      "src" .Params.image
+      "sizes" 962
+      "ctx" .
+    }}
+
+    {{ partial "utils/image.html" $params }}
     <div class="postHead__footer">
       <div class="postHead__authors">
         {{ partial "post/authors.html" . }}
