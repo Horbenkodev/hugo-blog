@@ -1,5 +1,8 @@
 ---
-title: Top Cloud Cost Optimization Strategies
+ceoTitle: Top Cloud Cost Optimization Strategies
+title: " Cloud Cost Optimization: How to Reduce Your Expenses"
+breadcrumbs: Cloud Cost Optimization
+slug: cloud-cost-optimization
 draft: false
 publishDate: 2023-10-31T00:00:00.000Z
 image: cloud_cost_optimization.png
