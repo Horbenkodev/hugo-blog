@@ -1,6 +1,7 @@
 ---
-title: What's New? Updates of Getsocio and The Got Spot projects
+title: What's New? Updates of Getsocio and The Got Spot Projects
 breadcrumbs: Updates of Getsocio and The Got Spot
+slug: updates-of-getsocio-and-the-got-spot-projects
 draft: false
 publishDate: 2018-09-19T00:00:00.000Z
 image: Getsocio-updates.jpg
