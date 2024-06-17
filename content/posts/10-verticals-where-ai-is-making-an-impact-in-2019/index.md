@@ -14,7 +14,8 @@ description: Once just a sci-fi concept from the movies, AI is now a reality
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - ai-ml-team
 categories:
   - business
   - trends
