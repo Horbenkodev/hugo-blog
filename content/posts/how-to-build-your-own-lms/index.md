@@ -6,7 +6,7 @@ slug: how-to-build-your-own-lms
 draft: false
 publishDate: 2022-08-31T00:00:00.000Z
 image: mushrooms.jpg
-og_image: mushrooms.jpg
+og_image: mushrooms-socials.jpg
 description: Essential points to consider when developing custom learning
   management systems that are extremely popular these days.
 promote:
