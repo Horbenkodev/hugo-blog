@@ -1,7 +1,10 @@
 ---
-title: "Top Healthcare APIs: Why Use Them for Building Your Solution?"
+ceoTitle: " Top Healthcare APIs: Why Use Them for Building Your Solution?"
+title: Do You Need a Healthcare API to Build a Reliable System?
+breadcrumbs: Top Healthcare APIs
+slug: healthcare-api
 draft: false
-publishDate: 2023-07-12T00:00:00Z
+publishDate: 2023-07-12T00:00:00.000Z
 image: healthcare_api.jpg
 og_image: healthcare_api_socials.jpg
 description: How can the use of a healthcare API facilitate the development
