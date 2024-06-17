@@ -4,7 +4,7 @@ title: " Grocery Delivery App Development Guide"
 breadcrumbs: " Grocery Delivery App Development"
 slug: grocery-delivery-app-development
 draft: false
-publishDate: 2023-05-08T00:00:00Z
+publishDate: 2023-05-08T00:00:00.000Z
 image: grocery_delivery.png
 og_image: grocery_delivery_socials.png
 description: In the article, we share the basic info you need to know about
@@ -225,6 +225,6 @@ Grocery delivery application development can become a very promising project for
 
 Nevertheless, given the continuously growing competition in this segment, you need to take care not only about the idea of your app itself but also about the technical aspect. And for this reason, cooperation with a trustworthy grocery delivery app development company is a must.
 
-At Anadea, we are always open to new projects. With our skills, knowledge, and expertise, you can be sure that you will get a solution that will go far beyond your expectations. Do not hesitate to [contact us](https://anadea.info/contacts), share your ideas, and get a project estimate!
+At Anadea, we are always open to new projects. With our skills, knowledge, and expertise, you can be sure that you will get a solution that will go far beyond your expectations. Do not hesitate to contact us, share your ideas, and get a project estimate!
 
 {{< ctabutton url="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}
