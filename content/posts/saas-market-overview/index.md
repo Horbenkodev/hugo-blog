@@ -28,10 +28,6 @@ questionary:
       available to users regardless of their location if they have an internet
       connection. These applications are delivered by vendors in accordance with
       a subscription-based model with flexible pricing.
-  - question: How many SaaS companies are there?
-    answer: It is quite complicated to name the exact figure. But according to
-      various estimates, as of 2022, there are around 30,000 SaaS companies
-      worldwide and nearly 60% of them are based in the US.
   - question: What are the reasons for the popularity of SaaS solutions?
     answer: Among the key reasons, we should name the flexibility and convenience
       that users can enjoy when they implement SaaS solutions in their business
@@ -39,6 +35,10 @@ questionary:
       think about the necessity to update and maintain it. Cloud-based apps can
       be accessed from any device and from any location, while all updates and
       modernization are the responsibility of a vendor.
+  - question: How many SaaS companies are there?
+    answer: It is quite complicated to name the exact figure. But according to
+      various estimates, as of 2022, there are around 30,000 SaaS companies
+      worldwide and nearly 60% of them are based in the US.
 ---
 Cloud technologies have greatly changed the way business processes are organized. One of the main types of cloud computing services is SaaS (Software-as-a-Service) and that’s exactly what we are going to talk about in this article.
 
