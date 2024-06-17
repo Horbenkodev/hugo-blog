@@ -1,8 +1,9 @@
 ---
 title: Top-9 Security Issues with Mobile Development
 breadcrumbs: Mobile App Security
+slug: 9-top-security-issues-with-mobile-development
 draft: false
-publishDate: 2018-08-29T00:00:00Z
+publishDate: 2018-08-29T00:00:00.000Z
 image: Mobile-app-security-issues.jpg
 og_image: Mobile-app-security-issues.jpg
 description: The development of mobile apps has come a long way since the first
@@ -15,8 +16,7 @@ promote:
 top: false
 authors:
   - security-team
-categories:
-  - mobile
+categories: []
 industries: []
 ---
 The development of mobile apps has come a long way since the first 500 apps hit the Apple App Store in 2008. Thousands of apps are released every day with the majority of them dying as quickly as they
