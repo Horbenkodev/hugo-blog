@@ -23,13 +23,6 @@
       value="contact_form"
       autocomplete="off"
     />
-    <input
-      type="hidden"
-      name="guid"
-      id="bottom_section_guid"
-      value="GA1.1.1857433846.1718106450"
-      autocomplete="off"
-    />
       <div class="contacts__item">
         <label for="name">Your name*</label>
         <input class="contacts__input" id="name" required="required" aria-required="true" type="text" name="name" />
@@ -44,7 +37,7 @@
       </div>
       <textarea class="contacts__item contacts__textarea" placeholder="Description*" minlength="20" required="required" aria-required="true" name="message"></textarea>
       <label class="contacts__label contacts__label--attach" id="file-label" for="file">Attach file</label>
-      <input class="contacts__file" id="file" multiple="multiple" data-size="500" type="file" name="attachments[]" onchange="handleFileInputChange(event)" />
+      <input class="contacts__file" id="file" multiple="multiple" data-size="500" type="file" name="attachments[]" />
       <div class="contacts__subscribe">
         <input name="subscribe" type="hidden" value="0" autocomplete="off" />
         <input class="contacts__checkbox" type="checkbox" name="subscribe" value="1" id="subscribe" checked />
@@ -54,113 +47,3 @@
     </form>
   </div>
 </section>
-
-<script>
-  function truncateText(text, maxLength) {
-    if (text.length > maxLength) {
-      return text.substring(0, maxLength) + '...';
-    }
-    return text;
-  }
-
-  document.getElementById('file').addEventListener('change', function(event) {
-    const fileLabel = document.getElementById('file-label');
-    const fileName = event.target.files[0].name;
-    fileLabel.textContent = truncateText(fileName, 20);
-  });
-
-  function handleFileInputChange(event) {
-    const label = document.querySelector('.contacts__label');
-
-    if (event.target.files.length > 0) {
-      label.textContent = `${event.target.files[0].name}`;
-    } else {
-      label.textContent = 'Attach file';
-    }
-  }
-
-  function handleSubmit(e) {
-    e.preventDefault();
-    const formData = new FormData(this);
-    
-    if(document.getElementsByName('first_url').length == 0) {
-      var input = document.createElement("input");
-      input.setAttribute("type", "hidden");
-      input.setAttribute("name", "first_url");
-      input.setAttribute("value", localStorage.getItem("first-url"));
-      document.getElementById("contact_form").appendChild(input);
-      localStorage.removeItem("first-url");
-    }
-
-    uploadMultiple(formData);
-  }
-
-  function uploadMultiple(formData) {
-    fetch("https://anadea.info/webhooks/blog_contacts/some_cool_token", {
-        body: formData,
-        method: "POST",
-      }).then(response => {
-        console.log(response)
-      })
-  }
-
-  document.getElementById('contact_form').addEventListener('submit', handleSubmit)
-</script>
-
-<script type="application/javascript ">
-  (function() {
-    fetch('https://api.ipify.org?format=json').then(function (response) {
-      return response.json();
-    }).then(function (json) {
-      var input = document.createElement("input");
-      input.setAttribute("type", "hidden");
-      input.setAttribute("name", "remote_ip");
-      input.setAttribute("value", json.ip);
-      document.getElementById("contact_form").appendChild(input);
-    }).catch(function (err) {
-      console.error("Error getting IP Address: ".concat(err));
-    });
-  })();
-</script>
-
-<script type="application/javascript ">
-  (function() {
-    function initGTMLisner() {
-      if(window.dataLayer) {
-        var oldPush = window.dataLayer.push;
-        window.dataLayer.push = function() {
-          oldPush.apply(window.dataLayer, arguments)
-          if (arguments[0].hasOwnProperty('h') && (arguments[0]['h'].hasOwnProperty('event')) && arguments[0]['h']['event'] === "gtagApiGet") {
-            var client_id = arguments[0]['h']['gtagApiResult']['client_id']
-            if(document.getElementsByName('gclid').length == 0) {
-              var input = document.createElement("input");
-              input.setAttribute("type", "hidden");
-              input.setAttribute("name", "gclid");
-              input.setAttribute("value", client_id);
-              document.getElementById("contact_form").appendChild(input);
-            }
-          }
-        }
-      }
-    }
-    initGTMLisner();
-  })();
-</script>
-
-<script type="application/javascript ">
-  (function() {
-    var input = document.createElement("input");
-    input.setAttribute("type", "hidden");
-    input.setAttribute("name", "referer_url");
-    input.setAttribute("value", document.referrer);
-    document.getElementById("contact_form").appendChild(input);
-  })();
-</script>
-
-<script type="application/javascript ">
-  (function() {
-    if (!("first-url" in localStorage)) {
-        localStorage.setItem("first-url", window.location.href)
-    }
-  })();
-</script>
