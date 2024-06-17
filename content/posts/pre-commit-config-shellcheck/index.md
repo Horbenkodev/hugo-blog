@@ -50,8 +50,10 @@ For the sake of keeping this tool simple for users, there are a few ways to use 
 
 #### As a command-line tool
 
+```yaml
   $ pip install pre-commit-config-shellcheck
   $ pre_commit_config_shellcheck.py .pre-commit-config.yaml
+```
 
 #### As the <a href="https://pre-commit.com/" target="_blank" rel="_nofollow">pre-commit</a> hook
 
