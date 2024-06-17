@@ -1,5 +1,6 @@
 ---
 title: "Building an App for Nutrition and Dieting: All You Need to Know"
+slug: diet-and-nutrition-app-development
 draft: false
 publishDate: 2022-07-25T00:00:00.000Z
 image: hamster.jpg
