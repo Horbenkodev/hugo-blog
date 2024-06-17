@@ -1,5 +1,8 @@
 ---
-title: "How to Hire Kotlin Developer: Practical Steps"
+ceoTitle: "How to Hire Kotlin Developer: Practical Steps"
+title: "How to Hire Kotlin Developer: Practical Tips for Your Business"
+breadcrumbs: Hire Kotlin Developers
+slug: how-to-hire-kotlin-developer
 draft: false
 publishDate: 2023-11-24T00:00:00.000Z
 image: kotlin_developers.png
