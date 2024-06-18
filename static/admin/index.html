@@ -22,11 +22,30 @@
         color: #fff;
       }
     </style>
+    <script async defer src="/admin/decap-cms.js"></script>
   </head>
   <body>
-    <script defer src="https://unpkg.com/decap-cms@^3/dist/decap-cms.js"></script>
+    <script async defer>
+      window.addEventListener('load', function() {
+        let PostPreview = createClass({
+          render: function() {
+            let entry = this.props.entry;
+            let image = entry.getIn(['data', 'image']);
+            let bg = this.props.getAsset(image);
+            return h('div', {style: { fontFamily: 'StemText', padding: '0 20px' } },
+              h('h1', {}, entry.getIn(['data', 'title'])),
+              h('img', {src: bg.toString(), style: { maxWidth: '100%' } }),
+              h('div', {"className": "markdown"}, this.props.widgetFor('body'))
+            );
+          }
+        });
+        CMS.registerPreviewStyle("/css/application.css");
+        CMS.registerPreviewStyle("/css/post.css");
+        CMS.registerPreviewTemplate("posts", PostPreview);
+      });
+    </script>
+
     <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    <script defer src="/admin/custom-snippets.js"></script>
     <script>
       function manageLink() {
         const linkContainer =
@@ -46,5 +65,6 @@
 
       window.addEventListener('popstate', manageLink);
     </script>
+    <script defer src="/admin/custom-snippets.js"></script>
   </body>
 </html>

@@ -20,12 +20,10 @@ export function renderPagination(items, paginate) {
   }
 
   if (totalPages > 1) {
-    if (totalPages > 5) {
-      start = Math.max(1, currentPage - Math.floor(SLOTS / 2));
-      end = Math.min(totalPages, start + SLOTS - 1);
-      if (end - start + 1 < SLOTS) {
-        start = Math.max(1, end - SLOTS + 1);
-      }
+    start = Math.max(1, currentPage - Math.floor(SLOTS / 2));
+    end = Math.min(totalPages, start + SLOTS - 1);
+    if (end - start + 1 < SLOTS) {
+      start = Math.max(1, end - SLOTS + 1);
     }
 
     for (let k = start; k <= end; k++) {
