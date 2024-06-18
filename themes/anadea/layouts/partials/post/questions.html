@@ -3,7 +3,7 @@
     <h2 class="questions__title">Have questions?</h2>
     <dl class="questions__items">
       {{ range . }}
-        {{ $uniqID := crypto.FNV32a .question }}
+        {{ $uniqID := md5 .question }}
         <dt class="questions__item">
           <button
             type="button"

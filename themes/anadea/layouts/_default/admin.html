@@ -1,3 +1,31 @@
+{{ $opts := dict
+  "transpiler" "dartsass"
+  "targetPath" "css/application.css"
+  "enableSourceMap" (not hugo.IsProduction)
+}}
+
+{{ $application := ""  }}
+
+{{ with resources.Get "scss/application.scss" | toCSS $opts }}
+  {{ with . | minify | fingerprint }}
+    {{ $application = .RelPermalink }}
+  {{ end }}
+{{ end }}
+
+{{ $opts := dict
+  "transpiler" "dartsass"
+  "targetPath" "css/post.css"
+  "enableSourceMap" (not hugo.IsProduction)
+}}
+
+{{ $post := ""  }}
+
+{{ with resources.Get "scss/post.scss" | toCSS $opts }}
+  {{ with . | minify | fingerprint }}
+    {{ $post = .RelPermalink }}
+  {{ end }}
+{{ end }}
+
 <!doctype html>
 <html>
   <head>
@@ -39,8 +67,8 @@
             );
           }
         });
-        CMS.registerPreviewStyle("../css/application.css");
-        CMS.registerPreviewStyle("../../css/post.css");
+        CMS.registerPreviewStyle("{{ $application }}");
+        CMS.registerPreviewStyle("{{ $post }}");
         CMS.registerPreviewTemplate("posts", PostPreview);
       });
     </script>
