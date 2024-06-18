@@ -1,30 +1,30 @@
-{{ $opts := dict
+{{- $opts := dict
   "transpiler" "dartsass"
   "targetPath" "css/application.css"
   "enableSourceMap" (not hugo.IsProduction)
-}}
+-}}
 
-{{ $application := ""  }}
+{{- $application := ""  -}}
 
-{{ with resources.Get "scss/application.scss" | toCSS $opts }}
-  {{ with . | minify | fingerprint }}
-    {{ $application = .RelPermalink }}
-  {{ end }}
-{{ end }}
+{{- with resources.Get "scss/application.scss" | toCSS $opts -}}
+  {{- with . | minify | fingerprint -}}
+    {{- $application = .RelPermalink -}}
+  {{- end -}}
+{{- end -}}
 
-{{ $opts := dict
+{{- $opts := dict
   "transpiler" "dartsass"
   "targetPath" "css/post.css"
   "enableSourceMap" (not hugo.IsProduction)
-}}
+-}}
 
-{{ $post := ""  }}
+{{- $post := "" -}}
 
-{{ with resources.Get "scss/post.scss" | toCSS $opts }}
-  {{ with . | minify | fingerprint }}
-    {{ $post = .RelPermalink }}
-  {{ end }}
-{{ end }}
+{{- with resources.Get "scss/post.scss" | toCSS $opts -}}
+  {{- with . | minify | fingerprint -}}
+    {{- $post = .RelPermalink -}}
+  {{- end -}}
+{{- end -}}
 
 <!doctype html>
 <html>
@@ -33,40 +33,38 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="robots" content="noindex" />
     <title>Content Manager</title>
-    <style>
-      .shortcodes {
-        background: rgba(0, 0, 0, 0.5);
-        position: fixed;
-        bottom: 0;
-        right: 0;
-        display: flex;
-        align-items: center;
-        justify-content: flex-end;
-        height: 32px;
-        padding: 0 40px;
-      }
-
-      .shortcodes__link {
-        color: #fff;
-      }
-    </style>
     <script async defer src="/admin/decap-cms.js"></script>
   </head>
   <body>
     <script async defer>
       window.addEventListener('load', function() {
-        let PostPreview = createClass({
+        const PostPreview = createClass({
           render: function() {
-            let entry = this.props.entry;
-            let image = entry.getIn(['data', 'image']);
-            let bg = this.props.getAsset(image);
-            return h('div', {style: { fontFamily: 'StemText', padding: '0 20px' } },
+            const entry = this.props.entry;
+            const image = entry.getIn(['data', 'image']);
+            const bg = this.props.getAsset(image);
+            const shortcodesStyle = {
+              background: 'rgba(0, 0, 0, 0.5)',
+              position: 'fixed',
+              bottom:'0',
+              right: '0',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'flex-end',
+              height: '32px',
+              padding: '0 40px'
+            };
+            const link = h('a', { href:"/admin/shortcodes", target:"_blank", className:"shortcodes__link" }, 'Shortcodes preview');
+
+            return h('div', { style: { fontFamily: 'StemText', padding: '0 20px' } },
               h('h1', {}, entry.getIn(['data', 'title'])),
-              h('img', {src: bg.toString(), style: { maxWidth: '100%' } }),
-              h('div', {"className": "markdown"}, this.props.widgetFor('body'))
+              h('img', { src: bg.toString(), style: { maxWidth: '100%' } }),
+              h('div', { "className": "markdown" }, this.props.widgetFor('body')),
+              h('div', { style: shortcodesStyle }, link )
             );
           }
         });
+        
         CMS.registerPreviewStyle("{{ $application }}");
         CMS.registerPreviewStyle("{{ $post }}");
         CMS.registerPreviewTemplate("posts", PostPreview);
@@ -74,25 +72,6 @@
     </script>
 
     <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    <script>
-      function manageLink() {
-        const linkContainer =
-          '<div class="shortcodes" id="shortcodes"><a href="/admin/shortcodes" target="_blank" class="shortcodes__link">Shortcodes</a></div>';
-        const url = new URL(document.location);
-        const shortcodes = document.getElementById('shortcodes');
-
-        if (url.hash.includes('/collections/posts/')) {
-          if (!shortcodes) {
-            document.querySelector('body').insertAdjacentHTML('beforeend', linkContainer);
-          }
-          return;
-        }
-
-        shortcodes && shortcodes.remove();
-      }
-
-      window.addEventListener('popstate', manageLink);
-    </script>
     <script defer src="/admin/custom-snippets.js"></script>
   </body>
 </html>
