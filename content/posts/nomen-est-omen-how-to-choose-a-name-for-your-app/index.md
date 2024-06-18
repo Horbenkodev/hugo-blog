@@ -1,9 +1,9 @@
 ---
 title: "Nomen est Omen: How to Choose a Perfect Name for Your App?"
 breadcrumbs: How to Name an App
-slug: ""
+slug: nomen-est-omen-how-to-choose-a-name-for-your-app
 draft: false
-publishDate: 2016-12-14T00:00:00Z
+publishDate: 2016-12-14T00:00:00.000Z
 image: name.jpg
 og_image: name.jpg
 description: Finding a great name for a product is one of the most difficult

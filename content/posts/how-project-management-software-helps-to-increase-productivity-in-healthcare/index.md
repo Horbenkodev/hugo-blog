@@ -1,7 +1,8 @@
 ---
 title: How Project Management Software Increases Productivity in Healthcare?
+slug: how-project-management-software-helps-to-increase-productivity-in-healthcare
 draft: false
-publishDate: 2020-02-13T00:00:00Z
+publishDate: 2020-02-13T00:00:00.000Z
 image: Project-management-software-in-healthcare.jpg
 og_image: Hospital-management-software_benefits.jpg
 description: There is a system that brings all the aspects of the working of

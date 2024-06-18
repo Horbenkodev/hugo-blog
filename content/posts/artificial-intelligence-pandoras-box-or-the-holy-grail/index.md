@@ -15,10 +15,10 @@ description: Google, Amazon, Facebook and other tech giants are working on the
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - ai-ml-team
 categories:
   - business
-  - machine-learning
 industries: []
 ---
 Google, Amazon, Facebook and other tech giants are working on the creation of advanced artificial intelligence systems and their potential application. Have you ever been interested in how it is going now in the field of computer science dedicated to artificial intelligence? What progress has been made in AI and what are the key issues in artificial intelligence?

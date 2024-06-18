@@ -133,4 +133,4 @@ Today, when cybercriminals already have so many advanced approaches to guessing 
 
 If you have any questions regarding the peculiarities of passkeys, the work of this feature, or <a href="https://anadea.info/blog/how-to-implement-passkeys" target="_blank">how to implement passkeys</a> into your existing or new solution, do not hesitate to contact our team. At Anadea, we do our best to stay tuned with all tech trends and pay a lot of attention to data protection and software security.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Contact us{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Contact us{{< /ctabutton >}}

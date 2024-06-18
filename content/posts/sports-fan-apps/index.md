@@ -83,7 +83,7 @@ Passionate sports fans can encourage other people to become fans. Very often whe
 
 ![5 reasons to launch a sports fan app infographic](5_Reasons_to_Launch_Fan_Apps.png)
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get started{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get started{{< /ctabutton >}}
 
 ## Popular features of sports engagement platforms
 
@@ -105,7 +105,7 @@ As we’ve mentioned earlier, such solutions may come in various formats and typ
 
 ![Features for sports fan engagement app infographic](Features_for_Sports_Engagement_Platforms.png)
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Request a free quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Request a free quote{{< /ctabutton >}}
 
 ## Sports fan engagement examples
 
@@ -149,7 +149,7 @@ Our team has rich experience in <a href="https://anadea.info/blog/how-to-develop
 
 - **Step 6. Launch your product and further provide the required tech support.** When you are satisfied with the performance and quality of your software, it can be released. Also, you need to regularly track its functioning to address possible issues and introduce necessary updates.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Contact our team{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Contact our team{{< /ctabutton >}}
 
 If you want to learn more about the approaches to the development of other solutions for this industry, you can read out article on <a href="https://anadea.info/blog/sport-team-management-software" target="_blank">sport team management software</a> development.
 
@@ -159,4 +159,4 @@ Today when the distance between celebrities and their fans has been reduced (fir
 
 If you are looking for a professional team that will build such a solution based on your needs and requirements, do not hesitate to contact us. At Anadea, we are always open to fresh ideas and new projects!
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}

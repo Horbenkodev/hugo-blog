@@ -10,5 +10,9 @@
   <div class="advertWithCTA__description">
     {{ $description | markdownify }}
   </div>
-  <a href="{{ $url }}" class="advertWithCTA__button">{{ $button }}</a>
+  <a href="{{ $url }}"
+    {{ if strings.HasPrefix $url "http" }}
+      target="_blank" rel="noopener"
+    {{ end }}
+    class="advertWithCTA__button">{{ $button }}</a>
 </section>

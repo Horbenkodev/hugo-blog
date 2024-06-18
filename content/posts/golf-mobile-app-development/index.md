@@ -129,4 +129,4 @@ At Anadea, when we provide golf mobile app development services to our clients a
 
 When you are going to build a golf mobile app, the first things that you need to do are to define the type of solution that it will be and create a list of features. You should make these decisions based on your target audience and the tasks that you want to solve with your product. But if you have any difficulties with this, you can always contact our team. Our experts have not only strong tech skills but also a deep understanding of the ongoing market demands and trends. That's why you can fully rely on us when you are planning to rock the market with your outstanding sports application.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}

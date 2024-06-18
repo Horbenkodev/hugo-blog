@@ -28,10 +28,10 @@ questionary:
       available to users regardless of their location if they have an internet
       connection. These applications are delivered by vendors in accordance with
       a subscription-based model with flexible pricing.
-  - question: How many SaaS companies are there?
-    answer: It is quite complicated to name the exact figure. But according to
+  - answer: It is quite complicated to name the exact figure. But according to
       various estimates, as of 2022, there are around 30,000 SaaS companies
       worldwide and nearly 60% of them are based in the US.
+    question: How many SaaS companies are there?
   - question: What are the reasons for the popularity of SaaS solutions?
     answer: Among the key reasons, we should name the flexibility and convenience
       that users can enjoy when they implement SaaS solutions in their business

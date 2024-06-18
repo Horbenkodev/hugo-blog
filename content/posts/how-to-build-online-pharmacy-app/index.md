@@ -165,4 +165,4 @@ As you can see, an online pharmacy app can be a very promising project for any t
 
 If you are interested in launching such an app and are looking for a reliable team to help you with this task, do not hesitate to contact us. Our experts will carefully analyze your requirements and find the best tools and technologies to build an app that will go beyond your expectations.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Get in touch{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Get in touch{{< /ctabutton >}}

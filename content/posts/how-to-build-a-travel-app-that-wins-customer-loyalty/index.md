@@ -83,4 +83,4 @@ Travelers are <a href="https://www.thinkwithgoogle.com/consumer-insights/consume
 
 Need a professional advice on how to build a travel app? With our wide expertise in travel app development, we can help you build the app you dream of. Contact us today to discuss your project!
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Request a travel app quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Request a travel app quote{{< /ctabutton >}}

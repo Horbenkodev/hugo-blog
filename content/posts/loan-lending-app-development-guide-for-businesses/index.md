@@ -77,7 +77,7 @@ But also, we can name different types of loan giving apps as per the model that 
 
 ![Types of loan lending apps](types_of_loan_apps.jpg)
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Let's talk about your idea{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Let's talk about your idea{{< /ctabutton >}}
 
 ## Latest trends in loan lending mobile app development
 
@@ -116,7 +116,7 @@ In this case, the project realization will look the following way:
 
 We also have an article on [how to develop a personal finance app](https://anadea.info/guides/how-to-build-a-personal-finance-app) – make sure to read it if you haven’t yet.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Contact lending app developers{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Contact lending app developers{{< /ctabutton >}}
 
 ## How to create a money lending app: Key features
 
@@ -169,7 +169,7 @@ There are a lot of factors that should be analyzed to make estimates:
 
 If you already have some ideas for your future app, you can share them with us and you will get estimates for free.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Request estimate{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Request estimate{{< /ctabutton >}}
 
 ## How to promote your lending app
 
@@ -227,4 +227,4 @@ With all these changes, the solution became much more user-friendly and comprehe
 
 Do you also have a plan for launching a digital loan lending solution? At Anadea, we are always ready to help you with your project realization! Just share your ideas with us and we will find the best approach to solving the set tasks!
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}

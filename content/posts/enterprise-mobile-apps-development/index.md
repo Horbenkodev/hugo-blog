@@ -265,7 +265,7 @@ Nevertheless, today the number of companies that have similar offers is continuo
 
 Do not hesitate to ask questions and explain your doubts! It is important to build trust with a development team from the very beginning. At Anadea, we highly appreciate such openness and are always ready to do our best to provide the most comfortable terms of cooperation.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Contact us{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Contact us{{< /ctabutton >}}
 
 ## Our experience in building mobile enterprise applications
 
@@ -291,4 +291,4 @@ The development of an enterprise mobile app for the needs of your business can b
 
 However, to make sure that enterprise mobile applications will bring the desired results, you need to work with seasoned developers who have relevant knowledge and qualifications. At Anadea, we will be always ready to offer you our help. Just contact us to discuss what we can do to transform all your ideas into real enterprise solutions.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}

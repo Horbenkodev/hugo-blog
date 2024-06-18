@@ -68,7 +68,7 @@ Meanwhile, **businesses** benefit from:
 
 ![Benefits of passkey for business and users](Benefits_of_Passkeys.png)
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Go passwordless{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Go passwordless{{< /ctabutton >}}
 
 ## Implementing passkeys: Choosing the right approach
 
@@ -153,7 +153,7 @@ But the benefits don't stop there. Our solution boasts exceptional scalability, 
 
 Furthermore, our team of highly skilled Python developers will ensure a swift and efficient setup tailored to your specific business needs. Within just **one week**, we can equip your Django website with all the necessary tools to embrace the future of passwordless authentication.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get started with passkeys{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get started with passkeys{{< /ctabutton >}}
 
 ## How businesses can further customize passkey
 
@@ -181,4 +181,4 @@ Working with businesses for over 20 years, we at Anadea understand that integrat
 
 Excited about the passwordless future? Contact us and let’s approach it together, prioritizing digital convenience and security!
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Implement passkeys{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Implement passkeys{{< /ctabutton >}}

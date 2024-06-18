@@ -71,7 +71,7 @@ CRM systems are used in all industries and real estate is not an exception. CRM 
 
 5. **Sales and marketing processes can be efficiently automated.** Process automation is a must for many spheres. Let's admit that a very small percentage of people are ready to buy or sell real estate immediately. According to the study conducted by [Zillow](https://www.zillow.com/agent-resources/agent-toolkit/real-estate-follow-up-email-templates/#:~:text=For%20example%2C%20according%20to%20Zillow,time%20to%20decide%20to%20sell.), people spend nearly 4.5 months before buying a house or flat and sellers think for around half a year about listing their home. Good real estate agents know that it is far not the best idea to try to push a person to make a decision immediately. It's better to build this interaction on a series of follow-ups. Though it is impossible to implement this strategy without a good software tool, a CRM system can be exactly what is required in this case. A platform can automatically send emails with some information and reminders to a person. A real estate agent will just need to choose an appropriate scenario by indicating the periodicity of these follow-ups and their content.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Request a CRM development quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Request a CRM development quote{{< /ctabutton >}}
 
 The real estate market is highly competitive. And to win your market share and leave your rivals behind you, you need to make sure that you will get a higher number of successfully completed deals than anybody else. And reliable and feature-rich CRM software may be exactly what you need.
 
@@ -227,4 +227,4 @@ Moreover, as each company is unique and may have very specific business processe
 
 At Anadea, we deeply understand the needs of real estate companies and know how to deal with their set tasks with the help of a reliable software solution. If you want to know more about our offers, do not hesitate to contact us! We are ready to answer all your questions.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}

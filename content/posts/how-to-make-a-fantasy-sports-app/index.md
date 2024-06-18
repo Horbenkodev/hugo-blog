@@ -143,7 +143,7 @@ Minimum team composition and rates for such a project will be:
 
 Given this, the estimated cost starts from $48K for a fantasy sports MVP with a development period of around 12–14 weeks. Still, every idea needs to be approached individually: the more detail we know, the more precise the estimation is.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}
 
 ## Conclusion
 The article only covers some common places of fantasy sports website and app development, and there is still a long journey ahead of you. Our developers know how to code a fantasy football app and can guide you through all the steps of creating an appealing and profitable solution that will take its niche in the market and engage a solid fan base. Good luck and looking forward to hearing from you!

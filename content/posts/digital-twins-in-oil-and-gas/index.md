@@ -184,4 +184,4 @@ Digital twins unite the power of a row of cutting-edge technologies like IoT, AI
 
 If you already have an idea for creating such a solution and you are looking for a development team, at Anadea, we are always at your disposal. Just leave your inquiry!
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Get a free quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Get a free quote{{< /ctabutton >}}

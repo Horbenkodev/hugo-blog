@@ -71,4 +71,4 @@ The fast progress of patient remote monitoring devices, healthcare management an
 
 Mobile health apps fill that much-needed gap between what medical professionals know is best for a patient and a patient actually carrying out what they need to improve and look after their health. This is a trend we expect to accelerate and continue long into the future, to the point whereby it will be odd that people don't use medical apps to proactively track and monitor health.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Request a medical app quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Request a medical app quote{{< /ctabutton >}}

@@ -108,7 +108,7 @@ If you are facing established competitors - whether they're also startups or big
 __<center>SWOT = Strengths, Weaknesses, Opportunities, and Threats</center>__
 
 Make sure you know what the challenges are. Investors recognize false confidence when they see it. Also, if this plan is aimed to convince someone to join the team, they need to know they're working with someone with a realistic view of the road ahead.
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Hire App Developers{{< /ctabutton >}}</p>
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Hire App Developers{{< /ctabutton >}}</p>
 <a name="company"></a>
 
 ### 3. Company
@@ -192,4 +192,4 @@ And finally, to secure investment, you should be able to outline how long it wil
 
 Every technology startup and app is different. All of them take a different road. No journey is the same, but with a solid business plan, you can approach potential investors with more confidence and align your team around the mission ahead.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Contact Us{{< /ctabutton >}}</p>
+{{< ctabutton url="https://anadea.info/contacts" >}}Contact Us{{< /ctabutton >}}</p>

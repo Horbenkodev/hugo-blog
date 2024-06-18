@@ -5,22 +5,22 @@ function handleCustomSnippet() {
     label: 'CTAbutton',
     fields: [
       { name: 'content', label: 'Content', widget: 'text' },
-      { name: 'href', label: 'href', widget: 'string' },
+      { name: 'url', label: 'url', widget: 'string' },
     ],
-    pattern: /{{< ctabutton href="([a-zA-Z0-9-_ :/.]+)" >}}([a-zA-Z0-9-_ .,!]+){{< \/ctabutton >}}/,
+    pattern: /{{< ctabutton url="([a-zA-Z0-9-_ :/.]+)" >}}([a-zA-Z0-9-_ .,!]+){{< \/ctabutton >}}/,
     fromBlock: function (match) {
       return {
-        href: match[1],
+        url: match[1],
         content: match[2],
       };
     },
     toBlock: function (obj) {
-      const href = obj.href ? obj.href : 'https://anadea.info/contacts';
-      return `{{< ctabutton href="${href}" >}}${obj.content}{{< /ctabutton >}}`;
+      const url = obj.url ? obj.url : 'https://anadea.info/contacts';
+      return `{{< ctabutton url="${url}" >}}${obj.content}{{< /ctabutton >}}`;
     },
     toPreview: function (obj) {
       return `<div class="center">
-                  <a href="${obj.href}" target="_blank" rel="noopener" class="ctaButton">${obj.content}</a>
+                  <a href="${obj.url}" target="_blank" rel="noopener" class="ctaButton">${obj.content}</a>
                 </div>`;
     },
   });
@@ -54,7 +54,7 @@ function handleCustomSnippet() {
     fields: [
       { name: 'title', label: 'Title', widget: 'string' },
       { name: 'content', label: 'Content', widget: 'text' },
-      { name: 'href', label: 'Href', widget: 'string' },
+      { name: 'url', label: 'url', widget: 'string' },
       { name: 'button', label: 'Button', widget: 'string' },
     ],
     pattern:
@@ -64,26 +64,26 @@ function handleCustomSnippet() {
         title: match[1],
         content: match[2],
         button: match[3],
-        href: match[4],
+        url: match[4],
       };
     },
     toBlock: function (obj) {
-      const href = obj.href || 'https://anadea.info/contacts';
+      const url = obj.url || 'https://anadea.info/contacts';
       const button = obj.button || 'Get in touch';
       const title = obj.title?.replaceAll(/("\b)(?<content>.+)("\B)/g, `“$<content>”`);
-      return `{{< advert_with_cta title="${title}" description="${obj.content?.replaceAll(`"`, `'`)}" button="${button}" url="${href}" >}}`;
+      return `{{< advert_with_cta title="${title}" description="${obj.content?.replaceAll(`"`, `'`)}" button="${button}" url="${url}" >}}`;
     },
     toPreview: function (obj) {
       const titleContent = obj.title?.replaceAll(/("\b)(?<content>.+)("\B)/g, `“$<content>”`);
       const title = obj.title ? `<h2 class="advertWithCTA__title">${titleContent}</h2>` : '';
-      const href = obj.href || 'https://anadea.info/contacts';
+      const url = obj.url || 'https://anadea.info/contacts';
       const button = obj.button || 'Get in touch';
       return `<section class="advertWithCTA">
                 ${title}
                 <div class="advertWithCTA__description">
                   ${obj.content}
                 </div>
-                <a href="${href}" class="advertWithCTA__button">${button}</a>
+                <a href="${url}" class="advertWithCTA__button">${button}</a>
               </section>`;
     },
   });

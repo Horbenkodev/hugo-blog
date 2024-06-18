@@ -159,4 +159,4 @@ Still, users have to acknowledge that for some conditions even the top healthcar
 
 So it is critical that medical apps promote in-person visits to a doctor as much as they promote themselves. Only this way, a perfect balance will be reached that will allow people to use their time with maximum efficiency and not miss a single health condition.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Request health app development quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Request health app development quote{{< /ctabutton >}}

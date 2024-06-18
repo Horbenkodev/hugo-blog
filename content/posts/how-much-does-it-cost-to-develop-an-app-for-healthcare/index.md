@@ -68,7 +68,7 @@ __Examples:__ Flo, ZenPlanner, MyFitnessPal
 
 * __Integration with medical devices.__ This is completely custom work because so are the devices. The amount of work required depends on the device and your goals. For example, you may want to run a medical trial or deliver supplementary software needed for the everyday use of the device. One way or another, such supplementary medical software will take no less than __8 weeks__ to launch.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Create health app{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Create health app{{< /ctabutton >}}
 
 <a name="scope-cost"></a>
 ## Scope and Cost of Healthcare App
@@ -106,4 +106,4 @@ Scheduler management
 ## Middle Cost of Developing a Healthcare App in the US
 Created by a US-based company, a similar app would cost nearly twice as much. More expensive doesn’t necessarily mean better, to which a number of Anadea clients from the US can attest. In this big world, boundaries disappear. Now it’s time to take a wider perspective.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Request mHealth app development{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Request mHealth app development{{< /ctabutton >}}

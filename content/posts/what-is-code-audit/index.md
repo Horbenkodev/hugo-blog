@@ -80,7 +80,7 @@ The key difference is that reviews are typically done by **fellow developers** d
 
 Further, we will break down the code audit process, acting as external experts you can go to whenever you feel the need.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Talk to experts{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Talk to experts{{< /ctabutton >}}
 
 ## What does a code audit include?
 
@@ -167,7 +167,7 @@ The audit findings can help tech leads and project managers make informed decisi
 
 In short, a valuable code audit report goes beyond just finding problems. It provides **code examples**, **explains the impact of issues**, and **suggests solutions**, making it a valuable tool for your development team.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Audit my code{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Audit my code{{< /ctabutton >}}
 
 ## Why code audit from a third party?
 
@@ -224,7 +224,7 @@ Conducting a follow-up audit after implementing the recommended changes may be n
 
 ![Step by step process of code audit](Step-by-Step_Process_of_Code_Audit.png)
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Let's get started!{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Let's get started!{{< /ctabutton >}}
 
 ## What tools are used in code audit?
 
@@ -238,7 +238,7 @@ Having the right tools makes all the difference during a code audit. These trust
 
 **What are the best tools for code audit?** It depends on your specific project and the technologies used. Choose the ones that best suit your needs for a smooth and successful audit and remember that we’re always here to help.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get a consultation{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get a consultation{{< /ctabutton >}}
 
 ## What skills should a code auditor have?
 
@@ -267,7 +267,7 @@ A code auditor is not an ordinary role. To perform successful audits, one needs 
 
 ![Skills of a code auditor](Must-Have_Skills_of_a_Code_Auditor.png)
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Hire code audit pros{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Hire code audit pros{{< /ctabutton >}}
 
 ## How much does a code audit cost?
 
@@ -327,4 +327,4 @@ We estimated this would take about **50 hours**, and amazingly, we finished in j
 
 Whether you're building a simple app or a complex enterprise system, a code audit can be your secret weapon. It's an investment in peace of mind, knowing your software is built to last and can handle whatever challenges come its way. So, sleep sounder tonight, knowing your software's got your back (and a trusty code audit by its side).
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Request a code audit{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Request a code audit{{< /ctabutton >}}

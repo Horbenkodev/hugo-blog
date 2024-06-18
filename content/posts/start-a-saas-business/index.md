@@ -4,7 +4,7 @@ title: "How to Start a SaaS Business: Strategies to Succeed"
 breadcrumbs: How to Start a SaaS Business
 slug: start-a-saas-business
 draft: false
-publishDate: 2023-07-20T00:00:00Z
+publishDate: 2023-07-20T00:00:00.000Z
 image: saas_business.png
 og_image: saas_business_socials.png
 description: Starting a SaaS company can become a very promising idea these
@@ -13,7 +13,8 @@ description: Starting a SaaS company can become a very promising idea these
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - web-development-team
 categories:
   - business
 industries: []
@@ -93,7 +94,7 @@ An MVP (minimum viable product) can be explained as a simplified version of the 
 
 - An MVP can help you to better **present your project to investors** and successfully raise funds.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Develop an MVP{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Develop an MVP{{< /ctabutton >}}
 
 Before building an MVP, you will need to choose the core features of the solution that will be designed. This set of features should include only the most important functionality that will help users to understand the main idea of your product.
 
@@ -207,4 +208,4 @@ Already at the stage of ideation, it is crucial to make the right choices. Thatâ
 
 At Anadea, we can help you with all the tasks related to your SaaS product. Just share your requirements with us and we will provide you with your project estimates for free.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}

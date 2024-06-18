@@ -1,5 +1,6 @@
 ---
 title: How to Create Educational Software for Schools
+slug: how-educational-software-improves-learning-experience
 draft: false
 publishDate: 2022-08-05T00:00:00.000Z
 image: deers.jpg

@@ -83,7 +83,7 @@ Very often chatbots of this type provide two tracks: a support track that is int
 
 This group includes two subcategories that we are going to consider further: button-based and keyword recognition-based chatbots. Today, rule-based bots can combine the features of both types.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Make your own chatbot{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Make your own chatbot{{< /ctabutton >}}
 
 ### Button-based chatbots
 
@@ -152,7 +152,7 @@ While usually we are talking about chatbots in the context of sales or custom ca
 
 ![replica ai](replika_ai.png)
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Get started with AI{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Get started with AI{{< /ctabutton >}}
 
 ### Goal-oriented bots (GoBots)
 
@@ -250,7 +250,7 @@ A lot of businesses today opt for such solutions to increase the quality of thei
 
 Such bots are also popular in the healthcare industry and help users understand their possible diagnoses based on their symptoms. Users should write or voice their questions and bots offer them different options in a rule-based format (often button-based) to narrow down their symptoms and conditions.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Create a chatbot today{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Create a chatbot today{{< /ctabutton >}}
 
 ## What are the different types of chatbots based on application?
 
@@ -374,7 +374,7 @@ Below you can find a short simplified questionnaire that will help to facilitate
 
 ![A table presenting different types of chatbots based on specific needs. The table has two columns. The first column lists questions to consider, and the second column suggests the type of chatbot suitable for that need. Questions and their corresponding options are as follows: 'Is it possible to build the flow of conversation?' corresponds to 'Button-based chatbot'. 'Do you expect to receive standard, frequently asked questions?' corresponds to 'Keyword-based chatbot'. 'Do you want to provide personalized experiences to users?' corresponds to 'AI-powered chatbot'. 'Do you need to offer users unique solutions for their queries?' corresponds to 'Generative AI chatbot'. 'Will your bot have only one specific task without a necessity to build an open-ended conversation?' corresponds to 'Goal-oriented bot'. Lastly, 'Do you want to allow users to speak to your chatbot?' corresponds to 'Voice bot'.](Questions.png)
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Ready for the chatbot revolution?{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Ready for the chatbot revolution?{{< /ctabutton >}}
 
 ## Conclusion
 
@@ -386,4 +386,4 @@ If you are planning to introduce a chatbot and are looking for a reliable partne
 
 Do not hesitate to contact us to discuss the details.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}

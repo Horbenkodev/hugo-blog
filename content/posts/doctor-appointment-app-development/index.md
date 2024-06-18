@@ -62,7 +62,7 @@ Here, you should decide on whether you will launch a doctor scheduling app for o
 
 After getting a clear understanding of the target audience of your online doctor appointment booking system, you can start thinking about its functionality.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get a consultation{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get a consultation{{< /ctabutton >}}
 
 ## Doctor appointment app features
 
@@ -90,7 +90,7 @@ The exact set of features that you will build for your medical appointment sched
 
 ![Doctor appointment app features](Doctor_Appointment_App_Features.png)
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Talk about your project{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Talk about your project{{< /ctabutton >}}
 
 ## Doctor appointment scheduling software UI/UX design
 
@@ -199,7 +199,7 @@ Today, there is a great number of applications. That’s why we also recommend y
 
 As for other marketing efforts, it will also be useful to think about the promotion of your doctor scheduling app outside marketplaces. You can establish cooperation with medical centers that will tell their patients about your app and work with bloggers and influencers, as well as pay for contextual advertising.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Build my app{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Build my app{{< /ctabutton >}}
 
 ## Post-launch support and continuous improvement
 
@@ -219,7 +219,7 @@ In our portfolio, there is a row of solutions built for this industry, including
 
 Another project that you can read about is **My Medical Guide**. It is a solution for automating and digitizing the work of a medical institution. The platform has a wide range of tools, including but not limited to patient records management features, visit management functionality, and a staff calendar. To get more info about this project, please follow the <a href="https://anadea.info/projects/my-medical-guide" target="_blank">link</a>.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get estimate{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get estimate{{< /ctabutton >}}
 
 ## How much does it cost to develop a doctor appointment booking app?
 
@@ -235,4 +235,4 @@ The digitalization of various industries is actively going on. Many traditional 
 
 At Anadea, we have rich expertise in building solutions for the healthcare industry, including doctors office scheduling software, and we will be ready to support you at any stage of your project development. Contact us to learn more about our experience and services!
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Drop us a line{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Drop us a line{{< /ctabutton >}}

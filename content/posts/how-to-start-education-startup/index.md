@@ -226,7 +226,7 @@ In case you decide to create a web solution, you’ll need to create or buy qual
 
 Anyway, at least now you’ve got an overall notion of how to start an education startup.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Let's discuss your idea{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Let's discuss your idea{{< /ctabutton >}}
 
 <script type="application/ld+json">
 {

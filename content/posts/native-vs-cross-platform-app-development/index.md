@@ -102,7 +102,7 @@ To provide you with a clear and concise overview of the differences between nati
 
 Wrapping up, native excels in performance and quick platform updates, suitable for intricate, high-demand apps, e.g. <a href="https://anadea.info/blog/enterprise-mobile-apps-development" target="_blank">enterprise mobile apps development</a>. Cross-platform offers cost efficiency, quicker development, and design consistency, with some trade-offs in performance and security due to third-party libraries. The decision should be driven by your app's unique requirements and the technical realities of each approach.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get a consultation{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get a consultation{{< /ctabutton >}}
 
 ## The experiment: Native vs cross-platform app development for the Smart Reminder app
 
@@ -193,4 +193,4 @@ The initial phase of our experiment, focusing on MVP creation, highlighted the e
 
 Our exploration of cross platform vs native app development has shed light on critical considerations for businesses and developers. We've navigated the realms of performance, security, and platform-specific features, revealing the nuances of each method. Yet we believe that every project is unique and the best approach—be it native or cross-platform—varies with each specific case. If you're contemplating the development method for your app idea, we're here to offer guidance and help bring your vision to life.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Contact us{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Contact us{{< /ctabutton >}}

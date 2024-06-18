@@ -60,7 +60,7 @@ However, even today, when traditional gyms are open, fitness applications are co
 
 What are the factors that drive the mass adoption of such solutions? **Growing social awareness of fitness well-being** and **increasing mobile penetration rate** (now it is close to <a href="https://www.statista.com/statistics/203734/global-smartphone-penetration-per-capita-since-2005/" target="_blank">70%</a>) are among the most powerful ones.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Discuss your idea{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Discuss your idea{{< /ctabutton >}}
 
 ## Types of fitness apps
 
@@ -98,7 +98,7 @@ Thanks to the integrated GPS functionality, they can also estimate the distance 
 
 ![Zepp Life screens](zepp_life.png)
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Talk to app developers{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Talk to app developers{{< /ctabutton >}}
 
 ## Key features of fitness apps
 
@@ -133,7 +133,7 @@ Here are a couple of ideas for AI-powered functionality that you can develop for
 
 ![AI features for fitness apps](AI_Features_in_Fitness_Apps.png)
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Contact AI experts{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Contact AI experts{{< /ctabutton >}}
 
 ## Build your own fitness app with a creator or rely on custom development?
 
@@ -196,7 +196,7 @@ Based on our experience in building solutions for the fitness industry, we can s
 - The size and composition of the team;
 - Specific requirements and deadlines.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Request a free quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Request a free quote{{< /ctabutton >}}
 
 ## How profitable are fitness apps?
 
@@ -232,4 +232,4 @@ To cut a long story short, let us share key practical recommendations based on o
 
 At Anadea, we deeply understand the specificity of the fitness app segment. And we would always be happy to use our knowledge to build an advanced product based on your requirements. If you are considering the possibility of building a fitness app, send us a request for proposal. Do not hesitate to contact us!
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}

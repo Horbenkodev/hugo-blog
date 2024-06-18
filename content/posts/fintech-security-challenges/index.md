@@ -117,4 +117,4 @@ While fintech businesses build the fortress, users play a critical role in its d
 The dark side of fintech? It surely exists, but its pitfalls can be effectively managed. Fintech's future can be sleek, secure, and built on trust. Imagine baking security in from the start, empowering users, and working together. Fintech then becomes a digital vault, not a leaky bucket.
 
 We’re Andea, building a fintech playground where everyone wins, especially your users' peace of mind. So why not share this way towards fintech’s bright side and do something great together, be it fintech app development, security audit, or implementing smarter login solutions? Drop us a line, and we’ll contact you shortly!
-{{< ctabutton href="https://anadea.info/contacts" >}}Contact fintech experts{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Contact fintech experts{{< /ctabutton >}}

@@ -1,5 +1,6 @@
 ---
 title: How Effective A/B Testing Helps to Build a Cool Real Estate App
+slug: how-effective-ab-testing-helps-to-build-a-cool-real-estate-app
 draft: false
 publishDate: 2019-07-22T00:00:00.000Z
 image: ab-test-testing.jpg

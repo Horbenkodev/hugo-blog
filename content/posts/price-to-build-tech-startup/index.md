@@ -84,4 +84,4 @@ Last but not least, don’t hesitate to send us your request despite your budget
 
 And don’t forget to negotiate. You always can split the total budget and don’t pay the full amount of money immediately and do it partially. So move smart!
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Book a consultation{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Book a consultation{{< /ctabutton >}}

@@ -181,4 +181,4 @@ Nevertheless, when you are building your own custom system, you can enrich it wi
 
 If you have plans to integrate a warehouse automation solution into your software infrastructure or you want to add new features to the already existing product that you have been already successfully using for a while, do not hesitate to contact us and share your ideas! At Anadea, we have all the required skills and resources to help you. We will study your case, analyze your vision, offer the best approaches to your project realization, and build a system that will boost your business growth.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Request a free quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Request a free quote{{< /ctabutton >}}
