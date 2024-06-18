@@ -1,5 +1,8 @@
 ---
-title: "CRM for Real Estate Agents: Off-the-Shelf vs. Custom? "
+ceoTitle: "CRM for Real Estate Agents: Off-the-Shelf vs. Custom?"
+title: "CRM for Real Estate Agents: Off-the-Shelf vs. Custom?"
+breadcrumbs: "CRM for Real Estate Agents: Off-the-Shelf vs. Custom?"
+slug: crm-for-real-estate-agents-off-the-shelf-vs-custom
 draft: false
 publishDate: 2019-03-26T00:00:00.000Z
 image: crm-for-real-estate-agents.jpg

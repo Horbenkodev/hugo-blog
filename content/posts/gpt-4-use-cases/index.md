@@ -58,7 +58,7 @@ So, how are GPT-4 and ChatGPT related? ChatGPT can rely on GPT-4's parameters. B
 
 At the same time, though GPT-4 was built by OpenAI, it can be applied to enrich different types of software developed by other businesses.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Contact AI developers{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Contact AI developers{{< /ctabutton >}}
 
 ## How GPT-4 is used by different companies
 
@@ -102,7 +102,7 @@ To strengthen their efforts aimed at saving Icendic, the government has decided 
 
 ![English to Icelandic prompt completions](islandic.png)
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Tell us about your project{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Tell us about your project{{< /ctabutton >}}
 
 ## GPT-4 use cases: Ideas for your business
 
@@ -128,7 +128,7 @@ How can you use this LLM for your business purposes?
 
 ![GPT-4 use cases for business](GPT-4_Use_Cases_for_Business.png)
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Discuss my idea{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Discuss my idea{{< /ctabutton >}}
 
 ## How can you implement GPT-4?
 
@@ -150,4 +150,4 @@ Today GPT-4 is considered to be the most advanced LLM. It is already used by a l
 
 If you have any ideas for a GPT-powered project or you want to create a product that will rely on any other AI model, do not hesitate to contact us! Our developers are real experts in the field of ML and AI and we are sure that we will find a solution even for the most challenging tasks. If you send us your project requirements, we will be able to provide project estimates for free.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}

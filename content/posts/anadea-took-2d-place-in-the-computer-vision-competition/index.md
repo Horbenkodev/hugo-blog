@@ -5,7 +5,7 @@ title: Anadea Took 2nd Place in the Computer Vision Competition Organized by
   Open Data Science Community
 breadcrumbs: Anadea Took 2nd Place in the Computer Vision Competition Organized
   by Open Data Science Community
-slug: anadea-took-2nd-place-in-the-computer-vision-competition
+slug: anadea-took-2d-place-in-the-computer-vision-competition
 draft: false
 publishDate: 2021-09-03T00:00:00.000Z
 image: small-project-detection.jpg
@@ -18,7 +18,6 @@ top: false
 authors:
   - marketing-team
 categories:
-  - machine-learning
   - news
 industries: []
 ---

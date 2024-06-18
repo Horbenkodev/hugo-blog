@@ -1,6 +1,7 @@
 ---
-title: What's New? Updates of Getsocio and The Got Spot projects
+title: What's New? Updates of Getsocio and The Got Spot Projects
 breadcrumbs: Updates of Getsocio and The Got Spot
+slug: updates-of-getsocio-and-the-got-spot-projects
 draft: false
 publishDate: 2018-09-19T00:00:00.000Z
 image: Getsocio-updates.jpg
@@ -91,4 +92,4 @@ We can't but mention the team members who made all these updates happen:
 
 Thank you for making these projects great!
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Get a software development quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Get a software development quote{{< /ctabutton >}}

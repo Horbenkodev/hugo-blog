@@ -1,7 +1,10 @@
 ---
-title: "Top Healthcare APIs: Why Use Them for Building Your Solution?"
+ceoTitle: " Top Healthcare APIs: Why Use Them for Building Your Solution?"
+title: Do You Need a Healthcare API to Build a Reliable System?
+breadcrumbs: Top Healthcare APIs
+slug: healthcare-api
 draft: false
-publishDate: 2023-07-12T00:00:00Z
+publishDate: 2023-07-12T00:00:00.000Z
 image: healthcare_api.jpg
 og_image: healthcare_api_socials.jpg
 description: How can the use of a healthcare API facilitate the development
@@ -292,4 +295,4 @@ The use of healthcare APIs for building your applications and systems can not on
 
 If you are interested in launching a healthcare application and are looking for a professional software development team, we will be happy to provide you with our help. At Anadea, we have rich expertise in building feature-rich [solutions for the healthcare industry](https://anadea.info/projects#healthcare) and are always open to new projects. Just contact us, share your ideas, and our experts will help you to find the best approach to transforming them into an advanced software product.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Get a free quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Get a free quote{{< /ctabutton >}}

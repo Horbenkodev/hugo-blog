@@ -129,7 +129,7 @@ Calendar is a helpful feature for agents, sellers, and customers since it allows
 #### Live chat / Chatbot
 In-app chat can help customers ask a real person or a trained chatbot for information about a specific property directly without leaving the website. Yes, chatbots are now this good—check out more info on our <a href="https://anadea.info/services/machine-learning-software-development" target="_blank">Artificial Intelligence services</a> page.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Hire real estate web developers{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Hire real estate web developers{{< /ctabutton >}}
 
 ### What to consider when integrating an MLS
 If your real estate platform requires MLS integration, here are some problems your developers will need to solve.
@@ -261,7 +261,7 @@ ListingDoor is a solution for the US real estate market. This project was reques
 
 ![](ld_desk.png)
 
-{{< ctabutton href='https://anadea.info/contacts' >}}Request estimate{{< /ctabutton >}}
+{{< ctabutton url='https://anadea.info/contacts' >}}Request estimate{{< /ctabutton >}}
 
 ## Frequently Asked Questions
 ### What are the types of real estate websites?

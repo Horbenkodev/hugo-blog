@@ -34,7 +34,7 @@ After over 100 years as the paper of record for business and economic news, the 
 Adapting to technological change means seeing things from a different point of view, whether you’re an individual, a startup, or a large company. Adopting new technologies just for the sake of saying you use them, though, can be counter-productive. Rather, the technologies you apply to grow your business should reflect your short and long-term goals, as well as an accurate understanding of where your company is today. That’s where business analysis comes in.
 
 Let's have a closer look at business analyst roles and responsibilities in the digital transformation process.
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Hire Business Analyst{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Hire Business Analyst{{< /ctabutton >}}
 
 ## The role of business analyst in digital transformation
 
@@ -64,7 +64,7 @@ Given the business analysts comprehensive view of the project, they’re well-eq
 In times of digital transformation, business analyst plays a critical role in bridging the gap between business and technical team. This position requires someone with a fairly broad skill set, including strong analytical abilities, technical expertise and communication skills. Someone who understands the needs of business owners and can help developers transform those needs into viable technology solutions.
 
 If you’re considering a digital transformation for your company, it’s important to remember that business analyst can be just as vital to your project as software engineers. Keep this in mind when choosing a software development company to partner with and make sure that it possesses the experience in business analysis, digital transformation and strategy. When you sit down to discuss your company’s requirements with a potential partner, be on the lookout for a business analyst on their team - it’s a good sign they’re taking your requirements, your goals, and your future, seriously.
-{{< ctabutton href="https://anadea.info/contacts" >}}Contact Us{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Contact Us{{< /ctabutton >}}
 
 
 <br />

@@ -58,7 +58,7 @@ Today, fintech is gradually revolutionizing the healthcare industry by introduci
 
 ![Examples of fintech in healthcare](Fintech_in_Healthcare.jpg)
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Let's talk about your project{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Let's talk about your project{{< /ctabutton >}}
 
 ## Reasons to employ fintech in healthcare industry
 
@@ -71,7 +71,7 @@ Let’s summarize the benefits that both healthcare service providers and patien
 
 ![Benefits of fintech in healthcare](Benefits_of_Fintech_in_Healthcare.jpg)
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Contact fintech experts{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Contact fintech experts{{< /ctabutton >}}
 
 ## Examples of healthcare fintech companies
 
@@ -99,7 +99,7 @@ This fintech platform provides complete and secure payment and financing solutio
 
 At the same time, for patients, the process of making payments has become much less stressful. Wellpay has established a partnership with Affirm. Thanks to this collaboration, their customers can get access to financing and pay for medical services over time.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Build your own platform{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Build your own platform{{< /ctabutton >}}
 
 ## How to launch your own fintech healthcare startup
 
@@ -118,4 +118,4 @@ As you can see, the launch of your own fintech healthcare startup is not the eas
 
 Have a fresh idea for a fintech solution that will revolutionize the healthcare industry? Just let us know! With our expertise in this domain, we are sure that we will find the best approach to your project realization.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}

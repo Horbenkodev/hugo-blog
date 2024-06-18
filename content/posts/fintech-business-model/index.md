@@ -57,7 +57,7 @@ A fintech business model can be defined as a plan or a **strategic roadmap for a
 
 In a very broad meaning, we can say that to a large extent namely a business model fintech companies opt for will determine their future success and will guide them through their market journey.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Talk to fintech experts{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Talk to fintech experts{{< /ctabutton >}}
 
 ## How to choose the best fintech business model for your project
 
@@ -76,7 +76,7 @@ Here is a list of key practical recommendations that will help you decide on a m
 
 In general, the choice of a business model is a very responsible task, and not only in the fintech space. We recommend you read an <a href="https://anadea.info/client-interviews/the-electric-car-scheme" target="_blank">interview</a> with our client who shared his insights into building his project in the electric car industry.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get consultation{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get consultation{{< /ctabutton >}}
 
 ## Top 6 fintech business models
 
@@ -140,4 +140,4 @@ Today the launch of a fintech business can become a very promising initiative. T
 
 If you are looking for a reliable tech partner who will be able to transform your ideas into user-friendly solutions with advanced features and clear navigation, do not hesitate to contact us. At Anadea, we have impressive experience in building digital solutions of different types and we will be happy to help your business thrive. Your ideas and our tech expertise can become a perfect duo for a successful fintech project. Send us an inquiry to get a free quote!
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Request estimate{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Request estimate{{< /ctabutton >}}

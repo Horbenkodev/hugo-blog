@@ -165,7 +165,7 @@ If you opt for custom website development but do not have enough in-house resour
 
 ![BahamaGo app screen](bahamago.png)
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}
 
 ## How to design a hotel booking website: best practices
 
@@ -209,4 +209,4 @@ If you have ideas for launching your own website with hotel booking functionalit
 
 At Anadea, we are always ready to help you. Given our expertise in building software products for the travel and tourism industry, we are sure that we will offer the best solution. Do not hesitate to contact us and schedule a consultation!
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Get in touch{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Get in touch{{< /ctabutton >}}

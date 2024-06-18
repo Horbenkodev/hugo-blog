@@ -1,5 +1,8 @@
 ---
-title: "Empathy Map and Design Thinking: What You Should Know"
+ceoTitle: "Empathy Map and Design Thinking: What You Should Know"
+title: "Empathy Mapping: How Does It Work in Design Thinking?"
+breadcrumbs: Empathy Mapping for Design Thinking
+slug: empathy-mapping-for-design-thinking
 draft: false
 publishDate: 2023-12-01T00:00:00.000Z
 image: empathy_map__1_.png
@@ -275,4 +278,4 @@ business domains and will be happy to support you at any step of the
 realization of your project. Share your idea with us to get project
 estimates.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}

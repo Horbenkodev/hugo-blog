@@ -54,7 +54,7 @@ Let’s have a closer look at <a href="https://anadea.info/services/passkey">pas
 
 ![Passwordless authentication types](Types_of_Passwordless_Authentication.png)
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Go passwordless{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Go passwordless{{< /ctabutton >}}
 
 ## Is passwordless more secure than password authentication?
 
@@ -65,7 +65,7 @@ There is a whole range of reasons that prove that passwordless authentication ca
 3. **The risk of phishing attacks is lower.** Phishing attacks are often aimed at stealing passwords. In other words, cybercriminals try to use their tricks to make people reveal their passwords. With passwordless security methods, such risks don’t exist.
 4. **Passwordless auth is an excellent choice for businesses**, especially for big organizations. When a company has a lot of systems and employees, password management can become a very difficult task. And the introduction of passwordless alternatives will be a good way to address such issues.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Implement passwordless auth{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Implement passwordless auth{{< /ctabutton >}}
 
 ## Passwordless security: Risks and drawbacks to consider
 
@@ -98,4 +98,4 @@ Our experts are continuously expanding and deepening their knowledge in cybersec
 
 Do not hesitate to contact us and learn more about our offers!
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}

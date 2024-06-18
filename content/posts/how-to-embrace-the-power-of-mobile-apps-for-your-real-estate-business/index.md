@@ -68,7 +68,7 @@ Thus, the traditional brokerage is experiencing <a href="https://www.forbes.com/
 ## Why does a real estate business need an app?
 Considering the above, it appears that if you own an agency and are planning to grow in a real estate domain, having an app would be a huge advantage for you. Customers appreciate when the business cares about their time, so you should make the most to help them solve problems with no effort on their part. It’s a win-win case: you as a business gain competitiveness by going digital, and customers have their needs satisfied with your mobile solution.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Hire Real Estate App Developers{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Hire Real Estate App Developers{{< /ctabutton >}}
 
 ### Who uses real estate apps?
 To answer this question, it’s important to see people behind usernames and identify their types. Real estate is a very broad industry, and still, it involves very specific categories of people.
@@ -317,4 +317,4 @@ To stay on the wave of new technologies, a real estate business should respond t
 
 Looking for a company to create an efficient and profitable app for your business? At Anadea, we gladly take on new real estate mobile app development projects. Contact us, and our specialists will answer all of your questions.
 
-{{< ctabutton href='https://anadea.info/contacts' >}}Get in touch{{< /ctabutton >}}
+{{< ctabutton url='https://anadea.info/contacts' >}}Get in touch{{< /ctabutton >}}

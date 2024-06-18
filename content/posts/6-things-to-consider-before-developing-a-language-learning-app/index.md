@@ -216,7 +216,7 @@ Learners can test their current language level, in order to be assigned to the c
 
 Creating a successful language learning app requires careful planning and attention to detail. To provide users with an engaging and effortless experience, the app should include a range of features such as well-planned lessons led by native speaker teachers, interactive and visually appealing learning resources, and a user feedback feature. By incorporating these key elements, language learning apps can offer learners a convenient and effective way to master a new language.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Get an eLearning app quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Get an eLearning app quote{{< /ctabutton >}}
 
 <script type="application/ld+json">
 {

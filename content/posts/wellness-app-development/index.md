@@ -71,7 +71,7 @@ For example, if we take exclusively the meditation and mental wellness apps, we 
 
 The fitness app market is also growing. Analysts <a href="https://www.globenewswire.com/news-release/2023/12/18/2797955/0/en/The-Fitness-APP-Market-size-growing-with-a-CAGR-of-15-00-Growth-Outlook-from-2022-to-2030-projecting-market-trends-analysis-by-Application-Regional-Outlook-and-Revenue.html#:~:text=The%20Fitness%20APP%20Market%20is,15.00%25%20during%20the%20forecast%20period." target="_blank">believe</a> that its volume will be more than $3 billion in 2030, while in 2022 it was around $1 billion. It means that a CAGR over the forecast period will be 15%.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Create my wellness app{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Create my wellness app{{< /ctabutton >}}
 
 ## Types of wellness apps
 
@@ -143,7 +143,7 @@ Below you can find a brief step-by-step guide that will help you organize the we
 
 In one of our previously published blog posts, we talked about the creation of healthcare CRM platforms. Though it is rather similar to the process of wellness app development, it has its peculiarities. Follow our article on <a href="https://anadea.info/blog/healthcare-crm-development" target="_blank">CRM software development for healthcare</a> to learn more.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get started with us{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get started with us{{< /ctabutton >}}
 
 ## How to hire health and wellness app developers
 
@@ -162,7 +162,7 @@ We highly recommend you pay attention to the following parameters and aspects:
 
 As for the rates, of course, they also matter. You need to understand whether your budget corresponds to what the team expects to get from you for the work done. Nevertheless, just rates will tell you nothing. You need to ask the chosen team to provide you with the estimate. The development cost is calculated based on the row of factors. And that's exactly what we are going to discuss in the next section of our article.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Request for proposal{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Request for proposal{{< /ctabutton >}}
 
 ## Wellness app development cost
 
@@ -180,7 +180,7 @@ On average, the development of wellness applications **starts at $40K**. It is l
 
 On our website, you can also find detailed information regarding the <a href="https://anadea.info/guides/healthcare-app-development-cost" target="_blank">cost of healthcare app development</a>. This guide will help you better understand how project costs are calculated.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get customized quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get customized quote{{< /ctabutton >}}
 
 ## Our expertise in health and wellness app development
 
@@ -194,7 +194,7 @@ The application has such features as mind maps for evaluating personal character
 
 Our team worked on the development of this solution from scratch and provided such services as project management, front-end development, back-end development, UI/UX design, and quality assurance. We helped the client choose the most appropriate tech stack that was required for building a safe and reliable application and reducing the project costs. We followed the principles of test-driven development and design to make sure that the final product would fully meet the set requirements.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Hire app developers{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Hire app developers{{< /ctabutton >}}
 
 ## Instead of the final word
 
@@ -204,4 +204,4 @@ The demand for such solutions is high. It means that if you already have an idea
 
 Contact us to get more detailed information about our services!
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}

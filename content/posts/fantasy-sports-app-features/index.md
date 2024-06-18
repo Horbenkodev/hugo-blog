@@ -92,4 +92,4 @@ To conclude, fantasy sports apps are a very prospective direction for developmen
 
 If you are a bit overwhelmed, it's better to ask an experienced team. You may always drop us a line and we'll be glad to estimate the cost and time necessary for the development process of your app. We have the necessary expertise and technological stack to help you turn your vision into reality.
 
-{{< ctabutton href='https://anadea.info/contacts' >}}Request a free quote{{< /ctabutton >}}
+{{< ctabutton url='https://anadea.info/contacts' >}}Request a free quote{{< /ctabutton >}}

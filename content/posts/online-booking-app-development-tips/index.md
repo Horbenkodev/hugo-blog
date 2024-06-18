@@ -246,4 +246,4 @@ If you choose us as your software development partner, we will provide you with 
 
 If you are trying to find answers to the question on how to make a booking app and are looking for a reliable team that will provide you with all the required assistance, you should know that at Anadea, we can offer our professional help at absolutely all the stages of the project realization process. Our seasoned experts can not only create software products based on the technical requirements prepared by you but also can introduce various improvements and share their vision. Thanks to our proven track record in building outstanding software apps for companies in many business domains, you can fully rely on us. And we will do our best to deliver a solution that will go far beyond your expectations.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Contact us{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Contact us{{< /ctabutton >}}

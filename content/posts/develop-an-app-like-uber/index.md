@@ -74,7 +74,7 @@ In a nutshell, the working principle of Uber and similar apps boils down to the 
 
 No more phone calls or bumming a ride - apps like Uber require nothing but these quick steps.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Build an App Like Uber{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Build an App Like Uber{{< /ctabutton >}}
 
 ## How to Make an App Like Uber: Features
 There are two sides to every coin, so let’s assume Uber-like apps are coins too. There are different features to oversee in the course of your taxi booking app development.
@@ -147,7 +147,7 @@ Your app is designed to make a profit, and there is nothing more harmful to maki
 #### Heat Maps
 A heat map is a feature highlighting areas of specifically high demand on the driver’s map. Having activated the heat map, the driver will be able to approach the areas indicated and arrive to pick points faster. You can implement this feature by integrating an API showing the real-time taxi movement that is refreshed frequently.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Create an App for Uber Driver{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Create an App for Uber Driver{{< /ctabutton >}}
 
 ### Admin Panel for an App Like Uber
 Here are a few things that can be included in the Admin panel for the business owner to monitor. In the Admin dashboard, add the ability to view and edit drivers’ profile info, download their statistics for periods indicated, see their activity status, and monitor their balance. The Admin panel usually includes cars data and driver ratings, as well as a rate editor.
@@ -236,4 +236,4 @@ __Payment management:__ list of completed orders; vendor payment commission stat
 ## Final Thoughts
 The extreme popularity of Uber-like apps is only due to the high demand for them, which means that despite the competition, you can conquer your share of users with your offer. Don’t hesitate to ask us any questions you have – we will be happy to help!
 
-{{< ctabutton href='https://anadea.info/contacts' >}}Get in touch{{< /ctabutton >}}
+{{< ctabutton url='https://anadea.info/contacts' >}}Get in touch{{< /ctabutton >}}

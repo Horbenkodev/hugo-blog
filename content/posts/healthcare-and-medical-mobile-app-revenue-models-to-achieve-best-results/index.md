@@ -152,4 +152,4 @@ Given this, white labeling is a viable monetization model for medical app provid
 ## In sum
 Every day there are more ways to monetize mobile healthcare apps. Using one monetization model for your medical app does not imply the abandonment of others. A skillful combination of different methods will help you to achieve better results. Of course, all the above methods apply if you already have a functioning app. If you don't, welcome to our Free project estimate page! More insights ahead.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}

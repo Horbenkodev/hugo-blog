@@ -1,5 +1,8 @@
 ---
-title: What Makes Flutter So Good for Cross-Platform Development?
+ceoTitle: What Makes Flutter So Good for Cross-Platform Development?
+title: When to Choose Flutter for Cross-Platform Development
+breadcrumbs: Flutter Development
+slug: flutter-development
 draft: false
 publishDate: 2022-09-13T00:00:00.000Z
 image: balloons.jpg
@@ -13,7 +16,6 @@ authors:
   - ihor-kozar
 categories:
   - development
-  - mobile
 industries: []
 ---
 The times when Flutter was just a hype technology and developers rolled their eyes at the mention of it, prophesying it a quick death, are long gone. Death did not happen, the framework has been evolving for more than four years, attracting more and more people, and has already won the title of the best framework for cross-platform development.

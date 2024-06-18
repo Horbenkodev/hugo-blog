@@ -1,7 +1,10 @@
 ---
-title: "SaaS Architecture: What Is It and How to Choose the Correct Type?"
+ceoTitle: "SaaS Architecture: What Is It and How to Choose the Correct Type?"
+title: Types of SaaS Architecture and How to Choose the Right One
+breadcrumbs: SaaS Architecture
+slug: saas-architecture
 draft: false
-publishDate: 2023-01-27T00:00:00Z
+publishDate: 2023-01-27T00:00:00.000Z
 image: saas-architecture.png
 og_image: saas-architecture-socials.png
 description: What do you need to know about SaaS architecture to build a
@@ -11,8 +14,7 @@ promote:
 top: false
 authors:
   - web-development-team
-categories:
-  - development
+categories: []
 industries: []
 questionary:
   - question: What are SaaS architecture best practices?
@@ -163,4 +165,4 @@ If you are not sure that you can make the right choice on your own, do not worry
 
 At Anadea, our developers have rich expertise in building SaaS solutions and can help you to build a software product that will bring real business value to you and your customers. If you want to learn more, please, do not hesitate to contact us and get a quote for your project.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Hire SaaS developers{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Hire SaaS developers{{< /ctabutton >}}

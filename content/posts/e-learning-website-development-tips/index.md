@@ -202,4 +202,4 @@ If you need a professional development team to assist you at any stage of the pr
 
 Do not hesitate to contact us to get more detailed information on our services! Moreover, we will provide your project estimates absolutely for free.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Get in touch{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Get in touch{{< /ctabutton >}}

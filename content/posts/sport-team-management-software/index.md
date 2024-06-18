@@ -60,7 +60,7 @@ If you asked us why so many organizations rely on sports team management website
 
 - **This software helps to better manage all team-related materials and documents**. Sports team management websites can also be enriched with special sections for maintaining records that are related to all athletes, competitions, games, press conferences, and other events. Thanks to this, it is always easy to quickly find all the required information and share it with journalists, administrative authorities, and other people and bodies to whom it may concern.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Talk to our team{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Talk to our team{{< /ctabutton >}}
 
 ## What are the main benefits of using sport team management software?
 
@@ -177,7 +177,7 @@ If you are considering custom development, it will be useful to understand how t
 
 5. **Launch your app.** That's the final stage of your software creation. After you have made sure that everything works as it should, the app can be made available to end users. However, even after the launch, it is necessary to conduct monitoring of its performance, maintain, and regularly update it. It will be also helpful to gather feedback from users to improve your system based on their opinions.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Hire app developers{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Hire app developers{{< /ctabutton >}}
 
 ## Final word
 
@@ -186,4 +186,4 @@ Sport team management software can fully change the workflow of a sports organiz
 
 Already have an idea for a sports team management app? Share your thoughts with us and we will estimate your project costs for free.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}

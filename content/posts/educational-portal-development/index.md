@@ -61,7 +61,7 @@ What are the key benefits of eLearning portals?
 - Consistency in learning;
 - Higher engagement in comparison to traditional learning methods.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Talk to eLearning experts{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Talk to eLearning experts{{< /ctabutton >}}
 
 ## Examples of online education portals
 
@@ -86,7 +86,7 @@ This online learning portal differs from the ones mentioned above. It is not a w
 
 ![](stanford_axess.png)
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Create your own platform{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Create your own platform{{< /ctabutton >}}
 
 ## Education portal development process
 
@@ -161,7 +161,7 @@ Cooperation with an education portal development company like Anadea is more sui
 
 Usually, freelancers are hired for small short-term tasks that should be done extremely fast. For more serious projects, establishing cooperation with a software development company will be the best solution.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Book a consultation{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Book a consultation{{< /ctabutton >}}
 
 ## How to choose an education portal development company?
 
@@ -173,7 +173,7 @@ Today the number of companies that provide elearning portal development services
 4. **Reviews**. Read the reviews that were written by the company’s customers. A lot of businesses publish such opinions directly on their websites. But it will be sensible to look for reviews posted on external platforms like Clutch or GoodFirms. Very often such testimonials can shed some light on possible pitfalls of cooperating with this or that company. And thanks to them, you will get a rather realistic picture of what you can expect.
 5. **Terms of cooperation**. Consider not only the rates of developers but also offered engagement models and other details of the project realization process. You need to be confident that the proposed way of establishing interaction is fully relevant to your business model.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Ask us anything{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Ask us anything{{< /ctabutton >}}
 
 ## Instead of a final word: How we provide eLearning portal development services at Anadea
 
@@ -185,4 +185,4 @@ We do our best to find the most feasible approach to project realization and off
 
 For us, it is crucial to build mutually beneficial long-term relations with our customers and to contribute to their business growth. If you want to learn more about our approaches to education portal development and our services, do not hesitate to contact us!
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}
