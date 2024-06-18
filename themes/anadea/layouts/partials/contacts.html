@@ -15,31 +15,35 @@
     </div>
   </div>
   <div class="contacts__formBlock">
-    <form class="contacts__form">
-      <input class="contacts__item" placeholder="Your Name*" type="text" />
-      <input class="contacts__item" placeholder="E-mail*" type="email" />
-      <input class="contacts__item" placeholder="Phone" type="tel" />
-      <textarea class="contacts__item contacts__textarea" placeholder="Description*" rows="5"></textarea>
-      <label class="contacts__label contacts__label--attach" for="file">Attach file</label>
-      <input class="contacts__file" id="file" type="file" onchange="handleFileInputChange(event)" />
-      <div class="contacts__subscribe">
-        <input class="contacts__checkbox" type="checkbox" id="subscribe" checked />
-        <label class="" for="subscribe">Sign me up to newsletter - Useful insights only and frequency just right.</label>
+    <form class="contacts__form" id="contact_form" enctype="multipart/form-data" accept-charset="UTF-8" >
+      <input
+      type="hidden"
+      name="contact_type"
+      id="bottom_section_contact_type"
+      value="contact_form"
+      autocomplete="off"
+    />
+      <div class="contacts__item">
+        <label for="name">Your name*</label>
+        <input class="contacts__input" id="name" required="required" aria-required="true" type="text" name="name" />
       </div>
-      <input class="contacts__submit" type="submit" value="Send" />
+      <div class="contacts__item">
+        <label for="email">Your E-mail*</label>
+        <input class="contacts__input" id="email" required="required" aria-required="true" type="email" name="email" />
+      </div>
+      <div class="contacts__item">
+        <label for="phone">Phone number</label>
+        <input class="contacts__input" id="phone" name="phone" type="tel" />
+      </div>
+      <textarea class="contacts__item contacts__textarea" placeholder="Description*" minlength="20" required="required" aria-required="true" name="message"></textarea>
+      <label class="contacts__label contacts__label--attach" id="file-label" for="file">Attach file</label>
+      <input class="contacts__file" id="file" multiple="multiple" data-size="500" type="file" name="attachments[]" />
+      <div class="contacts__subscribe">
+        <input name="subscribe" type="hidden" value="0" autocomplete="off" />
+        <input class="contacts__checkbox" type="checkbox" name="subscribe" value="1" id="subscribe" checked />
+        <label for="subscribe">Sign me up to newsletter - Useful insights only and frequency just right.</label>
+      </div>
+      <button class="contacts__submit" type="submit" data-disable-with="Sending...">Send</button>
     </form>
   </div>
 </section>
-
-<script>
-  function handleFileInputChange(event) {
-    const label = document.querySelector('.contacts__label');
-    const fileInput = event.target;
-
-    if (fileInput.files.length > 0) {
-      label.textContent = `${fileInput.files[0].name}`;
-    } else {
-      label.textContent = 'Attach file';
-    }
-  }
-</script>
