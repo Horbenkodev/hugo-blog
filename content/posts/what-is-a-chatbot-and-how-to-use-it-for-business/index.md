@@ -1,6 +1,7 @@
 ---
 title: What is a Chatbot and How to Use It for Your Business
 breadcrumbs: Chatbot for Business
+slug: what-is-a-chatbot-and-how-to-use-it-for-business
 draft: false
 publishDate: 2017-12-29T00:00:00.000Z
 image: what-is-chatbot.jpg

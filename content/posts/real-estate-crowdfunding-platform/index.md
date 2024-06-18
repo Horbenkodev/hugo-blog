@@ -67,7 +67,7 @@ You also should know that there are several types of crowdfunding real estate pl
 
 While speaking about software solutions of this type, we also should mention the method to monetize them. How do real estate crowdfunding platforms make money? This will be a very logical question. There can be a little bit different approaches to monetization. Platforms can take a percentage of the made investments or they can directly charge investors and project owners. Moreover, some other methods are commonly used by digital projects. They are premium subscriptions and ads.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get a consultation{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get a consultation{{< /ctabutton >}}
 
 ## Real estate crowdfunding market
 
@@ -101,7 +101,7 @@ Today the platform boasts more than 270K investors and provides them with flexib
 
 ![Realty Mogul](Realty_Mogul.png)
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Build my platform{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Build my platform{{< /ctabutton >}}
 
 ## How to start a real estate crowdfunding platform?
 
@@ -153,7 +153,7 @@ If you have plans to build a solution of this kind, it may be useful for you to 
 
 8. **Documents generation.** It is not an essential feature of real estate crowdfunding investment platforms but it can be very helpful for users as thanks to it, it will take less time to close deals. What's more, you can also use the power of AI to offer document summarization. By getting the most important abstracts instead of reading entire contracts, investors can save valuable time.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Hire software developers{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Hire software developers{{< /ctabutton >}}
 
 ## How much does it cost to build a real estate crowdfunding platform?
 
@@ -171,7 +171,7 @@ On average, the development of a real estate crowdfunding platform will start at
 
 To get a quote, you should share your requirements with a development team. At Anadea, we can provide estimates for free.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Request for proposal{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Request for proposal{{< /ctabutton >}}
 
 ## Our real estate development expertise
 
@@ -195,4 +195,4 @@ Given the active growth of the industry, it is expected that the demand for reli
 
 However, to make sure that your platform will be secure and high-performing you should cooperate with a trustworthy software development team. At Anadea, we are always ready to help you in the realization of your projects. Just let us know what ideas you have and we will find the best solution.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}

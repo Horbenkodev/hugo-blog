@@ -30,7 +30,7 @@ With custom link
 With custom link
 
 ```go
-{{</* ctabutton href="https://example.com" */>}}Text{{</* /ctabutton */>}}
+{{</* ctabutton url="https://example.com" */>}}Text{{</* /ctabutton */>}}
 ```
 
 {{< ctabutton >}}Text{{< /ctabutton >}}

@@ -183,7 +183,7 @@ Platforms of this type are usually used in corporate learning and provide highly
 
 These solutions combine the most important features of learning destination sites and learning management systems. It means that they can be used for creating and managing courses, as well as for getting access to them. What makes platforms of this type special is that they are typically launched for internal use of some particular organizations only. In other words, only employees, students, or members can get access to this software. For example, such LMEs can be launched by colleges or universities.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Create an eLearning platform{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Create an eLearning platform{{< /ctabutton >}}
 
 ## Process of e-learning development: How to start?
 
@@ -229,4 +229,4 @@ With the ongoing digitalization of all the spheres of our life, it is obvious th
 
 If you have an eLearning website development project, we will be happy if you entrust us with it. Our developers have solid skills in working with the latest development tools and technologies and are able to cope even with the most challenging tasks. We know how to build an online learning platform and optimize the required resources and time. And thanks to our experience, we understand what users expect to get from such solutions. If you want to receive more detailed information about our services and approaches to work, do not hesitate to contact us and ask all your questions.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Discuss your project{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Discuss your project{{< /ctabutton >}}

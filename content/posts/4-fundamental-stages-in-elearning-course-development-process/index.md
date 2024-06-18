@@ -174,4 +174,4 @@ As you can see, eLearning content development is an effort- and time-consuming p
 
 If you need any assistance in building your custom eLearning software solutions and you are looking for a reliable partner, just contact us. At Anadea, we have rich expertise in building edtech products of different types and complexity and we will be able to deliver an app or website that will be fully tailored to your needs. Share your ideas with us to get project estimates!
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Get a free quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Get a free quote{{< /ctabutton >}}

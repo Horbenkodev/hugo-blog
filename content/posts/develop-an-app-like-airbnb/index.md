@@ -163,7 +163,7 @@ __$5.000 * 16 weeks + 1 UX/UI designer * 40 hours * $50 = $82.000 approx.__
 
 However, a minimum viable product (MVP) featuring only essential functionality will cost significantly less and will allow you to test the idea before pouring larger sums of money into a big software product. For that, you will always have time.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Hire Airbnb app developers{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Hire Airbnb app developers{{< /ctabutton >}}
 
 ## How to Market a Travel Startup Like Airbnb?
 In a crowded market, only the luckiest get noticed without additional marketing efforts. No matter how good your product turns out, some pubic exposure won’t hurt. See how you can promote your product when it is launched.
@@ -184,4 +184,4 @@ Another option is placing __in-app ads__. Sell a place for advertising and gain 
 
 Finally, implementing __subscription and premium features__ can be an additional source of revenue. However, do not expect every user to pay for the extended functionality right away. At the start, your task is to gain the trust of users and prove your app is a good value for its money. With the latter, we will be happy to help.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}

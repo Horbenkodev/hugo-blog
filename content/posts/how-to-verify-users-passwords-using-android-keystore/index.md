@@ -1,7 +1,8 @@
 ---
 title: How to Verify Users' Passwords Using the Android KeyStore
+slug: how-to-verify-users-passwords-using-android-keystore
 draft: false
-publishDate: 2019-01-08T00:00:00Z
+publishDate: 2019-01-08T00:00:00.000Z
 image: Security-android.jpg
 og_image: Security-android.jpg
 description: Everybody knows that security is a very important issue for users

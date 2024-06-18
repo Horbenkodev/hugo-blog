@@ -111,7 +111,7 @@ Below you can find some general tips and basic recommendations that will help yo
 
 As we've already mentioned, the exact set of features should be created based on the requirements and expectations of our target audience, as well as the specificity of your product. As a result, solutions of this kind may have absolutely different functionality and complexity which greatly influence the final cost of your project. The simplest project may cost around $10-20K but more advanced systems will require much more time and effort from the side of developers and, consequently, your investment should be higher.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Create an event booking app{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Create an event booking app{{< /ctabutton >}}
 
 ## Technologies and tools that you can use for ticket booking app development
 
@@ -145,4 +145,4 @@ If you are also thinking about a booking app for the travel industry, we recomme
 
 Our team doesn't blindly follow the tech requirements provided by you but also can help you to improve your idea and enrich your project with new features and functionality based on modern trends and market demands. Don't hesitate to contact us in order to discuss what our developers can do for you.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}

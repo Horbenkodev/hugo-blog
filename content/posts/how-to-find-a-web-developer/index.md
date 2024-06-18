@@ -149,4 +149,4 @@ Based on all of the above, we can highlight some key points to pay attention to 
 * __Conditions.__ Is the developer or a company clear about pricing? Who owns the product code? Who is responsible for what in the team? All of these have to be clear and permanent for your own protection. Feel free to ask the vendor all questions you have to avoid confusion.
 
 Whoever you choose to work with, mind these pieces of advice. Hope your undertaking will be a success! Before you leave, check out the examples of our stellar web projects.
-{{< ctabutton href="https://anadea.info/projects" >}}See web development portfolio{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/projects" >}}See web development portfolio{{< /ctabutton >}}

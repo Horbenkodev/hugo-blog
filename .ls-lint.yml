@@ -6,3 +6,4 @@ ignore:
   - .history
   - .idea
   - static/admin/decap-cms.js
+  - vendors

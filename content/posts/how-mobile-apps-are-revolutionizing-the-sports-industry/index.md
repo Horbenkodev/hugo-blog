@@ -61,4 +61,4 @@ There's no hard and fast rule for what an app should do, other than provide bene
 
 Looking for a cool sports app developing company to bring your innovation ideas to life? Ping us and let's discuss your project!
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Request a sports app quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Request a sports app quote{{< /ctabutton >}}

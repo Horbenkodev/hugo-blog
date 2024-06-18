@@ -122,7 +122,7 @@ On the plus side, all that homegrown business is helping to sustain many tourist
 In the end of 2021 Booking unveiled the Mindful Travel badge. It allows users around the world to choose more sustainable housing options and get the information they want about the sustainable development approaches. It is adapted to the local characteristics of accommodation facilities. The purpose of the badge's launch is help users choose eco-friendly
 accommodation options anywhere in the world.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Let's discuss your travel app idea{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Let's discuss your travel app idea{{< /ctabutton >}}
 
 ## Travel app types and features
 Let’s take a look at what travel app types can be interesting for development.

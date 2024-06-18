@@ -1,7 +1,9 @@
 ---
-title: How New Healthcare Tech is Shaping Proactive Treatment
+ceoTitle: " How New Healthcare Tech is Shaping Proactive Treatment"
+title: How the Next Generation of Healthcare Tech is Shaping Proactive Treatment
+slug: how-the-next-generation-of-healthcare-tech-is-shaping-proactive-treatment
 draft: false
-publishDate: 2018-12-13T00:00:00Z
+publishDate: 2018-12-13T00:00:00.000Z
 image: proactive-healthcare.jpg
 og_image: proactive-healthcare.jpg
 description: Digital technology and innovation are radically changing

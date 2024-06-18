@@ -1,8 +1,9 @@
 ---
 title: "Software QA & Testing: Outsourcing vs. Crowdsourcing"
 breadcrumbs: Outsourcing vs. Crowdsourcing QA Service
+slug: software-qa-testing-outsourcing-vs-crowdsourcing
 draft: false
-publishDate: 2017-09-15T00:00:00Z
+publishDate: 2017-09-15T00:00:00.000Z
 image: outsource-vs-crowdsource.jpg
 og_image: outsource-vs-crowdsource.jpg
 description: Writing code is hard. For some, this may come as a surprise,

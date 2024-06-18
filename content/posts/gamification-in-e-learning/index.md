@@ -39,7 +39,7 @@ Given the freedom in software development that we have today thanks to the achie
 
 Nevertheless, professional training and education still remain the most popular areas for the application of gamification platform software.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Talk to elearning experts{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Talk to elearning experts{{< /ctabutton >}}
 
 ## Gamified learning platforms: What are they?
 
@@ -57,7 +57,7 @@ Benefits of a gamified platform in education:
 - Better progress monitoring;
 - Access to analytics.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Speak about your project{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Speak about your project{{< /ctabutton >}}
 
 ## How to build a gamification learning platform
 
@@ -87,7 +87,7 @@ To make sure that your gamified training platform works as you planned, it is ne
 
 When your solution is already available to users, it is still required to continue your work with it. It is necessary to monitor its performance and quickly react to all possible vulnerabilities, if any. Moreover, based on our experience, we can say that to guarantee the success of your platform in the long term, you should pay attention to users’ feedback. Namely, based on their opinions, you can enhance your solution and be sure that it fully meets their requirements. For example, it may be necessary to enrich a software product with a new feature or introduce its <a href="https://anadea.info/solutions/e-learning-software-development/m-learning" target="_blank">mobile version</a> for users’ convenience.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Hire elearning app developers{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Hire elearning app developers{{< /ctabutton >}}
 
 ## Key features of a modern gamification learning platform
 
@@ -107,7 +107,7 @@ The nature of gamification services makes them stand out from the row of many ot
 
 ![Features of gamification learning platform](Gamification_Learning_Platform_Features.png)
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Request a free quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Request a free quote{{< /ctabutton >}}
 
 ## Examples of gamified learning platforms
 
@@ -137,7 +137,7 @@ Today, the solution can be used on PCs and tablets.
 
 ![Stav Online](stav_online.png)
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Build my platform{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Build my platform{{< /ctabutton >}}
 
 ## Ideas for an AI-based gamification platform
 
@@ -169,7 +169,7 @@ If you have plans to launch a custom e-learning solution, we recommend you think
 
 An Anadea, we are ready even for the most challenging software development tasks and we will be always happy to help you with your project realization.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Let's collaborate!{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Let's collaborate!{{< /ctabutton >}}
 
 ## Frequently Asked Questions
 

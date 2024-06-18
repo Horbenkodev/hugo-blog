@@ -94,7 +94,7 @@ Administrators should get access to the information and content added by users t
 
 The concept of responsive design presupposes building solutions that are compatible with different device screen sizes and shapes. You never know what devices people will use to interact with your website and you should ensure automatic adaption of its interfaces to different screens.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Contact website developers{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Contact website developers{{< /ctabutton >}}
 
 ## How to make a dating site: Two key approaches
 
@@ -168,4 +168,4 @@ But how to build a dating site that will succeed? One of the key conditions for 
 
 Just contact us and get a project estimate absolutely for free!
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Request estimate{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Request estimate{{< /ctabutton >}}

@@ -575,4 +575,4 @@ will deeply study your case and will offer the most feasible solution.
 With our expertise in this sphere, we are sure that we can cope with
 tasks of any complexity.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}

@@ -66,7 +66,7 @@ The exact set of features should be defined when you already have a clear concep
 
 ![Features of sports booking software](essential_features_of_sports_booking_software.jpg)
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Discuss your idea{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Discuss your idea{{< /ctabutton >}}
 
 ## How we develop sports booking software at Anadea
 
@@ -82,7 +82,7 @@ At Anadea, we work with software development projects of different types, and ap
 
 ![How to create booking software](step-by-step_process_of_software_development.jpg)
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}
 
 ## How to hire sports app developers: freelance vs outsourcing
 
@@ -108,7 +108,7 @@ Vendors can offer you various engagement models which will presuppose different 
 
 There are cases when it is not feasible to hire developers via establishing cooperation with an outsourcing company. But when we are talking about end-to-end development of sports booking software, outsourcing has a lot of benefits.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Hire sports app developers{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Hire sports app developers{{< /ctabutton >}}
 
 ## Conclusion
 
@@ -116,4 +116,4 @@ Sports facility booking software is a type of solution that boasts rather high p
 
 If you are looking for developers who will help you with transforming your ideas into a working solution, at Anadea, we are always ready to help. Tell us about your project and we will provide an estimate!
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Request for proposal{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Request for proposal{{< /ctabutton >}}

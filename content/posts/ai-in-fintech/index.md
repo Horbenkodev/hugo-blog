@@ -85,7 +85,7 @@ Process automation and facilitation are among the most important factors that ca
 
 All these benefits are relevant for all the cases of using Artificial Intelligence in fintech but it is also important to keep in mind that there can be some unique, company- or app-specific advantages. We recommend you discuss them with your <a href="https://anadea.info/services/machine-learning-software-development" target="_blank">AI and ML software development team</a> in advance in order to make sure that you will get a solution that will bring the highest value to you and your clients. At Anadea, we always focus on these specific advantages while discussing project requirements as we believe that our task is to deliver solutions that will be fully tailored to customers' needs.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Talk to AI experts{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Talk to AI experts{{< /ctabutton >}}
 
 ## How is AI used in fintech?
 
@@ -151,4 +151,4 @@ AI helps to make fintech solutions much more reliable, secure and user-oriented.
 
 If you are considering the possibility of launching an AI solution for the needs of your fintech business, you can always rely on us. At Anadea, we deeply understand the peculiarities of the fintech industry and have splendid expertise in building software products powered by artificial intelligence. Just share your ideas with us and let's discuss how our team can help you.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Get in touch{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Get in touch{{< /ctabutton >}}

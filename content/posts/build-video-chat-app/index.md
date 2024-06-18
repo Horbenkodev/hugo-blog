@@ -44,7 +44,7 @@ Though the history of video conference technology took its roots at the end of t
 
 In this article, we will give specific steps to build a video chat app, explain the role that AI-powered cam chat apps currently play in the business world, mention must-have features of modern solutions of this type, and provide tips on how you can make money if you decide to build an online video chat app.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get a consultation{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get a consultation{{< /ctabutton >}}
 
 ## Brief market overview: Video calling app development
 
@@ -68,7 +68,7 @@ There is such an opinion that to develop video chat app that everyone will like,
 
 If you want to launch a webcam chatting program, you should decide whether your solution will be mainly targeted at individual or corporate users. The type of app will define not only the required functionality of your solution but also the marketing strategy that you will need to implement in the future.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Contact app developers{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Contact app developers{{< /ctabutton >}}
 
 ## Different approaches to video chat app development
 
@@ -84,7 +84,7 @@ Nevertheless, this approach will allow you to create a fully unique solution tha
 
 If you choose this approach, we recommend you devote enough time to careful market analysis and planning. You have the possibility to deliver an app based on an idea that hasn't been presented in the market and you shouldn't miss this chance.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Discuss your idea{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Discuss your idea{{< /ctabutton >}}
 
 ### Building software with video chat development tools
 
@@ -122,7 +122,7 @@ But as we've already mentioned, people started to use video conferencing apps si
 
 3. **Implement your app and test it.** When all the features of your app, including its AI functionality, are ready for launch, you can start the preparatory work for the app's release. We recommend you pay a lot of attention to the QA stage with a special focus on the final testing phase - User Acceptance Testing (UAT). It presupposes conducting tests in real-life situations and helps to find out whether everything functions correctly and the app can be made publicly available.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Contact AI experts{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Contact AI experts{{< /ctabutton >}}
 
 ## How to create video chat app: Must-have features
 
@@ -151,7 +151,7 @@ Below you can find some examples of highly demanded features of video conferenci
 - Real-time translation into different languages
 - Analysis of video call content
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Request for proposal{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Request for proposal{{< /ctabutton >}}
 
 ## Security of your video chat solution
 
@@ -186,7 +186,7 @@ Below you can find a couple of ideas on how to earn money on your video chat app
 
 5. **Pre-paid meetings and calls.** You can create video chat app that will be used by consultants, doctors, tutors, and other experts for their communication with clients and patients. In this case, you can make it possible for users to pay for such calls in advance via your platform and you can take a small fee for each transaction. To attract professionals, you can promote their services directly on your application. As a result, such a model will become a win-win game for all parties.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get in touch{{< /ctabutton >}}
 
 ## Video chat app examples
 
@@ -248,4 +248,4 @@ At Anadea, we have impressive expertise in building solutions of absolutely diff
 
 Just share your ideas with us and we will provide a project estimate for free.
 
-{{< ctabutton href="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/free-project-estimate" >}}Request a free quote{{< /ctabutton >}}

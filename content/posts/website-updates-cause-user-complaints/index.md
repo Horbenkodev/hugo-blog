@@ -1,6 +1,7 @@
 ---
 title: What to Do If Every Website Update Causes User Complaints
 breadcrumbs: Users Are Complaining About the Website
+slug: website-updates-cause-user-complaints
 draft: false
 publishDate: 2022-06-06T00:00:00.000Z
 image: father_and_son.jpg

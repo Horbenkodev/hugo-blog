@@ -60,7 +60,7 @@ In 2022, 70% of healthcare software solutions used by medical organizations were
 
 The growing adoption of telehealth solutions, wearable devices, tools for remote patient monitoring, CRM platforms, and ERP systems can be named among the strongest boosters for the SaaS market.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Discuss your idea{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Discuss your idea{{< /ctabutton >}}
 
 ## Top healthcare SaaS companies
 
@@ -88,7 +88,7 @@ It is an advanced data analytics and AI company that was founded in 2010. The ma
 
 ![AI Cure app](aicure.png)
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Build my healthcare SaaS{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Build my healthcare SaaS{{< /ctabutton >}}
 
 ## Benefits of healthcare SaaS products
 
@@ -104,7 +104,7 @@ If you still have doubts about whether the launch of a medical SaaS solution is 
 
 The majority of these benefits are explained by the nature of cloud computing and the peculiarities of services provided by SaaS vendors. For example, when we are talking about cost-efficiency we are referring to the lowered costs associated with the use of cloud-based solutions. Healthcare providers do not need to buy and maintain on-premises hardware and can pay only for the services and resources that they really need.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Request for proposal{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Request for proposal{{< /ctabutton >}}
 
 ## Latest trends in healthcare SaaS development
 
@@ -124,7 +124,7 @@ We've analyzed the ongoing situation in the market and defined the top 5 healthc
 
 5. **Vertical SaaS.** Some years ago, the market offered mainly horizontal SaaS products (or solutions that could be used practically in any industry). Today the interest of users has shifted to vertical SaaS solutions that are targeted at a single industry or sector, like healthcare. Such solutions better address the needs of end-users and are more cost-effective as users do not need to pay for the functionality that is not relevant in their case.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get a consultation{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get a consultation{{< /ctabutton >}}
 
 ## How to develop a SaaS healthcare product?
 
@@ -156,7 +156,7 @@ When the solution is ready, you can launch it and proceed to the step of user tr
 
 On our blog, we've already provided our practical recommendations on how to build a healthcare CRM system. That's why if you are planning to launch such a product, it will be helpful for you to read this [article](https://anadea.info/blog/healthcare-crm-development).
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Hire SaaS developers{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Hire SaaS developers{{< /ctabutton >}}
 
 ## How to transform your healthcare software solution into SaaS?
 
@@ -176,7 +176,7 @@ Today the range of on-demand cloud computing platforms is rather wide. The most 
 
 You should understand that migration to the cloud always presupposes the introduction of serious changes. If something goes wrong, the risks of losing data or breaking some functionality are rather high. That's why your team should develop a good migration plan that will cover all potential risks and the ways to address them. Moreover, we recommended you build a minimal viable product (MVP) with a limited set of features to gather the opinions of end-users. Based on their feedback, you will be able to adjust your cloud product to their needs.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Get started{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Get started{{< /ctabutton >}}
 
 ## Features of medical SaaS platforms
 
@@ -194,7 +194,7 @@ When you are planning to build your own healthcare SaaS product, regardless of i
 
 - **Connectivity with biosensors and smart medical devices**. With the growing demand for remote patient monitoring, more and more hospitals implement IoT solutions in their work. In this case, a healthcare SaaS platform should have features for collecting, storing, and analyzing the received data.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Create my SaaS{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Create my SaaS{{< /ctabutton >}}
 
 ## How to hire healthcare developers with SaaS expertise?
 
@@ -219,7 +219,7 @@ Given the specificity of healthcare SaaS products, it is vital to continuously m
 
 Moreover, the market for healthcare solutions is very dynamic. It means that requirements, standards, and trends that define the expectations of users are changing rather quickly. To make sure that your solution can solve all the set tasks, you need to regularly update it. And here's when the help of developers will be required as well.
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Contact healthcare developers{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Contact healthcare developers{{< /ctabutton >}}
 
 ## Closing word
 
@@ -227,4 +227,4 @@ The demand for cloud-based solutions for the healthcare industry is stably high 
 
 If you are thinking about building a SaaS product and are looking for a reliable development team to help you, you should know that at Anadea, we will be always ready to provide our services. With our experience in healthcare app development, we will cope with tasks of any complexity. Share your project requirements and get a free quote!
 
-{{< ctabutton href="https://anadea.info/contacts" >}}Contact us{{< /ctabutton >}}
+{{< ctabutton url="https://anadea.info/contacts" >}}Contact us{{< /ctabutton >}}

@@ -1,5 +1,6 @@
 ---
 title: Why Updating Your Software is a Must
+slug: why-updating-your-software-is-a-must-in-2019
 draft: false
 publishDate: 2019-04-18T00:00:00.000Z
 image: Software-update.jpg

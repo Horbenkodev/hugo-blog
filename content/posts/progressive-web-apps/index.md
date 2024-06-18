@@ -1,7 +1,8 @@
 ---
 title: How Progressive Web Applications are Changing the Mobile Industry
+slug: progressive-web-apps
 draft: false
-publishDate: 2019-02-13T00:00:00Z
+publishDate: 2019-02-13T00:00:00.000Z
 image: progressive-web-apps.jpg
 og_image: progressive-web-apps.jpg
 description: Global web giants Google, Apple and Microsoft work towards the
