@@ -1,7 +1,7 @@
 ---
 title: How to Develop a Professional Medical App for Doctors
 draft: false
-publishDate: 2022-09-16T00:00:00Z
+publishDate: 2022-09-16T00:00:00.000Z
 image: stethoscope-prescription-laptop.jpg
 og_image: stethoscope-prescription-laptop.jpg
 description: This article will clear up the big mystery of how to create a
@@ -31,7 +31,7 @@ Our team believes that the most important characteristic that distinguishes a me
 
 > The healthcare industry is very unique since it deals with very sensitive data. It is related not only to the danger of exposure but also to the information itself, which should be collected and presented in a very polite form. The potential patients should not be scared off by the requested data and they should not be misled by the presented results. 
 
-Vladimir Galaiko, Project Manager and Business Analyst at Anadea
+— Vladimir Galaiko, Project Manager and Business Analyst at Anadea
 
 Another thing to consider while developing a mobile product for the medical industry is the regulations. Many procedures are regulated by law, thereby one should always think of how to implement the workflows designed decades ago for manual processing within the modern technological capabilities.
 
@@ -226,7 +226,7 @@ We think it is the <a href="https://anadea.info/blog/healthcare-future-integrati
 
 > There is a thin line between granting quick access to your health records and a patient's interpretation of provided data that may harm people. This line is the one that developers are afraid of but it is just a matter of time to create correct wording of the Terms of use and build the trust for end users. 
 
-Andrey Dovbysh, Project Manager at Anadea
+— Andrey Dovbysh, Project Manager at Anadea
 
 The same process happened when people created apps for banking. At the beginning of the process, it took time to persuade people to use the app because they were afraid that their money would be stolen. Nowadays, people do their financial operations online instead of going to a bank which is really convenient.
 
