@@ -14,8 +14,7 @@ promote:
 top: false
 authors:
   - eugene-pasko
-categories:
-  - development
+categories: []
 industries: []
 questionary:
   - answer: "At Anadea, we offer two main options for implementing passkey in your
@@ -34,7 +33,7 @@ questionary:
       emerging each month. Some of the popular passkey solution providers
       include Passwordless.dev, WebAuthn.js, and Microsoft Authenticator SDKs
       among others. These providers offer various solutions to implement passkey
-      functionality, catering to different needs and preferences."
+      functionality, catering to different needs and preferences.
   - question: Who can implement passkey functionality for me?
     answer: Several options are available for integrating new technologies like
       passkey. You could utilize your development team if you have the necessary
