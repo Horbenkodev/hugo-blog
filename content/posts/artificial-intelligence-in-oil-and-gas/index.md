@@ -130,7 +130,7 @@ To better understand the role of AI in this industry, it will be a good idea to 
 
 One of the cases was the introduction of autonomous drilling in deep water by ExxonMobil. A proprietary drilling advisory system built by the company relies on the capabilities of AI to identify the most appropriate zones for drilling. Thanks to this automated system, ExxonMobil can increase drilling efficiency and safety as well as eliminate a lot of repetitive tasks for its staff. As a result, the company's employees can concentrate on more creative and complex work.
 
-It is also known that ExxonMobil uses AI tools for other aims such as conducting oil analysis processes (as a part of its predictive maintenance program), for example. In one of the [reports](https://mobilserv.mobil.com/pdfs/mobil-serv-lubricant-analysis-success-story-1.pdf)provided by the company, it was stated that thanks to such a solution, they can reduce the time needed for manual sample collection by 66% which can lead to savings of $9,600 in labor costs per year.
+It is also known that ExxonMobil uses AI tools for other aims such as conducting oil analysis processes (as a part of its predictive maintenance program), for example. In one of the [reports](https://mobilserv.mobil.com/pdfs/mobil-serv-lubricant-analysis-success-story-1.pdf) provided by the company, it was stated that thanks to such a solution, they can reduce the time needed for manual sample collection by 66% which can lead to savings of $9,600 in labor costs per year.
 
 Shell is another industry leader that is open to innovations. Today the company has about 100 AI apps that are currently at different stages of development. For example, Shell relies on AI in asset performance optimization. The introduced solution can use the data received from hardware sensors for calculating the optimal parameters that will ensure safety and efficiency. This data can be also used by AI to reduce carbon emissions. The solution of this type is being applied at Shell's Liquefied natural gas (LNG) facilities and helps to reduce CO2 emissions by 355 tons daily. It is interesting to mention that this can result in reductions of 130 kilotons per year and this figure is equivalent to the effect of taking 28K vehicles off the roads in the US.
 
@@ -147,7 +147,6 @@ Risk-taking, experimentation, adaptability, and continuous learning should becom
 Before implementing any AI for oil and gas business, managers should clearly define areas where AI can be of great use and prepare the existing workflows and processes for the introduction of new solutions. Only when every team member clearly understands the role of new solutions in his or her work as well as in the functioning of the entire enterprise in general, it is possible to expect any positive outcomes of digitalization and AI adoption.
 
 ## AI and complementary technologies
-
 
 AI is a technology that has enormous potential for dealing with an extremely wide range of tasks across many industries. But it shouldn't be considered only in isolation. To achieve the highest results, AI and ML can be combined with other advanced technologies.
 
