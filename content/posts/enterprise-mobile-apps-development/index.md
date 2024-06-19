@@ -183,7 +183,7 @@ Cons:
 * Heavy apps;
 * Time-consuming UI creation.
 
-### Flutter
+### [Flutter](https://anadea.info/services/mobile-development/flutter-development-services)
 
 It is a mobile software development framework that can be used for creating high-performance Android and iOS apps.
 
@@ -269,7 +269,7 @@ Do not hesitate to ask questions and explain your doubts! It is important to bui
 
 ## Our experience in building mobile enterprise applications
 
-In our portfolio, you can find a wide range of mobile applications that were successfully built and launched for the needs of different businesses. Given the terms of the signed NDAs, we do not have the possibility to reveal all the details of the projects. Nevertheless, we'd like to share some general information about one project. It brightly demonstrates the benefits that a mobile app can bring to businesses.
+In our [portfolio](https://anadea.info/projects), you can find a wide range of mobile applications that were successfully built and launched for the needs of different businesses. Given the terms of the signed NDAs, we do not have the possibility to reveal all the details of the projects. Nevertheless, we'd like to share some general information about one project. It brightly demonstrates the benefits that a mobile app can bring to businesses.
 
 One of our customers was a logistics company that had prominent experience in the industry but faced some issues due to the low efficiency of its obsolete business processes. The company asked us to build an app that will help it to ensure better communication with its drivers, suppliers, and clients and to optimize delivery tracking.
 
