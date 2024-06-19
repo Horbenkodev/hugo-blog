@@ -4,7 +4,7 @@ title: "Travel Agency Software: What Are the Benefits for Business?"
 breadcrumbs: Travel Agency Software Development
 slug: travel-agency-software
 draft: false
-publishDate: 2022-05-12T00:00:00Z
+publishDate: 2022-05-12T00:00:00.000Z
 image: travel_agency_spftware_development.jpg
 og_image: travel_agency_spftware_development.jpg
 description: "Check out an overview of types of travel agency software for
@@ -115,7 +115,7 @@ __Examples:__ Bookinglayer, Toogo, Rezdy.
 ## Travel Software Built by Anadea
 The theory is fine but examples from practice are more valuable. Anadea has successfully developed a range of solutions for businesses worldwide that successfully operate in their niche.
 
-### <u><a href="https://www.tripaneer.com/" target="_blank" rel="nofollow">Tripaneer</a></u>
+### <a href="https://www.tripaneer.com/" target="_blank" rel="nofollow">Tripaneer</a>
 
 ![Tripaneer travel website](tripaneer_travel_website.jpg)
 
@@ -132,9 +132,9 @@ In addition, Tripaneer allows users to __sign up as a partner__ so that travel a
 
 * __Ability to leave a review.__ Users can leave feedback about what they did or did not like about their travel experience. These reviews are then available to the public and influence the overall merchant’s rating.
 
-> Read the full case study <a href="/projects/ebookingservices" target="_blank">at the link</a>.
+{{< advert >}}Read the full case study <a href="/projects/ebookingservices" target="_blank">at the link</a>.{{< /advert >}}
 
-### <u><a href="https://www.bahamago.com/" target="_blank">BahamaGo</a></u>
+### <a href="https://www.bahamago.com/" target="_blank">BahamaGo</a>
 
 ![BahamaGo travel agency website](bahamago_travel_agency_website.jpg)
 
@@ -147,7 +147,7 @@ BahamaGo is a web tour booking system for an online travel agency that makes fin
 
 * __CMS integration.__ An advanced content management system is integrated into the portal to edit tourist packages and offers.
 
-> Visit the <a href="/projects/bahama-go" target="_blank">case study page</a> for more.
+{{< advert >}}Visit the <a href="/projects/bahama-go" target="_blank">case study page</a> for more.{{< /advert >}}
 
 ## It Is Always the Right Moment to Grow
 Whether you want to build a tour operator software to come full circle or a tool to automate only one facet of your travel agency operations, you have already made your first step towards digitalization. Perhaps you have tried using some popular out-of-the-box travel management software solutions like Bookinglayer or Toogo. We will gladly help you build a custom one tailored to your needs in case these products lack something or contain features you need not.
