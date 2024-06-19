@@ -14,18 +14,17 @@ description: "Design involves the entire process of creating components:
 promote:
   promote: false
 top: false
-authors:
-  - anastasiya-bakuta
-categories:
-  - development
+authors: []
+categories: []
 industries: []
 ---
 ## What is atomic design?
 
 In 2013, Brad Frost revolutionized the world of web application design with his article on <a href="https://bradfrost.com/blog/post/atomic-web-design/" rel="nofollow" target="_blank">atomic design</a>. The preface to his article reflects the trend of recent years in software development:
 
-> "We are not designing pages, we are designing systems of components."
-> ~ Stephen Hay
+> We are not designing pages, we are designing systems of components.
+
+— Stephen Hay
 
 Design involves the entire process of creating components: starting from design, going through layout to complete isolation of components in the frontend. Modern JS libraries and frameworks enthusiastically accepted these ideas: react, angular, styled-components, bootstrap.
 
