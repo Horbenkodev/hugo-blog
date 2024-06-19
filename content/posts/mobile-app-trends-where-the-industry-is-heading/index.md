@@ -3,7 +3,7 @@ title: "Mobile App Trends in 2023: Where the Industry is Heading"
 breadcrumbs: " Mobile App Development Trends"
 slug: mobile-app-trends-where-the-industry-is-heading
 draft: false
-publishDate: 2021-11-26T00:00:00Z
+publishDate: 2021-11-26T00:00:00.000Z
 image: woman-checks-results-fitness-training-smartwatch-listens-music-via-headphones-dressed-anorak-poses-blurred_1_.jpg
 og_image: woman-checks-results-fitness-training-smartwatch-listens-music-via-headphones-dressed-anorak-poses-blurred_1_.jpg
 description: What's up with the mobile app industry? Where is it heading? What
@@ -30,7 +30,7 @@ This one is absolutely no surprise. AI is widely used in mobile development for 
 ### No-Code and Low-Code Development
 No-Code and Low-Code Development Platforms (NCDP/LCDP) allow even non-programmers to get closer to the craft of web and mobile development. The No-Code technology translates the regular code to a __drag-and-drop solution__ easily perceived by anyone not quite related to programming with allegedly no need to refer to an <a href="https://anadea.info/services/mobile-development" target="_blank">app building company</a>. This method is a response to the colossal popularity of custom mobile apps development: people want them instantly and they’d gladly skip the step of learning all the necessary programming languages, as well as searching for the right software development team. This makes No-Code and Low-Code one of the leading trends in mobile development in 2023.
 
-{{< advert >}}Related read: <a https://anadea.info/guides/custom-development-vs-app-builders" target="_blank">Custom Mobile Development vs App Builder: Which to Choose</a>{{< /advert >}}
+{{< advert >}}Related read: <a href="https://anadea.info/guides/custom-development-vs-app-builders" target="_blank">Custom Mobile Development vs App Builder: Which to Choose</a>{{< /advert >}}
 
 ### Apps for Flip Phones
 
