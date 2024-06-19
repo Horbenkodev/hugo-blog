@@ -18,15 +18,20 @@ categories: []
 industries: []
 questionary:
   - question: What are SaaS architecture best practices?
-    answer: "There is no universal solution for creating a successful SaaS solution.
+    answer: >-
+      There is no universal solution for creating a successful SaaS solution.
       Each case should be viewed individually but based on our experience, we
       can share some key recommendations with you. Below you can find the points
       that you need to take into account if you want to create a SaaS platform:
-      * Provide customization and personalization options * Pay attention to the
-      security of sensitive users’ data * Ensure scalability * Offer flexible
-      payment plans * Track the performance of your solution on a regular basis
-      and timely update it * Try to minimize any possible downtime * Ensure
-      regulatory compliance"
+              <ul>
+                  <li>Provide customization and personalization options</li>
+                  <li>Pay attention to the security of sensitive users’ data</li>
+                  <li>Ensure scalability</li>
+                  <li>Offer flexible payment plans</li>
+                  <li>Track the performance of your solution on a regular basis and timely update it</li>
+                  <li>Try to minimize any possible downtime</li>
+                  <li>Ensure regulatory compliance</li>
+              </ul>
   - question: Which SaaS architecture is the best?
     answer: Unfortunately, nobody can offer you a single formula. There are no
       “one-size-fits-all” solutions. However, with a thorough preliminary
