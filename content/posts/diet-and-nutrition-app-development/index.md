@@ -178,7 +178,7 @@ To create a diet analysis app, you can either hire a freelancer, employ develope
 
 From our experience, there are many ways clients decide which diet planner app development company to work with. Some see relevant case studies in its portfolio and ultimately make a decision, others put down a similar letter and send it over to several companies to judge on their professionalism and communication skills. Recommended ways to choose a contractor are listed in the above-mentioned article. If you’ve never worked with an outsourcing company before, here’s what usually happens after you leave a message in the contact form.
 
-{{< advert_with_cta title="Your perfect development ally is one click away!" description="Press the button to schedule quick call" button="Contact us" >}}
+{{< advert_with_cta title="Your perfect development ally is one click away!" description="Press the button to schedule a quick call" button="Contact us" >}}
 
 * Having received your request, the Sales Manager gets back to you to know more about your project.
 * With the details you provide, Business Analysts and Software Engineers draw a request for proposal listing the work scope, team composition, as well as estimated duration and cost to make an application.
