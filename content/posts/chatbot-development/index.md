@@ -222,7 +222,7 @@ With the growing adoption of modern technologies, people are more eager to inter
 
 **Aditya Bhasin**, Chief Technology & Information Officer, in his statement made in October 2022 explained:
 
-{{< advert >}}Bank of America has invested $3 billion or more on new technology initiatives each year for over a decade, including significant investments in AI that allow us to deliver a seamless user experience and industry-leading personalization for our clients banking online or on their mobile devices.{{< /advert >}}
+> Bank of America has invested $3 billion or more on new technology initiatives each year for over a decade, including significant investments in AI that allow us to deliver a seamless user experience and industry-leading personalization for our clients banking online or on their mobile devices.
 
 ![Virtual financial assistant app screen](erica.png)
 
