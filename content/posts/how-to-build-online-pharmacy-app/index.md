@@ -4,7 +4,7 @@ title: How to Create an Online Pharmacy App?
 breadcrumbs: Online Pharmacy App Development
 slug: how-to-build-online-pharmacy-app
 draft: false
-publishDate: 2023-03-01T00:00:00Z
+publishDate: 2023-03-01T00:00:00.000Z
 image: pharmacy-app.png
 og_image: pharmacy-app-socials.png
 description: If you are interested in online pharmacy app development, read this
@@ -13,7 +13,8 @@ description: If you are interested in online pharmacy app development, read this
 promote:
   promote: false
 top: false
-authors: []
+authors:
+  - mobile-development-team
 categories:
   - business
 industries:
