@@ -2,6 +2,7 @@
   "team": false,
   "avatar": "/img/avatars/alexey_kudryashov.jpg",
   "title": "Alexey Kudryashov",
-  "description": "",
-  "shortDescription": ""
+  "description": "Backend virtuoso and refactoring enthusiast. Alexey, our backend developer, transforms complex codebases with a masterful touch. He simplifies the intricate, polishes the rough, and optimizes every function.",
+  "shortDescription": "",
+  "position": "Back-end Developer"
 }
