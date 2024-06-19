@@ -4,7 +4,7 @@ title: " Ideas for Apps to Develop"
 breadcrumbs: Best Ideas for App Development
 slug: what-app-to-build-app-ideas
 draft: false
-publishDate: 2022-06-10T00:00:00Z
+publishDate: 2022-06-10T00:00:00.000Z
 image: thinking-face.png
 og_image: thinking-face.png
 description: Great ideas for app startups with examples from a software
@@ -15,7 +15,6 @@ top: false
 authors:
   - mobile-development-team
 categories:
-  - mobile
   - app-ideas
 industries: []
 ---
@@ -50,7 +49,7 @@ Eventually, what apps to create? We prepared a comprehensive listing for you.
 
 Mind there are apps falling into several categories at a time. We decided not to eliminate repetitions in case you are only interested in one category and do not read the whole article.
 
-### <u><a href="https://anadea.info/services/machine-learning-software-development" target="_blank">AI/ML driven app</a></u>
+### <a href="https://anadea.info/services/machine-learning-software-development" target="_blank">AI/ML driven app</a>
 Artificial Intelligence and Machine Learning in app development are now more available than they ever were. These technologies have a great scope of applications in business and life – here are just a few of them:
 
 * Voice assistants help find information online, recognize language and music;
