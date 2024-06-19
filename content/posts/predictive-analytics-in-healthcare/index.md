@@ -55,7 +55,7 @@ Let’s get down to the basics, first. What is healthcare’s Big Data? Big Data
 
 Back in the day, all medical records were done in the traditional way of pen and paper. But with the advancement of technology, these data are now digitized and called “<a href="https://anadea.info/solutions/medical-app-development/emr-ehr-development" target="_blank">Electronic Health Records</a>” or EHR.
 
-{{< advert >}}Related read:* ***[Developing Custom EMR in Practice](https://anadea.info/blog/development-of-custom-emr-in-practice){{< /advert >}}
+{{< advert >}}Related read: <a href="https://anadea.info/blog/development-of-custom-emr-in-practice">Developing Custom EMR in Practice</a>{{< /advert >}}
 
 So how can this data help the healthcare industry through predictive analytics?
 
@@ -81,7 +81,7 @@ When everything was still done with pen and paper, medical professionals would a
 
 Data are now read faster, making it easier for <a href="https://www.designrush.com/agency/mobile-app-design-development" target="_blank">top health and fitness app developers</a> to create data-driven healthcare solutions such as new medications and treatments, and avoid preventable deaths. Data can also help in discovering new diseases, to keep them from spreading.
 
-{{< advert >}}Related read:* ***[Digital Healthcare: A New Approach to Care Coordination](https://anadea.info/blog/digital-healthcare-a-new-approach-to-care-coordination){{< /advert >}}
+{{< advert >}}Related read: <a href="https://anadea.info/blog/digital-healthcare-a-new-approach-to-care-coordination">Digital Healthcare: A New Approach to Care Coordination</a>{{< /advert >}}
 
 ### Service improvement
 
@@ -99,7 +99,7 @@ Data from predictive analytics should never be used in place of an actual prescr
 
 Data should also not be used to undermine the value of medical professionals. With the rapid growth of data in the medical field, predictive analytics should serve as an assistive tool for physicians, to help them arrive at the best possible outcomes. The challenge for doctors today is to combine traditional patient care with the data captured by the healthcare analytics.
 
-{{< advert >}}Related read:* ***[How New Healthcare Tech is Shaping Proactive Treatment](https://anadea.info/blog/how-the-next-generation-of-healthcare-tech-is-shaping-proactive-treatment){{< /advert >}}
+{{< advert >}}Related read: <a href="https://anadea.info/blog/how-the-next-generation-of-healthcare-tech-is-shaping-proactive-treatment">How New Healthcare Tech is Shaping Proactive Treatment</a>{{< /advert >}}
 
 “Doctors are increasingly finding they need to continually evolve their computing skills as technology systems become more sophisticated and are linked with the ability to read and interpret information such as pathology reports from digital sources,” <a href="https://www2.deloitte.com/us/en/insights/topics/analytics/predictive-analytics-health-care-value-risks.html" target="_blank">a Deloitte study revealed</a>.
 
