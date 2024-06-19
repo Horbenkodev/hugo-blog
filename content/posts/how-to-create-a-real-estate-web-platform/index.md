@@ -4,7 +4,7 @@ title: Website Development for Real Estate Business. What You Should Know
 breadcrumbs: Real Estate Website Development
 slug: how-to-create-a-real-estate-web-platform
 draft: false
-publishDate: 2023-01-16T00:00:00Z
+publishDate: 2023-01-16T00:00:00.000Z
 image: real_estate_website.png
 og_image: real_estate_website_socials.png
 description: Learn the tips and tricks of real website estate development so
@@ -262,19 +262,3 @@ ListingDoor is a solution for the US real estate market. This project was reques
 ![](ld_desk.png)
 
 {{< ctabutton url='https://anadea.info/contacts' >}}Request estimate{{< /ctabutton >}}
-
-## Frequently Asked Questions
-### What are the types of real estate websites?
-The most popular types of real estate websites are listings (marketplaces), investment platforms, and home-selling platforms for non-professional sellers (regular homeowners). Also, professionals offering services in the real estate field can create a website to grow their business; these professionals are, but not limited to, real estate appraisers, interior designers, constructors, real estate attorneys, etc.
-
-### How accurate are real estate websites estimates?
-Soon enough we will be dealing with robots more than we do with humans, and still, many people are concerned about the accuracy of online real estate estimates, which is perfectly understandable. But we live in a world of data and this data is constantly put to work. Reliable appraisal tools are based on constantly updated datasets and consider even the minor factors that can affect the result. For example, Zestimate by Zillow generates estimated home values based on 7.5 million statistical and machine learning models that analyze hundreds of data points on properties. Besides, the standards for the accuracy of machine learning estimation models are this high that even 90% accurate evaluations are not the limit.
-
-### How do real estate websites make money?
-The monetization model for real estate websites is usually a combination of these methods:
-
-* __Bumping up offers__, or the opportunity for users to have their announcement on top of others for a fixed amount of time;
-* __Selling ads space__, i.e. banner spots;
-* __Selling premium content__, such as articles, tips, or webinars related to real estate business;
-* __Premium plans__, which is offering users access to premium features like advanced stats or priority publication;
-* __Commissions__—the commission for using as a secure platform for payments, in case the website suggests payments processing. However, most websites for long-term rent or home buying do not imply paying on the website. They will more likely redirect to the agent’s website instead, so we do not recommend you rely heavily on this model. On the contrary, short-term rental websites allow payment processing very often.
