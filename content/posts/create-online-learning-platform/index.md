@@ -4,7 +4,7 @@ title: "From Concept to Reality: How to Create an Online Learning Platform"
 breadcrumbs: Online Learning Platform
 slug: create-online-learning-platform
 draft: false
-publishDate: 2023-04-17T00:00:00Z
+publishDate: 2023-04-17T00:00:00.000Z
 image: learning_platform.png
 og_image: learning_platform_socials.png
 description: Learn the key steps of eLearning website development to guide you
@@ -158,7 +158,7 @@ Among other methods of delivering content we can also mention:
 - Audio-based learning;
 - Textual format;
 - Downloadable materials;
-- Interactive games and quizzes (<a href="https://anadea.info/projects/stav-online" target="_blank">Stav Online</a> developed by our team can be taken as a good example of this type).;
+- Interactive games and quizzes (<a href="https://anadea.info/projects/stav-online" target="_blank">Stav Online</a> developed by our team can be taken as a good example of this type);
 - Blended learning (it combines different approaches and is based on the mixture of traditional in-person learning and eLearning).
 
 ## Types of online learning platforms
