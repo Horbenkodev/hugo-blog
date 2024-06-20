@@ -3,7 +3,7 @@ ceoTitle: "What You Should Know about Golang Performance "
 title: "Golang Performance: Why is Go’s Popularity Growing?"
 breadcrumbs: Golang Performance
 slug: golang-performance
-draft: true
+draft: false
 publishDate: 2024-06-20T14:03:00.000Z
 image: golang-performance.jpg
 og_image: golang-performance-socials.jpg
