@@ -14,7 +14,9 @@ promote:
 top: false
 authors:
   - eugene-pasko
-categories: []
+categories:
+  - security
+  - business
 industries: []
 questionary:
   - answer: "At Anadea, we offer two main options for implementing passkey in your
