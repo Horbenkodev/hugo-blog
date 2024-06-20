@@ -16,7 +16,8 @@ top: false
 authors:
   - security-team
 categories:
-  - development
+  - security
+  - business
 industries: []
 questionary:
   - question: What is a password?
