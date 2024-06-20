@@ -17,6 +17,7 @@ authors:
 categories:
   - security
   - business
+  - development
 industries: []
 questionary:
   - answer: "At Anadea, we offer two main options for implementing passkey in your
