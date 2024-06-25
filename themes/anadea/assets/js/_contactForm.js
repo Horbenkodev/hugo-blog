@@ -16,13 +16,47 @@ function addGuidField(contactForm) {
 
 function addFileNameChangeListener(contactForm) {
   const fileField = contactForm.querySelector('#file');
-  const label = contactForm.querySelector('.contacts__label');
-  const fileLabel = contactForm.querySelector('#file-label');
+  const label = contactForm.querySelector('#file-label');
+  const tooltip = contactForm.querySelector('#tooltip-error');
+  const tooltipText = contactForm.querySelector('#tooltip-error-text');
+  const deleteFile = contactForm.querySelector('#delete-attach');
+  const maxSize = 25 * 1024 * 1024;
+
+  deleteFile.addEventListener('click', (e) => {
+    e.preventDefault();
+    label.textContent = 'Attach file ';
+    label.insertAdjacentHTML('beforeend', '<span class="contacts__label--size">(— max size 25MB)</span>');
+    deleteFile.style.display = 'none';
+    fileField.value = '';
+  });
 
   fileField.addEventListener('change', (event) => {
-    const fileName = event.target.files.length > 0 ? event.target.files[0].name : 'Attach file';
-    label.textContent = fileName;
-    fileLabel.textContent = truncateText(fileName, 20);
+    const file = fileField.files[0];
+    if (event.target.files.length > 0) {
+      label.textContent = event.target.files[0].name;
+      label.textContent = truncateText(label.textContent, 20);
+      deleteFile.style.display = 'flex';
+    } else {
+      label.textContent = 'Attach file ';
+      label.insertAdjacentHTML('beforeend', '<span class="contacts__label--size">(— max size 25MB)</span>');
+    }
+
+    if (file && file.size > maxSize) {
+      tooltip.style.display = 'inline-block';
+      window.requestAnimationFrame(() => {
+        tooltipText.classList.add('contacts__tooltip--active');
+      });
+      setTimeout(() => {
+        tooltipText.classList.remove('contacts__tooltip--active');
+      }, 5000);
+      setTimeout(() => {
+        tooltip.style.display = 'none';
+      }, 5300);
+
+      fileField.value = '';
+      label.textContent = 'Attach file ';
+      label.insertAdjacentHTML('beforeend', '<span class="contacts__label--size">(— max size 25MB)</span>');
+    }
   });
 }
 
