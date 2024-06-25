@@ -1,5 +1,5 @@
 ---
-ceoTitle: What You Should Know about Golang Performance
+ceoTitle: "What You Should Know about Golang Performance "
 title: "Golang Performance: Why is Go’s Popularity Growing?"
 breadcrumbs: Golang Performance
 slug: golang-performance
