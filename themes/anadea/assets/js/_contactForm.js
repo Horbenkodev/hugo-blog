@@ -43,6 +43,7 @@ function addFileNameChangeListener(contactForm) {
 
     if (file && file.size > maxSize) {
       tooltip.style.display = 'inline-block';
+      deleteFile.style.display = 'none';
       window.requestAnimationFrame(() => {
         tooltipText.classList.add('contacts__tooltip--active');
       });

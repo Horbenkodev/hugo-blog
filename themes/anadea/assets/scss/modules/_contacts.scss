@@ -1,8 +1,10 @@
 $background-color: var(--persian-rose);
-$form-background: #111111;
+$form-background: var(--black);
 $text-color: var(--white);
-$attach-color: #cecece;
-$input-color: #706e6e;
+$attach-color: var(--alto);
+$label-color: var(--dove-gray);
+$input-color: var(--mine-shaft);
+$item-background: var(--mercury);
 
 .contacts {
   gap: 40px;
@@ -88,25 +90,43 @@ $input-color: #706e6e;
 
   &__item {
     display: flex;
-    padding: 16px 12px;
+    padding: 9px 12px;
     color: $input-color;
     resize: none;
-    background: $text-color;
-    border: none;
+    background: $item-background;
+    border: 2px solid hsl(0deg 0% 90.6% / 20%);
     border-radius: 8px;
+
+    &--textarea {
+      flex-direction: column;
+    }
+
+    &:hover,
+    &:has(.contacts__input:focus),
+    &:has(.contacts__textarea:focus) {
+      border: 2px solid $background-color;
+    }
   }
 
   &__input {
     flex: 1;
     margin-left: 12px;
     color: $input-color;
+    background-color: $item-background;
     border: none;
     outline: none;
+
+    &:-webkit-autofill {
+      background-color: transparent;
+      transition: background-color 5000s ease-in-out 0s;
+    }
   }
 
   &__textarea {
-    min-height: 144px;
+    resize: none;
+    background-color: $item-background;
     border: none;
+    outline: none;
   }
 
   &__file {
@@ -114,13 +134,13 @@ $input-color: #706e6e;
   }
 
   &__label {
-    position: relative;
-    width: fit-content;
-    margin-left: auto;
-    color: $attach-color;
+    color: $label-color;
     cursor: pointer;
 
     &--attach {
+      margin-left: auto;
+      color: $attach-color;
+
       &::before {
         display: inline-block;
         margin-right: 8px;
@@ -142,7 +162,7 @@ $input-color: #706e6e;
     }
 
     &--size {
-      color: $input-color;
+      color: $label-color;
     }
   }
 
