@@ -29,7 +29,7 @@ collections:
       - {label: "Breadcrumbs", name: "breadcrumbs", widget: "string", required: false}
       - {label: "Slug", name: "slug", widget: "string", required: false}
       - {label: "Draft", name: "draft", widget: "boolean", default: false}
-      - {label: "Publish Date", name: "publishDate", widget: "datetime", default: ""}
+      - {label: "Publish Date", name: "publishDate", widget: "datetime", default: "", format: "YYYY-MM-DDTHH:mm:ssZ" }
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Og Image", name: "og_image", widget: "image", required: false}
       - {label: "Description", name: "description", widget: "text"}
