@@ -53,8 +53,6 @@ Machine learning is a subset of AI. It lets machines and programs learn and enha
 
 To analyze data and make decisions, ML relies on specifically written algorithms. ML models are the result of what the solution has learned from the training data. The better and more consistent data is used, the better the results will be.
 
-As you can understand from our explanation, artificial intelligence is the broader concept, while machine learning is a branch of AI.
-
 <table>
  <tr>
         <th></th>
@@ -82,6 +80,8 @@ As you can understand from our explanation, artificial intelligence is the broad
         <td>ML systems rely on statistical models.</td>
     </tr>
 </table>
+
+As you can understand from our explanation, artificial intelligence is the broader concept, while machine learning is a branch of AI.
 
 {{< advert_with_cta title="Interested in AI implementation?" description="Contact us and get a consultation from top AI experts" button="Book a consultation" >}}
 
