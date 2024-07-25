@@ -42,7 +42,7 @@ questionary:
 ---
 Today to learn something new, it’s not always required to attend traditional lessons. Quite often, it will be enough just to download a relevant mobile app and enjoy the process: study materials in various interactive formats, play games, test your knowledge in quizzes and compete with other users for the first positions on the leaderboard. [eLearning mobile app development](https://anadea.info/solutions/e-learning-software-development/m-learning) helps education become more digital and less formal. In this article, we are going to share our expertise in this sphere and provide practical tips for those who have plans to launch a custom e-learning mobile application.
 
-## Mobile learning apps: Market overview
+## Mobile learning apps: Market overview 
 
 While paper notebooks and traditional textbooks are losing their popularity, digital solutions are gradually winning a bigger market share. One of the main factors behind this trend is the convenience that learning at any place and at any time can offer.
 
