@@ -21,4 +21,3 @@ curl -sSL "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/h
 ENV PATH=$PATH:/usr/local/dart-sass
 
 WORKDIR /app
-COPY ./ /app
