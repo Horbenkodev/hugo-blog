@@ -1,0 +1,13 @@
+node_modules
+.history
+.vscode
+.idea
+.git
+resources
+static
+.editorconfig
+.dockerignore
+.hugo_build.lock
+.ls-lint.yml
+.lintstagedrc.json
+.prettierrc

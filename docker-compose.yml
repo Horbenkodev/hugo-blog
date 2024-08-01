@@ -1,0 +1,17 @@
+networks:
+  anadea:
+    name: blog
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: hugo server --bind 0.0.0.0 -v --gc --minify --noHTTPCache --templateMetrics --templateMetricsHints --logLevel debug
+    restart: unless-stopped
+    ports:
+      - 1313:1313/tcp
+    volumes:
+      - $PWD:/app
+    networks:
+      - anadea
