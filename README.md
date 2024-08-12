@@ -1,24 +1,41 @@
 # Setting up your environment
 
-## Install Go on macOS
+## Dev tools
+
+### Install node dependencies
+
+```bash
+npm install
+```
+
+## Docker
+
+```bash
+docker compose build
+docker compose up
+```
+
+## No Docker
+
+### Install Go on macOS
 
 ```bash
 brew install go
 ```
 
-## Install Hugo on macOS
+### Install Hugo on macOS
 
 ```bash
 brew install hugo
 ```
 
-## Install Dart Sass on macOS
+### Install Dart Sass on macOS
 
 ```bash
 brew install sass/sass/sass
 ```
 
-### Check that everything is installed
+#### Check that everything is installed
 
 ```bash
 sass --embedded --version
@@ -50,13 +67,7 @@ github.com/sass/dart-sass/compiler="1.72.0"
 github.com/sass/dart-sass/implementation="1.72.0"
 ```
 
-## Install node dependencies
-
-```bash
-npm install
-```
-
-### Start dev server
+#### Start dev server
 
  ```bash
  npm run dev

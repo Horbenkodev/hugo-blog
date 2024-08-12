@@ -1,4 +1,2 @@
 page:
-  posts: '/:sections[1:]/:slug/'
-section:
-  posts: '/:sections[1:]/'
+  posts: '/:slug/'

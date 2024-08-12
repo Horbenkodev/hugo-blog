@@ -6,7 +6,7 @@
       <img class="header__logo desktop" alt="Anadea logo" aria-hidden="true" width="56" height="42" src="/img/logo.svg" />
     </a>
 
-    {{ $uniqID := crypto.FNV32a "Toggle" }}
+    {{ $uniqID := hash.FNV32a "Toggle" }}
     <div class="header__burger">
       <button class="burger" aria-label="Toggle menu" aria-expanded="false" aria-controls="{{ $uniqID }}">
         <div class="burger__inner"></div>

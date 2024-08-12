@@ -3,3 +3,5 @@ languageCode: en-us
 title: Blog Anadea Info
 paginate: 12
 timeout: 10m
+disableKinds:
+  - section
