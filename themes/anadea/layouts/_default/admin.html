@@ -33,7 +33,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="robots" content="noindex" />
     <title>Content Manager</title>
-    <script async defer src="/admin/decap-cms.js"></script>
+    <script async defer src="/blog/admin/decap-cms.js"></script>
   </head>
   <body>
     <script async defer>
@@ -54,7 +54,7 @@
               height: '32px',
               padding: '0 40px'
             };
-            const link = h('a', { href:"/admin/shortcodes", target:"_blank", className:"shortcodes__link" }, 'Shortcodes preview');
+            const link = h('a', { href:"/blog/admin/shortcodes", target:"_blank", className:"shortcodes__link" }, 'Shortcodes preview');
 
             return h('div', { style: { fontFamily: 'StemText', padding: '0 20px' } },
               h('h1', {}, entry.getIn(['data', 'title'])),
@@ -64,7 +64,7 @@
             );
           }
         });
-        
+
         CMS.registerPreviewStyle("{{ $application }}");
         CMS.registerPreviewStyle("{{ $post }}");
         CMS.registerPreviewTemplate("posts", PostPreview);
@@ -72,6 +72,6 @@
     </script>
 
     <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    <script defer src="/admin/custom-snippets.js"></script>
+    <script defer src="/blog/admin/custom-snippets.js"></script>
   </body>
 </html>
