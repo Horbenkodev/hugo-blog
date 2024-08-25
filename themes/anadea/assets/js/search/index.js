@@ -3,7 +3,7 @@ import { postCardHTML, noResultHTML, resetHTML } from './_templates';
 import { renderPagination } from './paginator';
 
 const PAGINATE = 12;
-const data = fetch('/index.json', { cache: 'force-cache' })
+const data = fetch('/blog/index.json', { cache: 'force-cache' })
   .then((response) => response.json())
   .then((data) => {
     return data;

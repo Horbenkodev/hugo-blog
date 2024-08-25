@@ -4,8 +4,8 @@ function initForm() {
   search.addEventListener('reset', () => {
     const pattern = new URL(document.location);
 
-    if (pattern.pathname === '/search/') {
-      window.location = '/search/';
+    if (pattern.pathname === '/blog/search/') {
+      window.location = '/blog/search/';
     }
   });
 
@@ -28,7 +28,7 @@ function initForm() {
       return;
     }
 
-    window.location = `/search/?${data.toString()}`;
+    window.location = `/blog/search/?${data.toString()}`;
   });
 }
 
