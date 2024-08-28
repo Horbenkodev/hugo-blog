@@ -103,6 +103,11 @@ function handleSubmit(e) {
     method: 'POST',
   }).then((response) => {
     console.log(response);
+    if (response.ok) {
+      window.location.href = 'https://anadea.info/contact-us-thank-you';
+    } else {
+      alert('Something went wrong! Try again later.');
+    }
   });
 }
 
@@ -115,7 +120,6 @@ function processContactForm() {
   addReferrerUrlField(contactForm);
   addFirstUrlField(contactForm);
 
-  // add remote IP field
   fetch('https://api.ipify.org?format=json')
     .then(function (response) {
       return response.json();
