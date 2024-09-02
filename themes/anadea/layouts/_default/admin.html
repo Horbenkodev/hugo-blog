@@ -33,10 +33,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="robots" content="noindex" />
     <title>Content Manager</title>
-    <script async defer src="/blog/admin/decap-cms.js"></script>
-  </head>
-  <body>
-    <script async defer>
+    <script defer src="/blog/admin/decap-cms.js"></script>
+    <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script defer src="/blog/admin/custom-snippets.js"></script>
+    <script>
       window.addEventListener('load', function() {
         const PostPreview = createClass({
           render: function() {
@@ -55,7 +55,7 @@
               padding: '0 40px'
             };
             const link = h('a', { href:"/blog/admin/shortcodes", target:"_blank", className:"shortcodes__link" }, 'Shortcodes preview');
-
+  
             return h('div', { style: { fontFamily: 'StemText', padding: '0 20px' } },
               h('h1', {}, entry.getIn(['data', 'title'])),
               h('img', { src: bg.toString(), style: { maxWidth: '100%' } }),
@@ -64,14 +64,13 @@
             );
           }
         });
-
+  
         CMS.registerPreviewStyle("{{ $application }}");
         CMS.registerPreviewStyle("{{ $post }}");
         CMS.registerPreviewTemplate("posts", PostPreview);
       });
     </script>
-
-    <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    <script defer src="/blog/admin/custom-snippets.js"></script>
+  </head>
+  <body>
   </body>
 </html>
