@@ -7,10 +7,11 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    command: hugo server --bind 0.0.0.0 -v --gc --minify --noHTTPCache --disableFastRender --renderToMemory --templateMetrics --templateMetricsHints --logLevel debug
+    command: npm run dev
     restart: unless-stopped
     ports:
       - 1313:1313/tcp
+      - 8081:8081/tcp
     volumes:
       - $PWD:/app
     networks:

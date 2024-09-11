@@ -99,7 +99,7 @@ collections:
         name: "avatar"
         widget: "image"
         required: false
-        default: '/img/default-avatar-icon.svg'
+        default: '/img/avatars/0-default-avatar-icon.svg'
         media_folder: "/assets/img/avatars"
         public_folder: "/img/avatars"
       - {label: "Description", name: "description", widget: "text"}
@@ -122,7 +122,7 @@ collections:
         name: "avatar"
         widget: "image"
         required: false
-        default: '/img/default-avatar-icon.svg'
+        default: '/img/avatars/0-default-avatar-icon.svg'
         media_folder: "/assets/img/avatars"
         public_folder: "/img/avatars"
       - {label: "Link", name: "link", widget: "string", }

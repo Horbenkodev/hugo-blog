@@ -220,7 +220,7 @@ You should consider cross-platform app development when:
 * Consistency across platforms is crucial;
 * You have a limited budget.
 
-{{< advert >}}Related read: <a hrefs="https://anadea.info/blog/native-vs-cross-platform-app-development">Native vs Cross-Platform App Development: Our Practical Experience</a>{{< /advert >}}
+{{< advert >}}Related read: <a href="https://anadea.info/blog/native-vs-cross-platform-app-development">Native vs Cross-Platform App Development: Our Practical Experience</a>{{< /advert >}}
 
 ## Tech stack for e-learning mobile app development
 

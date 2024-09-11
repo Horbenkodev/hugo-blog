@@ -1,5 +1,6 @@
-baseURL: https://blog.anadea.info
+baseURL: https://anadea.info/blog
 languageCode: en-us
 title: Blog Anadea Info
 paginate: 12
 timeout: 10m
+publishDir: public/blog
