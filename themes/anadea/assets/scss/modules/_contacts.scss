@@ -1,8 +1,10 @@
 $background-color: var(--persian-rose);
-$form-background: #111111;
+$form-background: var(--black);
 $text-color: var(--white);
-$attach-color: #cecece;
-$input-color: #706e6e;
+$attach-color: var(--alto);
+$label-color: var(--dove-gray);
+$input-color: var(--mine-shaft);
+$item-background: var(--mercury);
 
 .contacts {
   gap: 40px;
@@ -19,6 +21,48 @@ $input-color: #706e6e;
   &__title {
     margin: 0;
     font-size: 28px;
+  }
+
+  &__tooltip {
+    &--icon {
+      margin-top: 4px;
+      margin-right: 8px;
+    }
+
+    &--text {
+      position: absolute;
+      right: 8px;
+      bottom: 0;
+      z-index: 1;
+      display: flex;
+      align-items: flex-start;
+      width: 230px;
+      padding: 5px 0;
+      font-size: 14px;
+      line-height: 20px;
+      color: #242424;
+      background-color: #ffffff;
+      border-radius: 4px;
+      box-shadow: 0 4px 5.5px 0 rgb(0 0 0 / 25%);
+      opacity: 0;
+      transition: all 0.3s ease-in-out;
+
+      &::after {
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        content: '';
+        border: 5px solid transparent;
+        border-top-color: #ffffff;
+      }
+    }
+
+    &--active {
+      bottom: 36px;
+      padding: 8px;
+      margin-left: -5px;
+      opacity: 1;
+    }
   }
 
   &__logo {
@@ -46,25 +90,43 @@ $input-color: #706e6e;
 
   &__item {
     display: flex;
-    padding: 16px 12px;
+    padding: 9px 12px;
     color: $input-color;
     resize: none;
-    background: $text-color;
-    border: none;
+    background: $item-background;
+    border: 2px solid hsl(0deg 0% 90.6% / 20%);
     border-radius: 8px;
+
+    &--textarea {
+      flex-direction: column;
+    }
+
+    &:hover,
+    &:has(.contacts__input:focus),
+    &:has(.contacts__textarea:focus) {
+      border: 2px solid $background-color;
+    }
   }
 
   &__input {
     flex: 1;
     margin-left: 12px;
     color: $input-color;
+    background-color: $item-background;
     border: none;
     outline: none;
+
+    &:-webkit-autofill {
+      background-color: transparent;
+      transition: background-color 5000s ease-in-out 0s;
+    }
   }
 
   &__textarea {
-    min-height: 144px;
+    resize: none;
+    background-color: $item-background;
     border: none;
+    outline: none;
   }
 
   &__file {
@@ -72,18 +134,35 @@ $input-color: #706e6e;
   }
 
   &__label {
-    width: fit-content;
-    margin-left: auto;
-    color: $attach-color;
+    color: $label-color;
     cursor: pointer;
 
     &--attach {
+      margin-left: auto;
+      color: $attach-color;
+
       &::before {
         display: inline-block;
         margin-right: 8px;
         content: url('/blog/img/contact-form-clip.svg');
         transform: rotate(225deg);
       }
+    }
+
+    &--deleteIcon {
+      height: fit-content;
+      cursor: pointer;
+      background: transparent;
+      border: 0;
+      transition: all 0.3s ease;
+
+      &:hover svg path {
+        stroke: $background-color;
+      }
+    }
+
+    &--size {
+      color: $label-color;
     }
   }
 

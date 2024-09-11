@@ -9,8 +9,7 @@
       </svg>
       <h2 class="contacts__title">Contact us</h2>
       <p class="contacts__paragraph">
-        Whether you’re looking to build an MVP, create a web design for your site, develop a mobile app or complex IT
-        system - tell us about your project. We will give you a quote and advice.
+        Let's explore how our expertise can help you achieve your goals! Drop us a line, and we'll get back to you shortly.
       </p>
     </div>
   </div>
@@ -24,20 +23,37 @@
       autocomplete="off"
     />
       <div class="contacts__item">
-        <label for="name">Your name*</label>
+        <label class="contacts__label" for="name">Your name*</label>
         <input class="contacts__input" id="name" required="required" aria-required="true" type="text" name="name" />
       </div>
       <div class="contacts__item">
-        <label for="email">Your E-mail*</label>
+        <label class="contacts__label" for="email">Your E-mail*</label>
         <input class="contacts__input" id="email" required="required" aria-required="true" type="email" name="email" />
       </div>
       <div class="contacts__item">
-        <label for="phone">Phone number</label>
+        <label class="contacts__label" for="phone">Phone number</label>
         <input class="contacts__input" id="phone" name="phone" type="tel" />
       </div>
-      <textarea class="contacts__item contacts__textarea" placeholder="Description*" minlength="20" required="required" aria-required="true" name="message"></textarea>
-      <label class="contacts__label contacts__label--attach" id="file-label" for="file">Attach file</label>
-      <input class="contacts__file" id="file" multiple="multiple" data-size="500" type="file" name="attachments[]" />
+      <div class="contacts__item contacts__item--textarea">
+        <label class="contacts__label" for="description">Description*</label>
+        <textarea class="contacts__textarea" id="description" minlength="20" required="required" rows="5" aria-required="true" name="message"></textarea>
+      </div>
+      <div style="display: flex; position: relative; align-items: end;">
+        <div id="tooltip-error" class="contacts__tooltip" style="display: none;">
+          <div id="tooltip-error-text" class="contacts__tooltip--text">
+            <img class="contacts__tooltip--icon" alt="alert-circle" width="16" height="16" src="/img/alert-circle.svg">
+            <span>You can’t upload a file larger than 25 MB. Please upload a smaller file.</span>
+          </div>
+        </div>
+        <label class="contacts__label contacts__label--attach" id="file-label" for="file">
+          Attach a file <span class="contacts__label--size">(— max size 25MB)</span></label>
+        <input class="contacts__file" id="file" multiple="multiple" data-size="25" type="file" name="attachments[]" />
+        <button id="delete-attach" class="contacts__label--deleteIcon" style="display: none;">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+            <path stroke="#CECECE" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18 6 6 18M6 6l12 12"></path>
+          </svg>
+        </button>
+      </div>
       <div class="contacts__subscribe">
         <input name="subscribe" type="hidden" value="0" autocomplete="off" />
         <input class="contacts__checkbox" type="checkbox" name="subscribe" value="1" id="subscribe" checked />
