@@ -133,4 +133,4 @@ function handleCustomSnippet() {
   });
 }
 
-window.addEventListener('load', handleCustomSnippet, { once: true });
+window.addEventListener('load', handleCustomSnippet);
