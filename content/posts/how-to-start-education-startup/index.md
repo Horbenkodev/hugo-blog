@@ -3,7 +3,7 @@ title: How to Build an Online Education Startup
 breadcrumbs: How to Start Education Startup
 slug: how-to-start-education-startup
 draft: false
-publishDate: 2021-04-23T00:00:00Z
+publishDate: 2021-04-23T00:00:00.000Z
 image: edtech-startup.jpg
 og_image: edtech-startup.jpg
 description: Here you can find the guide on how to start your educational
@@ -52,7 +52,7 @@ __What kind of solution do you need - web or mobile?__
 And here you are at the crossroad of deciding whether to start with a web application or a mobile application. If your goals are to deliver content and establish a broad presence that can be easily maintained, shared between users, and found on search engines, then a mobile-friendly responsive website is a fine choice.
 
 If your goal is to provide a user experience that needs access to a user's phone storage and native functions (GPS, camera, push notifications, offline access, etc.) you’d better opt for a mobile app.
-All these technical aspects may be complicated for perception and to decide for sure it can be helpful to consult with an <a href="https://anadea.info/free-project-estimate" target="_blank">elearning app development company</a>.
+All these technical aspects may be complicated for perception and to decide for sure it can be helpful to consult with an <a href="https://anadea.info/free-project-estimate" target="_blank">eLearning software development company</a>.
 
 ## Step 2: Do market research
 
