@@ -41,7 +41,7 @@ See the supplement and full list of winners on the awards page and the Private E
 
 ## About Anadea
 
-Anadea is a custom [software development company](https://anadea.info/) with a solid know-how in creating web and mobile applications for the education sector. Through years in the IT business, we’ve gained extensive technical and business experience in [e-learning software development](https://anadea.info/solutions/e-learning-software-development).
+Anadea is a custom [software development company](https://anadea.info/) with a solid know-how in creating web and mobile applications for the education sector. Through years in the IT business, we’ve gained extensive technical and business experience in [eLearning software development](https://anadea.info/solutions/e-learning-software-development).
 
 Having an in-house team of experts in the fields of software engineering, design and quality assurance gives us the agility to adapt to the specific needs of your project and to ensure the delivery of high-quality software. We believe that every project requires a solution tailored specifically to the needs and requirements of the educators and learners for whom the application is being built.
 
