@@ -1,6 +1,6 @@
 ---
 ceoTitle: "Retail Automation: How You Can Benefit from It"
-title: Name How to Boost Your Business Growth with Retail Automation
+title: How to Boost Your Business Growth with Retail Automation
 breadcrumbs: Retail Automation
 slug: retail-automation
 draft: false
