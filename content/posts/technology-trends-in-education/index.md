@@ -4,7 +4,7 @@ title: "Newest Trends in Education: Which EdTech Trends to Pursue?"
 breadcrumbs: Newest Trends in Education
 slug: technology-trends-in-education
 draft: false
-publishDate: 2019-11-28T00:00:00Z
+publishDate: 2019-11-28T00:00:00.000Z
 image: Current-trends-and-issues-in-educational-technology.jpg
 og_image: Current-trends-and-issues-in-educational-technology.jpg
 description: Globally, the education sector as a whole is undergoing massive
@@ -138,7 +138,7 @@ Performance Support Tools (PST) represent a whole set of apps, devices, plugins,
 Each of these tools has its own pros and cons, but the combination of all features can really improve the possibilities of eLearning.
 
 ### Conclusions
-The EdTech space presents a wealth of exciting opportunities for businesses big and small to develop educational technology as a product or service. Being an [EdTech software company](https://anadea.info/solutions/e-learning-software-development) with decades of experience, we understand the current technological trends in teaching and learning. We leverage this knowledge to create effective EdTechnology solutions for our clients. Contact us to get more information.
+The EdTech space presents a wealth of exciting opportunities for businesses big and small to develop educational technology as a product or service. Being an [eLearning software development company](https://anadea.info/solutions/e-learning-software-development) with decades of experience, we understand the current technological trends in teaching and learning. We leverage this knowledge to create effective EdTechnology solutions for our clients. Contact us to get more information.
 
 <script type="application/ld+json">
 {
