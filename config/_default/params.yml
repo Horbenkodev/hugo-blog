@@ -10,4 +10,4 @@ deviceSizes:
   - 1200
   - 1600
   - 1920
-indexing: false
+indexing: true
