@@ -9,7 +9,7 @@ description: "The Electric Car Scheme project, developed in collaboration with
   buy electric cars more cheaply. "
 promote:
   promote: true
-  promote_url: https://marketbusinessnews.com/big-ecological-deal-for-small-businesses-the-electric-car-schemes-business-model/320785/
+  promote_url: https://anadea.info/client-interviews/the-electric-car-scheme
 top: false
 authors:
   - marketing-team
