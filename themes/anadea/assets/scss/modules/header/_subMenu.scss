@@ -7,7 +7,7 @@
   &__shell {
     display: grid;
     grid-template-columns: auto 700px;
-    gap: 74px;
+    gap: 100px;
     padding: 30px 0;
   }
 
@@ -17,6 +17,10 @@
     grid-gap: 0 90px;
     padding-top: 15px;
     padding-left: 18px;
+  }
+
+  &__list {
+    line-height: 1.2;
   }
 
   &__itemsColumn {
@@ -44,7 +48,7 @@
   &__subItem {
     font-size: 12px;
     line-height: 16px;
-    color: var(--alto);
+    color: #d3d3d3;
     text-decoration: none;
 
     &:not(:last-child)::after {

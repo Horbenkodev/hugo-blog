@@ -87,6 +87,6 @@ function mobileMenuToggle() {
   });
 }
 
-document.addEventListener('DOMContentLoaded', mobileMenuToggle);
+document.addEventListener('DOMContentLoaded', mobileMenuToggle, { once: true });
 document.addEventListener('DOMContentLoaded', menuHover, { once: true });
 document.addEventListener('DOMContentLoaded', burgerToggler, { once: true });
