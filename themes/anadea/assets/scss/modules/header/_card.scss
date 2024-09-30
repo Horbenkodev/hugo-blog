@@ -1,0 +1,50 @@
+.card {
+  position: relative;
+  width: fit-content;
+  height: fit-content;
+
+  &__container {
+    display: flex;
+    width: fit-content;
+    height: fit-content;
+    overflow: hidden;
+    border-radius: 5px;
+  }
+
+  &__title {
+    margin: 0;
+    font-size: 16px;
+    line-height: 24px;
+    text-decoration: none;
+  }
+
+  &__subtitle {
+    margin: 0;
+    font-size: 12px;
+    line-height: 16px;
+  }
+
+  &__content {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin: 30px 24px;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 20px;
+    color: var(--white);
+    transition: opacity 0.3s;
+  }
+
+  &__image {
+    width: 362px;
+    transition:
+      transform 0.8s,
+      opacity 0.5s;
+
+    &:hover {
+      transform: scale(1.1) translate(-4%, 4%);
+    }
+  }
+}

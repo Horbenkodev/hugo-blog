@@ -1,6 +1,21 @@
 $header-height-mobile: 52px;
 $header-height-desktop: 74px;
 
+.hover {
+  &__block {
+    display: none;
+
+    &__container {
+      position: absolute;
+      top: 74px;
+      left: 0;
+      z-index: 10;
+      width: 100%;
+      background-color: var(--dark-gray);
+    }
+  }
+}
+
 .header {
   --background-color: var(--dark-gray);
   --text-color: var(--white);
@@ -36,7 +51,7 @@ $header-height-desktop: 74px;
     border-bottom: 2px solid var(--accent-color);
   }
 
-  &__menu {
+  &__mobileMenu {
     position: absolute;
     top: $header-height-mobile;
     right: 0;
@@ -44,6 +59,7 @@ $header-height-desktop: 74px;
     width: 100%;
     height: 100%;
     padding: 50px 20px 14px;
+    overflow: auto;
     visibility: hidden;
     background: var(--background-color);
     opacity: 0;
@@ -53,6 +69,10 @@ $header-height-desktop: 74px;
       opacity: 1;
       transition: all 0.3s;
     }
+  }
+
+  &__menu {
+    display: none;
   }
 
   &__callToAction {
@@ -88,9 +108,15 @@ $header-height-desktop: 74px;
   }
 }
 
+@media screen and (width <= 1199px) {
+  .hover__block__container {
+    display: none !important;
+  }
+}
+
 @include sm {
   .header {
-    &__menu {
+    &__mobileMenu {
       max-width: 400px;
     }
   }
@@ -126,7 +152,7 @@ $header-height-desktop: 74px;
     }
 
     &__menu {
-      position: initial;
+      position: inherit;
       display: flex;
       width: auto;
       max-width: initial;

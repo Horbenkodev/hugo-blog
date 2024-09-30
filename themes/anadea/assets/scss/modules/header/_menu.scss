@@ -16,7 +16,10 @@
   &__link {
     display: inline-flex;
     padding: 16px 0;
+    color: var(--white);
     text-decoration: none;
+    background: none;
+    border: none;
   }
 }
 

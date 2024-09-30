@@ -1,5 +1,5 @@
 @use 'sass:math';
-$burger-width: 28px;
+$burger-width: 22px;
 $cross-with: math.hypot($burger-width, $burger-width);
 
 .burger {
