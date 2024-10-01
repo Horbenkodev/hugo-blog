@@ -37,13 +37,16 @@ function burgerToggler() {
 }
 
 function menuHover() {
+  const hoverBlocks = document.querySelectorAll('.hover__block__container');
+  const menuItems = document.querySelectorAll('.menu__item');
+
   function hideAllHoverBlocks() {
-    document.querySelectorAll('.hover__block__container').forEach((block) => {
+    hoverBlocks.forEach((block) => {
       block.style.display = 'none';
     });
   }
 
-  document.querySelectorAll('.menu__item').forEach((item) => {
+  menuItems.forEach((item) => {
     item.addEventListener('mouseenter', (event) => {
       hideAllHoverBlocks();
 
@@ -56,13 +59,14 @@ function menuHover() {
     });
   });
 
-  document.querySelectorAll('.hover__block__container').forEach((container) => {
+  hoverBlocks.forEach((container) => {
     container.addEventListener('mouseleave', hideAllHoverBlocks);
   });
 }
 
 function mobileMenuToggle() {
   const menuItems = document.querySelectorAll('.mobileMenu__item');
+  const subMenus = document.querySelectorAll('.mobileMenu__subMenu');
 
   menuItems.forEach((item) => {
     item.addEventListener('click', (event) => {
@@ -71,17 +75,12 @@ function mobileMenuToggle() {
 
       const isActive = currentItem.classList.contains('mobileMenu__item--isActive');
 
-      document.querySelectorAll('.mobileMenu__subMenu').forEach((menu) => {
-        menu.classList.remove('mobileMenu__subMenu--isActive');
-      });
-
+      subMenus.forEach((menu) => menu.classList.remove('mobileMenu__subMenu--isActive'));
       menuItems.forEach((button) => button.classList.remove('mobileMenu__item--isActive'));
 
-      if (!isActive) {
-        if (subMenu && subMenu.classList.contains('mobileMenu__subMenu')) {
-          subMenu.classList.add('mobileMenu__subMenu--isActive');
-          currentItem.classList.add('mobileMenu__item--isActive');
-        }
+      if (!isActive && subMenu && subMenu.classList.contains('mobileMenu__subMenu')) {
+        subMenu.classList.add('mobileMenu__subMenu--isActive');
+        currentItem.classList.add('mobileMenu__item--isActive');
       }
     });
   });
