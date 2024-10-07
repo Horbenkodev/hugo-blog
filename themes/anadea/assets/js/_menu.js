@@ -46,15 +46,27 @@ function menuHover() {
     });
   }
 
+  function toggleHoverBlock(item) {
+    const blockType = item.getAttribute('data-hover-block');
+    const targetBlock = document.getElementById(blockType);
+
+    if (targetBlock) {
+      if (targetBlock.style.display === 'block') {
+        targetBlock.style.display = 'none';
+      } else {
+        hideAllHoverBlocks();
+        targetBlock.style.display = 'block';
+      }
+    }
+  }
+
   menuItems.forEach((item) => {
     item.addEventListener('mouseenter', (event) => {
-      hideAllHoverBlocks();
-
-      const blockType = event.currentTarget.getAttribute('data-hover-block');
-      const targetBlock = document.getElementById(blockType);
-
-      if (targetBlock) {
-        targetBlock.style.display = 'block';
+      toggleHoverBlock(event.currentTarget);
+    });
+    item.addEventListener('keydown', (event) => {
+      if (event.key === 'Enter') {
+        toggleHoverBlock(event.currentTarget);
       }
     });
   });
