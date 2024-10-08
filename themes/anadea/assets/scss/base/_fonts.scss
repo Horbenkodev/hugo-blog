@@ -49,8 +49,10 @@
 }
 
 @font-face {
-  font-family: 'local_fallback';
-  src: local('Arial');
-  size-adjust: 109%;
-  descent-override: 20%;
+  font-family: 'arial_fallback';
+  src: local('Arial'), local('ArialMT');
+  size-adjust: 104.3067%;
+  ascent-override: 96.6381%;
+  descent-override: 24.1595%;
+  line-gap-override: 0%;
 }
