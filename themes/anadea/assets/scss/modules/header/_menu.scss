@@ -48,7 +48,8 @@
         border-top: 3px solid var(--accent-color);
       }
 
-      &:hover {
+      &:hover,
+      &.active {
         &::before {
           right: 18px;
           transition: right 0.3s;
@@ -60,10 +61,15 @@
       }
     }
 
-    &:has(.menu__link:hover) {
-      .menu__link:not(:hover) {
+    &:has(.menu__link.active) {
+      .menu__link {
         opacity: 0.7;
         transition: opacity 0.3s;
+      }
+
+      .menu__link.active,
+      .menu__link:hover {
+        opacity: 1;
       }
     }
   }

@@ -44,18 +44,25 @@ function menuHover() {
     hoverBlocks.forEach((block) => {
       block.style.display = 'none';
     });
+
+    menuItems.forEach((item) => {
+      item.querySelector('.menu__link').classList.remove('active');
+    });
   }
 
   function toggleHoverBlock(item) {
     const blockType = item.getAttribute('data-hover-block');
     const targetBlock = document.getElementById(blockType);
+    const link = item.querySelector('.menu__link');
 
     if (targetBlock) {
       if (targetBlock.style.display === 'block') {
         targetBlock.style.display = 'none';
+        link.classList.remove('active');
       } else {
         hideAllHoverBlocks();
         targetBlock.style.display = 'block';
+        link.classList.add('active');
       }
     }
   }
@@ -64,6 +71,7 @@ function menuHover() {
     item.addEventListener('mouseenter', (event) => {
       toggleHoverBlock(event.currentTarget);
     });
+
     item.addEventListener('keydown', (event) => {
       if (event.key === 'Enter') {
         toggleHoverBlock(event.currentTarget);
