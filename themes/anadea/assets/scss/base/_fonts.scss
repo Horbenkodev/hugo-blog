@@ -47,3 +47,10 @@
     url('/blog/fonts/wix_madefor_display/WixMadeforDisplay-ExtraBold.otf') format('otf');
   font-display: swap;
 }
+
+@font-face {
+  font-family: 'local_fallback';
+  src: local('Arial');
+  size-adjust: 109%;
+  descent-override: 20%;
+}
