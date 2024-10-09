@@ -1,17 +1,23 @@
-$title-color: var(--black);
+@mixin light {
+  --title-color: var(--black);
+}
+
+@mixin dark {
+  --title-color: var(--white);
+}
 
 .keepReading {
   &__title {
     font-size: 28px;
     font-weight: 700;
-    color: $title-color;
+    color: var(--title-color);
   }
 
   &__content {
     display: flex;
     flex-direction: column;
     gap: 40px;
-    margin-bottom: 70px;
+    margin-bottom: 160px;
   }
 }
 
@@ -26,4 +32,24 @@ $title-color: var(--black);
       grid-template-columns: 1fr 1fr 1fr;
     }
   }
+}
+
+@media (prefers-color-scheme: dark) {
+  .keepReading {
+    @include dark;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .keepReading {
+    @include light;
+  }
+}
+
+[data-theme='dark'] .keepReading {
+  @include dark;
+}
+
+[data-theme='light'] .keepReading {
+  @include light;
 }
