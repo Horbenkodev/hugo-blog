@@ -58,11 +58,13 @@ a.advertWithCTA {
     border-radius: 8px;
 
     &:hover {
+      color: $background-color;
       text-decoration: none;
       background-color: $button-hover;
     }
 
     &:active {
+      color: $background-color;
       background-color: $button-presed;
     }
   }
