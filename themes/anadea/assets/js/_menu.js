@@ -55,16 +55,18 @@ function menuHover() {
     const targetBlock = document.getElementById(blockType);
     const link = item.querySelector('.menu__link');
 
-    if (targetBlock) {
-      if (targetBlock.style.display === 'block') {
-        targetBlock.style.display = 'none';
-        link.classList.remove('active');
-      } else {
-        hideAllHoverBlocks();
-        targetBlock.style.display = 'block';
-        link.classList.add('active');
+    setTimeout(() => {
+      if (targetBlock) {
+        if (targetBlock.style.display === 'block') {
+          targetBlock.style.display = 'none';
+          link.classList.remove('active');
+        } else {
+          hideAllHoverBlocks();
+          targetBlock.style.display = 'block';
+          link.classList.add('active');
+        }
       }
-    }
+    }, 200);
   }
 
   menuItems.forEach((item) => {
