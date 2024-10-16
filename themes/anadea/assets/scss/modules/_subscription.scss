@@ -1,5 +1,6 @@
 $background-color: var(--persian-rose);
 $main-text: var(--white);
+$placeholder-color: var(--concrete);
 
 .subscription {
   padding: 16px;
@@ -20,7 +21,6 @@ $main-text: var(--white);
   &__paragraph {
     margin-top: 0;
     font-size: 16px;
-    font-weight: 300;
   }
 
   &__form {
@@ -30,15 +30,15 @@ $main-text: var(--white);
 
   &__email {
     padding: 16px 8px;
-    font-size: 18px;
-    font-weight: 300;
+    font-size: 16px;
     color: $main-text;
     background: none;
     border: none;
     border-bottom: 1px solid $main-text;
+    outline: none;
 
     &::placeholder {
-      color: $text-color;
+      color: $placeholder-color;
     }
   }
 
@@ -53,6 +53,16 @@ $main-text: var(--white);
     cursor: pointer;
     border: none;
     border-radius: 8px;
+
+    &:hover {
+      color: $background-color;
+      background-color: #f3f3f3;
+    }
+
+    &:active {
+      color: $background-color;
+      background-color: #e7e7e7;
+    }
   }
 }
 
