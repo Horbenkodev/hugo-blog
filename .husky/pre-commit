@@ -1,6 +1,5 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
-export PATH=`(zsh -c 'source ~/.zshrc > /dev/null 2>&1 && echo $PATH')`
 
 git reset .vscode
 npx --no -y lint-staged
