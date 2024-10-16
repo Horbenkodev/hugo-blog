@@ -1,4 +1,6 @@
 $background-color: var(--persian-rose);
+$button-hover: #f3f3f3;
+$button-presed: #e7e7e7;
 $text-color: var(--white);
 
 .advertWithCTA {
@@ -58,6 +60,12 @@ a.advertWithCTA {
     &:hover {
       color: $background-color;
       text-decoration: none;
+      background-color: $button-hover;
+    }
+
+    &:active {
+      color: $background-color;
+      background-color: $button-presed;
     }
   }
 }
