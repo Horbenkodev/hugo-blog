@@ -1,13 +1,6 @@
 import { parseCookie } from './utils/parseCookie';
 import { truncateText } from './utils/truncateText';
-
-function createField(name, value, contactForm) {
-  var field = document.createElement('input');
-  field.setAttribute('type', 'hidden');
-  field.setAttribute('name', name);
-  field.setAttribute('value', value);
-  contactForm.appendChild(field);
-}
+import { createField } from './utils/createField';
 
 function addGuidField(contactForm) {
   const guid = parseCookie(document.cookie)._ga;
