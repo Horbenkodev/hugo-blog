@@ -3,8 +3,8 @@
     <h2 class="subscription__title">Don't want to miss anything?</h2>
     <p class="subscription__paragraph">Subscribe and get stories like these right into your inbox.</p>
   </div>
-  <form class="subscription__form">
-    <input class="subscription__email" placeholder="Your Email*" required />
-    <input class="subscription__button" type="submit" value="Subscribe" />
+  <form class="subscription__form" id="subscription_form" enctype="multipart/form-data" accept-charset="UTF-8">
+    <input class="subscription__email" name="email" type="email" placeholder="Your Email*" required />
+    <button class="subscription__button" type="submit">Subscribe</button>
   </form>
 </section>
