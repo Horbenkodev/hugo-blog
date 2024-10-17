@@ -1,3 +1,8 @@
+[[redirects]]
+  from = "/*"
+  to = "/blog/404.html"
+  status = 404
+
 [dev]
   framework = "hugo"
   targetPort = 3000
