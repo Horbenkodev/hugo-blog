@@ -216,6 +216,16 @@ $item-background: var(--mercury);
     background-color: $background-color;
     border: none;
     border-radius: 8px;
+
+    &:hover {
+      color: $text-color;
+      background-color: #cc1b5d;
+    }
+
+    &:active {
+      color: $text-color;
+      background-color: #b50b4b;
+    }
   }
 }
 
