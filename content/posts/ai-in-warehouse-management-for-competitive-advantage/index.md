@@ -1,5 +1,5 @@
 ---
-ceoTitle: AI in Warehouse Management is Driving Profit and Efficiency
+ceoTitle: "AI in Warehouse Management: Driving Profit and Efficiency"
 title: "AI in Warehouse Management: How to Gain a Competitive Advantage"
 breadcrumbs: AI in Warehouse Management
 slug: ai-in-warehouse-management
