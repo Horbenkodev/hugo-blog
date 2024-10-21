@@ -56,9 +56,17 @@
   </div>
 
   <div class="container container__w1300">
-    {{ partial "post/questions.html" . }}
-    {{ partial "subscription.html" . }}
-    {{ partial "post/keep_reading.html" . }}
-    {{ partial "contacts.html" . }}
+    <div class="mb__160">
+      {{ partial "post/questions.html" . }}
+    </div>
+    <div class="mb__160">
+      {{ partial "subscription.html" . }}
+    </div>
+    <div class="mb__160">
+      {{ partial "post/keep_reading.html" . }}
+    </div>
+    <div class="mb__80">
+      {{ partial "contacts.html" . }}
+    </div>
   </div>
 {{ end }}
