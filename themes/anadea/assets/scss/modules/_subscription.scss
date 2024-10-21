@@ -29,7 +29,7 @@ $placeholder-color: var(--concrete);
   }
 
   &__email {
-    padding: 16px 8px;
+    padding: 16px 0;
     font-size: 16px;
     color: $main-text;
     background: none;
@@ -44,13 +44,14 @@ $placeholder-color: var(--concrete);
 
   &__button {
     width: 100%;
-    padding: 10px 0;
+    padding: 7px 0;
     margin-top: 30px;
     font-size: 18px;
     font-weight: 700;
     line-height: 34px;
     color: $background-color;
     cursor: pointer;
+    background-color: #ffffff;
     border: none;
     border-radius: 8px;
 
