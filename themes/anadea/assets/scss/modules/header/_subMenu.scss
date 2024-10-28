@@ -3,6 +3,7 @@
   width: fit-content;
   height: fit-content;
   margin: auto;
+  line-height: 16px;
 
   &__shell {
     display: grid;
@@ -52,7 +53,7 @@
     text-decoration: none;
 
     &:not(:last-child)::after {
-      padding: 0 4px;
+      padding-right: 4px;
       content: '\2022';
     }
   }
@@ -66,7 +67,7 @@
   &__seeAllButton {
     position: relative;
     display: flex;
-    grid-gap: 10px;
+    grid-gap: 6px;
     align-items: center;
     justify-content: flex-end;
     width: fit-content;
