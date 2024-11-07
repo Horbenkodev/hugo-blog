@@ -65,6 +65,8 @@ Quick fixes and workarounds may bypass best practices but often introduce comple
 
 Deliberate choices to cut corners for the sake of time or resources may help meet immediate goals but often add to technical debt. These shortcuts can compromise code quality, creating more work in the long term.
 
+![Signs of technical debt in mobile apps](signs-of-technical-debt-in-mobile-apps.png)
+
 Recognizing these signs of technical debt is the first step toward managing it effectively. But what leads to these challenges in the first place? In the next section, we’ll dive into the common causes of technical debt to better understand how to prevent it from accumulating.
 
 ## Causes of technical debt in mobile development
@@ -95,43 +97,45 @@ Ineffective management practices, such as poor communication, lack of coordinati
 
 Relying on outdated libraries or SDKs can introduce technical debt by creating security risks, performance issues, and compatibility problems with newer mobile OS versions. Updating these dependencies later can require significant refactoring and may make the app more vulnerable to crashes. Regularly managing and updating third-party dependencies is crucial to reducing technical debt.
 
+![What causes technical debt in mobile apps](what-causes-technical-debt-in-mobile-apps.png)
+
 ## Popular applications that have a technical debt
 
 Even the biggest names in tech aren’t immune to technical debt. For many high-growth mobile applications, the race to innovate and capture market share often means shortcuts in development—leading to a buildup of technical debt over time. Here are some notable examples of mobile apps that have experienced challenges due to technical debt and the steps their teams have taken to manage it.
 
 ### Instagram
 
-**Issue**: Instagram’s rapid growth demanded swift feature integrations to keep up with user expectations. However, the fast-paced development led to a complex, fragmented codebase that began to hinder performance and slowed down feature iterations.  
+**Issue**: Instagram’s rapid growth demanded swift feature integrations to keep up with user expectations. However, the fast-paced development led to a complex, fragmented codebase that began to hinder performance and slowed down feature iterations.\
 **Measures taken:** The engineering team faced significant hurdles with their monolithic code structure, making it challenging to update the app efficiently. To tackle this, they began refactoring key parts of the codebase to streamline future development.
 
 ### Uber
 
-**Issue**: With global scaling and the addition of services like Uber Eats and ride-sharing features, Uber’s app became bogged down by an oversized codebase.  
+**Issue**: With global scaling and the addition of services like Uber Eats and ride-sharing features, Uber’s app became bogged down by an oversized codebase.\
 **Measures taken:** This bloated code led to difficulties in releasing new features and maintaining platform consistency. To address this, Uber invested heavily in rearchitecting the app, focusing on minimizing dependencies and simplifying code structures to boost performance.
 
 ### Twitter
 
-**Issue**: Twitter encountered increasing performance issues and bugs, particularly as they scaled to handle real-time data on a massive scale. Their technical debt, accumulated over years of quick feature rollouts, posed a substantial barrier to efficient updates.  
+**Issue**: Twitter encountered increasing performance issues and bugs, particularly as they scaled to handle real-time data on a massive scale. Their technical debt, accumulated over years of quick feature rollouts, posed a substantial barrier to efficient updates.\
 **Measures taken:** Twitter eventually restructured its mobile codebase to tackle these performance issues and ensure the app could support future scalability needs more effectively.
 
 ### LinkedIn
 
-**Issue**: LinkedIn’s mobile app suffered from a legacy codebase not optimized for the latest mobile architectures, resulting in performance bottlenecks.  
+**Issue**: LinkedIn’s mobile app suffered from a legacy codebase not optimized for the latest mobile architectures, resulting in performance bottlenecks.\
 **Measures taken:** The company undertook a major overhaul, rebuilding portions of the app to be more modular and maintainable. This refactor took time and resources but ultimately improved the app’s stability and speed.
 
 ### WhatsApp
 
-**Issue**: As WhatsApp expanded its feature set to include options like group calling and encryption, technical debt surfaced in the form of occasional bugs and performance dips.  
+**Issue**: As WhatsApp expanded its feature set to include options like group calling and encryption, technical debt surfaced in the form of occasional bugs and performance dips.\
 **Measures taken:** The development team has since worked to improve the app’s architecture, eliminating unnecessary complexities and enhancing both responsiveness and reliability.
 
 ### Slack
 
-**Issue**: Slack’s need to maintain a consistent experience across multiple platforms led to challenges with legacy code and performance lags, especially in larger teams.  
+**Issue**: Slack’s need to maintain a consistent experience across multiple platforms led to challenges with legacy code and performance lags, especially in larger teams.\
 **Measures taken:** Acknowledging the impact of this debt, Slack’s developers initiated a major refactor aimed at improving performance and making it easier to add new features without introducing regressions.
 
 ### Airbnb
 
-**Issue**: Airbnb’s rapid growth required fast feature rollouts, leading to a fragmented codebase and mounting technical debt due to quick fixes over sustainable solutions.  
+**Issue**: Airbnb’s rapid growth required fast feature rollouts, leading to a fragmented codebase and mounting technical debt due to quick fixes over sustainable solutions.\
 **Measures taken:** Recognizing the toll this debt was taking on productivity and app performance, Airbnb invested in refactoring key parts of their code, making the app more maintainable and efficient.
 
 As desperate as it sounds, technical debt in mobile apps is a common challenge, even for industry giants. But is it realistic at all to not have technical debt?
@@ -140,11 +144,11 @@ As desperate as it sounds, technical debt in mobile apps is a common challenge, 
 
 It’s tempting to imagine a codebase free from quick fixes, legacy code, or maintenance issues—a perfectly streamlined app with zero baggage. But for most digital businesses, that goal isn’t practical. Technical debt tends to accumulate naturally, as teams work under tight deadlines, tackle shifting requirements, and prioritize high-impact features. So, rather than striving for perfection, it often makes more sense to manage technical debt thoughtfully. Here’s why aiming for zero technical debt can be more of a burden than a benefit:
 
-- Reducing technical debt demands significant time and resources, often leading to delays that can make on-time delivery difficult to achieve. In a fast-moving landscape, meeting deadlines is critical.
-- Development teams need to focus on delivering business value and responding quickly to changing requirements. An exclusive focus on debt elimination can make it harder to adapt when project priorities shift.
-- Not all technical debt is equally risky. Some areas of low-impact debt may not be worth the time to address, making it an inefficient use of resources.
-- An excessive focus on technical debt can pull attention from essential tasks, like rolling out new features or fixing critical bugs that directly affect users.
-- Aiming to eliminate all technical debt can also limit experimentation, restricting innovation. Allowing for manageable debt often enables teams to explore creative solutions and stay adaptable.
+* Reducing technical debt demands significant time and resources, often leading to delays that can make on-time delivery difficult to achieve. In a fast-moving landscape, meeting deadlines is critical.
+* Development teams need to focus on delivering business value and responding quickly to changing requirements. An exclusive focus on debt elimination can make it harder to adapt when project priorities shift.
+* Not all technical debt is equally risky. Some areas of low-impact debt may not be worth the time to address, making it an inefficient use of resources.
+* An excessive focus on technical debt can pull attention from essential tasks, like rolling out new features or fixing critical bugs that directly affect users.
+* Aiming to eliminate all technical debt can also limit experimentation, restricting innovation. Allowing for manageable debt often enables teams to explore creative solutions and stay adaptable.
 
 So, what’s the solution? Instead of aiming for zero technical debt, focus on managing it strategically. As a business, prioritize the areas that impact performance or user experience the most, and address lower-risk debt as time allows. By balancing debt management with ongoing development, your team can maintain agility, deliver value, and keep the app’s foundation strong without getting bogged down in a quest for perfection.
 
@@ -196,6 +200,8 @@ Tracking metrics like code complexity, bug counts, and technical debt ratios off
 
 Technical debt often results from limited knowledge or experience. Encouraging continual learning helps developers stay current with technologies and best practices, strengthening their problem-solving skills and adaptability.
 
+![How to manage technical debt in mobile apps](how-to-manage-technical-debt.png)
+
 With these practices in place, technical debt can be if not eradicated, but at least managed and kept in check, supporting both the app’s growth and the team’s productivity.
 
 {{< advert_with_cta title="Create your app with us!" description="Benefit from 20+ years of Anadea's mobile app development expertise" button="Book a free consultation" >}}
@@ -215,8 +221,8 @@ With these practices in place, technical debt can be if not eradicated, but at l
 
 At Anadea, we assist clients at all stages of mobile app development, focusing on keeping the code maintainable and minimizing technical debt. Whether starting a new project or enhancing an existing one, we emphasize best practices, modern technologies, and regular upkeep.
 
-- For new projects, we create detailed documentation, design scalable architectures, and choose future-proof technologies that maintain relevance.
-- For legacy projects, we perform thorough code audits to highlight areas for improvement. Our audits provide actionable insights—such as modular restructuring, dependency updates, and optimized performance—that set a clear path for enhancing code quality.
+* For new projects, we create detailed documentation, design scalable architectures, and choose future-proof technologies that maintain relevance.
+* For legacy projects, we perform thorough code audits to highlight areas for improvement. Our audits provide actionable insights—such as modular restructuring, dependency updates, and optimized performance—that set a clear path for enhancing code quality.
 
 In our ongoing development process, we incorporate practices like code reviews, automated and manual testing, and regular library updates. Our team also performs continuous refactoring to ensure each feature integrates seamlessly while maintaining the app's long-term stability and performance.
 
