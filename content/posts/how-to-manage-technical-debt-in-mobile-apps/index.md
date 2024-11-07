@@ -156,6 +156,8 @@ So, what’s the solution? Instead of aiming for zero technical debt, focus on m
 
 Managing technical debt in [mobile app development](https://anadea.info/services/mobile-development) isn’t just about catching issues—it’s about setting up a sustainable development process that balances long-term quality with short-term agility. Here are some effective practices to help you manage and minimize technical debt:
 
+![How to manage technical debt in mobile apps](how-to-manage-technical-debt.png)
+
 ### Code quality and cleanliness
 
 Keeping code clean and consistent is fundamental to reducing technical debt. This goes beyond standard practices—establishing team-specific standards, like code formatting, helps maintain consistency. Tools like linters can support clean code across different programming languages.
@@ -199,8 +201,6 @@ Tracking metrics like code complexity, bug counts, and technical debt ratios off
 ### Continual learning and skill development
 
 Technical debt often results from limited knowledge or experience. Encouraging continual learning helps developers stay current with technologies and best practices, strengthening their problem-solving skills and adaptability.
-
-![How to manage technical debt in mobile apps](how-to-manage-technical-debt.png)
 
 With these practices in place, technical debt can be if not eradicated, but at least managed and kept in check, supporting both the app’s growth and the team’s productivity.
 
