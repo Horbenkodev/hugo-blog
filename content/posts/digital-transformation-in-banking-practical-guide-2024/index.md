@@ -199,9 +199,9 @@ IoT helps to connect ATMs, point-of-sale systems, and other banking devices for 
 
 Here are a couple of examples of real-life solutions in the framework of digital transformation banking strategies.
 
-- **Mobile banking**. Nowadays, [mobile banking apps](https://anadea.info/blog/mobile-banking-app-development/) can offer much more than just P2P transactions or payments for online purchases. Such applications can also provide full access to bank accounts and practically a full list of services that are traditionally available at bank branches.
-- **Biometric authentication**. To ensure a high level of security, a lot of banks today have already introduced biometric authentication methods. For example, they apply such methods as fingerprint scanning, facial recognition, and voice recognition.
-- **Roboadvisors**. Such AI solutions can provide personalized investment advice and portfolio management to customers with different needs. These services can be available at a lower price in comparison to the cost of services offered by traditional wealth managers.
+* **Mobile banking**. Nowadays, [mobile banking apps](https://anadea.info/blog/mobile-banking-app-development/) can offer much more than just P2P transactions or payments for online purchases. Such applications can also provide full access to bank accounts and practically a full list of services that are traditionally available at bank branches.
+* **Biometric authentication**. To ensure a high level of security, a lot of banks today have already introduced biometric authentication methods. For example, they apply such methods as fingerprint scanning, facial recognition, and voice recognition.
+* **Roboadvisors**. Such AI solutions can provide personalized investment advice and portfolio management to customers with different needs. These services can be available at a lower price in comparison to the cost of services offered by traditional wealth managers.
 
 Today quite a lot of banking institutions are going through the stage of digital transformation. Some of the existing examples can be rather inspiring for those who are just starting this journey.
 
@@ -213,6 +213,8 @@ BBVA has chosen Amazon Web Services to build a global data platform. This platfo
 
 This strategy has already brought its fruits. In 2023, the bank [posted](https://www.bbva.com/en/economy-and-finance/results-4q23/) an annual profit of €8.02 billion. It was a record high since its foundation. Apart from this, BBVA has achieved significant results in the expansion of its customer base.
 
+![](bbva.jpg)
+
 ### Wells Fargo
 
 Wells Fargo is an American multinational financial services company with a rich history that started in 1852. Since then, the company has won a reputation as one of the most stable traditional banking institutions. Nevertheless, now, it’s high time for big changes.
@@ -222,6 +224,8 @@ Currently, Wells Fargo is heavily investing in emerging technology and services.
 Moreover, the bank’s AI-powered virtual assistants boast great popularity. Nearly a year after the launch of this solution, the number of users reached 15,000,000, while the total number of interactions is over 117,000,000.
 
 Now in the framework of the bank digital transformation, the company is actively working on the implementation of generative AI and traditional AI tools across its departments.
+
+![Wells Fargo](wells-fargo.jpg)
 
 ## 5 effective strategies for digital transformation in banking
 
@@ -233,8 +237,8 @@ You need to foster a culture of innovation by upskilling employees and encouragi
 
 **Action plan:**
 
-- Offer comprehensive training programs on digital tools and technologies;
-- Allow experimentation without fear of failure.
+* Offer comprehensive training programs on digital tools and technologies;
+* Allow experimentation without fear of failure.
 
 ### Customer-centric approach
 
@@ -242,9 +246,9 @@ You should place customers at the center of transformation efforts. That’s why
 
 **Action plan:**
 
-- Conduct regular customer feedback sessions;
-- Use customer journey mapping to identify pain points;
-- Offer personalized products and recommendations tailored to individual needs.
+* Conduct regular customer feedback sessions;
+* Use customer journey mapping to identify pain points;
+* Offer personalized products and recommendations tailored to individual needs.
 
 ### Omnichannel experience
 
@@ -252,9 +256,9 @@ We recommend you focus on delivering seamless banking experiences across all cha
 
 **Action plan:**
 
-- Use APIs to connect channels and create a unified customer profile accessible across all touchpoints;
-- Optimize each channel for its unique advantages;
-- Continuously refine channels based on user feedback and emerging technology.
+* Use APIs to connect channels and create a unified customer profile accessible across all touchpoints;
+* Optimize each channel for its unique advantages;
+* Continuously refine channels based on user feedback and emerging technology.
 
 ### Digital-first solutions
 
@@ -262,9 +266,9 @@ You can introduce digital solutions to reduce operational costs, streamline proc
 
 **Action plan:**
 
-- Shift back-office processes to digital platforms;
-- Use AI to optimize resources;
-- Continuously assess the cost-benefit ratio of digital initiatives to ensure sustainable transformation.
+* Shift back-office processes to digital platforms;
+* Use AI to optimize resources;
+* Continuously assess the cost-benefit ratio of digital initiatives to ensure sustainable transformation.
 
 ### KPIs and transformation impact
 
@@ -272,9 +276,9 @@ KPIs are a popular method to evaluate the impact of digital transformation in ba
 
 **Action plan:**
 
-- Define KPIs based on your goals;
-- Monitor KPIs regularly and adjust strategies based on performance insights;
-- Use customer feedback and satisfaction metrics to refine transformation initiatives.
+* Define KPIs based on your goals;
+* Monitor KPIs regularly and adjust strategies based on performance insights;
+* Use customer feedback and satisfaction metrics to refine transformation initiatives.
 
 ## Common challenges of digital transformation in banking
 
