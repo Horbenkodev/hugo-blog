@@ -2,8 +2,22 @@
   <div class="header__container">
     <a href="https://anadea.info/" class="header__wrapperLink">
       <span class="sr-only">Anadea</span>
-      <img class="header__logo" alt="Anadea logo" aria-hidden="true" width="76" height="9" src="/blog/img/logoMobile.svg" />
-      <img class="header__logo desktop" alt="Anadea logo" aria-hidden="true" width="56" height="42" src="/blog/img/logo.svg" />
+      <img
+        class="header__logo"
+        alt="Anadea logo"
+        aria-hidden="true"
+        width="76"
+        height="9"
+        src="/blog/img/logoMobile.svg"
+      />
+      <img
+        class="header__logo desktop"
+        alt="Anadea logo"
+        aria-hidden="true"
+        width="56"
+        height="42"
+        src="/blog/img/logo.svg"
+      />
     </a>
 
     {{ $uniqID := hash.FNV32a "Toggle" }}
@@ -15,24 +29,42 @@
 
     <div class="header__menu">
       <ul class="menu" id="{{ $uniqID }}">
-        <li class="menu__item">
-          <a class="menu__link" href="https://anadea.info/projects">Portfolio</a>
+        <li class="menu__item" data-hover-block="portfolio">
+          <button class="menu__link">Portfolio</button>
         </li>
-        <li class="menu__item">
-          <a class="menu__link" href="https://anadea.info/services">Services</a>
+        <li class="menu__item" data-hover-block="services">
+          <button class="menu__link">Services</button>
         </li>
-        <li class="menu__item">
-          <a class="menu__link" href="https://anadea.info/solutions">Industries</a>
+        <li class="menu__item" data-hover-block="resources">
+          <button class="menu__link">Resources</button>
         </li>
-        <li class="menu__item">
-          <a class="menu__link" href="https://anadea.info/guides">Guides</a>
+        <li class="menu__item" data-hover-block="industries">
+          <button class="menu__link">Industries</button>
         </li>
-        <li class="menu__item">
-          <a class="menu__link" href="https://anadea.info/about-us">About</a>
+        <li class="menu__item" data-hover-block="about">
+          <button class="menu__link">About</button>
         </li>
       </ul>
       <a href="https://anadea.info/free-project-estimate" class="header__callToAction">Get Estimate</a>
     </div>
+
+    {{ partial "menu/mobile_menu.html" . }}
+  </div>
+
+  <div class="hover__block__container" id="portfolio" style="display: none;">
+    {{ partial "menu/portfolio.html" . }}
+  </div>
+  <div class="hover__block__container" id="services" style="display: none;">
+    {{ partial "menu/services.html" . }}
+  </div>
+  <div class="hover__block__container" id="resources" style="display: none;">
+    {{ partial "menu/resources.html" . }}
+  </div>
+  <div class="hover__block__container" id="industries" style="display: none;">
+    {{ partial "menu/industries.html" . }}
+  </div>
+  <div class="hover__block__container" id="about" style="display: none;">
+    {{ partial "menu/about.html" . }}
   </div>
 
   <div class="header__shadow"></div>
