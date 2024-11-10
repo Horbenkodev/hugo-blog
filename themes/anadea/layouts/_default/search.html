@@ -19,11 +19,13 @@
 
     {{ partial "shared/filters.html" . }}
 
-    <div id="searchResults"></div>
-    <nav aria-label="pagination" class="pagination">
+    <div class="mb__80" id="searchResults"></div>
+    <nav aria-label="pagination" class="pagination mb__160">
       <ul id="pagination" class="pagination__list"></ul>
     </nav>
-    {{ partial "subscription.html" . }}
+    <div class="mb__80">
+      {{ partial "subscription.html" . }}
+    </div>
   </div>
 
 {{ end }}
