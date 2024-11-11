@@ -29,3 +29,11 @@
 
 // Layouts
 @import 'layouts/postBody';
+
+.mb__160 {
+  margin-bottom: clamped(120px, 160px);
+}
+
+.mb__80 {
+  margin-bottom: clamped(60px, 80px);
+}
