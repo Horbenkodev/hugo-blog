@@ -33,7 +33,7 @@ Healthcare is home to a huge amount of data, so it’s no surprise that technolo
 
 <a href="https://www.sas.com/en_ph/insights/analytics/predictive-analytics.html" target="_blank">Predictive analysis</a> uses “Big Data”, statistical algorithms and machine learning techniques to identify the likelihood of future outcomes based on historical data.
 
-This method is used by many industries, like banking, finance, and <a href="https://propelrr.com/blog/ecommerce-business-data" target="_blank">e-commerce business</a> - for many reasons, one of which is to improve their operations. The healthcare industry is no exception.
+This method is used by many industries, like banking, finance, and e-commerce business - for many reasons, one of which is to improve their operations. The healthcare industry is no exception.
 
 <a href="https://www.soa.org/globalassets/assets/Files/programs/predictive-analytics/2017-health-care-trend.pdf" target="_blank">According to the Society of Actuaries</a>, around 93 percent of health payers and providers believe that predictive analysis plays an important role in the future of their business.
 
