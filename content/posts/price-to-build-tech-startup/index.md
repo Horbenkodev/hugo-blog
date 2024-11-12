@@ -4,7 +4,7 @@ title: What Is the Cost to Build a Tech Startup?
 breadcrumbs: App Startup Cost
 slug: price-to-build-tech-startup
 draft: false
-publishDate: 2022-06-27T00:00:00Z
+publishDate: 2022-06-27T00:00:00.000Z
 image: blue-bird.jpg
 og_image: blue-bird.jpg
 description: A Business Analyst breaks down the cost of building an app startup,
@@ -30,7 +30,7 @@ Find out how to get funding: <a href="https://anadea.info/blog/health-it-startup
 
 In case you have the money, perhaps the only thing to do is to assemble a team and bring your idea to life. It sounds simple, but in today's world, custom development is comparable to art, which is usually quite expensive. Moreover, in today's economy, you have some limits on your budget.
 
-The answer here is to monetize your idea and do it quickly. Read the article about <a href="https://anadea.info/blog/healthcare-and-medical-mobile-app-revenue-models-to-achieve-best-results" target="_blank">monetization models for healthcare app</a> to find out more. Anyway, don’t forget that you act in the <a href="https://anadea.info/blog/time-quality-cost-which-ones-do-you-choose-for-your-app" target="_blank">time, cost, and quality paradigm</a>.
+The answer here is to monetize your idea and do it quickly. Read the article about <a href="https://anadea.info/blog/healthcare-and-medical-mobile-app-revenue-models-to-achieve-best-results" target="_blank">monetization models for healthcare app</a> to find out more. Anyway, don’t forget that you act in the time, cost, and quality paradigm.
 
 ## How to navigate the custom development market
 
@@ -56,6 +56,7 @@ Here is an example. Let’s say you decide to create an application for divers. 
 * Designer — a person who, with their lovely design, makes the user fall in love with your app.
 
 Suppose they have the next rates:
+
 * Front-end - $55 per hour;
 * Back-end - $55 per hour;
 * QA - $45 per hour;
@@ -74,11 +75,11 @@ Thus, in the range of 2-3 months, it will take from $65,600 to $106,000.
 
 These numbers may seem huge, however, they are true. Still, there are some ways how the budget can be cut by 2x or even 3.5 times.
 
-__<a href="https://anadea.info/services/business-analysis" target="_blank">Engage a business analyst</a>.__ A business analyst or BA is the person who builds the bridge between your business and the software development team. One elicits business requirements, helps to decide on features, describes how features must be developed, communicates with stakeholders, ensuring you get exactly what you want. One of their goals is to reduce costs. BA takes preventative action. By having a carefully crafted plan prior to the start of development, developers have a clear understanding of what product they need to develop. The job of a business analyst is like a map for a traveler. Don't forget to take your map with you!
+**<a href="https://anadea.info/services/business-analysis" target="_blank">Engage a business analyst</a>.** A business analyst or BA is the person who builds the bridge between your business and the software development team. One elicits business requirements, helps to decide on features, describes how features must be developed, communicates with stakeholders, ensuring you get exactly what you want. One of their goals is to reduce costs. BA takes preventative action. By having a carefully crafted plan prior to the start of development, developers have a clear understanding of what product they need to develop. The job of a business analyst is like a map for a traveler. Don't forget to take your map with you!
 
-Another solution, of course, is to properly calculate the specialist's working hours. In our best example, we consider the __designer's__ job to last as long as the whole development. In practice, though, that is not entirely true. Usually, the design phase is limited and it takes about 2-4 weeks to create an MVP. During this period, original design concepts are prepared. Once the design has been confirmed, a designer polishes and adds details. So it's not a full-time job after the first couple of weeks. (In each case, the situation may differ, we consider a hypothetical general example.)
+Another solution, of course, is to properly calculate the specialist's working hours. In our best example, we consider the **designer's** job to last as long as the whole development. In practice, though, that is not entirely true. Usually, the design phase is limited and it takes about 2-4 weeks to create an MVP. During this period, original design concepts are prepared. Once the design has been confirmed, a designer polishes and adds details. So it's not a full-time job after the first couple of weeks. (In each case, the situation may differ, we consider a hypothetical general example.)
 
-A similar situation with __<a href="https://anadea.info/services/quality-assurance" target="_blank">QA engineers</a>__. Theoretically, while the development is in process, the tester can work part-time. Nevertheless, testing should not be ignored. Testing is a process in which haste is not our ally.
+A similar situation with **<a href="https://anadea.info/services/quality-assurance" target="_blank">QA engineers</a>**. Theoretically, while the development is in process, the tester can work part-time. Nevertheless, testing should not be ignored. Testing is a process in which haste is not our ally.
 
 Last but not least, don’t hesitate to send us your request despite your budget. All big adventures begin with small little steps. Even if your budget is strict, let’s have a conversation. Don’t hide potentially big projects.
 
