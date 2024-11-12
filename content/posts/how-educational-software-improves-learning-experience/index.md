@@ -21,7 +21,7 @@ It’s important to say from the start that in today’s world there are 2 types
 ## For traditional schools
 
 * **School management system software**. Modern schools tend to have a solid technical foundation for a full school ecosystem. You probably ask yourself “what scope of processes should a School Management System Software cover?” The answer is that it can ease routine for all participants - from school administration to students and parents. A lot of modules can be included in it, from managing school staff and procurement to reporting to governmental institutions, bookkeeping, and developing curricula. With its help, you can see how your school is doing as an organization, get insights on teachers’ load and efficiency, evaluate students’ performance and progress, the state of the training base, and much much more.
-* To define the necessary scope for School Management System Software development, it’s a good idea to conduct a <a href="https://anadea.info/blog/how-to-turn-your-project-into-fantastic-with-discovery-phase-in-software-development" target="_blank">discovery phase</a> with a professional BA.
+* To define the necessary scope for School Management System Software development, it’s a good idea to conduct a discovery phase with a professional BA.
   It’s probably that in the basic complectation you’ll need these modules:
 
   * Student Management
