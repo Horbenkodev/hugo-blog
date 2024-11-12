@@ -36,17 +36,11 @@ This is what "Add to Home Screen" means. Consequently, we should take a PWA app 
 Let's treat a PWA as a web page saved on your device. It works inside the browser and can use only API of the browser. There are also mobile app features that you can imply into progressive web app development. Here is what PWAs can do:
 
 * **Add home screen icons**. Look at colorful squares at your smartphone main screen and you will see icons of native apps. Adding an icon to the home screen creates experience focused totally on the app. With google progressive web apps users open your website without the browser URL panel or any other navigation tool. They just need to tap the icon on the home screen. PWAs provide quick access to your website.
-
 * **Improve engagement**. Mobile apps have a common approach to navigation like the header panel with the title of the section, the return button in the upper left corner, the contextual actions in the upper right corner. Such app-like navigation helps users to solve their tasks easier.
-
 * **Work for any user**. Thanks to the progressive enhancement of PWAs users can visit your website regardless of browser and device they choose.
-
 * **Send web push notifications**. In 2015 Google Chrome introduced push notifications via a browser on both mobile and desktop. This technology provides profit-making opportunities for business as it works in real-time, sends your users notifications without the need for personal email, contact details even when they are not on your website. The notifications may inform on personalized or seasonal discounts, or report when the product is in the stock.
-
 * **Work offline**. PWAs can work offline thanks to a technology called Service Workers. It is used for instantly displaying online content in places with a poor Internet connection or even when there is no connection.
-
 * **Integrate with the device**. Progressive mobile app for Android appears in the system settings, in task switcher and on the home screen. Even push notifications look like they belong to a native application.
-
 * **Improve your SEO ranking**. Mobile PWA is indexed by search engines, moreover, Google raises PWA higher in search results. All progressive mobile apps work on the HTTPS protocol that prevents data interception, respectively, Google responds positively to this and rewards the site with a more favorable ranking.
 
 ## Advantages of PWAs or what is so progressive about them
@@ -76,11 +70,8 @@ Such results show not only companies from the retail sector. The <a href="https:
 Making a progressive web app requires [experienced mobile developers](https://anadea.info/services/mobile-development) who understand the new way to create fast, reliable and attractive websites. From a technological point of view PWA uses only web standards - a set of APIs that allow using most of the native app functions while working in a regular browser:
 
 * The heart of PWA is **the Service Worker.** It protects the user from connection problems on his device. It also enables a PWA to send push notifications, and get automatic site updates.
-
 * **The Web App Manifest** is responsible for some properties of how the site will be displayed and the icon will look after the addition.
-
 * PWAs require that all site resources be transmitted over the **HTTPS protocol.** There should be no links to unprotected resources, otherwise, some browsers simply will not display the site.
-
 * **App shell** that is just a skeleton of a graphical interface, a template.
 
 ## Challenges of building progressive web apps
@@ -95,7 +86,7 @@ At present, PWA does not support all hardware components supported by traditiona
 
 ## PWA vs native mobile app vs hybrid
 
-Businesses have three options to reach their mobile audience - to create a native mobile app, to build a progressive web app and to create a hybrid. We included all three in comparison. [What is a hybrid app](https://anadea.info/blog/why-native-apps-are-better-than-hybrids) we discussed in one of our previous articles. Briefly, it is an app developed using technologies that allow you to get access to native API with a certain amount of common code for different platforms. Let's look at the differences between PWA, native and hybrids.
+Businesses have three options to reach their mobile audience - to create a native mobile app, to build a progressive web app and to create a hybrid. We included all three in comparison. What is a hybrid app we discussed in one of our previous articles. Briefly, it is an app developed using technologies that allow you to get access to native API with a certain amount of common code for different platforms. Let's look at the differences between PWA, native and hybrids.
 
 ### Cost of development
 
