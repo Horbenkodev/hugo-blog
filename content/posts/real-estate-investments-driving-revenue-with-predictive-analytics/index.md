@@ -112,8 +112,6 @@ By using predictive analytics, prospective investors can predict which propertie
 
 The goal of the investor is to increase their investment and cash flow so they need to pay attention to the growing popularity of specific demographics. If the most money is to be made in a growing family, then an investor doesn’t have to buy a large family home, but a two or three bedroom apartment for their prospective tenants. Using the analytics, investors can find the most sought after attributes connected to property currently and make the most substantial return on their investment.
 
-{{< advert >}}Related read: [How Big Data Has Transformed the Real Estate Industry](https://anadea.info/blog/how-big-data-has-transformed-the-real-estate-industry){{< /advert >}}
-
 ### Tenants targeting
 
 These analytics also can identify the sort of tenants you want to handle, e.g. will give you the best return on your investment. Analytics not only analyzes what makes up the demographics of your preferred tenants but also how they will change in the future.
