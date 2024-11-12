@@ -38,20 +38,26 @@ Another thing to consider while developing a mobile product for the medical indu
 ![](stethoscope-prescription-laptop.jpg)
 
 ## Types of mobile apps for doctors
+
 To facilitate and speed up practically every side of work, doctors can adopt one of these tools or one combining the features of a number of them, along with examples of apps that are actually used by doctors.
 
 ### Time management apps for doctors
+
 Sometimes, or, more precisely, very often work at healthcare facilities resembles chaos. That’s because the routine of a doctor is not limited to patient treatment; it involves paperwork, planning, and other less obvious activities. Apps for time management for doctors are designed to help them put in order everything that pops up throughout the day. Tools that assist with this are:
+
 * Calendar to schedule staff meetings and appointments;
 * Taking notes (in writing and through dictation);
 * Audio recording;
 * Taking and categorizing photos (of wounds, skin condition, etc.).
 
 ### Apps for EHR access
+
 Many modern hospitals have their patients’ medical records digitized and migrated to an electronic database. Apps for EHR access are the next step: they allow doctors to find and see the target record in seconds, look through patients’ history and attachments to it (X-rays, etc.), as well as see and manage prescriptions.
 
 ### Telemedicine apps
+
 Software for remote medical consultations, or telemedicine apps, serve to reduce the need to visit medical facilities on all occasions and only do it when a physical examination is needed. Using telemedicine apps still has certain limitations (such as an uninterruptible network and quiet surroundings), but these are nothing compared to the amount of time such apps save both doctors and their patients. Among the key features of remote medical consultancy apps that ensure positive outcomes are:
+
 * Video chat;
 * Voice calls;
 * Sending texts and multimedia messages.
@@ -59,35 +65,42 @@ Software for remote medical consultations, or telemedicine apps, serve to reduce
 To learn more about telehealth, its challenges and advancements, please visit <a href="https://anadea.info/blog/telehealth-solutions-paving-new-ways-for-medical-communication" target="_blank">our article</a> on the topic.
 
 ### Apps for reference
+
 These are basically knowledge bases doctors use to get and verify information same as they would use an encyclopedia. Medical reference apps are sources of information in the first place, so they should be equipped with the extended search feature to make navigation through the base seamless and give doctors instant access to:
+
 * Instructions for use of medications;
 * Medical journals;
 * The most recent disease classification;
 * Scientific news and findings.
 
-__Example:__ <a href="https://apps.apple.com/us/app/uptodate/id334265345?platform=iphone" target="_blank" rel="nofollow">UpToDate</a>, the app used by millions of clinicians, answers their questions on any subject. Offers individual or institutional subscriptions to be used by the whole staff.
+**Example:** <a href="https://apps.apple.com/us/app/uptodate/id334265345?platform=iphone" target="_blank" rel="nofollow">UpToDate</a>, the app used by millions of clinicians, answers their questions on any subject. Offers individual or institutional subscriptions to be used by the whole staff.
 
 ![](medium-shot-doctors-work-with-tablet.jpg)
 
 ### Patient monitoring apps
+
 The aim of the tools for patient management is to save doctors time and effort for ongoing and follow-up patient care, which is ensured by their access to patients' electronic health records and connection with patients through the internet without the need for hospital visits. Thus, with tools for patient monitoring, healthcare practitioners can:
+
 * Communicate with patients about their condition remotely;
 * Collect clinically meaningful data;
 * Set up on-premise visits.
 
 ### Apps for clinical decision-making
+
 To make an informed decision about changing the course of treatment, if it’s necessary, doctors need to make allowance for all of the possible factors that may affect the overall clinical picture and outcomes of their decisions. Given this, apps aimed at helping doctors with decision-making are in essence the fullest possible sources of information about patients.
 
 What distinguishes this kind of software from apps for medical reference is the fact that apps for clinical decision-making not only give doctors information but also provide ways to apply it, for example, in calculations and formulas. That’s why apps from this group are expected to offer doctors such tools as medical calculators and laboratory test orders.
 
-__Examples:__ <a href="https://apps.apple.com/us/app/uspstf-prevention-taskforce/id311852560" target="_blank" rel="nofollow">USPSTF Prevention TaskForce</a>, an app developed by US experts in evidence-based medicine that includes both an exhaustive database of research findings and patient data that can be easily searched and viewed on mobile and tablet.
+**Examples:** <a href="https://apps.apple.com/us/app/uspstf-prevention-taskforce/id311852560" target="_blank" rel="nofollow">USPSTF Prevention TaskForce</a>, an app developed by US experts in evidence-based medicine that includes both an exhaustive database of research findings and patient data that can be easily searched and viewed on mobile and tablet.
 
 <a href="https://apps.apple.com/us/app/mdcalc-medical-calculator/id1001640662" target="_blank" rel="nofollow">MDCalc Medical Calculator</a>, an app that includes over 500 tools to support decision-making like risk scores, equations, formulas, dosing calculations, and much more.
 
 ![mdcalc interface](mdcalc.png)
 
 ### Educational apps for healthcare
+
 Solutions for the education of medical workers are at the intersection of two industries: MedTech and eLearning. This combination has proven successful and efficient for:
+
 * Advanced staff training;
 * Studying anatomy;
 * Surgery simulation;
@@ -98,6 +111,7 @@ The latter deserves special mention since we developed two platforms to help fut
 ## 5 steps to build your medical app
 
 ### Step 1. Identify your audience
+
 Before starting to develop an app, it is important to get to know your potential users. Their needs and context of app use are the drivers of each decision you are going to make. Just answer a few questions:
 
 * What will the user be doing? Standing or sitting? Will they have both hands free?
@@ -107,26 +121,30 @@ Before starting to develop an app, it is important to get to know your potential
 Afterward, consider what kind of a platform you will use: Android or iOS? Smartphones or tablets? Define what kind of app you are going to develop: is it for medical staff, hospitals, or patients? What’s its purpose? It may be a diagnosis, remote monitoring either networking app for medical staff, or billing and inventory management application for the hospital, or fitness & wellness, habit growing, or mental health app for patients. The options are limitless.
 
 ### Step 2. Prototyping
+
 Creating a clickable prototype allows you to save financial resources, as well as test it on users with A/B testing and double-check whether all features are feasible. Despite being very important in the process of medical app development, UX and UI work counts only for a fraction of the total cost.
 Prototyping is like building a healthcare app, while not at the same time because users can’t download a product or perform any non-hardwired action in the prototype.
 
 ### Step 3. Important things to consider when developing a medical app
 
 #### Security & compliance
+
 Depending on the kind and functions of the medical app, you need to become familiar with the following regulations:
 
- * Apple’s Human Interface Guidelines for CareKit and HealthKit
- * Android.os.health documentation
- * IEC 62304, ISO27001, SOC2 Type 2, and a couple of other standards
- * MFi Program
- * HITECH Act, GDPR, and other regulations
+* Apple’s Human Interface Guidelines for CareKit and HealthKit
+* Android.os.health documentation
+* IEC 62304, ISO27001, SOC2 Type 2, and a couple of other standards
+* MFi Program
+* HITECH Act, GDPR, and other regulations
 
 Patient’s data should always travel from and to an app in an encrypted format through a safe connection.
 
 #### APIs and integrations
+
 The lure for modern users is that your app will integrate with other services. That is how you will make the most of location data, vitals suggested through HealthKit, and much more. Double-check whether relevant APIs are available for commercial use and whether you are expected to open source your code after using them.
 
 #### Agile and continuous delivery
+
 It is important to practice Agile methodology since moving on by short one-week sprints will bring you to the final result faster and with fewer iterations. Continuous delivery is worth paying attention to. The team responsible for developing your healthcare app must set up an environment that gives QA engineers and you the possibility to test completed features without intervention in the development of new features.
 
 ### Step 4. What is next after an app is developed?
@@ -134,6 +152,7 @@ It is important to practice Agile methodology since moving on by short one-week 
 After an app is released to the App Store, Google Play, you start to think about future changes. There are a few options:
 
 #### Data-driven improvements
+
 If you collaborated with professionals on your app, chances are that your product already integrates with analytics that collects usage metrics. After reading and interpreting data you might want to prolong the amount of time an average user spends on the product, help users to achieve their aim faster, or raise the amount of finances they spend.
 
 #### Request user’s feedback openly
@@ -163,7 +182,7 @@ Medical apps provide various opportunities. Some of them assist in finding the d
 * Placing laboratory orders
 * Reviewing diagnostic records via the app, and many others.
 
-Thus, the goal of the app influences what the set of features is going to be and therefore the <a href="https://anadea.info/blog/how-much-does-it-cost-to-develop-an-app-for-healthcare" target="_blank">cost of developing a medical app</a>.
+Thus, the goal of the app influences what the set of features is going to be and therefore the cost of developing a medical app.
 
 ### Things to pay special attention to in medical app development
 
