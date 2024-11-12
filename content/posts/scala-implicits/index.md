@@ -182,7 +182,6 @@ Instead of conclusion, here are some truths from Captain Obvious:
 
 The source code for the examples is available on [Github](https://github.com/sergey-lagutin/implicit-simplicity).
 
-More articles about Scala and functional programming:
+More articles about Scala and functional programming:[](https://anadea.info/blog/tail-recursion-in-scala)
 
-* [Why You Should Use Tail Recursion in Scala](https://anadea.info/blog/tail-recursion-in-scala)
 * [What is JVM and Why it is Worth to Develop Apps on Java Platform](https://anadea.info/blog/what-is-jvm-and-why-develop-apps-on-java)
