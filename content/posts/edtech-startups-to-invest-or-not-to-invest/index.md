@@ -1,7 +1,7 @@
 ---
 title: "EdTech Startups: to Invest or Not to Invest?"
 draft: false
-publishDate: 2022-06-29T00:00:00Z
+publishDate: 2022-06-29T00:00:00.000Z
 image: seal-cropped.png
 og_image: seal.png
 description: See the reasons to invest in education technology startups and
@@ -26,13 +26,9 @@ Edtech startup is a startup which introduces IT tools in the classroom to achiev
 To launch an edtech startup, some steps need to be made.
 
 * Generate a business strategy. What kind of problem do you aim to solve in the education field? Think about <a href="https://anadea.info/for-clients/before-you-start/user-persona-for-startups" target="_blank">specific people</a> with specific problems and create a <a href="https://anadea.info/guides/user-persona-for-startups" target="_blank">business plan</a> to present to potential investors.
-
 * <a href="https://anadea.info/blog/how-to-find-a-web-developer" target="_blank">Find a development partner</a> with a proven background in industry.
-
 * <a href="https://anadea.info/guides/what-is-mvp" target="_blank">Develop an MVP</a>. It will allow you to evaluate the product and improve it in a few stages.
-
 * Support users and collect feedback by adding feedback and a suggestions section.
-
 * Promote your project (ASO, SEO, PPC, SMM and Media Advertising) and keep improving it.
 
 ## What kind of startups do edtech investors put their money in?
@@ -53,11 +49,9 @@ Predicting startup development prospects is not easy. That's why startups are a 
 
 The pandemic goes but old habits stay. Online education has become a way for many people locked in their homes to stay sane. Here are the factors that determined the tremendous role of elearning during Covid:
 
-* __Availability.__ Not in the sense that one doesn’t have to go anywhere to study because all they need is already on their device. It is about how fast resources and materials are updated for digital platforms. Teachers and professors can update the knowledge base for students instantly so the latter can enjoy the newest information with no waiting for the subsequent year’s edition. Under the Covid conditions, it was difficult to anticipate returning to the offline soon enough, so the edtech advancement has been as rapid as ever.
-
-* __Quality content.__ Not any digital content is of impeccable quality. There is as much great quality software as there is poor. However, the competition in the elearning industry has set very high standards, which means that only well-built products can sustain competition. The Covid era, when people were using elearning services more than before, showed users who is worth their attention in the long run and who is not.
-
-* __Psychological comfort.__ You would hardly argue that an exam simulation at home through a device is way less stressful than attending a class. No feeling examined from top to toe, no stress around in an unfriendly room. In the end, people have got too used to being home while self-isolating.
+* **Availability.** Not in the sense that one doesn’t have to go anywhere to study because all they need is already on their device. It is about how fast resources and materials are updated for digital platforms. Teachers and professors can update the knowledge base for students instantly so the latter can enjoy the newest information with no waiting for the subsequent year’s edition. Under the Covid conditions, it was difficult to anticipate returning to the offline soon enough, so the edtech advancement has been as rapid as ever.
+* **Quality content.** Not any digital content is of impeccable quality. There is as much great quality software as there is poor. However, the competition in the elearning industry has set very high standards, which means that only well-built products can sustain competition. The Covid era, when people were using elearning services more than before, showed users who is worth their attention in the long run and who is not.
+* **Psychological comfort.** You would hardly argue that an exam simulation at home through a device is way less stressful than attending a class. No feeling examined from top to toe, no stress around in an unfriendly room. In the end, people have got too used to being home while self-isolating.
 
 ### The market still has an untapped potential
 
@@ -91,15 +85,15 @@ Say you are ready to invest in developing your own educational platform and have
 
 The key to getting edtech vc is presenting your idea to investors correctly. You know well what your product is designed to do and what its audience is but this may not be as clear for the edtech investors. Your success in raising investment depends strongly on how you answer their questions. Here are a few of the possible ones.
 
-__Does the market really need your product? Is it a must-have or a nice-to-have product?__
+**Does the market really need your product? Is it a must-have or a nice-to-have product?**
 
 If the product has a potential to increase students’ or teachers’ productivity, it is a must-have. An exam simulation system, an ecosystem for remote classes, and a test builder can greatly simplify both studying and teaching. The rest are nice-to-have. Which, by the way, can be considered not that nice by students’ parents — for them, if you do not justify the opposite, a fancy piece of software is nothing but a distraction.
 
-__Are there measurable milestones for your product?__
+**Are there measurable milestones for your product?**
 
 Visible results prove the effectiveness of a software product. The industry-specific results in the educational framework are higher grades, successful admission to colleges and universities, and learning a profession. If no such milestones are available, your idea needs improvement.
 
-__Will users pay every year for your product? How will you assure it?__
+**Will users pay every year for your product? How will you assure it?**
 
 Investors, and ed tech investors are no exception, want to be sure their money pays off. For that, you need to make a platform sticky enough to make users renew their subscription over and over again. Focus on quality instead of retention techniques — they will not make it if your edtech platform gives no value to users.
 
@@ -132,24 +126,31 @@ A possible solution to this is to provide long-term skill-building through a com
 By providing a platform that combines the best of both worlds, learners can acquire the necessary skills while also supporting the creators of the materials. This approach can help to bridge the gap between free and paid educational resources, enabling more people to access quality education at an affordable cost. Ultimately, such a solution benefits everyone involved, from learners seeking to upskill to educators and developers looking to be compensated for their efforts.
 
 ## Types of edtech ideas to invest
+
 These have been around for a while already and remain valid to the present day.
 
 ### K12 education app
+
 K12 software stands for school management systems for primary and secondary education institutions. Some allow for finding and enrolling in schools while others provide educational materials and videos created in accordance with the curriculum.
 
 ### Exam simulator
+
 <a href="https://anadea.info/projects/ham-nat-coach" target="_blank">Software for test preparation</a> is designed to simplify the process of admission to various universities. Each country has their own rules of admission and specifics of the educational system so the scope of ideas is almost limitless. Future designers, doctors, engineers, and others will appreciate the opportunity to test their knowledge in an environment as close as possible to a real exam in the comfort of home.
 
 ### MOOCs
+
 Massive open online course (MOOC) systems like Coursera and Udemy are aggregators of all kinds of courses run by various universities and tutors. Anyone with access to the system can purchase a course and learn any skill they like as well as share this experience with other users.
 
 ### Language learning app
+
 One can hardly learn a language from the ground up with an app alone but still, language learning apps are an excellent support for the basic language classes. Duolingo with its reward and achievement system motivates users to proceed and Tandem allows to find natives of the language learned for live practice. It is up to you whether your <a href="https://anadea.info/projects/stav-online" target="_blank">language learning app</a> will be designed for self-education or at institutions as assistant to teachers.
 
 ### eLearning app with gamification elements
-In addition to an exciting learning process, people want to see results of their hard work instantly as well as be rewarded for it. <a href="https://anadea.info/blog/gamification-in-business" target="_blank">Gamification</a> is a technique aimed at satisfying these desires and works equally well for kids and adults. For a business, gamification provides a higher user retention, so consider incorporating gamification elements into your app.
+
+In addition to an exciting learning process, people want to see results of their hard work instantly as well as be rewarded for it. Gamification is a technique aimed at satisfying these desires and works equally well for kids and adults. For a business, gamification provides a higher user retention, so consider incorporating gamification elements into your app.
 
 ### Learning management system (LMS)
+
 Systems crafted for educational establishments help their workers administrate, keep records, and automate routine tasks, as well as collect analytics and share it across workers.
 
 The LMS market size worldwide was valued at $12.8 million in 2020 and is <a href="https://www.alliedmarketresearch.com/learning-management-systems-market" target="_blank" rel="nofollow">expected</a> to reach $81.2 million by 2030, growing at a CAGR of 20.5%.
