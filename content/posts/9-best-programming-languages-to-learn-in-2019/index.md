@@ -39,8 +39,6 @@ Go (also known as GOlang) is a programming language created by Google engineers:
 Swift is mainly used in developing iOS apps. The language was developed by Apple in 2014, making it a fairly recent addition to the programming world. However, it quickly grew in popularity. It is one of the best programming languages to learn for a person who wishes to develop iOS apps.
 iOS apps are statistically more profitable than Android. This is the reason why people decide to take this programming language as their first to learn. It is not highly complicated. The basics of C programming will help you a lot in learning how to use Swift.
 
-{{< advert >}}Related read: [Swift vs Objective-С: There Will Be Blood](https://anadea.info/blog/swift-vs-objective-c-there-will-be-blood){{< /advert >}}
-
 ## 3. Elixir
 
 Elixir, by Jose Valim, has seen a gentle rise in popularity since its creation in 2011. It is a dynamic and functional programming language run on Erlang Virtual Machine and is purposed for developing scalable applications. The basic understanding of computer terminologies will make you prepared to learn this language. Elixir supports the coding system and assists the developers to write programs more compact and maintainable. It is also used for web development and building embedded systems.
