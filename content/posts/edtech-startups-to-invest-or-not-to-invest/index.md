@@ -26,7 +26,7 @@ Edtech startup is a startup which introduces IT tools in the classroom to achiev
 To launch an edtech startup, some steps need to be made.
 
 * Generate a business strategy. What kind of problem do you aim to solve in the education field? Think about <a href="https://anadea.info/for-clients/before-you-start/user-persona-for-startups" target="_blank">specific people</a> with specific problems and create a <a href="https://anadea.info/guides/user-persona-for-startups" target="_blank">business plan</a> to present to potential investors.
-* <a href="https://anadea.info/blog/how-to-find-a-web-developer" target="_blank">Find a development partner</a> with a proven background in industry.
+* Find a development partner with a proven background in industry.
 * <a href="https://anadea.info/guides/what-is-mvp" target="_blank">Develop an MVP</a>. It will allow you to evaluate the product and improve it in a few stages.
 * Support users and collect feedback by adding feedback and a suggestions section.
 * Promote your project (ASO, SEO, PPC, SMM and Media Advertising) and keep improving it.
