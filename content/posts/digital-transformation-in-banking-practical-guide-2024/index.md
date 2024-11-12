@@ -65,6 +65,8 @@ Digital transformation in banking also includes advanced cybersecurity measures.
 
 The size of the global digital transformation in BFSI (banking, financial services, and insurance) is [projected](https://www.kbvresearch.com/digital-transformation-in-bfsi-market/) to hit the mark of $215 billion by 2030. Just for comparison: in 2022, it was valued at $67.5 billion.
 
+![Key aspects of digital transformation in banking](digital-transformation-in-banking_-key-aspects.png)
+
 ## Key drivers of banking digital transformation
 
 Given the ongoing tendencies in the banking segment, digital transformation has become a must for banks all around the globe. Let’s have a look at the main boosters of such changes and the most important advantages that banks and their customers can leverage.
@@ -161,6 +163,8 @@ Digital transformation in banking and financial services leverages a range of ad
 
 For example, the survey published by Cornerstone Advisors in 2023 [revealed](https://166442.fs1.hubspotusercontent-na1.net/hubfs/166442/2023R3_Whats-Going-On-In-Banking_Cornerstone-Advisors.pdf) that APIs, cloud computing, and robotic process automation are the top 3 most popularly deployed technologies.
 
+![](percentage-of-respondents-that-have-deployed-emerging-technologies.png)
+
 Let’s consider some of the most promising emerging technologies that can be included in your bank digital transformation strategy.
 
 ### Artificial intelligence and machine learning models
@@ -194,6 +198,8 @@ Blockchain ensures the security and immutability of transactions, which is cruci
 ### Internet of Things
 
 IoT helps to connect ATMs, point-of-sale systems, and other banking devices for remote monitoring and maintenance. Moreover, wearable technology can allow users to get access to banking services on the go from such devices as smartwatches.
+
+![Key Technologies Transforming Banking](key-technologies-transforming-banking.png)
 
 ## Digital transformation examples in banking
 
@@ -313,6 +319,8 @@ Many banks still rely on legacy systems that are difficult to integrate with new
 Banks aim to provide personalized services by leveraging customer data. Nevertheless, it can be challenging to balance personalization with privacy.
 
 **How to address it**: You should adopt privacy-first strategies. For example, you need to use anonymized data and ensure that personalization does not compromise customer confidentiality. It is also required to openly explain to customers how their data will be used to enhance services.
+
+![Common challenges of digital transformation in banking and how to address them](common-challenges-of-digital-transformation.png)
 
 ## Wrapping up: Digital transformation in banking with Anadea
 
