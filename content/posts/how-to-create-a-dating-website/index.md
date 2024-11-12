@@ -46,11 +46,9 @@ First of all, let us mention that there are different types of dating websites b
 
 ![Types of dating websites with examples](types_of_websites.png)
 
-- **Casual dating websites** are intended for looking for romantic relationships without any serious expectations. **Tinder** or **Bumble** are bright examples of such solutions. Users usually look for partners with whom they can go on a date and have some physical and emotional contact but nothing more like marriage or having children together.
-
-- **Serious dating platforms** are for those people who are planning to create a family in the nearest future. Traditionally, these are websites targeted at an older audience. Their users usually do not want to waste time on casual dates and aim to find a partner with whom they can get married. **eHarmony** is often named among the platforms that can be included in this group.
-
-- **Specialized dating websites** are designed for a limited target audience. For example, it can be a platform for LGBTQ+ like **Grindr**. There are also separate solutions for black people such as **BlackPeopleMeet** or Christian faith-based platforms like **Christian Mingle**. The online data industry also offers a row of platforms that unite people with special interests, such as gaming. **GamingPassions** is one of the most well-known solutions for gamers who want to find a partner with similar hobbies and preferences.
+* **Casual dating websites** are intended for looking for romantic relationships without any serious expectations. **Tinder** or **Bumble** are bright examples of such solutions. Users usually look for partners with whom they can go on a date and have some physical and emotional contact but nothing more like marriage or having children together.
+* **Serious dating platforms** are for those people who are planning to create a family in the nearest future. Traditionally, these are websites targeted at an older audience. Their users usually do not want to waste time on casual dates and aim to find a partner with whom they can get married. **eHarmony** is often named among the platforms that can be included in this group.
+* **Specialized dating websites** are designed for a limited target audience. For example, it can be a platform for LGBTQ+ like **Grindr**. There are also separate solutions for black people such as **BlackPeopleMeet** or Christian faith-based platforms like **Christian Mingle**. The online data industry also offers a row of platforms that unite people with special interests, such as gaming. **GamingPassions** is one of the most well-known solutions for gamers who want to find a partner with similar hobbies and preferences.
 
 ## What you should think about before creating a dating site
 
@@ -100,7 +98,7 @@ The concept of responsive design presupposes building solutions that are compati
 
 If you have already started to look for the answers to the question of how to build a dating site, you probably know that there are two main approaches: developing form from scratch and using a white-label solution.
 
-Though the first option can be rather challenging, the entire process is usually well-known to the majority of customers that we traditionally work with. You need to hire a good development team, share your requirements, choose the desired tech stack, and wait for the results. Of course, here the plan is very simplified. In reality, there are a lot of points to think about and the most important of them is [how to find a web developer](https://anadea.info/blog/how-to-find-a-web-developer). When you have excellent professionals by your side, you can fully rely on them and concentrate on your core business activities. Without any doubt, such a project will require serious investments from your side at the development and maintenance stages, but you can realize absolutely all your ideas.
+Though the first option can be rather challenging, the entire process is usually well-known to the majority of customers that we traditionally work with. You need to hire a good development team, share your requirements, choose the desired tech stack, and wait for the results. Of course, here the plan is very simplified. In reality, there are a lot of points to think about and the most important of them is how to find a web developer. When you have excellent professionals by your side, you can fully rely on them and concentrate on your core business activities. Without any doubt, such a project will require serious investments from your side at the development and maintenance stages, but you can realize absolutely all your ideas.
 
 A white-label solution can be explained as a product that is developed by a company without any branding with a view to selling this product to another company that will use its own brand for it. It means that instead of thinking about how to create a dating website, you will just need to find a company that sells white-label solutions, choose the most appropriate product, change it for your needs, and launch it for your audience. Moreover, you will be free from maintenance responsibilities as a seller will bear them. Of course, it sounds quite attractive but there are important disadvantages. For example, customization opportunities are limited, and in the majority of cases, you won't get access to your solution's source code and the server.
 
@@ -120,25 +118,19 @@ To find out what people what to get, you can either ask them directly about it v
 
 What features are the trendiest ones in dating website development?
 
-- **AI-driven matching**. It seems that artificial intelligence has captured the world and the online dating app industry is not an exception. AI tools can analyze previously made choices and indicated preferences in order to find users who can become a perfect match.
-
-- **Social login**. Logging in can be a rather time-consuming and even irritating procedure when users need to add all the details manually every time when they want to use a website. But you can allow your website to use the info from any other services like Google or Facebook. It will greatly enhance user experience and streamline the process.
-
-- **Location-based search.** Though this type of search is typical for mobile dating apps, you can also use it for your website. Location is one of the key criteria for those who are looking for relationships in real life.
-
-- **Ice-breakers**. Even when a user has found a good candidate to continue communication it can be rather difficult to establish contact. You can add some simple in-app games or lists of interesting questions that can help users to learn more facts about each other in a very simple way.
-
-- **Swiping**. "Swipe left" and "swipe right" are very convenient ways to show whether a candidate is interesting to you or not. Mainly, this approach is used in mobile apps but it can be also used in website development but in a little bit different realization.
+* **AI-driven matching**. It seems that artificial intelligence has captured the world and the online dating app industry is not an exception. AI tools can analyze previously made choices and indicated preferences in order to find users who can become a perfect match.
+* **Social login**. Logging in can be a rather time-consuming and even irritating procedure when users need to add all the details manually every time when they want to use a website. But you can allow your website to use the info from any other services like Google or Facebook. It will greatly enhance user experience and streamline the process.
+* **Location-based search.** Though this type of search is typical for mobile dating apps, you can also use it for your website. Location is one of the key criteria for those who are looking for relationships in real life.
+* **Ice-breakers**. Even when a user has found a good candidate to continue communication it can be rather difficult to establish contact. You can add some simple in-app games or lists of interesting questions that can help users to learn more facts about each other in a very simple way.
+* **Swiping**. "Swipe left" and "swipe right" are very convenient ways to show whether a candidate is interesting to you or not. Mainly, this approach is used in mobile apps but it can be also used in website development but in a little bit different realization.
 
 ## How can you earn money on your dating website?
 
 There are several monetization strategies that you can apply when you launch an online dating website. You can choose any of them or combine different options depending on the peculiarities of your target audience.
 
-- **Paid membership.** This option seems to be quite simple. People will pay for getting access to the functionality of your website. However, before introducing this business model, you should carefully analyze your chances to succeed with it. It is highly unlikely that people will be ready to pay for a service that they do not know and have never used before. However, you can introduce this option later when your brand is already well-established.
-
-- **Advertisements and collaborations**. Dating apps often attract numerous advertisers. And you shouldn't miss this chance to build cooperation with them, especially when they offer services that are related to the dating industry. Ads from flower delivery services and SPA centers may be rather helpful to users. But be careful and do not make advertising too annoying.
-
-- **Freemium features.** This model presupposes that the basic functionality of your website will be available for free, while advanced features will be available only on a paid basis. It's a good option for users to get familiarized with your platform without any financial risks and pay only when and if they are ready for it.
+* **Paid membership.** This option seems to be quite simple. People will pay for getting access to the functionality of your website. However, before introducing this business model, you should carefully analyze your chances to succeed with it. It is highly unlikely that people will be ready to pay for a service that they do not know and have never used before. However, you can introduce this option later when your brand is already well-established.
+* **Advertisements and collaborations**. Dating apps often attract numerous advertisers. And you shouldn't miss this chance to build cooperation with them, especially when they offer services that are related to the dating industry. Ads from flower delivery services and SPA centers may be rather helpful to users. But be careful and do not make advertising too annoying.
+* **Freemium features.** This model presupposes that the basic functionality of your website will be available for free, while advanced features will be available only on a paid basis. It's a good option for users to get familiarized with your platform without any financial risks and pay only when and if they are ready for it.
 
 ## How to make your dating website secure for users?
 
