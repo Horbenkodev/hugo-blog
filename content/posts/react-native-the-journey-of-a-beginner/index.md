@@ -123,7 +123,7 @@ const width = Dimensions.get('window').width
 
 Well, it's easy to get used to marking up with flexes. It is important to keep in mind that if the block has no specified width, height or flex > 0, then all internal elements will not be shown (!).
 
-I can not help but mention one more thing that you will certainly use in your application - <a href="https://blog.bam.tech/developper-news/change-your-react-native-app-icons-in-a-single-command-line" rel="nofollow" target="_blank">generating icons</a> for Android and iOS applications. You need a thousand and one of them to make your application look beautiful on any device. Fortunately, having Node 6, ImageMagick and the original image of at least 200x200 pixels, you can get every imaginable icons through the command line. In <strike>two words</strike> three commands:
+I can not help but mention one more thing that you will certainly use in your application - generating icons for Android and iOS applications. You need a thousand and one of them to make your application look beautiful on any device. Fortunately, having Node 6, ImageMagick and the original image of at least 200x200 pixels, you can get every imaginable icons through the command line. In <strike>two words</strike> three commands:
 
 ```
 npm install -g yo generator-rn-toolbox
