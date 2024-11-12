@@ -34,8 +34,6 @@ Although there are many types of healthcare database management systems that hea
 
 <a href="https://searchdatacenter.techtarget.com/definition/OLTP" target="_blank">OLTP databases</a> allow for quick, real-time transactional processing and deliver rapid response times. For example, when a patient presents their name at the front desk, the receptionist can search for their name in the <a href="https://anadea.info/solutions/medical-app-development/emr-ehr-development" target="_blank">electronic health record (EHR)</a> and instantly see a result. The electronic health record (EHR) is made possible through the use of OLTP databases. Being able to instantly find out a patient's information saves time and improves efficiency.
 
-{{< advert >}}Related read: [Development of Custom Electronic Medical Record (EMR) in Practice](https://anadea.info/blog/development-of-custom-emr-in-practice){{< /advert >}}
-
 ## Use cases
 
 What is the role of databases in healthcare? Let’s explore together.
