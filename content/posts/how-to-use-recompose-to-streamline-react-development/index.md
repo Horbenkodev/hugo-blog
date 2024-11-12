@@ -1,7 +1,7 @@
 ---
 title: How to Use Recompose to Streamline React Development
 draft: false
-publishDate: 2019-04-16T00:00:00Z
+publishDate: 2019-04-16T00:00:00.000Z
 image: React-recompose.jpg
 og_image: React-recompose.jpg
 description: It's pretty exciting to observe how DRY coding tools in React were
@@ -132,4 +132,4 @@ However, if the entire behavior of the component is already implemented through 
 
 Although <a href="https://reactjs.org/docs/render-props.html" target="_blank">other patterns</a> for describing the logic of general behavior are gaining popularity, Recompose remains a great tool that can impact not only your coding style, but perhaps also your way of thinking.
 
-We hope you enjoyed our React / Recompose tutorial. Keep reading our blog for more [development tips](https://anadea.info/blog/category/development) and advice!
+We hope you enjoyed our React / Recompose tutorial. Keep reading our blog for more development tips and advice!
