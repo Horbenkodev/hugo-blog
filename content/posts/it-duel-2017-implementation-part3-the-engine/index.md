@@ -5,7 +5,7 @@ title: 'IT Duel 2017: "Battle of the Bots - Hexagon" Creation of the Game - The
 breadcrumbs: IT Duel 2017 - The Game Engine
 slug: it-duel-2017-implementation-part3-the-engine
 draft: false
-publishDate: 2018-03-07T00:00:00Z
+publishDate: 2018-03-07T00:00:00.000Z
 image: game-engine.jpg
 og_image: game-engine.jpg
 description: In the previous articles of the series we decided on the required
@@ -30,7 +30,7 @@ In the previous articles of the series we decided on the required playground fun
 
 Let's add <a href="https://github.com/mperham/sidekiq" target="_blank">sidekiq</a> to our Ruby on Rails application. During the tournament we will need to process a lot of game battles between bots, and it would be nice to perform the games calculation in multithreaded mode, with the horizontal scaling possibility in case of need. The delayed tasks queue, processed by the worker processes pool, is a simple and effective way to achieve this.
 
-Use <a href="https://github.com/endofunky/sidetiq" target="_blank">side**t**iq</a> as the manager for periodic tasks. In the game engine there will be implemented a single periodic task, performed every 15 seconds, responsibility of which is to summarize the current games round and prepare the next round.
+Use sidekiq as the manager for periodic tasks. In the game engine there will be implemented a single periodic task, performed every 15 seconds, responsibility of which is to summarize the current games round and prepare the next round.
 
 It is worth noting that the periodic task in the *sidetiq* implementation is nothing more than the periodic addition of the same delayed task. We will prevent duplication of this task using <a href="https://github.com/mhenrixon/sidekiq-unique-jobs" target="_blank">sidekiq-unique-jobs</a> gem.
 
@@ -38,7 +38,7 @@ It is worth noting that the periodic task in the *sidetiq* implementation is not
 
 A <a href="https://github.com/digitalocean/droplet_kit" target="_blank">droplet_kit</a> with a small add-on will help us:
 
-~~~ruby
+```ruby
 class DropletClient
  # The name of master SSH key in the DigitalOcean panel
  SSH_KEY_NAME = 'fourcolor'.freeze
@@ -105,11 +105,11 @@ class DropletClient
  end
 
 end
-~~~
+```
 
 All operations with droplets are performed through delayed tasks, since the process, frankly speaking, is not instantaneous - *fetch_host* will start to return the droplet IP in 20 seconds after its *creation*:
 
-~~~ruby
+```ruby
 class Droplet < ApplicationRecord
 
  with_options unless: :imported? do
@@ -175,11 +175,11 @@ class Droplet < ApplicationRecord
  end
 
 end
-~~~
+```
 
 The code for pending tasks is fairly primitive, as it should be:
 
-~~~ruby
+```ruby
 class SystemJob < ActiveJob::Base
  queue_as :default
 end
@@ -201,7 +201,7 @@ class DeleteDropletJob < SystemJob
   Droplet.delete_client(droplet_client_id)
  end
 end
-~~~
+```
 
 ## Teams registration in the admin panel
 
@@ -209,7 +209,7 @@ The list of teams management is an ordinary CRUD, with using <a href="https://gi
 
 To generate login tokens (and in the future - also to generate the identifiers for games and replays) we will use the wonderful library <a href="https://github.com/peterhellberg/hashids.rb" target="_blank">hashids</a>. Since this token generation algorithm is reversible, we do not need to store tokens in the database. In addition, if we use *SECRET_KEY_BASE* as the "salt" of the algorithm, we can, if desired, invalidate all tokens simultaneously with the sessions:
 
-~~~ruby
+```ruby
 class Team < ApplicationRecord
  # Initiate a token generator
  HASHIDS = Hashids.new(
@@ -235,13 +235,13 @@ class Team < ApplicationRecord
  end
 
 end
-~~~
+```
 
 ### Printing the team flyer
 
 Let's give the admin the ability to print the team flyer directly from the page with the list of teams or from the team edit page, without reloading the page. The task is solved using the *iframe* in the *layout* template:
 
-~~~haml
+```haml
 !!!
 %html
  %body
@@ -250,20 +250,19 @@ Let's give the admin the ability to print the team flyer directly from the page 
 
   -# iframe with a special data attribute
   %iframe{ src: flash[:print], data: {'print-target' => true} }
-~~~
-
+```
 
 Hide iframe with styles:
 
-~~~css
+```css
 [data-print-target] {
  display: none;
 }
-~~~
+```
 
 Revive the iframe using the coffee script:
 
-~~~coffee
+```coffee
 $(document).on 'turbolinks:load', ->
  # Automatically open the system dialog box of a printer
  # when loading something into the iframe
@@ -276,11 +275,11 @@ $ ->
   # not into the main browser window, but in the iframe
   $('[data-print-target]').get()[0].src = $(event.target).parent().attr('href')
   event.preventDefault()
-~~~
+```
 
 Now you can print the response of any endpoint from an arbitrary location in the application:
 
-~~~ruby
+```ruby
 # Printing from the view
 link_to teams_manage_path(resource), data: {print: true} do
  %i.material-icons print
@@ -300,7 +299,7 @@ if params[:print_and_new]
 else
  redirect_to action: :index
 end
-~~~
+```
 
 ## Adding the player's SSH key to the team droplet
 
@@ -308,7 +307,7 @@ The players enter their public SSH key into the form on the sandbox site, then t
 
 When validating the SSH key format, <a href="https://github.com/bensie/sshkey" target="_blank">sshkey</a> will help us:
 
-~~~ruby
+```ruby
 class Droplet < ApplicationRecord
  def add_ssh_key(key)
   # player's public SSH key comes from user input - validate carefully!!!
@@ -322,7 +321,7 @@ class Droplet < ApplicationRecord
   $?.to_i == 0 ? :ok : :error
  end
 end
-~~~
+```
 
 Apparently, without *SSHKey.valid_ssh_public_key?* and *key.shellescape*, we would provide an opportunity for anyone who wants to execute an arbitrary shell script using the SSH key input form, with all the consequences () =) ;;;;>
 
@@ -330,7 +329,7 @@ Apparently, without *SSHKey.valid_ssh_public_key?* and *key.shellescape*, we wou
 
 As the main loop of the game engine, we implement a periodic task that runs every 15 seconds.
 
-~~~ruby
+```ruby
 class RoundWorker
  include Sidekiq::Worker
  include Sidetiq::Schedulable
@@ -392,16 +391,15 @@ class RoundWorker
  end
 
 end
-~~~
+```
 
 This worker waits until all the games of the round have finished, then performs a series of actions …
-
 
 ### RoundWorker#finish_previous_rounds
 
 Give the teams points for the games in the current round, mark the round as "finished":
 
-~~~ruby
+```ruby
 class Round < ApplicationRecord
 
  scope :pending, -> { where(pending: true) }
@@ -416,13 +414,13 @@ class Round < ApplicationRecord
   end
  end
 end
-~~~
+```
 
 ### RoundWorker#delete_marked_teams
 
 Instead of thinking about how the engine will be affected by the immediate team removal (crashed the delayed tasks of games calculation, WEB interface update, etc.) - the admin only marks the team for deletion, the actual deletion occurs when the current round ends:
 
-~~~ruby
+```ruby
 class Team < ApplicationRecord
 
  scope :for_delete, -> { where(for_delete: true) }
@@ -434,13 +432,13 @@ class Team < ApplicationRecord
  end
 
 end
-~~~
+```
 
 ### RoundWorker#prepare_tournament
 
 The administrator can restart the tournament - the actual restart occurs when the current round ends, just like the team removal:
 
-~~~ruby
+```ruby
 class Tournament < ApplicationRecord
 
  def prepare!
@@ -482,14 +480,13 @@ class Tournament < ApplicationRecord
  end
 
 end
-~~~
+```
 
 ### RoundWorker#prepare_next_round
 
 Let's prepare the next round.
 
-
-~~~ruby
+```ruby
 class Round < ApplicationRecord
 
  def self.prepare!
@@ -534,12 +531,12 @@ class Round < ApplicationRecord
  end
 
 end
-~~~
+```
 
 All created game sessions are placed in the delayed tasks queue for further calculation. In the process,
 notify the client about a new match using WebSocket:
 
-~~~ruby
+```ruby
 class Game < ApplicationRecord
 
  after_commit :add_to_ladder_and_schedule, on: :create
@@ -555,7 +552,7 @@ class Game < ApplicationRecord
  end
 
 end
-~~~
+```
 
 ## Calculation of the match
 
@@ -563,7 +560,7 @@ Finally, the most interesting! Program the game logic :)
 
 To begin with, let's learn how to generate random game fields:
 
-~~~ruby
+```ruby
 class Board
  cattr_reader(:scaffolds) { {} }
  attr_reader :size, :cells
@@ -654,14 +651,13 @@ class Board
  end
 
 end
-~~~
+```
 
 Let's put the game logic into a couple of separate classes. Program with particular attention - these classes deal with the user input, it is here that players' moves are processed.
 
 First, write a class that is responsible for the game field operations logic. There is a temptation to store the board state in the form of a two-dimensional array, in the same manner in which it is generated and sent to the bots. I admit, this option was implemented at the stage of prototyping, with all the consequences - for example, a complete search of the entire board when searching for available moves. In the release version, only the players' available moves were stored and maintained in the actual state - the code turned out to be nicer, the productivity increased two times (although I expected a more convincing increase...). So,
 
-
-~~~ruby
+```ruby
 class BoardSolver
  class WrongMove < StandardError; end
 
@@ -875,11 +871,11 @@ class BoardSolver
   cell.all?{ |index| (0...cells_size).include?(index) }
  end
 end
-~~~
+```
 
 Great, it works! :) Now let's describe a class that implements the general gameplay:
 
-~~~ruby
+```ruby
 class Gameplay
  attr_reader :solver, :players, :current_player, :current_color, :game_over
 
@@ -964,7 +960,7 @@ class Gameplay
  end
 
 end
-~~~
+```
 
 The match calculation code does not conceal in itself anything supernatural - many lines, the essence is mechanical work - just sit down and carefully code.
 
@@ -976,8 +972,7 @@ For requests to the bots API, we use the extremely comfortable <a href="https://
 
 During the game session, remember the moves and key parameters of the playing board - it will come in handy for displaying replays.
 
-
-~~~ruby
+```ruby
 class GamePerformer
 
  include HTTParty
@@ -1262,7 +1257,7 @@ class GamePerformer
  end
 
 end
-~~~
+```
 
 Well, almost everything is ready on the backend, it's time to get busy with the frontend!
 
@@ -1278,7 +1273,7 @@ As an example, we will analyze the ladder page, that is, the tournament list of 
 
 Let's write a simple WebSocket channel controller:
 
-~~~ruby
+```ruby
 class LadderIndexChannel < ApplicationCable::Channel
 
  # Subscribe the client to the stream
@@ -1301,12 +1296,11 @@ class LadderIndexChannel < ApplicationCable::Channel
  end
 
 end
-~~~
+```
 
 Stepping aside and only as an example of a parametrized channel, we give the controller code for the page for monitoring the specific team:
 
-
-~~~ruby
+```ruby
 class LadderShowChannel < ApplicationCable::Channel
 
  def subscribed
@@ -1340,11 +1334,11 @@ class LadderShowChannel < ApplicationCable::Channel
  end
 
 end
-~~~
+```
 
 Let's return to the ladder page, start sending messages to the channel about the admin's actions in relation to the teams. The following code hardly needs the further comments:
 
-~~~ruby
+```ruby
 class Team < ApplicationRecord
 
  after_create :add_to_ladder
@@ -1374,12 +1368,11 @@ class Team < ApplicationRecord
  end
 
 end
-~~~
+```
 
 React to change in the team's score and to a new release (it was very convenient to keep the new release flag in the Score model to show the release moments on the dynamic scores chart):
 
-
-~~~ruby
+```ruby
 class Score < ApplicationRecord
 
  after_create :update_in_ladder
@@ -1403,11 +1396,11 @@ class Score < ApplicationRecord
  end
 
 end
-~~~
+```
 
 Everything is ready on the server side, let's deal with the client. Using the <a href="https://github.com/reactjs/react-rails" target="_blank">react-rails</a> library, write a couple of spiteful React components:
 
-~~~js
+```js
 var LadderIndex = React.createClass({
 
  componentDidMount() {
@@ -1471,9 +1464,9 @@ var LadderIndex = React.createClass({
  }
 
 });
-~~~
+```
 
-~~~js
+```js
 var LadderIndexScores = React.createClass({
 
  getInitialState() {
@@ -1564,11 +1557,11 @@ var LadderIndexScores = React.createClass({
  }
 
 });
-~~~
+```
 
 It remains only to draw the LadderIndex component, and it will live its own life. Render directly from the Rails controller, with server-side precompilation:
 
-~~~ruby
+```ruby
 module Teams
  class LadderController < ApplicationController
   def index
@@ -1578,7 +1571,7 @@ module Teams
   end
  end
 end
-~~~
+```
 
 ## Training bot
 
@@ -1588,8 +1581,7 @@ We will write in Ruby on Rails, in API-only mode. For a basis, take the <a href=
 
 Let's show the bot code as it is, raw. The controller looks exactly as it should:
 
-
-~~~ruby
+```ruby
 class GamesController < ApplicationController
  # A small trick is storing board states in a class variable, not in a file or DB,
  # that is, avoid serialization - the benefit is that the default web server *puma*
@@ -1639,12 +1631,11 @@ class GamesController < ApplicationController
  end
 
 end
-~~~
+```
 
 A brief, with no special frills, bot code:
 
-
-~~~ruby
+```ruby
 class Robot
 
  attr_reader :board, :jumps
@@ -1772,7 +1763,7 @@ class Robot
  end
 
 end
-~~~
+```
 
 The training bot is ready - let's deploy it to a $10 droplet, the same as for all players. The response time for any request is ~3ms. In this case, the bot takes full participation in the tournament in four sandboxes at once, so in the worst case it was requested from 40 threads instead of the 10 usual for regular players, and no timeouts were observed throughout the whole tournament.
 
