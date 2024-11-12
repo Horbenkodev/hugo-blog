@@ -4,7 +4,7 @@ title: "Health IT Startup Funding: Here’s How to Attract the Investment"
 breadcrumbs: Health IT Startup Funding
 slug: health-it-startup-funding-how-to-attract-the-investment
 draft: false
-publishDate: 2019-01-31T00:00:00Z
+publishDate: 2019-01-31T00:00:00.000Z
 image: Seed-funding.jpg
 og_image: Seed-funding.jpg
 description: Healthcare is an evergreen industry worldwide. As advances in
@@ -25,8 +25,6 @@ industries:
 Healthcare is an evergreen industry worldwide. As advances in medical sciences and pharmaceuticals continue, there will be no dearth of innovative ideas to launch healthcare based startups. In all probability, most health startups will be IT-based. Primarily because IT now touches almost every sphere of our lives.
 
 Consequently, there are lots of healthсare app startups coming up with most of them faring relatively well. However, funding them can prove cumbersome. Luckily, here are some excellent ways how to get seed funding for a startup in health IT startup that you may consider.
-
-{{< advert >}}Related read: [How Much Does It Cost to Develop an App for Healthcare?](https://anadea.info/blog/how-much-does-it-cost-to-develop-an-app-for-healthcare){{< /advert >}}
 
 ## Seed funding for health IT startup
 
