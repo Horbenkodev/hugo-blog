@@ -2,7 +2,7 @@
 title: How to Build a Travel App That Wins Customer Loyalty
 breadcrumbs: Create a Travel Application
 draft: false
-publishDate: 2018-08-10T00:00:00Z
+publishDate: 2018-08-10T00:00:00.000Z
 image: Travel-app-trends.jpg
 og_image: Travel_app_trends.jpg
 description: Travelers want to focus on enjoying their trip, not getting bogged
@@ -59,7 +59,7 @@ Crafting a home away from home is nerve-wracking when there are a hundred things
 
 <center><img src="https://cdn.dribbble.com/users/760826/screenshots/3627805/map.gif" alt="Map views" style="width: 80%;"/></center>
 
-Although it can be particularly enjoyable to explore the location on foot or by transport, sometimes travelers need a map to show them exactly where something is. This might be on the journey there – such as <a href="http://corporate.flio.com/" rel="nofollow" target="_blank">FLIO's</a> airport map and information – or once the traveller arrives by giving recommendations for activities nearby (with directions included, of course).
+Although it can be particularly enjoyable to explore the location on foot or by transport, sometimes travelers need a map to show them exactly where something is. This might be on the journey there – such as FLIO's airport map and information – or once the traveller arrives by giving recommendations for activities nearby (with directions included, of course).
 
 ### Think outside the box
 
