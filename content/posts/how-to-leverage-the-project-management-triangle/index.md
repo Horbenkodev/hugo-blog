@@ -2,7 +2,7 @@
 title: How to Leverage the Project Management Triangle
 breadcrumbs: Project Management Triangle
 draft: false
-publishDate: 2018-06-18T00:00:00Z
+publishDate: 2018-06-18T00:00:00.000Z
 image: Project-management.png
 og_image: Project-management.png
 description: Being the project manager at a software development company, I
@@ -29,7 +29,7 @@ The only way to handle such situations is to introduce a clear process which let
 
 > In order to manage, you have to measure it
 
-In this article, we will show you how to properly manage all three project constraints and [maintain transparency](https://anadea.info/blog/transparency-as-a-clue-to-successful-partnership) throughout the software development lifecycle.
+In this article, we will show you how to properly manage all three project constraints and maintain transparency throughout the software development lifecycle.
 
 Let's review each constraint in detail.
 
@@ -56,12 +56,15 @@ Based on outcomes of these two steps, project manager creates a Work breakdown s
 Estimation of every feature includes the following activities:
 
 ### 1. Development of the feature
+
 At this stage, a developer writes code based on specification document and design.
 
 ### 2. Feature testing
+
 [QA testing services](https://anadea.info/services/quality-assurance) ensure that the feature meets specified requirements and do not cause any negative impact on other parts of the system. If any issues are detected, quality engineer documents the issue (called 'bug') and addresses it to the development camp.
 
 ### 3. Bugfixing
+
 Based on QA specialist's recommendations, developer fixes bugs or implements improvements initiated by QA.
 
 In order to track progress on the development phase, project manager compares planned estimate with actual one so that there is a clear understanding if the project is on schedule or not.
