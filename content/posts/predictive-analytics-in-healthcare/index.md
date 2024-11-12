@@ -55,8 +55,6 @@ Let’s get down to the basics, first. What is healthcare’s Big Data? Big Data
 
 Back in the day, all medical records were done in the traditional way of pen and paper. But with the advancement of technology, these data are now digitized and called “<a href="https://anadea.info/solutions/medical-app-development/emr-ehr-development" target="_blank">Electronic Health Records</a>” or EHR.
 
-{{< advert >}}Related read: <a href="https://anadea.info/blog/development-of-custom-emr-in-practice">Developing Custom EMR in Practice</a>{{< /advert >}}
-
 So how can this data help the healthcare industry through predictive analytics?
 
 ![Benefits of predictive analytics in healthcare](Benefits-of-predictive-analytics-in-healthcare.jpg)
