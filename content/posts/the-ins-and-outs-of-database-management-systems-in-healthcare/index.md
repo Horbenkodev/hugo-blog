@@ -55,8 +55,6 @@ In addition to providing fast and efficient service, there are several other rea
 
 Although there are many other benefits of using database management systems for healthcare industries, these four are the most impactful.
 
-{{< advert >}}Related read: [How Much Does It Cost to Develop an App for Healthcare?](https://anadea.info/blog/how-much-does-it-cost-to-develop-an-app-for-healthcare){{< /advert >}}
-
 ## Cons of database management systems in healthcare
 
 ![Cons of DMS in healthcare](Cons-of-dms-in-healthcare.jpg)
