@@ -23,7 +23,7 @@ Travelers want to focus on enjoying their trip, not getting bogged down by plann
 
 ## The growth of apps in the travel sector
 
-Although apps, in general, have seen consistent growth year after year, travel apps have been particularly popular. In 2012, there was a 116% increase in travel apps compared to an 84% growth in general mobile app use, <a href="https://www.emarketer.com/Article/Travel-Apps-Lead-Industries-Usage-Growth/1009408" target="_blank">the second highest increase after photography</a>.
+Although apps, in general, have seen consistent growth year after year, travel apps have been particularly popular. In 2012, there was a 116% increase in travel apps compared to an 84% growth in general mobile app use, the second highest increase after photography.
 
 While travel apps are typically associated with booking hotels, only 18% of users had booked a hotel room with a mobile app, with the most common activity is to look up the hotel address or directions (29%), followed by activities outside of the expected bookings, including attractions to visit (23%) and nearby restaurants (22%).
 
