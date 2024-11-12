@@ -86,7 +86,7 @@ At present, PWA does not support all hardware components supported by traditiona
 
 ## PWA vs native mobile app vs hybrid
 
-Businesses have three options to reach their mobile audience - to create a native mobile app, to build a progressive web app and to create a hybrid. We included all three in comparison. What is a hybrid app we discussed in one of our previous articles. Briefly, it is an app developed using technologies that allow you to get access to native API with a certain amount of common code for different platforms. Let's look at the differences between PWA, native and hybrids.
+Businesses have three options to reach their mobile audience - to create a native mobile app, to build a progressive web app and to create a hybrid. We included all three in comparison. Briefly, it is an app developed using technologies that allow you to get access to native API with a certain amount of common code for different platforms. Let's look at the differences between PWA, native and hybrids.
 
 ### Cost of development
 
