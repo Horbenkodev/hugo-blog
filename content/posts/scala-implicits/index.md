@@ -24,7 +24,7 @@ Programmers strive to write simple and understandable code. The less code is wri
 
 ## Implicit conversions
 
-Let's start from ```implicit conversions```. The purpose of their usage can be understood from the name - the transformation of data of one type into another (string into date, array into Option, soft into warm). If there is an implicit function ```A => B``` in the scope, the compiler can perform such a conversion:
+Let's start from `implicit conversions`. The purpose of their usage can be understood from the name - the transformation of data of one type into another (string into date, array into Option, soft into warm). If there is an implicit function `A => B` in the scope, the compiler can perform such a conversion:
 
 ```scala
 def call(str: String): Unit = println(str)
@@ -34,7 +34,7 @@ implicit def intToString(i: Int): String = i.toString
 call(1)
 ```
 
-Let's see how scalac understands this code (here and throughout ```-Xprint:typer``` key is used for the compiler):
+Let's see how scalac understands this code (here and throughout `-Xprint:typer` key is used for the compiler):
 
 ```scala
 object ImplicitApp extends Object with App {
@@ -44,13 +44,13 @@ object ImplicitApp extends Object with App {
 }
 ```
 
-Indeed, the compiler adds another method to the chain of calls, so that the type of the passed parameter in the ```call``` method matches the required one.
+Indeed, the compiler adds another method to the chain of calls, so that the type of the passed parameter in the `call` method matches the required one.
 
 Such way of using Scala's implicit conversion is the most non-obvious. Only IDE and hours spent on debugging will let you find out why the call method works with the parameter of the wrong type. Do not abuse this kind of implicit conversions.
 
 ## Extension methods
 
-More predictable conversions are ```extension methods```. They come to the rescue if we want to add a new method to the class, when we don't have access to its source code. The required functionality is added via a new implicit class:
+More predictable conversions are `extension methods`. They come to the rescue if we want to add a new method to the class, when we don't have access to its source code. The required functionality is added via a new implicit class:
 
 ```scala
 implicit class RichString(str: String) {
@@ -93,7 +93,7 @@ As can be seen, before calling the "non-existent" method, a new object is create
 
 ## Implicit parameters
 
-Another way for using the implicit magic of Scala is implicit parameters. The compiler can pass parameters to the function marked with the ```implicit``` keyword. Parameters can be either variables or functions:
+Another way for using the implicit magic of Scala is implicit parameters. The compiler can pass parameters to the function marked with the `implicit` keyword. Parameters can be either variables or functions:
 
 ```scala
 implicit val executor: Executor = (task: Task) => println(task.toString)
@@ -126,7 +126,7 @@ Thus, we simplify the mandatory part of the signature function, and the ability 
 
 ## Type classes
 
-By connecting the extension methods and implicit parameters together, you get a suitable tool for working with type classes. The ```typeclass``` is a characteristic that defines what the class can do, what operations can be performed with this class. The most obvious example from the standard library is the ```Ordering``` trait. It tells that objects of this type can be ordered. Let's create our own typeclass and convenient API using implicits:
+By connecting the extension methods and implicit parameters together, you get a suitable tool for working with type classes. The `typeclass` is a characteristic that defines what the class can do, what operations can be performed with this class. The most obvious example from the standard library is the `Ordering` trait. It tells that objects of this type can be ordered. Let's create our own typeclass and convenient API using implicits:
 
 ```scala
 trait Equal[A] {
@@ -143,7 +143,7 @@ object Equal {
 }
 ```
 
-```Equal``` can be used directly (apply method):
+`Equal` can be used directly (apply method):
 
 ```scala
 implicit val intEqual: Equal[Int] =
@@ -185,5 +185,4 @@ The source code for the examples is available on [Github](https://github.com/ser
 More articles about Scala and functional programming:
 
 * [Why You Should Use Tail Recursion in Scala](https://anadea.info/blog/tail-recursion-in-scala)
-* [Comparative Analysis of Slick 2 and Slick 3](https://anadea.info/blog/comparative-analysis-of-slick-2-and-slick-3)
 * [What is JVM and Why it is Worth to Develop Apps on Java Platform](https://anadea.info/blog/what-is-jvm-and-why-develop-apps-on-java)
