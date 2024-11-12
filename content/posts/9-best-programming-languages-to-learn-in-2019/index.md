@@ -55,8 +55,6 @@ Rust is an open source programming language usually compared with C but is a bit
 
 Ruby is hands-down, one of the best programming languages to learn. It is a general-purpose language designed by Yukihiro Matsumoto in mid-1990. Compared to most other languages, it is user-friendly and requires less code for more actions done by the program. Most rubists reported that they have picked up this language fast and have made good progress with it in a short time. Ruby became popular with one of its most common framework, Ruby on Rails and still proves to be successful. The main drawback would be that it takes longer for a program wrote in Ruby to compile. However, this should not worry you as long as you do a good job, your program will be of great value.
 
-{{< advert >}}Related read: [Why Ruby on Rails is So Popular?](https://anadea.info/blog/why-ruby-on-rails-is-so-popular){{< /advert >}}
-
 ## 6. C++
 
 C++ is one of the old languages out there. It was designed by Dennis Ritchie back in 1985 and has since been able to survive in this ever-changing industry as one of the most popular programming languages for desktop applications development. It might not be the easiest programming language to learn when compared to Ruby but is sure to be one of the best. Progress is usually slow, but once you pick this language up, it will be easier for you to understand other programming languages as well.
