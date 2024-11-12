@@ -73,7 +73,7 @@ So when you add a key/value to a hash, it will always be bound to the same repos
 
 ![How insertion works](How-insertion-works.png)
 
-1. The first thing [ruby](https://anadea.info/blog/why-ruby-on-rails-is-so-popular) does is it takes the hash of the key using the internal hash function.
+1. The first thing ruby does is it takes the hash of the key using the internal hash function.
 
 ```ruby
 :c.hash #=> 2782
@@ -130,7 +130,6 @@ num_entries > ST_DEFAULT_MAX_DENSITY * table->num_bins
 ```
 
 [See more](https://github.com/ruby/ruby/blob/d40ea2afa6ff5a6e5befcf342fb7b6dc58796b20/st.c#L463-L464)
-
 
 {{< advert >}}Ruby (before ruby 2.2.0) uses prime numbers to determine bucket sizes (11, 19, 37) [see more](https://github.com/ruby/ruby/blob/410b031acb0b85e86564cc5d6fdde57b1251505f/st.c#L151-L179), where initial bucket size was 11.<br /><br />
 But after 2.2.0 it was decided to use sizes that correspond to "powers of two" (16, 32, 64, 128, …).
