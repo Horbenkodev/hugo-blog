@@ -45,6 +45,7 @@ Telehealth has been praised for increasing the overall accessibility of the over
 The advent of <a href="https://anadea.info/solutions/medical-app-development/emr-ehr-development" target="_blank">electronic health records</a> (EHRs) has shifted the way that medical records are stored and accessed. EHRs are now stored in the cloud, making it easy to access them quickly and scale their use. Patients can now view their health records and information through online platforms, which can help them make informed decisions about their healthcare.
 
 ### Medical devices
+
 Wearable medical devices have become increasingly popular in recent years, and for good reason. They allow individuals to track their physical activity, monitor their sleep patterns, and even measure their heart rate and blood pressure. This data can be invaluable in helping individuals understand their health status and make informed decisions about their lifestyle choices.
 
 In addition to personal use, wearable medical devices are also being used in clinical settings to monitor patients remotely. This can be particularly helpful for patients with chronic conditions, as it allows doctors to monitor their health status and adjust their treatment plans as necessary.
@@ -60,8 +61,6 @@ Through social media, patients can learn about healthy habits, get advice on how
 ### Research and development
 
 Innovation is ever increasing! It's important to consider the benefits of investing in research and development. The future and implications of <a href="https://www.forbes.com/sites/danielnewman/2018/04/20/why-digital-transformation-in-healthcare-needs-to-prioritize-user-experience/#1bc18e04bb8a" target="_blank">ideas like healthcare robotics and machine learning</a> are still in their infancy but quickly growing with a lot of potential for decreasing the cost and increasing the quality of healthcare while influencing the doctor-patient relationship.
-
-{{< advert >}}Related read: [How Much Does It Cost to Develop an App for Healthcare?](https://anadea.info/blog/how-much-does-it-cost-to-develop-an-app-for-healthcare){{< /advert >}}
 
 ### Big data
 
