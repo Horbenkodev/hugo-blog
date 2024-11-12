@@ -3,7 +3,7 @@ ceoTitle: ""
 title: Localizing Medical Management Software
 slug: localizing-a-medical-management-software
 draft: false
-publishDate: 2019-05-08T00:00:00Z
+publishDate: 2019-05-08T00:00:00.000Z
 image: Localizing_medical_software.jpg
 og_image: Localizing-medical-software.jpg
 description: Medical software localization is a delicate task. It's not
@@ -35,6 +35,7 @@ This may sound like a generic and no-brainer reminder, but it's worth repeating 
 * Allocate enough time in hiring proficient and experienced translators with medical knowhow. Efficient language service companies usually don't have in-house translators. They rely on freelancers or independent contractors especially for less popular languages. It would be staggeringly costly to hire permanent translators unless the company focuses on specific languages.
 * Set deadlines, not just a single deadline for the completion of the entire project. There should be a timeline for the completion of specific tasks. Divide the project into tasks with their respective delivery times.
 * Consider a project timeline that involves the following minimum steps:
+
   * identification of project goals,
   * preparation and compilation of the source materials,
   * actual translation work,
@@ -69,8 +70,6 @@ There should at least be two stages of review or quality control for the localiz
 [Medical management software](https://anadea.info/solutions/medical-app-development/hospital-management-development) may not be covered by legal requirements on associated software for medical equipment, but to be sure, it's advisable to inquire about the pertinent legal regulations.
 
 In some cases, software testing may be undertaken by the localization service provider. Not all language service providers can do this, but there are those that go the extra mile as they provide software localization services that include software evaluation to make sure that the changes implemented on the software's code do not create technical issues.
-
-{{< advert >}}Related read: [Testing Localization With Cucumber](https://anadea.info/blog/testing-localization-with-cucumber){{< /advert >}}
 
 ### 5. Designate an experienced project manager and expert quality assurance (QA) supervisors
 
