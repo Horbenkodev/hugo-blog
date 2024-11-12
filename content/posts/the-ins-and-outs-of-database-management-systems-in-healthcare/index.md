@@ -1,7 +1,7 @@
 ---
 title: The Ins and Outs of Database Management Systems in Healthcare
 draft: false
-publishDate: 2019-06-07T00:00:00Z
+publishDate: 2019-06-07T00:00:00.000Z
 image: Database-management-systems-in-healthcare.jpg
 og_image: Database-management-systems-in-healthcare.jpg
 description: Database management systems are software that handles the storage,
@@ -51,11 +51,8 @@ What is the role of databases in healthcare? Let’s explore together.
 In addition to providing fast and efficient service, there are several other reasons why healthcare industries are beginning to integrate database management systems into their companies. The following are benefits of using a DMS system in your company:
 
 * **The ability to make more informed business decisions.** Database management systems allow healthcare professionals to make more informed business decisions due to the ample amount of data they have access to. The more data that healthcare professionals have access to, the better chance that they make the most informed decision possible.
-
 * **Improved patient engagement.** Improving patient engagement is of high priority for many healthcare professionals, and database management systems do just that. They do this by using predictive modeling and analysis that incentivize patients to engage with their healthcare professionals.
-
 * **Improved population health outcomes.** The third most impactful reason why healthcare industries are beginning to integrate database management systems into their companies is that they improve population health outcomes. They do this by tracking current health trends and predicting upcoming ones.
-
 * **An extra layer of security.** Last but not least, database management systems provide an extra layer of security for all of the information that is stored online. <a href="https://www.liquibase.com/resources/guides/database-continuous-integration" target="_blank">Database security</a> is extremely important to have for all industries, but even more important for the healthcare industry because they have a lot of people's personal and private information.
 
 Although there are many other benefits of using database management systems for healthcare industries, these four are the most impactful.
@@ -73,8 +70,6 @@ Raw data is data that you have received, but do not fully understand how to inte
 The other major con of database management systems is siloed data. Siloed data means that each application has its own database. The reason why this is a con is that it is important for healthcare organizations to be able to cross-reference data in a fairly easy manner. Not being able to do so makes it that much harder for healthcare organizations to come up with new and innovative ideas, and solutions to problems.
 
 Unfortunately, siloed data is a natural result of the OLTP database architecture, and if you are using OLTP databases, there is nothing you can do to fix this problem. However, the use of a second database called OLAP (online analytical processing) can help fix these problems. Although this second database will help, it can be problematic due to the confusion that it could cause within healthcare organizations. Not only can it cause confusion, but it is also expensive to use two separate databases as well.
-
-{{< advert >}}Related read: [How Not to Lose the Database Logic in Rails Application](https://anadea.info/blog/sql-as-app-part){{< /advert >}}
 
 ## Bottom line
 
