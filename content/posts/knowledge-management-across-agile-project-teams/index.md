@@ -2,7 +2,7 @@
 title: Knowledge Management across Agile Project Teams
 breadcrumbs: Agile Teams Knowledge Management
 draft: false
-publishDate: 2018-02-19T00:00:00Z
+publishDate: 2018-02-19T00:00:00.000Z
 image: Knowledge_management.jpg
 og_image: Knowledge_management.jpg
 description: If you happen to own or work for a software enterprise, you
@@ -50,7 +50,7 @@ Agile organizations generate corporate principles that inspire collaboration and
 
 ### 2. Pair programming
 
-<a href="https://www.agilealliance.org/glossary/pairing/" target="_blank">Pair programming</a> is a popular <a href="https://anadea.info/blog/best-practices-when-managing-a-distributed-team" target="_blank">software development</a> technique in which two programmers work together on a single workstation. This technique can also be applied to the agile project teams with regards to knowledge management. This way, employees who have faced a particular design issue in the past can educate their companions on how to best tackle it and resolve it in the existing setting.
+Pair programming is a popular <a href="https://anadea.info/blog/best-practices-when-managing-a-distributed-team" target="_blank">software development</a> technique in which two programmers work together on a single workstation. This technique can also be applied to the agile project teams with regards to knowledge management. This way, employees who have faced a particular design issue in the past can educate their companions on how to best tackle it and resolve it in the existing setting.
 
 Moreover, by means of pair alternation the whole team can share similar information, as associates will handover experience among one another every time they alternate. Consequently, it surges corporate learning and retains the business information as now if any employee chooses to leave the business, the knowledge would be sustained with the other employees.
 
