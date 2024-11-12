@@ -4,7 +4,7 @@ title: "Software Development: Do It In-House or Outsource?"
 breadcrumbs: In-House VS Outsource
 slug: software-development-do-it-inhouse-or-outsource
 draft: false
-publishDate: 2017-09-08T00:00:00Z
+publishDate: 2017-09-08T00:00:00.000Z
 image: hire-or-outsource1.jpg
 og_image: hire-or-outsource1.jpg
 description: We often hear that we live in the world of possibilities. However,
@@ -73,7 +73,7 @@ Let's say you can get an outsourced team for the same amount of cash you'd spend
 
 Learn about company's **reputation.** See what projects they have developed, check their customers feedback, find out how long this company has been already operating in the market and so on. <a href="https://www.b2blistings.org/">B2B companies</a> with many years of experience have plenty information about them on the Web. They would gladly show you their portfolio and give you contacts of previous customers. After all, a tree is known by its fruit. Learn about a fruit that company provides and what others think of it.
 
-Last but not least - **[right estimation](https://anadea.info/blog/how-to-solve-agile-estimation-problem).** You can find your dream team, you like everything about them and particularly their temptingly low development cost estimate. However, if they underestimated your project and unexpected additional costs will spring up in the course of development, you can run out of budget before the project is ready to release. If you don't want to end up with an unfinished product, check twice that the estimate is fair, accurate and there are no pricing games.
+Last but not least - **right estimation.** You can find your dream team, you like everything about them and particularly their temptingl low development cost estimate. However, if they underestimated your project and unexpected additional costs will spring up in the course of development, you can run out of budget before the project is ready to release. If you don't want to end up with an unfinished product, check twice that the estimate is fair, accurate and there are no pricing games.
 
 ## Conclusion
 
