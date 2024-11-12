@@ -66,14 +66,14 @@ For LiveOps, it was a huge success, as <a href="https://www.fastcompany.com/3063
 
 ### Key considerations in employee productivity app development
 
-* __Clearly define your goals:__ Set clear and specific objectives for your gamification app, and make sure they align with your company's goals. Define what you want to achieve and why, then work backward to identify the steps required to achieve them.
-* __Understand user outcomes:__ Determine what you expect your employees to achieve when using the app. Identify the actions they need to take to get rewards and make sure they are connected in a smart way with the business objectives.
-* __Design for user experience:__ Consider how the app will fit into your team's workflow. Determine if it can be integrated with other apps and tools, and make sure it's user-friendly and easy to use.
-* __Ensure it's engaging:__ Don't forget about the "fun" aspect of gamification. Involve your employees in the process from start to finish. Get a small group to present ideas, beta test the app, and become advocates for it once it's rolled out.
-* __Choose the right game elements:__ Select gamification strategies and elements that will appeal directly to your team and incentivize them when working. Leaderboards and rewards are a must in any competitive environment, but there are many other game elements to consider as well.
-* __Consider the long-term impact:__ Evaluate the long-term impact of your gamification app. Will it help you achieve your goals and improve employee engagement over time? Continuously monitor the app's effectiveness and make adjustments as necessary.
-* __Personalization:__ Consider incorporating personalized challenges or learning paths, customized to each employee's needs, interests and role.
-* __Collaboration:__ Incorporate team-based challenges that encourage collaboration, promote knowledge-sharing and reinforce company culture.
-* __Continual improvement:__ Ensure the app is regularly updated with new challenges, rewards and feedback mechanisms to keep employees engaged and motivated over the long-term.
+* **Clearly define your goals:** Set clear and specific objectives for your gamification app, and make sure they align with your company's goals. Define what you want to achieve and why, then work backward to identify the steps required to achieve them.
+* **Understand user outcomes:** Determine what you expect your employees to achieve when using the app. Identify the actions they need to take to get rewards and make sure they are connected in a smart way with the business objectives.
+* **Design for user experience:** Consider how the app will fit into your team's workflow. Determine if it can be integrated with other apps and tools, and make sure it's user-friendly and easy to use.
+* **Ensure it's engaging:** Don't forget about the "fun" aspect of gamification. Involve your employees in the process from start to finish. Get a small group to present ideas, beta test the app, and become advocates for it once it's rolled out.
+* **Choose the right game elements:** Select gamification strategies and elements that will appeal directly to your team and incentivize them when working. Leaderboards and rewards are a must in any competitive environment, but there are many other game elements to consider as well.
+* **Consider the long-term impact:** Evaluate the long-term impact of your gamification app. Will it help you achieve your goals and improve employee engagement over time? Continuously monitor the app's effectiveness and make adjustments as necessary.
+* **Personalization:** Consider incorporating personalized challenges or learning paths, customized to each employee's needs, interests and role.
+* **Collaboration:** Incorporate team-based challenges that encourage collaboration, promote knowledge-sharing and reinforce company culture.
+* **Continual improvement:** Ensure the app is regularly updated with new challenges, rewards and feedback mechanisms to keep employees engaged and motivated over the long-term.
 
-If you'd like to implement your gamification ideas in practice, a skilled and experienced development team, such as Anadea, can give you a [custom quote](https://anadea.info/free-project-estimate) and guide you through the process. [Gamification apps](https://anadea.info/blog/gamification-in-business), when designed and tailored to the needs of your team, will give your business a real-world boost while also making work more fun for your employees. Everyone wins!
+If you'd like to implement your gamification ideas in practice, a skilled and experienced development team, such as Anadea, can give you a [custom quote](https://anadea.info/free-project-estimate) and guide you through the process. Gamification apps, when designed and tailored to the needs of your team, will give your business a real-world boost while also making work more fun for your employees. Everyone wins!
