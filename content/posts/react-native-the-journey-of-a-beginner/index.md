@@ -2,7 +2,7 @@
 title: "React Native: The Journey of a Beginner "
 breadcrumbs: " React Native Beginner Experience"
 draft: false
-publishDate: 2018-03-12T00:00:00Z
+publishDate: 2018-03-12T00:00:00.000Z
 image: React-native-app.jpg
 og_image: React-native-app.jpg
 description: React Native is, perhaps, the most interesting and fast-evolving
@@ -40,9 +40,9 @@ The most essential and commonly used React modules:
 
 **1. Redux**
 
-  * <a href="https://github.com/reactjs/react-redux" rel="nofollow" target="_blank">react-redux</a>,
-  * <a href="https://github.com/evgenyrodionov/redux-logger" rel="nofollow" target="_blank">redux-logger</a> - an indispensable tool for debugging,
-  * <a href="https://github.com/redux-saga/redux-saga" rel="nofollow" target="_blank">redux-saga</a> - the best solution for managing side effects.
+* <a href="https://github.com/reactjs/react-redux" rel="nofollow" target="_blank">react-redux</a>,
+* <a href="https://github.com/evgenyrodionov/redux-logger" rel="nofollow" target="_blank">redux-logger</a> - an indispensable tool for debugging,
+* <a href="https://github.com/redux-saga/redux-saga" rel="nofollow" target="_blank">redux-saga</a> - the best solution for managing side effects.
 
 **2. Selectors**
 
@@ -69,7 +69,7 @@ To learn how to use the camera, photo/video library, downloading and sharing, ch
 * <a href="https://github.com/react-native-community/react-native-camera" rel="nofollow" target="_blank">react-native-camera</a> - work with camera,
 * <a href="https://github.com/react-native-community/react-native-video" rel="nofollow" target="_blank">react-native-video</a> - video player.
 
-The last three libraries require additional permissions on the phone, such as: access to the library, camera, local data storage. It should be noted that these permissions will be automatically requested from the user during app installation. The exception is the new (above the 6th) versions of Android. Therefore, we need to request the permission when an application wants to access related services (<a href="https://dzone.com/articles/android-runtime-permissions" rel="nofollow" target="_blank">and that's why</a>). There is an example in the <a href="https://react-native.org/doc/permissionsandroid.html" rel="nofollow" target="_blank">documentation</a> that can be turned into a small library:
+The last three libraries require additional permissions on the phone, such as: access to the library, camera, local data storage. It should be noted that these permissions will be automatically requested from the user during app installation. The exception is the new (above the 6th) versions of Android. Therefore, we need to request the permission when an application wants to access related services. There is an example in the <a href="https://react-native.org/doc/permissionsandroid.html" rel="nofollow" target="_blank">documentation</a> that can be turned into a small library:
 
 ```
 import { PermissionsAndroid, Platform } from 'react-native'
