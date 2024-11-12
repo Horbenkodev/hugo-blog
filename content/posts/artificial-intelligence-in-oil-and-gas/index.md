@@ -56,7 +56,7 @@ Digitalization can bring the market enhanced productivity, operational efficienc
 
 Artificial intelligence in oil and gas industry is widely named as a real game changer. AI systems can greatly change the way companies in the industry are working today, including but not limited to such functions as streamlining and facilitating many processes, for example, oil exploration, drilling, production, and organizing deliveries.
 
-According to the [survey](https://www.ey.com/en_ro/applying-ai-in-oil-and-gas) conducted by Ernst & Young, 92% of oil and gas enterprises located in different corners of the world are already investing in artificial intelligence or have plans to do it in the next 2 years. 50% of executives of oil and gas companies admit that they have already turned to AI-powered solutions for overcoming various business challenges.
+According to the survey conducted by Ernst & Young, 92% of oil and gas enterprises located in different corners of the world are already investing in artificial intelligence or have plans to do it in the next 2 years. 50% of executives of oil and gas companies admit that they have already turned to AI-powered solutions for overcoming various business challenges.
 
 In 2022, consulting firm Gartner [found out](https://www.gartner.com/en/newsroom/press-releases/2022-08-22-gartner-survey-reveals-80-percent-of-executives-think-automation-can-be-applied-to-any-business-decision) that nearly 54% of AI projects across various industries were pushed to production after the pilot stage. This figure demonstrates a slight increase from what we could observe in 2019 when 53% of projects could make this way.
 
