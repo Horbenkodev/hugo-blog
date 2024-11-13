@@ -1,22 +1,22 @@
 ---
 title: How Much Does It Cost to Develop an Educational App
-publishDate: '2019-02-06T00:00:00Z'
-authors:
-- vadim-kondratiev
-description: The good thing about Internet is that sometimes it contains useful information.
-  People who want to learn new skills start their road browsing the web in search
-  of the topic they want to learn. They can find amazing resources that help people
-  learn to play banjo, speak Italian, play chess or even write software in Ruby on
-  Rails.
+draft: false
+publishDate: 2019-02-06T00:00:00Z
 image: education-app-cost.jpg
 og_image: education-app-cost.jpg
+description: The good thing about Internet is that sometimes it contains useful
+  information. People who want to learn new skills start their road browsing the
+  web in search of the topic they want to learn. They can find amazing resources
+  that help people learn to play banjo, speak Italian, play chess or even write
+  software in Ruby on Rails.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- elearning
+authors:
+  - vadim-kondratiev
 categories: []
+industries:
+  - elearning
 ---
 The good thing about the Internet is that sometimes it contains useful information. People who want to learn new skills start their road browsing the web in search of the topic they want to learn. They can find amazing resources that help people learn to play the banjo, speak Italian, play chess or even write software in Ruby on Rails.
 
