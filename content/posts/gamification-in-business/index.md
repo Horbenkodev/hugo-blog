@@ -1,21 +1,24 @@
 ---
-title: A Full Guide on Secrets of Gamification for Business in 2022
-publishDate: '2021-09-07T00:00:00Z'
-authors: []
-description: Learn about the power of gamification and how it can be used to reach
-  your business objectives. Explore what gamification is capable of when added to
-  your app or software.
+ceoTitle: A Full Guide on Secrets of Gamification for Business in 2022
+title: "How to Use Gamification at Your Business: Tips & Secrets"
+breadcrumbs: "How to Use Gamification at Your Business: Tips & Secrets"
+slug: gamification-in-business
+draft: true
+publishDate: 2021-09-07T00:00:00Z
 image: 3Z_2104.w026.n002.307B.p1.307__1_.jpg
 og_image: 3Z_2104.w026.n002.307B.p1.307__1_.jpg
+description: Learn about the power of gamification and how it can be used to
+  reach your business objectives. Explore what gamification is capable of when
+  added to your app or software.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- elearning
-- healthcare
+authors: []
 categories:
-- business
+  - business
+industries:
+  - elearning
+  - healthcare
 ---
 Take a look at how online games have changed over the past ten years. They have become bolder and more diverse. They have reached a big audience, bigger than ever before. They have received great attention, greater than ever before. They have earned lots of money, more than ever before. These changes in the gamification industry certainly spark up the interest of smart entrepreneurs who come up with more and more game-based solutions for business. <a href="https://www.statista.com/statistics/608824/gamification-market-value-worldwide/" rel="nofollow" target="_blank">Statista</a> helps to match words with numbers - the gamification market is expected to grow to over 12 billion U.S. dollars in 2021.
 
