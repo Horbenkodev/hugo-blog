@@ -1,19 +1,21 @@
 ---
 title: What Is the User Persona and How to Define It
-publishDate: '2021-07-23T00:00:00Z'
-authors: []
-description: If you are an entrepreneur, who wants to begin your startup, if you are
-  looking for ways to do it in the best possible way, if you worry that the developer
-  or team won’t understand you the way you expect, this article is for you.
+slug: user-persona-for-startups
+draft: false
+publishDate: 2021-07-23T00:00:00Z
 image: What_is_user_persona_for_startup.jpg
 og_image: user_persona.jpeg
+description: If you are an entrepreneur, who wants to begin your startup, if you
+  are looking for ways to do it in the best possible way, if you worry that the
+  developer or team won’t understand you the way you expect, this article is for
+  you.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- business
+  - business
+industries: []
 ---
 If you are an entrepreneur, who wants to begin your startup, if you are looking for ways to do it in the best possible way, if you worry that the developer or team won’t understand you the way you expect, this article is for you.
 
