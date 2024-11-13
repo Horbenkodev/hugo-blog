@@ -1,19 +1,19 @@
 ---
 title: What Is MVP and How to Develop an MVP App
-publishDate: '2021-11-15T00:00:00Z'
-authors:
-- vadim-kondratiev
-description: What makes Minimum Viable Product a working option not only for startups
-  but also for businesses? See the concept of MVP explained.
+draft: false
+publishDate: 2021-11-15T00:00:00Z
 image: start-up-company-motivation-business-concept_1_.png
 og_image: start-up-company-motivation-business-concept_1_.png
+description: What makes Minimum Viable Product a working option not only for
+  startups but also for businesses? See the concept of MVP explained.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors:
+  - vadim-kondratiev
 categories:
-- business
+  - business
+industries: []
 ---
 Even though many new ideas sound brilliant in theory, there are no success guarantees in reality. The success of a launch depends on many factors, including... luck. However, blaming bad luck for failure is immature. The reasons can be slightly more complicated, as <a href="https://www.investopedia.com/articles/personal-finance/040915/how-many-startups-fail-and-why.asp" rel="nofollow">nearly 90%</a> of all startups fail.
 
