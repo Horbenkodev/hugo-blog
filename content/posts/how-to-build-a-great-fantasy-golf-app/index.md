@@ -126,14 +126,12 @@ However, we will mention some of the most highly demanded features that you can 
 
 </picture>
 
-
-
 ## How to monetize a custom fantasy golf app?
 
 It is obvious that after investing in fantasy golf web development or building a mobile game for sports lovers, you want to have the possibility to make money on it. And thanks to the skyrocketing popularity of such solutions, you have excellent chances to enjoy good profits. For making money on a fantasy golf game, you have several options.
 
 * **Option 1. Entry fees**. It is a common practice among fantasy sports companies to take fees from users who want to participate in some tournaments, Of course, to motivate users to participate in such games you need to allocate some percentage of the received money for financial prizes that winners will get. All the rest will be your profit.
-* **Option 2**. In-app ad. One of the most well-known revenue generation methods among apps of different types is advertising. By allowing advertisers to promote their brands via your app, you can earn money for your business needs.
+* **Option 2**. **In-app ad**. One of the most well-known revenue generation methods among apps of different types is advertising. By allowing advertisers to promote their brands via your app, you can earn money for your business needs.
 * **Option 3. Paid features**. Of course, you can launch a fully paid app but let's admit that due to this step, you can seriously restrict your target audience. Not everyone is ready to pay for a fantasy sports game. Nevertheless, you can offer some functionality on a paid basis. For example, you can offer users the possibility to switch off advertising or provide them with unique educational content that will help users to better understand sports trends and achieve better results.
 
 <picture>
