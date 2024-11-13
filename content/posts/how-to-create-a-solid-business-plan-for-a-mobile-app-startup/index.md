@@ -1,18 +1,19 @@
 ---
 title: How to Create a Solid Business Plan for a Mobile App Startup
-publishDate: '2022-01-25T00:00:00Z'
-authors: []
-description: Any venture needs a strategy, especially in the beginning. When starting
-  an app, draw a primary business plan to have your feet firmly on the ground.
+draft: false
+publishDate: 2022-01-25T00:00:00Z
 image: planapp.jpg
 og_image: planapp.jpg
+description: Any venture needs a strategy, especially in the beginning. When
+  starting an app, draw a primary business plan to have your feet firmly on the
+  ground.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- business
+  - business
+industries: []
 ---
 __Any venture needs a strategy. Especially if you are just starting. Whatever sector you're in and whether your potential customers are B2C or B2B, this puts you up against a lot of competition. Find out all about drawing a primary business plan for an app startup to have your feet firmly on the ground.__
 
