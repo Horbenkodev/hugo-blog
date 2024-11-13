@@ -1,19 +1,21 @@
 ---
-title: How to Improve Core Web Vitals
-publishDate: '2021-05-17T00:00:00Z'
-authors: []
-description: Prepare your website for the Google update that will begin to roll out
-  in the middle of June. Let’s take a look at some guidelines and free tools to improve
-  your websites’ Core Web Vitals.
+ceoTitle: How to Improve Core Web Vitals
+title: "Core Web Vitals: What They Are & How to Improve Them"
+breadcrumbs: "Core Web Vitals: What They Are & How to Improve Them"
+slug: core-web-vitals
+draft: false
+publishDate: 2021-05-17T00:00:00.000Z
 image: core-web-vitals.jpg
 og_image: core-web-vitals.jpg
+description: Prepare your website for the Google update that will begin to roll
+  out in the middle of June. Let’s take a look at some guidelines and free tools
+  to improve your websites’ Core Web Vitals.
 promote:
   promote: false
 top: false
-draft: true
+authors: []
+categories: []
 industries: []
-categories:
-- promotion
 ---
 <h2>Contents</h2>
 <ol>
