@@ -3,8 +3,8 @@ ceoTitle: A Full Guide on Secrets of Gamification for Business in 2022
 title: "How to Use Gamification at Your Business: Tips & Secrets"
 breadcrumbs: "How to Use Gamification at Your Business: Tips & Secrets"
 slug: gamification-in-business
-draft: true
-publishDate: 2021-09-07T00:00:00Z
+draft: false
+publishDate: 2021-09-07T00:00:00.000Z
 image: 3Z_2104.w026.n002.307B.p1.307__1_.jpg
 og_image: 3Z_2104.w026.n002.307B.p1.307__1_.jpg
 description: Learn about the power of gamification and how it can be used to
