@@ -1,18 +1,22 @@
 ---
-title: How to Find Mobile App Developer
-publishDate: '2021-11-15T00:00:00Z'
-authors: []
-description: If you are going to launch an application but have no programming skills,
-  you'll need a tech expert to implement your idea. But how to find them?
+ceoTitle: How to Find Mobile App Developer
+title: How to Find an App Developer for Your Project
+breadcrumbs: How to Find an App Developer for Your Project
+slug: how-to-find-an-app-developer-for-your-project
+draft: false
+publishDate: 2021-11-15T00:00:00.000Z
 image: businessman-typing-laptop-co-working-space_1_.png
 og_image: businessman-typing-laptop-co-working-space_1_.png
+description: If you are going to launch an application but have no programming
+  skills, you'll need a tech expert to implement your idea. But how to find
+  them?
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- business
+  - business
+industries: []
 ---
 __Say you run a business. Online or offline, in either case there’s a moment when you decide to scale, and developing a custom app sounds like a promising idea. How does it cross your mind? And is there a real need to invest in a mobile app?__
 
