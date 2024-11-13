@@ -1,19 +1,22 @@
 ---
-title: 'How To Improve Website Accessibility: Best Tips'
-publishDate: '2021-05-31T00:00:00Z'
-authors: []
-description: Web accessibility is very important now. Only 1 of 10 sites is accessible.
-  Here are quick tests, steps and the best tips on how to improve your website's accessibility
+ceoTitle: "How To Improve Website Accessibility: Best Tips"
+title: How to improve your website’s accessibility
+breadcrumbs: How to improve your website’s accessibility
+slug: how-to-improve-web-accessibility
+draft: false
+publishDate: 2021-05-31T00:00:00.000Z
 image: build_accessibility.jpg
 og_image: build_accessibility.jpg
+description: Web accessibility is very important now. Only 1 of 10 sites is
+  accessible. Here are quick tests, steps and the best tips on how to improve
+  your website's accessibility
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- accessibility
-- web
+  - accessibility
+industries: []
 ---
 <h2>Contents</h2>
 <ol>
