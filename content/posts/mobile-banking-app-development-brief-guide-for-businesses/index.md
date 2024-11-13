@@ -156,7 +156,7 @@ Here are a couple of factors that you need to consider:
 * **Engagement model and financial terms.** It’s important to analyze the terms of cooperation offered by the company. They should correspond to your business processes, budget, and expectations. Though very low rates can look appealing, at the same this could be an alarming sign. That’s why it is vital to find a golden middle between your desire to reduce development costs and the necessity to get a high-quality end product.
 * **Reviews**. It is always helpful to analyze the reviews written by the company’s customers on external platforms. It will provide you with a better understanding of all the strong and weak sides of the team under consideration. The rating of Anadea at Clutch is 4.9 out of 5. For us, it is a good indicator that we are on the right way and an excellent motivator to work even harder.
 
-If you want to learn more about software development outsourcing, we recommend you read our article where we discussed the peculiarities of this business approach on the example of fintech projects.
+If you want to learn more about software development outsourcing, we recommend you read [our article](https://anadea.info/blog/fintech-outsourcing) where we discussed the peculiarities of this business approach on the example of fintech projects.
 
 ## Final word
 
