@@ -63,7 +63,7 @@ Although it can be particularly enjoyable to explore the location on foot or by 
 
 ### Think outside the box
 
-Getting to a destination is the stressful part of any trip, and travelers are looking for something to make their journey more pleasant. <a href="https://apps.apple.com/us/app/loungebuddy-lounge-access/id674176920" target="_blank">LoungeBuddy</a> is an app for checking into over 300 airport lounges – a little extra that might not have immediately sprung to mind but would be appreciated by consumers on any budget.
+Getting to a destination is the stressful part of any trip, and travelers are looking for something to make their journey more pleasant. LoungeBuddy is an app for checking into over 300 airport lounges – a little extra that might not have immediately sprung to mind but would be appreciated by consumers on any budget.
 
 Instead of trying to beat well-established giants, companies can bring something new to the table by developing an app travelers might not have even known they needed, such as a <a href="http://products.wolframalpha.com/referenceapps/sunexposure.html" rel="nofollow" target="_blank">sun exposure app</a> that calculates how long users can stay in the sun until their next sunscreen top-up based on skin-type, UV index, and sun factor protection.
 
