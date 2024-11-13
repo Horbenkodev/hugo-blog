@@ -1,18 +1,21 @@
 ---
-title: 'Code Audit Service: Why You Need It'
-publishDate: '2021-12-13T00:00:00Z'
-authors: []
-description: Evaluating code quality on your own might be difficult. Learn how third-party
-  code audit brings value to your product and why it’s important.
+ceoTitle: "Code Audit Service: Why You Need It"
+title: "Code Audit Service: Why You Need It"
+breadcrumbs: "Code Audit Service: Why You Need It"
+slug: why-startups-benefit-from-a-code-audit-when-scaling
+draft: false
+publishDate: 2021-12-13T00:00:00.000Z
 image: software_code_audit.jpg
 og_image: software_code_audit.jpg
+description: Evaluating code quality on your own might be difficult. Learn how
+  third-party code audit brings value to your product and why it’s important.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- code-audit
+  - code-audit
+industries: []
 ---
 IT projects often take the approach of building first and asking questions later. Why spend time double-checking when product updates need shipping?
 
