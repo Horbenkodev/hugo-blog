@@ -1,19 +1,21 @@
 ---
-title: How to Build Personal Financial App - Step by Step Guide
-publishDate: '2022-01-03T00:00:00Z'
-authors: []
-description: Everyone aims at saving and multiplying their capital. For that, apps
-  for budget management are highly demanded. Learn how to build a successful personal
-  finance app and what you need to start.
+ceoTitle: How to Build Personal Financial App - Step by Step Guide
+title: How to Create Your Own Personal Finance App
+breadcrumbs: "Financial App Development: Cost & Features"
+slug: how-to-build-a-personal-finance-app
+draft: false
+publishDate: 2022-01-03T00:00:00.000Z
 image: Financial-App.png
 og_image: Financial-App.png
+description: Everyone aims at saving and multiplying their capital. For that,
+  apps for budget management are highly demanded. Learn how to build a
+  successful personal finance app and what you need to start.
 promote:
   promote: false
 top: false
-draft: true
+authors: []
+categories: []
 industries: []
-categories:
-- fintech
 ---
 <center><sub>Image source: <a href="https://dribbble.com/shots/3943504-Banking-App" rel="nofollow" target="_blank">Dribbble - Anadea</a></a></sub></center>
 
