@@ -261,161 +261,79 @@ One more finance-related point that we'd like to pay attention to is the pricing
 
 Let's briefly summarize their pros and cons.
 
+
 <style>
-
 .table {
-
   width: 100%;
-
-  border-collapse: collapse;
-
 }
-
-
-
 th, td {
-
   text-align: left;
-
   padding: 16px;
-
   border: 1px solid #ddd;
-
 }
-
-
-
-th {
-
-  background-color: #f2f2f2;
-
-}
-
 </style>
 
-
-
-<table class="table">
-
-  <thead>
-
-\    <tr>
-
-\    <th></th>
-
-\    <th>Hourly Rates</th>
-
-\    <th>Fixed Price</th>
-
-\    </tr>
-
-  </thead>
-
-  <tbody>
-
-\    <tr>
-
-\    <td><strong>Pros</strong></td>
-
-\    <td>
-
-\    <ul>
-
-\    <li>Great flexibility</li>
-
-\    <li>The possibility to introduce changes</li>
-
-\    <li>The possibility to reach the highest level of quality</li>
-
-\    </ul>
-
-\    </td>
-
-\    <td>
-
-\    <ul>
-
-\    <li>Approved project budget</li>
-
-\    <li>Clear time frames</li>
-
-\    <li>Agreed scope of work</li>
-
-\    </ul>
-
-\    </td>
-
-\    </tr>
-
-\    <tr>
-
-\    <td><strong>Cons</strong></td>
-
-\    <td>
-
-\    <ul>
-
-\    <li>Difficulties in making precise estimates</li>
-
-\    <li>No strict deadlines</li>
-
-\    <li>Risks of budget overuse</li>
-
-\    </ul>
-
-\    </td>
-
-\    <td>
-
-\    <ul>
-
-\    <li>No flexibility</li>
-
-\    <li>Long planning</li>
-
-\    <li>Risks of errors caused by missing some important details at the stage of planning</li>
-
-\    </ul>
-
-\    </td>
-
-\    </tr>
-
-\    <tr>
-
-\    <td><strong>When to use this model</strong></td>
-
-\    <td>
-
-\    <ul>
-
-\    <li>Unstructured tasks</li>
-
-\    <li>Long-term projects with vague requirements</li>
-
-\    </ul>
-
-\    </td>
-
-\    <td>
-
-\    <ul>
-
-\    <li>Tasks with clear requirements</li>
-
-\    <li>Short-term projects</li>
-
-\    <li>Limited budget</li>
-
-\    </ul>
-
-\    </td>
-
-\    </tr>
-
-  </tbody>
-
-</table>
+<table>
+    <thead>
+      <tr>
+        <th></th>
+        <th>Hourly Rates</th>
+        <th>Fixed Price</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Pros</strong></td>
+        <td>
+          <ul>
+            <li>Great flexibility</li>
+            <li>The possibility to introduce changes</li>
+            <li>The possibility to reach the highest level of quality</li>
+          </ul>
+        </td>
+        <td>
+          <ul>
+            <li>Approved project budget</li>
+            <li>Clear time frames</li>
+            <li>Agreed scope of work</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Cons</strong></td>
+        <td>
+          <ul>
+            <li>Difficulties in making precise estimates</li>
+            <li>No strict deadlines</li>
+            <li>Risks of budget overuse</li>
+          </ul>
+        </td>
+        <td>
+          <ul>
+            <li>No flexibility</li>
+            <li>Long planning</li>
+            <li>Risks of errors caused by missing some important details at the stage of planning</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>When to use this model</strong></td>
+        <td>
+          <ul>
+            <li>Unstructured tasks</li>
+            <li>Long-term projects with vague requirements</li>
+          </ul>
+        </td>
+        <td>
+          <ul>
+            <li>Tasks with clear requirements</li>
+            <li>Short-term projects</li>
+            <li>Limited budget</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 
 
 
