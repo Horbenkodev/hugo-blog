@@ -5,8 +5,8 @@ breadcrumbs: " Fantasy Golf Software Development"
 slug: fantasy-golf-app-development
 draft: false
 publishDate: 2024-07-13T16:37:00+03:00
-image: https://anadea.info/uploads/image_attachment/image/3153/fantasy-golf-socials.png
-og_image: https://anadea.info/uploads/image_attachment/image/3153/fantasy-golf-socials.png
+image: fantasy-golf-socials.png
+og_image: fantasy-golf-socials.png
 description: How to build a cool fantasy golf app? And how to make sure that it
   will rock the market and melt the hearts of users? Read our article to find
   useful recommendations.
