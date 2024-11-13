@@ -1,7 +1,8 @@
 ---
 title: How to Create a Solid Business Plan for a Mobile App Startup
+slug: how-to-create-a-solid-business-plan-for-a-mobile-app-startup
 draft: false
-publishDate: 2022-01-25T00:00:00Z
+publishDate: 2022-01-25T00:00:00.000Z
 image: planapp.jpg
 og_image: planapp.jpg
 description: Any venture needs a strategy, especially in the beginning. When
