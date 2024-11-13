@@ -1,7 +1,8 @@
 ---
 title: What Is MVP and How to Develop an MVP App
+slug: what-is-a-minimum-viable-product-and-how-to-build-an-mvp
 draft: false
-publishDate: 2021-11-15T00:00:00Z
+publishDate: 2021-11-15T00:00:00.000Z
 image: start-up-company-motivation-business-concept_1_.png
 og_image: start-up-company-motivation-business-concept_1_.png
 description: What makes Minimum Viable Product a working option not only for
