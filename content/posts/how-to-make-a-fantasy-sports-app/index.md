@@ -45,6 +45,8 @@ Right before the season starts, the player along with other owners, which are us
 
 Each week of the actual season, the owner picks a set of players on their team to go on the field — the starters. These are typically a team's defense, one quarterback, two running backs, two wide receivers, a tight end, and a kicker. After the draft and throughout the season, the player is able to pick up players who didn't get drafted, drop players, and trade with other owners. And it goes without saying that injured players are taken out on a “bye week.”
 
+{{< advert >}}Related read: <a href="https://anadea.info/blog/fantasy-golf-app-development" rel="nofollow" target="_blank">How to Develop a Fantasy Golf App</a>{{< /advert >}}
+
 ### Step 4. Overview of results
 
 Starters of every owner in the league compete each week. All owners receive points for the yards, touchdowns, field goals, and other real-world numbers that your players achieve. Whoever has more points at the end of the week's games wins. This continues throughout the entire season until the champion is clear.
