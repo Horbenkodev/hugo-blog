@@ -1,7 +1,8 @@
 ---
 title: How Much Does It Cost to Develop an Educational App
+slug: how-much-does-it-cost-to-develop-an-educational-app
 draft: false
-publishDate: 2019-02-06T00:00:00Z
+publishDate: 2019-02-06T00:00:00.000Z
 image: education-app-cost.jpg
 og_image: education-app-cost.jpg
 description: The good thing about Internet is that sometimes it contains useful
