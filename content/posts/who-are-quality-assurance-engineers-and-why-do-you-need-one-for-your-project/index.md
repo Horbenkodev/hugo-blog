@@ -1,18 +1,20 @@
 ---
 title: Who are Quality Assurance Engineers and Why You Need Them
-publishDate: '2021-12-09T00:00:00Z'
-authors: []
-description: Software quality assurance engineers support programmers and take responsibility
-  for the quality of the final product. Find out why you need QA on your project.
+slug: who-are-quality-assurance-engineers-and-why-do-you-need-one-for-your-project
+draft: false
+publishDate: 2021-12-09T00:00:00Z
 image: quality-assurance.jpg
 og_image: quality-assurance.jpg
+description: Software quality assurance engineers support programmers and take
+  responsibility for the quality of the final product. Find out why you need QA
+  on your project.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- qa
+  - qa
+industries: []
 ---
 Code that’s initially flawless is almost as real as unicorns. Even NASA has malfunctions. Neglecting [Quality Assurance](https://anadea.info/services/quality-assurance) (QA) can result in serious challenges. Below, you’ll find out who is in charge of the quality of your software product and why QA is essential on IT projects.
 
