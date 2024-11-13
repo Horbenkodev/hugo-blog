@@ -1,20 +1,20 @@
 ---
 title: How Much Does It Cost to Develop an App for Healthcare?
-publishDate: '2022-02-23T00:00:00Z'
-authors:
-- vadim-kondratiev
-description: It takes the time and skills of a whole team of specialists to develop
-  a healthcare app. Find all you need to know before building a health app, including
-  many aspects that can affect its cost.
+draft: false
+publishDate: 2022-02-23T00:00:00Z
 image: Cost-to-build-a-healthcare-app.jpg
 og_image: Infographic_healthcare_app_cost.png
+description: It takes the time and skills of a whole team of specialists to
+  develop a healthcare app. Find all you need to know before building a health
+  app, including many aspects that can affect its cost.
 promote:
   promote: false
 top: false
-draft: true
-industries:
-- healthcare
+authors:
+  - vadim-kondratiev
 categories: []
+industries:
+  - healthcare
 ---
 Usually, it’s the cost of custom development that interests entrepreneurs the most. It takes the time and skills of a whole team of specialists to develop a healthcare app, be it a fitness tracker or an EMR system. Below, you’ll find all you need to know before building a health app, including many aspects that can affect its cost.
 
