@@ -267,7 +267,11 @@ Let's briefly summarize their pros and cons.
 
   width: 100%;
 
+  border-collapse: collapse;
+
 }
+
+
 
 th, td {
 
@@ -279,15 +283,25 @@ th, td {
 
 }
 
+
+
+th {
+
+  background-color: #f2f2f2;
+
+}
+
 </style>
 
-<table>
 
-   <thead>
 
-   <tr>
+<table class="table">
 
-   <th></th>
+  <thead>
+
+\    <tr>
+
+\    <th></th>
 
 \    <th>Hourly Rates</th>
 
@@ -295,9 +309,9 @@ th, td {
 
 \    </tr>
 
-\    </thead>
+  </thead>
 
-\    <tbody>
+  <tbody>
 
 \    <tr>
 
@@ -399,9 +413,11 @@ th, td {
 
 \    </tr>
 
-\    </tbody>
+  </tbody>
 
-  </table>
+</table>
+
+
 
 ## Risk management in fintech outsourcing
 
