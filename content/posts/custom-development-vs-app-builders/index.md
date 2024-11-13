@@ -1,18 +1,21 @@
 ---
-title: 'Custom Mobile Development VS App Builder: Which to Choose'
-publishDate: '2020-12-09T00:00:00Z'
-authors: []
-description: 'We will help you to choose what is better to your business: Custom Development
-  or App Builders. Pros and cons of Custom Development and App Builders.'
+ceoTitle: "Custom Mobile Development VS App Builder: Which to Choose"
+title: "Custom Mobile Development VS App Builder: Which to Choose"
+breadcrumbs: "Custom Mobile Development VS App Builder: Which to Choose"
+slug: custom-development-vs-app-builders
+draft: false
+publishDate: 2020-12-09T00:00:00.000Z
 image: crossroads.jpeg
 og_image: crossroads.jpeg
+description: "We will help you to choose what is better to your business: Custom
+  Development or App Builders. Pros and cons of Custom Development and App
+  Builders."
 promote:
   promote: false
 top: false
-draft: true
+authors: []
+categories: []
 industries: []
-categories:
-- mobile
 ---
 App builders (no-code and low-code platforms) broke into the app development market not so long ago. The rise of interest started in the 2010s. However, the idea of developing software without software developers has been discussed since at least 1982. James Martin published a book called Application Development Without Programmers. Today low-code and no-code platforms and tools all go under the terms app builder (sometimes app creator, drag-and-drop builder, DIY builder).
 
