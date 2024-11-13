@@ -147,7 +147,7 @@ One can hardly learn a language from the ground up with an app alone but still, 
 
 ### eLearning app with gamification elements
 
-In addition to an exciting learning process, people want to see results of their hard work instantly as well as be rewarded for it. Gamification is a technique aimed at satisfying these desires and works equally well for kids and adults. For a business, gamification provides a higher user retention, so consider incorporating gamification elements into your app.
+In addition to an exciting learning process, people want to see results of their hard work instantly as well as be rewarded for it. [Gamification](https://anadea.info/blog/gamification-in-business) is a technique aimed at satisfying these desires and works equally well for kids and adults. For a business, gamification provides a higher user retention, so consider incorporating gamification elements into your app.
 
 ### Learning management system (LMS)
 
