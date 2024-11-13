@@ -1,21 +1,24 @@
 ---
+ceoTitle: The Challenges of Introducing a New Mobile App to the Market
 title: The Challenges of Introducing a New Mobile App to the Market
-publishDate: '2018-05-23T00:00:00Z'
-authors: []
-description: A recent study conducted by digital experts AppAnnie predicts the app
-  economy will be worth $6.3 trillion by 2021, up $1.3 trillion since last year and
-  a staggering $5 trillion since 2014. Competition is fierce, and as a result, the
-  Google Play and Apple App stores currently comprise of over 5 million apps combined,
-  with new applications entering the market daily.
+breadcrumbs: The Challenges of Introducing a New Mobile App to the Market
+slug: the-challenges-of-introducing-a-new-mobile-app-to-the-market
+draft: false
+publishDate: 2018-05-23T00:00:00.000Z
 image: Mobile-app.jpg
 og_image: Mobile-app.jpg
+description: A recent study conducted by digital experts AppAnnie predicts the
+  app economy will be worth $6.3 trillion by 2021, up $1.3 trillion since last
+  year and a staggering $5 trillion since 2014. Competition is fierce, and as a
+  result, the Google Play and Apple App stores currently comprise of over 5
+  million apps combined, with new applications entering the market daily.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- business
+  - business
+industries: []
 ---
 ***A recent study conducted by digital experts <a href="http://go.appannie.com/report-app-economy-forecast-part-two" rel="nofollow" target="_blank">AppAnnie</a> predicts the app economy will be worth $6.3 trillion by 2021, up $1.3 trillion since last year and a staggering $5 trillion since 2014.***
 
