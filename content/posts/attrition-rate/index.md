@@ -1,19 +1,22 @@
 ---
-title: How Attrition Rate Affects Your Product
-publishDate: '2022-01-11T00:00:00Z'
-authors: []
-description: When choosing a software development company, consider the stability
-  of team composition expressed through attrition rate. See why you should take it
-  into account when cooperating.
+ceoTitle: How Attrition Rate Affects Your Product
+title: How Stability of Team Composition Affects Your Product
+breadcrumbs: How Stability of Team Composition Affects Your Product
+slug: attrition-rate
+draft: false
+publishDate: 2022-01-11T00:00:00.000Z
 image: group-people-working-out-business-plan-office.jpg
 og_image: group-people-working-out-business-plan-office.jpg
+description: When choosing a software development company, consider the
+  stability of team composition expressed through attrition rate. See why you
+  should take it into account when cooperating.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- business
+  - business
+industries: []
 ---
 Among many things to keep in mind when choosing a company to outsource software development, an unobvious one is the __stability of team composition__, commonly expressed through __attrition rate__.
 
