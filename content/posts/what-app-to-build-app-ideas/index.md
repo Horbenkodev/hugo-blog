@@ -168,7 +168,7 @@ eLearing solutions range from wide-scale ecosystems to automate the studying pro
 * <a href="https://anadea.info/projects/ham-nat-coach" target="_blank">Exam simulators</a> in a handy virtual environment;
 * Corporate learning platform for employee education.
 
-The eLearning industry welcomes all forms of gamification to reward user progress. Practically any educational app can be gamified for higher user retention and more exciting user journey.
+The eLearning industry welcomes all forms of [gamification](https://anadea.info/blog/gamification-in-business) to reward user progress. Practically any educational app can be gamified for higher user retention and more exciting user journey.
 
 <a name="management"></a>
 
