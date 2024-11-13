@@ -1,7 +1,8 @@
 ---
 title: How Much Does It Cost to Develop an App for Healthcare?
+slug: how-much-does-it-cost-to-develop-an-app-for-healthcare
 draft: false
-publishDate: 2022-02-23T00:00:00Z
+publishDate: 2022-02-23T00:00:00.000Z
 image: Cost-to-build-a-healthcare-app.jpg
 og_image: Infographic_healthcare_app_cost.png
 description: It takes the time and skills of a whole team of specialists to
