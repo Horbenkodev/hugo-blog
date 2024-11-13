@@ -1,19 +1,23 @@
 ---
+ceoTitle: Why start the software project with consulting rounds
 title: Why start the software project with consulting rounds
-publishDate: '2019-11-22T00:00:00Z'
-authors: []
-description: There are many opinions about digital technology consulting. Some people
-  think that consultants set crazy rates and at the same time do not bring any benefit.
-  Some even had a negative experience working with IT consultants.
+breadcrumbs: Why start the software project with consulting rounds
+slug: why-start-the-software-project-with-consulting-rounds
+draft: false
+publishDate: 2019-11-22T00:00:00.000Z
 image: Why-start-the-software-project-with-consulting-rounds.jpg
 og_image: Why-start-the-software-project-with-consulting-rounds.jpg
+description: There are many opinions about digital technology consulting. Some
+  people think that consultants set crazy rates and at the same time do not
+  bring any benefit. Some even had a negative experience working with IT
+  consultants.
 promote:
   promote: false
 top: false
-draft: true
-industries: []
+authors: []
 categories:
-- business
+  - business
+industries: []
 ---
 There are many opinions about digital technology consulting. Some people think that consultants set crazy rates and at the same time do not bring any benefit. Some even had a negative experience working with IT consultants.
 
