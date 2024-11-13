@@ -30,7 +30,7 @@ Find out how to get funding: <a href="https://anadea.info/blog/health-it-startup
 
 In case you have the money, perhaps the only thing to do is to assemble a team and bring your idea to life. It sounds simple, but in today's world, custom development is comparable to art, which is usually quite expensive. Moreover, in today's economy, you have some limits on your budget.
 
-The answer here is to monetize your idea and do it quickly. Read the article about <a href="https://anadea.info/blog/healthcare-and-medical-mobile-app-revenue-models-to-achieve-best-results" target="_blank">monetization models for healthcare app</a> to find out more. Anyway, don’t forget that you act in the time, cost, and quality paradigm.
+The answer here is to monetize your idea and do it quickly. Read the article about <a href="https://anadea.info/blog/healthcare-and-medical-mobile-app-revenue-models-to-achieve-best-results" target="_blank">monetization models for healthcare app</a> to find out more. Anyway, don’t forget that you act in the <a href="https://anadea.info/blog/time-cost-quality-which-ones-do-you-choose-for-your-app/" target="_blank">time, cost, and quality paradigm</a>.
 
 ## How to navigate the custom development market
 
