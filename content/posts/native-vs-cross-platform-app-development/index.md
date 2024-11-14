@@ -17,7 +17,6 @@ authors:
   - mobile-development-team
 categories:
   - development
-  - mobile
 industries: []
 questionary:
   - question: What is the main difference between native app development vs
@@ -182,8 +181,6 @@ In short, the iOS version of SmartReminder does everything it's supposed to, fee
 ### The experiment: Bottom line
 
 After completing our experiment, we decided to launch the cross-platform Flutter app first. Notably, developing the MVP (Minimum Viable Product) for the two native apps took almost twice as long as for the cross-platform app. Interestingly, we didn't observe any significant difference in user experience between the native and cross-platform apps with the mentioned set of features. As a result, **Flutter emerged as a clear winner in this phase of the experiment.** The app is available on App Store and Google Play and is now gaining its first users.
-
-<center><a href="google_play_button.png" style="width:30%"></a></center>
 
 However, we're not stopping the competition there. We're giving native development another chance to prove its mettle. Upcoming enhancements for the Smart Reminder app include more complex features like speech-to-text, calendar app synchronization, and smart reminders that account for travel time to a destination.
 
