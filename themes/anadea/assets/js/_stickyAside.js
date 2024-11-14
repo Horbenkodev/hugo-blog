@@ -17,8 +17,10 @@ function observe() {
     }
   }
 
-  const tocObserver = new IntersectionObserver(tocCallback);
-  tocObserver.observe(tocDesktop);
+  if (tocDesktop) {
+    const tocObserver = new IntersectionObserver(tocCallback);
+    tocObserver.observe(tocDesktop);
+  }
 
   // Post node observer
   const postNodeSentinel = document.querySelector('#sentinel');
