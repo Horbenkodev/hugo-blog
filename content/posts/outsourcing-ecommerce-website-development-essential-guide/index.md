@@ -76,7 +76,7 @@ Modern outsourcing models allow businesses to introduce changes in the compositi
 
 For your outsourced eCommerce project, you can find a team that has rich experience and deep knowledge in the chosen business domain. Thanks to access to the global labor market, you also have the possibility of hiring experts even with the rarest skills, if they are required for your project.
 
-#### Hiring the entire team at once 
+#### Hiring the entire team at once
 
 It is very convenient that you can just turn to an eCommerce outsourcing service provider with a list of your requirements and get a perfect composition of the team that will be working on your solution.
 
@@ -84,7 +84,7 @@ It is very convenient that you can just turn to an eCommerce outsourcing service
 
 While your outsourcing eCommerce team will be building your solution, you can allocate more time to addressing the issues related to your core business activities.
 
-<p align="center"><a id="Blog-button" class="btn btn--secondary header-button " href="https://anadea.info/contacts" style="color:white; text-decoration: none" target="_blank">Tell us about your idea</a>
+{{< ctabutton url="https://anadea.info/contacts" >}}Tell us about your{{< /ctabutton >}}
 
 In general, all the mentioned benefits are united by a common idea. All of them ensure the required convenience for businesses. But speaking about outsourcing eCommerce projects, we also should mention its **possible drawbacks**.
 
@@ -123,13 +123,13 @@ The set of services that you can get at an eCommerce outsourcing company is usua
 
 Traditionally eCommerce web development services include
 
-- Custom software development;
-- UI/UX design;
-- Cloud migration services;
-- Modernization services;
-- Custom feature development;
-- Payment system/CRM/ERP integration;
-- Tech support and maintenance, etc.
+* Custom software development;
+* UI/UX design;
+* Cloud migration services;
+* Modernization services;
+* Custom feature development;
+* Payment system/CRM/ERP integration;
+* Tech support and maintenance, etc.
 
 On our website, you can read about one of the eCommerce projects that our team worked on. It was the creation of a specialized eCommerce store for people who like fishing and spending time in nature - Visdeal. As it originated from an already existing project, the main challenge was to develop a new solution while making sure that the first project would continue functioning. That's why our work included not only custom development but also scaling and modernization of an existing solution. For more details on this project, please <a href="https://anadea.info/projects/visdeal" target="_blank">follow the link</a>.
 
@@ -140,7 +140,7 @@ On our website, you can read about one of the eCommerce projects that our team w
 
 Such an example demonstrates that quite often eCommerce web development may go much beyond the creation of a new platform from scratch.
 
-<p align="center"><a id="Blog-button" class="btn btn--secondary header-button " href="https://anadea.info//contacts" style="color:white; text-decoration: none" target="_blank">Build my project</a>
+{{< ctabutton url="https://anadea.info//contacts" >}}Build my project{{< /ctabutton >}}
 
 ## Models of outsourced eCommerce development
 
@@ -184,17 +184,15 @@ When you decide that you need the help of an eCommerce outsourcing service provi
 
 Direct and open communication is one of the main conditions for your project's success. However, it will be impossible without having a professional service provider with well-established business flows.
 
-<p align="center"><a id="Blog-button" class="btn btn--secondary header-button " href="https://anadea.info//contacts" style="color:white; text-decoration: none" target="_blank">Get a consultation</a>
+{{< ctabutton url="https://anadea.info//contacts" >}}Get a consultation{{< /ctabutton >}}
 
 ## How to choose the best eCommerce outsourcing company
 
 When you start looking for companies that can build an outsourced eCommerce solution for your needs, you may see that there is a huge number of those that offer practically the same services (and even their rates may be similar). However, it doesn't mean that the cooperation with all of them will bring the same results. To make the right choice, you will need to bear into account a row of different parameters.
 
-- **Expertise in the chosen domain.** It would be a good idea to choose a team that already has experience in building successful solutions for eCommerce. It is important to work with specialists who deeply understand the market needs and can offer you the best approaches for reaching your business goals. You can always ask a company to share its portfolio with you so that you can learn more about the team's professional achievements.
-
-- **Flexibility of the offered business models.** You need to feel comfortable while working with an eCommerce outsourcing company. That's why before making a decision you should study what engagement models and financial terms a team can offer.
-
-- **Opinions of customers.** It is vital to check out the reviews written by the company's customers. This information allows you to understand whether there are any pitfalls in the company's approaches so that you can decide whether you are ready to tolerate them. If you are interested in cooperating with Anadea, you can read not only reviews written by our customers on external platforms like GoodFirms or Clutch but also <a href="https://anadea.info/client-interviews/visdeal" target="_blank">**interviews**</a> with people who have worked directly with our team.
+* **Expertise in the chosen domain.** It would be a good idea to choose a team that already has experience in building successful solutions for eCommerce. It is important to work with specialists who deeply understand the market needs and can offer you the best approaches for reaching your business goals. You can always ask a company to share its portfolio with you so that you can learn more about the team's professional achievements.
+* **Flexibility of the offered business models.** You need to feel comfortable while working with an eCommerce outsourcing company. That's why before making a decision you should study what engagement models and financial terms a team can offer.
+* **Opinions of customers.** It is vital to check out the reviews written by the company's customers. This information allows you to understand whether there are any pitfalls in the company's approaches so that you can decide whether you are ready to tolerate them. If you are interested in cooperating with Anadea, you can read not only reviews written by our customers on external platforms like GoodFirms or Clutch but also <a href="https://anadea.info/client-interviews/visdeal" target="_blank">**interviews**</a> with people who have worked directly with our team.
 
 ## Freelancers or eCommerce outsourcing company?
 
@@ -249,4 +247,4 @@ The development of an eCommerce platform is a responsible project and for its re
 
 This approach to software development allows businesses to optimize development costs, avoid a lot of administrative tasks related to hiring and onboarding, as well as work with the best specialists with niche expertise from all over the globe. If you are looking for an eCommerce outsourcing service provider with an outstanding reputation, you should know that at Anadea, we are always at your disposal. Do not hesitate to contact us to get more detailed information about what we can offer.
 
-<p align="center"><a id="Blog-button" class="btn btn--secondary header-button " href="https://anadea.info//contacts" style="color:white; text-decoration: none" target="_blank">Request a free quote</a>
+{{< ctabutton url="https://anadea.info//contacts" >}}Request a free quote{{< /ctabutton >}}
