@@ -2,7 +2,7 @@
 title: How to Increase Your Mobile App User Retention
 breadcrumbs: Increase Mobile App User Retention
 draft: false
-publishDate: 2018-09-04T00:00:00Z
+publishDate: 2018-09-04T00:00:00.000Z
 image: Increasing-mobile-app-user-retention.jpg
 og_image: Increasing-mobile-app-user-retention.jpg
 description: Loyal customers are the foundation of every business. But, more
@@ -37,6 +37,8 @@ Social media platforms are well aware of the importance of a smooth onboarding p
 
 In summary, the selling point of an app is the service that it provides. And if users have to pass through a gauntlet of questions, information or performance issues before they can enjoy this service, they will likely lose interest. So, test your app as many times as possible to ensure it works as it should. Keep the preliminaries brief, and allow users to get a taste of what your app has to offer without much hassle.
 
+{{< advert >}}Related read: <a href="https://anadea.info/blog/gamification-in-business" target="_blank">Gamification in Business and Its Application to Software Development</a> {{< /advert >}}
+
 ## Provide the best user experience
 
 ![Excellent user experience](best-user-experience.jpg)
@@ -58,8 +60,6 @@ Rewards never fail to appeal to users. You can offer rewards to keep users on yo
 The main drawback of offering rewards is the cost. However, not all loyalty programs are expensive, and not all of them involve money. The key is not to make the reward too difficult for customers to win. Also, it is a good idea to attract users by giving them a free prize. <a href="https://www.helpscout.com/blog/customer-loyalty-programs/" target="_blank">Ridesharing apps use this strategy</a> remarkably well. Uber gives new users a discount when others recommend them. Also, you can get ride credits on Lyft when you recommend other passengers.
 
 User rewards and loyalty programs are one of the timeless ways to attract new users and keep existing users coming back to your app. It can also go a long way to boost your profits.
-
-{{< advert >}}Related article: [Gamification in Business and Its Application to Software Development](https://anadea.info/blog/gamification-in-business){{< /advert >}}
 
 ## Never stop making your app better
 

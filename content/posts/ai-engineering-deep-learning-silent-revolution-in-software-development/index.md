@@ -3,7 +3,7 @@ ceoTitle: The Impact of AI Engineering & Deep Learning on Business
 title: The Impact of AI Engineering & Deep Learning on Business
 breadcrumbs: The Impact of AI Engineering & Deep Learning on Business
 slug: ai-engineering-deep-learning-silent-revolution-in-software-development
-draft: true
+draft: false
 publishDate: 2021-04-15T00:00:00.000Z
 image: ai_in_development.jpg
 og_image: ai_in_development.jpg
@@ -12,14 +12,13 @@ description: The interview of Vyacheslav Dodatko, CEO and Co-founder of Anadea,
 promote:
   promote: false
 top: false
-authors:
-  - ai-ml-team
+authors: []
 categories: []
 industries: []
 ---
 <img src="slava_dodatko.jpg" width='300' class="float-left">The interview of Vyacheslav Dodatko, CEO and Co-founder of Anadea, on the topic of top Business and Technology predictions for 2021 is originally published in <a href="https://education.cioapplications.com/" rel="nofollow" target="_blank">CIO Applications</a> and CIO Applications Magazine - an enterprise technology magazine that reaches out to about 200,000 qualified print and digital subscribers in the U.S.
 
-## AI Engineering & Deep Learning Silent Revolution in Software Development
+## AI Engineering & Deep Learning Silent Revolution in Software Development    
 
 The most important trend in the year 2021 will be AI engineering and a silent revolution in software development caused by Deep Learning. I believe that deep learning will have a tremendous impact going forwards. Deep learning AI development is finally helping make the applications we see in fiction come to life in the real world.
 
@@ -39,7 +38,7 @@ Proceeding the theme of natural language processing, recently Anadea DL-team too
 
 **Information security** is both a very difficult element in modern development, while also becoming more and more vital because lawmakers are insisting on tighter and tighter controls. Thanks to brilliantly crafted AI, modern monitoring has taken on a whole new dimension of accuracy and timely detection. Everything from anomaly detection to identifying fraud patterns has been improved to the point where deep learning technology is fighting the battle on a whole new front. Halting and preventing attacks has never been so advanced.
 
->“Is there a limit to deep learning? Are the opportunities endless? I am very excited to be part of the deep learning revolution. Being here to witness and experience the breakthroughs we see every year and watching as AI grows and becomes more advanced. It leaves me encouraged and optimistic for our future.”
+> “Is there a limit to deep learning? Are the opportunities endless? I am very excited to be part of the deep learning revolution. Being here to witness and experience the breakthroughs we see every year and watching as AI grows and becomes more advanced. It leaves me encouraged and optimistic for our future.”
 
 <ins>If we wish to harness the sheer power of deep learning (modern neural networks), we need to start reexamining our whole approach to software development</ins>. AI cannot be compartmentalized. It cannot be considered an additional extra or a tool. Deep learning technology needs to sit at the heart of all software development if we wish to push the boundaries and move forwards with any real sense of progress.
 

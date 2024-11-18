@@ -1,5 +1,5 @@
 ---
-ceoTitle: 10 Verticals Where AI Is Making an Impact
+ceoTitle: "10 Verticals Where AI Is Making an Impact "
 title: Industry Verticals Where AI Is Making an Impact
 breadcrumbs: AI Use Cases in Business
 slug: 10-verticals-where-ai-is-making-an-impact-in-2019
@@ -108,4 +108,4 @@ Although some driverless cars are already on the streets, they have a long way t
 
 By having real-time access to traffic cameras, weather forecasts and information about construction sites, for instance, AI-powered systems can help drivers avoid traffic congestion and roads in bad conditions.
 
-<a href="https://www.businessinsider.com/ai-101-how-learning-computers-are-becoming-smarter-2018-5" target="_blank">Learning computers are becoming smarter</a> with each coming day and they present a whole world of amazing opportunities for businesses in every single industry. AI really is the future and that future is finally here, so every business should embrace it as soon as possible. The sooner they do it, the sooner they can delight their customers and set their organizations on the path to consistent growth.
+Learning computers are becoming smarter with each coming day and they present a whole world of amazing opportunities for businesses in every single industry. AI really is the future and that future is finally here, so every business should embrace it as soon as possible. The sooner they do it, the sooner they can delight their customers and set their organizations on the path to consistent growth.

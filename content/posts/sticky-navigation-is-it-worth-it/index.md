@@ -1,7 +1,7 @@
 ---
 title: "Sticky Navigation: Is it Worth It?"
 draft: false
-publishDate: 2019-04-04T00:00:00Z
+publishDate: 2019-04-04T00:00:00.000Z
 image: Web-design.jpg
 og_image: Web-design.jpg
 description: Web design trends rise and fall like waves in the sea of time.
@@ -36,7 +36,6 @@ Web design trends rise and fall like waves in the sea of time. Beneath this atte
 If you do decide to incorporate sticky navigation to your website, you can anticipate these disadvantages:
 
 * **Constant distraction.** For some users, even small menus can distract them from their goals. The constant visibility of the menu may annoy others, especially if the site is designed to make the menu easy to find, to begin with.
-
 * **Complex application.** Adopting sticky navigation may not be simple to do, especially if you're building your site from scratch, You may even have to reposition existing elements of the site to accommodate the menu.
 
 ## Applying sticky navigation to your website
@@ -80,7 +79,7 @@ If you do plan to incorporate sticky navigation, you can do so easily if your we
 
 ### Creating your own sticky header with HTML and CSS
 
-But what if your site was not built using WordPress? Then you'll have to <a href="https://anadea.info/blog/what-to-focus-on-when-making-a-code-review" target="_blank">code the header</a> yourself.
+But what if your site was not built using WordPress? Then you'll have to code the header yourself.
 
 1. In creating your HTML file, make sure you have the right `<!DOCTYPE html>`, `<head>`, and `<body>` tags.
 2. Put a `<div>` tag inside another `<div>` tag, inside yet another `<div>` tag. These are important as the innermost `<div>` will be for the content while the rest will be for the container of the content.

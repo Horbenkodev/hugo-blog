@@ -31,6 +31,7 @@ I started my journey into blockchain a year and a half ago and had an opportunit
 Blockchain has drawn a lot of attention over the last couple of years, and while speculation on coin price may seem unsustainable, the core technology behind Bitcoin and other tokens is actually very promising.
 
 There are a lot of cool introductory articles into blockchain technology, like
+
 * <a href="https://andersbrownworth.com/blockchain/" target="_blank">Blockchain demo</a> by Anders Brownworth;
 * <a href="http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/">Python implementation of simplified blockchain project</a>.
 
@@ -63,6 +64,7 @@ While calculating hash of block, all block data, including all transactions, ser
 The fact that each block contains hash of previous block gives us what is called an "immutability effect": if you want to change some old transaction, you'll need to recalculate the hash of this block. Changing the hash in one block means that you will have to change the hash in the next block, and on and on and on.  Ultimately, introducing a single change in the ledger will require a recalculation of each stored hash in each block - that's a lot of work.
 
 What's more, you'll have to somehow communicate these changes to each node on the network, and convince those nodes to accept the change. Due to special rules governing the calculation of hashes, this is practically impossible. This may be a bit difficult to grasp at first, especially if this is your first foray into blockchain, but this strategy allows us to make two important guarantees:
+
 * First, the data stored in a blockchain is immutable.
 * Second, we can always calculate the state of the network using the log of transactions.
 
@@ -204,11 +206,12 @@ In case business doesn't want to commit heavily into building its own blockchain
 ## Typical problems in using private blockchain in classical businesses
 
 Blockchains are often plagued by a variety of common issues that arise from their inherent nature as decentralized systems. Namely, these are:
-* __Scalability__, as robust consensus algorithms can make blockchain solutions slower and less efficient than their centralized counterparts.
-* __Data redundancy__ is one more common problem, as all nodes store the same data, reducing disk space utilization efficiency.
-* __Governance__ is another issue that can arise with blockchains, as multiple parties are responsible for maintaining the network, which can lead to longer consensus times and more complicated decision-making processes, especially when upgrading or evolving the blockchain.
-* __Collective responsibility__ is also a challenge for blockchains, as there is no single entity responsible for the network as a whole. This can make it difficult for traditional businesses to adapt to the decentralized approach required by blockchain solutions.
-* Finally, __upgrading__ decentralized systems can be more complex than upgrading centralized solutions, making it a significant challenge for blockchain users and developers. Overall, these issues highlight the need for careful consideration and planning when implementing blockchain solutions, as well as ongoing efforts to address these inherent challenges.
+
+* **Scalability**, as robust consensus algorithms can make blockchain solutions slower and less efficient than their centralized counterparts.
+* **Data redundancy** is one more common problem, as all nodes store the same data, reducing disk space utilization efficiency.
+* **Governance** is another issue that can arise with blockchains, as multiple parties are responsible for maintaining the network, which can lead to longer consensus times and more complicated decision-making processes, especially when upgrading or evolving the blockchain.
+* **Collective responsibility** is also a challenge for blockchains, as there is no single entity responsible for the network as a whole. This can make it difficult for traditional businesses to adapt to the decentralized approach required by blockchain solutions.
+* Finally, **upgrading** decentralized systems can be more complex than upgrading centralized solutions, making it a significant challenge for blockchain users and developers. Overall, these issues highlight the need for careful consideration and planning when implementing blockchain solutions, as well as ongoing efforts to address these inherent challenges.
 
 Anyway, despite these difficulties, pros, provided by blockchain, overweight cons in many cases, so one should judge wisely whether to use blockchain solution and to what problems should it be applied.
 
@@ -220,5 +223,4 @@ We believe that blockchain is the next revolution which happens right now, we ju
 
 Good links to investigate:
 
-* <a href="https://blockchainhub.net/blockchains-and-distributed-ledger-technologies-in-general/" target="_blank">Blockchains & Distributed Ledger Technologies</a>
 * <a href="https://ambisafe.com/blog/public-vs-private-blockchain/" rel="nofollow" target="_blank">Public Vs. Private Blockchain</a>

@@ -2,7 +2,7 @@
 title: "Retail Business Goes Mobile: How to Create a Good Retail App?"
 breadcrumbs: Retail Mobile App Development
 draft: false
-publishDate: 2018-03-01T00:00:00Z
+publishDate: 2018-03-01T00:00:00.000Z
 image: retail-app.jpg
 og_image: retail-app.jpg
 description: It's mind-blowing! A couple of years ago they said that the number
@@ -15,8 +15,7 @@ promote:
 top: false
 authors:
   - mobile-development-team
-categories:
-  - retail
+categories: []
 industries: []
 ---
 It's mind-blowing! A couple of years ago they said that the number of smartphones exceeded the number of toothbrushes - fact or fiction, who knows, and now… we've already got a <a href="https://itunes.apple.com/lu/app/oral-b-app/id698092608?mt=8" rel="nofollow" target="_blank">mobile app for electric toothbrushes</a>. Why do you think that apps are being created left, right and center? Because everyone and their mom seems to be smartphone holics. We all love facts and digits. So, here are some statistics on <a href="https://techcrunch.com/2018/01/17/global-app-downloads-topped-175-billion-in-2017-revenue-surpassed-86-billion/" rel="nofollow" target="_blank">app downloads, revenue</a>, <a href="https://techcrunch.com/2018/01/16/time-spent-in-apps-grew-just-6-last-year-down-from-11-in-2017/" rel="nofollow" target="_blank">time spent in apps</a> and some pieces of data on why mobile apps are useful for retail business.
@@ -54,7 +53,6 @@ Mobile development is somewhat reminiscent of shooting a movie: if you want a te
 * **In-house developers.** Unless you can design and develop your retail app yourself or already have an experienced development team on board, it can be a cumbersome process. Spotting and hiring even a single IT expert is a kind of art and you will need an entire team, including UX/UI designer, developer and QA tester, at once. You will also have to deal with employment taxes, paid vacations as well as necessity to buy development tools, devices, and all sort of things needed to actually organize the development. These are huge overheads!
 
   You can also try an ecommerce app creation platform that lets you <a href="https://getsocio.com/support/mobile-apps" rel="nofollow" target="_blank">make a simple mobile app</a> easily, however this will not work if you would like to build an outstanding app with unique functionality.
-
 * **Outsourcing.** There are a few choices here. You can hire a bunch of freelancers and assign various parts of development to them. There are lots of candidates on freelancer platforms and it seems like a good option. The dark side is that interviewing each of them, assessing their skills and managing a distributed team consisting of freelancers requires quite a lot of time and efforts.
 
   Another way to create a mobile app for retail store is to outsource it to a software company with a good track record in [retail software development](https://anadea.info/solutions/retail-software-development) and which can take your app through all stages of the development process. This is a more frictionless option that retains the same flexibility and cost-effectiveness as hiring freelancers while ensuring quality, efficiency and faster time-to-market for your app.
@@ -85,7 +83,7 @@ Having clear answers to these questions is important it it will help a software 
 
 A retail app is a mobile application that facilitates and enriches the in-store shopping experience, improves the purchase process, provides new innovative ways to make purchase and interact with your brand for your customers.
 
-Domino, an omnichannel 57-year-old pizza company, puts strong emphasis on innovation and removing friction from the customer experience. Nowadays, over 60% of their orders are received digitally with more than half of those orders placed through mobile. And the gem in their armory for providing friction-free purchase experience is <a href="https://www.dominos.com.au/inside-dominos/technology/zeroclick" rel="nofollow" target="_blank">Zero Click app</a> with a zero-click ordering feature! The customer simply opens the app, waits for 10 seconds and the order is automatically placed. That's it!
+Domino, an omnichannel 57-year-old pizza company, puts strong emphasis on innovation and removing friction from the customer experience. Nowadays, over 60% of their orders are received digitally with more than half of those orders placed through mobile. And the gem in their armory for providing friction-free purchase experience is Zero Click app with a zero-click ordering feature! The customer simply opens the app, waits for 10 seconds and the order is automatically placed. That's it!
 
 {{< advert >}}Embracing innovation in order to make a purchase so amazingly easy and fast is something that most people want today and something that can turn them into your loyal customers.{{< /advert >}}
 
@@ -112,6 +110,7 @@ So, while creating apps for retail stores, it is necessary to keep them simple a
 *How much will it cost to develop my app?* This is the question that many clients ask software companies before even explaining what they actually want to do. Those who want to create a retail app are not an exception and the cost of development can range from as little as a few thousand dollars for a basic app to tens of thousands of dollars for savvy custom apps. You can even try some DIY mobile app builders for just a few bucks if their built-in components are sufficient for your app idea. However, the vast majority of business apps requires custom development.
 
 The key factors that define the cost of building your retail app are:
+
 * **Size and scale of the app.** It is quite obvious that the more features you want to add, the more advanced these features are, the more devices and platforms the app should be designed for, the more integrations with third-party services are needed and the more elaborated app management system is required, the higher the app development cost is.
 * **Design and development rates.** Though size and scale of the app define the time needed to make it, the rates of developers vary significantly (from $15/hr to over $200/hr) depending on their country income level. So, with the same timeframe and level of quality, the final cost for building an app with US/UK developers may be a few times more expensive than with developers from countries like Ukraine or Belarus.
 * **Testing and refining.** The design and development account for the majority of expenses, however testing also constitutes a notable part of an app creation budget. QA is required both as a part of the development process to ensure continuous monitoring of all possible issues and before public release to check that all requirements are met.

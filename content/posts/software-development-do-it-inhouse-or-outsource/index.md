@@ -4,7 +4,7 @@ title: "Software Development: Do It In-House or Outsource?"
 breadcrumbs: In-House VS Outsource
 slug: software-development-do-it-inhouse-or-outsource
 draft: false
-publishDate: 2017-09-08T00:00:00Z
+publishDate: 2017-09-08T00:00:00.000Z
 image: hire-or-outsource1.jpg
 og_image: hire-or-outsource1.jpg
 description: We often hear that we live in the world of possibilities. However,
@@ -67,13 +67,13 @@ Let's say you can get an outsourced team for the same amount of cash you'd spend
 
 ## Keys to successful outsourcing
 
-**Don't choose the cheapest developers,** because they most likely won't produce anything decent. Some of them may use your project as a possibility to learn how to code. That's not what you are looking for, right? Remember the [quality/speed/cost triangle](https://anadea.info/blog/time-quality-cost-which-ones-do-you-choose-for-your-app)? What you need is to find a balance between these things. Ukrainian developers is a good example of this: they are not overpriced and not the cheapest at the market, well-educated and give reasonable estimates.
+**Don't choose the cheapest developers,** because they most likely won't produce anything decent. Some of them may use your project as a possibility to learn how to code. That's not what you are looking for, right? Remember the [quality/speed/cost triangle](https://anadea.info/blog/time-cost-quality-which-ones-do-you-choose-for-your-app/)? What you need is to find a balance between these things. Ukrainian developers is a good example of this: they are not overpriced and not the cheapest at the market, well-educated and give reasonable estimates.
 
-**Transparency is necessary.** There are a lot of project management tools, such as Jira, Freedcamp or our [Tracker](https://anadea.info/projects/tracker). These tools allow you to see how your developers work, how much time they spend on each task, the estimates for each feature, daily reports, etc. They also help you to be better involved in the development process, become a part of the development team, set priorities and make changes if needed. Good software outsourcing companies always [keep the development process transparent](https://anadea.info/blog/transparency-as-a-clue-to-successful-partnership). They are working on building trust and care about their reputation which is the next point in our list.
+**Transparency is necessary.** There are a lot of project management tools, such as Jira, Freedcamp or our [Tracker](https://anadea.info/projects/tracker). These tools allow you to see how your developers work, how much time they spend on each task, the estimates for each feature, daily reports, etc. They also help you to be better involved in the development process, become a part of the development team, set priorities and make changes if needed. Good software outsourcing companies always keep the development process transparent. They are working on building trust and care about their reputation which is the next point in our list.
 
 Learn about company's **reputation.** See what projects they have developed, check their customers feedback, find out how long this company has been already operating in the market and so on. <a href="https://www.b2blistings.org/">B2B companies</a> with many years of experience have plenty information about them on the Web. They would gladly show you their portfolio and give you contacts of previous customers. After all, a tree is known by its fruit. Learn about a fruit that company provides and what others think of it.
 
-Last but not least - **[right estimation](https://anadea.info/blog/how-to-solve-agile-estimation-problem).** You can find your dream team, you like everything about them and particularly their temptingly low development cost estimate. However, if they underestimated your project and unexpected additional costs will spring up in the course of development, you can run out of budget before the project is ready to release. If you don't want to end up with an unfinished product, check twice that the estimate is fair, accurate and there are no pricing games.
+Last but not least - **right estimation.** You can find your dream team, you like everything about them and particularly their temptingl low development cost estimate. However, if they underestimated your project and unexpected additional costs will spring up in the course of development, you can run out of budget before the project is ready to release. If you don't want to end up with an unfinished product, check twice that the estimate is fair, accurate and there are no pricing games.
 
 ## Conclusion
 

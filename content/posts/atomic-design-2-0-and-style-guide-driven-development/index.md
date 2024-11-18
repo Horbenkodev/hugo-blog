@@ -40,7 +40,7 @@ Let’s not dwell on every single one of them, because Brad’s article on this 
 
 ## What does all this mean in practice?
 
-Have you tried this methodology in your project? If not, you just have to! If you have a React project, start with a <a href="/blog/styleguide-and-component-development" rel="dofollow">style guide</a>. Describe all atom components: form fields, icons, buttons, simple blocks, typography (texts, headings, links). Next, go to the component-molecules: forms, bread crumbs, small blocks of elements consisting of atoms.
+Have you tried this methodology in your project? If not, you just have to! If you have a React project, start with a style guide. Describe all atom components: form fields, icons, buttons, simple blocks, typography (texts, headings, links). Next, go to the component-molecules: forms, bread crumbs, small blocks of elements consisting of atoms.
 
 Done? Move on to the next level: components-organisms. Based on the atomic design methodology, these are all other elements: large and small blocks, non-standard elements, sliders, website headers, menu, modals widgets, product blocks, and others. That’s what happens next - that other stuff, this large set of components in itself becomes kind of a monster. And the block of social buttons is on the same level of nesting with the whole block of the header containing the logo, menu, user profile, and shopping cart.
 
@@ -66,7 +66,7 @@ I needed layers that would continue the chemical sequence of atoms, molecules, o
 
 * Populations
 * Ecosystems
-(of course, pages of components following after them do not sound very good, but they were always out of line)
+  (of course, pages of components following after them do not sound very good, but they were always out of line)
 
 ## What are the new layers fraught with?
 
@@ -75,6 +75,7 @@ Or how to differentiate them from organisms?
 To begin with, I identified two broad categories of layers:
 
 1. **Abstract** - a category for entities that are not tied to a specific subject area. In the framework of atomic design 2.0, this category includes the first 3 layers:
+
 * Atoms
 * Molecules
 * Organisms.
@@ -82,6 +83,7 @@ To begin with, I identified two broad categories of layers:
 They can be filled with any content. An example of an atom: button; what does it do, what is it responsible for? In the component itself, we will never know this until we put it in context. An example of a molecule: a block of filters; the same questions: what does it filter? What data? Within this component, it does not matter to us, because on one page it will filter the list of books, and on the other, it will filter the catalog of hand soap. An example of an organism: a product card in which we are not interested in a specific product, in the component we show only its photo with the name and price.
 
 2. **Domain** - a category of components that reflect the domain area. And here we already speak the customer’s language according to the rules of DDD (Domain-driven design). The following 3 layers here are:
+
 * Populations
 * Ecosystems
 * Pages.
@@ -121,14 +123,15 @@ And then I added another layer - a layer of minerals, small "inanimate" particle
 ## So what is atomic design 2.0
 
 This is an advanced atomic design methodology based on practical application, consisting of 7 levels:
-1) minerals
-2) atoms
-3) molecules
-4) organisms
-5) populations (_group)
-6) ecosystems (_space)
-7) pages (_page)
-where DDD occupies an important place and there is a breakdown into **abstract components** (atoms, molecules, and organisms) and **domain components** (populations, ecosystems, and pages), i.e., semantic, related to the subject area. And auxiliary design elements are reflected in the layer of minerals.
+
+1. minerals
+2. atoms
+3. molecules
+4. organisms
+5. populations (_group)
+6. ecosystems (_space)
+7. pages (_page)
+   where DDD occupies an important place and there is a breakdown into **abstract components** (atoms, molecules, and organisms) and **domain components** (populations, ecosystems, and pages), i.e., semantic, related to the subject area. And auxiliary design elements are reflected in the layer of minerals.
 
 ## Finally
 

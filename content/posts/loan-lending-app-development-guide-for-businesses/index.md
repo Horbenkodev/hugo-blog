@@ -37,7 +37,7 @@ questionary:
       application will provide you with additional competitive advantages and
       monetization opportunities and will help to expand your customer base.
 ---
-The world of finance is gradually changing under the strong influence of modern technologies. While the tech complexity of [financial software solutions](https://anadea.info/solutions/financial-software-development) is growing, the interaction with various banking and other money-related services is becoming more straightforward and convenient for users. That’s exactly what developers of such products want to achieve.
+The world of finance is gradually changing under the strong influence of modern technologies. While the tech complexity of [custom fintech software solutions](https://anadea.info/solutions/financial-software-development) is growing, the interaction with various banking and other money-related services is becoming more straightforward and convenient for users. That’s exactly what developers of such products want to achieve.
 
 In one of our previously published blog posts, we talked about the development of [fintech apps](https://anadea.info/blog/fintech-mobile-app-development) in general. In this article, we’d like to focus on one particular category of financial software and share our insights into loan app development.
 

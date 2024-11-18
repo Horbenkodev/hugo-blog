@@ -4,7 +4,7 @@ title: Is Custom ERP System Development Worth It?
 breadcrumbs: Is Custom ERP Development Worth It
 slug: is-a-custom-erp-really-worth-it
 draft: false
-publishDate: 2018-09-20T00:00:00Z
+publishDate: 2018-09-20T00:00:00.000Z
 image: Custom-erp.jpg
 og_image: Custom-erp.jpg
 description: It makes sense that ERP (enterprise resource planning) software
@@ -26,6 +26,7 @@ In theory, custom ERP (enterprise resource planning) software is preferable to a
 ## The benefits of out-of-the-box (OotB) ERP
 
 ### 1. Cost
+
 The main advantage of an OotB ERP package is that it typically costs less to purchase. Developers don't need to adapt the software: it comes as is, with very few alterations available at a functional level. If an off the shelf solution does what you need it to do, then great. If not, all you can do is try and integrate it with extra programs and software from elsewhere that can become confusing, not to mention increase costs.
 
 ### 2. Speed
@@ -44,7 +45,7 @@ After all, if it's working for thousands of other businesses, then it should wor
 
 ### 4. Quick fix
 
-Some companies consider an off-the-shelf ERP to be the first stepping stone in [integrating a fully customized ERP](https://anadea.info/blog/erp-and-business-management-software-introduction): get the OtS software in place for a lesser fee and then worry about building to fully customized later. However, this is counter-intuitive: employees become accustomed to using one piece of software, making it difficult to start using another, even if it functions better.
+Some companies consider an off-the-shelf ERP to be the first stepping stone in integrating a fully customized ERP: get the OtS software in place for a lesser fee and then worry about building to fully customized later. However, this is counter-intuitive: employees become accustomed to using one piece of software, making it difficult to start using another, even if it functions better.
 
 ## The benefits of custom ERP
 

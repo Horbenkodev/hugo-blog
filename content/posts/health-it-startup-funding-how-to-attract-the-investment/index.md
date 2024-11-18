@@ -28,8 +28,6 @@ Consequently, healthcare providers and those responsible for paying for treatmen
 
 Health IT startups should seize the opportunity. However, the challenge always comes to funding a healthcare startup. Luckily, here are some excellent ways to get funding for your health IT startup for you to consider, which we cover in this article.
 
-{{< advert >}}Related read: [How Much Does It Cost to Develop an App for Healthcare?](https://anadea.info/guides/healthcare-app-development-cost){{< /advert >}}
-
 ## Do Your Homework
 
 Start with the research. Your first step in finding seed funding for your health IT startup is ensuring the true value of your idea. Remember that your idea needs to be unique and solve the real problem. Copycat ideas almost always fail to attract funding. Same way, products that invent a problem rather than solve it never raise sufficient funding from experienced investors.
@@ -37,6 +35,7 @@ Start with the research. Your first step in finding seed funding for your health
 ## Prove Your Worth
 
 Big promises may impress an investor. More often, however, you still need to present realistic numbers and metrics. Consider which measurements are relevant for your health IT startup idea. If this is your first attempt to secure seed capital for your health IT venture, think about other KPIs that validate your idea from the business point of view:
+
 * **Total Available Market** (TAM) - total revenue capacity of your services or products;
 * **Market value** - the price of your healthcare startup could obtain for an asset it owns;
 * **Market Share** you plan to conquer in a year, 5 years;
@@ -61,6 +60,8 @@ Don’t let the lack of contact information on the website stop you from applyin
 Crowdfunding platforms not only help you raise seed funding for your health IT startup, but also increase the brand awareness and help build partnerships. You can especially benefit from featuring your project on crowdfunding networks that specialize in healthcare and life sciences. Try one of these <a href="https://moneyconnexion.com/crowdfunding-websites.htm" rel="nofollow" target="_blank">health IT investment platforms</a> to find the one that perfectly suits your product’s niche and financing needs.
 
 While crowdfunding works differently from seed funding, a successful campaign proves that your idea is feasible and has a solid business value. When you put all the required components in place, your health IT startup may attract even more investment than you initially planned.
+
+{{< advert >}}Related read: <a href="https://anadea.info/blog/how-much-does-it-cost-to-develop-an-app-for-healthcare" rel="nofollow" target="_blank">How Much Does It Cost to Develop an App for Healthcare?</a>{{< /advert >}}
 
 ## Don’t Ignore Traditional Bank Funding
 

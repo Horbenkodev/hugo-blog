@@ -26,7 +26,6 @@ The success of real estate web giants like Zillow, Trulia, StreetEasy consists o
 
 * [Must Have Features to Build a Localized Real Estate App](https://anadea.info/blog/how-to-embrace-the-power-of-mobile-apps-for-your-real-estate-business)
 * [How to Create a Real Estate Web Platform - Cost & Features](https://anadea.info/blog/how-to-create-a-real-estate-web-platform)
-* [Real Estate Business Automation: How to Build a Perfect Web Application](https://anadea.info/blog/real-estate-business-automation)
 
 ## When do you need a/b tests for a real estate site?
 
@@ -55,12 +54,13 @@ Calculating a statistically significant sample size is tough even for statistici
 <center><img src="https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif" alt="Random Winona Ryder"></center>
 <p align="center"><sub><a href="https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif">via GIPHY</a></sub></p>
 
----
+- - -
+
 **Important:** a/b testing is not a way to increase conversions. Also, it will not solve problems in your business. But it will help you make the right decisions based on data.
 
 **What you need to implement the test:** traffic, conversions, web analytics, hypothesis.
 
----
+- - -
 
 ## Tips on the right a/b testing for real estate
 

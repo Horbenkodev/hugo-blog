@@ -1,7 +1,7 @@
 ---
 title: The Ins and Outs of Database Management Systems in Healthcare
 draft: false
-publishDate: 2019-06-07T00:00:00Z
+publishDate: 2019-06-07T00:00:00.000Z
 image: Database-management-systems-in-healthcare.jpg
 og_image: Database-management-systems-in-healthcare.jpg
 description: Database management systems are software that handles the storage,
@@ -34,8 +34,6 @@ Although there are many types of healthcare database management systems that hea
 
 <a href="https://searchdatacenter.techtarget.com/definition/OLTP" target="_blank">OLTP databases</a> allow for quick, real-time transactional processing and deliver rapid response times. For example, when a patient presents their name at the front desk, the receptionist can search for their name in the <a href="https://anadea.info/solutions/medical-app-development/emr-ehr-development" target="_blank">electronic health record (EHR)</a> and instantly see a result. The electronic health record (EHR) is made possible through the use of OLTP databases. Being able to instantly find out a patient's information saves time and improves efficiency.
 
-{{< advert >}}Related read: [Development of Custom Electronic Medical Record (EMR) in Practice](https://anadea.info/blog/development-of-custom-emr-in-practice){{< /advert >}}
-
 ## Use cases
 
 What is the role of databases in healthcare? Let’s explore together.
@@ -44,6 +42,8 @@ What is the role of databases in healthcare? Let’s explore together.
 * Healthcare databases help medical organizations to understand their daily activities and role in the healthcare industry, which enables healthcare professionals to make decisions about the way they are managed.
 * Database facilitates the exchange of information between hospitals. In case a patient needs a service from a different healthcare provider in a different hospital, a database is there to make sure that the exchange of information is successful.
 
+{{< advert >}}Related read: <a href="https://anadea.info/blog/how-much-does-it-cost-to-develop-an-app-for-healthcare" target="_blank">How Much Does It Cost to Develop an App for Healthcare?</a>{{< /advert >}}
+
 ## Pros of database management systems in healthcare
 
 ![Pros of DMS in healthcare](Pros-of-dms-in-healthcare.jpg)
@@ -51,16 +51,11 @@ What is the role of databases in healthcare? Let’s explore together.
 In addition to providing fast and efficient service, there are several other reasons why healthcare industries are beginning to integrate database management systems into their companies. The following are benefits of using a DMS system in your company:
 
 * **The ability to make more informed business decisions.** Database management systems allow healthcare professionals to make more informed business decisions due to the ample amount of data they have access to. The more data that healthcare professionals have access to, the better chance that they make the most informed decision possible.
-
 * **Improved patient engagement.** Improving patient engagement is of high priority for many healthcare professionals, and database management systems do just that. They do this by using predictive modeling and analysis that incentivize patients to engage with their healthcare professionals.
-
 * **Improved population health outcomes.** The third most impactful reason why healthcare industries are beginning to integrate database management systems into their companies is that they improve population health outcomes. They do this by tracking current health trends and predicting upcoming ones.
-
 * **An extra layer of security.** Last but not least, database management systems provide an extra layer of security for all of the information that is stored online. <a href="https://www.liquibase.com/resources/guides/database-continuous-integration" target="_blank">Database security</a> is extremely important to have for all industries, but even more important for the healthcare industry because they have a lot of people's personal and private information.
 
 Although there are many other benefits of using database management systems for healthcare industries, these four are the most impactful.
-
-{{< advert >}}Related read: [How Much Does It Cost to Develop an App for Healthcare?](https://anadea.info/blog/how-much-does-it-cost-to-develop-an-app-for-healthcare){{< /advert >}}
 
 ## Cons of database management systems in healthcare
 
@@ -73,8 +68,6 @@ Raw data is data that you have received, but do not fully understand how to inte
 The other major con of database management systems is siloed data. Siloed data means that each application has its own database. The reason why this is a con is that it is important for healthcare organizations to be able to cross-reference data in a fairly easy manner. Not being able to do so makes it that much harder for healthcare organizations to come up with new and innovative ideas, and solutions to problems.
 
 Unfortunately, siloed data is a natural result of the OLTP database architecture, and if you are using OLTP databases, there is nothing you can do to fix this problem. However, the use of a second database called OLAP (online analytical processing) can help fix these problems. Although this second database will help, it can be problematic due to the confusion that it could cause within healthcare organizations. Not only can it cause confusion, but it is also expensive to use two separate databases as well.
-
-{{< advert >}}Related read: [How Not to Lose the Database Logic in Rails Application](https://anadea.info/blog/sql-as-app-part){{< /advert >}}
 
 ## Bottom line
 

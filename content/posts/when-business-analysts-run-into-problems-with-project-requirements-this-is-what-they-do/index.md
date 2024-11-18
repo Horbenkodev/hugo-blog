@@ -69,6 +69,7 @@ A skilled business analyst knows that the project requirements will not be hande
 The requirements may change in the middle of the project. A business analyst has to plan for change management as well. Business analysts play a critical role in the success of the project.
 
 Here are some elicitation techniques:
+
 * Interviews
 * Document analysis
 * Surveys
@@ -116,8 +117,6 @@ Now we come to the most important question: what professionals do differently to
 
 It’s important that all the project stakeholders are on the same page with respect to project requirements for which communication is the key. Transparent communication leaves no room for any conflicts in the interest of the stakeholders. When all the stakeholders have a single view of all the project requirements, the business analysts can elicit requirements effectively.
 
-{{< advert >}}Related read: [Transparency as a Key to Successful Partnership](https://anadea.info/blog/transparency-as-a-clue-to-successful-partnership){{< /advert >}}
-
 ### Collaboration platform
 
 Business analysts should use a collaboration platform throughout the planning & execution of the project. A collaboration platform allows BA, development, testing team and stakeholders to establish two-way communication with each other. This brings the stakeholders closer to the development and testing to get greater insights on exactly what is being built. This helps business analysts to focus on requirements management rather than acting as a bridge between the development team and stakeholders.
@@ -131,6 +130,7 @@ The <a href="https://anadea.info/services/business-analysis" target="_blank">pro
 ### Using a requirements management tool
 
 As a professional instrument of business analysts, a requirements management tool provides the following features to aid in handling project requirements:
+
 * Requirements capture and documentation
 * Collaboration platform
 * Review history and version control

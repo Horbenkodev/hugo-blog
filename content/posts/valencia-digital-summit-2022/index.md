@@ -4,7 +4,7 @@ title: Valencia Digital Summit 2022 from Anadea's Perspective
 breadcrumbs: VDS 2022
 slug: valencia-digital-summit-2022
 draft: false
-publishDate: 2022-10-28T00:00:00Z
+publishDate: 2022-10-28T00:00:00.000Z
 image: valencia-museum.jpg
 og_image: vds2022-socials.jpg
 description: The perfect place to learn about tech trends and meet founders in
@@ -49,7 +49,7 @@ A rapidly developing business domain __FinTech__ remains one of our key focuses.
 
 The panel on Best Global Practices in Entrepreneurship and Investment on the SummitPro stage led by __Iker Marcaide__ and __Iñaki Berenguer__ came out very compelling. Born in the Valencian community, both of them set up and developed remarkable international companies. Iker founded a FinTech Unicorn __<a href="https://byentrepreneur.com/entrepreneur/flywire-introducing-the-third-spanish-unicorn/" target="_blank" rel="nofollow">Flywire</a>__ and Iñaki founded InsureTech __CoverWallet__, an online platform that offers insurance management services to small and medium businesses.
 
-There was a separate panel for FinTech startups pitching. Some of the ideas were very fresh and unexpected, for instance, a FinTech startup __Rentastic__, digitalizing a customer journey of industrial machinery purchase from the foodservice sector to the manufacturer. They claim to be the first KAAS (Kitchen as a Service) company, meaning that they also offer to rent solutions as a means of payment, including all associated services (transport, installation, maintenance, etc.). We are now discussing potential cooperation with this startup in the part of <a href="https://anadea.info/solutions/financial-software-development" target="_blank">creating custom financial software</a> for them.
+There was a separate panel for FinTech startups pitching. Some of the ideas were very fresh and unexpected, for instance, a FinTech startup __Rentastic__, digitalizing a customer journey of industrial machinery purchase from the foodservice sector to the manufacturer. They claim to be the first KAAS (Kitchen as a Service) company, meaning that they also offer to rent solutions as a means of payment, including all associated services (transport, installation, maintenance, etc.). We are now discussing potential cooperation with this startup in the part of creating <a href="https://anadea.info/solutions/financial-software-development" target="_blank">custom fintech software solutions</a> for them.
 
 ## Much inspiration for us
 So this was a great couple of days of diving into a huge community of entrepreneurs and technology enthusiasts. Operating in a region where the events like this take place on a regular basis is priceless and we can’t express our gratitude to the organizers and sponsors. Maybe next years, we’ll be joining as speakers as there’s plenty of what we can share with the world ;)

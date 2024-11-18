@@ -31,44 +31,45 @@ When you make a simple web page you know that you will open it in a browser or v
 
 When it comes to email layouts, this is where the fun starts. Aside from different operating systems and browsers, we also have different email clients. Each of them has its individual displaying methods that work differently with each device, OS and screen width.
 
-Here's the list of devices, browsers, mail clients and operating systems we need to check __(updated as for 2023)__:
+Here's the list of devices, browsers, mail clients and operating systems we need to check **(updated as for 2023)**:
 
 * Browsers:
-  - Firefox (latest version)
-  - Chrome (latest version)
-  - Microsoft Edge (latest version)
 
+  * Firefox (latest version)
+  * Chrome (latest version)
+  * Microsoft Edge (latest version)
 * Mail clients:
-  - Gmail (latest version)
-  - Outlook.com (latest version)
-  - Yahoo Mail (latest version)
 
+  * Gmail (latest version)
+  * Outlook.com (latest version)
+  * Yahoo Mail (latest version)
 * Desktop:
-  - Windows 11 (latest version)
-  - Outlook 2019
-  - Outlook 2016
-  - Outlook 2013
-  - Outlook 2010
-  - Outlook 2007
-  - macOS (latest version)
-  - Apple Mail (latest version)
-  - Outlook for Mac (latest version)
 
+  * Windows 11 (latest version)
+  * Outlook 2019
+  * Outlook 2016
+  * Outlook 2013
+  * Outlook 2010
+  * Outlook 2007
+  * macOS (latest version)
+  * Apple Mail (latest version)
+  * Outlook for Mac (latest version)
 * Mobile:
-  - iOS (latest version)
-  - iPhone 14
-  - iPhone 14 Pro
-  - iPhone 14 Pro Max
-  - iPhone 13
-  - iPhone 13 Pro
-  - iPhone 13 Pro Max
-  - iPhone 13 Mini
-  - iPhone 12
-  - iPhone 11
-  - iPhone XR
-  - iPhone SE (2nd generation)
-  - iPad (latest version)
-  - iPad Mini (latest version)
+
+  * iOS (latest version)
+  * iPhone 14
+  * iPhone 14 Pro
+  * iPhone 14 Pro Max
+  * iPhone 13
+  * iPhone 13 Pro
+  * iPhone 13 Pro Max
+  * iPhone 13 Mini
+  * iPhone 12
+  * iPhone 11
+  * iPhone XR
+  * iPhone SE (2nd generation)
+  * iPad (latest version)
+  * iPad Mini (latest version)
 
 All of them work differently and have unique layout interpretation which causes unpredictable behaviour. There is a set of rules for this case, but it doesn't cover every aspect. Marketing evolves and no one sends simple emails with a picture and text these days. Email design creates new ways to deliver ads with emails and it also makes letters and email layout design way more complex. Modern emails look like individual mini-HTML pages with numerous layers that depend on each other.
 
@@ -76,7 +77,7 @@ It is nearly impossible to check all variations, however we found a good way to 
 
 ## Solutions
 
-We use [SendWithUs](https://anadea.info/blog/sendwithus-overview) service. It allows you to see all template changes, such as adding a new element or style. It has an option of testing the letter on different devices. After you have chosen the devices and email clients you would like to test, SendWithUs sends a letter to real devices and sends back a screenshot of how they look. So it's not a big deal if you don't have some device in your test park.
+We use SendWithUs service. It allows you to see all template changes, such as adding a new element or style. It has an option of testing the letter on different devices. After you have chosen the devices and email clients you would like to test, SendWithUs sends a letter to real devices and sends back a screenshot of how they look. So it's not a big deal if you don't have some device in your test park.
 
 IOS devices are pretty stable in displaying mails, so we're not worried about iPhone X. Outlook in Windows is a whole different story. Before you even begin, you should ponder on your approach multiple times. Designers usually do not think about how challenging it is to implement their email design ideas. That's why we have to estimate the difficulty first, inspect every element and choose the best decision. It may be redefining hundreds of styles using media queries (it's good that they work everywhere) or just hiding an item and showing a new one. If you don't want to start the whole process once again, you also have to keep in mind the mobile version.
 

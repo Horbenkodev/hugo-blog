@@ -4,7 +4,7 @@ title: "Fintech Mobile App Development: Practical Tips"
 breadcrumbs: Fintech Mobile App Development
 slug: fintech-mobile-app-development
 draft: false
-publishDate: 2023-08-08T00:00:00Z
+publishDate: 2023-08-08T00:00:00.000Z
 image: fintech_app.png
 og_image: fintech_app_socials.png
 description: If you are looking for practical recommendations on how to develop
@@ -65,9 +65,7 @@ accessibility, and the way of their delivery to customers.
 
 Today it is too early to speak about the potential of the fintech
 industry to fully replace the traditional banking and finance industry.
-However, together with the growth of the demand for [fintech software
-development](https://anadea.info/solutions/financial-software-development)
-services, we can observe the expansion of the fintech sector. At the
+However, together with the growth of the demand for [fintech software development services](https://anadea.info/solutions/financial-software-development), we can observe the expansion of the fintech sector. At the
 current moment, it holds a share of 2% of the global financial services
 revenue which stays at around \$12.5 trillion. But analysts
 [expect](https://www.bcg.com/press/3may2023-fintech-1-5-trillion-industry-by-2030)

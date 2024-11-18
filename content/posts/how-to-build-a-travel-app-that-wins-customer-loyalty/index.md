@@ -2,7 +2,7 @@
 title: How to Build a Travel App That Wins Customer Loyalty
 breadcrumbs: Create a Travel Application
 draft: false
-publishDate: 2018-08-10T00:00:00Z
+publishDate: 2018-08-10T00:00:00.000Z
 image: Travel-app-trends.jpg
 og_image: Travel_app_trends.jpg
 description: Travelers want to focus on enjoying their trip, not getting bogged
@@ -19,11 +19,11 @@ categories:
 industries:
   - travel
 ---
-Travelers want to focus on enjoying their trip, not getting bogged down by planning the details. With predictions of <a href="https://www.lonelyplanet.com/articles/international-travel-increase-next-decade" target="_blank">280 million households</a> travelling internationally at least once a year by 2025, there is a strong growth in apps to support users along every step.
+Travelers want to focus on enjoying their trip, not getting bogged down by planning the details. With predictions of 280 million households traveling internationally at least once a year by 2025, there is a strong growth in apps to support users along every step.
 
 ## The growth of apps in the travel sector
 
-Although apps, in general, have seen consistent growth year after year, travel apps have been particularly popular. In 2012, there was a 116% increase in travel apps compared to an 84% growth in general mobile app use, <a href="https://www.emarketer.com/Article/Travel-Apps-Lead-Industries-Usage-Growth/1009408" target="_blank">the second highest increase after photography</a>.
+Although apps, in general, have seen consistent growth year after year, travel apps have been particularly popular. In 2012, there was a 116% increase in travel apps compared to an 84% growth in general mobile app use, the second highest increase after photography.
 
 While travel apps are typically associated with booking hotels, only 18% of users had booked a hotel room with a mobile app, with the most common activity is to look up the hotel address or directions (29%), followed by activities outside of the expected bookings, including attractions to visit (23%) and nearby restaurants (22%).
 
@@ -59,11 +59,11 @@ Crafting a home away from home is nerve-wracking when there are a hundred things
 
 <center><img src="https://cdn.dribbble.com/users/760826/screenshots/3627805/map.gif" alt="Map views" style="width: 80%;"/></center>
 
-Although it can be particularly enjoyable to explore the location on foot or by transport, sometimes travelers need a map to show them exactly where something is. This might be on the journey there – such as <a href="http://corporate.flio.com/" rel="nofollow" target="_blank">FLIO's</a> airport map and information – or once the traveller arrives by giving recommendations for activities nearby (with directions included, of course).
+Although it can be particularly enjoyable to explore the location on foot or by transport, sometimes travelers need a map to show them exactly where something is. This might be on the journey there – such as FLIO's airport map and information – or once the traveller arrives by giving recommendations for activities nearby (with directions included, of course).
 
 ### Think outside the box
 
-Getting to a destination is the stressful part of any trip, and travelers are looking for something to make their journey more pleasant. <a href="https://apps.apple.com/us/app/loungebuddy-lounge-access/id674176920" target="_blank">LoungeBuddy</a> is an app for checking into over 300 airport lounges – a little extra that might not have immediately sprung to mind but would be appreciated by consumers on any budget.
+Getting to a destination is the stressful part of any trip, and travelers are looking for something to make their journey more pleasant. LoungeBuddy is an app for checking into over 300 airport lounges – a little extra that might not have immediately sprung to mind but would be appreciated by consumers on any budget.
 
 Instead of trying to beat well-established giants, companies can bring something new to the table by developing an app travelers might not have even known they needed, such as a <a href="http://products.wolframalpha.com/referenceapps/sunexposure.html" rel="nofollow" target="_blank">sun exposure app</a> that calculates how long users can stay in the sun until their next sunscreen top-up based on skin-type, UV index, and sun factor protection.
 

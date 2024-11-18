@@ -33,7 +33,7 @@ Healthcare is home to a huge amount of data, so it’s no surprise that technolo
 
 <a href="https://www.sas.com/en_ph/insights/analytics/predictive-analytics.html" target="_blank">Predictive analysis</a> uses “Big Data”, statistical algorithms and machine learning techniques to identify the likelihood of future outcomes based on historical data.
 
-This method is used by many industries, like banking, finance, and <a href="https://propelrr.com/blog/ecommerce-business-data" target="_blank">e-commerce business</a> - for many reasons, one of which is to improve their operations. The healthcare industry is no exception.
+This method is used by many industries, like banking, finance, and e-commerce business - for many reasons, one of which is to improve their operations. The healthcare industry is no exception.
 
 <a href="https://www.soa.org/globalassets/assets/Files/programs/predictive-analytics/2017-health-care-trend.pdf" target="_blank">According to the Society of Actuaries</a>, around 93 percent of health payers and providers believe that predictive analysis plays an important role in the future of their business.
 
@@ -54,8 +54,6 @@ Here you can find a few examples of use of predictive analytics at different sta
 Let’s get down to the basics, first. What is healthcare’s Big Data? Big Data is literally a massive amount of information used in predictive analytics in healthcare. In the healthcare industry, its “big data” is made out of hospital records, medical records, and medical examination results, among others.
 
 Back in the day, all medical records were done in the traditional way of pen and paper. But with the advancement of technology, these data are now digitized and called “<a href="https://anadea.info/solutions/medical-app-development/emr-ehr-development" target="_blank">Electronic Health Records</a>” or EHR.
-
-{{< advert >}}Related read: <a href="https://anadea.info/blog/development-of-custom-emr-in-practice">Developing Custom EMR in Practice</a>{{< /advert >}}
 
 So how can this data help the healthcare industry through predictive analytics?
 

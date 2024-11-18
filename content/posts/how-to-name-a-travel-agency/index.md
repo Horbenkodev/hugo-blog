@@ -22,17 +22,19 @@ industries:
 The onset of the digital era took tour and travel industry to a new level. Along with maps, tour guides, handbooks and various online platforms where you can order a taxi, book a hotel or find a storage for your luggage, travel agencies have moved to the web too. All of them now have websites and mobile apps. It became easy for tourists to find a suitable service provider but the travel market players are at risk to get lost in the terabytes of information that swamps consumers in the Internet.
 
 ## Where to start naming a travel agency?
+
 The original, bright, meaningful and memorable name is as necessary as air for any business nowadays. Finding such a name is a challenging task, especially in our time when we often hear that "everything had been invented before us" and many business names are already taken. Hundreds of results with similar names in search engines is not something you want for your travel agency.
 
 You need a business name that will allow your company to come up on the the first page (and preferably on the first place) of search results whenever someone is searching for it in Google. The name should evoke proper associations with your services and leave no room for undesirable ambiguity. It's necessary to choose the name that will be explicitly associated with your company and of course you need a high quality service and content to achieve this. But first things first.
 
-You can find nice name ideas through a popular [business name generator](https://anadea.info/blog/7-popular-business-name-generators). However, as you are interested in names related to tourism, it's better to use an industry-specific [travel agency names generator](https://businessnameguide.com/travel-company).
+You can find nice name ideas through a popular [business name generator](https://anadea.info/blog/7-popular-business-name-generators). However, as you are interested in names related to tourism, it's better to use an industry-specific travel agency names generator.
 
 Alternatively, simply use <a href="https://chat.openai.com/" target="_blank" rel="nofollow">ChatGPT</a> to generate a travel agency business name for you. By simply providing a prompt such as "Generate travel agency business name" or a similar phrase, you can initiate a conversation with ChatGPT. The next step would involve ChatGPT asking you a series of questions to narrow down the options based on your preferences, such as the type of travel agency, target demographic, geographic location, and other relevant factors. With your inputs, ChatGPT will proceed to generate a list of potential business names to choose from. However, if you are not content with the options generated, ChatGPT can generate more alternatives by modifying your preferences or providing additional details.
 
 Now let's discuss attributes of good travel agency names.
 
 ## Attributes of a good business name
+
 ### Easy to pronounce
 
 Let's start with simple things. It's vitally important to find a business name that people can easily pronounce. Otherwise, how would they tell their friends about your travel agency? Verbal communication plays a big part in our lives and you can't ignore euphony. It's one thing to say, "Have you heard about Travel Fella?" and quite another - "Have you heard about R-X-Y-D-Z-Z... oh, it's too hard to spell, I'll send you a link."

@@ -2,7 +2,7 @@
 title: "Time, Cost, Quality: Which Ones Do You Choose for Your App?"
 breadcrumbs: " Time VS Cost VS Quality"
 draft: false
-publishDate: 2018-04-13T00:00:00Z
+publishDate: 2018-04-13T00:00:00.000Z
 image: Right-choice.jpg
 og_image: Time-cost-quality.jpg
 description: Getting an app built is an investment. Whether your audience is
@@ -24,9 +24,7 @@ Businesses know they need to set aside a budget to ensure they get an app that w
 
 Although we take a transparent approach to pricing, timescales and project management when working with clients, we know not everyone in our industry does. Some web and app development firms charge considerably more. Others charge a lot less, aiming to rush through product development so they can move onto the next paying project.
 
-{{< advert >}}Related article: [Transparency as a Key to Successful Partnership](https://anadea.info/blog/transparency-as-a-clue-to-successful-partnership){{< /advert >}}
-
-As a result, companies can be left with the bewildering _good, cheap, fast_ choice:
+As a result, companies can be left with the bewildering *good, cheap, fast* choice:
 
 * Do you pick expensive, with potentially protracted production timescales?
 * Or do you go for a more reasonable price, which offers a realistic production process?

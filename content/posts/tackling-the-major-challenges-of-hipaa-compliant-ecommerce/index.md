@@ -1,7 +1,7 @@
 ---
 title: Tackling The Major Challenges of HIPAA-Compliant eCommerce
 draft: false
-publishDate: 2019-03-29T00:00:00Z
+publishDate: 2019-03-29T00:00:00.000Z
 image: HIPAA-compliant-ecommerce.jpg
 og_image: HIPAA-compliant-ecommerce.jpg
 description: If your web store deals even partially with protected health
@@ -34,8 +34,6 @@ First thing's first, if your website is going to be compliant, you need to start
 
 The good news is that most eCommerce platforms if implemented properly, can be made compliant. It's just that some are easier than others. If you're looking for a starting point, WooCommerce and Magento are both great options - easy to use, and with a wealth of plugins to help keep your data under wraps.
 
-{{< advert >}}Related read: [Development of Custom Electronic Medical Record (EMR) in Practice](https://anadea.info/blog/development-of-custom-emr-in-practice){{< /advert >}}
-
 ## Seeing to data storage and sanitization
 
 Without a doubt, the biggest challenge of HIPAA compliance is understanding what data you need to protect, and ensuring that data is always under your control. This applies to pretty much every type of healthcare business - not just eCommerce organizations. Let's start by going over what PHI actually means.
@@ -60,7 +58,6 @@ In essence, PHI is **anything** that could potentially be used to identify a pat
 One thing a lot of website owners forget is that it's not just your platform and your data that need to be secure - it's your applications, as well. Any plugins you install on your site **need** to be thoroughly vetted and examined for potential security flaws. If an addon has a bug that can be exploited to compromise PHI, it doesn't matter what other security measures you take.
 
 Your website will be neither compliant nor secure. Therefore, don’t hesitate and use the professional help of our team.
-
 
 ## Ensuring a positive user experience
 

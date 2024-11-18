@@ -33,7 +33,7 @@ questionary:
       this process can take from 3 to 12 months. However, exact timelines should
       be estimated for each project individually.
 ---
-In the modern world, it has already become obvious that the traditional models used in the banking industry can’t fully address customer needs and meet the requirements of all market players. With overall digitalization, it’s impossible to deny the necessity to introduce [digital solutions](https://anadea.info/solutions/financial-software-development) to adapt the existing banking products and services to the current realities.
+In the modern world, it has already become obvious that the traditional models used in the banking industry can’t fully address customer needs and meet the requirements of all market players. With overall digitalization, it’s impossible to deny the necessity to introduce [custom fintech software solutions](https://anadea.info/solutions/financial-software-development) to adapt the existing banking products and services to the current realities.
 
 Today mobile banking app development can become a very promising project. Thanks to the possibility to use the majority of the most highly-demanded banking services directly on their smartphones people can save a lot of time. As a result, their loyalty to their banks increases, as well as the general level of satisfaction. However, to launch an app that will perfectly cope with the set tasks and allow you to reach your key goals, you need to know the trends and standards that can be observed today.
 

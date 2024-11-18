@@ -31,7 +31,7 @@ If you are new to the concept of Big Data, there are numerous <a href="https://w
 
 ![Data analytics](Data-analytics.jpg)
 
-<sub><a href="https://dzone.com/articles/how-can-data-analytics-be-used-to-enhance-app-deve" rel="nofollow" target="_blank">Image source</a></sub></center>
+</center>
 
 The fundamental question that arises is: **How do you leverage and use such vast amount of data to develop good mobile apps providing value-added services?**
 
@@ -43,7 +43,7 @@ The answer is Big Data. It is clearly visible that the increased engagement and 
 
 ![Big Data facts](big-data-facts.png)
 
-<sub><a href="https://dzone.com/articles/how-can-data-analytics-be-used-to-enhance-app-deve" rel="nofollow" target="_blank">Image source</a></sub></center>
+</center>
 
 Due to the ever-increasing number of mobile users, the mobile app market is expected to reach <a href="https://insidebigdata.com/2017/12/19/impact-big-data-mobile-app-development-businesses/" rel="nofollow" target="_blank">$189 billion</a> by 2020. Hence, a significant share of the future of digital technology depends on developing certified and stable mobile apps. Here's how Big Data can help transform mobile applications for the better!
 

@@ -1,7 +1,7 @@
 ---
 title: "Modern App Development: What's Fresh, What's Trendy?"
 draft: false
-publishDate: 2016-10-14T00:00:00Z
+publishDate: 2016-10-14T00:00:00.000Z
 image: modern-app-development.jpg
 og_image: modern-app-development.jpg
 description: Do you know what you are going to do in 10 years' time? How will
@@ -62,7 +62,7 @@ In addition, companies that make apps do their best in order to provide more per
 
 ## But the tendency remains…
 
-I have previously given some tips on how to make successful mobile apps. To develop a good application, you still need to make it easy to use, unique and sharable. These tendencies haven't changed as well as the advantages of [native apps over hybrid ones](https://anadea.info/blog/why-native-apps-are-better-than-hybrids). Here are a few more ideas you can take into consideration.
+I have previously given some tips on how to make successful mobile apps. To develop a good application, you still need to make it easy to use, unique and sharable. These tendencies haven't changed as well as the advantages of native apps over hybrid ones. Here are a few more ideas you can take into consideration.
 
 Keep in mind that users are still not inclined to purchase applications (even though <a href="http://www.statista.com/statistics/267346/average-apple-app-store-price-app/" rel="nofollow" target="_blank">the average app cost</a> in the Apple App Store this June is only $1). At the same time they want something reliable. Modern apps contain a lot of personal data, yet in 2015 many of them failed the basic security test. So when developing your own application pay extra attention to safety issues in order to avoid unintended data leakage or broken cryptography among others.
 

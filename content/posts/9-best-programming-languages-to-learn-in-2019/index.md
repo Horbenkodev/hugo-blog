@@ -39,8 +39,6 @@ Go (also known as GOlang) is a programming language created by Google engineers:
 Swift is mainly used in developing iOS apps. The language was developed by Apple in 2014, making it a fairly recent addition to the programming world. However, it quickly grew in popularity. It is one of the best programming languages to learn for a person who wishes to develop iOS apps.
 iOS apps are statistically more profitable than Android. This is the reason why people decide to take this programming language as their first to learn. It is not highly complicated. The basics of C programming will help you a lot in learning how to use Swift.
 
-{{< advert >}}Related read: [Swift vs Objective-С: There Will Be Blood](https://anadea.info/blog/swift-vs-objective-c-there-will-be-blood){{< /advert >}}
-
 ## 3. Elixir
 
 Elixir, by Jose Valim, has seen a gentle rise in popularity since its creation in 2011. It is a dynamic and functional programming language run on Erlang Virtual Machine and is purposed for developing scalable applications. The basic understanding of computer terminologies will make you prepared to learn this language. Elixir supports the coding system and assists the developers to write programs more compact and maintainable. It is also used for web development and building embedded systems.
@@ -54,8 +52,6 @@ Rust is an open source programming language usually compared with C but is a bit
 ![Ruby programming language](Ruby-logo.png)
 
 Ruby is hands-down, one of the best programming languages to learn. It is a general-purpose language designed by Yukihiro Matsumoto in mid-1990. Compared to most other languages, it is user-friendly and requires less code for more actions done by the program. Most rubists reported that they have picked up this language fast and have made good progress with it in a short time. Ruby became popular with one of its most common framework, Ruby on Rails and still proves to be successful. The main drawback would be that it takes longer for a program wrote in Ruby to compile. However, this should not worry you as long as you do a good job, your program will be of great value.
-
-{{< advert >}}Related read: [Why Ruby on Rails is So Popular?](https://anadea.info/blog/why-ruby-on-rails-is-so-popular){{< /advert >}}
 
 ## 6. C++
 
