@@ -14,7 +14,7 @@ promote:
   promote: false
 top: false
 authors:
-  - danyil-baltaksa
+  - alyona-sushko
 categories: []
 industries:
   - fintech
@@ -252,7 +252,7 @@ With a clear understanding of system needs, fintech firms can select the most su
 
 **Objective:** Implement a modernization approach at [web development](https://anadea.info/services/web-development) that balances immediate results with long-term scalability and adaptability.
 
-{{< advert >}}Related article: <a href=""https://anadea.info/blog/fintech-mobile-app-development/">Fintech Mobile App Development: Practical Tips
+{{< advert >}}Related article: <a href="https://anadea.info/blog/fintech-mobile-app-development/">Fintech Mobile App Development: Practical Tips
 </a>
 {{< /advert >}}
 
