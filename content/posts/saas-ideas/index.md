@@ -51,7 +51,7 @@ It is <a href="https://www.statista.com/statistics/505243/worldwide-software-as-
 
 ![Saas market in billion U.S. dollars](saas_market.jpg)
 
-The range of SaaS business ideas that are likely to turn out to be successful is rather wide. But with our experience in this industry, we clearly understand that despite the vital role that the idea itself has in the project performance, its technical realization also matters. That's why we recommend you consider various software startup ideas first. But then it will be sensible to book a consultation with a team of professional developers in order to understand <a href="https://anadea.info/for-clients/before-you-start/how-to-build-a-saas-product" target="_blank">how to create a SaaS product</a> that will be bound to rock the market.
+The range of SaaS business ideas that are likely to turn out to be successful is rather wide. But with our experience in this industry, we clearly understand that despite the vital role that the idea itself has in the project performance, its technical realization also matters. That's why we recommend you consider various software startup ideas first. But then it will be sensible to book a consultation with a team of professional developers in order to understand <a href="https://anadea.info/guides/how-to-build-a-saas-product" target="_blank">how to create a SaaS product</a> that will be bound to rock the market.
 
 ## Project management and collaboration tools
 
