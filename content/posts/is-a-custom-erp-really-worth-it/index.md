@@ -53,7 +53,7 @@ Some companies consider an off-the-shelf ERP to be the first stepping stone in i
 
 ### 1. Investment
 
-The start-up [cost of custom ERP](https://anadea.info/blog/erp-and-business-management-software-introduction) might be higher than ready-made software, but you know that it has been tailor-made to your requirements, and your expected growth. With "boxed" ERP program, once the licensed subscription is no longer working for your business then there is little you can do but move on to something different and more appropriate: like a short term fix, it provides the immediate gratification but fails to deliver in the long run.
+The start-up cost of custom ERP might be higher than ready-made software, but you know that it has been tailor-made to your requirements, and your expected growth. With "boxed" ERP program, once the licensed subscription is no longer working for your business then there is little you can do but move on to something different and more appropriate: like a short term fix, it provides the immediate gratification but fails to deliver in the long run.
 
 ### 2. Streamlined
 
