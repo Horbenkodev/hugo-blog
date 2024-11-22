@@ -326,6 +326,6 @@ Banks aim to provide personalized services by leveraging customer data. Neverthe
 
 Given the current state of the banking landscape, it is obvious that digital transformation is inevitable for those institutions that want to stay competitive. As banks continue to innovate, the emphasis on security, convenience, and personalized experiences will grow. This will introduce increased standards for digital tools and systems.
 
-If you do not want to lag behind, you need to start your transformation journey already now. And at Anadea, we will be always ready to support you at any stage of such initiatives. With our solid experience in [fintech software development](https://anadea.info/solutions/financial-software-development), we are confident that we will be able to find the best solutions for you. Want to find out how much your project will cost? Just share your requirements with us and get a quote for free.
+If you do not want to lag behind, you need to start your transformation journey already now. And at Anadea, we will be always ready to support you at any stage of such initiatives. With our solid experience in [fintech software development](https://anadea.info/solutions/fintech-software-development), we are confident that we will be able to find the best solutions for you. Want to find out how much your project will cost? Just share your requirements with us and get a quote for free.
 
 {{< ctabutton >}}Get in touch{{< /ctabutton >}}
