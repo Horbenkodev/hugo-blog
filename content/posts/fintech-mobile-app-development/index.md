@@ -65,12 +65,12 @@ accessibility, and the way of their delivery to customers.
 
 Today it is too early to speak about the potential of the fintech
 industry to fully replace the traditional banking and finance industry.
-However, together with the growth of the demand for [fintech software development services](https://anadea.info/solutions/financial-software-development), we can observe the expansion of the fintech sector. At the
+However, together with the growth of the demand for [fintech software development services](https://anadea.info/solutions/fintech-software-development), we can observe the expansion of the fintech sector. At the
 current moment, it holds a share of 2% of the global financial services
-revenue which stays at around \$12.5 trillion. But analysts
+revenue which stays at around $12.5 trillion. But analysts
 [expect](https://www.bcg.com/press/3may2023-fintech-1-5-trillion-industry-by-2030)
 that by 2030, the share of banking fintechs will be almost 25%. It means
-that from \$245 billion, the revenues of fintech will grow to \$1.5
+that from $245 billion, the revenues of fintech will grow to $1.5
 trillion.
 
 ![Fintech market overview](Understanding_Fintech_and_its_Potential_copy__1_.png)
@@ -141,7 +141,7 @@ Data).**
 
 ![](abcd.png)
 
--  **Artificial Intelligence (AI) and Machine Learning (ML).** These
+* **Artificial Intelligence (AI) and Machine Learning (ML).** These
   technologies play an important role in the evolution of the
   fintech landscape today. They help to increase the automation of
   numerous processes, enhance efficiency, enable accurate
@@ -149,8 +149,7 @@ Data).**
   AI-powered solutions, companies can deliver highly personalized
   services and experiences to their customers in full accordance
   with their ongoing needs.
-
--  **Blockchain**. Though blockchain is widely associated with
+* **Blockchain**. Though blockchain is widely associated with
   cryptocurrencies, crypto assets are only one of the use cases of
   this technology. Today blockchain is chosen by many companies for
   building their apps and storing their data. Blockchain platforms
@@ -159,8 +158,7 @@ Data).**
   all transactions is ensured. What's more, thanks to blockchain you
   can fully exclude intermediaries from financial processes which
   will help you to make all operations faster and cheaper.
-
--  **Cloud computing.** Cloud technologies are among the main boosters
+* **Cloud computing.** Cloud technologies are among the main boosters
   of the fintech sector's growth. Cloud computing has fully
   revolutionized the way financial companies provide their services
   and organize their internal processes. With cloud platforms,
@@ -169,8 +167,7 @@ Data).**
   much more scalable and flexible than others and by using them,
   companies can implement new business models for enhancing user
   experience
-
--  **Big Data**. Data is one of the most valuable business resources
+* **Big Data**. Data is one of the most valuable business resources
   these days. And the better a company can work with its data, the
   higher the results it can achieve. But in the modern business
   world, the volumes of data are really huge which makes it
@@ -285,6 +282,7 @@ pairs, size of commissions, and availability of the app in their region.
 ![crypto app](crypto_app.png)
 
 ### Insurance apps
+
 Such apps allow users to find insurance programs
 based on their individual needs and to buy insurance policies online.
 Apps of this kind typically offer a very convenient search system that
@@ -353,10 +351,10 @@ on your app because some monetization strategies will presuppose
 building additional functionality. When you are going to build a fintech
 app, you can consider one of the following options:
 
-- In-app advertising;
-- Subscription fees;
-- Commissions for transactions;
-- Premium features.
+* In-app advertising;
+* Subscription fees;
+* Commissions for transactions;
+* Premium features.
 
 Of course, your choice of the way to make money on your app will greatly
 depend on the exact type of solution that you want to launch. But
@@ -385,11 +383,11 @@ process.
 
 Usually, a fintech apps development team has the following composition:
 
-- 1 backend developer;
-- 1 or 2 mobile developers (iOS and Android);
-- 1 UI/UX designer;
-- 1 QA engineer;
-- 1 project manager.
+* 1 backend developer;
+* 1 or 2 mobile developers (iOS and Android);
+* 1 UI/UX designer;
+* 1 QA engineer;
+* 1 project manager.
 
 However, your project team may look different based on the peculiarities
 of your future solution.
@@ -427,14 +425,13 @@ be very helpful to analyze potential challenges that you can face at any
 stage of project realization. When you are well-prepared for them, you
 will be able to easily mitigate any possible risks.
 
--  **Right targeting**. Already at the stage of planning, you need to
+* **Right targeting**. Already at the stage of planning, you need to
   clearly define who will be your target audience and what tasks you
   will help them to fulfill. Let's admit that when, for example, you
   want to build a solution for investing in stocks, students or
   teenagers won't be the right audience. That's why you should
   always know who, how, and when will use your software.
-
--  **Appropriate tech stack.** We always recommend customers choose
+* **Appropriate tech stack.** We always recommend customers choose
   rather popular and widely used technologies. Otherwise, it will be
   difficult for them to find developers who will be able to support
   their solution, enrich it with new features, and make the desired
@@ -443,8 +440,7 @@ will be able to easily mitigate any possible risks.
   hybrid app) that you are going to create. The wrongly chosen
   technologies may become an obstacle to your app's growth,
   enhancement, and user base expansion.
-
--  **Security**. Fintech apps deal with a lot of sensitive data and
+* **Security**. Fintech apps deal with a lot of sensitive data and
   have access to users' funds. That's why fintech app developers
   should always focus on the necessity to introduce strong tools and
   measures that will help to protect their solutions from different
@@ -463,65 +459,51 @@ may use for building your application.
 
 Must-have features for fintech apps:
 
--  **Registration**. The process of signing up should be simple and
+* **Registration**. The process of signing up should be simple and
   clear, otherwise, you will risk losing users already at this step.
-
--  **Personal accounts**. This section will store the personal and
+* **Personal accounts**. This section will store the personal and
   financial details of users.
-
--  **Payment gateway**. You need to provide functionality for quick and
+* **Payment gateway**. You need to provide functionality for quick and
   safe transactions.
-
--  **Personal finance management.** This group of features may include
+* **Personal finance management.** This group of features may include
   tools for saving, tax planning, and budgeting.
-
--  **Bank cards**. Users should be able to add their existing bank
+* **Bank cards**. Users should be able to add their existing bank
   cards or create them directly on the app.
-
--  **Push notifications**. This feature can be used to notify users
+* **Push notifications**. This feature can be used to notify users
   about special offers, new products, services, and important
   changes in your company's policy. Moreover, via notifications
   users can be informed about incoming transactions as well as the
   necessity to complete failed operations.
-
--  **Transaction history**. Users should have access to the history of
+* **Transaction history**. Users should have access to the history of
   all their transactions conducted via your app.
-
--  **Chatbots**. AI-powered chatbots can be used to get answers to
+* **Chatbots**. AI-powered chatbots can be used to get answers to
   questions related to the interaction with your app, your products,
   and your services.
 
 Advanced features for fintech apps:
 
--  **Biometric scanning.** You can increase the protection of your app
+* **Biometric scanning.** You can increase the protection of your app
   by introducing tools for facial, voice, and fingerprint
   recognition instead of traditional passwords.
-
--  **Two-factor authentication**. 2FA features that will require
+* **Two-factor authentication**. 2FA features that will require
   providing codes received via phone calls or SMS are also expected
   to guarantee a higher level of security.
-
--  **KYC**. Such features as identity verification, customer
+* **KYC**. Such features as identity verification, customer
   identification, transaction monitoring, and risk scoring will help
   to reduce the level of criminal activity on the app and ensure
   regulatory compliance.
-
--  **Cashback**. Let users enjoy refunds of some percentage of the
+* **Cashback**. Let users enjoy refunds of some percentage of the
   amount spent via your app.
-
--  **Card scanning**. This AI-powered feature will help eliminate the
+* **Card scanning**. This AI-powered feature will help eliminate the
   necessity to enter card details (such as cardholder name, expiry
   date, or card number) manually.
-
--  **Education features.** You can enrich your solution with various
+* **Education features.** You can enrich your solution with various
   guides, quizzes, and videos that will help users better understand
   the principles of financial literacy.
-
--  **Dynamic CVV2.** This feature is highly important for virtual
+* **Dynamic CVV2.** This feature is highly important for virtual
   cards. This tool will let users get a changing CVV code each time
   they need to make a transaction.
-
--  **Cost tracking.** With this functionality, users will be able to
+* **Cost tracking.** With this functionality, users will be able to
   better monitor their expenses and plan their budgets.
 
 ## Latest trends in financial mobile app development
@@ -536,21 +518,19 @@ necessary to continuously track all the changes in order to stay tuned.
 At the moment we can observe the increasing demand for the following
 cutting-edge functionality.
 
--  **AI**. It is one of the core technologies used in mobile app
+* **AI**. It is one of the core technologies used in mobile app
   development for fintech firms. Chatbots, scanning features
   (image-to-text), voice recognition, as well as AI-powered
   predictions and personalization are among the most promising tools
   for fintech apps of the latest generation.
-
--  **Open banking**. This concept presupposes letting financial service
+* **Open banking**. This concept presupposes letting financial service
   providers get access to the financial data of users across various
   financial institutions after getting users' consent. The process
   of accessing this data is possible thanks to APIs. It is expected
   that open banking will help to boost customization, transparency,
   and automation within the financial industry and will help users
   to better manage their financial data.
-
--  **Embedded finance**. This approach is based on the idea of
+* **Embedded finance**. This approach is based on the idea of
   integrating financial services like loan processing or payments
   into non-financial solutions (social media apps, e-commerce
   platforms, etc.) without redirecting to traditional financial
