@@ -138,6 +138,6 @@ Investing in stocks and mutual funds has become much more accessible and afforda
 
 Today the launch of a fintech business can become a very promising initiative. That’s why if you are thinking about such an opportunity, right now, it can be a very appropriate time for your project realization.
 
-If you are looking for a [fintech software development company](https://anadea.info/solutions/financial-software-development) to transform your ideas into user-friendly solutions with advanced features and clear navigation, do not hesitate to contact us. At Anadea, we have impressive experience in building digital solutions of different types and we will be happy to help your business thrive. Your ideas and our tech expertise can become a perfect duo for a successful fintech project. Send us an inquiry to get a free quote!
+If you are looking for a [fintech software development company](https://anadea.info/solutions/fintech-software-development) to transform your ideas into user-friendly solutions with advanced features and clear navigation, do not hesitate to contact us. At Anadea, we have impressive experience in building digital solutions of different types and we will be happy to help your business thrive. Your ideas and our tech expertise can become a perfect duo for a successful fintech project. Send us an inquiry to get a free quote!
 
 {{< ctabutton url="https://anadea.info/contacts" >}}Request estimate{{< /ctabutton >}}
