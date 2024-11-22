@@ -29,7 +29,7 @@ To maximize your resources and training programs, you need to "scatter" interact
 
 ## Learn from existing templates
 
-When you're <a href="https://anadea.info/for-clients/development-time-cost/how-much-does-it-cost-to-develop-an-educational-app" target="_blank">developing an e-learning system</a>, there are a lot of options for customization and setting your own parameters. Even though this opportunity for creation is enticing, but it's equally easy to forget that it's easy to find templates in existing e-learning solutions, to reduce overall workload.
+When you're <a href="https://anadea.info/guides/educational-app-development-cost" target="_blank">developing an e-learning system</a>, there are a lot of options for customization and setting your own parameters. Even though this opportunity for creation is enticing, but it's equally easy to forget that it's easy to find templates in existing e-learning solutions, to reduce overall workload.
 
 The best way to find templates ideal for your vision is to explore some courses in your particular niche, mainly on Udemy and Coursera.
 
