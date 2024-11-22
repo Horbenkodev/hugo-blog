@@ -1,7 +1,7 @@
 ---
 title: "Outsourcing to Europe: Where to Start?"
 draft: false
-publishDate: 2016-08-22T00:00:00Z
+publishDate: 2016-08-22T00:00:00.000Z
 image: outsourcing.jpg
 og_image: outsourcing.jpg
 description: The other day I got really tired after working at my desktop
@@ -40,13 +40,13 @@ The main countries which are definitely gaining more and more popularity in the 
 ## Poland
 
 * According to
-<a href="https://www.atkearney.com/strategic-it/global-services-location-index" rel="nofollow" target="_blank">this year's Global Services Location Index (GSLI)</a> that analyzes countries in terms of financial attractiveness, human resources, skills availability and business environment, Poland occupies **the 10th place** and is the top European country on this list;
+  <a href="https://www.atkearney.com/strategic-it/global-services-location-index" rel="nofollow" target="_blank">this year's Global Services Location Index (GSLI)</a> that analyzes countries in terms of financial attractiveness, human resources, skills availability and business environment, Poland occupies **the 10th place** and is the top European country on this list;
 * **Economic and political stability**. Throughout the slowdown of the global economy in 2009-2010, only Poland had a growth of GDP among other European countries. Also after joining the EU in 2004 it managed to hold onto its currency rather than adopting the Euro;
 * **IT and software development services** have become Poland's biggest employment sector. Big IT companies (IBM, Intel, Google and Motorola) have already set operations there;
 * According to Tholon's Top 100 Outsourcing Destinations issued this January, Polish city Krakow occupies **the ninth place**, again being the first European representative on the top list;
 * **Competitive pricing** and relatively low labour costs and rents;
 * **Good education**. 39% of people aged between 25 and 34 <a href="http://www.nytimes.com/2013/12/23/business/international/midsize-cities-in-poland-develop-as-service-hubs-for-outsourcing-industry.html?pagewanted=all&_r=1" rel="nofollow" target="_blank">have university degrees</a> or the equivalent. In addition, many universities reshape their curriculum to produce specialists with the skills that would meet the requirements of world's largest outsourcing companies;
-* Polish IT professionals successfully take part in such **competitions** as <a href="https://www.imaginecup.com/custom/2016Winners_Challenges" rel="nofollow" target="_blank">Microsoft Imagine Cup</a>, <a href="https://codingcompetitions.withgoogle.com/codejam" rel="nofollow" target="_blank">Google Code Jam</a> and even became <a href="http://www.ibtimes.co.uk/poland-crowned-first-ever-coding-world-champions-1452146" rel="nofollow" target="_blank">Coding World Champions</a> in 2014;
+* Polish IT professionals successfully take part in such **competitions** as <a href="https://www.imaginecup.com/custom/2016Winners_Challenges" rel="nofollow" target="_blank">Microsoft Imagine Cup</a>, Google Code Jam and even became <a href="http://www.ibtimes.co.uk/poland-crowned-first-ever-coding-world-champions-1452146" rel="nofollow" target="_blank">Coding World Champions</a> in 2014;
 * 1 hour time difference with the UK as well as enough **overlapping hours** with the US;
 * The Polish share European values and have **a smaller culture gap** if compared to Asia;
 * **Language compatibility**. English is widely used throughout the country, software developers there are not an exception and possess good language skills.
