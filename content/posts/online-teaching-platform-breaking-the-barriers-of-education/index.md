@@ -3,7 +3,7 @@ title: "Online Teaching Platform: Breaking the Barriers of Education"
 breadcrumbs: Online Teaching Platform Development
 slug: ""
 draft: false
-publishDate: 2018-10-04T00:00:00Z
+publishDate: 2018-10-04T00:00:00.000Z
 image: Online-learning.jpg
 og_image: Online-learning.jpg
 description: Did you know that online training takes 40-60% less time to
@@ -30,10 +30,9 @@ You can consider it as an everyday classroom setting, but with additional comfor
 
 ## How to create an online teaching platform?
 
-First of all, determine what goals you are trying to achieve with your online teaching platform. Secondly, create a [user persona](https://anadea.info/for-clients/before-you-start/user-persona-for-startups) — a target customer, whose need will be solved by your solution. Try to give your user persona as much detail as possible starting from age and finishing with their favorite communication channel. Identify which user persona’s problem are you trying to solve.
+First of all, determine what goals you are trying to achieve with your online teaching platform. Secondly, create a [user persona](https://anadea.info/guides/user-persona-for-startups) — a target customer, whose need will be solved by your solution. Try to give your user persona as much detail as possible starting from age and finishing with their favorite communication channel. Identify which user persona’s problem are you trying to solve.
 
 Third step is to study competition carefully, сlarifying what are your competitive advantages and what makes you different from them. Study their functionalities carefully and understand what kind of problem they are solving, who is their target customer and where we intersect. On the next stage, you have to determine your requirements for system functionality. Lastly, you pick the vendor, who will help you to turn your idea into reality.
-
 
 ## Advantages of online teaching platforms in comparison with traditional classroom
 
@@ -70,28 +69,31 @@ Progress assessment in conventional learning mainly depends on facial expression
 After going through the comparative advantages, we can now easily point out some crucial barriers that e-learning can break in contrast to the traditional learning. So, let us summarize and point out each of the barriers divided into three major categories: social, administrative and method barriers.
 
 ### 1. Breaking the social barriers
- * **Geography is not a constraint anymore**<br />
-Learning has found its home beyond the fortified walls of schools and colleges. Not just that, one does not need to move to a new place to attend the classes anymore. With online virtual classrooms, a tutor in the USA can take classes for the students in the UK.
- * **Building a global community of learners and tutors**<br />
-As online learning breaks the geographical barriers, it also gives a platform to the leaners for connecting with peer learners and tutors globally. Online teaching platforms provide forum boards, which can be used for mutual clarification of queries independently without a tutor as well.
- * **Encouraging sharing of resources**<br />
-By connecting with each other, learners are encouraged to share their knowledge with each other. They can distribute the learning materials and other corresponding resources among them in a convenient and instant manner.
+
+* **Geography is not a constraint anymore**<br />
+  Learning has found its home beyond the fortified walls of schools and colleges. Not just that, one does not need to move to a new place to attend the classes anymore. With online virtual classrooms, a tutor in the USA can take classes for the students in the UK.
+* **Building a global community of learners and tutors**<br />
+  As online learning breaks the geographical barriers, it also gives a platform to the leaners for connecting with peer learners and tutors globally. Online teaching platforms provide forum boards, which can be used for mutual clarification of queries independently without a tutor as well.
+* **Encouraging sharing of resources**<br />
+  By connecting with each other, learners are encouraged to share their knowledge with each other. They can distribute the learning materials and other corresponding resources among them in a convenient and instant manner.
 
 ### 2. Breaking the administrative barriers
- * **Synchronous and asynchronous learning**<br />
-Unlike traditional modes, learning is no more dependent on strict timings of schools and colleges. Leaners today are exposed to educational resources for 24x7, and they can attend live classes or pre-corded lectures based on their availability for the same.
- * **Learning beyond the set methods**<br />
-Writing notes and reading giant textbooks is not the only way to gain education. Tutors on online teaching platforms have been seen utilizing unorthodox methods to impart education in every possible way. They provide directions in multiple ways, such as through email and live chat features on the learning platforms.
- * **Real-time tracking of progress**<br />
-Now tutors need not wait for the seasonal exams and unit tests to assess the learning progress. With e-learning tech, they can conduct regular online quizzes and give assignments to assess the progress past completion of each module. It is faster and more effective as compared to traditional pen and paper-based tests and assignments.
+
+* **Synchronous and asynchronous learning**<br />
+  Unlike traditional modes, learning is no more dependent on strict timings of schools and colleges. Leaners today are exposed to educational resources for 24x7, and they can attend live classes or pre-corded lectures based on their availability for the same.
+* **Learning beyond the set methods**<br />
+  Writing notes and reading giant textbooks is not the only way to gain education. Tutors on online teaching platforms have been seen utilizing unorthodox methods to impart education in every possible way. They provide directions in multiple ways, such as through email and live chat features on the learning platforms.
+* **Real-time tracking of progress**<br />
+  Now tutors need not wait for the seasonal exams and unit tests to assess the learning progress. With e-learning tech, they can conduct regular online quizzes and give assignments to assess the progress past completion of each module. It is faster and more effective as compared to traditional pen and paper-based tests and assignments.
 
 ### 3. Breaking the method barriers
- * **Create courses in digestible chunks | Micro-learning**<br />
-Digestible chunks mean breaking down the courses into smaller modules that are easier for the brain to grasp. These small modules are accumulated to form a bigger course overall. As a result, the micromodules, which are conceptually related information, are grouped together making a more meaningful and engaging material for the learners.
- * **Set reminders to keep learners on track**<br />
-E-learning offers the options to populate calendar-based courses with assigned deadlines. The automatic reminders make sure that involved parties stay on track and proceed accordingly. If a student falls behind, the tutor may speak with him or her and come up with plans to get back on track. This feature on online teaching platforms also helps students to provide feedback on the process so that they know how much they have to complete and when.
- * **Go beyond text-based learning | Multimedia**<br />
-A course in general on-boards different learners with dissimilar abilities and grasping strength. A pure text-based learning is not sufficient to teach everyone in the course. To cater to all the kinds of learners, using a variety of content-delivery methods makes sure that learners are engaged and trying to understand things. Online teaching breaks this barrier by including images, graphs, and videos to clarify the concepts.
+
+* **Create courses in digestible chunks | Micro-learning**<br />
+  Digestible chunks mean breaking down the courses into smaller modules that are easier for the brain to grasp. These small modules are accumulated to form a bigger course overall. As a result, the micromodules, which are conceptually related information, are grouped together making a more meaningful and engaging material for the learners.
+* **Set reminders to keep learners on track**<br />
+  E-learning offers the options to populate calendar-based courses with assigned deadlines. The automatic reminders make sure that involved parties stay on track and proceed accordingly. If a student falls behind, the tutor may speak with him or her and come up with plans to get back on track. This feature on online teaching platforms also helps students to provide feedback on the process so that they know how much they have to complete and when.
+* **Go beyond text-based learning | Multimedia**<br />
+  A course in general on-boards different learners with dissimilar abilities and grasping strength. A pure text-based learning is not sufficient to teach everyone in the course. To cater to all the kinds of learners, using a variety of content-delivery methods makes sure that learners are engaged and trying to understand things. Online teaching breaks this barrier by including images, graphs, and videos to clarify the concepts.
 
 {{< advert >}}Related article: [How Much Does it Cost to Develop an Online Training Platform](https://anadea.info/for-clients/development-time-cost/how-much-does-it-cost-to-develop-an-educational-app){{< /advert >}}
 
