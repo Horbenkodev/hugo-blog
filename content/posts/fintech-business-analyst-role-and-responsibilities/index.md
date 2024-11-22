@@ -34,7 +34,7 @@ Business analysts work on projects across various domains, however, the fintech 
 
 Fintech is a dynamic, multifaceted field requiring specific industry knowledge. Without this knowledge, a BA may overlook critical compliance issues, misunderstand market trends, or fail to capture essential requirements.
 
-While expertise takes time to develop, investing in domain knowledge early on significantly reduces costs of [fintech software development services](https://anadea.info/solutions/financial-software-development). In their turn, a business analyst with domain expertise will:
+While expertise takes time to develop, investing in domain knowledge early on significantly reduces costs of [fintech software development services](https://anadea.info/solutions/fintech-software-development). In their turn, a business analyst with domain expertise will:
 
 * Conduct domain-specific research.
 * Create a glossary of key terms.
