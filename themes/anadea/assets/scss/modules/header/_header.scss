@@ -1,22 +1,6 @@
 $header-height-mobile: 52px;
 $header-height-desktop: 74px;
 
-.hover {
-  &__block {
-    display: none;
-
-    &__container {
-      position: absolute;
-      top: 74px;
-      left: 0;
-      z-index: 10;
-      width: 100%;
-      background-color: var(--dark-gray);
-      border-top: 1px solid hsl(0deg 0% 100% / 10%);
-    }
-  }
-}
-
 .header {
   --background-color: var(--dark-gray);
   --text-color: var(--white);
@@ -107,10 +91,21 @@ $header-height-desktop: 74px;
       display: block;
     }
   }
+
+  &__submenuItem {
+    position: absolute;
+    top: 74px;
+    left: 0;
+    z-index: 10;
+    display: none;
+    width: 100%;
+    background-color: var(--dark-gray);
+    border-top: 1px solid hsl(0deg 0% 100% / 10%);
+  }
 }
 
 @media screen and (width <= 1199px) {
-  .hover__block__container {
+  .header__submenuItem {
     display: none !important;
   }
 }

@@ -1,4 +1,4 @@
-function burgerToggler() {
+function burgerToggle() {
   let isActive = false;
 
   const burger = document.querySelector('.burger');
@@ -37,11 +37,11 @@ function burgerToggler() {
 }
 
 function menuHover() {
-  const hoverBlocks = document.querySelectorAll('.hover__block__container');
+  const submenuItems = document.querySelectorAll('.header__submenuItem');
   const menuItems = document.querySelectorAll('.menu__item');
 
-  function hideAllHoverBlocks() {
-    hoverBlocks.forEach((block) => {
+  function hideAllSubMenuItems() {
+    submenuItems.forEach((block) => {
       block.style.display = 'none';
     });
 
@@ -50,19 +50,19 @@ function menuHover() {
     });
   }
 
-  function toggleHoverBlock(item) {
-    const blockType = item.getAttribute('data-hover-block');
-    const targetBlock = document.getElementById(blockType);
+  function handleMenuItemMouseEvent(item) {
+    const target = item.getAttribute('data-submenu-item');
+    const submenuItem = document.getElementById(target);
     const link = item.querySelector('.menu__link');
 
     setTimeout(() => {
-      if (targetBlock) {
-        if (targetBlock.style.display === 'block') {
-          targetBlock.style.display = 'none';
+      if (submenuItem) {
+        if (submenuItem.style.display === 'block') {
+          submenuItem.style.display = 'none';
           link.classList.remove('active');
         } else {
-          hideAllHoverBlocks();
-          targetBlock.style.display = 'block';
+          hideAllSubMenuItems();
+          submenuItem.style.display = 'block';
           link.classList.add('active');
         }
       }
@@ -71,18 +71,18 @@ function menuHover() {
 
   menuItems.forEach((item) => {
     item.addEventListener('mouseenter', (event) => {
-      toggleHoverBlock(event.currentTarget);
+      handleMenuItemMouseEvent(event.currentTarget);
     });
 
     item.addEventListener('keydown', (event) => {
       if (event.key === 'Enter') {
-        toggleHoverBlock(event.currentTarget);
+        handleMenuItemMouseEvent(event.currentTarget);
       }
     });
   });
 
-  hoverBlocks.forEach((container) => {
-    container.addEventListener('mouseleave', hideAllHoverBlocks);
+  submenuItems.forEach((container) => {
+    container.addEventListener('mouseleave', hideAllSubMenuItems);
   });
 }
 
@@ -110,4 +110,4 @@ function mobileMenuToggle() {
 
 document.addEventListener('DOMContentLoaded', mobileMenuToggle, { once: true });
 document.addEventListener('DOMContentLoaded', menuHover, { once: true });
-document.addEventListener('DOMContentLoaded', burgerToggler, { once: true });
+document.addEventListener('DOMContentLoaded', burgerToggle, { once: true });
