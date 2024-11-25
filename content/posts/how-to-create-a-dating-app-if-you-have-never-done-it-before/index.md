@@ -4,15 +4,12 @@ title: How to Create a Dating App That Users Will Love
 breadcrumbs: How to Build a Dating App
 slug: how-to-create-a-dating-app-if-you-have-never-done-it-before
 draft: false
-publishDate: 2023-03-28T00:00:00Z
+publishDate: 2023-03-28T00:00:00.000Z
 image: dating.png
 og_image: dating-socials.png
-description: Have you ever been in the situation where you met someone and
-  instantly fall in love? You try to focus, calm down and find courage inside to
-  make the first step. The inner fight of pros and cons takes too long and the
-  person you wanted to talk to disappears in the crowd. The majority of people
-  experienced this at least once. That's why users are so excited about dating
-  apps.
+description: Have you ever met someone and instantly fallen in love, only to
+  lose the chance to talk? This common experience explains the popularity of
+  dating apps.
 promote:
   promote: false
 top: false
