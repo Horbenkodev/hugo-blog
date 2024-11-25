@@ -7,11 +7,9 @@ draft: false
 publishDate: 2022-09-26T00:00:00.000Z
 image: daniel-sessler-hnw3Al47-KE-unsplash__1___1_.jpg
 og_image: trees.jpg
-description: Healthcare is changing, it is going digital, and this is good news
-  for patients and healthcare providers. From telemedicine to genomics, digital
-  transformation in healthcare has the potential to improve patient outcomes,
-  make healthcare as much about prevention as curative treatments, and reduce
-  the overall cost of medical treatment.
+description: Healthcare is going digital, benefiting both patients and
+  providers. From telemedicine to genomics, digital transformation improves
+  outcomes and reduces treatment costs.
 promote:
   promote: false
 top: false
