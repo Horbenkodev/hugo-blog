@@ -7,9 +7,8 @@ publishDate: 2018-09-19T00:00:00.000Z
 image: Getsocio-updates.jpg
 og_image: Getsocio-updates.jpg
 description: Recently we've released a new mobile app - The Got Spot app. The
-  launch of this application is closely related to our Getsocio project, so
-  let's first talk about major updates of Getsocio itself and some other linked
-  projects.
+  launch of this application is closely related to our Getsocio project. It
+  offers users many enhanced features.
 promote:
   promote: false
 top: false
