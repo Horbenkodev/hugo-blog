@@ -3,14 +3,12 @@ title: Top-5 Qualities Of a Great Software Developer
 breadcrumbs: " Qualities of a Software Developer"
 slug: top-qualities-of-a-great-software-developer
 draft: false
-publishDate: 2018-06-25T00:00:00Z
+publishDate: 2018-06-25T00:00:00.000Z
 image: super-coder.jpg
 og_image: super-coder.jpg
-description: As the software development industry is growing at a rapid pace,
-  the need for qualified software developers is also rising each day. When it
-  comes to your software development needs, undoubtedly you only want to partner
-  with a great software developer. However, how to find the right software
-  expert?
+description: The software development industry is growing rapidly, increasing
+  the demand for skilled developers. When it comes to your projects, you want to
+  partner with the best.
 promote:
   promote: false
 top: false
