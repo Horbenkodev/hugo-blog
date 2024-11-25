@@ -7,12 +7,9 @@ draft: false
 publishDate: 2017-12-18T00:00:00.000Z
 image: gifts-for-engineers.jpg
 og_image: gifts-for-engineers.jpg
-description: Christmas is a favorite holiday for both children and adults. The
-  pre-holiday fuss is always accompanied by the search for gifts. People want to
-  choose something original and at the same time useful and pleasant. It's easy
-  to please a little boy with a toy and that is another story to make an adult
-  happier with a gift, especially when he interests in the stuff you don't know
-  much about.
+description: Christmas is a beloved holiday filled with gift-searching
+  excitement. Finding the perfect gift for an adult can be challenging but
+  rewarding.
 promote:
   promote: false
 top: false
