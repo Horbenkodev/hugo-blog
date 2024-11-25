@@ -4,12 +4,9 @@ draft: false
 publishDate: 2019-04-04T00:00:00.000Z
 image: Web-design.jpg
 og_image: Web-design.jpg
-description: Web design trends rise and fall like waves in the sea of time.
-  Beneath this attempt at poesy is an undeniable fact. Sure, some best
-  practices, such as responsive design, seem like they're here to stay, but many
-  will hit the curb in a year or two, if they haven't yet. Sticky navigation has
-  been around for a while, but it's expected to become big this year. Should you
-  incorporate it into your site? It depends.
+description: Web design trends come and go, but some, like responsive design,
+  endure. Sticky navigation, a long-time feature, is set to gain
+  popularity—should you adopt it? It depends.
 promote:
   promote: false
 top: false
