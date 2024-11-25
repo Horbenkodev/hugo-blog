@@ -6,12 +6,9 @@ draft: false
 publishDate: 2017-04-04T00:00:00.000Z
 image: sports_apps.jpg
 og_image: sports_apps.jpg
-description: "We live in the decade of applications. Take a look around: apps
-  are everywhere! You have your weather widget, your email client, your
-  messenger, photo app, etc. There are apps for musicians, artists, directors,
-  comic book or movie fans and, of course, apps for sports lovers. Actually,
-  sports apps is one of the fastest growing app categories. Let's figure out why
-  they have become so popular recently."
+description: We live in the decade of applications, with apps everywhere. Sports
+  apps, in particular, are one of the fastest-growing categories, and it's worth
+  exploring.
 promote:
   promote: false
 top: false
