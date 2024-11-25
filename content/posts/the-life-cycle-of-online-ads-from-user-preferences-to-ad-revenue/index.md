@@ -3,14 +3,12 @@ title: "The Life Cycle of Online Ads: from User Preferences to Ad Revenue"
 breadcrumbs: The Life Cycle of Online Ads
 slug: ""
 draft: false
-publishDate: 2017-06-09T00:00:00Z
+publishDate: 2017-06-09T00:00:00.000Z
 image: the-life-cycle-of-online-ads-from-user-preferences-to-ad-revenue.jpg
 og_image: the-life-cycle-of-online-ads-from-user-preferences-to-ad-revenue.jpg
-description: Online advertising has turned into something trivial for us. We
-  receive advertisements by email, see them on YouTube, social networks, online
-  shops, etc. We take internet ads as they are and just notice the things that
-  they try to sell us. However, have you ever wondered what mechanism drives
-  online advertisements and how does digital advertising work?
+description: Online advertising has become a routine part of our lives,
+  appearing in emails and online shops. But have you ever wondered how digital
+  advertising actually works?
 promote:
   promote: false
 top: false
