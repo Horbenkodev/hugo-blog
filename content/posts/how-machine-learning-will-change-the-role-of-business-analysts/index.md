@@ -5,11 +5,9 @@ draft: false
 publishDate: 2018-12-27T00:00:00.000Z
 image: artificial-intelligence.jpg
 og_image: artificial-intelligence.jpg
-description: Machine learning (ML) is a technology that is related to artificial
-  intelligence (AI), based around the idea that systems can learn from data and
-  either improve performance or become more accurate. It is linked to the
-  concept of automation, because machine learning enables systems to make
-  decisions with little or no need for intervention from humans.
+description: ML is a technology that allows systems to learn from data. It
+  enables automation by enabling systems to make decisions with minimal human
+  intervention.
 promote:
   promote: false
 top: false
