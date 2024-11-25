@@ -5,12 +5,9 @@ draft: false
 publishDate: 2019-07-22T00:00:00.000Z
 image: ab-test-testing.jpg
 og_image: ab-test-testing.jpg
-description: The success of real estate web giants like Zillow, Trulia,
-  StreetEasy consists of many fragments. It looks like a puzzle. Until you put
-  all its fragments in its place, you will not be able to see the overall
-  picture, you will not achieve success until all the components are brought
-  together. Today we are going to talk about one of the fragments - a/b testing
-  for real estate platform.
+description: The success of real estate giants like Zillow and Trulia lies in
+  fitting together many components. Today, we’ll focus on A/B testing for real
+  estate platforms.
 promote:
   promote: false
 top: false
