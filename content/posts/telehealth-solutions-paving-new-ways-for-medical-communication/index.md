@@ -4,13 +4,12 @@ title: "Telehealth Solutions: Paving New Ways for Medical Communication"
 breadcrumbs: Telehealth App Development
 slug: telehealth-solutions-paving-new-ways-for-medical-communication
 draft: false
-publishDate: 2022-09-14T00:00:00Z
+publishDate: 2022-09-14T00:00:00.000Z
 image: video_call_with_doctor.jpg
 og_image: telemedicine_socials.jpg
-description: When everyone is busy, being poorly can be an inconvenience that
-  many people don't have the time to deal with. Doctors, too, are some of the
-  busiest professionals in the world and are often struggling under the weight
-  of too much work without the time or resources to cope.
+description: When everyone is busy, being unwell can feel like an inconvenience.
+  Doctors, some of the busiest professionals, often face overwhelming workloads
+  with limited time.
 promote:
   promote: false
 top: false
