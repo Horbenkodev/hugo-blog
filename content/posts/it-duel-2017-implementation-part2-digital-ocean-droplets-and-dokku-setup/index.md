@@ -5,14 +5,12 @@ title: 'IT Duel 2017: "Battle of the Bots - Hexagon" Creation of the Game -
 breadcrumbs: IT Duel 2017 - DigitalOcean Droplets and Dokku Setup
 slug: it-duel-2017-implementation-part2-digital-ocean-droplets-and-dokku-setup
 draft: false
-publishDate: 2018-02-09T00:00:00Z
+publishDate: 2018-02-09T00:00:00.000Z
 image: digital-ocean-dokku.jpeg
 og_image: digital-ocean-dokku.jpeg
-description: In the first article of the series, we recalled the rules of the
-  game and the technical characteristics of the game engine. Now, let's describe
-  how to use DigitalOcean and Dokku to allow players to write a bot in multiple
-  languages, while having guaranteed equal resources in runtime and a pleasant
-  deploy procedure.
+description: In the first article, we covered the game rules and engine specs.
+  Now, we’ll show how to use DigitalOcean and Dokku to let players write bots in
+  various languages.
 promote:
   promote: false
 top: false
@@ -44,16 +42,15 @@ At the time of the event, we will often interact with remote machines - the game
 
 Let's set up a single master SSH key for admin needs:
 
-~~~bash
+```bash
 $ ssh-keygen -q -t rsa -f ~/.ssh/fourcolor -N '' -C fourcolor
-~~~
+```
 
 We get a pair of keys - the public part will be put into the players' droplets for `root` and `dokku` users; the private part will be used by sandboxes for secure connections with the players' droplets, as well as by tech support of the tournament.
 
 When creating DigitalOcean droplets from a prepared image, it should be taken into account that root users from the source image will be lost. So, during the droplets creation, it is necessary to specify the root users each time. To facilitate this procedure, we will add the public master key to the DigitalOcean account.
 
 ![DigitalOcean: droplets](Digitalocean-droplets.png)
-
 
 ![DigitalOcean: settings](DigitalOcean-settings.png)
 
@@ -63,12 +60,9 @@ Purchase the $10/month droplet on DigitalOcean with a pre-installed dokku and ro
 
 ![Settings](Settings.png)
 
-
 ![Create droplets](Create-droplets.png)
 
-
 ![Choose a size](Choose-a-size.png)
-
 
 ![Add your SSH keys](Add-your-ssh-keys.png)
 
@@ -82,7 +76,7 @@ Open the IP droplet in the browser and finalize the Dokku installation by adding
 
 Login into the droplet via SSH and prepare the droplet for the bots deployment.
 
-~~~
+```
 # login into the droplet as the root user
 $ ssh root@DROPLET_IP
 
@@ -123,7 +117,7 @@ $ dokku config:set --no-restart app DOKKU_NGINX_PORT=80
 
 # Stop the droplet. It is better to do this from the console and not through the DigitalOcean interface, which is like pulling the cord out of the socket
 $ poweroff
-~~~
+```
 
 Take the droplet image from the DigitalOcean panel. It is from this image that droplets will be created for teams - each team gets a $10 droplet with 1Gb of memory and 1 CPU.
 
@@ -141,7 +135,7 @@ For the game sandboxes, we order DiginalOcean droplets with a pre-installed Dokk
 
 Configuring the droplets for sandboxes is generally similar to setting up droplets for players, however there are some differences:
 
-~~~
+```
 # login into the droplet as the root user
 $ ssh root@DROPLET_IP
 
@@ -191,14 +185,14 @@ $ echo "PUBLIC_KEY" > > /home/dokku/.deployment-keys/app/.ssh/id_rsa.pub
 
 # Stop the droplet
 $ poweroff
-~~~
+```
 
 Stop the droplet, make an image and, based on the image, deploy 5 sandboxes - Final, Grodno, Dnepr, Minsk and Internal. Since the sandboxes will run on the specific subdomains, do not forget to set up a domain name for each sandbox by using the `dokku domains:add` command, configure A records in the DNS registrar panel, and install the SSL certificate with the `dokku letsencrypt` command.
-
 
 ## Creating the bot templates
 
 Despite all the simplicity of the Dokku deploy, when writing an application it is necessary to consider some nuances - stateless ideology, application configuration through environment variables, etc. Players should focus on the game logic, not on infrastructure - we will help them with this! Everything is simple here - on every target language and in the shortest way, we write an application that meets the following requirements:
+
 * heroku-ready;
 * correct responses to all requests of the game server;
 * an attempt to make always the same game move;
