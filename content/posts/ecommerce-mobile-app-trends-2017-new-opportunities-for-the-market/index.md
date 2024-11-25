@@ -7,12 +7,9 @@ draft: false
 publishDate: 2017-06-22T00:00:00.000Z
 image: mobile_commerce.jpg
 og_image: mobile_commerce.jpg
-description: Have you thought that just 20 years ago there were no smartphones?
-  The web industry was focused on purely PC and laptop users. The emergence and
-  rapid spread of smartphones have dramatically changed not only our daily lives
-  but also the online industry. To date, more than half the world uses
-  smartphones and the volume of mobile and tablet traffic surpasses the volume
-  of desktop traffic.
+description: 20 years ago, smartphones didn’t exist, and the web industry
+  focused on PCs. Today, mobile traffic exceeds desktop traffic, with over half
+  the world using smartphones.
 promote:
   promote: false
 top: false
