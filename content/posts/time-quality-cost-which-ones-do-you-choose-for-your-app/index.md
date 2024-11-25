@@ -5,10 +5,9 @@ draft: false
 publishDate: 2018-04-13T00:00:00.000Z
 image: Right-choice.jpg
 og_image: Time-cost-quality.jpg
-description: Getting an app built is an investment. Whether your audience is
-  consumers or business users, apps are an integral part of modern life. Over a
-  decade of innovation places high expectations on the user experience of any
-  new app to hit the market.
+description: Building an app is an investment. With apps integral to modern
+  life, over a decade of innovation has set high expectations for user
+  experience.
 promote:
   promote: false
 top: false
