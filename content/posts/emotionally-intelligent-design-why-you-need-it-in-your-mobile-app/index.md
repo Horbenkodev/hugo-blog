@@ -7,12 +7,9 @@ draft: false
 publishDate: 2018-06-26T00:00:00.000Z
 image: Emotional-ux.jpg
 og_image: Emotional-ux.jpg
-description: We use various applications every day - document management,
-  driving assistance, dictionaries, workout tracking, brain puzzles, local
-  weather, barcode scanners. There are as many apps in App Store and Google Play
-  as stars in the sky. Now think of the applications that are now in your
-  smartphone. Can you name at least 5 reasons why you have chosen the app that
-  you use now over the other?
+description: We use various apps daily, from document management to weather
+  tracking, with countless options in the Google Play. Can you name five reasons
+  why you chose the apps?
 promote:
   promote: false
 top: false
