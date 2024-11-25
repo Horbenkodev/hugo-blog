@@ -8,11 +8,9 @@ draft: false
 publishDate: 2018-03-07T00:00:00.000Z
 image: game-engine.jpg
 og_image: game-engine.jpg
-description: In the previous articles of the series we decided on the required
-  playground functionality and prepared a [runtime infrastructure for game bots
-  and
-  sandboxes](https://anadea.info/blog/it-duel-2017-implementation-part2-digital-ocean-droplets-and-dokku-setup).
-  It's time to actually program the game engine.
+description: "In the previous articles of the series we decided on the required
+  playground functionality and prepared a runtime infrastructure for game bots
+  and sandboxes. "
 promote:
   promote: false
 top: false
