@@ -2,13 +2,12 @@
 title: How Mobile Apps Are Revolutionizing the Sports Industry
 breadcrumbs: Revolution in Sports Mobile Apps
 draft: false
-publishDate: 2018-08-02T00:00:00Z
+publishDate: 2018-08-02T00:00:00.000Z
 image: sports_app.jpg
 og_image: sports_app.jpg
-description: Whether they're playing or watching, digital technology is
-  overhauling how people enjoy – and interact – with their games. We examine the
-  trends that are shaping how the sports industry is using mobile applications
-  to engage with their audience.
+description: Digital technology is transforming how people play and watch games.
+  Explore the trends shaping the sports industry's use of mobile apps to engage
+  audiences.
 promote:
   promote: false
 top: false
