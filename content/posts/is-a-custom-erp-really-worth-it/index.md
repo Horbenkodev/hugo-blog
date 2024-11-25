@@ -7,11 +7,9 @@ draft: false
 publishDate: 2018-09-20T00:00:00.000Z
 image: Custom-erp.jpg
 og_image: Custom-erp.jpg
-description: It makes sense that ERP (enterprise resource planning) software
-  that is custom-built to your business is preferable to an "out-of-the-box"
-  alternative, which isn't designed with your needs in mind. Custom-built
-  software, however, is often more expensive, and it's worth considering the
-  pros and cons of both approaches.
+description: Custom ERP software tailored to your business is often better than
+  "out-of-the-box" solutions but can be pricier. Explore the pros and cons of
+  both approaches.
 promote:
   promote: false
 top: false
