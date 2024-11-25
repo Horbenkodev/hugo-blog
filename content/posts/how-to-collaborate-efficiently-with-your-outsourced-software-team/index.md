@@ -5,14 +5,12 @@ title: 5 Ways IT Project Owners Can Collaborate More Efficiently With Their
 breadcrumbs: Outsourced Software Development Team Management
 slug: how-to-collaborate-efficiently-with-your-outsourced-software-team
 draft: false
-publishDate: 2018-05-22T00:00:00Z
+publishDate: 2018-05-22T00:00:00.000Z
 image: software-team.jpg
 og_image: software-team.jpg
-description: Software development is a complex process. The success of the whole
-  IT project depends on the efforts of each team member and, of course, the
-  mutual understanding of the team members and clients. This connection is
-  difficult to ensure particularly when your software team is located in
-  different parts of the world.
+description: Software development is complex, relying on each team member's
+  efforts and strong client-team understanding—especially challenging with
+  globally distributed teams.
 promote:
   promote: false
 top: false
