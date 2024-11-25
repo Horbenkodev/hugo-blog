@@ -7,10 +7,9 @@ draft: false
 publishDate: 2019-02-07T00:00:00.000Z
 image: Accounting-software.jpg
 og_image: cloud_accounting.png
-description: As a business owner, you are pretty much aware of the ongoing tech
-  and business trends. It becomes essential to keep up with the latest
-  technology developments and run the business smoothly — one of the areas that
-  have noticed significant changes is the accounting and bookkeeping.
+description: As a business owner, staying updated on tech and business trends is
+  essential. Accounting and bookkeeping are among the areas experiencing
+  significant changes.
 promote:
   promote: false
 top: false
