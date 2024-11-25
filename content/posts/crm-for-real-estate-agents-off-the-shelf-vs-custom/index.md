@@ -7,11 +7,9 @@ draft: false
 publishDate: 2019-03-26T00:00:00.000Z
 image: crm-for-real-estate-agents.jpg
 og_image: crm-for-real-estate-agents.jpg
-description: At the core of every business is the relationship a company has
-  with its customers. As part of those relationships, it is invaluable if every
-  who interacts with customers is on the same page and has access to the same
-  information. A customer relationship management (CRM) system is an invaluable
-  tool for managing those relationships.
+description: At the heart of every business is its relationship with customers.
+  A CRM system ensures everyone interacting with customers stays aligned and has
+  access to the same information.
 promote:
   promote: false
 top: false
