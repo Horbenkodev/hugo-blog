@@ -4,12 +4,9 @@ draft: false
 publishDate: 2017-01-17T00:00:00.000Z
 image: Custom_software_trends.jpg
 og_image: Custom_software_trends.jpg
-description: We can't imagine our lives without gadgets and every month there
-  appear more and more smart devices, useful applications and innovative
-  services. None of them would be possible without great ideas and participation
-  of professionals who can and love to code. The advancement of technologies and
-  custom software development opened up a lot of doors and made many
-  unimaginable things real.
+description: Gadgets, smart devices, and innovative services are made possible
+  by professionals who love to code. Custom software development has opened
+  doors, turning ideas into reality.
 promote:
   promote: false
 top: false
