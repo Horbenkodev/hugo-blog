@@ -6,11 +6,9 @@ draft: false
 publishDate: 2019-05-08T00:00:00.000Z
 image: Localizing_medical_software.jpg
 og_image: Localizing-medical-software.jpg
-description: Medical software localization is a delicate task. It's not
-  something that can be delegated to just anyone who knows basic translation or
-  someone fluent in the source and target languages. Mistakes can create
-  inefficiencies or lead to serious consequences. It needs meticulous attention
-  to details and a thoughtfully planned process.
+description: Medical software localization requires precision and a well-planned
+  process. It's not just about basic translation—mistakes can cause
+  inefficiencies or serious consequences.
 promote:
   promote: false
 top: false
