@@ -9,11 +9,9 @@ draft: false
 publishDate: 2019-05-30T00:00:00.000Z
 image: How-business-analysts-solve-problems-with-project-requirements.jpg
 og_image: How-business-analysts-solve-problems-with-project-requirements.jpg
-description: One of the main reasons for project failure is poor requirements
-  management. In this article, we will give insights on what are project
-  requirements, types of requirements and how to gather requirements to ensure
-  project success. We will also give you the answer to what business analysts do
-  to effectively handle project requirements. Let’s start with the basics.
+description: Poor requirements management is a key reason for project failure.
+  This article covers the types of requirements, how to gather them, and the
+  role of business analysts.
 promote:
   promote: false
 top: false
