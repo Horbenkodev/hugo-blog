@@ -5,11 +5,9 @@ draft: false
 publishDate: 2018-03-01T00:00:00.000Z
 image: retail-app.jpg
 og_image: retail-app.jpg
-description: It's mind-blowing! A couple of years ago they said that the number
-  of smartphones exceeded the number of toothbrushes - fact or fiction, who
-  knows, and now… we've already got a mobile app for electric toothbrushes. Why
-  do you think that apps are being created left, right and center? Because
-  everyone and their mom seem to be smartphone holics.
+description: Smartphones may have outnumbered toothbrushes, and now there’s an
+  app for electric toothbrushes. With smartphone addiction on the rise, apps are
+  being created everywhere.
 promote:
   promote: false
 top: false
