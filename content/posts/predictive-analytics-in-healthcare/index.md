@@ -8,11 +8,9 @@ draft: false
 publishDate: 2019-09-27T00:00:00.000Z
 image: Predictive-analytics-in-healthcare.jpg
 og_image: Predictive-analytics-in-healthcare.jpg
-description: The healthcare industry is one of the multi-dimensional industries
-  in the world. It caters to many services, including prevention, diagnosis, and
-  treatment of various diseases or impairments in human beings. Health experts
-  and professionals have spent years (decades, even) looking for ways to
-  continuously develop operational efficiency in healthcare.
+description: The healthcare industry encompasses services like prevention and
+  treatment of diseases. Experts have spent decades working to improve
+  operational efficiency.
 promote:
   promote: false
 top: false
