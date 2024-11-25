@@ -4,10 +4,8 @@ draft: false
 publishDate: 2019-03-29T00:00:00.000Z
 image: HIPAA-compliant-ecommerce.jpg
 og_image: HIPAA-compliant-ecommerce.jpg
-description: If your web store deals even partially with protected health
-  information (PHI), then PCI Compliance isn't the only thing you need to
-  concern yourself with. You'll also have to contend with HIPAA - here's how you
-  can do just that.
+description: If your web store handles protected health information (PHI), PCI
+  Compliance isn’t your only concern. Here’s how to navigate HIPAA requirements.
 promote:
   promote: false
 top: false
