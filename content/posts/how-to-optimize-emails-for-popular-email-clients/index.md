@@ -7,11 +7,9 @@ draft: false
 publishDate: 2017-11-03T00:00:00.000Z
 image: responsive_email_layout.jpg
 og_image: responsive_email_layout.jpg
-description: We see tons of emails every day. New arrivings, news feeds,
-  discounts, advertising and a lot of stuff that we usually skip. In fact, these
-  letters are pretty hard to make. Apart from custom design and good writing,
-  developers have to create an email layout. That is the trickiest part because
-  email can be viewed from way too many devices, OS and browsers.
+description: We receive countless emails daily, many of which we skip. Effective
+  emails require custom design, writing, and layouts that work across different
+  devices, OS, and browsers.
 promote:
   promote: false
 top: false
