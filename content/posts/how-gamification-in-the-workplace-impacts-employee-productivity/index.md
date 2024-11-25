@@ -7,12 +7,9 @@ draft: false
 publishDate: 2018-01-25T00:00:00.000Z
 image: gamification_workplace.jpg
 og_image: gamification_workplace.jpg
-description: Happy employees are more productive. Staff who enjoy their work
-  perform better, work harder and stay with a company longer. Gamification is
-  one-way employers are making work for staff more enjoyable. Tapping into our
-  need for instant rewards, gratification and feedback, gamification tools are
-  an effective way to engage employees, improve productivity and reduce staff
-  turnover.
+description: Happy employees are more productive. Gamification enhances
+  engagement, boosts productivity, and reduces staff turnover by providing
+  instant rewards and feedback.
 promote:
   promote: false
 top: false
