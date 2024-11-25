@@ -4,14 +4,11 @@ title: The Pros and Cons of Hiring a Development Team vs Tech Co-Founder
 breadcrumbs: " Custom App Developers vs Tech Co-founder"
 slug: the-pros-and-cons-of-hiring-a-development-team-vs-a-tech-co-founder
 draft: false
-publishDate: 2018-10-18T00:00:00Z
+publishDate: 2018-10-18T00:00:00.000Z
 image: tech-startup.jpg
 og_image: tech-startup.jpg
-description: If you're searching for a way to get your own app idea into the
-  hands of users, there's never been a better time. The app market isn't just
-  booming...it's exploding. Of course, adding your app to the mix of all the
-  others raking in billions of dollars is easier said than done, especially if
-  you’re a founder without a technical background.
+description: Want to launch your app? The booming market is full of
+  opportunities, but standing out is tough, especially for non-tech founders.
 promote:
   promote: false
 top: false
