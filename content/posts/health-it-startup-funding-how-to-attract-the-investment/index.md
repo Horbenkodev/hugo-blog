@@ -7,11 +7,9 @@ draft: false
 publishDate: 2020-08-20T00:00:00.000Z
 image: health-IT-startup-funding-how-to-attract-the-investment.jpg
 og_image: health-IT-startup-funding-how-to-attract-the-investment.jpg
-description: We have reached a new era in the digital world. The way healthcare
-  organizations are delivering patient care is shifting in the rise of a
-  worldwide pandemic. Tele-health, machine learning, and virtual care are
-  emerging forces. To remain competitive, healthcare providers must change the
-  ways they operate.
+description: The digital era is reshaping healthcare. Tele-health, machine
+  learning, and virtual care are transforming patient care, urging providers to
+  adapt and stay competitive.
 promote:
   promote: false
 top: false
