@@ -8,9 +8,8 @@ publishDate: 2018-10-09T00:00:00.000Z
 image: Language-app.jpg
 og_image: Language-app.jpg
 description: Learning a new language is almost de rigueur today, as
-  globalization demands multilingual language skills. Language learning is a
-  chance to expand business activities, find new opportunities for employment
-  and to improve one's intellectual capability.
+  globalization demands multilingual skills. Language learning is a chance to
+  improve one's intellectual capability.
 promote:
   promote: false
 top: false
