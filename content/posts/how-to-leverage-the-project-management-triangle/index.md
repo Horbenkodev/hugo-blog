@@ -5,12 +5,9 @@ draft: false
 publishDate: 2018-06-18T00:00:00.000Z
 image: Project-management.png
 og_image: Project-management.png
-description: Being the project manager at a software development company, I
-  often deal with the requests like "I want to do this app for a fixed price,
-  can you do it?" or "Could you tell me a precise cost of my project?".
-  Moreover, clients asking these questions may have just a brief idea of what
-  they want to implement and they may not be sure about all the details,
-  however, they need the answer.
+description: As a project manager, I often get requests like "Can you develop
+  this app for a fixed price?". Clients usually have a rough idea of their needs
+  but aren't sure about the details.
 promote:
   promote: false
 top: false
