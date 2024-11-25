@@ -6,11 +6,9 @@ draft: false
 publishDate: 2018-06-20T00:00:00.000Z
 image: Big-data.jpg
 og_image: Big-data.jpg
-description: The Internet of Things (IoT) and a new, dynamic web (known as Web
-  2.0) are here upon us, and as some wise old dude stated, we have no choice but
-  to adapt or perish. One of the newer technologies related to the IoT is Big
-  Data, which fundamentally involves the collection, analysis, and application
-  of large volumes of data in various spheres.
+description: The Internet of Things and Web 2.0 are transforming our world,
+  urging us to adapt. A key IoT technology, Big Data, focuses on applying
+  massive data sets across industries.
 promote:
   promote: false
 top: false
