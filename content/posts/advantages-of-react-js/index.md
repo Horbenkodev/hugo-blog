@@ -5,20 +5,9 @@ draft: false
 publishDate: 2020-08-05T00:00:00.000Z
 image: advantages-react-header-img.jpg
 og_image: advantages-react-blog-img.jpg
-description: "Due to the growing popularity of reactive approaches to software
-  development, programmers are now turning with more and more interest to React
-  JS - open-source JavaScript library that solves problem of fast visualization
-  of a big dataflow and simplifies creation of interactive user interfaces.When
-  it is needed to display dynamic content, template engines are used. They work
-  pretty simple: to the existing template a specific set of data is applied and
-  some of dataset representation is obtained. If data is changed, it has to be
-  displayed in a representation. A programmer needs to write the code which
-  alters representation and synchronizes data changes in one. But, if we already
-  have a template, why don’t we use it? The idea to use template not just at
-  initial rendering but after every data change is fundamental in React
-  JS.However, for displaying data changes, programmers have to manipulate DOM
-  tree and write code which displays all updates in different specific cases.
-  React JS library is aimed at solving this problem."
+description: React JS streamlines the creation of dynamic interfaces by reusing
+  templates and efficiently handling data changes, reducing the need for complex
+  DOM manipulation.
 promote:
   promote: false
 top: false
