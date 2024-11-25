@@ -4,11 +4,9 @@ draft: false
 publishDate: 2019-06-07T00:00:00.000Z
 image: Database-management-systems-in-healthcare.jpg
 og_image: Database-management-systems-in-healthcare.jpg
-description: Database management systems are software that handles the storage,
-  retrieval, and updating of data in a computer system. Many different
-  industries and professions use database management systems, but it could be
-  argued that no industry relies on them more heavily than the healthcare
-  industry.
+description: Database management systems handle data storage, retrieval, and
+  updates. While used across industries, they are especially critical in
+  healthcare.
 promote:
   promote: false
 top: false
