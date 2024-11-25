@@ -7,11 +7,9 @@ draft: false
 publishDate: 2018-06-19T00:00:00.000Z
 image: Programming.jpg
 og_image: Programming.jpg
-description: Hash table is a data structure that stores data in key-value pairs.
-  It is also named as a dictionary or associative array. It stores data in a way
-  that enables lookup and insertion in constant O(1) time. These properties of a
-  hash make it one of the most useful data structures in a programmer's toolbox.
-  The main question is where does this speed come from and how does it work?
+description: A hash table stores data in key-value pairs, providing constant
+  O(1) time for lookup and insertion. This makes it highly efficient, raising
+  the question of how this speed is achieved.
 promote:
   promote: false
 top: false
