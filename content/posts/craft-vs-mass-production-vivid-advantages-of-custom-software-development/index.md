@@ -4,13 +4,12 @@ title: "Craft vs. Mass Production: Vivid Advantages of Custom Software Developme
 breadcrumbs: Custom Software vs. Out-of-the-Box Software
 slug: craft-vs-mass-production-vivid-advantages-of-custom-software-development
 draft: false
-publishDate: 2016-09-30T00:00:00Z
+publishDate: 2016-09-30T00:00:00.000Z
 image: custom_development.jpg
 og_image: custom_development.jpg
-description: Certain work requires specific tools, as people say. If you want to
-  dig a hole - use a spade, a nail can be battered down with a hammer, a tree
-  can be cut with an axe, etc. But there will always be tasks, for which using a
-  standard tool won't be enough - you will have to enhance and customize it.
+description: Certain tasks need specific tools. Dig with a spade, hammer a nail,
+  or cut a tree with an axe. But some jobs require more than standard tools—they
+  need customization.
 promote:
   promote: false
 top: false
