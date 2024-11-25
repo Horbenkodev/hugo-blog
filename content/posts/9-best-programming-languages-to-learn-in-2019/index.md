@@ -7,11 +7,9 @@ draft: false
 publishDate: 2019-02-28T00:00:00.000Z
 image: Programming-languages.jpg
 og_image: Programming-languages.jpg
-description: There is no doubt that the IT industry has taken over as one of the
-  most productive industries. And more than half of the jobs in the IT field
-  require good programming knowledge. The demand for developers has skyrocketed
-  recently as every company tends to rely on software tools, and this has also
-  lead to an increase in the online learning platforms.
+description: "There is no doubt that the IT industry has taken over as one of
+  the most productive industries. And more than half of the jobs in the IT field
+  require good programming knowledge. "
 promote:
   promote: false
 top: false
