@@ -7,11 +7,9 @@ draft: false
 publishDate: 2018-09-28T00:00:00.000Z
 image: user-interface.png
 og_image: user-interface.png
-description: Design of user interfaces is something similar to a mixture of art
-  and science. However, it has never been an act of pure creativity. So if you
-  are inspired by the quote "Good artists copy, great - steal", be careful, do
-  not cut yourself with shards of broken illusions. Because Pablo Picasso didn't
-  say that, guys.
+description: UI design blends art and science but is never pure creativity.
+  Inspired by "Good artists copy, great ones steal"? Be cautious—Pablo Picasso
+  didn’t say that, folks.
 promote:
   promote: false
 top: false
