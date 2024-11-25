@@ -4,15 +4,12 @@ title: Time to Innovate or How to Create a Viable Flight and Hotel Booking App
 breadcrumbs: Flight and Hotel Booking App Development
 slug: time-to-innovate-or-how-to-create-a-viable-flight-and-hotel-booking-app
 draft: false
-publishDate: 2017-05-19T00:00:00Z
+publishDate: 2017-05-19T00:00:00.000Z
 image: flight_booking_app.jpg
 og_image: flight_booking_app.jpg
-description: "How do the flight search and hotel booking industry should work in
-  the age when Elon Musk says he's going to develop a neural interface for
-  telepath-like thoughts exchange? I'll describe it in two words: fast and easy.
-  Oh, wait, that's three words… Nevermind, queues at the air ticket offices and
-  blind looking for a place to stay at night have turned into scary stories for
-  kids."
+description: The flight search and hotel booking industry should be fast and
+  easy. Long queues and blind searches for accommodations are now just scary
+  stories of the past.
 promote:
   promote: false
 top: false
