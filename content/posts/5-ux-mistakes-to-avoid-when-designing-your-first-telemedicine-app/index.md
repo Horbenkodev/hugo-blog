@@ -8,11 +8,9 @@ draft: false
 publishDate: 2018-02-28T00:00:00.000Z
 image: Mobile-app_ux.jpg
 og_image: Mobile-app_ux.jpg
-description: Developing a mobile application is a complicated task, especially
-  when you are designing a telemedicine app that will facilitate online health
-  visits. As a developer, you need to fit in the unique user interface with
-  excellent app functionality to ensure smooth interaction between the patient
-  and the doctor through video chat.
+description: Developing a telemedicine app for online health visits is
+  challenging. It requires a seamless user interface and excellent functionality
+  for smooth video chat.
 promote:
   promote: false
 top: false
