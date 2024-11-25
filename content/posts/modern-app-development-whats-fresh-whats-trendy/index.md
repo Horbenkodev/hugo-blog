@@ -4,11 +4,9 @@ draft: false
 publishDate: 2016-10-14T00:00:00.000Z
 image: modern-app-development.jpg
 og_image: modern-app-development.jpg
-description: Do you know what you are going to do in 10 years' time? How will
-  your music tastes change? What phone will you buy next? What will your future
-  house or children look like? No matter how much data you gather and how
-  closely you analyze it, how many professionals you involve in your research,
-  it is extremely difficult to find out exactly what the future will be like.
+description: Predicting the future is a challenge, no matter how much data or
+  expert analysis you gather. It's nearly impossible to know exactly what lies
+  ahead.
 promote:
   promote: false
 top: false
