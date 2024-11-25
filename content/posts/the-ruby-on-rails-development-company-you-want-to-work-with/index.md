@@ -5,11 +5,8 @@ draft: false
 publishDate: 2017-04-14T00:00:00.000Z
 image: RoR_developer.jpg
 og_image: RoR_developer.jpg
-description: When you're looking for an outsourced Ruby on Rails developer for
-  your project, just like with any other third-party provider, you want to find
-  someone who has extensive experience, easy to collaborate with and actually
-  does the work that meets your expectations. It may be challenging to detect an
-  expert who truly meets all the requirements.
+description: Looking for an outsourced Ruby on Rails developer? Find an expert
+  with experience, easy collaboration, and results that meet your expectations.
 promote:
   promote: false
 top: false
