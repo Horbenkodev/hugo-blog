@@ -7,11 +7,9 @@ draft: false
 publishDate: 2017-10-27T00:00:00.000Z
 image: complexity_of_routes.jpg
 og_image: complexity_of_routes.jpg
-description: Sometimes, when you are working with a large codebase, your
-  `routes.rb` files grow really fast and become very dirty.There are several
-  things that make your routes file bigger:* Customization of devise;* Specific
-  gems that mount additional routes (Active Admin, ActionCable);* Sidekiq +
-  SidekiqWeb + Basic authentication;* Namespaces with APP or API.
+description: A large `routes.rb` file can quickly become cluttered due to
+  customizations like Devise, additional routes from gems, Sidekiq, and
+  namespaces for APP or API.
 promote:
   promote: false
 top: false
