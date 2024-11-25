@@ -1,14 +1,12 @@
 ---
 title: How We are Tackling the New Work-From-Home Reality at Anadea
 draft: false
-publishDate: 2020-03-25T00:00:00Z
+publishDate: 2020-03-25T00:00:00.000Z
 image: Maintaining-operations-during-the-quarantine.jpg
 og_image: Effective-remote-work-culture.jpg
 description: We firmly believe that everyone – our employees, clients and
   partners – need support now. That is why under quarantine we keep working
-  remotely to deliver high quality and sustainable efficiency, doing our utmost
-  to make sure that, once the crisis is over, our clients will enter the market
-  with new products.
+  remotely to deliver high quality.
 promote:
   promote: false
 top: false
