@@ -7,11 +7,9 @@ draft: false
 publishDate: 2018-07-10T00:00:00.000Z
 image: blockchain.jpg
 og_image: blockchain.jpg
-description: No matter who you are or what industry you work in, you've probably
-  heard way more than you ever wanted to know about blockchain, cryptocurrencies
-  and other related things. However, despite being on everyone's lips, this
-  technology still remains far from broad adoption and full understanding of its
-  potential.
+description: No matter your industry, you've likely heard plenty about
+  blockchain and cryptocurrencies. Despite the buzz, this technology is still
+  far from widespread adoption.
 promote:
   promote: false
 top: false
