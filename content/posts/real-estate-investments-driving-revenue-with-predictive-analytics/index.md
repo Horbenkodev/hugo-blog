@@ -5,10 +5,9 @@ draft: false
 publishDate: 2019-05-29T00:00:00.000Z
 image: Real-estate-investments.jpg
 og_image: Real-estate-investments.jpg
-description: When investing in real estate, especially in rental properties, one
-  should make quick and well-informed decisions, backed by data. The real estate
-  market changes at a rapid pace, and for success, you have to be able to adapt
-  to those changes just as fast.
+description: Investing in rental properties requires quick, data-backed
+  decisions. With the fast-changing real estate market, success depends on your
+  ability to adapt swiftly.
 promote:
   promote: false
 top: false
