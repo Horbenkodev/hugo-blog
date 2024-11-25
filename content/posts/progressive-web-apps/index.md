@@ -5,11 +5,9 @@ draft: false
 publishDate: 2019-02-13T00:00:00.000Z
 image: progressive-web-apps.jpg
 og_image: progressive-web-apps.jpg
-description: Global web giants Google, Apple and Microsoft work towards the
-  expansion of progressive web apps. Gartner predicts that 50% of all native
-  apps will be replaced by PWAs. It is, of course, too early to talk about the
-  full replacement of mobile applications with progressive ones, however, PWAs
-  already enable businesses to gain success within the mobile area.
+description: Google, Apple, and Microsoft are driving the expansion of web apps.
+  While it's early to fully replace native apps, PWAs already help businesses
+  succeed in the mobile space.
 promote:
   promote: false
 top: false
