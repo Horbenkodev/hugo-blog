@@ -4,13 +4,12 @@ title: Is Design Thinking the New Liberal Arts? 4 Most Important Principles
 breadcrumbs: 4 Principles of Design Thinking
 slug: is-design-thinking-the-new-liberal-arts
 draft: false
-publishDate: 2018-08-08T00:00:00Z
+publishDate: 2018-08-08T00:00:00.000Z
 image: design-thinking.jpg
 og_image: design-thinking.jpg
-description: In its most basic description, design thinking is a decision-making
-  method that seeks to understand the user, challenge assumptions, and redefine
-  different issues in the effort to think of alternative solutions that might
-  not be easily visible with our initial level of reasoning.
+description: Design thinking is a decision-making method focused on
+  understanding users, challenging assumptions, and redefining issues to uncover
+  alternative solutions.
 promote:
   promote: false
 top: false
