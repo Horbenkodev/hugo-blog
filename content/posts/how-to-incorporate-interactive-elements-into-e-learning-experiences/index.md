@@ -7,10 +7,9 @@ draft: false
 publishDate: 2019-05-15T00:00:00.000Z
 image: Interactive-elements-in-e-learning.jpg
 og_image: Interactive-elements-in-e-learning.jpg
-description: For both education and business, e-learning has become an ideal
-  solution to training, knowledge sharing and evolution in general. What was
-  once comprised of physical presence in courses and long seminars is now just a
-  process involving a few clicks.
+description: E-learning has become the ideal solution for training and knowledge
+  sharing in education and business, replacing lengthy seminars with just a few
+  clicks.
 promote:
   promote: false
 top: false
