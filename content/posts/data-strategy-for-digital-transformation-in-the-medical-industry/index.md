@@ -7,12 +7,9 @@ draft: false
 publishDate: 2018-12-05T00:00:00.000Z
 image: Digital-medicine.jpg
 og_image: Digital-medicine.jpg
-description: As technology blurs the line between digital and physical medical
-  care, private practices and doctors must start using technology to promote the
-  intimate connection necessary in doctor-patient relationships. In 2017, more
-  than 95% of non-federal acute care hospitals used information technology for
-  health care. Technology in medicine is widespread and growing, redefining how
-  we think about healthcare.
+description: Technology bridges digital and physical care, helping doctors
+  strengthen patient connections. By 2017, over 95% of hospitals used health IT,
+  reshaping healthcare
 promote:
   promote: false
 top: false
