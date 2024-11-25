@@ -7,10 +7,9 @@ draft: false
 publishDate: 2019-04-03T00:00:00.000Z
 image: create-real-estate-app.jpg
 og_image: create-real-estate-app.jpg
-description: Zillow is a serious player in the U.S. real estate market. Founded
-  in 2006, Zillow now contains a database of 110 million homes and apartments
-  across the U.S., with buyers, sellers and renters using the platform to move
-  house.
+description: Zillow is a serious player in the U.S. real estate market. Zillow
+  now contains a huge database of 110 million homes and apartments across the
+  U.S.
 promote:
   promote: false
 top: false
