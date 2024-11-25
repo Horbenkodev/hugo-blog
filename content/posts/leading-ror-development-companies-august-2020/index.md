@@ -7,12 +7,9 @@ draft: false
 publishDate: 2020-10-02T00:00:00.000Z
 image: pexels-trace-hudson-2365457.png
 og_image: Top_Ruby_on_Rails_Developers_-_2020.png
-description: TopDevelopers.co through an detailed research and analysis on the
-  technology and the developers, extracted a range of companies and teams that
-  are the most relevant for bringing the client requirements apt and precise on
-  the apps. Anadea was palced in the list of the reliable Ruby on Rails
-  Development Companies that can build your business wing on a web app more
-  fruitfully.
+description: TopDevelopers.co recognized Anadea as a top Ruby on Rails
+  development company, known for building successful web apps that meet client
+  needs.
 promote:
   promote: false
 top: false
