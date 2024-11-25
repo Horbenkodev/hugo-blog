@@ -6,12 +6,9 @@ draft: false
 publishDate: 2017-12-29T00:00:00.000Z
 image: what-is-chatbot.jpg
 og_image: what-is-chatbot.jpg
-description: The evolution of artificial intelligence is now in full swing and
-  chatbots are only a faint splash on a huge wave of progress. Today the number
-  of users of messaging apps like WhatsApp, Slack, Skype and their analogs is
-  skyrocketing, Facebook Messenger alone has more than 1.2 billion monthly
-  users. With the spread of messengers, virtual chatterbots are becoming
-  increasingly in demand.
+description: Artificial intelligence is advancing rapidly, and chatbots are
+  becoming a key part of this progress. Messaging apps are driving a growing
+  demand for virtual chatbots.
 promote:
   promote: false
 top: false
