@@ -6,11 +6,9 @@ draft: false
 publishDate: 2018-01-21T00:00:00.000Z
 image: mobile-app-visibility.jpg
 og_image: mobile-app-visibility.jpg
-description: Smartphones constitute a major driving force in our lives today.
-  Besides playing a decisive role in our day-to-day activities, the smart
-  devices have a great impact on the modern business world. A large section of
-  online users have developed a form of addiction to smartphones as they come
-  with smart apps to simplify everything.
+description: Smartphones drive our lives today, shaping daily activities and the
+  business world. Many online users are hooked on these devices thanks to smart
+  apps.
 promote:
   promote: false
 top: false
