@@ -1,13 +1,12 @@
 ---
 title: How to Use Micro-Moments in Your Website Design
 draft: false
-publishDate: 2019-07-03T00:00:00Z
+publishDate: 2019-07-03T00:00:00.000Z
 image: How-to-make-use-of-micro-moments-in-web-design.jpg
 og_image: What_are_micro_moments.jpg
 description: What are micro moments? To put it simply, a micro-moment, as Google
   defines it, occurs when people turn to their devices in order to act on a need
-  they have. These needs can include wanting to learn, do, buy or watch
-  something.
+  they have.
 promote:
   promote: false
 top: false
