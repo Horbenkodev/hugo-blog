@@ -1,12 +1,12 @@
 ---
 title: Must-Have Considerations When Implementing a Corporate LMS
 draft: false
-publishDate: 2019-07-09T00:00:00Z
+publishDate: 2019-07-09T00:00:00.000Z
 image: Corporate-lms-implementation.jpg
 og_image: Corporate-lms-implementation.jpg
 description: In the age of e-learning, Learning Management Systems are vitally
-  important when you want to invest in staff training. These systems provide
-  companies with ubiquitous learning opportunities as it is all done online.
+  important. These systems provide companies with ubiquitous learning
+  opportunities as it is all done online.
 promote:
   promote: false
 top: false
