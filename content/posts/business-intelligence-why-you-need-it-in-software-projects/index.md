@@ -7,10 +7,9 @@ draft: false
 publishDate: 2020-01-29T00:00:00.000Z
 image: Business-intelligence.jpg
 og_image: Business-intelligence.jpg
-description: When new software is developed, whether a simple app or something
-  more involved, it should always be a data-driven process. Business
-  intelligence, or BI, is the process whereby internal teams and stakeholders
-  work with analysts to determine the most effective ways to solve problems.
+description: Developing new software, from simple apps to complex systems,
+  should be a data-driven process. Business intelligence helps teams and
+  analysts collaborate to find the best solutions.
 promote:
   promote: false
 top: false
