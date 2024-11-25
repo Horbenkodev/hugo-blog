@@ -7,11 +7,9 @@ draft: false
 publishDate: 2017-09-08T00:00:00.000Z
 image: hire-or-outsource1.jpg
 og_image: hire-or-outsource1.jpg
-description: We often hear that we live in the world of possibilities. However,
-  how often do you hear what these possibilities are? Look at Apple. We love
-  their computers and phones, the quality and innovations they bring. We also
-  know that their products are a bit pricey - the newest iPhone would cost about
-  $1000 or more. $1000 for a device assembled in China!
+description: We live in a world full of possibilities, but how often do we truly
+  explore them? Take Apple, known for its innovative yet pricey products, like
+  the $1000 iPhone made in China.
 promote:
   promote: false
 top: false
