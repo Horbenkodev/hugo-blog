@@ -5,8 +5,8 @@ breadcrumbs: " Sports Analytics Software"
 slug: sports-analytics-software
 draft: false
 publishDate: 2024-07-25T15:24:00+02:00
-image: sports-analytics.jpg
-og_image: sports-analytics-socials.jpg
+image: male-athlete-standing-stadium-using-mobile-phone.jpg
+og_image: male-athlete-standing-stadium-using-mobile-phone.jpg
 description: Leverage sports analytics software to gain a competitive edge.
   Discover the benefits in our blog post!
 promote:
