@@ -5,8 +5,8 @@ breadcrumbs: " Fantasy Golf Software Development"
 slug: fantasy-golf-app-development
 draft: false
 publishDate: 2024-07-13T16:37:00+03:00
-image: fantasy-golf-socials.png
-og_image: fantasy-golf-socials.png
+image: view-hand-with-glove-holding-golf-ball.jpg
+og_image: view-hand-with-glove-holding-golf-ball.jpg
 description: How to build a cool fantasy golf app? And how to make sure that it
   will rock the market and melt the hearts of users? Read our article to find
   useful recommendations.
