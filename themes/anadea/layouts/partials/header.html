@@ -29,19 +29,19 @@
 
     <div class="header__menu">
       <ul class="menu" id="{{ $uniqID }}">
-        <li class="menu__item" data-hover-block="portfolio">
+        <li class="menu__item" data-submenu-item="portfolio">
           <button class="menu__link">Portfolio</button>
         </li>
-        <li class="menu__item" data-hover-block="services">
+        <li class="menu__item" data-submenu-item="services">
           <button class="menu__link">Services</button>
         </li>
-        <li class="menu__item" data-hover-block="resources">
+        <li class="menu__item" data-submenu-item="resources">
           <button class="menu__link">Resources</button>
         </li>
-        <li class="menu__item" data-hover-block="industries">
+        <li class="menu__item" data-submenu-item="industries">
           <button class="menu__link">Industries</button>
         </li>
-        <li class="menu__item" data-hover-block="about">
+        <li class="menu__item" data-submenu-item="about">
           <button class="menu__link">About</button>
         </li>
       </ul>
@@ -51,19 +51,19 @@
     {{ partial "menu/mobile_menu.html" . }}
   </div>
 
-  <div class="hover__block__container" id="portfolio" style="display: none;">
+  <div id="portfolio" class="header__submenuItem" style="display: none;">
     {{ partial "menu/portfolio.html" . }}
   </div>
-  <div class="hover__block__container" id="services" style="display: none;">
+  <div id="services" class="header__submenuItem" style="display: none;">
     {{ partial "menu/services.html" . }}
   </div>
-  <div class="hover__block__container" id="resources" style="display: none;">
+  <div id="resources" class="header__submenuItem" style="display: none;">
     {{ partial "menu/resources.html" . }}
   </div>
-  <div class="hover__block__container" id="industries" style="display: none;">
+  <div id="industries" class="header__submenuItem" style="display: none;">
     {{ partial "menu/industries.html" . }}
   </div>
-  <div class="hover__block__container" id="about" style="display: none;">
+  <div id="about" class="header__submenuItem" style="display: none;">
     {{ partial "menu/about.html" . }}
   </div>
 
