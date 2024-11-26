@@ -2,13 +2,12 @@
 title: "What is the Future of the Real Estate Software Industry? "
 breadcrumbs: Future of Real Estate Software
 draft: false
-publishDate: 2018-10-24T00:00:00Z
+publishDate: 2018-10-24T00:00:00.000Z
 image: real_estate.jpg
 og_image: real_estate.jpg
-description: Real estate technology is big business. The world's fastest growing
-  sector (technology) is quietly transforming the world's largest industry
-  (property), with over 120 real estate startups making a huge impact on how we
-  buy, sell and manage assets.
+description: Real estate technology is revolutionizing the property industry,
+  with over 120 startups. This rapidly growing sector is reshaping the world's
+  largest market.
 promote:
   promote: false
 top: false

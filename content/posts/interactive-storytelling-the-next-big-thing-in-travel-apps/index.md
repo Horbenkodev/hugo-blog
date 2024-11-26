@@ -2,14 +2,12 @@
 title: "Interactive Storytelling: The Next Big Thing in Travel Apps"
 breadcrumbs: " Interactive Storytelling in Travel Apps"
 draft: false
-publishDate: 2018-10-10T00:00:00Z
+publishDate: 2018-10-10T00:00:00.000Z
 image: travel-storytelling.jpg
 og_image: travel-storytelling.jpg
-description: Earlier this year, Instagram, the popular photo-sharing app
-  exceeded 1 billion users. It is estimated that the Facebook-owned social
-  platform now generates $5.5 billion in advertising revenue, up 70 percent on
-  2017 figures. Travel - alongside food, drink and fitness - is one of the most
-  popular categories of content on Instagram.
+description: Earlier this year, Instagram surpassed 1 billion users, generating
+  $5.5 billion in ad revenue, up 70% from 2017. Travel, food, drink, and fitness
+  remain top content categories.
 promote:
   promote: false
 top: false

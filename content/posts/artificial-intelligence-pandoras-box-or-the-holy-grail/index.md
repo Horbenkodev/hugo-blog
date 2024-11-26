@@ -7,11 +7,9 @@ draft: false
 publishDate: 2017-11-10T00:00:00.000Z
 image: wall-e-1872683_1920.jpg
 og_image: wall-e-1872683_1920.jpg
-description: Google, Amazon, Facebook and other tech giants are working on the
-  creation of advanced artificial intelligence systems and their potential
-  application. Have you ever been interested in how it is going now in the field
-  of computer science dedicated to artificial intelligence? What progress has
-  been made in AI and what are the key issues in artificial intelligence?
+description: Google, Amazon, Facebook, and other tech giants are advancing
+  artificial intelligence systems and exploring their applications. Want to know
+  key issues in AI development?
 promote:
   promote: false
 top: false

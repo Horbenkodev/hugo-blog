@@ -7,11 +7,9 @@ draft: false
 publishDate: 2019-05-22T00:00:00.000Z
 image: z-index-tutorial.jpg
 og_image: z-index-tutorial.jpg
-description: Z-index is a CSS property of an element that determines its
-  position relative to other elements on the Z-axis. It applies only to elements
-  with `absolute`, `fixed`, `sticky` or `relative` position (respectively, if
-  the position property is not set to one of these values, adding z-index
-  doesn’t affect the position of an element).
+description: Z-index is a CSS property that defines an element's position on the
+  Z-axis relative to others. It works with `absolute`, `fixed`, `sticky`, or
+  `relative` positions.
 promote:
   promote: false
 top: false
@@ -104,7 +102,7 @@ $ zIndexInfoBar: 7;
 $ zIndexPopupOverlay: 8;
 $ zIndexPopup: 9;
 $ zIndexConsentedCookie: 10;
-  ```
+```
 
 Why it is convenient:
 

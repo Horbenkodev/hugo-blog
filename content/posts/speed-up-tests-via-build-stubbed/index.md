@@ -2,14 +2,12 @@
 title: How to Speed Up Your Tests via :build_stubbed
 slug: speed-up-tests-via-build-stubbed
 draft: false
-publishDate: 2017-10-29T00:00:00Z
+publishDate: 2017-10-29T00:00:00.000Z
 image: build_stubbed.jpg
 og_image: build_stubbed.jpg
-description: Rspec is an awesome thing that was created for ruby community. Most
-  of us write tests. However, sometimes in large projects our test becomes
-  really slow. So, each launch of the test really hurts and it does not meter
-  whether you launch your test before commit/push or on CI. When your test suits
-  pass over 30 minutes  -  something definitely went wrong.
+description: Rspec is a great tool for the Ruby community, but tests can become
+  slow in large projects. When test suites take over 30 minutes, something has
+  gone wrong.
 promote:
   promote: false
 top: false

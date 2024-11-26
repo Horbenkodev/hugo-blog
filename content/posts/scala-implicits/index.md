@@ -7,10 +7,9 @@ draft: false
 publishDate: 2018-02-02T00:00:00.000Z
 image: programming.jpg
 og_image: programming.jpg
-description: Programmers strive to write simple and understandable code. The
-  less code is written, the less likely it is that there is an error in it.
-  Scala offers the ability to write even more concise code and rely on the help
-  of the compiler.
+description: Programmers aim to write simple and clear code, as less code
+  reduces the chance of errors. Scala takes it further, allowing for even more
+  concise coding.
 promote:
   promote: false
 top: false

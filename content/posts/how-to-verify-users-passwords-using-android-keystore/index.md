@@ -5,12 +5,9 @@ draft: false
 publishDate: 2019-01-08T00:00:00.000Z
 image: Security-android.jpg
 og_image: Security-android.jpg
-description: Everybody knows that security is a very important issue for users
-  and therefore developers should take a proper care of it. There are many posts
-  about Android security in the Internet - some them explain difference between
-  cryptography algorithms, others are dedicated to basics of Android security.
-  In this post I will spotlight a single use case Android developers may face in
-  their work.
+description: Security is crucial for users, and developers must prioritize it.
+  This post highlights a specific Android security use case developers may
+  encounter.
 promote:
   promote: false
 top: false

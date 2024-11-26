@@ -7,10 +7,9 @@ draft: false
 publishDate: 2018-11-29T00:00:00.000Z
 image: ai-business.jpg
 og_image: ai-business.jpg
-description: Once just a sci-fi concept from the movies, AI is now a reality
-  that is completely changing the world. Constant advances in technology made it
-  possible for AI to creep its way into our lives and it's clear that it is
-  definitely here to stay.
+description: AI, once a sci-fi concept, is now a reality reshaping our world.
+  With constant tech advances, AI has seamlessly integrated into our lives and
+  is here to stay.
 promote:
   promote: false
 top: false

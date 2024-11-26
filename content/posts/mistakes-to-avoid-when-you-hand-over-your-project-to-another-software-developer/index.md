@@ -5,15 +5,12 @@ title: " Mistakes to Avoid When You Hand Over Your Project to Another Software
 breadcrumbs: Mistakes in Software Project Handover
 slug: mistakes-to-avoid-when-you-hand-over-your-project-to-another-software-developer
 draft: false
-publishDate: 2016-07-21T00:00:00Z
+publishDate: 2016-07-21T00:00:00.000Z
 image: project-handover.png
 og_image: project_handover.png
-description: Software development is no different from other areas of knowledge
-  - some people can master it, some cannot. Some software developers can create
-  high-profile applications, others deliver code full of bugs that never gets
-  into production. As a result, some project owners successfully launch their
-  projects while others struggle through inappropriate "red" builds with a lot
-  of errors over and over again.
+description: Software development varies in skill—some developers create
+  high-quality apps, while others deliver buggy code, leading to smooth launches
+  for some and constant errors.
 promote:
   promote: false
 top: false

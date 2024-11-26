@@ -4,11 +4,9 @@ draft: false
 publishDate: 2016-08-22T00:00:00.000Z
 image: outsourcing.jpg
 og_image: outsourcing.jpg
-description: The other day I got really tired after working at my desktop
-  computer so I promised myself to spend the weekend without any gadgets or
-  screens. Guess what? I couldn't live a full  life. I had problems paying for
-  my flat, ordering a taxi, getting in touch with friends, making an appointment
-  with my doctor for the next week, reading and simply checking the time.
+description: I promised myself a weekend without gadgets after feeling exhausted
+  from screen time, but I couldn't manage it. I struggled with paying bills,
+  ordering a taxi and contacting friends.
 promote:
   promote: false
 top: false

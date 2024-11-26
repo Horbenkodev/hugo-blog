@@ -7,11 +7,9 @@ draft: false
 publishDate: 2020-10-01T00:00:00.000Z
 image: tree.jpg
 og_image: tree.jpg
-description: With thousands of apps being launched every day, is a mobile app a
-  necessity or a luxury for my business? Is a mobile friendly website enough for
-  my business? Do I lose some opportunities without  a mobile app? Why should I
-  spend my money on developing a business application when it is practically the
-  same thing as the website? Or is it not?
+description: "Is a mobile app a necessity or a luxury for your business? Is a
+  mobile-friendly website enough, or are you missing opportunities without an
+  app? "
 promote:
   promote: false
 top: false

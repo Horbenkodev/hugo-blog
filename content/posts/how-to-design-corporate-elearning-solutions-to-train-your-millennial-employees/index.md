@@ -3,14 +3,12 @@ title: How to Design Corporate eLearning Solutions for Young Employees
 breadcrumbs: Corporate eLearning Software Development
 slug: how-to-design-corporate-elearning-solutions-to-train-your-millennial-employees
 draft: false
-publishDate: 2018-08-31T00:00:00Z
+publishDate: 2018-08-31T00:00:00.000Z
 image: Millennial-employees.jpg
 og_image: Millennial-employees.jpg
-description: Just a few years ago, nobody expected that the issue of employee
-  retention would become so global. Today, more than 35% of the American
-  workforce consists of millennials. This generation dictates its own standards,
-  changing the game, and forcing HR managers and recruiters to reconsider their
-  traditional approaches.
+description: A few years ago, employee retention wasn't a global concern. Today,
+  with millennials making up over 35% of the U.S. workforce, they’re reshaping
+  standards and pushing HR.
 promote:
   promote: false
 top: false

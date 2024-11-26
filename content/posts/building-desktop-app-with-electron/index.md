@@ -4,16 +4,12 @@ title: Building Desktop App with Electron
 breadcrumbs: Building Desktop App with Electron
 slug: building-desktop-app-with-electron
 draft: false
-publishDate: 2016-10-05T00:00:00Z
+publishDate: 2016-10-05T00:00:00.000Z
 image: building-desktop-app-with-electron.jpg
 og_image: Chapter_1._Preview_of_instalation.png
-description: "Electron: if you can build a website, you can build a desktop
-  appCurrently, in the Web we can do almost everything using HTML/CSS/JS. There
-  is a lot of libraries, frameworks, debug tools, test frameworks, articles and
-  training resources. Also, do not forget about StackOverflow, where you can
-  find the answers to questions almost instantly and some of them with real
-  examples. Even for browser, there are many extensions that follow, measure,
-  debug, show us each part of the site."
+description: "Electron: If you can build a website, you can create a desktop
+  app. With countless tools, and resources available online, building and
+  debugging has never been easier."
 promote:
   promote: false
 top: false
@@ -27,13 +23,13 @@ industries: []
 
 Currently, in the <a href="https://anadea.info/services/web-development">custom web development services</a> we can do almost everything using HTML/CSS/JS. There are numerous libraries, frameworks, debugging and testing tools, articles, and training resources available for web application development. Additionally, StackOverflow provides quick access to answers and examples for many questions. For browsers, there are many extensions that can be used to follow, measure, and debug every aspect of a site, making it easier to create web applications quickly.
 
-However, when it comes to building desktop applications, there are only a few libraries available that address GUI-related issues, such as _vxWidgets_, _QT_, and _Gtk_. While these libraries are sufficient, they may not be suitable for creating pixel-perfect or responsive designs, and redesigning them can be challenging.
+However, when it comes to building desktop applications, there are only a few libraries available that address GUI-related issues, such as *vxWidgets*, *QT*, and *Gtk*. While these libraries are sufficient, they may not be suitable for creating pixel-perfect or responsive designs, and redesigning them can be challenging.
 
 Fortunately, Electron enables developers to harness the power of HTML, JS, and CSS to create native desktop applications.
 
 > Electron is a relatively new library, developed by GitHub for Atom.io, that enables developers to leverage the power of web technologies and use them to develop desktop applications. How does it work? Well, Electron basically exposes a webkit environment through Chromium, the browser engine behind Google Chrome, and lets you write code to render your application.
 
-__NOTE!__ The purpose of this article is not to introduce Electron. I will show how to create a simple application using Electron.
+**NOTE!** The purpose of this article is not to introduce Electron. I will show how to create a simple application using Electron.
 
 In this article I will explain:
 
@@ -102,6 +98,7 @@ npm run electron
 ## Chapter 2: First desktop window
 
 TODO:
+
 1. Create the first window.
 2. Add it to Tray.
 3. Add a tray-like behavior to this window - we should hide it on blur, do not include it into Apps (Alt+Tab should not display it), do not display it in Dock.
@@ -266,6 +263,7 @@ npm run electron
 ## Chapter 3: Dynamic tray
 
 TODO:
+
 1. Add dynamic changes to tray bar of the screen.
 
 Let's add random words into the tray bar on button click.
@@ -337,6 +335,7 @@ module.exports = TrayIcon;
 ## Chapter 4: Mac notification
 
 TODO:
+
 1. Add `Windows Notification` caused by the app.
 2. Add an ability to click on this notification.
 3. When you click on this icon, it opens Tray Window.
@@ -526,6 +525,7 @@ Let's launch: `npm run electron`.
 ## Chapter 6: External link
 
 TODO:
+
 1. Open `External Link` from the About Window.
 
 Let's add an ability to open external link in a default browser. All we need to do is to add one module:
@@ -569,6 +569,7 @@ That's all! We can launch `npm run electron` and check the result.
 ## Chapter 7: Custom windows action buttons
 
 TODO:
+
 1. Add an ability to close/hide/minimize/maximize our windows (pages).
 
 Of course, you can simply use the standard buttons (behaviour) by adding the following line of code:
@@ -590,6 +591,7 @@ this.window = new BrowserWindow({
 As a result, we will receive the next outcome:
 
 However, this functionality does not suit us because it has a few drawbacks:
+
 1. These keys are not very easy to customize.
 2. We can't change design of these buttons.
 3. We can't add an additional button or field (for example, a search field to the header).
@@ -663,6 +665,7 @@ electron-app/pages/about_page.html
 ## Chapter 8: Navigation/Menu bar
 
 TODO:
+
 1. Create Menu bar.
 
 As you may have noticed, when you open the About Window our Menu does not appear.
@@ -855,6 +858,7 @@ Let's run `npm run electron` and we will see the next result:
 ## Chapter 9: Debug
 
 TODO:
+
 1. Add Devtools
 2. RactDevtools
 3. ReduxDevtools
@@ -957,6 +961,7 @@ Then let's launch: `npm run electron`.
 ## Chapter 10: Package. Creation of DMG.
 
 TODO:
+
 1. Create `DMG` package.
 
 Now we have to turn our code (files) into a `DMG` package so that everyone could download our app.
@@ -1018,6 +1023,7 @@ package.json
 ```
 
 Let's go over several lines of code from this file:
+
 1. `install-app-deps` - this line allows us to use several `pacakage.json` files.
 2. `publish:electron` - this command simply copies files from root directory to `app/` (app directory should only contain files that should be in `dmg` package).
 3. `publish:osx` - by this command we specify which platform/architecture our compiled app should be generated for.
@@ -1045,6 +1051,7 @@ app/package.json
 ```
 
 Here is the most interesting line of code from this file:
+
 1. `'main': 'electron-app/js/index.js'` - this line is entry point of our app.
 2. `npm install` - launching this command will produce two folders `node_modules` in `root/` and `app/` directories.
 3. Into `build/` directory, you should put two icons `icon.icns` and `background.png` for Mac. These files will be used by `electron-packager` to create custom `dmg` package:
@@ -1063,14 +1070,16 @@ As we have specified `asar: false` we can see all our source files inside the ap
 ## Chapter 11: Add React/Redux
 
 TODO:
+
 1. Wrap our app into React/Redux/Webpack/webpack-dev-server.
 
 I will explain only basic (tricky) moments. I will not show you all react page because it will take too much time.
 
 Key points:
+
 1. All pages (Main, About, Tray) were wrapped up into `React`. About and Tray pages are very simple but I have already set up webpack and do not want to use pure JS on one page (about_page.html) and JSX on another (main_app_page.html).
 2. Currently, to start development, you should launch two commands instead of one:
-`npm run electron` - to launch electron app; `npm run browser` - to launch webpack in live-reloading mode.
+   `npm run electron` - to launch electron app; `npm run browser` - to launch webpack in live-reloading mode.
 3. For `electron-app`, I didn't use webpack because setting and launching webpack takes a lot of time and requires many lines of code.
 4. Applying live-reloading for React/Redux led to the following: HTML files look a bit more complicated but now they contain only react-root element with compiled.js (live-reloading) file.
 5. Also, Header component was reused on two different pages- Main page and About page.
@@ -1136,7 +1145,7 @@ electron-app/pages/about_page.html
 
 Github links:
 
->Branch without React: `live-coding`
+> Branch without React: `live-coding`
 
 1. [Time Tracker App](https://github.com/DmytroVasin/TimeTracker) based on Electron
 2. [Rails API](https://github.com/DmytroVasin/TimeTrakerAPI) that was used in final app

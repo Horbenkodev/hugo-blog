@@ -1,15 +1,12 @@
 ---
 title: Must Have Features to Build a Localized Real Estate App
 draft: false
-publishDate: 2019-06-13T00:00:00Z
+publishDate: 2019-06-13T00:00:00.000Z
 image: How-to-create-real-estate-app.jpg
 og_image: How-to-create-real-estate-app.jpg
-description: Keep up with changes and news on your local real estate market, do
-  paperwork, schedule meetings with clients, update information about your
-  listings, figure out how to differ from competitors, keep a database of
-  leads... On top of  that, you understand that having an app is a necessity for
-  your local real estate business, and there is simply no time to address the
-  issue. Looks familiar to you?
+description: Stay updated on your local real estate market, manage listings,
+  schedule meetings, and track leads with ease. No time to develop an app for
+  your business? We’ve got you covered.
 promote:
   promote: false
 top: false

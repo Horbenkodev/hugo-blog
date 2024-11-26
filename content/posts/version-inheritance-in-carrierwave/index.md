@@ -7,11 +7,9 @@ draft: false
 publishDate: 2017-10-15T00:00:00.000Z
 image: its_a_feature.jpg
 og_image: its_a_feature.jpg
-description: Сarrierwave is a popular image upload gem used by the Rails
-  community to upload files to the server.Recently I had a task to upload two
-  types of images into the application. Under the hood,the only difference
-  between them was the target directory on the server. Sounds pretty simple,
-  right?
+description: Carrierwave is a popular Rails gem for image uploads. I recently
+  needed to upload two image types differing only by target directory. Sounds
+  simple, right?
 promote:
   promote: false
 top: false

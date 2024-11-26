@@ -4,11 +4,9 @@ draft: false
 publishDate: 2019-04-16T00:00:00.000Z
 image: React-recompose.jpg
 og_image: React-recompose.jpg
-description: It's pretty exciting to observe how DRY coding tools in React were
-  changing over time. And we must give credit to the developers - at no stage in
-  the development of this library were any recommendations to use inheritance to
-  solve such problems. In the early versions of React and React.createClass,
-  there were mixins that were simple JavaScript objects.
+description: React's DRY coding tools have evolved over time, with developers
+  avoiding inheritance-based solutions. Early React versions used mixins, which
+  were simple JavaScript objects.
 promote:
   promote: false
 top: false

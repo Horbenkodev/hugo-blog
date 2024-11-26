@@ -2,13 +2,12 @@
 title: "Secret Life of Talking Houses: How IoT Can Help Realtors"
 slug: how-iot-can-help-realtors
 draft: false
-publishDate: 2019-09-12T00:00:00Z
+publishDate: 2019-09-12T00:00:00.000Z
 image: iot-in-real-estate.jpg
 og_image: iot-in-real-estate.jpg
-description: The Internet of Things, also known as Connected Devices, are making
-  houses talk. Homes are advancing into sci-fi imagined futures. What was
-  fiction, such as pre-set and remote control for heating, lighting and even
-  food ordering, is becoming reality.
+description: The Internet of Things, or Connected Devices, is turning homes into
+  sci-fi-like spaces, with remote control for heating, lighting, and even food
+  ordering becoming reality.
 promote:
   promote: false
 top: false

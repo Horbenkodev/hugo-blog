@@ -4,15 +4,12 @@ title: How to Use Blockchain in Retail
 breadcrumbs: Blockchain in Retail
 slug: what-is-in-blockchain-for-retailers
 draft: false
-publishDate: 2018-10-11T00:00:00Z
+publishDate: 2018-10-11T00:00:00.000Z
 image: Blockchain-retail.png
 og_image: Blockchain-retail.png
-description: "Experience matters most when your business depends on a great
-  diversity of customers. Even a greater significance the experience gains when
-  it comes to your regular customers: they purchase a combinationof your product
-  and the positive experience you can provide. Retailers are under pressure from
-  the e-shops nowadays since the latter can offer numerous new experiences to
-  their online customers."
+description: Experience is crucial when your business relies on a diverse
+  customer base, especially regulars who value both your product and the
+  experience you provide.
 promote:
   promote: false
 top: false

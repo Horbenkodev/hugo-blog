@@ -7,12 +7,9 @@ draft: false
 publishDate: 2018-03-16T00:00:00.000Z
 image: health-app.jpg
 og_image: health-app.jpg
-description: Millions of people download and use health apps. Whether you are
-  tracking steps and exercise using a Fitbit, or counting calories with
-  MyFitnessPal, health apps are increasingly popular amongst every age group.
-  According to an IQVIA Institute for Human Data Science study, there are over
-  320,000 health-related apps on the Apple App Store and Google Play Store
-  (Android).
+description: Health apps are increasingly popular across all age groups, with
+  millions using them for tracking fitness and wellness. There are over 320,000
+  health-related apps available.
 promote:
   promote: false
 top: false

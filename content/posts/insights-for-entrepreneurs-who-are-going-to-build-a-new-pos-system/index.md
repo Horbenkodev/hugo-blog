@@ -1,15 +1,12 @@
 ---
 title: Insights for Entrepreneurs Who Are Going To Build a New POS System
 draft: false
-publishDate: 2018-12-20T00:00:00Z
+publishDate: 2018-12-20T00:00:00.000Z
 image: Pos-system.jpg
 og_image: Pos-system.jpg
-description: A POS system is a very important component in a business but it may
-  not useful if it is out-of-date.  How do you know that it is time to upgrade
-  or acquire a new POS system? The first thing you will notice is that your
-  system will become slow or it may even become unresponsive to commands. You
-  may also find that the system has an outdated payment processing, outdated
-  hardware, and limited integration capabilities.
+description: An outdated POS system can slow down, become unresponsive, or lack
+  modern payment processing and integration features. Learn when it’s time to
+  upgrade or replace your system!
 promote:
   promote: false
 top: false

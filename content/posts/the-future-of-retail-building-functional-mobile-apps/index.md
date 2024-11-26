@@ -4,12 +4,9 @@ draft: false
 publishDate: 2016-08-30T00:00:00.000Z
 image: mcommerce.jpg
 og_image: mcommerce.jpg
-description: The world of eCommerce is growing with every single year. Why to
-  spend your time and effort on going to brick and mortar stores if you have
-  tons of international shops available night and day with a much wider choice
-  of goods that are brought to your doorstep fast and often for free. Some
-  online stores even deliver their clothes for you to try them on at home and
-  only then to pay for the chosen ones.
+description: eCommerce offers a vast selection of international shops
+  accessible. Many online stores even deliver clothes for home try-ons, allowing
+  you to pay only for what you keep.
 promote:
   promote: false
 top: false

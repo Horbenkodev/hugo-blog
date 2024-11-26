@@ -5,12 +5,9 @@ draft: false
 publishDate: 2019-04-18T00:00:00.000Z
 image: Software-update.jpg
 og_image: Software-update.jpg
-description: Another update? What? Aren't those pop-up upgrade requests
-  downright annoying? In the 21st century, we can't spare a minute for a
-  smartphone OS update, much less an hour for software updates. Some people
-  ignore these updates because they are frustrating. They change the interface
-  and make you learn how to use the software all over again. Or, even worse,
-  they don't seem to do anything at all!
+description: Software updates can be frustrating, especially when they change
+  the interface or seem unnecessary. Many people ignore them because they
+  disrupt the user experience.
 promote:
   promote: false
 top: false

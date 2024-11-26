@@ -7,11 +7,9 @@ draft: false
 publishDate: 2018-07-19T00:00:00.000Z
 image: hr-software.jpg
 og_image: HR-software-preview.png
-description: A growing business is an indicator of its success, but more people
-  on the payroll can become a headache for HR personnel. Many tasks have to be
-  duplicated for every employee, often with minute alterations which can in turn
-  affect other aspects. Sifting through employee files is a major time-waster;
-  cross-referencing across multiple pieces of software is unwieldy and awkward.
+description: A growing business is a sign of success, but managing more
+  employees can overwhelm HR. Duplication of tasks and cross-referencing files
+  across software can create inefficiencies.
 promote:
   promote: false
 top: false

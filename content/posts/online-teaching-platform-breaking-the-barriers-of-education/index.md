@@ -6,12 +6,9 @@ draft: false
 publishDate: 2018-10-04T00:00:00.000Z
 image: Online-learning.jpg
 og_image: Online-learning.jpg
-description: Did you know that online training takes 40-60% less time to
-  complete a course than traditional classroom training, and it can increase
-  employee engagement in the workplace by over 18%? While some companies and
-  educational establishments stick to old school, more than 50% of North
-  American establishments have already adopted e-learning in one or the other
-  form.
+description: Online training takes 40-60% less time than traditional methods and
+  boosts employee engagement by 18%. 50% of North American organizations have
+  already adopted e-learning.
 promote:
   promote: false
 top: false

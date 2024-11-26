@@ -6,10 +6,9 @@ draft: false
 publishDate: 2017-12-12T00:00:00.000Z
 image: Java_JVM.jpg
 og_image: Advantages-of-java.png
-description: The history of Java began in 1995, when the first version of this
-  programming language was released. "Write Once, Run Anywhere" (WORA) was the
-  slogan of the new language. This meant that Java was not just another
-  programming language.
+description: Java's history began in 1995 with the release of its first version.
+  The slogan "Write Once, Run Anywhere" highlighted Java's unique cross-platform
+  capabilities.
 promote:
   promote: false
 top: false

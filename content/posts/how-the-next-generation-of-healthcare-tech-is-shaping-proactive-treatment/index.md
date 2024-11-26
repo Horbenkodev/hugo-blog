@@ -6,11 +6,9 @@ draft: false
 publishDate: 2018-12-13T00:00:00.000Z
 image: proactive-healthcare.jpg
 og_image: proactive-healthcare.jpg
-description: Digital technology and innovation are radically changing
-  healthcare. From research and development to new treatments, apps, platforms
-  and wearables and having a profound impact. Search engines and social networks
-  are also changing the ways patients seek out information and treatments, even
-  if that means going abroad for a cure. Healthcare needs to keep innovating.
+description: Digital technology is transforming healthcare, from treatments to
+  wearables. Patients now use search engines and social networks to find
+  information, driving innovation.
 promote:
   promote: false
 top: false

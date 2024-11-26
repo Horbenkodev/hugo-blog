@@ -5,14 +5,12 @@ title: A Timeline of Everything We Know About Web Development (So You Can
 breadcrumbs: History of Web Development
 slug: a-timeline-of-everything-we-know-about-web-development
 draft: false
-publishDate: 2018-05-29T00:00:00Z
+publishDate: 2018-05-29T00:00:00.000Z
 image: web-dev-timeline.jpg
 og_image: web-dev-timeline.jpg
-description: Web development is a long and storied process. From the Internet's
-  humblest of beginnings in the 1960s as a US Department of Defense project to
-  its existence today as the ultimate communications tool, web developers have
-  been there every step of the way, innovating and thinking up new and
-  interesting ways to apply technology to our lives.
+description: Web development has evolved from the Internet's origins in the
+  1960s to today's communication tool, with developers driving innovation every
+  step of the way.
 promote:
   promote: false
 top: false

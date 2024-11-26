@@ -7,10 +7,9 @@ draft: false
 publishDate: 2020-06-23T00:00:00.000Z
 image: atomic-design-2-0-and-style-guide-driven-development.jpg
 og_image: atomic-design-2-0-and-style-guide-driven-development-1.jpg
-description: "Design involves the entire process of creating components:
-  starting from design, going through layout to complete isolation of components
-  in the frontend. Modern JS libraries and frameworks enthusiastically accepted
-  these ideas: react, angular, styled-components, bootstrap."
+description: Design covers the entire process of creating components, from
+  design to layout. Modern JS libraries and frameworks like React, Angular, and
+  Bootstrap.
 promote:
   promote: false
 top: false

@@ -5,11 +5,9 @@ draft: false
 publishDate: 2018-03-12T00:00:00.000Z
 image: React-native-app.jpg
 og_image: React-native-app.jpg
-description: React Native is, perhaps, the most interesting and fast-evolving
-  platform. Today you can create a new project based on its latest version, and
-  in just a few months it will get outdated for a few releases. And if a year
-  ago React Native was quite a raw product, now there are lots of plugins for
-  dealing with native components as well as common React components.
+description: React Native is a fast-evolving platform, with new versions quickly
+  making previous ones outdated. Once a raw product, it now offers numerous
+  plugins.
 promote:
   promote: false
 top: false

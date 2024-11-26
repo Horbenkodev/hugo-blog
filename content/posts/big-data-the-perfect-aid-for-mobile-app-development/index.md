@@ -6,11 +6,9 @@ draft: false
 publishDate: 2018-05-15T00:00:00.000Z
 image: big-data.jpg
 og_image: big-data.jpg
-description: Smartphones and smart devices have simplified our daily tasks
-  manifolds. They have become an indispensable part of our lives. Today, we just
-  cannot imagine a single day without these devices. We no longer need to head
-  out for purchasing things or for searching a conveyance, we have apps that can
-  help us with most of the imaginable things.
+description: Smartphones and smart devices have simplified our lives, becoming
+  indispensable. From shopping to finding transport, apps now handle tasks we
+  once did manually.
 promote:
   promote: false
 top: false

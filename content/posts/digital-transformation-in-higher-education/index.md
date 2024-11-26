@@ -7,11 +7,9 @@ draft: false
 publishDate: 2019-07-02T00:00:00.000Z
 image: higher-education-technology.jpg
 og_image: higher-education-technology.jpg
-description: Higher education and the nature of universities is changing and
-  will continue to change for the next decade. Twenty years ago, 'digital' was
-  not a major concern for universities. Although the World Wide Web started as
-  an academic endeavor, universities were slow to catchup with a global digital
-  transformation.
+description: Higher education is evolving rapidly, with universities adapting to
+  a digital era. Despite the web's academic origins, many were slow to embrace
+  the digital transformation.
 promote:
   promote: false
 top: false

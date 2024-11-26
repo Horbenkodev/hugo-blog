@@ -4,13 +4,12 @@ title: "Immersion into React Native: Navigation, Offline Mode, Push Notification
 breadcrumbs: React Native Navigation, Offline Mode, Push Notifications
 slug: immersion-into-react-native
 draft: false
-publishDate: 2018-03-29T00:00:00Z
+publishDate: 2018-03-29T00:00:00.000Z
 image: Diving-in-RN.png
 og_image: Diving-in-RN.png
-description: "The right choice of navigation is a basis of designing
-  applications on React Native. It largely defines the project structure and the
-  performance. At the moment, there are two types of navigation: native and
-  JavaScript-based."
+description: The right choice of navigation is a basis of designing applications
+  on React Native. It defines the project structure. Let innovation drive your
+  growth! 🚀
 promote:
   promote: false
 top: false

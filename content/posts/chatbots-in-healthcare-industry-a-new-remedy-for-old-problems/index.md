@@ -7,11 +7,9 @@ draft: false
 publishDate: 2019-03-20T00:00:00.000Z
 image: chatbot-healthcare.jpg
 og_image: chatbot-healthcare.jpg
-description: Modern medicine is technological medicine. Health institutions are
-  moving from analog to digital, mastering computer analysis and forecasting
-  systems. Technologies in healthcare are not only the latest medical equipment
-  but also industry-specific software that automates work processes. One of the
-  promising areas is the chatbot application in healthcare.
+description: Modern medicine is evolving with digital systems and computer
+  analysis. One promising development is the use of chatbots to automate
+  healthcare processes.
 promote:
   promote: false
 top: false

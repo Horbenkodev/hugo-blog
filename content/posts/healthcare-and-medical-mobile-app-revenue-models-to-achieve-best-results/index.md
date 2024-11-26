@@ -4,12 +4,12 @@ title: Healthcare App Monetization Models—Which One to Choose?
 breadcrumbs: Healthcare App Monetization Models
 slug: healthcare-and-medical-mobile-app-revenue-models-to-achieve-best-results
 draft: false
-publishDate: 2019-10-25T00:00:00Z
+publishDate: 2019-10-25T00:00:00.000Z
 image: medical-monetization.png
 og_image: medical-monetization-socials.png
 description: It is a long and difficult way from a medical app idea to deriving
   profit from it. Before the app can make you money, it is necessary to validate
-  the market and to consider the nuances of a mobile medical app development.
+  the market.
 promote:
   promote: false
 top: false

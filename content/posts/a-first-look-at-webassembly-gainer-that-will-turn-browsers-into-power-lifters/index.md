@@ -7,11 +7,8 @@ draft: false
 publishDate: 2017-03-15T00:00:00.000Z
 image: WebAssembly.jpg
 og_image: WebAssembly.jpg
-description: Evolution never stops. All things come into the world, grow and
-  fade away in the end, letting other things take their place - that's the
-  circle of life. Being a part of life, web browsers can't escape the same fate.
-  It's time for them to grow and evolve. Today we'll look at WebAssembly. It's a
-  pretty interesting technology that can take web browsers to a new level.
+description: Evolution is constant, and web browsers are no exception. Today, we
+  explore WebAssembly, a technology that could take browsers to the next level.
 promote:
   promote: false
 top: false

@@ -5,10 +5,9 @@ draft: false
 publishDate: 2018-08-10T00:00:00.000Z
 image: Travel-app-trends.jpg
 og_image: Travel_app_trends.jpg
-description: Travelers want to focus on enjoying their trip, not getting bogged
-  down by planning the details. With predictions of 280 million households
-  travelling internationally at least once a year by 2025, there is a strong
-  growth in apps to support users along every step.
+description: Travelers want to enjoy their trip, not stress over planning. With
+  280M households traveling internationally yearly by 2025, travel apps are
+  rapidly growing.
 promote:
   promote: false
 top: false

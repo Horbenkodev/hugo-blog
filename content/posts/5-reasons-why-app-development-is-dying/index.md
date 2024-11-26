@@ -7,10 +7,8 @@ draft: false
 publishDate: 2018-03-09T00:00:00.000Z
 image: Is-app-development-dying.jpg
 og_image: app-dev-future.jpg
-description: Just as the dinosaurs never imagined their extinction, it's hard to
-  believe that the millions of apps in the app store are being threatened with
-  termination. Yes, it may be difficult to digest, but industry experts claim
-  that the app ecosystem – one of the largest - is on the verge of failing.
+description: Just as dinosaurs couldn't foresee extinction, millions of apps now
+  face termination. Experts warn the app ecosystem is on the brink of collapse.
 promote:
   promote: false
 top: false

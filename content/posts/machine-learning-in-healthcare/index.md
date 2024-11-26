@@ -7,10 +7,9 @@ draft: false
 publishDate: 2020-02-12T00:00:00.000Z
 image: Machine-learning-in-healthcare.jpg
 og_image: Machine-learning-in-healthcare.jpg
-description: According to McKinsey, the U.S. healthcare system generates over 1
-  trillion gigabytes of data every year. An incredible volume, even in a world
-  that produces more data annually than we have managed in the course of Human
-  history.
+description: "The U.S. healthcare system generates over 1 trillion gigabytes of
+  data yearly, a staggering amount in a world producing more data annually than
+  ever before. "
 promote:
   promote: false
 top: false

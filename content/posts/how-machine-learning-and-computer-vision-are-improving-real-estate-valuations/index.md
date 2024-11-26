@@ -5,10 +5,9 @@ draft: false
 publishDate: 2020-04-30T00:00:00.000Z
 image: machine-learning-for-real-estate-valuation.jpg
 og_image: machine-learning-for-real-estate-valuation.jpg
-description: Accurate valuations are a selling point and USP for sellers. With a
-  wide range of computer vision, AI and ML-based solutions on the market, there
-  are ways to produce more accurate valuations without hiring an internal team
-  of developers and data scientists.
+description: Accurate valuations are a key selling point for sellers. AI, ML,
+  and computer vision solutions offer precise results without needing an
+  in-house team.
 promote:
   promote: false
 top: false

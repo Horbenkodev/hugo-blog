@@ -4,11 +4,9 @@ draft: false
 publishDate: 2016-12-28T00:00:00.000Z
 image: real_estate_company_names.jpg
 og_image: real_estate_company_names.jpg
-description: Real estate industry is a wide and profitable segment that will
-  hardly ever fall into decay. That's why it is not surprising that many
-  companies provide their services in that business area. If you are going to
-  enter this market, one of the critical steps you have to take is to find an
-  awesome name for your company. I'll try to help you with this task.
+description: The real estate is a profitable and stable market, attracting many
+  service providers. If you're entering this sector, finding the perfect company
+  name is a crucial step.
 promote:
   promote: false
 top: false

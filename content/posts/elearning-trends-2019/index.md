@@ -4,14 +4,12 @@ title: Get to Know How to Improve Your Strategy with the eLearning Trends
 breadcrumbs: eLearning Trends
 slug: elearning-trends-2019
 draft: false
-publishDate: 2019-07-05T00:00:00Z
+publishDate: 2019-07-05T00:00:00.000Z
 image: elearning-trends.jpg
 og_image: elearning-trends.jpg
-description: Information technologies are changing almost every aspect of our
-  lives. From communication to finance, you can use digital tools to speed up
-  and improve your business. The trend did not bypass the learning industry, so
-  now you can utilize online mechanisms to improve the skills of your employees
-  and boost their productivity.
+description: Information technologies are transforming our lives, including
+  business and learning. Use digital tools to enhance employee skills,
+  productivity, and growth.
 promote:
   promote: false
 top: false

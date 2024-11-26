@@ -3,15 +3,12 @@ title: How Micro Animations Improve UX
 breadcrumbs: Micro Animations for UX
 slug: ""
 draft: false
-publishDate: 2018-11-06T00:00:00Z
+publishDate: 2018-11-06T00:00:00.000Z
 image: ux_design-750.jpg
 og_image: ux_design.jpg
-description: These days engagement is the name of the game when it comes to
-  websites and apps. Brands know that competition in the marketplace is fierce,
-  attention spans are short, and customer loyalty can be fickle. Therefore,
-  websites and apps need to focus on user experience - making a site or app
-  genuinely engaging - interesting or genuinely fun to use, fast loading and
-  intuitive.
+description: Engagement is crucial for websites and apps in today’s competitive
+  market. To stand out, they must prioritize user experience, making them fast
+  and enjoyable to use.
 promote:
   promote: false
 top: false

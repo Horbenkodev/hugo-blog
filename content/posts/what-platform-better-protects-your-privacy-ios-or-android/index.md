@@ -1,20 +1,18 @@
 ---
 title: "What Platform Better Protects Your Privacy: iOS or Android?"
 draft: false
-publishDate: 2019-03-07T00:00:00Z
+publishDate: 2019-03-07T00:00:00.000Z
 image: Mobile-privacy.jpg
 og_image: Mobile-privacy.jpg
-description: Mobile users are on edge when it comes to their data privacy, and
+description: Mobile users are on edge when it comes to their data privacy and
   for good reasons. Last year's headlines exposed major privacy breaches from
-  big-name companies that millions of people trusted with sensitive personal
-  data.
+  big-name companies.
 promote:
   promote: false
 top: false
 authors:
   - mobile-development-team
-categories:
-  - mobile
+categories: []
 industries: []
 ---
 Mobile users are on edge when it comes to their data privacy, and for good reasons.

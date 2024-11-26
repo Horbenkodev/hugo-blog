@@ -7,11 +7,9 @@ draft: false
 publishDate: 2018-11-28T00:00:00.000Z
 image: Mobile-classroom.jpg
 og_image: Mobile-classroom.jpg
-description: eLearning has transformed modern education. Over the last fifteen
-  years, education has gone from paper to platform and app-based, with students
-  and teachers learning together in remarkable new ways. One of those key trends
-  is the move away from laptops and tablets onto smartphones. Students want the
-  convenience of a virtual classroom on a much smaller screen.
+description: eLearning has transformed education, moving from paper to app-based
+  platforms, with a trend toward using smartphones for convenient virtual
+  classrooms.
 promote:
   promote: false
 top: false

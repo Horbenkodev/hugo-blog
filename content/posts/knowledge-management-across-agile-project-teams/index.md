@@ -5,11 +5,9 @@ draft: false
 publishDate: 2018-02-19T00:00:00.000Z
 image: Knowledge_management.jpg
 og_image: Knowledge_management.jpg
-description: If you happen to own or work for a software enterprise, you
-  possibly have been asked a hundred times if you are agile. Although initially
-  intended to upturn the accessibility of software development teams, in the
-  recent times 'agile' has emerged as the default team-based working model for
-  all enterprises, irrespective of their size, industry and location.
+description: If you own or work for a company, you’ve likely been asked if you
+  are agile. Originally meant to improve software development, 'agile' is now
+  the default model for teams.
 promote:
   promote: false
 top: false

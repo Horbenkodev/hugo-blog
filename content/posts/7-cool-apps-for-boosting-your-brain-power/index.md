@@ -4,14 +4,12 @@ title: Cool Apps for Boosting Your Brain Power
 breadcrumbs: Cool Apps for Boosting Your Brain Power
 slug: 7-cool-apps-for-boosting-your-brain-power
 draft: false
-publishDate: 2018-05-16T00:00:00Z
+publishDate: 2018-05-16T00:00:00.000Z
 image: Brain-training-app.jpg
 og_image: Brain-training-app.jpg
-description: Are you aware that the speed of our brain depends on the number of
-  active networks - axons connecting neurons that actively conduct nerve
-  impulses? The more we train our brains with different exercises, the more
-  different areas of the brain become involved, which leads to an increase in
-  our mental abilities.
+description: Did you know brain speed depends on active networks—axons
+  connecting neurons? Training your brain with exercises engages more areas,
+  boosting mental abilities.
 promote:
   promote: false
 top: false

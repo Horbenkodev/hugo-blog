@@ -7,12 +7,9 @@ draft: false
 publishDate: 2018-05-02T00:00:00.000Z
 image: Travel_app_trends.jpg
 og_image: Travel_app_trends.jpg
-description: Whether it's innovative approaches to loyalty schemes, or
-  procrastination-inducing, brain-numbingly addictive games, the different types
-  of apps promising to enhance our lives in one way or another is staggering.
-  Travel apps are more popular now than ever. Tnooz conducted a study that found
-  that 60% of mobile users have now downloaded and used a travel-related
-  smartphone app.
+description: Travel apps are more popular than ever, with 60% of mobile users
+  downloading and using them, according to a Tnooz study. The variety of apps
+  promising to enhance our lives.
 promote:
   promote: false
 top: false
