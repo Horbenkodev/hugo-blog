@@ -126,8 +126,6 @@ To better understand the role of such software in the healthcare industry, it’
 
 ***Telehealth and remote patient monitoring.*** Digital tools make it possible for patients to get qualified medical help practically at any time regardless of their location. Telehealth apps have greatly expanded the accessibility of medical services. Medication management functionality can become an important component of any solution intended for providing medical services at a distance. In this case, it is necessary to equip your app with communication tools for providers and patients, as well as virtual consultations and automated alerts for non-adherence.
 
-{{< advert >}}Also read <a href="https://anadea.info/blog/cost-of-ehr-implementation/" target="_blank>Cost of Implementing EHR: How to Plan Your Budget</a>{{< /advert >}}
-
 ## Examples of medication management apps
 
 The benefits of using medication management software are among the strongest boosters for the demand for them. Today the market already can offer a row of successful ready-made platforms of this kind. Of course, they may have their own limitations and peculiarities. Nevertheless, they have their precise target audiences and specific use cases, which cover the needs of different groups. When you are planning your own medication management app development project, it is always helpful to have a look at the solutions that have already won their market share.
