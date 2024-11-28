@@ -73,7 +73,7 @@ The typical way of interaction with a fantasy cricket application looks the foll
 2. Points in a fantasy cricket app are awarded based on the cricket players’ real-time performances, including runs scored, wickets taken, catches, strike rates, etc.
 3. Users compete against others in different types of contests. They can join public leagues, as well as create their own private leagues to compete with friends.
 
-{{< advert >}}Also read <a href="https://anadea.info/blog/fantasy-golf-app-development/ target="_blank">How to Build a Great Fantasy Golf App</a>{{< /advert >}}
+{{< advert >}}Also read <a href="https://anadea.info/blog/fantasy-golf-app-development/" target="_blank">How to Build a Great Fantasy Golf App</a>{{< /advert >}}
 
 ## Essential features of a good fantasy cricket app
 
@@ -153,8 +153,6 @@ The creation of a fantasy cricket app involves multiple stages. And to achieve t
 The cost of fantasy cricket app development is usually calculated based on a rather straightforward formula. 
 
 {{< advert >}}Cost = Development time (in hours) × hourly rate{{< /advert >}}
-
-
 
 But the problem is that the development time is greatly influenced by many variables, like the number and complexity of the features to be built, the peculiarities of the chosen tech stack, the composition of your team, as well as the team’s location.
 
