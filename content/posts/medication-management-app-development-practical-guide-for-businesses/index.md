@@ -12,6 +12,8 @@ description: Medication management software is gaining popularity fueled by the
 promote:
   promote: false
 top: false
+authors:
+  - mobile-development-team
 categories:
   - business
   - development
