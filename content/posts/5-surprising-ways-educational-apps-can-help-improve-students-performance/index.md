@@ -1,6 +1,6 @@
 ---
 ceoTitle: How You Can Improve Your Educational App — Tips for Business
-title: Top-7 Suggestions to Improve Your Educational Mobile App
+title: Top-5 Suggestions to Improve Your Educational Mobile App
 breadcrumbs: Improve eLearning App
 slug: 5-surprising-ways-educational-apps-can-help-improve-students-performance
 draft: false
