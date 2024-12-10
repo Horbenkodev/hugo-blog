@@ -5,8 +5,8 @@ breadcrumbs: " Fintech Development Outsourcing"
 slug: fintech-outsourcing
 draft: false
 publishDate: 2024-01-12T21:44:00+02:00
-image: fintech_outsourcing_socials.png
-og_image: fintech_outsourcing_socials.png
+image: close-up-business-hand-with-stylus-pen-working-digital-tablet-laptop.jpg
+og_image: close-up-business-hand-with-stylus-pen-working-digital-tablet-laptop.jpg
 description: If you want to build a fintech app but don’t have in-house
   resources for it, fintech development outsourcing can become a good option.
   Learn more about it!
