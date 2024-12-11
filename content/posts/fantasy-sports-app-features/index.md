@@ -5,8 +5,8 @@ breadcrumbs: What Kind of Features Should a Fantasy Sports App Include?
 slug: fantasy-sports-app-features
 draft: false
 publishDate: 2021-07-05T00:00:00.000Z
-image: fantasy-sports-features.jpg
-og_image: fantasy-sports-features.jpg
+image: sports-girl-resting.jpg
+og_image: sports-girl-resting.jpg
 description: This article describes what kind of must-have and advanced features
   you should include in your Fantasy Sports App. And why you should develop a
   Fantasy Sport App in the first place.
