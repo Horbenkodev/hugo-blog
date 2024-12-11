@@ -3,8 +3,8 @@ title: "React Native: The Journey of a Beginner "
 breadcrumbs: " React Native Beginner Experience"
 draft: false
 publishDate: 2018-03-12T00:00:00.000Z
-image: React-native-app.jpg
-og_image: React-native-app.jpg
+image: react-js-programming-language-with-laptop-code-script-screen.jpg
+og_image: react-js-programming-language-with-laptop-code-script-screen.jpg
 description: React Native is a fast-evolving platform, with new versions quickly
   making previous ones outdated. Once a raw product, it now offers numerous
   plugins.
