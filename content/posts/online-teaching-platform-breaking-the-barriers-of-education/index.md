@@ -4,8 +4,8 @@ breadcrumbs: Online Teaching Platform Development
 slug: ""
 draft: false
 publishDate: 2018-10-04T00:00:00.000Z
-image: Online-learning.jpg
-og_image: Online-learning.jpg
+image: medium-shot-woman-working-laptop.jpg
+og_image: medium-shot-woman-working-laptop.jpg
 description: Online training takes 40-60% less time than traditional methods and
   boosts employee engagement by 18%. 50% of North American organizations have
   already adopted e-learning.
