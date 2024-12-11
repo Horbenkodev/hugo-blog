@@ -2,8 +2,8 @@
 title: Who Are The Best App Developers in Spain?
 draft: false
 publishDate: 2017-09-29T00:00:00.000Z
-image: mobile-app-devs.jpg
-og_image: mobile_app_devs.jpg
+image: spain-flags-waving-wind-against-blue-sky-d-rendering.jpg
+og_image: spain-flags-waving-wind-against-blue-sky-d-rendering.jpg
 description: Spain has over 30 million users, with penetration expected to
   exceed 71% by 2022. This market creates significant opportunities for IT and
   boosts the Spanish app development.
