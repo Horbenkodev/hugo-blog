@@ -5,8 +5,8 @@ breadcrumbs: "Disrupt Like Zillow: Transforming the Real Estate Industry"
 slug: disrupt-like-zillow-transforming-the-real-estate-industry
 draft: false
 publishDate: 2019-04-03T00:00:00.000Z
-image: create-real-estate-app.jpg
-og_image: create-real-estate-app.jpg
+image: low-angle-view-buildings-against-cloudy-sky.jpg
+og_image: low-angle-view-buildings-against-cloudy-sky.jpg
 description: Zillow is a serious player in the U.S. real estate market. Zillow
   now contains a huge database of 110 million homes and apartments across the
   U.S.
