@@ -6,8 +6,8 @@ breadcrumbs: Mistakes in Software Project Handover
 slug: mistakes-to-avoid-when-you-hand-over-your-project-to-another-software-developer
 draft: false
 publishDate: 2016-07-21T00:00:00.000Z
-image: project-handover.png
-og_image: project_handover.png
+image: young-male-programmer-writing-program-code-sitting-workplace-with-monitor-office.jpg
+og_image: young-male-programmer-writing-program-code-sitting-workplace-with-monitor-office.jpg
 description: Software development varies in skill—some developers create
   high-quality apps, while others deliver buggy code, leading to smooth launches
   for some and constant errors.
