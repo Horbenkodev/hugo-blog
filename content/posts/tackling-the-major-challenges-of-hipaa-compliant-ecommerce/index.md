@@ -2,8 +2,8 @@
 title: Tackling The Major Challenges of HIPAA-Compliant eCommerce
 draft: false
 publishDate: 2019-03-29T00:00:00.000Z
-image: HIPAA-compliant-ecommerce.jpg
-og_image: HIPAA-compliant-ecommerce.jpg
+image: stethoscope-laptop.jpg
+og_image: stethoscope-laptop.jpg
 description: If your web store handles protected health information (PHI), PCI
   Compliance isn’t your only concern. Here’s how to navigate HIPAA requirements.
 promote:
