@@ -5,8 +5,8 @@ breadcrumbs: Outsourcing eCommerce Website Development
 slug: outsourcing-e-commerce-website-development
 draft: false
 publishDate: 2023-06-16T23:01:00+03:00
-image: ecommerce_outsourcing_socials.png
-og_image: ecommerce_outsourcing_socials.png
+image: shopping-online-concept-shopping-cart-trolley-laptop-keyboard-shopping-service-online-web.jpg
+og_image: shopping-online-concept-shopping-cart-trolley-laptop-keyboard-shopping-service-online-web.jpg
 description: Want to build an eCommerce website but don’t have in-house
   developers? Cooperation with an eCommerce outsourcing service provider can
   become a good option!
