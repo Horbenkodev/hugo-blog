@@ -5,8 +5,8 @@ breadcrumbs: Travel App Development Trends
 slug: hottest-trends-in-the-travel-app-development
 draft: false
 publishDate: 2018-05-02T00:00:00.000Z
-image: Travel_app_trends.jpg
-og_image: Travel_app_trends.jpg
+image: woman-with-baggage-downtown-city-street-searching-location-map-application-online-smart-phone-using-gps-navigating.jpg
+og_image: woman-with-baggage-downtown-city-street-searching-location-map-application-online-smart-phone-using-gps-navigating.jpg
 description: Travel apps are more popular than ever, with 60% of mobile users
   downloading and using them, according to a Tnooz study. The variety of apps
   promising to enhance our lives.
