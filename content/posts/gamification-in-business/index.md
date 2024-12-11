@@ -5,8 +5,8 @@ breadcrumbs: "How to Use Gamification at Your Business: Tips & Secrets"
 slug: gamification-in-business
 draft: false
 publishDate: 2021-09-07T00:00:00.000Z
-image: 3Z_2104.w026.n002.307B.p1.307__1_.jpg
-og_image: 3Z_2104.w026.n002.307B.p1.307__1_.jpg
+image: blank-smartphone-screen-with-design-space.jpg
+og_image: blank-smartphone-screen-with-design-space.jpg
 description: Learn about the power of gamification and how it can be used to
   reach your business objectives. Explore what gamification is capable of when
   added to your app or software.
