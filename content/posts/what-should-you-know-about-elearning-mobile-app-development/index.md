@@ -5,8 +5,8 @@ breadcrumbs: eLearning Mobile App Development Guide
 slug: elearning-mobile-app-development
 draft: false
 publishDate: 2024-07-18T17:36:00+02:00
-image: elearning-apps.jpg
-og_image: elearning-apps-socials.jpg
+image: man-studying-home-online-courses-free-information-by-hisself-becomes-musician-guitarist-while-isolated-quarantine-against-coronavirus-spreading-using-laptop-smartphone-headphones.jpg
+og_image: man-studying-home-online-courses-free-information-by-hisself-becomes-musician-guitarist-while-isolated-quarantine-against-coronavirus-spreading-using-laptop-smartphone-headphones.jpg
 description: Educational mobile apps are becoming increasingly popular. Dive
   into our comprehensive e-learning mobile app development guide to gear up for
   the launch of your own project.
