@@ -5,8 +5,8 @@ breadcrumbs: Cloud Cost Optimization
 slug: cloud-cost-optimization
 draft: false
 publishDate: 2023-10-31T00:00:00.000Z
-image: cloud_cost_optimization.png
-og_image: cloud_cost_optimization_socials.png
+image: 225669166_4b797808-fce0-4bf9-84b9-8f1e331d415f.jpg
+og_image: 225669166_4b797808-fce0-4bf9-84b9-8f1e331d415f.jpg
 description: Cloud spendings are getting out of control? Learn about the top
   cloud cost optimization best practices from our article.
 promote:
