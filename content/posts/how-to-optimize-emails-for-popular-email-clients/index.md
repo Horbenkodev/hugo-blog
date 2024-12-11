@@ -5,8 +5,8 @@ breadcrumbs: Email Optimization
 slug: how-to-optimize-emails-for-popular-email-clients
 draft: false
 publishDate: 2017-11-03T00:00:00.000Z
-image: responsive_email_layout.jpg
-og_image: responsive_email_layout.jpg
+image: email-correspondence-mail-message-concept.jpg
+og_image: email-correspondence-mail-message-concept.jpg
 description: We receive countless emails daily, many of which we skip. Effective
   emails require custom design, writing, and layouts that work across different
   devices, OS, and browsers.
