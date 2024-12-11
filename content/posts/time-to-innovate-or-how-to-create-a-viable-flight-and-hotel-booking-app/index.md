@@ -5,8 +5,8 @@ breadcrumbs: Flight and Hotel Booking App Development
 slug: time-to-innovate-or-how-to-create-a-viable-flight-and-hotel-booking-app
 draft: false
 publishDate: 2017-05-19T00:00:00.000Z
-image: flight_booking_app.jpg
-og_image: flight_booking_app.jpg
+image: retired-person-approaching-front-desk.jpg
+og_image: retired-person-approaching-front-desk.jpg
 description: The flight search and hotel booking industry should be fast and
   easy. Long queues and blind searches for accommodations are now just scary
   stories of the past.
