@@ -4,9 +4,9 @@ title: How to Develop a Successful Golf App
 breadcrumbs: " Golf Mobile Application Development"
 slug: golf-mobile-app-development
 draft: false
-publishDate: 2023-04-03T00:00:00Z
-image: golf-app.png
-og_image: golf-app-socials.png
+publishDate: 2023-04-03T00:00:00.000Z
+image: golf-enthusiast-prepares-perfect-swing.jpg
+og_image: golf-enthusiast-prepares-perfect-swing.jpg
 description: If you want to launch your own golf mobile app, we recommend you
   read this article to find useful information and make sure that you are on the
   right way.
