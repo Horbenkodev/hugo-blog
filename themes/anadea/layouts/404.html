@@ -1,12 +1,28 @@
-
 <!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <html>
   <head>
     <style type="text/css">
+      :root {
+        --description: #111111;
+        --bg: #ffffff;
+        --svg-fill: #DC296C;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --description: #CECECE;
+          --bg: #111111;
+          --svg-fill: #FFFFFF;
+        }
+      }
+      .description {
+        color: var(--description);
+        margin: 58px 0;
+      }
+      
       body {
-        background-color: #fff;
-        color: #666;
+        background-color: var(--bg);
         text-align: center;
         font-family: arial, sans-serif;
         font-size: 22px;
@@ -32,6 +48,11 @@
           padding-left: 0 !important;
           padding-right: 0 !important;
         }
+
+        .buttons {
+          flex-direction: column;
+          align-items: center;
+        }
       }
 
       @media only screen and (max-height: 600px) {
@@ -41,16 +62,26 @@
         }
       }
 
+      .buttons {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+      }
+      
       .logo {
         margin-left: 48px;
         padding-top: 60px;
         padding-bottom: 100px;
       }
 
+      .logo path {
+        fill: var(--svg-fill); /* Используем переменную для цвета */
+      }
+
       button {
-        width: 131px;
+        width: 184px;
         height: 49px;
-        border-radius: 4px;
+        border-radius: 8px;
         cursor: pointer;
         font-size: 18px;
       }
@@ -64,14 +95,13 @@
       }
 
       .back {
-        background: #ffffff;
+        background: #f2f2f2;
         border: 2px solid #f2f2f2;
-
       }
 
       .homepage {
-        background: #f2f2f2;
-        border: 2px solid #f2f2f2;
+        background: #DC296C;
+        border: 2px solid #DC296C;
       }
 
       img {
@@ -80,7 +110,6 @@
 
       a {
         text-decoration: none;
-        color: #666;
       }
 
     </style>
@@ -91,13 +120,13 @@
     <section>
       <div style="display: flex;">
         <svg class="logo" width="68" height="54" viewBox="0 0 68 54" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path fill-rule="evenodd" clip-rule="evenodd" d="M33.7939 0L0 11.9775V32.6654L33.7939 20.6879L67.5889 32.6654V11.9775L33.7939 0Z" fill="#DC296C"/>
-          <path d="M3.11155 46L0 53.687H1.62863L2.29219 51.9745H5.36227L6.02582 53.687H7.69593L4.58438 46H3.11155ZM2.86159 50.4891L3.82667 48.0145L4.79174 50.4891H2.86159Z" fill="#DC296C"/>
-          <path fill-rule="evenodd" clip-rule="evenodd" d="M17.9846 50.7317L14.5064 46H13V53.687H14.6119V48.7985L18.2082 53.687H19.5965V46H17.9846V50.7317Z" fill="#DC296C"/>
-          <path d="M28.1109 46L25 53.687H26.6289L27.2925 51.9745H30.3619L31.0267 53.687H32.6959L29.585 46H28.1109ZM27.8631 50.4891L28.8261 48.0145L29.7913 50.4891H27.8631Z" fill="#DC296C"/>
-          <path d="M39.7919 46H37V53.687H39.7919C42.0419 53.687 43.5965 52.006 43.5965 49.8417C43.5965 47.6586 42.0419 46 39.7919 46ZM39.7919 52.1593H38.5734V47.5254H39.7919C41.0811 47.5254 41.9501 48.4814 41.9501 49.8417C41.9501 51.2257 41.0811 52.1593 39.7919 52.1593Z" fill="#DC296C"/>
-          <path fill-rule="evenodd" clip-rule="evenodd" d="M50.5782 50.5679H53.9799V49.0649H50.5782V47.5053H54.4447V46H49V53.687H54.4971V52.1828H50.5782V50.5679Z" fill="#DC296C"/>
-          <path d="M64.585 46H63.1131L60 53.687H61.6277L62.2936 51.9745H65.3619L66.0278 53.687H67.6959L64.585 46ZM62.8631 50.4891L63.8261 48.0145L64.7902 50.4891H62.8631Z" fill="#DC296C"/>
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M33.7939 0L0 11.9775V32.6654L33.7939 20.6879L67.5889 32.6654V11.9775L33.7939 0Z"/>
+          <path d="M3.11155 46L0 53.687H1.62863L2.29219 51.9745H5.36227L6.02582 53.687H7.69593L4.58438 46H3.11155ZM2.86159 50.4891L3.82667 48.0145L4.79174 50.4891H2.86159Z"/>
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M17.9846 50.7317L14.5064 46H13V53.687H14.6119V48.7985L18.2082 53.687H19.5965V46H17.9846V50.7317Z"/>
+          <path d="M28.1109 46L25 53.687H26.6289L27.2925 51.9745H30.3619L31.0267 53.687H32.6959L29.585 46H28.1109ZM27.8631 50.4891L28.8261 48.0145L29.7913 50.4891H27.8631Z"/>
+          <path d="M39.7919 46H37V53.687H39.7919C42.0419 53.687 43.5965 52.006 43.5965 49.8417C43.5965 47.6586 42.0419 46 39.7919 46ZM39.7919 52.1593H38.5734V47.5254H39.7919C41.0811 47.5254 41.9501 48.4814 41.9501 49.8417C41.9501 51.2257 41.0811 52.1593 39.7919 52.1593Z"/>
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M50.5782 50.5679H53.9799V49.0649H50.5782V47.5053H54.4447V46H49V53.687H54.4971V52.1828H50.5782V50.5679Z"/>
+          <path d="M64.585 46H63.1131L60 53.687H61.6277L62.2936 51.9745H65.3619L66.0278 53.687H67.6959L64.585 46ZM62.8631 50.4891L63.8261 48.0145L64.7902 50.4891H62.8631Z"/>
         </svg>
       </div>
       <div style="display: inline-flex;">
@@ -112,14 +141,13 @@
         </div>
       </div>
       <div>
-        <p>
-          The page you were looking for<br>
-          doesn't exist
+        <p class="description">
+          The page you were looking for doesn't exist
         </p>
       </div>
-      <div>
-        <button class="back" onclick="history.back()"><a>Back</a></button>
-        <button class="homepage"><a href="https://anadea.info/blog/">Homepage</a></button>
+      <div class="buttons">
+        <button class="back" style="color: #1B1B1B;" onclick="history.back()"><a>Back</a></button>
+        <button class="homepage"><a href="/" style="color: #ffffff;">Homepage</a></button>
       </div>
     </section>
   </body>
