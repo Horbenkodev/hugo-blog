@@ -26,10 +26,11 @@
           --svg-fill: #FFFFFF;
         }
       }
-      
+
       .description {
         color: var(--description);
-        margin: 58px 0;
+        margin-bottom: 58px;
+        margin-top: 76px;
       }
       
       body {
@@ -38,39 +39,6 @@
         font-family: 'Wix Madefor Display', sans-serif;
         font-size: 22px;
         font-weight: 400;
-      }
-
-      @media only screen and (max-width: 580px) {
-        body {
-          display: flex;
-        }
-
-        img {
-          width: 75%;
-          height: 75%;
-        }
-
-        .logo {
-          width: auto !important;
-          height: auto !important;
-        }
-
-        section {
-          padding-left: 0 !important;
-          padding-right: 0 !important;
-        }
-
-        .buttons {
-          flex-direction: column;
-          align-items: center;
-        }
-      }
-
-      @media only screen and (max-height: 600px) {
-        .logo {
-          padding-top: 5px !important;
-          padding-bottom: 15px !important;
-        }
       }
 
       .buttons {
@@ -105,6 +73,11 @@
         padding-right: 70px;
       }
 
+      .imageContainer {
+        display: inline-flex;
+        gap: 56px;
+      }
+
       .back {
         background: #f2f2f2;
         border: 2px solid #f2f2f2;
@@ -116,13 +89,49 @@
       }
 
       img {
-        padding: 18px;
+        height: auto;
+        max-width: 100%;
       }
 
       a {
         text-decoration: none;
       }
 
+      @media only screen and (max-width: 580px) {
+        body {
+          display: flex;
+        }
+
+        img {
+          width: 75%;
+        }
+
+        .logo {
+          width: auto !important;
+          height: auto !important;
+        }
+
+        section {
+          padding-left: 0 !important;
+          padding-right: 0 !important;
+        }
+
+        .buttons {
+          flex-direction: column;
+          align-items: center;
+        }
+
+        .imageContainer {
+          gap: 0;
+        }
+      }
+
+      @media only screen and (max-height: 600px) {
+        .logo {
+          padding-top: 5px !important;
+          padding-bottom: 15px !important;
+        }
+      }
     </style>
   </head>
 
@@ -140,7 +149,7 @@
           <path d="M64.585 46H63.1131L60 53.687H61.6277L62.2936 51.9745H65.3619L66.0278 53.687H67.6959L64.585 46ZM62.8631 50.4891L63.8261 48.0145L64.7902 50.4891H62.8631Z"/>
         </svg>
       </div>
-      <div style="display: inline-flex;">
+      <div class="imageContainer">
         <div>
           <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAI8AAACpBAMAAADguHOLAAAALVBMVEUAAADaKW3cKW3cKWzcKGzfKHDcKG3bKGzaKWvcKmzdKWzcKWvcKWzfIHDcKWz59G1pAAAADnRSTlMAYN+/gCCfQKDvz29QEOkussoAAAGjSURBVGje7dZBSsNQFIXhJG1oQAQ7chacOA1dQekKQsgCQpeQFbiELkFwA+IW3IB70NgWJ28NTkUPHO/l0EF7z7TwQf9B7stOsFkCGx1QDZwpc6wB0NHh5Als5YCKSHQeifYO5yqBbR1Qj6DOAbXAOTicUpVorko0qBLtVImSKFEViS430UKVaKZK9KBK9CxKlKsSFapEtSpRE4kuN1ELnK9OdKs/Vbf6XvWc2Yi+sh+eREmUqFIlGiKRK9GLKpHqOfOuSnSnutU3DmgtSrRQJSpUiWpVokaUKD9Notfln93aE+H/PZkTcYgnIpAxEYd4Ijt0jRPZoTlM5IB6mMgBtTCRHSpxIjtUwUQOaICJHNAOJrJDZSKJKMQTcYgnYpAtEYd4IgZZEnGIJ1o5oDWCRjOEb/WU2aEZgo4O6A0mckANTGSHcpzIDhUwkQOqSSIG8UQc4okOmRnCifZ2CCfa2iGcqDNAJJEZ6kkiApFb/bT8vUfwCf3x8whutWubbJ5E0KCC2oACCiiggAIKKCAPRPbvF1tAAQUUUEABBRRQQAFZoW/u5rKmCG6hlgAAAABJRU5ErkJggg==" alt="4" width="152" height="179">
         </div>
