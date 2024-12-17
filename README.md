@@ -69,8 +69,16 @@ github.com/sass/dart-sass/implementation="1.72.0"
 
 #### Start dev server
 
- ```bash
- npm run dev
- ```
+```bash
+npm run dev
+```
 
-Web Server is available at ```http://localhost:1313/```
+Web Server is available at `http://localhost:1313/`
+
+## Useful links
+
+[Netlify Docs](https://docs.netlify.com/)
+
+[Redirects Playground](https://redirects-playground.netlify.app/)
+
+[Making redirects work for you - troubleshooting and debugging](https://answers.netlify.com/t/support-guide-making-redirects-work-for-you-troubleshooting-and-debugging/13433)
