@@ -72,9 +72,7 @@ Cross-platform frameworks strive to support the latest platform features. Yet, i
 
 ![Native_technologies.jpg](native-technologies.jpg)
 
-
-
-{{< advert >}}For a detailed comparison between approaches featuring our practical experience developing native and cross-platform apps, read our comprehensive <a href="https://anadea.info/blog/native-vs-cross-platform-app-development">blog post</a>.{{< /advert >}}
+For a detailed comparison between approaches featuring our practical experience developing native and cross-platform apps, read our comprehensive [blog post](https://anadea.info/blog/native-vs-cross-platform-app-development/).
 
 ## When to consider native app development for your project
 
