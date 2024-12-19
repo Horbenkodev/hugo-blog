@@ -5,8 +5,8 @@ breadcrumbs: Cool Apps for Boosting Your Brain Power
 slug: 7-cool-apps-for-boosting-your-brain-power
 draft: false
 publishDate: 2018-05-16T00:00:00.000Z
-image: Brain-training-app.jpg
-og_image: Brain-training-app.jpg
+image: full-shot-woman-couch-with-smartphone.jpg
+og_image: full-shot-woman-couch-with-smartphone.jpg
 description: Did you know brain speed depends on active networks—axons
   connecting neurons? Training your brain with exercises engages more areas,
   boosting mental abilities.

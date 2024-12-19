@@ -7,8 +7,8 @@ breadcrumbs: When Business Analysts Run Into Problems with Project Requirements,
 slug: when-business-analysts-run-into-problems-with-project-requirements-this-is-what-they-do
 draft: false
 publishDate: 2019-05-30T00:00:00.000Z
-image: How-business-analysts-solve-problems-with-project-requirements.jpg
-og_image: How-business-analysts-solve-problems-with-project-requirements.jpg
+image: shoulder-view-man-multitasking-reviewing-financial-document-having-telephone-chat.jpg
+og_image: shoulder-view-man-multitasking-reviewing-financial-document-having-telephone-chat.jpg
 description: Poor requirements management is a key reason for project failure.
   This article covers the types of requirements, how to gather them, and the
   role of business analysts.

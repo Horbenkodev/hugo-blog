@@ -5,8 +5,8 @@ breadcrumbs: Billing Software Development
 slug: billing-software-development
 draft: false
 publishDate: 2024-08-01T16:51:00+02:00
-image: billing.jpg
-og_image: billing-socials.jpg
+image: shipping-document-laptop-connection-homepage.jpg
+og_image: shipping-document-laptop-connection-homepage.jpg
 description: "Learn all about billing software development: our blog covers key
   features of such solutions, as well as technology trends and best practices."
 promote:

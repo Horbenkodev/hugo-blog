@@ -5,8 +5,8 @@ breadcrumbs: "Chatbots In Healthcare Industry: a New Remedy for Old Problems"
 slug: chatbots-in-healthcare-industry-a-new-remedy-for-old-problems
 draft: false
 publishDate: 2019-03-20T00:00:00.000Z
-image: chatbot-healthcare.jpg
-og_image: chatbot-healthcare.jpg
+image: doctor-s-hands-medicine-with-mobile-phone-medical-concept.jpg
+og_image: doctor-s-hands-medicine-with-mobile-phone-medical-concept.jpg
 description: Modern medicine is evolving with digital systems and computer
   analysis. One promising development is the use of chatbots to automate
   healthcare processes.

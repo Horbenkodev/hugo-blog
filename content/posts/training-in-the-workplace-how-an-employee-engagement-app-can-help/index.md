@@ -2,8 +2,8 @@
 title: "Training in the Workplace: How an Employee Engagement App can Help"
 draft: false
 publishDate: 2019-04-17T00:00:00.000Z
-image: Employee-engagement-app.jpg
-og_image: Employee-engagement-app.jpg
+image: strength-people-hands-success-meeting.jpg
+og_image: strength-people-hands-success-meeting.jpg
 description: As the digital world advances, employee engagement apps now make
   workplace training easier. Finding good talent is challenging, but training
   them to fit company norms is tougher.

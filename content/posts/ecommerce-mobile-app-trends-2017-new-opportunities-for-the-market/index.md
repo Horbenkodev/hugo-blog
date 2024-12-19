@@ -5,8 +5,8 @@ breadcrumbs: "Ecommerce Mobile App Trends 2017: New Opportunities for the Market
 slug: ecommerce-mobile-app-trends-2017-new-opportunities-for-the-market
 draft: false
 publishDate: 2017-06-22T00:00:00.000Z
-image: mobile_commerce.jpg
-og_image: mobile_commerce.jpg
+image: crop-woman-browsing-smartphone-shop.jpg
+og_image: crop-woman-browsing-smartphone-shop.jpg
 description: 20 years ago, smartphones didn’t exist, and the web industry
   focused on PCs. Today, mobile traffic exceeds desktop traffic, with over half
   the world using smartphones.

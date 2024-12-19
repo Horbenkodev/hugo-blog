@@ -5,8 +5,8 @@ breadcrumbs: Is Native Mobile Development Dead?
 slug: is-native-mobile-development-dead
 draft: false
 publishDate: 2024-08-08T15:02:00+02:00
-image: are-native-apps-dead.jpg
-og_image: are-native-apps-dead-socials.jpg
+image: hands-business-person-checking-messages-smartphone-with-coworker.jpg
+og_image: hands-business-person-checking-messages-smartphone-with-coworker.jpg
 description: Does native mobile development have a future? When should you
   choose native over cross-platform development? We'll explore these questions
   and give our perspective as developers.

@@ -5,8 +5,8 @@ breadcrumbs: AI Use Cases in Business
 slug: 10-verticals-where-ai-is-making-an-impact-in-2019
 draft: false
 publishDate: 2018-11-29T00:00:00.000Z
-image: ai-business.jpg
-og_image: ai-business.jpg
+image: laptop-table.jpg
+og_image: laptop-table.jpg
 description: AI, once a sci-fi concept, is now a reality reshaping our world.
   With constant tech advances, AI has seamlessly integrated into our lives and
   is here to stay.

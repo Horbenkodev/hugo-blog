@@ -5,8 +5,8 @@ breadcrumbs: 8 Tips to Design Persuasive CTA Buttons for New Gens
 slug: 8-tips-to-design-persuasive-cta-buttons-for-new-gens
 draft: false
 publishDate: 2020-01-10T00:00:00.000Z
-image: Designing-CTA-Buttons.jpg
-og_image: Designing-CTA-Buttons.jpg
+image: close-up-women-holding-pink-blank-paper-white-background.jpg
+og_image: close-up-women-holding-pink-blank-paper-white-background.jpg
 description: In web design and online marketing, CTA buttons are crucial for
   catching attention and guiding users effectively toward taking the desired
   actions on your website.

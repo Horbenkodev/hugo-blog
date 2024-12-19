@@ -5,8 +5,8 @@ breadcrumbs: What Is Penetration Testing?
 slug: what-is-penetration-testing
 draft: false
 publishDate: 2024-05-05T17:00:00+03:00
-image: pen_test_socials.png
-og_image: pen_test_socials.png
+image: close-up-programmer-typing-keyboard.jpg
+og_image: close-up-programmer-typing-keyboard.jpg
 description: Take your big leap to advanced cybersecurity by understanding what
   is pen testing and why it is important to perform. Contact Anadea cyber
   security experts today!

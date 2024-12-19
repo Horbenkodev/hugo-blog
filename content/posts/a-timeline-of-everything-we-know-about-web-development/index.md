@@ -6,8 +6,8 @@ breadcrumbs: History of Web Development
 slug: a-timeline-of-everything-we-know-about-web-development
 draft: false
 publishDate: 2018-05-29T00:00:00.000Z
-image: web-dev-timeline.jpg
-og_image: web-dev-timeline.jpg
+image: turned-gray-laptop-computer.jpg
+og_image: turned-gray-laptop-computer.jpg
 description: Web development has evolved from the Internet's origins in the
   1960s to today's communication tool, with developers driving innovation every
   step of the way.

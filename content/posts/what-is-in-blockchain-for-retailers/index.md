@@ -5,8 +5,8 @@ breadcrumbs: Blockchain in Retail
 slug: what-is-in-blockchain-for-retailers
 draft: false
 publishDate: 2018-10-11T00:00:00.000Z
-image: Blockchain-retail.png
-og_image: Blockchain-retail.png
+image: abstract-technology-big-data-background-concept-artificial-intelligence-tech-big-data-cybersecurity-transfer-storage-data-sets-blockchain-server-colorful-background.jpg
+og_image: abstract-technology-big-data-background-concept-artificial-intelligence-tech-big-data-cybersecurity-transfer-storage-data-sets-blockchain-server-colorful-background.jpg
 description: Experience is crucial when your business relies on a diverse
   customer base, especially regulars who value both your product and the
   experience you provide.

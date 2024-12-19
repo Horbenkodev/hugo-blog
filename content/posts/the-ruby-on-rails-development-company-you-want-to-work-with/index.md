@@ -3,8 +3,8 @@ title: The Ruby on Rails Development Company You Want to Work With
 breadcrumbs: Top Ruby on Rails Development Company
 draft: false
 publishDate: 2017-04-14T00:00:00.000Z
-image: RoR_developer.jpg
-og_image: RoR_developer.jpg
+image: gradient-illuminated-neon-gaming-desk-setup-with-keyboard.jpg
+og_image: gradient-illuminated-neon-gaming-desk-setup-with-keyboard.jpg
 description: Looking for an outsourced Ruby on Rails developer? Find an expert
   with experience, easy collaboration, and results that meet your expectations.
 promote:

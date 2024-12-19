@@ -5,8 +5,8 @@ breadcrumbs: How Machine Learning and Big Data Add Value to Healthcare
 slug: machine-learning-in-healthcare
 draft: false
 publishDate: 2020-02-12T00:00:00.000Z
-image: Machine-learning-in-healthcare.jpg
-og_image: Machine-learning-in-healthcare.jpg
+image: close-up-doctor-using-digital-tablet-with-touch-screen.jpg
+og_image: close-up-doctor-using-digital-tablet-with-touch-screen.jpg
 description: "The U.S. healthcare system generates over 1 trillion gigabytes of
   data yearly, a staggering amount in a world producing more data annually than
   ever before. "

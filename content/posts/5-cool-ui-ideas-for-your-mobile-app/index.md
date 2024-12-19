@@ -5,8 +5,8 @@ breadcrumbs: " Mobile App UI Design Ideas"
 slug: 5-cool-ui-ideas-for-your-mobile-app
 draft: false
 publishDate: 2018-09-28T00:00:00.000Z
-image: user-interface.png
-og_image: user-interface.png
+image: cropped-image-people-using-mobile-phones.jpg
+og_image: cropped-image-people-using-mobile-phones.jpg
 description: UI design blends art and science but is never pure creativity.
   Inspired by "Good artists copy, great ones steal"? Be cautious—Pablo Picasso
   didn’t say that, folks.

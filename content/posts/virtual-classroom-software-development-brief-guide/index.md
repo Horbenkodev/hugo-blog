@@ -5,8 +5,8 @@ breadcrumbs: Virtual Classroom Software for Online Teaching
 slug: virtual-classroom-software
 draft: false
 publishDate: 2024-06-28T10:05:00+02:00
-image: online-classroom.jpg
-og_image: online-classroom-socials.jpg
+image: close-up-kid-online-class.jpg
+og_image: close-up-kid-online-class.jpg
 description: Want to build your own virtual classroom software? In our blog
   post, we share our practical recommendations on how to do it.
 promote:

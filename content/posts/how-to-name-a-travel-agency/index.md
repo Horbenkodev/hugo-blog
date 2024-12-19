@@ -4,8 +4,8 @@ breadcrumbs: How to Name a Travel Agency
 slug: ""
 draft: false
 publishDate: 2017-02-28T00:00:00.000Z
-image: travel-business-name.jpg
-og_image: travel-business-name.jpg
+image: flat-lay-camera-passport-arrangement.jpg
+og_image: flat-lay-camera-passport-arrangement.jpg
 description: The onset of the digital era took tour and travel industry to a new
   level. The original, bright, meaningful and memorable name is as necessary as
   air for tourism-related business nowadays.

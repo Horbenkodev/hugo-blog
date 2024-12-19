@@ -5,8 +5,8 @@ breadcrumbs: Impressions from WebAssembly
 slug: a-first-look-at-webassembly-gainer-that-will-turn-browsers-into-power-lifters
 draft: false
 publishDate: 2017-03-15T00:00:00.000Z
-image: WebAssembly.jpg
-og_image: WebAssembly.jpg
+image: person-computes-views-code-laptop.jpg
+og_image: person-computes-views-code-laptop.jpg
 description: Evolution is constant, and web browsers are no exception. Today, we
   explore WebAssembly, a technology that could take browsers to the next level.
 promote:

@@ -3,8 +3,8 @@ title: How Mobile Apps Are Revolutionizing The Manufacturing Industry
 breadcrumbs: Mobile App Development for Manufacturing
 draft: false
 publishDate: 2018-09-10T00:00:00.000Z
-image: Mobile-apps-for-manufacturing.jpg
-og_image: Mobile-apps-for-manufacturing.jpg
+image: factory-engineers-using-smart-control-control-arm-robot-machine-cutting-metal-sheet.jpg
+og_image: factory-engineers-using-smart-control-control-arm-robot-machine-cutting-metal-sheet.jpg
 description: Technology is revolutionizing industries, from hardware to AI and
   mobile tech. Mobile apps have transformed payments and e-commerce with some
   industries leading the way.

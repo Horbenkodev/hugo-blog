@@ -2,8 +2,8 @@
 title: "Modern App Development: What's Fresh, What's Trendy?"
 draft: false
 publishDate: 2016-10-14T00:00:00.000Z
-image: modern-app-development.jpg
-og_image: modern-app-development.jpg
+image: female-web-designer-with-papers-notes-office.jpg
+og_image: female-web-designer-with-papers-notes-office.jpg
 description: Predicting the future is a challenge, no matter how much data or
   expert analysis you gather. It's nearly impossible to know exactly what lies
   ahead.
