@@ -99,11 +99,7 @@ The first and second steps are the same:
 I just mentioned that we iterate through a small linked list.
 ```
 
-{{< advert >}}In ruby, the average number of elements per bin is 5.
-
-[See more](https://github.com/ruby/ruby/blob/9bfe7fc5cb457c7bc8df96115ee70b9035f5d885/st.c#L38)
-
-ST_DEFAULT_MAX_DENSITY 5{{< /advert >}}
+In ruby, the average number of elements per bin is 5 ([see more](https://github.com/ruby/ruby/blob/9bfe7fc5cb457c7bc8df96115ee70b9035f5d885/st.c#L38)).[](https://github.com/ruby/ruby/blob/9bfe7fc5cb457c7bc8df96115ee70b9035f5d885/st.c#L38)
 
 ### Collisions and Growth (Rehash)
 
