@@ -86,7 +86,7 @@ Nevertheless, these platforms can help you optimize your software development bu
 
 These platforms are becoming more and more advanced today, which allows users to build even rather complex enterprise-level systems with their help. This may sound very appealing. However, before opting for this development method, you need to carefully evaluate all pros and cons given your specific requirements.
 
-### Trend 3. The growing role of UX/UI design
+## Trend 3. The growing role of UX/UI design
 
 UX and UI design have become critical factors in the success of custom software solutions. Today a great product isn’t just about functionality. It is also about how users interact with it and how it makes them feel. Nowadays users demand more intuitive and visually appealing applications and this fact can’t be ignored.
 
@@ -97,6 +97,8 @@ It’s important to think about the accessibility of your solutions for all user
 Also, do not forget that an engaging and user-friendly design can help to distinguish a product in crowded markets. When people just start familiarizing themselves with your solution, design is the first component that they will evaluate. Let’s be honest we all judge a book by its cover, at least when we see it for the first time in our lives.
 
 Apart from this, take care of consistency in design across all your platforms and touch points. Seamless cross-platform experiences have become a standard expectation. Moreover, it can also boost your brand awareness and recognition.
+
+{{< advert_with_cta title="Ready to transform your ideas into a tailored software solution?" description="Get in touch with Anadea today to explore the best approach for building a solution that fits your needs perfectly." button="Contact us" url="https://anadea.info/contacts-b2b" >}}
 
 ## Trend 4. Greater focus on cybersecurity
 
@@ -201,7 +203,7 @@ With custom software development, you can leverage a lot of benefits that can br
 
 The issue is that today there are too many agencies that offer practically the same (or at least very similar) custom software development services.  Of course, such a situation may greatly complicate the decision-making process.
 
-![How to choose a custom software development company](how-to-choose a-custom-software development-company_.png)
+!\[How to choose a custom software development company](how-to-choose a-custom-software development-company_.png)
 
 We have a couple of tips for you.
 
