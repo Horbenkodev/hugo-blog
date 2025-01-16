@@ -1,8 +1,8 @@
 ---
-ceoTitle: How to Develop a Sports App
-title: How to Create Your Own Sports App?
+ceoTitle: How to Develop a Sports App - Step-by-Step Guide
+title: How to Develop a Sports App - Step-by-Step Guide
 breadcrumbs: " Sports App Development"
-slug: how-to-develop-sports-app
+slug: how-to-develop-sports-app-guide
 draft: false
 publishDate: 2022-05-12T00:00:00.000Z
 image: sports-apps.jpg
