@@ -1,8 +1,8 @@
 ---
-ceoTitle: The Impact of AI Engineering & Deep Learning on Business
-title: The Impact of AI Engineering & Deep Learning on Business
-breadcrumbs: The Impact of AI Engineering & Deep Learning on Business
-slug: ai-engineering-deep-learning-silent-revolution-in-software-development
+ceoTitle: How AI Engineering and Deep Learning Are Transforming Software Development
+title: How AI Engineering and Deep Learning Are Transforming Software Development
+breadcrumbs: How AI Engineering and Deep Learning Are Transforming Software Development
+slug: ai-engineering-deep-learning-software-revolution
 draft: false
 publishDate: 2021-04-15T00:00:00.000Z
 image: ai_in_development.jpg
