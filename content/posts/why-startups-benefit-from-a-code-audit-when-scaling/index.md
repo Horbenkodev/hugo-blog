@@ -1,8 +1,8 @@
 ---
-ceoTitle: "Code Audit Service: Why You Need It"
-title: "Code Audit Service: Why You Need It"
-breadcrumbs: "Code Audit Service: Why You Need It"
-slug: why-startups-benefit-from-a-code-audit-when-scaling
+ceoTitle: Why Startups Need a Code Audit When Scaling Their Business
+title: Why Startups Need a Code Audit When Scaling Their Business
+breadcrumbs: Why Startups Need a Code Audit
+slug: why-startups-need-code-audit
 draft: false
 publishDate: 2021-12-13T00:00:00.000Z
 image: software_code_audit.jpg
