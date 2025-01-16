@@ -1,7 +1,8 @@
 ---
-title: How to Name a Travel Agency?
+ceoTitle: How to Name a Travel Agency - Tips and Ideas
+title: How to Name a Travel Agency - Tips and Ideas
 breadcrumbs: How to Name a Travel Agency
-slug: ""
+slug: how-to-name-a-travel-agency-tips-ideas
 draft: false
 publishDate: 2017-02-28T00:00:00.000Z
 image: flat-lay-camera-passport-arrangement.jpg
