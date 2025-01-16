@@ -1,8 +1,8 @@
 ---
-ceoTitle: Happy 19th Birthday, Anadea!
-title: Happy 19th Birthday, Anadea!
+ceoTitle: Happy 19th Birthday, Anadea! Celebrating Our Journey
+title: Happy 19th Birthday, Anadea! Celebrating Our Journey
 breadcrumbs: Happy 19th Birthday, Anadea!
-slug: happy-19th-birthday-anadea
+slug: happy-19th-birthday-anadea-journey
 draft: false
 publishDate: 2019-12-17T00:00:00.000Z
 image: Anadea-happy-birthday.jpg
