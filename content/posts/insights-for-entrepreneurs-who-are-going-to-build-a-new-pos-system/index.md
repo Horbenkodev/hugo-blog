@@ -1,4 +1,5 @@
 ---
+ceoTitle: Insights for Entrepreneurs Building a New POS System
 title: Insights for Entrepreneurs Who Are Going To Build a New POS System
 draft: false
 publishDate: 2018-12-20T00:00:00.000Z
