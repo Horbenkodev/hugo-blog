@@ -1,5 +1,5 @@
 ---
-ceoTitle: Does My Business Really Need a Mobile App?
+ceoTitle: Does My Business Need a Mobile App? Key Considerations
 title: Does My Business Really Need a Mobile App?
 breadcrumbs: Does My Business Really Need a Mobile App?
 slug: does-my-business-need-mobile-app
