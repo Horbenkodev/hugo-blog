@@ -1,6 +1,5 @@
 ---
-ceoTitle: Anadea Took 2nd Place in the Computer Vision Competition Organized by
-  Open Data Science Community
+ceoTitle: Anadea Takes 2nd Place in the Computer Vision Competition
 title: Anadea Took 2nd Place in the Computer Vision Competition Organized by
   Open Data Science Community
 breadcrumbs: Anadea Took 2nd Place in the Computer Vision Competition Organized
