@@ -1,4 +1,5 @@
 ---
+ceoTitle: Overcoming Key Challenges in HIPAA-Compliant eCommerce
 title: Tackling The Major Challenges of HIPAA-Compliant eCommerce
 draft: false
 publishDate: 2019-03-29T00:00:00.000Z
