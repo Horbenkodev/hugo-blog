@@ -1,4 +1,5 @@
 ---
+ceoTitle: "Updates on GetSocio and the Got Spot Projects: Key Developments"
 title: What's New? Updates of Getsocio and The Got Spot Projects
 breadcrumbs: Updates of Getsocio and The Got Spot
 slug: updates-of-getsocio-and-the-got-spot-projects
