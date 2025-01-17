@@ -1,5 +1,5 @@
 ---
-ceoTitle: "Artificial Intelligence: a Pandora's Box or the Holy Grail?"
+ceoTitle: "Artificial Intelligence: Threat or Game-Changer?"
 title: "Artificial Intelligence: a Pandora's Box or the Holy Grail?"
 breadcrumbs: What Is AI and Its Use Cases
 slug: artificial-intelligence-pandoras-box-or-the-holy-grail
