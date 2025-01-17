@@ -1,4 +1,5 @@
 ---
+ceoTitle: "Mobile App Trends: Where the Industry Is Heading in 2025"
 title: "Mobile App Trends in 2023: Where the Industry is Heading"
 breadcrumbs: " Mobile App Development Trends"
 slug: mobile-app-trends-where-the-industry-is-heading
