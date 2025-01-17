@@ -1,4 +1,5 @@
 ---
+ceoTitle: What is JVM and Why Develop Apps on Java?
 title: What is JVM and Why it is Worth to Develop Apps on Java Platform
 breadcrumbs: Why Develop on Java
 slug: what-is-jvm-and-why-develop-apps-on-java
