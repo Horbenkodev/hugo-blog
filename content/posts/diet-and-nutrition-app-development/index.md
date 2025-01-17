@@ -1,4 +1,5 @@
 ---
+ceoTitle: "Diet & Nutrition App Development: Key Features & Trends"
 title: "Building an App for Nutrition and Dieting: All You Need to Know"
 slug: diet-and-nutrition-app-development
 draft: false
