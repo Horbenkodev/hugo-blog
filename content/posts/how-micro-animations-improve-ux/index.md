@@ -1,4 +1,5 @@
 ---
+ceoTitle: "How Micro Animations Improve UX: Enhance User Engagement"
 title: How Micro Animations Improve UX
 breadcrumbs: Micro Animations for UX
 slug: ""
