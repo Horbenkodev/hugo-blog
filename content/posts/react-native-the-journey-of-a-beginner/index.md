@@ -1,4 +1,5 @@
 ---
+ceoTitle: "React Native: A Beginner’s Journey in Mobile App Development"
 title: "React Native: The Journey of a Beginner "
 breadcrumbs: " React Native Beginner Experience"
 draft: false
