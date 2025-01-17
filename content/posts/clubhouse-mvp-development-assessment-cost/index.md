@@ -1,4 +1,5 @@
 ---
+ceoTitle: "Clubhouse MVP Development: Assessment & Cost Breakdown"
 title: What You Need to Know about Clubhouse MVP Development
 slug: clubhouse-mvp-development-assessment-cost
 draft: false
