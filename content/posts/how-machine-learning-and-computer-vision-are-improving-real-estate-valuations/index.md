@@ -1,4 +1,5 @@
 ---
+ceoTitle: Enhancing Real Estate Valuations with Machine Learning and Computer Vision
 title: "How Machine Learning and Computer Vision are Improving Real Estate
   Valuations "
 draft: false
