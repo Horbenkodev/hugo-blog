@@ -1,5 +1,5 @@
 ---
-ceoTitle: How to Name a Travel Agency - Tips and Ideas
+ceoTitle: "How to Name a Travel Agency: Tips for a Memorable Brand"
 title: How to Name a Travel Agency - Tips and Ideas
 breadcrumbs: How to Name a Travel Agency
 slug: how-to-name-a-travel-agency-tips-ideas
