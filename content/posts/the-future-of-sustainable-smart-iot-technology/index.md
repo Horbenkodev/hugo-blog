@@ -1,4 +1,5 @@
 ---
+ceoTitle: The Next Era of Sustainable Smart IoT Technology
 title: The Future of Sustainable Smart IoT-Technology
 draft: false
 publishDate: 2020-03-26T00:00:00.000Z
