@@ -1,4 +1,5 @@
 ---
+ceoTitle: "How to Start an Education Startup: Essential Steps"
 title: How to Build an Online Education Startup
 breadcrumbs: How to Start Education Startup
 slug: how-to-start-education-startup
