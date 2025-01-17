@@ -1,5 +1,5 @@
 ---
-ceoTitle: "Emotionally Intelligent Design: Why You Need It in Your Mobile App"
+ceoTitle: "Emotionally Intelligent Design: Why It’s Crucial for Your Mobile App"
 title: "Emotionally Intelligent Design: Why You Need It in Your Mobile App"
 breadcrumbs: Emotional Intelligence in Design
 slug: emotionally-intelligent-design-why-you-need-it-in-your-mobile-app
