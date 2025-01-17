@@ -1,4 +1,5 @@
 ---
+ceoTitle: "Three.js Library: A Guide to 3D Web Development"
 title: Our experience with Three.js library
 breadcrumbs: Three.js library
 slug: three-js-library
