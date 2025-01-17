@@ -1,5 +1,5 @@
 ---
-ceoTitle: Data Strategy for Digital Transformation in the Medical Industry
+ceoTitle: Crafting a Data Strategy for Digital Transformation in Healthcare
 title: Data Strategy for Digital Transformation in the Medical Industry
 breadcrumbs: Healthcare Digital Transformation
 slug: data-strategy-for-digital-transformation-in-the-medical-industry
