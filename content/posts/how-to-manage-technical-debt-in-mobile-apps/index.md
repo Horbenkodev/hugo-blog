@@ -1,5 +1,5 @@
 ---
-ceoTitle: How to Manage Technical Debt in Mobile Apps
+ceoTitle: How to Manage Technical Debt in Mobile Apps for Long-Term Success
 title: How to Manage Technical Debt in Mobile Apps
 breadcrumbs: How to Manage Technical Debt in Mobile Apps
 slug: how-to-manage-technical-debt-in-mobile-apps
