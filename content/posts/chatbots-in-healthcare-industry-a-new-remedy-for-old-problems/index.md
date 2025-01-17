@@ -1,5 +1,5 @@
 ---
-ceoTitle: "Chatbots In Healthcare Industry: a New Remedy for Old Problems"
+ceoTitle: "Chatbots in Healthcare: Modern Solutions to Long-Standing Challenges"
 title: "Chatbots In Healthcare Industry: a New Remedy for Old Problems"
 breadcrumbs: "Chatbots In Healthcare Industry: a New Remedy for Old Problems"
 slug: chatbots-in-healthcare-industry-a-new-remedy-for-old-problems
