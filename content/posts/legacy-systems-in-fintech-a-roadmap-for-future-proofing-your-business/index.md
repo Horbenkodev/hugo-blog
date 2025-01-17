@@ -1,5 +1,5 @@
 ---
-ceoTitle: "Legacy systems in fintech: A roadmap for future-proofing your business"
+ceoTitle: "Legacy Systems in Fintech: Future-Proofing Your Roadmap"
 title: "Legacy systems in fintech: A roadmap for future-proofing your business"
 breadcrumbs: Legacy systems in fintech
 slug: legacy-systems-fintech-future-proofing-roadmap
