@@ -1,5 +1,5 @@
 ---
-ceoTitle: Classroom in a Pocket? Creating a Mobile eLearning Environment
+ceoTitle: "Creating a Mobile eLearning Environment: Key Considerations"
 title: Classroom in a Pocket? Creating a Mobile eLearning Environment
 breadcrumbs: Mobile eLearning App Development
 slug: creating-a-mobile-elearning-environment
