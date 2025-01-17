@@ -1,5 +1,5 @@
 ---
-ceoTitle: How Blockchain is Revolutionizing the Future of Custom Software Development
+ceoTitle: "Blockchain in Custom Software Development: Trends and Benefits"
 title: How Blockchain is Revolutionizing the Future of Custom Software Development
 breadcrumbs: How Blockchain Revolutionizes Custom Software Development
 slug: blockchain-custom-software-development
