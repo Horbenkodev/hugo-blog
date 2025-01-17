@@ -1,4 +1,5 @@
 ---
+ceoTitle: Must-Have Features for Building a Localized Real Estate App
 title: Must Have Features to Build a Localized Real Estate App
 draft: false
 publishDate: 2019-06-13T00:00:00.000Z
