@@ -1,4 +1,5 @@
 ---
+ceoTitle: "Retail Business Goes Mobile: How to Create a Successful Retail App"
 title: "Retail Business Goes Mobile: How to Create a Good Retail App?"
 breadcrumbs: Retail Mobile App Development
 draft: false
