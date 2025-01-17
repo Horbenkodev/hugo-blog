@@ -1,4 +1,5 @@
 ---
+ceoTitle: "Speed Up Tests with Build Stubbed: Best Practices"
 title: How to Speed Up Your Tests via :build_stubbed
 slug: speed-up-tests-via-build-stubbed
 draft: false
