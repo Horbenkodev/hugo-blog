@@ -1,5 +1,5 @@
 ---
-ceoTitle: "Virtual Classroom Software Development: Brief Guide"
+ceoTitle: "Virtual Classroom Software: Features and Benefits"
 title: "Virtual Classroom Software Development: Brief Guide"
 breadcrumbs: Virtual Classroom Software for Online Teaching
 slug: virtual-classroom-software
