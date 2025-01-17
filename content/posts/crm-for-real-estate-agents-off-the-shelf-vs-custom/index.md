@@ -1,5 +1,5 @@
 ---
-ceoTitle: "CRM for Real Estate Agents: Off-the-Shelf vs. Custom?"
+ceoTitle: "CRM for Real Estate Agents: Off-the-Shelf vs. Custom Solutions"
 title: "CRM for Real Estate Agents: Off-the-Shelf vs. Custom?"
 breadcrumbs: "CRM for Real Estate Agents: Off-the-Shelf vs. Custom?"
 slug: crm-for-real-estate-agents-off-the-shelf-vs-custom
