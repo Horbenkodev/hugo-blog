@@ -1,5 +1,5 @@
 ---
-ceoTitle: Cool Ideas of Xmas Gifts for Geeks and IT Engineers
+ceoTitle: "Xmas Gift Ideas for Geeks and IT Engineers: Unique Suggestions"
 title: Cool Ideas of Xmas Gifts for Geeks and IT Engineers
 breadcrumbs: Gifts for Programmers
 slug: ideas-of-xmas-gifts-for-geeks-and-it-engineers
