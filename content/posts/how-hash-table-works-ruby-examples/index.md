@@ -1,5 +1,5 @@
 ---
-ceoTitle: Do You Know How Hash Table Works? (Ruby Examples)
+ceoTitle: "How Hash Table Works in Ruby: Examples and Explanation"
 title: Do You Know How Hash Table Works? (Ruby Examples)
 breadcrumbs: Do You Know How Hash Table Works? (Ruby Examples)
 slug: how-hash-table-works-ruby-examples
