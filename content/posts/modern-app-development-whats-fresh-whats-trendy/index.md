@@ -1,4 +1,5 @@
 ---
+ceoTitle: "Modern App Development: What's Fresh & What's Trendy in 2025"
 title: "Modern App Development: What's Fresh, What's Trendy?"
 draft: false
 publishDate: 2016-10-14T00:00:00.000Z
