@@ -1,10 +1,10 @@
 ---
-ceoTitle: "How to Create a Sports Fan App: A Winning Strategy"
+ceoTitle: "Sports Fan Apps: Enhancing Fan Engagement & Experience"
 title: "How to Create a Sports Fan App: A Winning Strategy"
 breadcrumbs: " Sports Fan Apps Development"
 slug: sports-fan-apps
 draft: false
-publishDate: 2024-02-20T00:00:00Z
+publishDate: 2024-02-20T00:00:00.000Z
 image: sports_fan.png
 og_image: sports_fan_socials.png
 description: Sports fan apps are gaining popularity for many reasons. Explore
