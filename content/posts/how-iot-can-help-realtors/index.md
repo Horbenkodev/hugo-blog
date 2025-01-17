@@ -1,4 +1,5 @@
 ---
+ceoTitle: "How IoT Can Help Realtors: Key Benefits and Applications"
 title: "Secret Life of Talking Houses: How IoT Can Help Realtors"
 slug: how-iot-can-help-realtors
 draft: false
