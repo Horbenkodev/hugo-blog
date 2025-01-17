@@ -1,4 +1,5 @@
 ---
+ceoTitle: "RxBus: An Event Bus Based on RxJava & Optimized for Android"
 title: RxBus - an Event Bus Based on RxJava and Optimized for Android
 draft: false
 publishDate: 2017-02-13T00:00:00.000Z
