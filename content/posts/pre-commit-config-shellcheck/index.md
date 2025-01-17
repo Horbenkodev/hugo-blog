@@ -1,5 +1,5 @@
 ---
-ceoTitle: pre-commit-config-shellcheck for syntax and semantic checks automation
+ceoTitle: "Pre-Commit Config ShellCheck: Streamline Your Development Workflow"
 title: pre-commit-config-shellcheck for syntax and semantic checks automation
 breadcrumbs: pre-commit-config-shellcheck
 slug: pre-commit-config-shellcheck
