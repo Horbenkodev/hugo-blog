@@ -1,4 +1,5 @@
 ---
+ceoTitle: How Anadea Is Tackling the New Work-From-Home Reality
 title: How We are Tackling the New Work-From-Home Reality at Anadea
 draft: false
 publishDate: 2020-03-25T00:00:00.000Z
