@@ -1,4 +1,5 @@
 ---
+ceoTitle: Shaping the Future of Retail with Functional Mobile Apps
 title: "The Future of Retail: Building Functional Mobile Apps"
 draft: false
 publishDate: 2016-08-30T00:00:00.000Z
