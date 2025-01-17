@@ -1,4 +1,5 @@
 ---
+ceoTitle: "Integrating Self-Storage Services in Web Software: A Guide"
 title: Integrating Self-Storage Services in Web Software
 breadcrumbs: Self-Storage Software Development
 draft: false
