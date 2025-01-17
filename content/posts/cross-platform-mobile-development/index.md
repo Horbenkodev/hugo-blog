@@ -1,5 +1,5 @@
 ---
-ceoTitle: Cross Platform Mobile App Development Best Practices
+ceoTitle: "Cross-Platform Mobile Development: Key Benefits and Challenges"
 title: Cross Platform Mobile App Development Best Practices
 breadcrumbs: Cross Platform Mobile App Development Best Practices
 slug: cross-platform-mobile-development
