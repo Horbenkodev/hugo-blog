@@ -1,5 +1,5 @@
 ---
-ceoTitle: How Do Implicits Work in Scala?
+ceoTitle: "Understanding Scala Implicits: A Key Concept for Developers"
 title: How Do Implicits Work in Scala?
 breadcrumbs: How Do Implicits Work in Scala?
 slug: scala-implicits
