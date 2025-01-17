@@ -1,4 +1,5 @@
 ---
+ceoTitle: "Time, Cost & Quality: Which to Choose for Your App?"
 title: "Time, Cost, Quality: Which Ones Do You Choose for Your App?"
 breadcrumbs: " Time VS Cost VS Quality"
 draft: false
