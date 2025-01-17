@@ -1,5 +1,5 @@
 ---
-ceoTitle: A Simple Way to Decrease Complexity of Routes in Rails
+ceoTitle: How to Decrease the Complexity of Routes in Rails
 title: A Simple Way to Decrease Complexity of Routes in Rails
 breadcrumbs: A Simple Way to Decrease Complexity of Routes in Rails
 slug: decrease-complexity-of-routes-in-rails
