@@ -1,5 +1,5 @@
 ---
-ceoTitle: "Ecommerce Mobile App Trends 2017: New Opportunities for the Market"
+ceoTitle: "Emerging E-Commerce App Trends in 2017: Unlocking New Market Opportunities"
 title: "Ecommerce Mobile App Trends 2017: New Opportunities for the Market"
 breadcrumbs: "Ecommerce Mobile App Trends 2017: New Opportunities for the Market"
 slug: ecommerce-mobile-app-trends-2017-new-opportunities-for-the-market
