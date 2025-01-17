@@ -1,5 +1,5 @@
 ---
-ceoTitle: "Disrupt Like Zillow: Transforming the Real Estate Industry"
+ceoTitle: "Revolutionizing Real Estate: How Zillow is Transforming the Industry"
 title: "Disrupt Like Zillow: Transforming the Real Estate Industry"
 breadcrumbs: "Disrupt Like Zillow: Transforming the Real Estate Industry"
 slug: disrupt-like-zillow-transforming-the-real-estate-industry
