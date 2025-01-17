@@ -1,4 +1,5 @@
 ---
+ceoTitle: "Metrics Collector: How to Optimize Your Business Insights"
 title: MetricsCollector for Ruby on Rails
 slug: metrics-collector
 draft: false
@@ -21,9 +22,9 @@ industries: []
 
 From one point, we've started collecting some metrics from our projects in <a href="https://anadea.info/services/web-development/ruby-on-rails-development" target="_blank">Ruby on Rails</a> so that we could see the dynamic and statistics, because some problems catch your attention only when you can see them right in front of your eyes.
 
-Above mentioned metrics included __percent of test coverage__ provided by _simplecov_. With it, we could react in case of sharp decline because we were always trying to have at least 80% code to be covered with tests. Second metric we decided to look into were __vulnerabilities, warnings and deprecations from the brakeman__. That’s how we wouldn't miss the gaps in our projects. Furthermore, to follow best practices, score from _rubycritic_ was also included.
+Above mentioned metrics included **percent of test coverage** provided by *simplecov*. With it, we could react in case of sharp decline because we were always trying to have at least 80% code to be covered with tests. Second metric we decided to look into were **vulnerabilities, warnings and deprecations from the brakeman**. That’s how we wouldn't miss the gaps in our projects. Furthermore, to follow best practices, score from *rubycritic* was also included.
 
-And the last one is just a simple amount of code lines and files provided by the _CLOC_ library. So that any implementation of big features would be visible in statistics.
+And the last one is just a simple amount of code lines and files provided by the *CLOC* library. So that any implementation of big features would be visible in statistics.
 
 As a result, we've understood that we are doing repetitive actions in different projects and with different frequency. And to avoid that, we have decided to automate the process of collecting all desired metrics so that a developer wouldn't waste time on this. Before, in order to collect metrics, they had to launch project, pull all updates, run all tests to get percent of test coverage, run the script that collects all metrics and then put all results into Google Documents that we kept for each project.
 
@@ -68,7 +69,6 @@ However, we thought that it would take ages to track any statistics right from S
 It’s worth mentioning that it can upload metrics only to the first worksheet for now.
 
 We’ve used spreadsheet’s official Ruby client so there is not that much of logic for populating worksheet:
-
 
 ```ruby
 # Initialize SpreadSheet service
