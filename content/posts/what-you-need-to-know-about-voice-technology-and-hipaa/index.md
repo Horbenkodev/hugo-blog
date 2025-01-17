@@ -1,4 +1,5 @@
 ---
+ceoTitle: Essential Insights on Voice Technology and HIPAA Compliance
 title: What You Need to Know About Voice Technology and HIPAA
 draft: false
 publishDate: 2019-12-18T00:00:00.000Z
