@@ -1,4 +1,5 @@
 ---
+ceoTitle: "EdTech Startups: To Invest or Not to Invest? Key Considerations"
 title: "EdTech Startups: to Invest or Not to Invest?"
 draft: false
 publishDate: 2022-06-29T00:00:00.000Z
