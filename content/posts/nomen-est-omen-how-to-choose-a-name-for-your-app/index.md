@@ -1,4 +1,5 @@
 ---
+ceoTitle: "Nomen est Omen: How to Choose a Name for Your App?"
 title: "Nomen est Omen: How to Choose a Perfect Name for Your App?"
 breadcrumbs: How to Name an App
 slug: nomen-est-omen-how-to-choose-a-name-for-your-app
