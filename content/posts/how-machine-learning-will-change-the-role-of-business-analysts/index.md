@@ -1,4 +1,5 @@
 ---
+ceoTitle: How Machine Learning is Redefining the Role of Business Analysts
 title: How Machine Learning Will Change the Role of Business Analysts
 breadcrumbs: " ML Transforms Business Analysis"
 draft: false
