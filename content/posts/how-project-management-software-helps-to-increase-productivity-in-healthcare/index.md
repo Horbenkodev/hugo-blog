@@ -1,4 +1,5 @@
 ---
+ceoTitle: Boosting Healthcare Productivity with Project Management Software
 title: How Project Management Software Increases Productivity in Healthcare?
 slug: how-project-management-software-helps-to-increase-productivity-in-healthcare
 draft: false
