@@ -1,4 +1,5 @@
 ---
+ceoTitle: How Technology Has Changed How We Celebrate the Holidays
 title: How Technology Changed the Way We Celebrate the Holidays
 draft: false
 publishDate: 2018-12-20T00:00:00.000Z
