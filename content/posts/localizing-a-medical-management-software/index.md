@@ -1,5 +1,5 @@
 ---
-ceoTitle: ""
+ceoTitle: Localizing Medical Management Software for Global Reach
 title: Localizing Medical Management Software
 slug: localizing-a-medical-management-software
 draft: false
