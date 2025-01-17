@@ -1,4 +1,5 @@
 ---
+ceoTitle: "Progressive Web Apps: A Game-Changer in App Development"
 title: How Progressive Web Applications are Changing the Mobile Industry
 slug: progressive-web-apps
 draft: false
