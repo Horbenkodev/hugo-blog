@@ -1,5 +1,5 @@
 ---
-ceoTitle: How to Create Hospital Management Software?
+ceoTitle: "How to Create Hospital Management Software: Step-by-Step Guide"
 title: How to Create Hospital Management Software?
 breadcrumbs: How to Create Hospital Management Software
 slug: how-to-create-hospital-management-software
