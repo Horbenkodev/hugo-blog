@@ -1,4 +1,5 @@
 ---
+ceoTitle: How Educational Software Improves Learning Experience
 title: How to Create Educational Software for Schools
 slug: how-educational-software-improves-learning-experience
 draft: false
