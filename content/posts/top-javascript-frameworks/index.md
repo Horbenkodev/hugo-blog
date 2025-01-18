@@ -1,4 +1,5 @@
 ---
+ceoTitle: "Top JavaScript Frameworks in 2025: Key Trends & Insights"
 title: Top 5 JavaScript Frameworks For Your Projects
 slug: top-javascript-frameworks
 draft: false
