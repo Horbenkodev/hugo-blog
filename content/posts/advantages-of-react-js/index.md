@@ -1,4 +1,5 @@
 ---
+ceoTitle: Advantages of React.js in Modern Web Development
 title: "Advantages of React JS: Open-source JavaScript Library"
 slug: advantages-of-react-js
 draft: false
