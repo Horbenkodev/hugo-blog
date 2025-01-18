@@ -1,5 +1,5 @@
 ---
-ceoTitle: The Use of Predictive Analytics in Education
+ceoTitle: "Predictive Analytics in Education: Transforming Learning Experiences"
 title: The Use of Predictive Analytics in Education
 breadcrumbs: The Use of Predictive Analytics in Education
 slug: predictive-analytics-in-education
