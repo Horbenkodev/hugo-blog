@@ -1,4 +1,5 @@
 ---
+ceoTitle: "The Future of Real Estate Software: What to Expect"
 title: "What is the Future of the Real Estate Software Industry? "
 breadcrumbs: Future of Real Estate Software
 draft: false
