@@ -1,4 +1,5 @@
 ---
+ceoTitle: How to Use Micro-Moments in Website Design for Maximum Impact
 title: How to Use Micro-Moments in Your Website Design
 draft: false
 publishDate: 2019-07-03T00:00:00.000Z
