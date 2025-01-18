@@ -1,4 +1,5 @@
 ---
+ceoTitle: Strategies to Boost Mobile App User Retention
 title: How to Increase Your Mobile App User Retention
 breadcrumbs: Increase Mobile App User Retention
 draft: false
