@@ -1,4 +1,5 @@
 ---
+ceoTitle: "Transforming the Game: How Mobile Apps Are Shaping the Sports Industry"
 title: How Mobile Apps Are Revolutionizing the Sports Industry
 breadcrumbs: Revolution in Sports Mobile Apps
 draft: false
