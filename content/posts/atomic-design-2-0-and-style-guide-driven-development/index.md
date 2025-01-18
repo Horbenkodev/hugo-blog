@@ -1,5 +1,5 @@
 ---
-ceoTitle: " Atomic Design 2.0 and Style Guide Driven Development"
+ceoTitle: Atomic Design 2.0 & Style Guide Driven Development
 title: " Atomic Design 2.0 and Style Guide Driven Development"
 breadcrumbs: " Atomic Design 2.0 and Style Guide Driven Development"
 slug: atomic-design-2-0-and-style-guide-driven-development
