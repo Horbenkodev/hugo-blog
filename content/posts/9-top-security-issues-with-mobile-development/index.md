@@ -1,4 +1,5 @@
 ---
+ceoTitle: 9 Top Security Issues with Mobile Development You Should Know
 title: Top-9 Security Issues with Mobile Development
 breadcrumbs: Mobile App Security
 slug: 9-top-security-issues-with-mobile-development
