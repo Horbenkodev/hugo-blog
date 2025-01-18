@@ -1,4 +1,5 @@
 ---
+ceoTitle: "Streamlining React Development with Recompose: A How-To Guide"
 title: How to Use Recompose to Streamline React Development
 draft: false
 publishDate: 2019-04-16T00:00:00.000Z
