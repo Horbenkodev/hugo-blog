@@ -1,5 +1,5 @@
 ---
-ceoTitle: "Healthcare Future: Integrating Medical Devices with Health Apps"
+ceoTitle: "The Future of Healthcare: Connecting Medical Devices with Health Apps"
 title: "Healthcare Future: Integrating Medical Devices with Health Apps"
 breadcrumbs: Integrating Medical Devices with Health Apps
 slug: healthcare-future-integrating-medical-devices-with-health-apps
