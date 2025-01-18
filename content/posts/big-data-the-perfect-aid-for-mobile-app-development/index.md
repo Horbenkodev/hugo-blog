@@ -1,4 +1,5 @@
 ---
+ceoTitle: "Big Data: The Perfect Aid for Mobile App Development"
 title: Big Data - The Perfect Aid for Mobile App Development
 breadcrumbs: Big Data in Mobile App Development
 slug: big-data-the-perfect-aid-for-mobile-app-development
