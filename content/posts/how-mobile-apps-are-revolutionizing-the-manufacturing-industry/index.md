@@ -1,4 +1,5 @@
 ---
+ceoTitle: "Transforming Manufacturing: The Impact of Mobile Apps"
 title: How Mobile Apps Are Revolutionizing The Manufacturing Industry
 breadcrumbs: Mobile App Development for Manufacturing
 draft: false
