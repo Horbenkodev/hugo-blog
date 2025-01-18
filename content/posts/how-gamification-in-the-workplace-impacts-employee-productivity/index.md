@@ -1,5 +1,5 @@
 ---
-ceoTitle: How Gamification in the Workplace Impacts Employee Productivity
+ceoTitle: The Impact of Workplace Gamification on Employee Productivity
 title: How Gamification in the Workplace Impacts Employee Productivity
 breadcrumbs: Employee Productivity App Development
 slug: how-gamification-in-the-workplace-impacts-employee-productivity
