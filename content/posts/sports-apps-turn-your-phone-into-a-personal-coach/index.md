@@ -1,4 +1,5 @@
 ---
+ceoTitle: "Sports Apps: Transform Your Phone into a Personal Trainer"
 title: "Sports Apps: Turn Your Phone Into a Personal Coach"
 breadcrumbs: Types of Sports Apps
 slug: ""
