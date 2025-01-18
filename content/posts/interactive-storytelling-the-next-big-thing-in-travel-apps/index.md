@@ -1,4 +1,5 @@
 ---
+ceoTitle: "Interactive Storytelling: Revolutionizing the Future of Travel Apps"
 title: "Interactive Storytelling: The Next Big Thing in Travel Apps"
 breadcrumbs: " Interactive Storytelling in Travel Apps"
 draft: false
