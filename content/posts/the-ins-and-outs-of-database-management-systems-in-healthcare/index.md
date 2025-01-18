@@ -1,4 +1,5 @@
 ---
+ceoTitle: Understanding Database Management Systems in Healthcare
 title: The Ins and Outs of Database Management Systems in Healthcare
 draft: false
 publishDate: 2019-06-07T00:00:00.000Z
