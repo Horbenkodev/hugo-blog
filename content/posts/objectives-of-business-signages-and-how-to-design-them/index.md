@@ -1,4 +1,5 @@
 ---
+ceoTitle: Objectives of Business Signages & How to Design Them Effectively
 title: Objectives of Business Signages and How to Design Them
 draft: false
 publishDate: 2018-04-06T00:00:00.000Z
