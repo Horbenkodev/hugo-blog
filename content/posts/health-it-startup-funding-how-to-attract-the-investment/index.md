@@ -1,5 +1,5 @@
 ---
-ceoTitle: "Health IT Startup Funding: Here’s How to Attract the Investment"
+ceoTitle: "Health IT Startup Funding: How to Attract Investment"
 title: "Health IT Startup Funding: Here’s How to Attract the Investment"
 breadcrumbs: Health IT Startup Funding
 slug: health-it-startup-funding-how-to-attract-the-investment
