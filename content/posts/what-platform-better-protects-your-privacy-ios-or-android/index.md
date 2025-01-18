@@ -1,4 +1,5 @@
 ---
+ceoTitle: "iOS vs. Android: Which Platform Offers Better Privacy Protection?"
 title: "What Platform Better Protects Your Privacy: iOS or Android?"
 draft: false
 publishDate: 2019-03-07T00:00:00.000Z
