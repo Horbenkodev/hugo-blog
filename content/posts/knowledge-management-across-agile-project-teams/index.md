@@ -1,4 +1,5 @@
 ---
+ceoTitle: "Knowledge Management Across Agile Project Teams: Best Practices"
 title: Knowledge Management across Agile Project Teams
 breadcrumbs: Agile Teams Knowledge Management
 draft: false
