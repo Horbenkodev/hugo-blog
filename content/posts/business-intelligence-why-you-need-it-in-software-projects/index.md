@@ -1,5 +1,5 @@
 ---
-ceoTitle: "Business Intelligence: Why You Need It in Software Projects?"
+ceoTitle: "Business Intelligence: Why It’s Essential for Software Projects"
 title: "Business Intelligence: Why You Need It in Software Projects?"
 breadcrumbs: "Business Intelligence: Why You Need It in Software Projects?"
 slug: business-intelligence-why-you-need-it-in-software-projects
