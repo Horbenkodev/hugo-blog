@@ -1,4 +1,5 @@
 ---
+ceoTitle: Upcoming Custom Software Development Trends for 2025
 title: Upcoming Custom Software Development Trends
 draft: false
 publishDate: 2017-01-17T00:00:00.000Z
