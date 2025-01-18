@@ -1,8 +1,9 @@
 ---
+ceoTitle: UX Strategies to Increase Sales on Your Real Estate Website
 title: UX Tips to Boost Sales on Your Real Estate Website
 breadcrumbs: Real Estate Website UX
 draft: false
-publishDate: 2018-07-26T00:00:00Z
+publishDate: 2018-07-26T00:00:00.000Z
 image: ux-real-eatate.jpeg
 og_image: ux-real-eatate.jpeg
 description: Every owner of a real estate selling website wants his website to
