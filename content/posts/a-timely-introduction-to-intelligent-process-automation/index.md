@@ -1,5 +1,5 @@
 ---
-ceoTitle: " A Timely Introduction to Intelligent Process Automation"
+ceoTitle: An Essential Guide to Intelligent Process Automation
 title: A Timely Introduction to Intelligent Process Automation
 breadcrumbs: " A Timely Introduction to Intelligent Process Automation"
 slug: a-timely-introduction-to-intelligent-process-automation
