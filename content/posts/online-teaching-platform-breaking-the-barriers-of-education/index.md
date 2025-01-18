@@ -1,4 +1,5 @@
 ---
+ceoTitle: "Online Teaching Platforms: Redefining the Boundaries of Education"
 title: "Online Teaching Platform: Breaking the Barriers of Education"
 breadcrumbs: Online Teaching Platform Development
 slug: ""
