@@ -1,4 +1,5 @@
 ---
+ceoTitle: "From User Preferences to Ad Revenue: The Journey of Online Ads"
 title: "The Life Cycle of Online Ads: from User Preferences to Ad Revenue"
 breadcrumbs: The Life Cycle of Online Ads
 slug: ""
