@@ -1,6 +1,6 @@
 ---
 ceoTitle: Happy 19th Birthday, Anadea! Celebrating Our Journey
-title: Happy 19th Birthday, Anadea! Celebrating Our Journey
+title: "Happy 19th Birthday, Anadea! "
 breadcrumbs: Happy 19th Birthday, Anadea!
 slug: happy-19th-birthday-anadea-journey
 draft: false
