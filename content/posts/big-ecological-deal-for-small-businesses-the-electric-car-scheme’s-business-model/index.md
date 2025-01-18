@@ -1,4 +1,6 @@
 ---
+ceoTitle: "Small Businesses and the Big Ecological Shift: The Electric Car
+  Scheme Explained"
 title: Big Ecological Deal for Small Businesses. The Electric Car Scheme’s
   Business Model
 draft: false
