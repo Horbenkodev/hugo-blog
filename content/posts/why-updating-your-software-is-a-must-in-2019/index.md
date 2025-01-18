@@ -1,4 +1,5 @@
 ---
+ceoTitle: Why Updating Your Software Is a Must for Business Success
 title: Why Updating Your Software is a Must
 slug: why-updating-your-software-is-a-must-in-2019
 draft: false
