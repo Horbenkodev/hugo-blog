@@ -1,4 +1,5 @@
 ---
+ceoTitle: "Creating a Professional Medical App: A Guide for Doctors"
 title: How to Develop a Professional Medical App for Doctors
 draft: false
 publishDate: 2022-09-16T00:00:00.000Z
