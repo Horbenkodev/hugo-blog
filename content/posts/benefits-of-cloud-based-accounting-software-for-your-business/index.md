@@ -1,5 +1,5 @@
 ---
-ceoTitle: Benefits of Cloud-Based Accounting Software for Your Business
+ceoTitle: How Cloud-Based Accounting Software Can Benefit Your Business
 title: Benefits of Cloud-Based Accounting Software for Your Business
 breadcrumbs: Benefits of Cloud-Based Accounting Software for Your Business
 slug: benefits-of-cloud-based-accounting-software-for-your-business
