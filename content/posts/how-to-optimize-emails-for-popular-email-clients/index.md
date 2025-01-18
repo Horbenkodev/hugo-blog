@@ -1,5 +1,5 @@
 ---
-ceoTitle: How to Optimize Your Emails for Most Popular Email Clients
+ceoTitle: "Optimizing Emails for the Top Email Clients: A Complete Guide"
 title: How to Optimize Your Emails for Most Popular Email Clients
 breadcrumbs: Email Optimization
 slug: how-to-optimize-emails-for-popular-email-clients
