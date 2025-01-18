@@ -1,5 +1,5 @@
 ---
-ceoTitle: " All You Need to Know About Public & Private Blockchains"
+ceoTitle: "Public and Private Blockchains: Key Differences"
 title: All You Need to Know About Public & Private Blockchains
 breadcrumbs: Public VS Private Blockchains
 slug: public-and-private-blockchains
