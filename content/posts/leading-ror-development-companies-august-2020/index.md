@@ -1,5 +1,5 @@
 ---
-ceoTitle: Anadea is Among Top Ruby On Rails Development Companies of August 2020
+ceoTitle: Leading Ruby on Rails Development Companies (August 2020)
 title: " Anadea is Among Top Ruby On Rails Development Companies of August 2020"
 breadcrumbs: Anadea is Among Top Ruby On Rails Development Companies of August 2020
 slug: leading-ror-development-companies-august-2020
