@@ -1,5 +1,5 @@
 ---
-ceoTitle: "Carrierwave: How to Avoid Issues with Version Inheritance"
+ceoTitle: "Version Inheritance in Carrierwave: A Guide for Developers"
 title: "Carrierwave: How to Avoid Issues with Version Inheritance"
 breadcrumbs: "Carrierwave: How to Avoid Issues with Version Inheritance"
 slug: version-inheritance-in-carrierwave
