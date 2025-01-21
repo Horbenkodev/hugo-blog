@@ -1,8 +1,8 @@
 ---
-ceoTitle: "Fantasy cricket app development: Guide for businesses 2024"
-title: "Fantasy cricket app development: What you should know in 2024"
+ceoTitle: "Fantasy cricket app development: Guide for businesses 2025"
+title: "Fantasy Cricket App Development: What You Should Know In 2025"
 breadcrumbs: Fantasy cricket app development
-slug: fantasy-cricket-app-development-guide-2024
+slug: fantasy-cricket-app-development-guide-2025
 draft: false
 publishDate: 2024-11-27T17:13:00+02:00
 image: man-white-uniform-is-playing-cricket-is-about-hit-ball.jpg
