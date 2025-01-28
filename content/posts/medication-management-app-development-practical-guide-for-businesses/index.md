@@ -285,7 +285,7 @@ To get accurate estimates, you need to contact your development partner. At Anad
 
 When you are planning to build a custom medication management solution, it is very important to find a reliable team that will support you in your project realization. It’s vital to establish cooperation with professionals who already have relevant experience. Here, we are talking not only about tech skills but also about a good understanding of the domain in which you work. Only specialists with specific expertise will be able to efficiently address the existing [tech challenges](https://anadea.info/blog/technology-challenges-in-healthcare/) in the healthcare space. 
 
-At Anadea, we have been successfully working in the software development industry since 2000. Over this period of time, we have delivered more than 600 projects of various types for different markets. Healthcare has always been one of our focus areas, which our rich [portfolio](https://anadea.info/projects-b2b#healthcare) can well demonstrate.
+At Anadea, we have been successfully working in the software development industry since 2000. Over this period of time, we have delivered more than 600 projects of various types for different markets. Healthcare has always been one of our focus areas, which our rich [portfolio](https://anadea.info/projects) can well demonstrate.
 
 We always do our best to continuously track all the trends in the industry and know how to address the existing issues with the power of emerging technologies.
 
