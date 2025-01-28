@@ -116,7 +116,7 @@ When you want to build your own fitness app, you need to decide on the exact set
 
 ![Key features of fitness apps](Key_Features_of_Fitness_Apps.png)
 
-Fitness apps have a lot in common with solutions developed for the sports industry. With this in mind, take a look at our guide on <a href="https://anadea.info/blog/how-to-develop-sports-app" target="_blank">how to develop a sports app</a>: it can be valuable for building a fitness app as well.
+
 
 {{< advert_with_cta title="Your fitness app awaits!" description="Request a free quote from app developers" button="Send your request" >}}
 
