@@ -208,7 +208,7 @@ To better understand the size of the investment, we suggest you [request a quote
 
 ## Our expertise in hospital management software development
 
-Our team successfully works with clients from various industries. We deeply understand the needs of different markets and can offer efficient solutions for their pains. One of the domains in which we have broad expertise is healthcare. This can be proven by our [software development portfolio](https://anadea.info/projects-b2b#healthcare).
+Our team successfully works with clients from various industries. We deeply understand the needs of different markets and can offer efficient solutions for their pains. One of the domains in which we have broad expertise is healthcare. This can be proven by our [software development portfolio](https://anadea.info/projects).
 
 One of the projects we put our hand in was a multi-tenant software solution for therapists dubbed Gogoof. This cloud-based solution is intended to help medical specialists in scheduling appointments with their patients. Moreover, Gogoof facilitates the process of tracking real-time patient data.
 
