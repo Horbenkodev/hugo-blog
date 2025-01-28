@@ -90,17 +90,11 @@ Passionate sports fans can encourage other people to become fans. Very often whe
 As we’ve mentioned earlier, such solutions may come in various formats and types which explains why the list of their features can greatly differ. We offer you to consider the following options for your platform.
 
 1. **News feed**. At first glance, it may seem to be a too simple feature but that’s exactly what your fans may need. You can publish all the most recent information in one place and make it convenient for users to track your updates.
-
 2. **Polls and voting.** Various surveys will help you get valuable insight into the thoughts and preferences of your target audience. At the same time, your fans will feel that their opinions matter.
-
 3. **Photo/video gallery.** You can share high-quality content from matches and conferences as well as some casual photos and videos of team members.
-
 4. **Online store.** You can sell merchandise directly via your app. But in this case, do not forget to take care of the security and reliability of payments.
-
 5. **Online chat/forum.** You can build features that will allow users to communicate with each other. Moreover, you can provide a possibility for fans to ask questions directly to the team.
-
 6. **Live streaming.** This feature will let fans watch matches in real time even if they do not have the possibility to attend a stadium.
-
 7. **Gamification elements**. It would be a cool idea to organize various contests and quizzes that will be able to boost fan engagement. To encourage more fans to take part in such activities, you will need to offer attractive prizes related to the team.
 
 ![Features for sports fan engagement app infographic](Features_for_Sports_Engagement_Platforms.png)
@@ -135,19 +129,14 @@ You can also read about one of our other solutions built for the sports market b
 
 ## Sports fan engagement app development process
 
-Our team has rich experience in <a href="https://anadea.info/blog/how-to-develop-sports-app" target="_blank">building solutions for the sports industry</a> which allows us to gain a deep understanding of how this process should be organized. Though different development teams may have different visions of the steps that should be included in the project realization, at Anadea, we always recommend our customers keep in mind the following plan.
+Our team has rich experience in building solutions for the sports industry which allows us to gain a deep understanding of how this process should be organized. Though different development teams may have different visions of the steps that should be included in the project realization, at Anadea, we always recommend our customers keep in mind the following plan.
 
-- **Step 1. Study the needs of your fan base.** It is vital to start with an analysis of the interests and preferences of your target audience. Based on this, you will be able to understand what type of fan engagement technology you should invest in, what kind of software should you develop, and what strategies in building interaction with your fans you should apply.
-
-- **Step 2. Create the general idea and prepare your requirements**. When you know what your fans like, you can already build a common concept of your future product, decide on the core features that it will have, and think about the experiences that it will provide to the audience.
-
-- **Step 3. Discuss your project with a development team.** The team should deeply study your requirements, make estimates, prepare a plan, and set timeframes for your project realization. Here you will need to define the key milestone for the development process, speak about the general approaches to product creation, and choose the technologies that will be used.
-
-- **Step 4. Build your solution.** This step traditionally includes a lot of tasks for developers and designers who will create your product in accordance with the set requirements. Quite often before developing a full-scale platform, we recommend our customers build an MVP with a limited set of features. In such a way you can test your idea and have the possibility to introduce the required changes without serious financial losses.
-
-- **Step 5. Test your product.** This stage is highly important as you need to find and fix all the bugs before users start their interaction with your platform.
-
-- **Step 6. Launch your product and further provide the required tech support.** When you are satisfied with the performance and quality of your software, it can be released. Also, you need to regularly track its functioning to address possible issues and introduce necessary updates.
+* **Step 1. Study the needs of your fan base.** It is vital to start with an analysis of the interests and preferences of your target audience. Based on this, you will be able to understand what type of fan engagement technology you should invest in, what kind of software should you develop, and what strategies in building interaction with your fans you should apply.
+* **Step 2. Create the general idea and prepare your requirements**. When you know what your fans like, you can already build a common concept of your future product, decide on the core features that it will have, and think about the experiences that it will provide to the audience.
+* **Step 3. Discuss your project with a development team.** The team should deeply study your requirements, make estimates, prepare a plan, and set timeframes for your project realization. Here you will need to define the key milestone for the development process, speak about the general approaches to product creation, and choose the technologies that will be used.
+* **Step 4. Build your solution.** This step traditionally includes a lot of tasks for developers and designers who will create your product in accordance with the set requirements. Quite often before developing a full-scale platform, we recommend our customers build an MVP with a limited set of features. In such a way you can test your idea and have the possibility to introduce the required changes without serious financial losses.
+* **Step 5. Test your product.** This stage is highly important as you need to find and fix all the bugs before users start their interaction with your platform.
+* **Step 6. Launch your product and further provide the required tech support.** When you are satisfied with the performance and quality of your software, it can be released. Also, you need to regularly track its functioning to address possible issues and introduce necessary updates.
 
 {{< ctabutton url="https://anadea.info/contacts" >}}Contact our team{{< /ctabutton >}}
 
