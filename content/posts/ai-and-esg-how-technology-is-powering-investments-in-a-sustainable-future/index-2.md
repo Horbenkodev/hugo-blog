@@ -2,7 +2,7 @@
 ceoTitle: "AI and ESG: The perfect pair for a sustainable world"
 title: "AI and ESG: How technology is powering investments in a sustainable future"
 breadcrumbs: "AI and ESG: The perfect pair for a sustainable world"
-slug: how-ai-powers-environmental-social-governance-investments
+slug: how-ai-powers-environmental-social-governance
 draft: false
 publishDate: 2025-02-10T16:55:00+02:00
 image: abstract-green-striped-nature-background.jpg
