@@ -18,6 +18,7 @@ authors:
 categories:
   - ai-ml
   - business
+  - trends
 questionary:
   - question: What is ESG investing?
     answer: >-
