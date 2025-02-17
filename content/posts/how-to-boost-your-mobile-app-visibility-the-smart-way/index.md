@@ -1,5 +1,5 @@
 ---
-ceoTitle: "How to Boost Your Mobile App Visibility: The Smart Way"
+ceoTitle: Boost Mobile App Visibility – Smart SEO Strategies
 title: "How to Boost Your Mobile App Visibility: The Smart Way"
 breadcrumbs: Boost App Visibility
 draft: false
