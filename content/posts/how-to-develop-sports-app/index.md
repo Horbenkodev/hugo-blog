@@ -1,6 +1,6 @@
 ---
-ceoTitle: How to Develop a Sports App - Step-by-Step Guide
-title: How to Develop a Sports App - Step-by-Step Guide
+ceoTitle: Develop a Sports App – Features & Best Practices
+title: How to Develop a Sports App – Step-by-Step Guide
 breadcrumbs: " Sports App Development"
 slug: how-to-develop-sports-app-guide
 draft: false
