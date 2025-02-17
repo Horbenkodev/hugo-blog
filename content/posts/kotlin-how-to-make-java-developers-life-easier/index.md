@@ -1,8 +1,9 @@
 ---
+ceoTitle: Kotlin for Java Developers – Simplify Your Coding
 title: "Kotlin: How to Make a Java Developer's Life Easier?"
 breadcrumbs: Kotlin Overview
 draft: false
-publishDate: 2016-12-07T00:00:00Z
+publishDate: 2016-12-07T00:00:00.000Z
 image: Kotlin-for-java-developers.jpg
 og_image: Kotlin-for-java-developers.jpg
 description: On February 15, 2016 JetBrains company released v1.0 of Kotlin.
