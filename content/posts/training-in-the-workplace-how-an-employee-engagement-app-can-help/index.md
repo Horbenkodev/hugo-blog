@@ -1,4 +1,5 @@
 ---
+ceoTitle: Employee Engagement Apps – Enhance Workplace Training
 title: "Training in the Workplace: How an Employee Engagement App can Help"
 draft: false
 publishDate: 2019-04-17T00:00:00.000Z
