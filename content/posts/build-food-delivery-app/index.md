@@ -1,10 +1,10 @@
 ---
-ceoTitle: ""
+ceoTitle: Build a Food Delivery App – Features & Development Guide
 title: " Steps to Building a Food Delivery App"
 breadcrumbs: ""
 slug: build-food-delivery-app
 draft: false
-publishDate: 2020-11-23T00:00:00Z
+publishDate: 2020-11-23T00:00:00.000Z
 image: larch-conifer-cone-branch-tree-40896.jpeg
 og_image: larch-conifer-cone-branch-tree-40896.jpeg
 description: Learn what core features you need to build a delivery app, how much
