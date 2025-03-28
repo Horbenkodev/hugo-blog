@@ -41,7 +41,7 @@ However, to fully leverage the [benefits of cloud computing](https://anadea.info
 
 In 2024, the global cloud services market size reached US$618 billion. Now it is expected to hit the mark of around [US$2,726.94 billion](https://www.precedenceresearch.com/cloud-services-market) by 2034, which means that a CAGR over the forecast period will be 16%.
 
-![](cloud-services-market-size 2024-to-2034-usd-billion-.png)
+!\[](cloud-services-market-size 2024-to-2034-usd-billion-.png)
 
 In 2025, cloud computing continues to evolve in accordance with general tech trends and changing business needs.
 
@@ -49,7 +49,7 @@ For example, it’s worth mentioning that organizations are increasingly adoptin
 
 According to the recently published [report](https://www.rackspace.com/blog/2025-state-cloud-report), in 2025, nearly 27% of businesses are expected to rely on private clouds. At the same time, 17% will use hybrid solutions. It is interesting that 48% of respondents admitted that hybrid cloud solutions will be of significant importance for their IT operations within the next 1-2 years.
 
-![](key-components-of decentralized-blockchain-architecture-1-.png)
+!\[](key-components-of decentralized-blockchain-architecture-1-.png)
 
 The integration of [Artificial Intelligence (AI)](https://anadea.info/services/ai-software-development) into cloud services is among other trends in this space. Cloud providers are investing heavily in AI capabilities. Many of them can offer access to such features as advanced analytics, machine learning, and natural language processing tools. This can fully revolutionize the way businesses work with vast amounts of data.
 
@@ -157,33 +157,33 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 ### Comparison of Top Cloud Platforms
 
-<table>
+<table style="width: 591px;">
 
 <thead>
 
 <tr>
 
-<th>&nbsp;</th>
+<th style="width: 35px;">&nbsp;</th>
 
-<th>
+<th style="width: 123.172px;">
 
 <p><strong>AWS</strong></p>
 
 </th>
 
-<th>
+<th style="width: 135.828px;">
 
 <p><strong>Azure</strong></p>
 
 </th>
 
-<th>
+<th style="width: 134px;">
 
 <p><strong>GCP</strong></p>
 
 </th>
 
-<th>
+<th style="width: 123px;">
 
 <p><strong>DigitalOcean</strong></p>
 
@@ -197,31 +197,31 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 <tr>
 
-<td>
+<td style="width: 35px;">
 
 <p><span style="font-weight: 400;">Best for</span></p>
 
 </td>
 
-<td>
+<td style="width: 123.172px;">
 
 <p><span style="font-weight: 400;">Businesses looking for a range of services and global infrastructure</span></p>
 
 </td>
 
-<td>
+<td style="width: 135.828px;">
 
 <p><span style="font-weight: 400;">Organizations that work within the Microsoft ecosystem and need hybrid cloud solutions</span></p>
 
 </td>
 
-<td>
+<td style="width: 134px;">
 
 <p><span style="font-weight: 400;">Data-driven projects and businesses leveraging AI/ML capabilities</span></p>
 
 </td>
 
-<td>
+<td style="width: 123px;">
 
 <p><span style="font-weight: 400;">SMBs and developers seeking cost-efficient and simple solutions</span></p>
 
@@ -231,13 +231,13 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 <tr>
 
-<td>
+<td style="width: 35px;">
 
 <p><span style="font-weight: 400;">Pros</span></p>
 
 </td>
 
-<td>
+<td style="width: 123.172px;">
 
 <p><span style="font-weight: 400;">Service offerings covering compute, storage, AI/ML, and more;</span></p>
 
@@ -251,7 +251,7 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 </td>
 
-<td>
+<td style="width: 135.828px;">
 
 <p><span style="font-weight: 400;">Seamless integration with Microsoft products;</span></p>
 
@@ -265,7 +265,7 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 </td>
 
-<td>
+<td style="width: 134px;">
 
 <p><span style="font-weight: 400;">Powerful data analytics and ML tools;</span></p>
 
@@ -279,7 +279,7 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 </td>
 
-<td>
+<td style="width: 123px;">
 
 <p><span style="font-weight: 400;">User-friendly interface;</span></p>
 
@@ -297,13 +297,13 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 <tr>
 
-<td>
+<td style="width: 35px;">
 
 <p><span style="font-weight: 400;">Cons</span></p>
 
 </td>
 
-<td>
+<td style="width: 123.172px;">
 
 <p><span style="font-weight: 400;">Complex pricing structure;</span></p>
 
@@ -313,7 +313,7 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 </td>
 
-<td>
+<td style="width: 135.828px;">
 
 <p><span style="font-weight: 400;">Rather confusing pricing and subscription models;</span></p>
 
@@ -323,7 +323,7 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 </td>
 
-<td>
+<td style="width: 134px;">
 
 <p><span style="font-weight: 400;">Fewer global data centers compared to AWS and Azure;</span></p>
 
@@ -331,7 +331,7 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 </td>
 
-<td>
+<td style="width: 123px;">
 
 <p><span style="font-weight: 400;">Limited enterprise features compared to many other cloud providers;</span></p>
 
@@ -345,31 +345,31 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 <tr>
 
-<td>
+<td style="width: 35px;">
 
 <p><span style="font-weight: 400;">Pricing&nbsp;</span></p>
 
 </td>
 
-<td>
+<td style="width: 123.172px;">
 
 <p><span style="font-weight: 400;">Pay-as-you-go model</span></p>
 
 </td>
 
-<td>
+<td style="width: 135.828px;">
 
 <p><span style="font-weight: 400;">Pay-as-you-go pricing</span></p>
 
 </td>
 
-<td>
+<td style="width: 134px;">
 
 <p><span style="font-weight: 400;">Pay-as-you-go model</span></p>
 
 </td>
 
-<td>
+<td style="width: 123px;">
 
 <p><span style="font-weight: 400;">Structured pricing for different cloud offerings</span></p>
 
@@ -379,19 +379,19 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 <tr>
 
-<td>
+<td style="width: 35px;">
 
 <p><span style="font-weight: 400;">Free trial</span></p>
 
 </td>
 
-<td>
+<td style="width: 123.172px;">
 
 <p><span style="font-weight: 400;">Three different types of free offers (including a 12-month free period)</span></p>
 
 </td>
 
-<td>
+<td style="width: 135.828px;">
 
 <p><span style="font-weight: 400;">Free account with $200 credit</span></p>
 
@@ -399,13 +399,13 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 </td>
 
-<td>
+<td style="width: 134px;">
 
 <p><span style="font-weight: 400;">$300 in free credits for new users to test and deploy workloads</span></p>
 
 </td>
 
-<td>
+<td style="width: 123px;">
 
 <p><span style="font-weight: 400;">60-day trial period with free $200 credit</span></p>
 
@@ -415,31 +415,31 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 <tr>
 
-<td>
+<td style="width: 35px;">
 
 <p><span style="font-weight: 400;">Storage</span></p>
 
 </td>
 
-<td>
+<td style="width: 123.172px;">
 
 <p><span style="font-weight: 400;">Scalable storage solutions like S3 for object storage and EBS for block storage</span></p>
 
 </td>
 
-<td>
+<td style="width: 135.828px;">
 
 <p><span style="font-weight: 400;">Solutions like Blob Storage and Disk Storage suitable for businesses with different needs</span></p>
 
 </td>
 
-<td>
+<td style="width: 134px;">
 
 <p><span style="font-weight: 400;">Scalable managed solutions, including Cloud Storage service for storing unstructured data</span></p>
 
 </td>
 
-<td>
+<td style="width: 123px;">
 
 <p><span style="font-weight: 400;">Scalable block storage and S3-compatible object storage solutions</span></p>
 
@@ -449,31 +449,31 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 <tr>
 
-<td>
+<td style="width: 35px;">
 
 <p><span style="font-weight: 400;">AI/ML tools</span></p>
 
 </td>
 
-<td>
+<td style="width: 123.172px;">
 
 <p><span style="font-weight: 400;">Comprehensive suite including SageMaker for building, training, and deploying models</span></p>
 
 </td>
 
-<td>
+<td style="width: 135.828px;">
 
 <p><span style="font-weight: 400;">Azure Machine Learning allows organizations to build and deploy models</span></p>
 
 </td>
 
-<td>
+<td style="width: 134px;">
 
 <p><span style="font-weight: 400;">Wide range of AI and machine learning products, including Vertex AI Agent Builder</span></p>
 
 </td>
 
-<td>
+<td style="width: 123px;">
 
 <p><span style="font-weight: 400;">Basic AI/ML capabilities suitable for smaller projects</span></p>
 
