@@ -157,33 +157,33 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 ### Comparison of Top Cloud Platforms
 
-<table style="width: 591px;">
+<table>
 
 <thead>
 
 <tr>
 
-<th style="width: 35px;">&nbsp;</th>
+<th>&nbsp;</th>
 
-<th style="width: 123.172px;">
+<th>
 
 <p><strong>AWS</strong></p>
 
 </th>
 
-<th style="width: 135.828px;">
+<th>
 
 <p><strong>Azure</strong></p>
 
 </th>
 
-<th style="width: 134px;">
+<th>
 
 <p><strong>GCP</strong></p>
 
 </th>
 
-<th style="width: 123px;">
+<th>
 
 <p><strong>DigitalOcean</strong></p>
 
@@ -197,31 +197,31 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 <tr>
 
-<td style="width: 35px;">
+<td>
 
 <p><span style="font-weight: 400;">Best for</span></p>
 
 </td>
 
-<td style="width: 123.172px;">
+<td>
 
 <p><span style="font-weight: 400;">Businesses looking for a range of services and global infrastructure</span></p>
 
 </td>
 
-<td style="width: 135.828px;">
+<td>
 
 <p><span style="font-weight: 400;">Organizations that work within the Microsoft ecosystem and need hybrid cloud solutions</span></p>
 
 </td>
 
-<td style="width: 134px;">
+<td>
 
 <p><span style="font-weight: 400;">Data-driven projects and businesses leveraging AI/ML capabilities</span></p>
 
 </td>
 
-<td style="width: 123px;">
+<td>
 
 <p><span style="font-weight: 400;">SMBs and developers seeking cost-efficient and simple solutions</span></p>
 
@@ -231,13 +231,13 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 <tr>
 
-<td style="width: 35px;">
+<td>
 
 <p><span style="font-weight: 400;">Pros</span></p>
 
 </td>
 
-<td style="width: 123.172px;">
+<td>
 
 <p><span style="font-weight: 400;">Service offerings covering compute, storage, AI/ML, and more;</span></p>
 
@@ -251,7 +251,7 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 </td>
 
-<td style="width: 135.828px;">
+<td>
 
 <p><span style="font-weight: 400;">Seamless integration with Microsoft products;</span></p>
 
@@ -265,7 +265,7 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 </td>
 
-<td style="width: 134px;">
+<td>
 
 <p><span style="font-weight: 400;">Powerful data analytics and ML tools;</span></p>
 
@@ -279,7 +279,7 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 </td>
 
-<td style="width: 123px;">
+<td>
 
 <p><span style="font-weight: 400;">User-friendly interface;</span></p>
 
@@ -297,13 +297,13 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 <tr>
 
-<td style="width: 35px;">
+<td>
 
 <p><span style="font-weight: 400;">Cons</span></p>
 
 </td>
 
-<td style="width: 123.172px;">
+<td>
 
 <p><span style="font-weight: 400;">Complex pricing structure;</span></p>
 
@@ -313,7 +313,7 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 </td>
 
-<td style="width: 135.828px;">
+<td>
 
 <p><span style="font-weight: 400;">Rather confusing pricing and subscription models;</span></p>
 
@@ -323,7 +323,7 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 </td>
 
-<td style="width: 134px;">
+<td>
 
 <p><span style="font-weight: 400;">Fewer global data centers compared to AWS and Azure;</span></p>
 
@@ -331,7 +331,7 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 </td>
 
-<td style="width: 123px;">
+<td>
 
 <p><span style="font-weight: 400;">Limited enterprise features compared to many other cloud providers;</span></p>
 
@@ -345,31 +345,31 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 <tr>
 
-<td style="width: 35px;">
+<td>
 
 <p><span style="font-weight: 400;">Pricing&nbsp;</span></p>
 
 </td>
 
-<td style="width: 123.172px;">
+<td>
 
 <p><span style="font-weight: 400;">Pay-as-you-go model</span></p>
 
 </td>
 
-<td style="width: 135.828px;">
+<td>
 
 <p><span style="font-weight: 400;">Pay-as-you-go pricing</span></p>
 
 </td>
 
-<td style="width: 134px;">
+<td>
 
 <p><span style="font-weight: 400;">Pay-as-you-go model</span></p>
 
 </td>
 
-<td style="width: 123px;">
+<td>
 
 <p><span style="font-weight: 400;">Structured pricing for different cloud offerings</span></p>
 
@@ -379,19 +379,19 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 <tr>
 
-<td style="width: 35px;">
+<td>
 
 <p><span style="font-weight: 400;">Free trial</span></p>
 
 </td>
 
-<td style="width: 123.172px;">
+<td>
 
 <p><span style="font-weight: 400;">Three different types of free offers (including a 12-month free period)</span></p>
 
 </td>
 
-<td style="width: 135.828px;">
+<td>
 
 <p><span style="font-weight: 400;">Free account with $200 credit</span></p>
 
@@ -399,13 +399,13 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 </td>
 
-<td style="width: 134px;">
+<td>
 
 <p><span style="font-weight: 400;">$300 in free credits for new users to test and deploy workloads</span></p>
 
 </td>
 
-<td style="width: 123px;">
+<td>
 
 <p><span style="font-weight: 400;">60-day trial period with free $200 credit</span></p>
 
@@ -415,31 +415,31 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 <tr>
 
-<td style="width: 35px;">
+<td>
 
 <p><span style="font-weight: 400;">Storage</span></p>
 
 </td>
 
-<td style="width: 123.172px;">
+<td>
 
 <p><span style="font-weight: 400;">Scalable storage solutions like S3 for object storage and EBS for block storage</span></p>
 
 </td>
 
-<td style="width: 135.828px;">
+<td>
 
 <p><span style="font-weight: 400;">Solutions like Blob Storage and Disk Storage suitable for businesses with different needs</span></p>
 
 </td>
 
-<td style="width: 134px;">
+<td>
 
 <p><span style="font-weight: 400;">Scalable managed solutions, including Cloud Storage service for storing unstructured data</span></p>
 
 </td>
 
-<td style="width: 123px;">
+<td>
 
 <p><span style="font-weight: 400;">Scalable block storage and S3-compatible object storage solutions</span></p>
 
@@ -449,31 +449,31 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 <tr>
 
-<td style="width: 35px;">
+<td>
 
 <p><span style="font-weight: 400;">AI/ML tools</span></p>
 
 </td>
 
-<td style="width: 123.172px;">
+<td>
 
 <p><span style="font-weight: 400;">Comprehensive suite including SageMaker for building, training, and deploying models</span></p>
 
 </td>
 
-<td style="width: 135.828px;">
+<td>
 
 <p><span style="font-weight: 400;">Azure Machine Learning allows organizations to build and deploy models</span></p>
 
 </td>
 
-<td style="width: 134px;">
+<td>
 
 <p><span style="font-weight: 400;">Wide range of AI and machine learning products, including Vertex AI Agent Builder</span></p>
 
 </td>
 
-<td style="width: 123px;">
+<td>
 
 <p><span style="font-weight: 400;">Basic AI/ML capabilities suitable for smaller projects</span></p>
 
