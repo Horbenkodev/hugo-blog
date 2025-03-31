@@ -159,329 +159,615 @@ Moreover, it has quite predictable pricing, which is highly important for budget
 
 <table>
 
+
+
 <thead>
+
+
 
 <tr>
 
-<th>&nbsp;</th>
 
-<th>
 
-<p><strong>AWS</strong></p>
+<th>AWS</th>
 
-</th>
 
-<th>
 
-<p><strong>Azure</strong></p>
+<th>Azure</th>
 
-</th>
 
-<th>
 
-<p><strong>GCP</strong></p>
+<th>GCP</th>
 
-</th>
 
-<th>
 
-<p><strong>DigitalOcean</strong></p>
+<th>DigitalOcean</th>
 
-</th>
+
 
 </tr>
+
+
 
 </thead>
 
+
+
+
+
+
+
 <tbody>
 
-<tr>
 
-<td>
 
-<p><span style="font-weight: 400;">Best for</span></p>
+<tr><td colspan="4">Best for</td></tr>
 
-</td>
 
-<td>
 
-<p><span style="font-weight: 400;">Businesses looking for a range of services and global infrastructure</span></p>
 
-</td>
 
-<td>
 
-<p><span style="font-weight: 400;">Organizations that work within the Microsoft ecosystem and need hybrid cloud solutions</span></p>
-
-</td>
-
-<td>
-
-<p><span style="font-weight: 400;">Data-driven projects and businesses leveraging AI/ML capabilities</span></p>
-
-</td>
-
-<td>
-
-<p><span style="font-weight: 400;">SMBs and developers seeking cost-efficient and simple solutions</span></p>
-
-</td>
-
-</tr>
 
 <tr>
 
-<td>
 
-<p><span style="font-weight: 400;">Pros</span></p>
 
-</td>
+<td>Businesses looking for a range of services and global infrastructure</td>
 
-<td>
 
-<p><span style="font-weight: 400;">Service offerings covering compute, storage, AI/ML, and more;</span></p>
 
-<br />
 
-<p><span style="font-weight: 400;">Numerous data centers all across the globe;</span></p>
 
-<br />
 
-<p><span style="font-weight: 400;">Robust security features and compliance certifications.</span></p>
 
-</td>
+<td>Organizations that work within the Microsoft ecosystem and need
 
-<td>
 
-<p><span style="font-weight: 400;">Seamless integration with Microsoft products;</span></p>
 
-<br />
+hybrid cloud solutions</td>
 
-<p><span style="font-weight: 400;">Extensive global reach with numerous data centers;</span></p>
 
-<br />
 
-<p><span style="font-weight: 400;">Strong support for hybrid cloud deployments.</span></p>
 
-</td>
 
-<td>
 
-<p><span style="font-weight: 400;">Powerful data analytics and ML tools;</span></p>
 
-<br />
+<td>Data-driven projects and businesses leveraging AI/ML capabilities</td>
 
-<p><span style="font-weight: 400;">Competitive pricing;</span></p>
 
-<br />
 
-<p><span style="font-weight: 400;">Integration with Google's open-source technologies like Kubernetes.</span></p>
 
-</td>
 
-<td>
 
-<p><span style="font-weight: 400;">User-friendly interface;</span></p>
 
-<br />
+<td>SMBs and developers seeking cost-efficient and simple solutions</td>
 
-<p><span style="font-weight: 400;">Straightforward setup processes;</span></p>
 
-<br />
-
-<p><span style="font-weight: 400;">Transparent pricing models.</span></p>
-
-</td>
 
 </tr>
+
+
+
+
+
+
+
+<tr><td colspan="4">Pros</td></tr>
+
+
+
+
+
+
 
 <tr>
 
-<td>
 
-<p><span style="font-weight: 400;">Cons</span></p>
-
-</td>
 
 <td>
 
-<p><span style="font-weight: 400;">Complex pricing structure;</span></p>
+
+
+Service offerings covering compute, storage, AI/ML, and more;
+
+
 
 <br />
 
-<p><span style="font-weight: 400;">Steep learning curve due to the vast array of available services.</span></p>
 
-</td>
 
-<td>
+Numerous data centers all across the globe;
 
-<p><span style="font-weight: 400;">Rather confusing pricing and subscription models;</span></p>
+
 
 <br />
 
-<p><span style="font-weight: 400;">Some services may have limitations compared to competitors.</span></p>
+
+
+Robust security features and compliance certifications.
+
+
 
 </td>
 
-<td>
 
-<p><span style="font-weight: 400;">Fewer global data centers compared to AWS and Azure;</span></p>
-
-<p><span style="font-weight: 400;">Smaller market share.</span></p>
-
-</td>
 
 <td>
 
-<p><span style="font-weight: 400;">Limited enterprise features compared to many other cloud providers;</span></p>
+
+
+Seamless integration with Microsoft products;
+
+
 
 <br />
 
-<p><span style="font-weight: 400;">Linux-centric platform with no native support for Windows.</span></p>
+
+
+Extensive global reach with numerous data centers;
+
+
+
+<br />
+
+
+
+Strong support for hybrid cloud deployments.
+
+
 
 </td>
 
+
+
+<td>
+
+
+
+Powerful data analytics and ML tools;
+
+
+
+<br />
+
+
+
+Competitive pricing;
+
+
+
+<br />
+
+
+
+Integration with Google's open-source technologies like Kubernetes.
+
+
+
+</td>
+
+
+
+<td>
+
+
+
+User-friendly interface;
+
+
+
+<br />
+
+
+
+Straightforward setup processes;
+
+
+
+<br />
+
+
+
+Transparent pricing models.
+
+
+
+</td>
+
+
+
 </tr>
+
+
+
+
+
+
+
+<tr><td colspan="4">Cons</td></tr>
+
+
+
+
+
+
 
 <tr>
 
-<td>
 
-<p><span style="font-weight: 400;">Pricing&nbsp;</span></p>
 
-</td>
+<td>Complex pricing structure;<br />
 
-<td>
 
-<p><span style="font-weight: 400;">Pay-as-you-go model</span></p>
 
-</td>
+Steep learning curve due to the vast array of available services.
 
-<td>
 
-<p><span style="font-weight: 400;">Pay-as-you-go pricing</span></p>
 
 </td>
 
+
+
+
+
+
+
 <td>
 
-<p><span style="font-weight: 400;">Pay-as-you-go model</span></p>
+
+
+Rather confusing pricing and subscription models;
+
+
+
+<br />Some services may have limitations compared to competitors.
+
+
 
 </td>
 
+
+
+
+
+
+
 <td>
 
-<p><span style="font-weight: 400;">Structured pricing for different cloud offerings</span></p>
+
+
+Fewer global data centers compared to AWS and Azure; Smaller market
+
+
+
+share.
+
+
 
 </td>
+
+
+
+
+
+
+
+<td>
+
+
+
+Limited enterprise features compared to many other cloud providers;
+
+
+
+<br />
+
+
+
+Linux-centric platform with no native support for Windows.
+
+
+
+</td>
+
+
 
 </tr>
+
+
+
+
+
+
+
+<tr><td collspan="4">Pricing</td></tr>
+
+
+
+
+
+
 
 <tr>
 
-<td>
 
-<p><span style="font-weight: 400;">Free trial</span></p>
 
-</td>
+<td>Pay-as-you-go model</td>
 
-<td>
 
-<p><span style="font-weight: 400;">Three different types of free offers (including a 12-month free period)</span></p>
 
-</td>
+<td>Pay-as-you-go pricing</td>
 
-<td>
 
-<p><span style="font-weight: 400;">Free account with $200 credit</span></p>
 
-<p><span style="font-weight: 400;">to try Azure tools within 30 days</span></p>
+<td>Pay-as-you-go model</td>
 
-</td>
 
-<td>
 
-<p><span style="font-weight: 400;">$300 in free credits for new users to test and deploy workloads</span></p>
+<td>Structured pricing for different cloud offerings</td>
 
-</td>
 
-<td>
-
-<p><span style="font-weight: 400;">60-day trial period with free $200 credit</span></p>
-
-</td>
 
 </tr>
+
+
+
+
+
+
+
+<tr><td colspan="4">Free trial</td></tr>
+
+
+
+
+
+
 
 <tr>
 
-<td>
 
-<p><span style="font-weight: 400;">Storage</span></p>
-
-</td>
 
 <td>
 
-<p><span style="font-weight: 400;">Scalable storage solutions like S3 for object storage and EBS for block storage</span></p>
+
+
+Three different types of free offers (including a 12-month free
+
+
+
+period)
+
+
 
 </td>
+
+
+
+
+
+
 
 <td>
 
-<p><span style="font-weight: 400;">Solutions like Blob Storage and Disk Storage suitable for businesses with different needs</span></p>
+
+
+Free account with $200 credit to try Azure tools within 30 days
+
+
 
 </td>
+
+
+
+
+
+
 
 <td>
 
-<p><span style="font-weight: 400;">Scalable managed solutions, including Cloud Storage service for storing unstructured data</span></p>
+
+
+$300 in free credits for new users to test and deploy workloads
+
+
 
 </td>
 
-<td>
 
-<p><span style="font-weight: 400;">Scalable block storage and S3-compatible object storage solutions</span></p>
 
-</td>
+
+
+
+
+<td>60-day trial period with free $200 credit</td>
+
+
 
 </tr>
+
+
+
+
+
+
+
+<tr><td colspan="4">Storage</td></tr>
+
+
+
+
+
+
 
 <tr>
 
-<td>
 
-<p><span style="font-weight: 400;">AI/ML tools</span></p>
-
-</td>
 
 <td>
 
-<p><span style="font-weight: 400;">Comprehensive suite including SageMaker for building, training, and deploying models</span></p>
+
+
+Scalable storage solutions like S3 for object storage and EBS for
+
+
+
+block storage
+
+
 
 </td>
+
+
+
+
+
+
 
 <td>
 
-<p><span style="font-weight: 400;">Azure Machine Learning allows organizations to build and deploy models</span></p>
+
+
+Solutions like Blob Storage and Disk Storage suitable for businesses
+
+
+
+with different needs
+
+
 
 </td>
+
+
+
+
+
+
 
 <td>
 
-<p><span style="font-weight: 400;">Wide range of AI and machine learning products, including Vertex AI Agent Builder</span></p>
+
+
+Scalable managed solutions, including Cloud Storage service for
+
+
+
+storing unstructured data
+
+
 
 </td>
+
+
+
+
+
+
 
 <td>
 
-<p><span style="font-weight: 400;">Basic AI/ML capabilities suitable for smaller projects</span></p>
+
+
+Scalable block storage and S3-compatible object storage solutions
+
+
 
 </td>
+
+
 
 </tr>
+
+
+
+<tr>
+
+
+
+<td colspan="4">AI/ML tools</td></tr>
+
+
+
+
+
+
+
+<tr>
+
+
+
+<td>
+
+
+
+Comprehensive suite including SageMaker for building, training, and
+
+
+
+deploying models
+
+
+
+</td>
+
+
+
+
+
+
+
+<td>
+
+
+
+Azure Machine Learning allows organizations to build and deploy
+
+
+
+models
+
+
+
+</td>
+
+
+
+
+
+
+
+<td>
+
+
+
+Wide range of AI and machine learning products, including Vertex AI
+
+
+
+Agent Builder
+
+
+
+</td>
+
+
+
+
+
+
+
+<td>Basic AI/ML capabilities suitable for smaller projects</td>
+
+
+
+</tr>
+
+
 
 </tbody>
+
+
 
 </table>
 
