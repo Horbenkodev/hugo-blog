@@ -207,9 +207,3 @@ Additionally, this approach enhances user experience by delivering seamlessly in
 To offer such financial services to businesses, you need to have a reliable tech partner with relevant expertise by your side. At Anadea, we have solid experience in building different types of web, mobile, [SaaS](https://anadea.info/services/saas-development), and other solutions for clients from different industries, with banking and finance being one of our focus domains.
 
 We do our best to stay aware of all the latest tech trends in the finance world and know what customers expect to get today. [Share your ideas with us](https://anadea.info/free-project-estimate) and our experts will find the best approach to your project realization!
-
-Planning to offer your own embedded finance solutions?
-
-We will help you launch unique products that will seamlessly bring financial services closer to their end users.
-
-Get estimates
