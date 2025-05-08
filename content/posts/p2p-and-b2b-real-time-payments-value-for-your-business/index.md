@@ -90,7 +90,7 @@ B2B real-time payments are reshaping the way organizations deal with their core 
 
 ![](amazon-and-microsoft-stay-ahead-in-global-cloud-market.png)
 
-Here’s how key business processes and operations are enhanced with RTP technologies..
+Here’s how key business processes and operations are enhanced with RTP technologies.
 
 ### Invoicing
 
