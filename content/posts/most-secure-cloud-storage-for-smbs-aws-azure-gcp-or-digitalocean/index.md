@@ -41,7 +41,7 @@ However, to fully leverage the [benefits of cloud computing](https://anadea.info
 
 In 2024, the global cloud services market size reached US$618 billion. Now it is expected to hit the mark of around [US$2,726.94 billion](https://www.precedenceresearch.com/cloud-services-market) by 2034, which means that a CAGR over the forecast period will be 16%.
 
-![](cloud-services-market-size 2024-to-2034-usd-billion-.png)
+![](image-1.png)
 
 In 2025, cloud computing continues to evolve in accordance with general tech trends and changing business needs.
 
@@ -49,7 +49,7 @@ For example, it’s worth mentioning that organizations are increasingly adoptin
 
 According to the recently published [report](https://www.rackspace.com/blog/2025-state-cloud-report), in 2025, nearly 27% of businesses are expected to rely on private clouds. At the same time, 17% will use hybrid solutions. It is interesting that 48% of respondents admitted that hybrid cloud solutions will be of significant importance for their IT operations within the next 1-2 years.
 
-![](key-components-of decentralized-blockchain-architecture-1-.png)
+![](image2.png)
 
 The integration of [Artificial Intelligence (AI)](https://anadea.info/services/ai-software-development) into cloud services is among other trends in this space. Cloud providers are investing heavily in AI capabilities. Many of them can offer access to such features as advanced analytics, machine learning, and natural language processing tools. This can fully revolutionize the way businesses work with vast amounts of data.
 
