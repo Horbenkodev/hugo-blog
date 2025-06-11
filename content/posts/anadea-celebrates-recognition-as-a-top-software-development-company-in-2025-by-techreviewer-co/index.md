@@ -12,7 +12,8 @@ description: Discover why Anadea was named a top software development company in
   2025 by Techreviewer.co. Explore our award-winning solutions and industry
   expertise.
 promote:
-  promote: false
+  promote: true
+  promote_url: https://anadea.info/blog/anadea-top-developer-techreviewer/
 top: true
 authors:
   - marketing-team
