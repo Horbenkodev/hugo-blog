@@ -14,7 +14,7 @@ description: Discover why Anadea was named a top software development company in
 promote:
   promote: true
   promote_url: https://anadea.info/blog/anadea-top-developer-techreviewer/
-top: true
+top: false
 authors:
   - marketing-team
 categories:
