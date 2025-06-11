@@ -12,9 +12,13 @@ description: Real-time payments are revolutionizing B2B, P2P, and cross-border
   technologies.
 promote:
   promote: false
-top: false
+top: true
+authors:
+  - business-analysis-team
 categories:
   - development
+  - app-ideas
+  - business
 industries:
   - fintech
 questionary:
