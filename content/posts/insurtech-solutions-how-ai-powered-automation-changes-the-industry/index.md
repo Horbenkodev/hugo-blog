@@ -12,6 +12,8 @@ description: Want to discover how insurtech transforms claims management through
 promote:
   promote: false
 top: false
+authors:
+  - ai-ml-team
 categories:
   - trends
 questionary:
