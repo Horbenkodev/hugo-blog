@@ -1,5 +1,5 @@
 ---
-ceoTitle: "Anadea: Top Software Development Company 2025 by Techreviewer.co"
+ceoTitle: Top Software Development Company 2025 by Techreviewer.co
 title: Anadea Celebrates Recognition as a Top Software Development Company in
   2025 by Techreviewer.co
 breadcrumbs: Top Software Development Company 2025 by Techreviewer.co
@@ -13,7 +13,9 @@ description: Discover why Anadea was named a top software development company in
   expertise.
 promote:
   promote: false
-top: false
+top: true
+authors:
+  - marketing-team
 categories:
   - news
 ---
