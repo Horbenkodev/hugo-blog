@@ -12,6 +12,7 @@ description: Discover top generative AI examples that are transforming
   our business
 promote:
   promote: true
+  promote_url: https://anadea.info/blog/gen-ai-applications-for-business/
 top: false
 authors:
   - ai-ml-team
