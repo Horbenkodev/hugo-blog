@@ -257,127 +257,68 @@ Without proper training, data tools may be misused or misinterpreted, which limi
 
 Let’s briefly compare the benefits and risks of using big data in education.
 
-`<table>`
 
-`<thead>`
-
-`<tr>`
-
-`<th>`
-
-`<p><span style="font-weight: 400;">Aspect</span></p>`
-
-`</th>`
-
-`<th>`
-
-`<p><span style="font-weight: 400;">Benefits</span></p>`
-
-`</th>`
-
-`<th>`
-
-`<p><span style="font-weight: 400;">Risks</span></p>`
-
-`</th>`
-
-`</tr>`
-
-`</thead>`
-
-`<tbody>`
-
-`<tr>`
-
-`<td>`
-
-`<p><span style="font-weight: 400;">Personalization</span></p>`
-
-`</td>`
-
-`<td>`
-
-`<p><span style="font-weight: 400;">Big data tools allow institutions to provide tailored learning paths and personalized content.&nbsp;</span></p>`
-
-`</td>`
-
-`<td>`
-
-`<p><span style="font-weight: 400;">The use of personalized learning plans can lead to over-reliance on automated decisions without human oversight.</span></p>`
-
-`</td>`
-
-`</tr>`
-
-`<tr>`
-
-`<td>`
-
-`<p><span style="font-weight: 400;">Efficiency for institutions</span></p>`
-
-`</td>`
-
-`<td>`
-
-`<p><span style="font-weight: 400;">Big data helps streamline administrative and academic processes.</span></p>`
-
-`</td>`
-
-`<td>`
-
-`<p><span style="font-weight: 400;">The implementation of data technologies requires significant investments and specific tech infrastructure.&nbsp;</span></p>`
-
-`</td>`
-
-`</tr>`
-
-`<tr>`
-
-`<td>`
-
-`<p><span style="font-weight: 400;">Performance monitoring&nbsp;</span></p>`
-
-`</td>`
-
-`<td>`
-
-`<p><span style="font-weight: 400;">Big data can provide real-time insights into student progress and learning gaps.</span></p>`
-
-`</td>`
-
-`<td>`
-
-`<p><span style="font-weight: 400;">There is a risk of misinterpretation or misuse of performance data.</span></p>`
-
-`</td>`
-
-`</tr>`
-
-`<tr>`
-
-`<td>`
-
-`<p><span style="font-weight: 400;">Predictive analytics&nbsp;</span></p>`
-
-`</td>`
-
-`<td>`
-
-`<p><span style="font-weight: 400;">Such tools support early interventions and improved retention.</span></p>`
-
-`</td>`
-
-`<td>`
-
-`<p><span style="font-weight: 400;">Inaccurate predictions may lead to unfair labeling.</span></p>`
-
-`</td>`
-
-`</tr>`
-
-`</tbody>`
-
-`</table>`
+<table>
+<thead>
+<tr>
+<th>
+<p><span style="font-weight: 400;">Aspect</span></p>
+</th>
+<th>
+<p><span style="font-weight: 400;">Benefits</span></p>
+</th>
+<th>
+<p><span style="font-weight: 400;">Risks</span></p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Personalization</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Big data tools allow institutions to provide tailored learning paths and personalized content.&nbsp;</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">The use of personalized learning plans can lead to over-reliance on automated decisions without human oversight.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Efficiency for institutions</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Big data helps streamline administrative and academic processes.</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">The implementation of data technologies requires significant investments and specific tech infrastructure.&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Performance monitoring&nbsp;</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Big data can provide real-time insights into student progress and learning gaps.</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">There is a risk of misinterpretation or misuse of performance data.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Predictive analytics&nbsp;</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Such tools support early interventions and improved retention.</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Inaccurate predictions may lead to unfair labeling.</span></p>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Future Trends in Edtech and Big Data
 
