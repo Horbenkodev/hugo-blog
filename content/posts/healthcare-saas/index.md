@@ -42,7 +42,7 @@ SaaS (Software as a Service) is the most popular software delivery model in the 
 
 In our article, we are going to talk about the peculiarities of SaaS in healthcare and explain the benefits of this model for both patients and healthcare providers.
 
-##  What Is Healthcare SaaS?
+## What Is Healthcare SaaS?
 
 SaaS in healthcare refers to cloud-based software solutions that are delivered over the internet and accessed via a web browser. It means that users do not need to download and further install such apps on their smartphones, tablets, laptops, or PCs. They can get access to such applications and the provided data from any device, from any location, and at any time.
 
@@ -64,7 +64,7 @@ If you still have doubts about whether the launch of a medical SaaS app is a goo
 * **Faster deployment.** SaaS solutions require minimal installation and setup.
 * **Scalability and flexibility.** SaaS platforms can seamlessly scale up/down with the growing/decreasing number of patients or locations. Moreover, they can support telehealth features, remote access, and multi-location, which is crucial for distributed healthcare systems.
 
-{{< advert_with_cta title="Holistic SaaS platforms, Engineered for People!" description="undefined" button="Know more here!" url="https://anadea.info/services/saas-development" >}}
+{{< advert_with_cta title="Holistic SaaS platforms" description="Engineered for People!" button="Know more here!" url="https://anadea.info/services/saas-development" >}}
 
 ## Key Use Cases of SaaS in Healthcare
 
@@ -74,7 +74,7 @@ Today, SaaS healthcare solutions are used in different domains and for different
 
 Apps for online healthcare consultations have been actively gaining popularity since 2020, when the first coronavirus lockdowns began. Though the pandemic is over, the demand for such applications is not going to fall. For example, while in 2023, the telehealth and telemedicine market size was $214.55 billion, in 2025, it is already over $286.22 billion. In 2034, it is expected to reach [$1,046.96 billion](https://www.towardshealthcare.com/insights/telehealth-and-telemedicine-market-sizing). Such rise can be explained with the numerous benefits both telemedicine and telehealth bring:
 
-![5 Key Benefits of Telehealth and Telemedicine](key-components-of decentralized-blockchain-architecture.png)
+!\[5 Key Benefits of Telehealth and Telemedicine](key-components-of decentralized-blockchain-architecture.png)
 
 [Know more about Telemedicine advantages and the real cost for implementation in our article!](https://anadea.info/blog/cost-of-telehealth-implementation/)
 
@@ -196,7 +196,7 @@ In the table below, you can find a brief summary of our comparison.
 
 <td>
 
-<p>Deployment&nbsp;</p>
+<p><strong>Deployment</strong></p>
 
 </td>
 
@@ -218,7 +218,7 @@ In the table below, you can find a brief summary of our comparison.
 
 <td>
 
-<p>Maintenance cost</p>
+<p><strong>Maintenance cost</strong></p>
 
 </td>
 
@@ -240,7 +240,7 @@ In the table below, you can find a brief summary of our comparison.
 
 <td>
 
-<p>Customization</p>
+<p><strong>Customization</strong></p>
 
 </td>
 
@@ -262,7 +262,7 @@ In the table below, you can find a brief summary of our comparison.
 
 <td>
 
-<p>Compliance risks</p>
+<p><strong>Compliance risks</strong></p>
 
 </td>
 
@@ -284,7 +284,7 @@ In the table below, you can find a brief summary of our comparison.
 
 <td>
 
-<p>Control</p>
+<p><strong>Control</strong></p>
 
 </td>
 
@@ -319,7 +319,7 @@ Security and compliance should be among the top priorities for software vendors,
 
 ### Key Compliance Standards for Healthcare SaaS
 
-####  HIPAA (Health Insurance Portability and Accountability Act)
+#### HIPAA (Health Insurance Portability and Accountability Act)
 
 This act, which was signed into law in 1996, applied to US-based healthcare entities and their technology partners. [HIPAA](https://www.hhs.gov/hipaa/index.html) establishes national standards for privacy and security of patient data (how it must be used, disclosed, and protected), as well as breach notifications (when and how organizations must report security incidents).
 
