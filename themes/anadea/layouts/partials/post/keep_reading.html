@@ -4,7 +4,46 @@
     <h3 class="keepReading__title">Keep reading</h3>
     <div class="keepReading__content">
       {{ range . }}
-        {{ partial "shared/post_card.html" . }}
+        <article class="postCard">
+          <div class="postCard__content">
+            <div class="postCard__head">
+              {{ partial "utils/image.html" (dict
+                "class" "postCard__image"
+                "width" 360
+                "height" 280
+                "src" .Params.image
+                "alt" (or .Params.alt .Params.title)
+                "sizes" "(max-width: 768px) 100vw, (max-width: 992px) 50vw, 33vw"
+                "ctx" .
+              ) }}
+            </div>
+
+            <div class="postCard__caption">
+              <div class="postInfo">
+                {{ with .GetTerms "authors" }}
+                  {{ with index . 0 }}
+                    {{ $baseName := path.BaseName .Path }}
+                    {{ with index site.Data.authors $baseName }}
+                      <a class="postInfo__link" href="{{ .RelPermalink }}">{{ .title }}</a>
+                    {{ end }}
+                  {{ end }}
+                {{ end }}
+              </div>
+
+              <h2 class="postCard__title">
+                <a href="{{ .RelPermalink }}" class="postCard__link">
+                  {{ or .Params.ceoTitle .Params.title }}
+                </a>
+              </h2>
+
+              <p class="postCard__description">{{ .Params.description }}</p>
+
+              <div class="postCard__tags">
+                {{ partial "shared/tags.html" . }}
+              </div>
+            </div>
+          </div>
+        </article>
       {{ end }}
     </div>
   </section>
