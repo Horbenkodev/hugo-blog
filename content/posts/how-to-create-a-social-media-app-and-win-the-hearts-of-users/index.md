@@ -11,7 +11,7 @@ description: Want to learn how to create a social media app from scratch? Read
   our article to discover key features, tech stack, and development steps for
   your project.
 promote:
-  promote: true
+  promote: false
 top: false
 authors:
   - mobile-development-team
