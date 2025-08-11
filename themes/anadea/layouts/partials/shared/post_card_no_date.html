@@ -1,0 +1,32 @@
+<article class="postCard">
+  <div class="postCard__content">
+    <div class="postCard__head">
+      {{ $params := dict
+        "class" "postCard__image"
+        "width" 360
+        "height" 280
+        "src" .Params.image
+        "alt" (or .Params.alt .Params.title)
+        "sizes" "(max-width: 768px) 100vw, (max-width: 992px) 50vw, 33vw"
+        "ctx" .
+      }}
+      {{ partial "utils/image.html" $params }}
+    </div>
+
+    <div class="postCard__caption">
+      {{ partial "shared/post_info_no_date.html" . }}
+
+      <h2 class="postCard__title">
+        <a href="{{ .RelPermalink }}" class="postCard__link">
+          {{ or .Params.ceoTitle .Params.title }}
+        </a>
+      </h2>
+
+      <p class="postCard__description">{{ .Params.description }}</p>
+
+      <div class="postCard__tags">
+        {{ partial "shared/tags.html" . }}
+      </div>
+    </div>
+  </div>
+</article>
