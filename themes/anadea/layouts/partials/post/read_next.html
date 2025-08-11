@@ -1,11 +1,11 @@
 <article class="readNext">
   <h3>Read next</h3>
   {{ with .PrevInSection }}
-    {{ partial "shared/post_card.html" . }}
+    {{ partial "shared/post_card_no_date.html" . }}
   {{ else }}
     {{ with .Site.RegularPages }}
       {{ with index . 0 }}
-        {{ partial "shared/post_card.html" . }}
+        {{ partial "shared/post_card_no_date.html" . }}
       {{ end }}
     {{ end }}
   {{ end }}
