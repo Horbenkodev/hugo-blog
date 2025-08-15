@@ -2,7 +2,7 @@
 ceoTitle: "How to Create a Marketplace App: Everything You Need to Know"
 title: "How to Build a Marketplace App: Comprehensive Guide for Businesses"
 breadcrumbs: How to Build a Marketplace App
-slug: how-to-build-a-marketplace-app
+slug: how-to-build-a-marketplace-app-guide
 draft: false
 publishDate: 2025-08-15T09:38:00+03:00
 image: shopping-cart-laptop.jpg
