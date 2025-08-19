@@ -1,10 +1,15 @@
+{{- $href := .Destination | safeURL -}}
+{{- $u := urls.Parse $href -}}
+{{- $host := $u.Host -}}
+{{- $isHTTP := strings.HasPrefix .Destination "http" -}}
+
+{{- $isExternal := and $isHTTP (and (ne $host "") (ne $host "anadea.info") (not (strings.HasSuffix $host ".anadea.info"))) -}}
+
 <a
-  href="{{ .Destination | safeURL }}"
-  {{ with .Title }}
-    title="{{ . }}"
-  {{ end }}
-  {{ if strings.HasPrefix .Destination "http" }}
-    target="_blank" rel="noopener"
+  href="{{ $href }}"
+  {{ with .Title }} title="{{ . }}"{{ end }}
+  {{ if $isHTTP }}
+    target="_blank" rel="{{ if $isExternal }}noopener nofollow{{ else }}noopener{{ end }}"
   {{ end }}
 >
   {{- .Text | safeHTML -}}
