@@ -4,7 +4,7 @@ title: How to Create a Custom Food Delivery App
 breadcrumbs: ""
 slug: build-food-delivery-app
 draft: false
-publishDate: 2020-11-23T00:00:00.000Z
+publishDate: 2025-09-04T09:37:00+03:00
 image: jon-tyson-uuzufw4qepk-unsplash.jpg
 og_image: jon-tyson-uuzufw4qepk-unsplash.jpg
 description: "Learn how to create a food delivery app from scratch. Step-by-step
