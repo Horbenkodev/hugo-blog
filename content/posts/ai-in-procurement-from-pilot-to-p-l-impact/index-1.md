@@ -3,7 +3,7 @@ ceoTitle: "Artificial Intelligence in Procurement: Comprehensive Guide"
 title: "AI in Procurement: From Pilot to P&L Impact"
 breadcrumbs: AI in Procurement
 slug: ai-in-procurement
-draft: true
+draft: false
 publishDate: 2025-09-05T09:41:00+03:00
 image: entrepreneurs-small-business-sme-independent-men-work-home-use-smartphones-laptops-commercial-checking-online-marketing-packing-boxes-sme-sellers-concept-ecommerce-team-online-sales.jpg
 og_image: entrepreneurs-small-business-sme-independent-men-work-home-use-smartphones-laptops-commercial-checking-online-marketing-packing-boxes-sme-sellers-concept-ecommerce-team-online-sales.jpg
