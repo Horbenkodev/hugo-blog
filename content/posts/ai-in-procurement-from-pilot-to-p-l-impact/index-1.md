@@ -4,7 +4,7 @@ title: "AI in Procurement: From Pilot to P&L Impact"
 breadcrumbs: AI in Procurement
 slug: ai-in-procurement
 draft: true
-publishDate: 2025-09-04T17:54:00+03:00
+publishDate: 2025-09-05T09:41:00+03:00
 image: entrepreneurs-small-business-sme-independent-men-work-home-use-smartphones-laptops-commercial-checking-online-marketing-packing-boxes-sme-sellers-concept-ecommerce-team-online-sales.jpg
 og_image: entrepreneurs-small-business-sme-independent-men-work-home-use-smartphones-laptops-commercial-checking-online-marketing-packing-boxes-sme-sellers-concept-ecommerce-team-online-sales.jpg
 description: Want to enhance your procurement processes with AI? Read about the
