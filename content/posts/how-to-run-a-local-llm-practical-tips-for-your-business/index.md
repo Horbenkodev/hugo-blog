@@ -5,8 +5,8 @@ breadcrumbs: How to Run a Local LLM
 slug: how-to-run-local-llm
 draft: false
 publishDate: 2025-09-11T11:08:00+03:00
-image: opened-ai-chat-laptop.jpg
-og_image: opened-ai-chat-laptop.jpg
+image: purple-background-with-purple-background-word-purple.jpg
+og_image: purple-background-with-purple-background-word-purple.jpg
 description: If you are considering running a local LLM, explore our guide where
   we share our practical tips on how to ensure its secure and efficient
   performance.
@@ -52,7 +52,7 @@ Local LLMs are large language models that are deployed and operated directly on 
 * **Full control**. You have great freedom in fine-tuning and customizing your model. Moreover, you can deeply integrate it with your other digital tools.
 * **Lower long-term cost**. You will need to invest in the initial setup. But as its usage doesn’t depend on API calls, it will be cheaper for your business than the introduction of cloud-based solutions.
 
-### Trade-offs of Local LLMs
+### Trade-Offs of Local LLMs
 
 * **Hardware constraints**. Local LLMs usually require strong hardware. Running large models requires substantial memory (RAM/VRAM) and powerful GPUs, often with cluster support.
 * **Maintenance burden**. You need to manage updates, security, and scaling on your own.
@@ -256,8 +256,6 @@ To facilitate your decision-making process, we have prepared a questionnaire.
 
 ![](group-17730.png)
 
-
-
 {{< advert_with_cta title="Want to build an AI agent for your business?" description="Our team has solid expertise in creating highly efficient agents for different domains!" button="Learn more" url="https://anadea.info/services/custom-ai-agent-development" >}}
 
 As both approaches to running LLMs have their pluses and minuses, a lot of organizations today adopt a hybrid strategy:
@@ -342,7 +340,7 @@ Prompt-tuning is a recommended path for the majority of companies. As a rule, bu
 * LoRA (low-rank adaptation) doesn't include retraining all the billions of parameters in a large model. Instead, it inserts small “adapter” layers into the network and only trains them.
 * QLoRA (quantized LoRA) is an optimized version of LoRA. It is designed to run on consumer GPUs with limited VRAM (even large models can be trained on a single 24GB GPU). However, its setup is more challenging than in the case of using the original LoRA.
 
-### How to prepare data for model training?  
+### How to Prepare Data for Model Training?
 
 The quality of data is one of the key conditions for efficient model functioning. [Some researchers claim](https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset/) that only a dataset (not an architecture or hyperparameters) determines model behavior. And one of the major concerns is related to the fact that the increasing costs of training data can be a reason for the centralization of AI development.
 
