@@ -66,7 +66,7 @@ There are several types of chatbots that are currently applied across various do
 
 **AI-driven chatbots** are powered by natural language processing and machine learning. These technologies allow them to interpret queries more flexibly. They can understand intents and respond to a wider range of inputs. Customer service chatbots are often AI-powered. Thanks to this, they can efficiently process different inputs and quickly react to them in a human-like manner.
 
-* Intent-based chatbots map user input to pre-defined “intents” (like check balance or reset password).
+* Intent-based chatbots map user input to pre-defined "intents" (like check balance or reset password).
 * LLM-based chatbots use large language models to generate answers dynamically. Such tools can handle open-ended queries.
 
 ### What Is an AI Assistant?
@@ -532,7 +532,7 @@ Though the difference between AI agent and chatbot is quite significant, it does
 
 ### Customer Service Automation
 
-Chatbots can handle routine queries such as “What’s my order status?” or “What’s your refund policy?”. Though the interaction with chatbots may lack human touch, according to the survey performed by [Uberall](https://uberall.com/en-us/company/press-releases/study-80-of-consumers-report-chatbot-experiences-as-positive-yet-nearly-60-still-lack-strong-enthusiasm-for-the-technology-according-to-new-uberall-study), 80% of people who have experience in communicating with chatbots describe it as generally positive.
+Chatbots can handle routine queries such as "What’s my order status?" or "What’s your refund policy?". Though the interaction with chatbots may lack human touch, according to the survey performed by [Uberall](https://uberall.com/en-us/company/press-releases/study-80-of-consumers-report-chatbot-experiences-as-positive-yet-nearly-60-still-lack-strong-enthusiasm-for-the-technology-according-to-new-uberall-study), 80% of people who have experience in communicating with chatbots describe it as generally positive.
 
 AI agents can perform much more complicated tasks than chatbots. They can be trained to initiate refunds within policy limits or reschedule deliveries by connecting to logistics APIs.
 
@@ -548,7 +548,7 @@ For instance, a US city managed to [save over 3,000 IT Helpdesk hours](https://w
 
 ### HR
 
-The introduction of a simple chatbot can significantly improve employee satisfaction. With such solutions at hand, people do not need to wait for long hours (or days) before HR staff are free to answer their standard questions. A chatbot can provide answers to such requests as “What are my healthcare benefits?” or “How many PTO days do I have left?” just within seconds.
+The introduction of a simple chatbot can significantly improve employee satisfaction. With such solutions at hand, people do not need to wait for long hours (or days) before HR staff are free to answer their standard questions. A chatbot can provide answers to such requests as "What are my healthcare benefits?" or "How many PTO days do I have left?" just within seconds.
 
 AI agents are built for multi-step tasks, which require interaction with different systems. They can be trained to update PTO balances, process adjustments, and complete onboarding tasks (like creating accounts, assigning training, etc.).
 
