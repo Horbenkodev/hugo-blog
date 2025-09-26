@@ -4,7 +4,7 @@ title: "How to Build an AI Travel Agent: An End-to-End Guide"
 breadcrumbs: How to Build an AI Travel Agent
 slug: how-to-build-ai-travel-agent
 draft: false
-publishDate: 2025-09-26T14:56:00+03:00
+publishDate: 2025-09-26T15:24:00+03:00
 image: woman-taking-photos-sea-by-car.jpg
 og_image: woman-taking-photos-sea-by-car.jpg
 description: Complete technical guide for developing AI travel agents. Learn
