@@ -67,12 +67,12 @@ In this context, we need to define two categories of AI agents: non-critical and
 Non-critical agents are those that do not affect sensitive data or safety. For example, internal productivity tools are included in this group. In this case, secure enough means:
 
 * The agent does not leak private data.
-* It can’t be hijacked into performing harmful actions.
+* It can't be hijacked into performing harmful actions.
 * It has guardrails that prevent misuse under reasonable threat models. 
 
 Nevertheless, residual risks may remain, including low-probability but high-impact vulnerabilities.
 
-For critical agents, secure enough means the agent’s threat model is rigorously defined. All external interactions, tools, and memories are isolated. There are fail-safes, human oversight, and continuous auditing. All this is intended to ensure that even low-probability failures won’t lead to catastrophic harm.
+For critical agents, secure enough means the agent's threat model is rigorously defined. All external interactions, tools, and memories are isolated. There are fail-safes, human oversight, and continuous auditing. All this is intended to ensure that even low-probability failures won't lead to catastrophic harm.
 
 The range of AI use cases is continuously expanding. From automating workflows to unlocking new customer experiences, artificial intelligence helps companies fully reshape their operations. If you want to learn more about this, you can explore our article about the most common [GenAI applications for business](https://anadea.info/blog/gen-ai-applications-for-business/).
 
@@ -192,7 +192,7 @@ There are different ways attackers can manipulate AI agents and get access to yo
 
 <td>
 
-<p><span style="font-weight: 400;">A malicious plugin silently sends all agent queries to an attacker&rsquo;s server.</span></p>
+<p><span style="font-weight: 400;">A malicious plugin silently sends all agent queries to an attacker's server.</span></p>
 
 </td>
 
@@ -202,7 +202,7 @@ There are different ways attackers can manipulate AI agents and get access to yo
 
 <td>
 
-<p><span style="font-weight: 400;">Agent hijacking&nbsp;</span></p>
+<p><span style="font-weight: 400;">Agent hijacking</span></p>
 
 </td>
 
@@ -214,7 +214,7 @@ There are different ways attackers can manipulate AI agents and get access to yo
 
 <td>
 
-<p><span style="font-weight: 400;">While browsing a competitor&rsquo;s site, a sales bot finds a hidden text, which tells it to email customer data to an attacker.</span></p>
+<p><span style="font-weight: 400;">While browsing a competitor's site, a sales bot finds a hidden text, which tells it to email customer data to an attacker.</span></p>
 
 </td>
 
@@ -292,13 +292,13 @@ There are different ways attackers can manipulate AI agents and get access to yo
 
 ## AI Agents Security by Design
 
-Before we proceed to discussing what you can do to protect your systems, it’s worth paying attention to the key principles that will help you build secure AI agents. These principles are based on embedding safety and control into their architecture, which means that you should act proactively.
+Before we proceed to discussing what you can do to protect your systems, it's worth paying attention to the key principles that will help you build secure AI agents. These principles are based on embedding safety and control into their architecture, which means that you should act proactively.
 
 ### Least Privilege and Capability Scoping
 
 Grant agents only the permissions that they really need for their specific tasks. At the same time, introduce OAuth scopes, per-tool role-based access control (RBAC), and allowlists. This is required to restrict access to sensitive systems and data.
 
-For example, a document-summarization agent should have read access only to approved folders. Write access should not be provided. As a result, it won’t be able to introduce any changes to system-critical directories.
+For example, a document-summarization agent should have read access only to approved folders. Write access should not be provided. As a result, it won't be able to introduce any changes to system-critical directories.
 
 ### Separation of Duties
 
@@ -337,7 +337,7 @@ This layer focuses on what the agent works with. It covers user input, documents
 
 ### Model (Reasoning) Layer
 
-Measures introduced at this layer will help you protect the model’s internal decision-making and interaction with tools. Here’s what can be done:
+Measures introduced at this layer will help you protect the model's internal decision-making and interaction with tools. Here's what can be done:
 
 * **System prompt locking**. You can prevent untrusted instructions from overriding base system prompts.
 * **Tool-execution gates**. The introduction of these gates will presuppose the requirement for verification or approvals before tool calls.
@@ -347,7 +347,7 @@ Measures introduced at this layer will help you protect the model’s internal d
 
 ### Tooling Layer
 
-To perform their tasks, agents often act through APIs, plugins, or scripts. That’s why the importance of protecting these integrations shouldn’t be underestimated.
+To perform their tasks, agents often act through APIs, plugins, or scripts. That's why the importance of protecting these integrations shouldn't be underestimated.
 
 * **Strong schemas and parameter validation**. You need to make sure that inputs and outputs conform to strict formats.
 * **Dry-run modes and approvals**. It is vital to test tool actions before execution. For high-risk operations, we strongly recommend you introduce just-in-time approvals.
@@ -356,7 +356,7 @@ To perform their tasks, agents often act through APIs, plugins, or scripts. That
 
 ### Environment (Runtime) Layer
 
-The runtime environment serves as the agent’s protective shell as it isolates it from critical systems, sensitive data, and the broader network. Among the key strategies that can be introduced at this level, we should name:
+The runtime environment serves as the agent's protective shell as it isolates it from critical systems, sensitive data, and the broader network. Among the key strategies that can be introduced at this level, we should name:
 
 * **Isolated containers and virtual machines**. This isolation will prevent the agent from accessing unintended resources.
 * **Network egress proxy**. It is intended to restrict external communications only to approved endpoints.
