@@ -4,7 +4,7 @@ title: "Security of AI Agents: Practical Tips for Business"
 breadcrumbs: Security of AI Agents
 slug: how-secure-are-ai-agents
 draft: false
-publishDate: 2025-10-01T10:42:00+03:00
+publishDate: 2025-10-01T12:40:00+03:00
 image: lock-laptop-as-computer-protection-cyber-safety-concept-neon-background-private-data.jpg
 og_image: lock-laptop-as-computer-protection-cyber-safety-concept-neon-background-private-data.jpg
 description: Why is it important to ensure AI agents' security, and how should
