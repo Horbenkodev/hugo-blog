@@ -19,6 +19,8 @@ categories:
   - ai-ml
   - trends
   - business
+industries:
+  - private-equity
 ---
 The rapid development of artificial intelligence draws corporations from numerous sectors to adopt the technology into their operations. It comes as no surprise, as the automation, predictive capabilities, and actionable insights derived from these models promise to transform business strategies.
 
