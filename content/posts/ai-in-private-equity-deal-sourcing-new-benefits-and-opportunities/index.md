@@ -19,6 +19,8 @@ categories:
   - ai-ml
   - business
   - business-analysis
+industries:
+  - private-equity
 questionary:
   - question: What are the risks of AI in deal sourcing?
     answer: One of the biggest issues is related to the black box problem, which
