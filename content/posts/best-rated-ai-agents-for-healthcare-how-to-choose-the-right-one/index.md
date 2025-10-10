@@ -208,7 +208,7 @@ Healthcare AI agents have a huge potential to fully transform the industry. Thei
 
 <td>
 
-<p><span style="font-weight: 400;">AI-driven systems can continuously monitor patient data from remote devices. If any early warning signs are detected, clinicians will be immediately notified. As a result, hospital readmissions can be significantly reduced.&nbsp;</span></p>
+<p><span style="font-weight: 400;">AI-driven systems can continuously monitor patient data from remote devices. If any early warning signs are detected, clinicians will be immediately notified. As a result, hospital readmissions can be significantly reduced.</span></p>
 
 </td>
 
@@ -278,7 +278,7 @@ Another solution from this category is [Fathom Medical Coding AI](https://fathom
 
 In July 2025, Infermedica introduced its [pre-triage voice agent ](https://infermedica.com/blog/articles/when-ai-picks-up-pre-triage-voice-agent-for-call-centers)for healthcare call centers. It can conduct structured pre-triage assessments before a nurse takes the call. The agent combines LLMs, speech recognition, and speech synthesis with a probabilistic knowledge graph. As a result, it can ensure that clinical reasoning remains transparent and evidence-based. According to the company, standard triage takes 11-15 minutes per patient. Infermedica’s AI voice agent for healthcare can trim 3-4 minutes off each call by pre-gathering symptoms and essential patient details.
 
-Another example of the best AI agents for healthcare is [Hippocratic AI](https://www.hippocraticai.com/). It provides advanced AI “voice nurses” that are powered by medical-grade language models. These solutions can assist clinicians in virtual consultations and remote monitoring.
+Another example of the best AI agents for healthcare is [Hippocratic AI](https://www.hippocraticai.com/). It provides advanced AI "voice nurses" that are powered by medical-grade language models. These solutions can assist clinicians in virtual consultations and remote monitoring.
 
 ## Should You Buy or Build an AI Agent for Healthcare?
 
