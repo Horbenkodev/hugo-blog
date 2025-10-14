@@ -53,7 +53,7 @@ To establish cooperation with the right tech team, you need to have a clear eval
 
 Here are the key aspects that you should take into account.
 
-### Must-Have Capabilities 
+### Must-Have Capabilities
 
 * Proven experience in building AI agents for your domain or use case;
 * End-to-end services (from ideation to agent deployment and performance monitoring);
@@ -69,7 +69,7 @@ Here are the key aspects that you should take into account.
 
 ### Technical Fit
 
-You should evaluate whether the company’s tech stack is compatible with your infrastructure and roadmap. Here are the technologies and tools that are usually required for custom AI agent development.
+You should evaluate whether the company's tech stack is compatible with your infrastructure and roadmap. Here are the technologies and tools that are usually required for custom AI agent development.
 
 * Frameworks: LlamaIndex, Hugging Face, OpenAI SDK, Anthropic SDK, etc.;
 * Integrations: APIs, webhooks, CRM/ERP connectors, workflow tools (Zapier, Slack, Notion);
@@ -78,7 +78,7 @@ You should evaluate whether the company’s tech stack is compatible with your i
 
 ### Safety and Compliance Fit
 
-AI agents often deal with highly sensitive information. Robust data protection and system governance are a must. That’s why it is essential to verify that a development company follows stringent security and compliance standards.
+AI agents often deal with highly sensitive information. Robust data protection and system governance are a must. That's why it is essential to verify that a development company follows stringent security and compliance standards.
 
 What you should check in advance:
 
@@ -144,7 +144,7 @@ Lately, it has been pushing heavily into agentic AI. Its team builds autonomous 
 
 ![](5-2-.png)
 
-The range of the company’s offerings includes Cognizant Agent Foundry. It combines process transformation advisory and agent development. Its key peculiarity is a rich library of pre-built agents that can help greatly streamline the process of designing and deploying AI agents tailored to specific business needs.
+The range of the company's offerings includes Cognizant Agent Foundry. It combines process transformation advisory and agent development. Its key peculiarity is a rich library of pre-built agents that can help greatly streamline the process of designing and deploying AI agents tailored to specific business needs.
 
 Apart from this, Cognizant provides its customers with access to its Neuro AI multi-agent accelerator. It is a studio-like platform that allows users to visualize multi-agent networks and experiment with them. 
 
@@ -156,15 +156,15 @@ The company can not only build agents. It offers end-to-end services that cover 
 
 ![](7-2-.png)
 
-Deviniti closely cooperates with customers in the finance, banking, and legal sectors, which are strictly regulated. That’s why the team deeply understands the existing compliance constraints and knows how to address the existing issues. That’s a huge advantage for any AI deployment where regulation is a concern. 
+Deviniti closely cooperates with customers in the finance, banking, and legal sectors, which are strictly regulated. That's why the team deeply understands the existing compliance constraints and knows how to address the existing issues. That's a huge advantage for any AI deployment where regulation is a concern. 
 
-Many companies in regulated industries worry about sending data to external clouds or third-party platforms. To minimize potential risks, Deviniti offers self-hosted deployments, which helps to increase trust and privacy. However, it’s vital to remember that self-hosted deployments and integrations with internal enterprise systems are complex and require additional time and resources. 
+Many companies in regulated industries worry about sending data to external clouds or third-party platforms. To minimize potential risks, Deviniti offers self-hosted deployments, which helps to increase trust and privacy. However, it's vital to remember that self-hosted deployments and integrations with internal enterprise systems are complex and require additional time and resources. 
 
 ### ELEKS
 
 ELEKS is a global software engineering and consulting firm, founded in 1991. 
 
-The company’s service portfolio is wide. It provides AI and data science, custom software development, product design, cybersecurity services, and others. Agentic AI development is one of the directions that ELEKS works in.
+The company's service portfolio is wide. It provides AI and data science, custom software development, product design, cybersecurity services, and others. Agentic AI development is one of the directions that ELEKS works in.
 
 ![](10.png)
 
@@ -176,7 +176,7 @@ The team can become a reliable partner for enterprises that need agent-augmented
 
 Markovate is a full-stack AI and tech solutions company, with special emphasis on generative AI and AI agents, as well as conversational and automation systems.
 
-The company’s multi-capability stack, which covers vision, conversation, generative content, and automation, enables the team to build hybrid agents that combine modalities. For instance, their custom solutions can automate process documents, participate in conversations and provide reliable decision support.
+The company's multi-capability stack, which covers vision, conversation, generative content, and automation, enables the team to build hybrid agents that combine modalities. For instance, their custom solutions can automate process documents, participate in conversations and provide reliable decision support.
 
 ![](3-4-.png)
 
@@ -188,7 +188,7 @@ This data and AI consulting firm was founded in 2013 and since that time, it has
 
 ![](9.png)
 
-Xomnia has a well-established, holistic approach to AI agent development. Strategy, data platform, infrastructure, integration, and ongoing maintenance are comprehensive parts of the company’s offering. All this helps ensure that agents will be reliable and secure in production.
+Xomnia has a well-established, holistic approach to AI agent development. Strategy, data platform, infrastructure, integration, and ongoing maintenance are comprehensive parts of the company's offering. All this helps ensure that agents will be reliable and secure in production.
 
 The company works with a big client base, which currently includes a lot of prominent names, such as ING, Polaroid, KLM, and VodafoneZiggo.
 
