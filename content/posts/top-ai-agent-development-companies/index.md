@@ -114,7 +114,7 @@ We have attentively studied the market to prepare this list of the best companie
 
 Anadea is a software development company with more than 25 years of experience in the tech industry. Over the years of its work, its team has accumulated rich expertise in building various types of custom software, web, and mobile solutions for many domains. Since 2019, the company has been closely focused on [AI and ML development services](https://anadea.info/services/ai-software-development).
 
-![](1-3-.png)
+![](anadea.png)
 
 Today, its portfolio includes 16+ AI projects in cooperation with global enterprises and 9+ advanced AI agents created to address the needs of companies working in different industries. For example, a deal sourcing agent built for a private equity firm helps increase the speed of investment data preparation by 8 times. 
 
@@ -130,7 +130,7 @@ The team builds advanced AI agents that can retain context, anticipate user need
 
 The covered use cases include legal document automation, deal sourcing, automated grading, tutoring, appointment scheduling, invoice processing, and many others.
 
-![](2-5-.png)
+![](tensorway.png)
 
 Tensorway works with businesses from a wide range of industries, including but not limited to edtech, healthcare, manufacturing, automotive, real estate, and energy.
 
@@ -142,7 +142,7 @@ Cognizant is a strong player in IT services, consulting, and business process ou
 
 Lately, it has been pushing heavily into agentic AI. Its team builds autonomous agents that can perform tasks, make decisions, adapt, collaborate, self-organize, and integrate with existing systems.
 
-![](5-2-.png)
+![](cognizant.png)
 
 The range of the company's offerings includes Cognizant Agent Foundry. It combines process transformation advisory and agent development. Its key peculiarity is a rich library of pre-built agents that can help greatly streamline the process of designing and deploying AI agents tailored to specific business needs.
 
@@ -154,7 +154,7 @@ Deviniti is an IT consulting and software-related services company that has incr
 
 The company can not only build agents. It offers end-to-end services that cover all the project steps, from discovery, design, MVP development to deployment and post-deployment optimization.
 
-![](7-2-.png)
+![](deviniti.png)
 
 Deviniti closely cooperates with customers in the finance, banking, and legal sectors, which are strictly regulated. That's why the team deeply understands the existing compliance constraints and knows how to address the existing issues. That's a huge advantage for any AI deployment where regulation is a concern. 
 
@@ -166,7 +166,7 @@ ELEKS is a global software engineering and consulting firm, founded in 1991.
 
 The company's service portfolio is wide. It provides AI and data science, custom software development, product design, cybersecurity services, and others. Agentic AI development is one of the directions that ELEKS works in.
 
-![](10.png)
+![](eleks.png)
 
 The company offers its tech support in building and deploying agents of different types for various industries, such as retail, entertainment, finance, insurance, logistics, etc.
 
@@ -178,7 +178,7 @@ Markovate is a full-stack AI and tech solutions company, with special emphasis o
 
 The company's multi-capability stack, which covers vision, conversation, generative content, and automation, enables the team to build hybrid agents that combine modalities. For instance, their custom solutions can automate process documents, participate in conversations and provide reliable decision support.
 
-![](3-4-.png)
+![](markovate.png)
 
 Apart from this, today, Markovate is one of the trusted voice AI agent development companies. One of its products is a voice agent for restaurants. This no-code solution is enriched with voice recognition and natural language understanding features. It can communicate with customers in different languages. As a result, restaurants can automate and streamline their operations, like ordering and table booking.
 
@@ -186,7 +186,7 @@ Apart from this, today, Markovate is one of the trusted voice AI agent developme
 
 This data and AI consulting firm was founded in 2013 and since that time, it has been helping organizations become more data-driven and AI-capable. The company has an explicit offering around agentic AI and builds solutions that integrate agent-like capabilities.
 
-![](9.png)
+![](xomnia.png)
 
 Xomnia has a well-established, holistic approach to AI agent development. Strategy, data platform, infrastructure, integration, and ongoing maintenance are comprehensive parts of the company's offering. All this helps ensure that agents will be reliable and secure in production.
 
@@ -198,7 +198,7 @@ It is a full-service digital agency that has built its reputation in eCommerce. 
 
 These solutions seamlessly interact with platforms like Magento and Shopify. They can handle complex catalog logic, manage product data, and maintain smooth interaction with analytics dashboards.
 
-![](4-5-.png)
+![](scandiweb.png)
 
 Today, scandiweb builds:
 
@@ -212,7 +212,7 @@ Brainvire Infotech is a global IT consulting and digital transformation company.
 
 The company offers both consulting and engineering, which helps clients not just to create tools but also understands how to ensure long-term efficiency and scalability of their AI systems.
 
-![](8.png)
+![](brainvire.png)
 
 Brainvire Infotech can help its clients in building different types of AI agents. For example, its team has experience in developing customer support AI agents that facilitate human-like, natural conversations across multiple communication channels. Another highly demanded type of solution is intelligent workflow agents. They automate and optimize business operations for greater efficiency.
 
@@ -222,7 +222,7 @@ Systango is a digital engineering company that currently provides services in AI
 
 Its conversational agents can understand natural language. Thanks to this, they can respond across channels in real time.
 
-![](6-2-.png)
+![](systango.png)
 
 Apart from this, the company offers GenAI Studio. This platform offers a robust library of pre-built agents and reusable components. With its help, businesses can prototype new features and MVPs without significant time investments.
 
