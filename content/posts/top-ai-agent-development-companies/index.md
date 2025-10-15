@@ -2,7 +2,7 @@
 ceoTitle: Best AI Agent Development Companies for Your Project
 title: Top AI Agent Development Companies
 breadcrumbs: "Top AI Agent Development Companies "
-slug: top-ai-agent-development-companies
+slug: ai-agent-development-companies
 draft: false
 publishDate: 2025-10-15T11:45:00+03:00
 image: low-angle-view-built-structure.jpg
