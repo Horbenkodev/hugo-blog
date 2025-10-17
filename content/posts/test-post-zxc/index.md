@@ -10,3 +10,5 @@ promote:
 top: false
 ---
 ![](case_studies_5.jpg)
+
+![](industries-10.jpg)
