@@ -4,7 +4,7 @@ title: Test Post zxc
 draft: false
 publishDate: 2025-10-17T15:26:00+03:00
 image: case_studies_4.jpg
-description: Test Post zxc
+description: Test Post zxc1
 promote:
   promote: false
 top: false
