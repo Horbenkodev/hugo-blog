@@ -151,8 +151,15 @@ jobs:
           fi
 
       - name: Auto Merge Pull Request
-        uses: pascalgn/automerge-action@v0.16.0
+        uses: pascalgn/automerge-action@v0.16.0 # Or another suitable auto-merge action
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          merge_method: squash
+          # Configuration for the auto-merge action (e.g., merge strategy, required status checks)
+          merge_method: squash # or merge, rebase
+          # required_statuses: 'build, test' # Example of required status checks
+
+      - name: Merge into Main
+        run: |
+          git rebase origin/main
+          git push origin main
