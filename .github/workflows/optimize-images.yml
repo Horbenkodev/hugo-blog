@@ -144,10 +144,14 @@ jobs:
 
             [skip ci]"
 
-            git push
-            git rebase main
-            git push main
             echo "✅ Changes committed and pushed!"
           else
             echo "ℹ️ No changes to commit - images are already optimized"
           fi
+
+      - name: Auto Merge Pull Request
+        uses: pascalgn/automerge-action@v0.16.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          merge_method: squash
