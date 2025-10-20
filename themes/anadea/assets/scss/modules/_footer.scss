@@ -137,11 +137,49 @@ $hover-color: var(--persian-rose);
   &__achievements {
     display: flex;
     flex-wrap: wrap;
-    gap: 2px 40px;
+    grid-column-gap: 40px;
     align-items: center;
     justify-content: center;
     width: 100%;
     margin-bottom: 42px;
+
+    .clutch-widget {
+      align-items: center;
+      overflow: visible !important;
+
+      >* {
+        margin: 0 !important;
+        max-height: none;
+        overflow: visible !important;
+        padding: 0 !important;
+      }
+
+      iframe {
+        overflow: visible !important;
+      }
+    }
+  }
+
+  &__awards-group {
+    display: contents;
+  }
+
+  &__clutch-widget {
+    align-items: center;
+    display: flex;
+    height: 55px;
+    justify-content: flex-start;
+    margin: 0;
+    max-width: 215px;
+    padding: 0;
+    width: 215px;
+
+    .clutch-widget {
+      display: inline-block;
+      height: 50px;
+      overflow: visible;
+      width: 215px;
+    }
   }
 
   &__wrapperlink {
@@ -226,6 +264,10 @@ $hover-color: var(--persian-rose);
     &__achievements {
       justify-content: space-between;
     }
+
+    &__withUa {
+      margin: 0;
+    }
   }
 }
 
@@ -273,14 +315,10 @@ $hover-color: var(--persian-rose);
     }
 
     &__copyright {
+      flex: 0 1 38%;
       order: 1;
       width: auto;
       text-align: initial;
-    }
-
-    &__withUa {
-      margin-right: auto;
-      margin-left: 30px;
     }
 
     &__achievements {
@@ -288,6 +326,11 @@ $hover-color: var(--persian-rose);
       width: auto;
       margin-bottom: 0;
       text-align: initial;
+    }
+
+    &__withUa {
+      order: initial;
+      margin: 0;
     }
   }
 }
@@ -395,6 +438,55 @@ $hover-color: var(--persian-rose);
 
     &__icon {
       width: 40px;
+    }
+  }
+}
+
+@media screen and (width >= 1200px) {
+  .footer {
+    &__copyright {
+      flex: 0 1 35%;
+    }
+  }
+}
+
+@media screen and (width < 768px) {
+  .footer {
+    &__achievements {
+      justify-content: space-between;
+    }
+
+    &__withUa {
+      flex-basis: 100%;
+      justify-content: center;
+      margin-bottom: 0;
+      order: -3;
+    }
+
+    &__wrapperlink {
+      flex-basis: 100%;
+      justify-content: center;
+      order: -2;
+      text-align: center;
+    }
+
+    &__clutch-widget {
+      flex-basis: 100%;
+      justify-content: center;
+      margin: 0 auto 20px;
+      max-width: none;
+      order: -1;
+      width: 215px;
+    }
+
+    &__awards-group {
+      align-items: center;
+      display: flex;
+      flex-basis: 100%;
+      gap: 40px;
+      justify-content: center;
+      order: 0;
+      width: 100%;
     }
   }
 }

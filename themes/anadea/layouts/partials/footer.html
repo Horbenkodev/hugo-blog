@@ -136,36 +136,52 @@
         <div>© 2000-{{ time.Now.Year }} All rights reserved</div>
         <a class="footer__copyrightItem" href="https://anadea.info/privacy-terms">Privacy &amp; Terms</a>
       </div>
-      <div class="footer__withUa">
-        <img alt="" width="35" height="33" loading="lazy" src="/blog/img/heart.svg" />
-        <a class="" href="https://anadea.info/stand-with-ukraine">
-          <div class="footer__withUa--item">
-            We stand with<br />
-            Ukraine!
-          </div>
-        </a>
-      </div>
       <div class="footer__achievements">
+        <div class="footer__withUa">
+          <img alt="" width="35" height="33" loading="lazy" src="/blog/img/heart.svg" />
+          <a class="" href="https://anadea.info/stand-with-ukraine">
+            <div class="footer__withUa--item">
+              We stand with<br />
+              Ukraine!
+            </div>
+          </a>
+        </div>
+
         <a href="https://www.goodfirms.co/company/anadea" target="_blank" class="footer__wrapperlink">
           <span class="sr-only">Anadea on Goodfirm</span>
           <img alt="Goodfirms logo with five stars" src="/blog/img/social_icons/goodfirms.svg" />
         </a>
-        <a
-          href="https://clutch.co/profile/anadea?utm_source=widget&amp;utm_medium=1&amp;utm_campaign=widget&amp;utm_content=logo&amp;utm_term=0.0.0.0#highlights"
-          target="_blank"
-          class="footer__wrapperlink"
-        >
-          <span class="sr-only">Anadea on Clutch</span>
-          <img alt="Clutch logo with five stars" src="/blog/img/social_icons/clutch.svg" />
-        </a>
-        <a href="https://anadea.info/awards-achievements" target="_blank" class="footer__wrapperlink">
-          <span class="sr-only">Anadea on Awards Achievements</span>
-          <img alt="Awards achievements" loading="lazy" src="/blog/img/social_icons/awards.svg" />
-        </a>
-        <a href="https://itrate.co/mob-app-developers/all" target="_blank" class="footer__wrapperlink">
-          <span class="sr-only">Anadea on the Top Mobile App Developmers</span>
-          <img alt="Top Mobile App Development Company" src="/blog/img/social_icons/company.svg" />
-        </a>
+
+        <!-- Clutch widget (заменяет статичный логотип Clutch) -->
+        <div class="footer__clutch-widget">
+          <script type="text/javascript" src="https://widget.clutch.co/static/js/widget.js"></script>
+          <div class="clutch-widget"
+               data-url="https://widget.clutch.co"
+               data-widget-type="14"
+               data-height="50"
+               data-nofollow="false"
+               data-expandifr="true"
+               data-clutchcompany-id="23937">
+          </div>
+        </div>
+
+        <noscript>
+          <a href="https://clutch.co/profile/anadea" target="_blank" rel="nofollow" class="footer__wrapperlink">
+            <span class="sr-only">Anadea on Clutch</span>
+            <img alt="Clutch logo (fallback)" width="42" height="48" loading="lazy" src="/blog/img/social_icons/clutch.svg" />
+          </a>
+        </noscript>
+
+        <div class="footer__awards-group">
+          <a href="https://anadea.info/awards-achievements" target="_blank" class="footer__wrapperlink">
+            <span class="sr-only">Anadea on Awards Achievements</span>
+            <img alt="Awards achievements" loading="lazy" src="/blog/img/social_icons/awards.svg" />
+          </a>
+          <a href="https://itrate.co/mob-app-developers/all" target="_blank" class="footer__wrapperlink">
+            <span class="sr-only">Anadea on the Top Mobile App Developmers</span>
+            <img alt="Top Mobile App Development Company" src="/blog/img/social_icons/company.svg" />
+          </a>
+        </div>
       </div>
     </div>
   </div>
