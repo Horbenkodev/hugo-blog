@@ -2,12 +2,14 @@
   --main-text: var(--black);
   --meta-text: var(--emperor);
   --background-color: var(--concrete);
+  --background-image: var(--bg-light);
 }
 
 @mixin dark {
   --main-text: var(--white);
-  --meta-text: var(--silver);
+  --meta-text: var(--white);
   --background-color: var(--mine-shaft);
+  --background-image: var(--bg-dark);
 }
 
 .keepInTouch {
@@ -15,15 +17,25 @@
   display: flex;
   flex-direction: column;
   gap: 20px;
-  padding: 20px 30px;
+  padding: 24px;
   font-size: 16px;
   background-color: var(--background-color);
+  background-image: var(--background-image);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
   border-radius: 24px;
 
   &__title {
     margin: 0;
-    font-size: 18px;
+    font-size: 28px;
     font-weight: 700;
+  }
+
+  &__svg {
+    width: 120%;
+    left: -20px;
+    position: relative;
   }
 
   &__info {
@@ -50,8 +62,6 @@
   }
 
   &__description {
-    @include multiline-ellipsis(3);
-
     font-weight: 400;
     color: var(--meta-text);
   }
@@ -59,16 +69,21 @@
   &__action {
     position: relative;
     display: flex;
-    gap: 8px;
     align-items: center;
-    font-weight: 700;
-    color: var(--persian-rose);
+    font-size: 18px;
+    border-radius: 8px;
+    color: var(--white);
+    background-color: var(--persian-rose);
     text-decoration-line: none;
-    background: none;
+    padding: 12px 18px;
     border: none;
 
     &:hover {
-      text-decoration-line: underline;
+      background-color: var(--persian-rose-100);
+    }
+
+    &:active {
+      background-color: var(--persian-rose-200);
     }
   }
 }

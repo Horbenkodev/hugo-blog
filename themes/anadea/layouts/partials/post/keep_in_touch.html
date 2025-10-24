@@ -18,8 +18,12 @@
   {{ $salePersonData = index $.Site.Data.sales ((index $sales 0) | urlize) }}
 {{ end}}
 
-<article class="keepInTouch">
-  <h3 class="keepInTouch__title">Speak to an expert</h3>
+<article
+  class="keepInTouch"
+  style="--bg-light: url('{{ "img/keepInTouch-bg-light.png" | relURL }}'); --bg-dark: url('{{ "img/keepInTouch-bg-dark.png" | relURL }}')"
+>
+  <h3 class="keepInTouch__title">Done reading? Time for doing</h3>
+    <img class="keepInTouch__svg" src="{{ "img/keep_in_touch.svg" | relURL }}" alt="" loading="lazy" />
     <div class="keepInTouch__info">
 
       {{ $params := dict
@@ -36,14 +40,8 @@
 
       <div class="keepInTouch__name">{{ $salePersonData.name }}</div>
     </div>
-  <div class="keepInTouch__description">Have a project in mind? Let's talk details!</div>
+  <div class="keepInTouch__description">Get a custom proposal built for your eyes only. Describe your goal, and we'll craft a detailed strategy on how we can achieve it together.</div>
   <a class="keepInTouch__action" href="{{ $salePersonData.link }}">
-    <span>Book a call</span>
-    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none">
-      <path
-        fill="#DC296C"
-        d="M11.265 3.205a.75.75 0 0 0-1.03 1.09l5.239 4.955H2.75a.75.75 0 0 0 0 1.5h12.726l-5.241 4.957a.75.75 0 1 0 1.03 1.09l6.418-6.07a.995.995 0 0 0 .3-.566.753.753 0 0 0-.002-.329.995.995 0 0 0-.298-.557l-6.418-6.07Z"
-      ></path>
-    </svg>
+    <span>Book a 15-minute call</span>
   </a>
 </article>
