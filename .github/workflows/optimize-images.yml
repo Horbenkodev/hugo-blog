@@ -1,0 +1,139 @@
+name: Optimize Images
+
+# Run when content is published (merged) to main via DecapCMS
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'content/posts/**/*.jpg'
+      - 'content/posts/**/*.jpeg'
+      - 'content/posts/**/*.png'
+      - 'static/img/**/*.jpg'
+      - 'static/img/**/*.jpeg'
+      - 'static/img/**/*.png'
+  workflow_dispatch:  # Allow manual trigger
+
+permissions:
+  contents: write  # Only what's needed for git push
+
+jobs:
+  optimize:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    # Skip if this is our own commit (prevent infinite loop)
+    if: |
+      github.event_name == 'workflow_dispatch' ||
+      !contains(github.event.head_commit.message, '🖼️ Resize images')
+
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Install libvips with caching
+        uses: awalsh128/cache-apt-pkgs-action@latest
+        with:
+          packages: libvips-tools
+          version: 1.0
+
+      - name: Resize images to fit within 1920x1920px
+        run: |
+          set -euo pipefail
+
+          echo "🎯 Starting image resize..."
+          echo "Current images size:"
+          du -sh content/posts/ 2>/dev/null || echo "No content/posts directory"
+          du -sh static/img/ 2>/dev/null || echo "No static/img directory"
+
+          # Use files for counters to avoid subshell issues
+          echo "0" > /tmp/resized_count
+
+          # Process both directories
+          DIRS="content/posts static/img"
+
+          # Resize all images to fit within 1920x1920px (using libvips for 4-8x speedup)
+          echo "📐 Resizing images to fit within 1920x1920px with libvips..."
+          while IFS= read -r img; do
+            [ -z "$img" ] && continue
+            # Get image dimensions using vips
+            width=$(vips im_header_int width "$img" 2>/dev/null || echo "0")
+            height=$(vips im_header_int height "$img" 2>/dev/null || echo "0")
+            [ "$width" = "0" ] && continue
+            [ "$height" = "0" ] && continue
+
+            # Check if either dimension is greater than 1920
+            if [ "$width" -gt 1920 ] || [ "$height" -gt 1920 ]; then
+              original_size=$(stat -c%s "$img" 2>/dev/null || stat -f%z "$img" 2>/dev/null)
+
+              # Get file extension and create temp file
+              ext="${img##*.}"
+              temp_file="/tmp/vips_$(basename "$img")"
+
+              # Resize to temp file with proper format (preserving aspect ratio)
+              # --size 1920x1920> means "shrink only if larger, keeping aspect ratio"
+              vipsthumbnail "$img" --size 1920x1920\> -o "$temp_file"
+
+              # Replace original with resized version (in-place)
+              mv "$temp_file" "$img"
+
+              new_size=$(stat -c%s "$img" 2>/dev/null || stat -f%z "$img" 2>/dev/null)
+              saved=$((original_size - new_size))
+              echo "✅ Resized: $img (${width}x${height}px → max 1920x1920px, saved $(numfmt --to=iec $saved 2>/dev/null || echo "${saved} bytes"))"
+              echo $(($(cat /tmp/resized_count) + 1)) > /tmp/resized_count
+            fi
+          done < <(find $DIRS -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" \) 2>/dev/null)
+
+          echo ""
+          echo "✨ Resize complete!"
+          echo "- Resized: $(cat /tmp/resized_count) images to fit within 1920x1920px"
+          echo ""
+          echo "New images size:"
+          du -sh content/posts/ 2>/dev/null || echo "No content/posts directory"
+          du -sh static/img/ 2>/dev/null || echo "No static/img directory"
+
+      - name: Show resize results
+        run: |
+          # Count images in both directories
+          DIRS="content/posts static/img"
+          jpg_count=$(find $DIRS -type f \( -name "*.jpg" -o -name "*.jpeg" \) 2>/dev/null | wc -l)
+          png_count=$(find $DIRS -type f -name "*.png" 2>/dev/null | wc -l)
+
+          echo "📊 Image Statistics:"
+          echo "- JPEG images: $jpg_count"
+          echo "- PNG images: $png_count"
+          echo "- Total images: $((jpg_count + png_count))"
+
+          # Show largest images
+          echo ""
+          echo "🏆 Largest images after resize:"
+          find $DIRS -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" \) 2>/dev/null -exec ls -lh {} \; | sort -k5 -rh | head -10
+
+      - name: Commit resized images
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # Check if there are changes in either directory
+          if [ -n "$(git status --porcelain content/posts/ static/img/ 2>/dev/null)" ]; then
+            # Add all image files from both directories
+            git add content/posts/ static/img/ 2>/dev/null || true
+            git reset -- '*.md' 2>/dev/null || true  # Don't add markdown files
+
+            git commit -m "🖼️ Resize images to fit within 1920x1920px for faster builds
+
+            Automated image resize to reduce file sizes and speed up Hugo build on Netlify."
+
+            git push
+            echo "✅ Changes committed and pushed!"
+          else
+            # No changes needed, but create empty commit to trigger Netlify deploy
+            git commit --allow-empty -m "✅ All images already optimal size (≤1920x1920px)
+
+            No resize needed. Images are already within optimal dimensions for web performance."
+
+            git push
+            echo "✅ Empty commit created - images already optimal!"
+          fi
