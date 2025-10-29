@@ -82,3 +82,6 @@ Web Server is available at `http://localhost:1313/`
 [Redirects Playground](https://redirects-playground.netlify.app/)
 
 [Making redirects work for you - troubleshooting and debugging](https://answers.netlify.com/t/support-guide-making-redirects-work-for-you-troubleshooting-and-debugging/13433)
+
+## Suggestion
+Use your brain, please
