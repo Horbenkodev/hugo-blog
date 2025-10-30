@@ -8,7 +8,7 @@ backend:
 media_folder: "content/posts/{{slug}}"
 public_folder: ""
 
-publish_mode: simple
+publish_mode: editorial_workflow
 
 collections:
   - name: "posts"
