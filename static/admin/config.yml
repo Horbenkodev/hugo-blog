@@ -14,14 +14,10 @@ collections:
   - name: "posts"
     label: "Posts"
     label_singular: "Post"
+    description: "🟥 Draft | 🟩 Top Post | 🟨 Promoted"
     folder: "content/posts"
     path: "{{slug}}/index"
-    summary: "{{draft | ternary('<div style='width: 6px; height: 100%; position: absolute; left: 0; top: 0; background:	#e32636;'></div>','')}}
-              {{top | ternary('<div style='width: 6px; height: 100%; position: absolute; left: 0; top: 0; background: #b0bf1a;'></div>','')}}
-              {{promote.promote | ternary('<div style='width: 6px; height: 100%; position: absolute; left: 0; top: 0; background: #ffbf00;'></div>','')}}
-              {{title}}
-              {{fields.authors[0] | ternary(' • ', '')}}
-              {{fields.authors[0] | ternary(fields.authors[0], '')}}"
+    summary: "{{draft | ternary('🟥 ','')}}{{top | ternary('🟩 ','')}}{{promote.promote | ternary('🟨 ','')}}{{title}}{{fields.authors[0] | ternary(' • ', '')}}{{fields.authors[0] | ternary(fields.authors[0], '')}}"
     create: true
     fields:
       - {label: "Title", name: "ceoTitle", widget: "string", required: false}
