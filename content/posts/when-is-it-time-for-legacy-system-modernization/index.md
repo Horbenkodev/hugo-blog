@@ -1,6 +1,6 @@
 ---
 ceoTitle: "How to Modernize Legacy Software: Expert Tips"
-title: When Is It Time for Legacy System Modernization?
+title: "Legacy Software Modernization: When Is It Time to Start?"
 breadcrumbs: How to Modernize Legacy Software
 slug: /how-to-modernize-legacy-software
 draft: false
@@ -40,6 +40,8 @@ questionary:
       an IT budget. As a result, you have very limited capital for building new
       features, which stalls your ability to innovate.
 ---
+{{< advert >}}A legacy system needs modernization when the cost of maintaining it exceeds the value of new features, and the team is afraid to touch the code due to unpredictable bugs and an end-of-life stack. There are four modernization strategies (rehost, refactor, re-architect, rebuild) chosen based on downtime tolerance, code state, and budget.{{< /advert >}}
+
 As of 2026, 70% of enterprise apps still rely on legacy tech stacks and, as [Deloitte](https://www.linkedin.com/posts/deloitte_deloitteengineering-etciocloudsummit-aiatscale-activity-7428671907979247616-U8vJ/) reports, maintenance of such systems requires more than 70% of IT budgets. Organizations often postpone upgrades to avoid service interruptions. However, the delay of your legacy software modernization results in a growing maintenance tax in the form of slower releases and higher infrastructure bills.
 
 This article details how to transition to modern architecture without taking your services offline. We will focus on the signals for upgrading legacy systems and the benefits of different modernization approaches. Our goal is to help you choose the path based on your needs and risk tolerance.
