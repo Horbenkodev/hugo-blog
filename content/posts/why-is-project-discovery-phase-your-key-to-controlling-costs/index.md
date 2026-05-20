@@ -191,6 +191,8 @@ The table below demonstrates clear differences between projects with discovery a
 
 </table>
 
+
+
 {{< advert_with_cta title="Most rewrites are paid for twice" description="Once when you build the wrong thing, and again when you build it correctly. Discovery is the cheapest way to skip the first invoice." button="See how we run discovery" url="https://anadea.info/free-project-estimate" >}}
 
 ## What Happens If We Skip Project Discovery Phase?
