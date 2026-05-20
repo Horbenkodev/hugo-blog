@@ -29,20 +29,20 @@
 
     <div class="header__menu">
       <ul class="menu" id="{{ $uniqID }}">
-        <li class="menu__item" data-submenu-item="portfolio">
-          <button class="menu__link">Portfolio</button>
-        </li>
         <li class="menu__item" data-submenu-item="services">
           <button class="menu__link">Services</button>
         </li>
-        <li class="menu__item" data-submenu-item="resources">
-          <button class="menu__link">Resources</button>
+        <li class="menu__item" data-submenu-item="success_stories">
+          <button class="menu__link">Success stories</button>
         </li>
         <li class="menu__item" data-submenu-item="industries">
           <button class="menu__link">Industries</button>
         </li>
-        <li class="menu__item" data-submenu-item="about">
-          <button class="menu__link">About</button>
+        <li class="menu__item" data-submenu-item="company">
+          <button class="menu__link">Company</button>
+        </li>
+        <li class="menu__item" data-submenu-item="insights">
+          <button class="menu__link">Insights</button>
         </li>
       </ul>
       <a href="https://anadea.info/free-project-estimate" class="header__callToAction">Get Estimate</a>
@@ -51,20 +51,20 @@
     {{ partial "menu/mobile_menu.html" . }}
   </div>
 
-  <div id="portfolio" class="header__submenuItem" style="display: none;">
-    {{ partial "menu/portfolio.html" . }}
-  </div>
   <div id="services" class="header__submenuItem" style="display: none;">
     {{ partial "menu/services.html" . }}
   </div>
-  <div id="resources" class="header__submenuItem" style="display: none;">
-    {{ partial "menu/resources.html" . }}
+  <div id="success_stories" class="header__submenuItem" style="display: none;">
+    {{ partial "menu/success_stories.html" . }}
   </div>
   <div id="industries" class="header__submenuItem" style="display: none;">
     {{ partial "menu/industries.html" . }}
   </div>
-  <div id="about" class="header__submenuItem" style="display: none;">
-    {{ partial "menu/about.html" . }}
+  <div id="company" class="header__submenuItem" style="display: none;">
+    {{ partial "menu/company.html" . }}
+  </div>
+  <div id="insights" class="header__submenuItem" style="display: none;">
+    {{ partial "menu/insights.html" . }}
   </div>
 
   <div class="header__shadow"></div>
