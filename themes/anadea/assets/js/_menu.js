@@ -7,7 +7,6 @@ function burgerToggle() {
 
   function activate() {
     burger.classList.add('active');
-    burger.setAttribute('aria-expanded', isActive);
     drawer.classList.add('active');
     shadow.classList.add('active');
     document.body.style.overflow = 'hidden';
@@ -16,24 +15,27 @@ function burgerToggle() {
   function deactivate() {
     document.body.style.overflow = '';
     burger.classList.remove('active');
-    burger.setAttribute('aria-expanded', isActive);
     drawer.classList.remove('active');
     shadow.classList.remove('active');
   }
 
   function handleClick() {
     isActive = !isActive;
+    burger.setAttribute('aria-expanded', isActive);
+    isActive ? activate() : deactivate();
+  }
 
+  function handleResize() {
     if (isActive) {
-      activate();
-    } else {
+      isActive = false;
+      burger.setAttribute('aria-expanded', false);
       deactivate();
     }
   }
 
   burger.addEventListener('click', handleClick);
   shadow.addEventListener('click', handleClick);
-  window.addEventListener('resize', deactivate);
+  window.addEventListener('resize', handleResize);
 }
 
 function mobileTabsClick() {
@@ -56,54 +58,93 @@ function mobileTabsClick() {
   });
 }
 
+function hideAllSubMenuItems() {
+  document.querySelectorAll('.header__submenuItem').forEach((block) => {
+    block.style.display = 'none';
+  });
+  document.querySelectorAll('.menu__item .menu__link').forEach((link) => {
+    link.classList.remove('active');
+  });
+}
+
 function menuHover() {
   const submenuItems = document.querySelectorAll('.header__submenuItem');
   const menuItems = document.querySelectorAll('.menu__item');
 
-  function hideAllSubMenuItems() {
-    submenuItems.forEach((block) => {
-      block.style.display = 'none';
-    });
-
-    menuItems.forEach((item) => {
-      item.querySelector('.menu__link').classList.remove('active');
-    });
-  }
-
-  function handleMenuItemMouseEvent(item) {
+  function showSubMenuItem(item) {
     const target = item.getAttribute('data-submenu-item');
     const submenuItem = document.getElementById(target);
     const link = item.querySelector('.menu__link');
 
     setTimeout(() => {
-      if (submenuItem) {
-        if (submenuItem.style.display === 'block') {
-          submenuItem.style.display = 'none';
-          link.classList.remove('active');
-        } else {
-          hideAllSubMenuItems();
-          submenuItem.style.display = 'block';
-          link.classList.add('active');
-        }
+      if (!submenuItem) return;
+
+      if (submenuItem.style.display === 'block') {
+        submenuItem.style.display = 'none';
+        link.classList.remove('active');
+      } else {
+        hideAllSubMenuItems();
+        submenuItem.style.display = 'block';
+        link.classList.add('active');
       }
     }, 200);
   }
 
   menuItems.forEach((item) => {
-    item.addEventListener('mouseenter', (event) => {
-      handleMenuItemMouseEvent(event.currentTarget);
+    item.addEventListener('mouseenter', () => showSubMenuItem(item));
+    item.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') showSubMenuItem(item);
     });
 
-    item.addEventListener('keydown', (event) => {
-      if (event.key === 'Enter') {
-        handleMenuItemMouseEvent(event.currentTarget);
-      }
+    item.addEventListener('focusout', () => {
+      const target = item.getAttribute('data-submenu-item');
+      const submenuItem = document.getElementById(target);
+
+      setTimeout(() => {
+        const focus = document.activeElement;
+        if (submenuItem && !submenuItem.contains(focus) && !item.contains(focus)) {
+          submenuItem.style.display = 'none';
+          item.querySelector('.menu__link').classList.remove('active');
+        }
+      }, 0);
     });
   });
 
   submenuItems.forEach((container) => {
     container.addEventListener('mouseleave', hideAllSubMenuItems);
+
+    container.addEventListener('focusout', () => {
+      setTimeout(() => {
+        if (!container.contains(document.activeElement)) hideAllSubMenuItems();
+      }, 0);
+    });
   });
+}
+
+function headerScrollBehavior() {
+  const header = document.querySelector('header');
+  let lastScrollTop = 0;
+
+  function handleScroll() {
+    const scrollTop = window.scrollY;
+
+    if (scrollTop <= 0) {
+      header.classList.remove('hidden');
+      lastScrollTop = 0;
+      return;
+    }
+
+    if (scrollTop > lastScrollTop) {
+      header.classList.add('hidden');
+      hideAllSubMenuItems();
+    } else {
+      header.classList.remove('hidden');
+    }
+
+    lastScrollTop = scrollTop;
+  }
+
+  window.addEventListener('scroll', handleScroll, { passive: true });
 }
 
 document.addEventListener(
@@ -112,6 +153,7 @@ document.addEventListener(
     mobileTabsClick();
     menuHover();
     burgerToggle();
+    headerScrollBehavior();
   },
   { once: true },
 );
