@@ -1,8 +1,19 @@
 $header-height-mobile: 52px;
 $header-height-desktop: 74px;
 
+header {
+  position: sticky;
+  top: 0;
+  z-index: 8;
+  transition: transform 0.3s ease;
+
+  &.hidden {
+    transform: translateY(-100%);
+  }
+}
+
 .header {
-  --background-color: var(--dark-gray);
+  --background-color: var(--black);
   --text-color: var(--white);
   --accent-color: var(--persian-rose);
 
@@ -36,16 +47,16 @@ $header-height-desktop: 74px;
     border-bottom: 2px solid var(--accent-color);
   }
 
-  &__mobileMenu {
+  &__mobileDrawer {
     position: absolute;
     top: $header-height-mobile;
     right: 0;
     z-index: 9;
     width: 100%;
-    height: 100%;
-    padding: 50px 20px 14px;
-    overflow: auto;
+    height: calc(100vh - #{$header-height-mobile});
+    overflow-y: auto;
     visibility: hidden;
+    scrollbar-width: none;
     background: var(--background-color);
     opacity: 0;
 
@@ -63,9 +74,10 @@ $header-height-desktop: 74px;
   &__callToAction {
     display: block;
     align-self: center;
-    width: 100%;
+    width: calc(100% - 40px);
     padding: 16px 18px;
-    margin-top: 140px;
+    margin: 20px;
+    font-weight: 600;
     color: var(--text-color);
     text-align: center;
     text-decoration: none;
@@ -99,8 +111,7 @@ $header-height-desktop: 74px;
     z-index: 10;
     display: none;
     width: 100%;
-    background-color: var(--dark-gray);
-    border-top: 1px solid hsl(0deg 0% 100% / 10%);
+    background-color: var(--black);
   }
 }
 
@@ -112,7 +123,7 @@ $header-height-desktop: 74px;
 
 @include sm {
   .header {
-    &__mobileMenu {
+    &__mobileDrawer {
       max-width: 400px;
     }
   }
@@ -161,7 +172,6 @@ $header-height-desktop: 74px;
     &__callToAction {
       display: inline-block;
       width: auto;
-      margin-top: unset;
       margin-left: 32px;
     }
 
@@ -172,6 +182,10 @@ $header-height-desktop: 74px;
     }
 
     &__burger {
+      display: none;
+    }
+
+    &__mobileDrawer {
       display: none;
     }
   }
