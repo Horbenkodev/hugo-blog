@@ -591,6 +591,8 @@ Most of their clients stay for years. For example, Anadea has spent over a decad
 
 **Best for**: SaaS and platform companies that need a stable, senior frontend team for the long haul.
 
+{{< advert_with_cta title="Want to see if Anadea fits your project?" description="Tell us your scope and stack on a call, and we will lay out how we would build it." button="Talk to our team" url="https://anadea.info/contacts" >}}
+
 ### **Netguru**
 
 Netguru combines product design with frontend engineering for large software projects. Launched in 2008 in Poznań, Poland, this certified B Corporation operates as one of the bigger firms on the market, with a team of several hundred people. Their primary frontend stack includes React and Vue, often paired with Node.js, Ruby, or Python on the backend.
@@ -1217,8 +1219,6 @@ The five other companies each cover a different angle of custom work, summarized
 
 </table>
 
-{{< advert_with_cta title="Speak with Anadea's engineering team" description="A quick call is all it takes to review your stack and see how a frontend team can accelerate your product." button="Schedule a call" url="https://anadea.info/free-project-estimate" >}}
-
 ## What are the best frontend development companies in Europe
 
 Anadea, Netguru, 10Clouds, Merixstudio, and Infinum are the top frontend development choices based in Europe. They all operate on Central European Time and have headquarters within the EU or wider European region. Poland, Croatia, and Spain have grown into major centers for senior engineering talent serving Western European and US markets, which is why five out of the six agencies on this list are located there.
@@ -1735,6 +1735,8 @@ For large scale, highly regulated projects, an agency's security credentials mat
 
 Large corporations usually narrow their options down to Infinum, Anadea, and Netguru. These three firms combine verified ISO 27001 security credentials with an established history of working with major brands, which is exactly what corporate procurement and compliance teams require before signing a contract.
 
+{{< advert_with_cta title="Speak with Anadea's engineering team" description="A quick call is all it takes to review your stack and see how a frontend team can accelerate your product." button="Schedule a call" url="https://anadea.info/free-project-estimate" >}}
+
 ## What tech stack do the best frontend companies use
 
 The best frontend companies in 2026 build primarily on React, with Vue, Angular, and Next.js as common companions and TypeScript underneath. React is universal across all six; the difference is the breadth of secondary frameworks, where Anadea runs the widest published stack and Thoughtbot the narrowest.
@@ -2048,8 +2050,6 @@ The best frontend companies in 2026 build primarily on React, with Vue, Angular,
 </tbody>
 
 </table>
-
-{{< advert_with_cta title="Get a frontend estimate from Anadea" description="Share your project scope to get a realistic estimate from Anadea on the stack, team size, and timeline before you commit." button="Request an estimate" url="https://anadea.info/contacts" >}}
 
 ## How to choose a frontend development company for your project
 
