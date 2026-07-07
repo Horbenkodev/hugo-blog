@@ -1,7 +1,7 @@
 {{ $file := printf "%s/index.md" .Path }}
 {{ $lastMod := (os.Stat $file).ModTime }}
 
-<div class="container container__w960">
+<div class="container container__w1140">
   {{ partial "shared/page_head.html" . }}
 
   <div class="postHead">
@@ -12,7 +12,7 @@
 
     <time class="postHead__dateInfo" datetime="{{ .PublishDate }}">Published on {{ .PublishDate | time.Format ":date_long" }}</time>
 
-    
+
     {{ $params := dict
       "class" "postHead__image"
       "width" 960

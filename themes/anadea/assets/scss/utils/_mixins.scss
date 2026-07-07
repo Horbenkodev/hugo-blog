@@ -4,9 +4,9 @@
   display: -webkit-box;
   overflow: hidden;
   text-overflow: ellipsis;
+  -webkit-line-clamp: $lines-to-show; /* start showing ellipsis when 3rd line is reached */
   white-space: pre-wrap; /* let the text wrap preserving spaces */
   -webkit-box-orient: vertical;
-  -webkit-line-clamp: $lines-to-show; /* start showing ellipsis when 3rd line is reached */
 }
 
 @mixin sr-only {

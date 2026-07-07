@@ -33,9 +33,9 @@
   }
 
   &__svg {
-    width: 120%;
-    left: -20px;
     position: relative;
+    left: -20px;
+    width: 120%;
   }
 
   &__info {
@@ -70,13 +70,13 @@
     position: relative;
     display: flex;
     align-items: center;
-    font-size: 18px;
-    border-radius: 8px;
-    color: var(--white);
-    background-color: var(--persian-rose);
-    text-decoration-line: none;
     padding: 12px 18px;
+    font-size: 18px;
+    color: var(--white);
+    text-decoration-line: none;
+    background-color: var(--persian-rose);
     border: none;
+    border-radius: 8px;
 
     &:hover {
       background-color: var(--persian-rose-100);
