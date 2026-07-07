@@ -55,21 +55,42 @@
   }
 
   table {
-    border-spacing: 0;
-    border-collapse: collapse;
-    table-layout: fixed;
     width: 100%;
+    overflow: hidden;
+    font-size: clamped(14px, 16px);
+    table-layout: fixed;
+    border-spacing: 0;
+    border-collapse: separate;
+    border: 1px solid #dddddd;
+    border-radius: 8px;
 
     th,
     td {
       padding: clamped(8px, 16px);
-      text-align: left;
-      border: 1px solid #dddddd;
-
       hyphens: auto;
-      overflow-wrap: anywhere;
+      text-align: left;
       word-break: break-word;
+      overflow-wrap: anywhere;
       white-space: normal;
+      border-right: 1px solid #dddddd;
+      border-bottom: 1px solid #dddddd;
+    }
+
+    th:last-child,
+    td:last-child {
+      border-right: none;
+    }
+
+    tr:last-child td {
+      border-bottom: none;
+    }
+
+    td, th {
+      p {
+        strong {
+          color: var(--persian-rose);
+        }
+      }
     }
 
     @media screen and (width <= 660px) {

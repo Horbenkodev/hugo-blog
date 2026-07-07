@@ -22,7 +22,7 @@
 
   {{ partial "post/post_head.html" . }}
 
-  <div class="container container__w960 postBody">
+  <div class="container container__w1140 postBody">
     {{ if ne .Fragments.Identifiers nil }}
       <article class="ToC__mobileOnly">
         <div class="ToC">
@@ -31,7 +31,7 @@
         </div>
       </article>
     {{ end }}
-    
+
 
     <div id="sentinel"></div>
     <div class="markdown">
