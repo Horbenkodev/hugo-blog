@@ -1,11 +1,13 @@
 @mixin light {
   --main-text: var(--mine-shaft);
+  --table-head: var(--alto);
   --link-text: #dc296c;
   --link-hover: #dc296c;
 }
 
 @mixin dark {
   --main-text: var(--alto);
+  --table-head: var(--mine-shaft);
   --link-text: #f12571;
   --link-hover: #f12571;
 }
@@ -86,7 +88,7 @@
 
     thead:first-child tr:first-child,
     tbody:first-child tr:first-child {
-      background-color: #dc296c;
+      background-color: var(--table-head);
     }
 
     @media screen and (width <= 660px) {
