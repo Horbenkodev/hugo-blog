@@ -69,7 +69,6 @@
       padding: clamped(8px, 16px);
       hyphens: auto;
       text-align: left;
-      word-break: break-word;
       overflow-wrap: anywhere;
       white-space: normal;
       border-right: 1px solid #dddddd;
@@ -94,9 +93,16 @@
     }
 
     @media screen and (width <= 660px) {
-      display: inline-block;
+      display: block;
       max-width: 100%;
-      overflow: auto;
+      overflow-x: auto;
+      table-layout: auto;
+      -webkit-overflow-scrolling: touch;
+
+      th,
+      td {
+        white-space: nowrap;
+      }
     }
   }
 
